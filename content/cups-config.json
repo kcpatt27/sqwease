@@ -1,0 +1,160 @@
+{
+  "sets": [
+    {
+      "id": "likes",
+      "name": "Likes and Dislikes",
+      "goal": "Talk about what you like and don't like.",
+      "cups": [
+        {
+          "cupType": 1,
+          "name": "Statement (I like X)",
+          "slot": "nounsLikes",
+          "slot": "nounsLikes",
+          "templateJa": "{j}が好きです。",
+          "templateRomaji": "{r} ga suki desu.",
+          "templateEn": "I like {e}."
+        },
+        {
+          "cupType": 2,
+          "name": "Yes/No question (Do you like X?)",
+          "slot": "nounsLikes",
+          "templateJa": "{j}が好きですか。",
+          "templateRomaji": "{r} ga suki desu ka.",
+          "templateEn": "Do you like {e}?"
+        },
+        {
+          "cupType": 3,
+          "name": "Open question (What do you like?)",
+          "fixed": true,
+          "templateJa": "何が好きですか。",
+          "templateRomaji": "Nani ga suki desu ka.",
+          "templateEn": "What do you like?"
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "name": "Studying and Work",
+      "goal": "Talk about what you study or do for work.",
+      "cups": [
+        {
+          "cupType": 1,
+          "name": "Statement (I am studying X)",
+          "slot": "nounsStudy",
+          "templateJa": "{j}を勉強しています。",
+          "templateRomaji": "{r} o benkyō shite imasu.",
+          "templateEn": "I am studying {e}."
+        },
+        {
+          "cupType": 2,
+          "name": "Yes/No question (Are you studying X?)",
+          "slot": "nounsStudy",
+          "templateJa": "{j}を勉強していますか。",
+          "templateRomaji": "{r} o benkyō shite imasu ka.",
+          "templateEn": "Are you studying {e}?"
+        },
+        {
+          "cupType": 3,
+          "name": "Open question (What are you studying?)",
+          "fixed": true,
+          "templateJa": "何を勉強していますか。",
+          "templateRomaji": "Nani o benkyō shite imasu ka.",
+          "templateEn": "What are you studying?"
+        },
+        {
+          "cupType": 1,
+          "name": "Statement (My job is X)",
+          "slot": "jobs",
+          "templateJa": "仕事は{j}です。",
+          "templateRomaji": "Shigoto wa {r} desu.",
+          "templateEn": "My job is {e}."
+        }
+      ]
+    },
+    {
+      "id": "routine",
+      "name": "Daily Routine and Time",
+      "goal": "Talk about what you do and when.",
+      "cups": [
+        {
+          "cupType": 1,
+          "name": "Statement (I [verb] at [time])",
+          "slot": "routinePairs",
+          "templateJa": "{timeJ}に{verbMasu}。",
+          "templateRomaji": "{timeR} ni {verbR}.",
+          "templateEn": "I {verbE} at {timeE}."
+        },
+        {
+          "cupType": 2,
+          "name": "Yes/No question (Do you [verb] at [time]?)",
+          "slot": "routinePairs",
+          "templateJa": "{timeJ}に{verbMasu}か。",
+          "templateRomaji": "{timeR} ni {verbR} ka.",
+          "templateEn": "Do you {verbE} at {timeE}?"
+        },
+        {
+          "cupType": 3,
+          "name": "Open question (When do you get up? / What do you do in the morning?)",
+          "fixed": true,
+          "templateJa": "いつ起きますか。",
+          "templateRomaji": "Itsu okimasu ka.",
+          "templateEn": "When do you get up?"
+        }
+      ]
+    },
+    {
+      "id": "wants",
+      "name": "Wants and Plans",
+      "goal": "Say what you want to do or plan to do.",
+      "cups": [
+        {
+          "cupType": 1,
+          "name": "Statement (I want to go to [place])",
+          "slot": "places",
+          "templateJa": "{j}に行きたいです。",
+          "templateRomaji": "{r} ni ikitai desu.",
+          "templateEn": "I want to go to {e}."
+        },
+        {
+          "cupType": 2,
+          "name": "Yes/No question (Do you want to go to [place]?)",
+          "slot": "places",
+          "templateJa": "{j}に行きたいですか。",
+          "templateRomaji": "{r} ni ikitai desu ka.",
+          "templateEn": "Do you want to go to {e}?"
+        },
+        {
+          "cupType": 3,
+          "name": "Open question (Why do you want to go to Japan?)",
+          "fixed": true,
+          "templateJa": "なぜ日本に行きたいですか。",
+          "templateRomaji": "Naze Nihon ni ikitai desu ka.",
+          "templateEn": "Why do you want to go to Japan?"
+        }
+      ]
+    },
+    {
+      "id": "because",
+      "name": "Reasons (Because)",
+      "goal": "Answer why with からです.",
+      "cups": [
+        {
+          "cupType": 1,
+          "name": "Answer (Because...)",
+          "slot": "nounsLikes",
+          "templateJa": "{j}が好きだからです。",
+          "templateRomaji": "{r} ga suki da kara desu.",
+          "templateEn": "Because I like {e}."
+        },
+        {
+          "cupType": 3,
+          "name": "Open question (Why do you like X?)",
+          "slot": "nounsLikes",
+          "templateJa": "{j}はなぜ好きですか。",
+          "templateRomaji": "{r} wa naze suki desu ka.",
+          "templateEn": "Why do you like {e}?"
+        }
+      ]
+    }
+  ]
+}

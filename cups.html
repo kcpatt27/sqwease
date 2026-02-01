@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1-2-3 Cups · SQWease</title>
+    <style>
+        :root {
+            --primary: #ff4757;
+            --text: #2f3542;
+            --bg: #f1f2f6;
+            --card-bg: #ffffff;
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 16px;
+            min-height: 100vh;
+        }
+        .nav {
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .nav a:hover { text-decoration: underline; }
+        h1 { color: var(--primary); margin-top: 0; }
+        .subtitle { color: #747d8c; margin-bottom: 24px; }
+        .set-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+        .set-tab {
+            padding: 10px 16px;
+            border: 2px solid var(--primary);
+            background: #fff;
+            color: var(--primary);
+            cursor: pointer;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+        .set-tab:hover { background: #fff5f5; }
+        .set-tab.active { background: var(--primary); color: #fff; }
+        .mode-tabs {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+        .mode-tab {
+            padding: 8px 14px;
+            border: 1px solid #ddd;
+            background: #fff;
+            cursor: pointer;
+            border-radius: 6px;
+        }
+        .mode-tab.active { background: #2ed573; color: #fff; border-color: #2ed573; }
+        .list-view { max-width: 700px; }
+        .cup-group {
+            margin-bottom: 24px;
+        }
+        .cup-group h3 {
+            color: var(--primary);
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+        .cup-item {
+            display: grid;
+            grid-template-columns: 1fr auto auto;
+            gap: 12px;
+            align-items: center;
+            padding: 10px 12px;
+            background: var(--card-bg);
+            border-radius: 8px;
+            margin-bottom: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+        }
+        .cup-item .ja { font-size: 1.1rem; }
+        .cup-item .romaji { color: #747d8c; font-style: italic; font-size: 0.95rem; }
+        .cup-item .en { color: #2f3542; font-size: 0.95rem; }
+        .practice-area {
+            max-width: 520px;
+            margin: 0 auto;
+        }
+        .practice-card {
+            perspective: 1000px;
+            cursor: pointer;
+            min-height: 280px;
+        }
+        .practice-card .card-inner {
+            position: relative;
+            width: 100%;
+            min-height: 280px;
+            transform-style: preserve-3d;
+            transition: transform 0.5s;
+        }
+        .practice-card.flipped .card-inner { transform: rotateY(180deg); }
+        .practice-card .face {
+            position: absolute;
+            width: 100%;
+            min-height: 280px;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+            border-radius: 12px;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+        }
+        .practice-card .face-front {
+            background: var(--card-bg);
+            border: 2px solid var(--primary);
+        }
+        .practice-card .face-back {
+            background: var(--card-bg);
+            border: 2px solid #2ed573;
+            transform: rotateY(180deg);
+        }
+        .practice-card .face-front .main { font-size: 2rem; text-align: center; }
+        .practice-card .face-back .romaji { font-size: 1.25rem; color: #747d8c; font-style: italic; margin-bottom: 12px; }
+        .practice-card .face-back .en { font-size: 1.1rem; color: var(--text); }
+        .practice-controls {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            margin-top: 20px;
+        }
+        .practice-controls button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            background: var(--primary);
+            color: #fff;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .practice-controls button:hover { opacity: 0.9; }
+        .practice-controls button.secondary { background: #747d8c; }
+        .progress-text { color: #747d8c; font-size: 0.9rem; }
+        .loading { text-align: center; padding: 40px; color: #747d8c; }
+        .error { color: var(--primary); padding: 16px; }
+        .hidden { display: none !important; }
+        .wordlist-area { max-width: 800px; }
+        .wordlist-cats { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+        .wordlist-cat { padding: 8px 12px; border: 1px solid #ddd; background: #fff; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
+        .wordlist-cat:hover { background: #f5f5f5; }
+        .wordlist-cat.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+        .wordlist-table { width: 100%; border-collapse: collapse; background: var(--card-bg); border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 16px; }
+        .wordlist-table th, .wordlist-table td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eee; }
+        .wordlist-table th { background: #f8f9fa; font-size: 0.85rem; color: #747d8c; }
+        .wordlist-table tr:last-child td { border-bottom: none; }
+        .wordlist-table .remove-btn { padding: 4px 10px; font-size: 0.8rem; background: #ff6b6b; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+        .wordlist-table .remove-btn:hover { background: #ee5a5a; }
+        .wordlist-add { display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-end; margin-bottom: 20px; }
+        .wordlist-add input { padding: 8px 10px; border: 1px solid #ddd; border-radius: 6px; font-size: 0.95rem; min-width: 100px; }
+        .wordlist-add label { font-size: 0.8rem; color: #747d8c; display: block; margin-bottom: 2px; }
+        .wordlist-add .field { display: flex; flex-direction: column; }
+        .wordlist-add button { padding: 8px 16px; background: #2ed573; color: #fff; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; }
+        .wordlist-add button:hover { background: #26de81; }
+        .wordlist-reset { margin-top: 16px; }
+        .wordlist-reset button { padding: 8px 14px; background: #747d8c; color: #fff; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
+        .wordlist-reset button:hover { background: #57606f; }
+
+        @media (max-width: 600px) {
+            body { padding: 12px; }
+            h1 { font-size: 1.4rem; }
+            .subtitle { font-size: 0.9rem; margin-bottom: 16px; }
+            .set-tab { padding: 10px 12px; font-size: 0.9rem; }
+            .mode-tab { padding: 10px 12px; min-height: 44px; }
+            .cup-item {
+                grid-template-columns: 1fr;
+                gap: 4px;
+                padding: 12px;
+            }
+            .cup-item .ja { font-size: 1.2rem; }
+            .cup-item .romaji, .cup-item .en { font-size: 0.9rem; }
+            .practice-card { min-height: 240px; }
+            .practice-card .face { min-height: 240px; padding: 16px; }
+            .practice-card .face-front .main { font-size: 1.5rem; }
+            .practice-card .face-back .romaji { font-size: 1rem; }
+            .practice-card .face-back .en { font-size: 0.95rem; }
+            .practice-controls { flex-wrap: wrap; gap: 10px; }
+            .practice-controls button { padding: 12px 18px; min-height: 44px; }
+            .wordlist-table th, .wordlist-table td { padding: 8px 10px; font-size: 0.9rem; }
+            .wordlist-add { flex-direction: column; align-items: stretch; }
+            .wordlist-add input { min-width: 0; }
+            .wordlist-add button { min-height: 44px; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <a href="index.html">← Menu</a>
+        <span>·</span>
+        <span><strong>1-2-3 Cups</strong></span>
+    </nav>
+    <h1>1-2-3 Cups</h1>
+    <p class="subtitle">Conversation-first sentence patterns. Cup 1 = statement, Cup 2 = yes/no question, Cup 3 = open question.</p>
+
+    <div id="loading" class="loading">Loading cups...</div>
+    <div id="main" class="hidden">
+        <div class="set-tabs" id="setTabs"></div>
+        <div class="mode-tabs">
+            <button type="button" class="mode-tab active" data-mode="list">View list</button>
+            <button type="button" class="mode-tab" data-mode="practice">Practice (flip cards)</button>
+            <button type="button" class="mode-tab" data-mode="words">Word lists</button>
+        </div>
+
+        <div id="listView" class="list-view">
+            <div id="listContent"></div>
+        </div>
+        <div id="practiceView" class="practice-area hidden">
+            <div class="practice-card" id="practiceCard">
+                <div class="card-inner">
+                    <div class="face face-front">
+                        <span class="main" id="cardFront"></span>
+                    </div>
+                    <div class="face face-back">
+                        <span class="romaji" id="cardRomaji"></span>
+                        <span class="en" id="cardEn"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="practice-controls">
+                <button type="button" class="secondary" id="btnPrev">← Prev</button>
+                <span class="progress-text" id="practiceProgress"></span>
+                <button type="button" id="btnNext">Next →</button>
+            </div>
+        </div>
+        <div id="wordListView" class="wordlist-area hidden">
+            <p class="subtitle" style="margin-bottom: 12px;">Add or remove words used to generate cups. Saved in this browser only.</p>
+            <div class="wordlist-cats" id="wordlistCats"></div>
+            <div id="wordlistContent"></div>
+            <div class="wordlist-reset">
+                <button type="button" id="btnResetWords">Reset to defaults</button>
+            </div>
+        </div>
+    </div>
+    <div id="error" class="error hidden"></div>
+
+    <script src="cups-data.js"></script>
+    <script>
+        let config = null;
+        let words = null;
+        let generatedItems = [];  // { ja, romaji, en, cupType, setName, cupName }
+        let currentSetId = null;
+        let practiceIndex = 0;
+        let practiceItems = [];
+
+        function fillTemplate(template, word) {
+            let out = template;
+            for (const key of Object.keys(word)) {
+                out = out.replace(new RegExp('\\{' + key + '\\}', 'g'), word[key]);
+            }
+            return out;
+        }
+
+        function generateItems() {
+            const items = [];
+            for (const set of config.sets) {
+                for (const cup of set.cups) {
+                    if (cup.fixed) {
+                        items.push({
+                            ja: cup.templateJa,
+                            romaji: cup.templateRomaji,
+                            en: cup.templateEn,
+                            cupType: cup.cupType,
+                            setName: set.name,
+                            cupName: cup.name
+                        });
+                    } else {
+                        const slotWords = words[cup.slot];
+                        if (!slotWords) continue;
+                        for (const w of slotWords) {
+                            items.push({
+                                ja: fillTemplate(cup.templateJa, w),
+                                romaji: fillTemplate(cup.templateRomaji, w),
+                                en: fillTemplate(cup.templateEn, w),
+                                cupType: cup.cupType,
+                                setName: set.name,
+                                cupName: cup.name
+                            });
+                        }
+                    }
+                }
+            }
+            return items;
+        }
+
+        function renderSetTabs() {
+            const el = document.getElementById('setTabs');
+            el.innerHTML = '';
+            for (const set of config.sets) {
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'set-tab' + (currentSetId === set.id ? ' active' : '');
+                btn.textContent = set.name;
+                btn.dataset.setId = set.id;
+                btn.addEventListener('click', () => selectSet(set.id));
+                el.appendChild(btn);
+            }
+            if (!currentSetId && config.sets.length) currentSetId = config.sets[0].id;
+        }
+
+        function selectSet(setId) {
+            currentSetId = setId;
+            document.querySelectorAll('.set-tab').forEach(b => {
+                b.classList.toggle('active', b.dataset.setId === setId);
+            });
+            renderList();
+            updatePracticeList();
+            if (document.getElementById('practiceView').classList.contains('hidden') === false) {
+                practiceIndex = 0;
+                renderPracticeCard();
+            }
+        }
+
+        function renderList() {
+            const filtered = generatedItems.filter(i => i.setName === (config.sets.find(s => s.id === currentSetId)?.name));
+            const byCup = { 1: [], 2: [], 3: [] };
+            for (const item of filtered) {
+                if (byCup[item.cupType]) byCup[item.cupType].push(item);
+            }
+            const container = document.getElementById('listContent');
+            container.innerHTML = '';
+            for (const cupType of [1, 2, 3]) {
+                const list = byCup[cupType];
+                if (!list.length) continue;
+                const group = document.createElement('div');
+                group.className = 'cup-group';
+                group.innerHTML = '<h3>Cup ' + cupType + ': ' + escapeHtml(list[0].cupName) + '</h3>';
+                for (const item of list) {
+                    const row = document.createElement('div');
+                    row.className = 'cup-item';
+                    row.innerHTML = '<span class="ja">' + escapeHtml(item.ja) + '</span><span class="romaji">' + escapeHtml(item.romaji) + '</span><span class="en">' + escapeHtml(item.en) + '</span>';
+                    group.appendChild(row);
+                }
+                container.appendChild(group);
+            }
+        }
+
+        function escapeHtml(s) {
+            const div = document.createElement('div');
+            div.textContent = s;
+            return div.innerHTML;
+        }
+
+        function updatePracticeList() {
+            practiceItems = generatedItems.filter(i => config.sets.find(s => s.id === currentSetId) && i.setName === (config.sets.find(s => s.id === currentSetId).name));
+            practiceIndex = 0;
+        }
+
+        function renderPracticeCard() {
+            if (!practiceItems.length) {
+                document.getElementById('cardFront').textContent = 'No sentences in this set.';
+                document.getElementById('cardRomaji').textContent = '';
+                document.getElementById('cardEn').textContent = '';
+                document.getElementById('practiceProgress').textContent = '0 / 0';
+                return;
+            }
+            const item = practiceItems[practiceIndex];
+            const card = document.getElementById('practiceCard');
+            card.classList.remove('flipped');
+            document.getElementById('cardFront').textContent = item.ja;
+            document.getElementById('cardRomaji').textContent = item.romaji;
+            document.getElementById('cardEn').textContent = item.en;
+            document.getElementById('practiceProgress').textContent = (practiceIndex + 1) + ' / ' + practiceItems.length;
+        }
+
+        function initPractice() {
+            updatePracticeList();
+            practiceIndex = 0;
+            renderPracticeCard();
+            document.getElementById('practiceCard').addEventListener('click', () => {
+                document.getElementById('practiceCard').classList.toggle('flipped');
+            });
+            document.getElementById('btnPrev').addEventListener('click', () => {
+                if (practiceIndex > 0) {
+                    practiceIndex--;
+                    renderPracticeCard();
+                    document.getElementById('practiceCard').classList.remove('flipped');
+                }
+            });
+            document.getElementById('btnNext').addEventListener('click', () => {
+                if (practiceIndex < practiceItems.length - 1) {
+                    practiceIndex++;
+                    renderPracticeCard();
+                    document.getElementById('practiceCard').classList.remove('flipped');
+                }
+            });
+            document.addEventListener('keydown', (e) => {
+                if (document.getElementById('practiceView').classList.contains('hidden')) return;
+                if (e.code === 'Space' || e.code === 'ArrowUp' || e.code === 'ArrowDown') {
+                    e.preventDefault();
+                    document.getElementById('practiceCard').classList.toggle('flipped');
+                } else if (e.code === 'ArrowRight') {
+                    if (practiceIndex < practiceItems.length - 1) {
+                        practiceIndex++;
+                        renderPracticeCard();
+                        document.getElementById('practiceCard').classList.remove('flipped');
+                    }
+                } else if (e.code === 'ArrowLeft') {
+                    if (practiceIndex > 0) {
+                        practiceIndex--;
+                        renderPracticeCard();
+                        document.getElementById('practiceCard').classList.remove('flipped');
+                    }
+                }
+            });
+        }
+
+        const WORDLIST_CATEGORIES = [
+            { key: 'nounsLikes', label: 'Nouns (likes)', fields: ['j', 'r', 'e'] },
+            { key: 'nounsStudy', label: 'Study subjects', fields: ['j', 'r', 'e'] },
+            { key: 'jobs', label: 'Jobs', fields: ['j', 'r', 'e'] },
+            { key: 'places', label: 'Places', fields: ['j', 'r', 'e'] },
+            { key: 'verbsWant', label: 'Verbs (want)', fields: ['j', 'r', 'e', 'tai', 'tsumori'] },
+            { key: 'verbsRoutine', label: 'Verbs (routine)', fields: ['j', 'r', 'e', 'masu', 'mashita'] },
+            { key: 'routinePairs', label: 'Routine (time + verb)', fields: ['timeJ', 'timeR', 'timeE', 'verbMasu', 'verbR', 'verbE'] }
+        ];
+        const WORDLIST_FIELD_LABELS = { j: 'Japanese', r: 'Romaji', e: 'English', tai: '〜たい', tsumori: 'つもり', masu: 'ます形', mashita: 'ました', timeJ: 'Time (ja)', timeR: 'Time (romaji)', timeE: 'Time (en)', verbMasu: 'Verb ます', verbR: 'Verb (romaji)', verbE: 'Verb (en)' };
+        let defaultWords = null;
+        let currentWordlistCat = 'nounsLikes';
+
+        function saveWords() {
+            try {
+                localStorage.setItem('sqwease-cups-words', JSON.stringify(words));
+            } catch (err) {}
+            generatedItems = generateItems();
+            renderList();
+            updatePracticeList();
+            renderPracticeCard();
+        }
+
+        function removeWord(slot, index) {
+            if (!words[slot] || index < 0 || index >= words[slot].length) return;
+            words[slot].splice(index, 1);
+            saveWords();
+            renderWordListContent();
+        }
+
+        function addWord(slot, entry) {
+            if (!words[slot]) words[slot] = [];
+            words[slot].push(entry);
+            saveWords();
+            renderWordListContent();
+        }
+
+        function renderWordListCats() {
+            const el = document.getElementById('wordlistCats');
+            el.innerHTML = '';
+            WORDLIST_CATEGORIES.forEach(cat => {
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'wordlist-cat' + (currentWordlistCat === cat.key ? ' active' : '');
+                btn.textContent = cat.label;
+                btn.dataset.cat = cat.key;
+                btn.addEventListener('click', () => {
+                    currentWordlistCat = cat.key;
+                    document.querySelectorAll('.wordlist-cat').forEach(b => b.classList.toggle('active', b.dataset.cat === cat.key));
+                    renderWordListContent();
+                });
+                el.appendChild(btn);
+            });
+        }
+
+        function renderWordListContent() {
+            const cat = WORDLIST_CATEGORIES.find(c => c.key === currentWordlistCat);
+            const container = document.getElementById('wordlistContent');
+            container.innerHTML = '';
+            if (!cat || !words[cat.key]) return;
+            const list = words[cat.key];
+            const table = document.createElement('table');
+            table.className = 'wordlist-table';
+            const thead = document.createElement('thead');
+            const headers = cat.fields.map(f => WORDLIST_FIELD_LABELS[f] || f);
+            thead.innerHTML = '<tr><th>' + headers.join('</th><th>') + '</th><th></th></tr>';
+            table.appendChild(thead);
+            const tbody = document.createElement('tbody');
+            list.forEach((row, i) => {
+                const tr = document.createElement('tr');
+                const cells = cat.fields.map(f => escapeHtml(row[f] || '')).join('</td><td>');
+                tr.innerHTML = '<td>' + cells + '</td><td><button type="button" class="remove-btn" data-index="' + i + '">Remove</button></td>';
+                tr.querySelector('.remove-btn').addEventListener('click', () => removeWord(cat.key, i));
+                tbody.appendChild(tr);
+            });
+            table.appendChild(tbody);
+            container.appendChild(table);
+            const addDiv = document.createElement('div');
+            addDiv.className = 'wordlist-add';
+            const fields = cat.fields.map(f => {
+                const wrap = document.createElement('div');
+                wrap.className = 'field';
+                wrap.innerHTML = '<label>' + (WORDLIST_FIELD_LABELS[f] || f) + '</label><input type="text" data-field="' + f + '" placeholder="">';
+                return wrap;
+            });
+            fields.forEach(f => addDiv.appendChild(f));
+            const addBtn = document.createElement('button');
+            addBtn.type = 'button';
+            addBtn.textContent = 'Add';
+            addBtn.addEventListener('click', () => {
+                const entry = {};
+                cat.fields.forEach(f => {
+                    const val = addDiv.querySelector('input[data-field="' + f + '"]').value.trim();
+                    if (val) entry[f] = val;
+                });
+                if (Object.keys(entry).length < 2) return;
+                addWord(cat.key, entry);
+                cat.fields.forEach(f => { addDiv.querySelector('input[data-field="' + f + '"]').value = ''; });
+            });
+            addDiv.appendChild(addBtn);
+            container.appendChild(addDiv);
+        }
+
+        document.querySelectorAll('.mode-tab').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const mode = btn.dataset.mode;
+                document.querySelectorAll('.mode-tab').forEach(b => b.classList.toggle('active', b.dataset.mode === mode));
+                document.getElementById('listView').classList.toggle('hidden', mode !== 'list');
+                document.getElementById('practiceView').classList.toggle('hidden', mode !== 'practice');
+                document.getElementById('wordListView').classList.toggle('hidden', mode !== 'words');
+                if (mode === 'practice') {
+                    updatePracticeList();
+                    renderPracticeCard();
+                }
+                if (mode === 'words') {
+                    renderWordListCats();
+                    renderWordListContent();
+                }
+            });
+        });
+
+        document.getElementById('btnResetWords').addEventListener('click', () => {
+            if (!confirm('Reset all word lists to defaults? Your added words will be removed.')) return;
+            if (!defaultWords) return;
+            words = JSON.parse(JSON.stringify(defaultWords));
+            saveWords();
+            renderWordListCats();
+            renderWordListContent();
+        });
+
+        function load() {
+            try {
+                if (typeof CUPS_CONFIG === 'undefined' || typeof CUPS_WORDS === 'undefined') {
+                    throw new Error('cups-data.js not loaded');
+                }
+                config = CUPS_CONFIG;
+                defaultWords = CUPS_WORDS;
+                const stored = localStorage.getItem('sqwease-cups-words');
+                words = stored ? JSON.parse(stored) : JSON.parse(JSON.stringify(defaultWords));
+                if (!words.nounsLikes || !Array.isArray(words.nounsLikes)) words = JSON.parse(JSON.stringify(defaultWords));
+                generatedItems = generateItems();
+                currentSetId = config.sets[0]?.id || null;
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('main').classList.remove('hidden');
+                renderSetTabs();
+                renderList();
+                initPractice();
+            } catch (e) {
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('error').classList.remove('hidden');
+                document.getElementById('error').textContent = 'Could not load cups data. Run: node scripts/build-cups-data.js then open cups.html (or ensure cups-data.js is in the same folder as cups.html).';
+            }
+        }
+        load();
+    </script>
+</body>
+</html>

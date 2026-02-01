@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Flashcards · SQWease</title>
+    <style>
+        :root {
+            --primary: #ff4757;
+            --text: #2f3542;
+            --bg: #f1f2f6;
+            --card-bg: #ffffff;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .top-link { margin-bottom: 12px; }
+        .top-link a { color: var(--primary); font-weight: 600; text-decoration: none; }
+        .top-link a:hover { text-decoration: underline; }
+        h1 { color: var(--primary); margin-bottom: 30px; }
+        .container {
+            perspective: 1000px;
+            width: 100%;
+            max-width: 500px;
+            height: 400px;
+            cursor: pointer;
+        }
+        .card {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.6s;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            border-radius: 15px;
+            background: var(--card-bg);
+        }
+        .card.is-flipped { transform: rotateY(180deg); }
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 15px;
+            padding: 20px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        .card-front { background-color: var(--card-bg); border: 2px solid var(--primary); }
+        .card-back {
+            background-color: var(--card-bg);
+            transform: rotateY(180deg);
+            border: 2px solid #2ed573;
+            overflow-y: auto;
+        }
+        .japanese-word { font-size: 5rem; margin: 0; color: var(--text); }
+        .pronunciation { font-size: 1.5rem; color: #747d8c; margin-top: 10px; font-style: italic; }
+        .definition { font-size: 1.5rem; font-weight: bold; color: var(--primary); margin: 20px 0 10px; }
+        .sentence { font-size: 1.1rem; margin-top: 15px; color: #57606f; line-height: 1.6; }
+        .controls { margin-top: 30px; display: flex; gap: 15px; }
+        button {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 30px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            font-weight: bold;
+        }
+        button:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(255, 71, 87, 0.4); }
+        button.secondary { background: white; color: var(--text); border: 2px solid #dfe4ea; }
+        .progress { margin-top: 20px; color: #a4b0be; font-size: 0.9rem; }
+        .instruction { font-size: 0.8rem; color: #ccc; margin-top: 10px; }
+        @media (max-width: 600px) {
+            body { padding: 12px; }
+            h1 { font-size: 1.5rem; margin-bottom: 12px; }
+            .container { max-width: 100%; height: 320px; }
+            .japanese-word { font-size: 3rem; }
+            .pronunciation { font-size: 1.2rem; }
+            .definition { font-size: 1.2rem; }
+            .sentence { font-size: 0.95rem; }
+            .controls { flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 16px; }
+            button { padding: 14px 20px; min-height: 44px; }
+        }
+    </style>
+</head>
+<body>
+    <p class="top-link"><a href="index.html">← Menu</a></p>
+    <h1>🇯🇵 Japanese 1500</h1>
+    <div class="container" onclick="flipCard()">
+        <div class="card" id="card">
+            <div class="card-face card-front">
+                <h2 class="japanese-word" id="word">…</h2>
+                <div class="instruction">(Tap to flip)</div>
+            </div>
+            <div class="card-face card-back">
+                <div class="pronunciation" id="pronunciation"></div>
+                <div class="definition" id="definition"></div>
+                <div class="sentence" id="sentence"></div>
+            </div>
+        </div>
+    </div>
+    <div class="controls">
+        <button class="secondary" onclick="prevCard()">← Prev</button>
+        <button class="secondary" onclick="shuffleCards()">Shuffle</button>
+        <button onclick="nextCard()">Next →</button>
+    </div>
+    <div class="progress" id="progress">Loading…</div>
+    <script src="flashcards-vocab.js"></script>
+    <script>
+        var vocabulary = [];
+        var currentIndex = 0;
+        var card = document.getElementById('card');
+        var wordEl = document.getElementById('word');
+        var pronunciationEl = document.getElementById('pronunciation');
+        var definitionEl = document.getElementById('definition');
+        var sentenceEl = document.getElementById('sentence');
+        var progressEl = document.getElementById('progress');
+
+        var FALLBACK_VOCAB = [
+            { w: "の", p: "no (noh)", d: "possessive (like 's)", s: "私の本です。 (It's my book.)" },
+            { w: "に", p: "ni (nee)", d: "to; at; in", s: "学校に行きます。 (I go to school.)" },
+            { w: "は", p: "wa (wah)", d: "topic marker", s: "私は学生です。 (I am a student.)" },
+            { w: "を", p: "wo (oh)", d: "object marker", s: "水を飲みます。 (I drink water.)" },
+            { w: "が", p: "ga (gah)", d: "subject marker", s: "猫がいます。 (There is a cat.)" }
+        ];
+
+        function initVocab() {
+            vocabulary = (typeof FLASHCARDS_VOCAB !== 'undefined' && FLASHCARDS_VOCAB.length) ? FLASHCARDS_VOCAB : FALLBACK_VOCAB;
+            currentIndex = 0;
+            updateCard();
+        }
+
+        function updateCard() {
+            if (!vocabulary.length) {
+                wordEl.textContent = '—';
+                pronunciationEl.textContent = '';
+                definitionEl.textContent = 'No cards loaded. Use a local server for full list.';
+                sentenceEl.innerHTML = '';
+                progressEl.textContent = '0 / 0';
+                return;
+            }
+            const item = vocabulary[currentIndex];
+            wordEl.textContent = item.w;
+            pronunciationEl.textContent = item.p;
+            definitionEl.textContent = item.d;
+            sentenceEl.innerHTML = (item.s || '').replace(/\n/g, '<br>');
+            progressEl.textContent = 'Card ' + (currentIndex + 1) + ' of ' + vocabulary.length;
+            card.classList.remove('is-flipped');
+        }
+
+        function flipCard() { card.classList.toggle('is-flipped'); }
+        function nextCard() {
+            if (currentIndex < vocabulary.length - 1) {
+                currentIndex++;
+                updateCard();
+            } else if (vocabulary.length && confirm('End of list! Restart?')) {
+                currentIndex = 0;
+                updateCard();
+            }
+        }
+        function prevCard() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                updateCard();
+            }
+        }
+        function shuffleCards() {
+            if (!vocabulary.length) return;
+            for (let i = vocabulary.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [vocabulary[i], vocabulary[j]] = [vocabulary[j], vocabulary[i]];
+            }
+            currentIndex = 0;
+            updateCard();
+        }
+        document.addEventListener('keydown', function(e) {
+            if (e.code === 'Space' || e.code === 'ArrowUp' || e.code === 'ArrowDown') {
+                e.preventDefault();
+                flipCard();
+            } else if (e.code === 'ArrowRight') nextCard();
+            else if (e.code === 'ArrowLeft') prevCard();
+        });
+
+        initVocab();
+    </script>
+</body>
+</html>

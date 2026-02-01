@@ -1,0 +1,7 @@
+# Deploy as static site. Build step generates flashcards-vocab.js and cups-data.js.
+[build]
+  command = "node scripts/build-flashcards-vocab.js && node scripts/build-cups-data.js"
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "18"

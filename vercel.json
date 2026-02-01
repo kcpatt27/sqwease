@@ -1,0 +1,5 @@
+{
+  "buildCommand": "node scripts/build-flashcards-vocab.js && node scripts/build-cups-data.js",
+  "outputDirectory": ".",
+  "framework": null
+}

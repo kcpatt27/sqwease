@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQWease · Japanese</title>
+    <style>
+        :root {
+            --primary: #ff4757;
+            --text: #2f3542;
+            --bg: #f1f2f6;
+            --card-bg: #ffffff;
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 24px;
+        }
+        h1 {
+            color: var(--primary);
+            margin-bottom: 8px;
+            font-size: 1.75rem;
+        }
+        .tagline {
+            color: #747d8c;
+            margin-bottom: 40px;
+            font-size: 0.95rem;
+        }
+        .menu {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            width: 100%;
+            max-width: 320px;
+        }
+        .menu a {
+            display: block;
+            padding: 20px 24px;
+            background: var(--card-bg);
+            border: 2px solid var(--primary);
+            border-radius: 12px;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.1rem;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .menu a:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(255, 71, 87, 0.2);
+        }
+        .menu a.cups {
+            border-color: #2ed573;
+            color: #27ae60;
+        }
+        .menu a.cups:hover {
+            box-shadow: 0 6px 16px rgba(46, 213, 115, 0.25);
+        }
+        .menu .hint {
+            font-size: 0.8rem;
+            color: #a4b0be;
+            font-weight: 400;
+            margin-top: 4px;
+        }
+        @media (max-width: 600px) {
+            h1 { font-size: 1.4rem; }
+            .menu a { padding: 18px 20px; min-height: 56px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        }
+    </style>
+</head>
+<body>
+    <h1>🇯🇵 SQWease</h1>
+    <p class="tagline">Japanese · vocab & conversation</p>
+    <nav class="menu">
+        <a href="flashcards.html">
+            Flashcards
+            <span class="hint">Vocabulary · flip cards</span>
+        </a>
+        <a href="cups.html" class="cups">
+            1-2-3 Cups
+            <span class="hint">Conversation practice · sentence patterns</span>
+        </a>
+    </nav>
+</body>
+</html>
