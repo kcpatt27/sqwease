@@ -10,6 +10,16 @@
             --text: #2f3542;
             --bg: #f1f2f6;
             --card-bg: #ffffff;
+            --border: #dfe4ea;
+            --secondary-text: #747d8c;
+        }
+        [data-theme="dark"] {
+            --primary: #ff6b81;
+            --text: #e4e4e4;
+            --bg: #1e272e;
+            --card-bg: #2d3436;
+            --border: #57606f;
+            --secondary-text: #a4b0be;
         }
         * { box-sizing: border-box; }
         body {
@@ -19,6 +29,37 @@
             margin: 0;
             padding: 16px;
             min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--card-bg);
+            border: 2px solid var(--border);
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.4rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            user-select: none;
+            z-index: 100;
+        }
+        .theme-toggle:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
         }
         .nav {
             margin-bottom: 20px;
@@ -33,7 +74,40 @@
         }
         .nav a:hover { text-decoration: underline; }
         h1 { color: var(--primary); margin-top: 0; }
-        .subtitle { color: #747d8c; margin-bottom: 24px; }
+        .subtitle { color: var(--secondary-text); margin-bottom: 24px; }
+        .info-box {
+            background: var(--card-bg);
+            border-left: 4px solid var(--primary);
+            padding: 16px;
+            margin-bottom: 24px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .info-box h3 {
+            margin-top: 0;
+            color: var(--primary);
+            font-size: 1rem;
+        }
+        .info-box p {
+            margin: 8px 0 0;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: var(--secondary-text);
+        }
+        .info-box ul {
+            margin: 8px 0 0 20px;
+            padding: 0;
+            font-size: 0.9rem;
+            line-height: 1.8;
+            color: var(--secondary-text);
+        }
+        .info-box .toggle-info {
+            color: var(--primary);
+            cursor: pointer;
+            font-weight: 600;
+            user-select: none;
+        }
+        .info-box .toggle-info:hover { text-decoration: underline; }
         .set-tabs {
             display: flex;
             flex-wrap: wrap;
@@ -85,8 +159,8 @@
             box-shadow: 0 1px 3px rgba(0,0,0,0.08);
         }
         .cup-item .ja { font-size: 1.1rem; }
-        .cup-item .romaji { color: #747d8c; font-style: italic; font-size: 0.95rem; }
-        .cup-item .en { color: #2f3542; font-size: 0.95rem; }
+        .cup-item .romaji { color: var(--secondary-text); font-style: italic; font-size: 0.95rem; }
+        .cup-item .en { color: var(--text); font-size: 0.95rem; }
         .practice-area {
             max-width: 520px;
             margin: 0 auto;
@@ -127,7 +201,7 @@
             transform: rotateY(180deg);
         }
         .practice-card .face-front .main { font-size: 2rem; text-align: center; }
-        .practice-card .face-back .romaji { font-size: 1.25rem; color: #747d8c; font-style: italic; margin-bottom: 12px; }
+        .practice-card .face-back .romaji { font-size: 1.25rem; color: var(--secondary-text); font-style: italic; margin-bottom: 12px; }
         .practice-card .face-back .en { font-size: 1.1rem; color: var(--text); }
         .practice-controls {
             display: flex;
@@ -146,8 +220,8 @@
             cursor: pointer;
         }
         .practice-controls button:hover { opacity: 0.9; }
-        .practice-controls button.secondary { background: #747d8c; }
-        .progress-text { color: #747d8c; font-size: 0.9rem; }
+        .practice-controls button.secondary { background: var(--secondary-text); }
+        .progress-text { color: var(--secondary-text); font-size: 0.9rem; }
         .loading { text-align: center; padding: 40px; color: #747d8c; }
         .error { color: var(--primary); padding: 16px; }
         .hidden { display: none !important; }
@@ -158,19 +232,19 @@
         .wordlist-cat.active { background: var(--primary); color: #fff; border-color: var(--primary); }
         .wordlist-table { width: 100%; border-collapse: collapse; background: var(--card-bg); border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 16px; }
         .wordlist-table th, .wordlist-table td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eee; }
-        .wordlist-table th { background: #f8f9fa; font-size: 0.85rem; color: #747d8c; }
+        .wordlist-table th { background: var(--border); font-size: 0.85rem; color: var(--secondary-text); }
         .wordlist-table tr:last-child td { border-bottom: none; }
         .wordlist-table .remove-btn { padding: 4px 10px; font-size: 0.8rem; background: #ff6b6b; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
         .wordlist-table .remove-btn:hover { background: #ee5a5a; }
         .wordlist-add { display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-end; margin-bottom: 20px; }
-        .wordlist-add input { padding: 8px 10px; border: 1px solid #ddd; border-radius: 6px; font-size: 0.95rem; min-width: 100px; }
-        .wordlist-add label { font-size: 0.8rem; color: #747d8c; display: block; margin-bottom: 2px; }
+        .wordlist-add input { padding: 8px 10px; border: 1px solid var(--border); border-radius: 6px; font-size: 0.95rem; min-width: 100px; background: var(--card-bg); color: var(--text); }
+        .wordlist-add label { font-size: 0.8rem; color: var(--secondary-text); display: block; margin-bottom: 2px; }
         .wordlist-add .field { display: flex; flex-direction: column; }
         .wordlist-add button { padding: 8px 16px; background: #2ed573; color: #fff; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; }
         .wordlist-add button:hover { background: #26de81; }
         .wordlist-reset { margin-top: 16px; }
-        .wordlist-reset button { padding: 8px 14px; background: #747d8c; color: #fff; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
-        .wordlist-reset button:hover { background: #57606f; }
+        .wordlist-reset button { padding: 8px 14px; background: var(--secondary-text); color: #fff; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
+        .wordlist-reset button:hover { background: var(--border); }
 
         @media (max-width: 600px) {
             body { padding: 12px; }
@@ -200,6 +274,8 @@
     </style>
 </head>
 <body>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">🌙</div>
+    <div class="container">
     <nav class="nav">
         <a href="index.html">← Menu</a>
         <span>·</span>
@@ -207,6 +283,22 @@
     </nav>
     <h1>1-2-3 Cups</h1>
     <p class="subtitle">Conversation-first sentence patterns. Cup 1 = statement, Cup 2 = yes/no question, Cup 3 = open question.</p>
+
+    <div class="info-box">
+        <h3>💡 How to use</h3>
+        <div id="infoToggle">
+            <span class="toggle-info" onclick="toggleInfo()">Show instructions ▼</span>
+            <div id="infoDetail" style="display:none; margin-top:12px;">
+                <p><strong>1-2-3 Cups</strong> is a method for building conversation skills by practicing three sentence types:</p>
+                <ul>
+                    <li><strong>Cup 1 (Statement):</strong> "I like coffee." — State something.</li>
+                    <li><strong>Cup 2 (Yes/No Question):</strong> "Do you like coffee?" — Ask a closed question.</li>
+                    <li><strong>Cup 3 (Open Question):</strong> "What do you like?" — Ask an open question.</li>
+                </ul>
+                <p><strong>Usage:</strong> Pick a set (Likes, Study, Routine, etc.) → <strong>View list</strong> to see all sentences, <strong>Practice</strong> to flip cards (Japanese front, romaji+English back), or <strong>Word lists</strong> to add/edit vocabulary.</p>
+            </div>
+        </div>
+    </div>
 
     <div id="loading" class="loading">Loading cups...</div>
     <div id="main" class="hidden">
@@ -246,6 +338,7 @@
                 <button type="button" id="btnResetWords">Reset to defaults</button>
             </div>
         </div>
+    </div>
     </div>
     <div id="error" class="error hidden"></div>
 
@@ -574,6 +667,33 @@
             }
         }
         load();
+        
+        function toggleInfo() {
+            const detail = document.getElementById('infoDetail');
+            const toggle = document.querySelector('.toggle-info');
+            if (detail.style.display === 'none') {
+                detail.style.display = 'block';
+                toggle.textContent = 'Hide instructions ▲';
+            } else {
+                detail.style.display = 'none';
+                toggle.textContent = 'Show instructions ▼';
+            }
+        }
+        
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('sqwease-theme', next);
+            document.querySelector('.theme-toggle').textContent = next === 'dark' ? '☀️' : '🌙';
+        }
+        // Load saved theme
+        const saved = localStorage.getItem('sqwease-theme');
+        if (saved) {
+            document.documentElement.setAttribute('data-theme', saved);
+            document.querySelector('.theme-toggle').textContent = saved === 'dark' ? '☀️' : '🌙';
+        }
     </script>
 </body>
 </html>

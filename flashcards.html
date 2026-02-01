@@ -10,6 +10,16 @@
             --text: #2f3542;
             --bg: #f1f2f6;
             --card-bg: #ffffff;
+            --border: #dfe4ea;
+            --secondary-text: #747d8c;
+        }
+        [data-theme="dark"] {
+            --primary: #ff6b81;
+            --text: #e4e4e4;
+            --bg: #1e272e;
+            --card-bg: #2d3436;
+            --border: #57606f;
+            --secondary-text: #a4b0be;
         }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -22,6 +32,30 @@
             min-height: 100vh;
             margin: 0;
             padding: 20px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--card-bg);
+            border: 2px solid var(--border);
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.4rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            user-select: none;
+            z-index: 100;
+        }
+        .theme-toggle:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
         }
         .top-link { margin-bottom: 12px; }
         .top-link a { color: var(--primary); font-weight: 600; text-decoration: none; }
@@ -67,9 +101,9 @@
             overflow-y: auto;
         }
         .japanese-word { font-size: 5rem; margin: 0; color: var(--text); }
-        .pronunciation { font-size: 1.5rem; color: #747d8c; margin-top: 10px; font-style: italic; }
+        .pronunciation { font-size: 1.5rem; color: var(--secondary-text); margin-top: 10px; font-style: italic; }
         .definition { font-size: 1.5rem; font-weight: bold; color: var(--primary); margin: 20px 0 10px; }
-        .sentence { font-size: 1.1rem; margin-top: 15px; color: #57606f; line-height: 1.6; }
+        .sentence { font-size: 1.1rem; margin-top: 15px; color: var(--secondary-text); line-height: 1.6; }
         .controls { margin-top: 30px; display: flex; gap: 15px; }
         button {
             background: var(--primary);
@@ -83,7 +117,8 @@
             font-weight: bold;
         }
         button:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(255, 71, 87, 0.4); }
-        button.secondary { background: white; color: var(--text); border: 2px solid #dfe4ea; }
+        button.secondary { background: white; color: var(--text); border: 2px solid var(--border); }
+        [data-theme="dark"] button.secondary { background: var(--card-bg); }
         .progress { margin-top: 20px; color: #a4b0be; font-size: 0.9rem; }
         .instruction { font-size: 0.8rem; color: #ccc; margin-top: 10px; }
         @media (max-width: 600px) {
@@ -100,6 +135,7 @@
     </style>
 </head>
 <body>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">🌙</div>
     <p class="top-link"><a href="index.html">← Menu</a></p>
     <h1>🇯🇵 Japanese 1500</h1>
     <div class="container" onclick="flipCard()">
@@ -198,6 +234,21 @@
         });
 
         initVocab();
+        
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('sqwease-theme', next);
+            document.querySelector('.theme-toggle').textContent = next === 'dark' ? '☀️' : '🌙';
+        }
+        // Load saved theme
+        const saved = localStorage.getItem('sqwease-theme');
+        if (saved) {
+            document.documentElement.setAttribute('data-theme', saved);
+            document.querySelector('.theme-toggle').textContent = saved === 'dark' ? '☀️' : '🌙';
+        }
     </script>
 </body>
 </html>
