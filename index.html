@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SQWease · Japanese</title>
+    <script>
+    (function(){
+        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
+        var theme = (s === 'dark' || s === 'light') ? s : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    })();
+    </script>
     <style>
         :root {
             --primary: #ff4757;
@@ -55,8 +62,13 @@
             transform: scale(1.1);
             box-shadow: 0 6px 16px rgba(0,0,0,0.15);
         }
+        .theme-toggle .icon-dark { display: none; }
+        .theme-toggle .icon-light { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-light { display: none; }
         h1 {
             color: var(--primary);
+            margin: 0;
             margin-bottom: 8px;
             font-size: 1.75rem;
         }
@@ -103,6 +115,38 @@
             font-weight: 400;
             margin-top: 4px;
         }
+        .menu .desc {
+            display: none;
+        }
+        @media (min-width: 768px) {
+            h1 { font-size: 2rem; }
+            .tagline { margin-bottom: 32px; }
+            .menu {
+                flex-direction: row;
+                max-width: 720px;
+                gap: 24px;
+                justify-content: center;
+            }
+            .menu a {
+                flex: 1;
+                min-width: 280px;
+                padding: 24px 28px;
+                text-align: left;
+            }
+            .menu .hint {
+                font-size: 0.85rem;
+                color: #747d8c;
+                margin-top: 6px;
+            }
+            .menu .desc {
+                display: block;
+                font-size: 0.9rem;
+                color: #a4b0be;
+                font-weight: 400;
+                margin-top: 8px;
+                line-height: 1.4;
+            }
+        }
         @media (max-width: 600px) {
             h1 { font-size: 1.4rem; }
             .menu a { padding: 18px 20px; min-height: 56px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
@@ -110,17 +154,19 @@
     </style>
 </head>
 <body>
-    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">🌙</div>
-    <h1>🇯🇵 SQWease</h1>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
+    <h1>SQWease · JP</h1>
     <p class="tagline">Japanese · vocab & conversation</p>
     <nav class="menu">
         <a href="flashcards.html">
             Flashcards
             <span class="hint">Vocabulary · flip cards</span>
+            <span class="desc">1,500 high-frequency words. Flip to see romaji, definition, and example sentence.</span>
         </a>
         <a href="cups.html" class="cups">
             1-2-3 Cups
             <span class="hint">Conversation practice · sentence patterns</span>
+            <span class="desc">Statement → yes/no question → open question. Build real conversation habits.</span>
         </a>
     </nav>
     <script>
@@ -130,13 +176,12 @@
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             localStorage.setItem('sqwease-theme', next);
-            document.querySelector('.theme-toggle').textContent = next === 'dark' ? '☀️' : '🌙';
+            // Icon updates via [data-theme] and CSS
         }
-        // Load saved theme
+        // Load saved theme (sync icon with already-applied theme from head)
         const saved = localStorage.getItem('sqwease-theme');
         if (saved) {
             document.documentElement.setAttribute('data-theme', saved);
-            document.querySelector('.theme-toggle').textContent = saved === 'dark' ? '☀️' : '🌙';
         }
     </script>
 </body>

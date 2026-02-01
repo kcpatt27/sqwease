@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>1-2-3 Cups · SQWease</title>
+    <script>
+    (function(){
+        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
+        var theme = (s === 'dark' || s === 'light') ? s : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    })();
+    </script>
     <style>
         :root {
             --primary: #ff4757;
@@ -57,6 +64,10 @@
             transform: scale(1.1);
             box-shadow: 0 6px 16px rgba(0,0,0,0.15);
         }
+        .theme-toggle .icon-dark { display: none; }
+        .theme-toggle .icon-light { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-light { display: none; }
         .container {
             width: 100%;
             max-width: 800px;
@@ -274,7 +285,7 @@
     </style>
 </head>
 <body>
-    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">🌙</div>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
     <div class="container">
     <nav class="nav">
         <a href="index.html">← Menu</a>
@@ -686,14 +697,11 @@
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             localStorage.setItem('sqwease-theme', next);
-            document.querySelector('.theme-toggle').textContent = next === 'dark' ? '☀️' : '🌙';
+            // Icon updates via [data-theme] and CSS
         }
-        // Load saved theme
+        // Load saved theme (already applied in head; icon driven by CSS)
         const saved = localStorage.getItem('sqwease-theme');
-        if (saved) {
-            document.documentElement.setAttribute('data-theme', saved);
-            document.querySelector('.theme-toggle').textContent = saved === 'dark' ? '☀️' : '🌙';
-        }
+        if (saved) document.documentElement.setAttribute('data-theme', saved);
     </script>
 </body>
 </html>
