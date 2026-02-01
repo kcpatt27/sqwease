@@ -71,10 +71,63 @@
         .top-link { margin-bottom: 12px; }
         .top-link a { color: var(--primary); font-weight: 600; text-decoration: none; }
         .top-link a:hover { text-decoration: underline; }
-        h1 { color: var(--primary); margin-bottom: 30px; }
+        h1 { color: var(--primary); margin-bottom: 20px; }
+        .deck-stats {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 32px;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+        }
+        .deck-stats h2 {
+            font-size: 1.5rem;
+            margin-bottom: 24px;
+            color: var(--text);
+        }
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border);
+        }
+        .stat-row:last-child { border-bottom: none; }
+        .stat-label { color: var(--secondary-text); }
+        .stat-value {
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+        .stat-value.new { color: #5352ed; }
+        .stat-value.learning { color: #ff6b6b; }
+        .stat-value.review { color: #2ed573; }
+        .study-btn {
+            margin-top: 24px;
+            width: 100%;
+            padding: 16px 24px;
+            background: #5352ed;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .study-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(83, 82, 237, 0.4);
+        }
+        .study-btn:disabled {
+            background: var(--border);
+            cursor: not-allowed;
+            transform: none;
+        }
+        .hidden { display: none !important; }
         .container {
             perspective: 1000px;
             width: 100%;
+            min-width: 280px;
             max-width: 500px;
             height: 400px;
             cursor: pointer;
@@ -116,6 +169,61 @@
         .definition { font-size: 1.5rem; font-weight: bold; color: var(--primary); margin: 20px 0 10px; }
         .sentence { font-size: 1.1rem; margin-top: 15px; color: var(--secondary-text); line-height: 1.6; }
         .controls { margin-top: 30px; display: flex; gap: 15px; }
+        .rating-buttons {
+            margin-top: 30px;
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .rating-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            min-width: 90px;
+        }
+        .rating-btn:hover {
+            transform: translateY(-2px);
+        }
+        .rating-btn .interval {
+            font-size: 0.85rem;
+            opacity: 0.9;
+        }
+        .rating-btn.again {
+            background: #ff6b6b;
+            color: white;
+        }
+        .rating-btn.again:hover {
+            box-shadow: 0 4px 12px rgba(255, 107, 107, 0.4);
+        }
+        .rating-btn.hard {
+            background: #ffa502;
+            color: white;
+        }
+        .rating-btn.hard:hover {
+            box-shadow: 0 4px 12px rgba(255, 165, 2, 0.4);
+        }
+        .rating-btn.good {
+            background: #2ed573;
+            color: white;
+        }
+        .rating-btn.good:hover {
+            box-shadow: 0 4px 12px rgba(46, 213, 115, 0.4);
+        }
+        .rating-btn.easy {
+            background: #5352ed;
+            color: white;
+        }
+        .rating-btn.easy:hover {
+            box-shadow: 0 4px 12px rgba(83, 82, 237, 0.4);
+        }
         button {
             background: var(--primary);
             color: white;
@@ -141,6 +249,8 @@
             .definition { font-size: 1.2rem; }
             .sentence { font-size: 0.95rem; }
             .controls { flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 16px; }
+            .rating-buttons { gap: 8px; margin-top: 16px; }
+            .rating-btn { min-width: 70px; padding: 10px 14px; font-size: 0.9rem; }
             button { padding: 14px 20px; min-height: 44px; }
         }
     </style>
@@ -149,6 +259,25 @@
     <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
     <p class="top-link"><a href="index.html">← Menu</a></p>
     <h1>🇯🇵 Japanese 1500</h1>
+    
+    <div id="deckView" class="deck-stats">
+        <h2>Japanese 1500</h2>
+        <div class="stat-row">
+            <span class="stat-label">New</span>
+            <span class="stat-value new" id="statNew">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Learning</span>
+            <span class="stat-value learning" id="statLearning">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">To Review</span>
+            <span class="stat-value review" id="statReview">0</span>
+        </div>
+        <button class="study-btn" id="studyBtn" onclick="startStudy()">Study Now</button>
+    </div>
+
+    <div id="reviewView" class="hidden">
     <div class="container" onclick="flipCard()">
         <div class="card" id="card">
             <div class="card-face card-front">
@@ -162,16 +291,38 @@
             </div>
         </div>
     </div>
-    <div class="controls">
-        <button class="secondary" onclick="prevCard()">← Prev</button>
-        <button class="secondary" onclick="shuffleCards()">Shuffle</button>
-        <button onclick="nextCard()">Next →</button>
+    <div class="rating-buttons hidden" id="ratingButtons">
+        <button class="rating-btn again" onclick="rateCard(1)">
+            <span>Again</span>
+            <span class="interval" id="intervalAgain">&lt;1m</span>
+        </button>
+        <button class="rating-btn hard" onclick="rateCard(2)">
+            <span>Hard</span>
+            <span class="interval" id="intervalHard">&lt;10m</span>
+        </button>
+        <button class="rating-btn good" onclick="rateCard(3)">
+            <span>Good</span>
+            <span class="interval" id="intervalGood">1d</span>
+        </button>
+        <button class="rating-btn easy" onclick="rateCard(4)">
+            <span>Easy</span>
+            <span class="interval" id="intervalEasy">4d</span>
+        </button>
     </div>
     <div class="progress" id="progress">Loading…</div>
+    </div>
+    
+    <script src="srs.js"></script>
     <script src="flashcards-vocab.js"></script>
     <script>
         var vocabulary = [];
+        var srsCards = {};
+        var dueCards = [];
         var currentIndex = 0;
+        var isFlipped = false;
+        var newCardsPerDay = 20;
+        var newCardsIntroduced = 0;
+        
         var card = document.getElementById('card');
         var wordEl = document.getElementById('word');
         var pronunciationEl = document.getElementById('pronunciation');
@@ -187,61 +338,171 @@
             { w: "が", p: "ga (gah)", d: "subject marker", s: "猫がいます。 (There is a cat.)" }
         ];
 
-        function initVocab() {
-            vocabulary = (typeof FLASHCARDS_VOCAB !== 'undefined' && FLASHCARDS_VOCAB.length) ? FLASHCARDS_VOCAB : FALLBACK_VOCAB;
-            currentIndex = 0;
-            updateCard();
+        function saveSRS() {
+            localStorage.setItem('sqwease-flashcards-srs', JSON.stringify(srsCards));
+            const today = new Date().toDateString();
+            localStorage.setItem('sqwease-flashcards-date', today);
+            localStorage.setItem('sqwease-flashcards-new-today', newCardsIntroduced.toString());
         }
 
-        function updateCard() {
-            if (!vocabulary.length) {
-                wordEl.textContent = '—';
-                pronunciationEl.textContent = '';
-                definitionEl.textContent = 'No cards loaded. Use a local server for full list.';
-                sentenceEl.innerHTML = '';
-                progressEl.textContent = '0 / 0';
+        function loadSRS() {
+            const stored = localStorage.getItem('sqwease-flashcards-srs');
+            if (stored) {
+                srsCards = JSON.parse(stored);
+            }
+            const storedDate = localStorage.getItem('sqwease-flashcards-date');
+            const today = new Date().toDateString();
+            if (storedDate === today) {
+                newCardsIntroduced = parseInt(localStorage.getItem('sqwease-flashcards-new-today') || '0');
+            } else {
+                newCardsIntroduced = 0;
+            }
+        }
+
+        function getOrInitCard(itemId) {
+            if (!srsCards[itemId]) {
+                srsCards[itemId] = SRS.initCard(itemId);
+            }
+            return srsCards[itemId];
+        }
+
+        function updateStats() {
+            let newCount = 0;
+            let learningCount = 0;
+            let reviewCount = 0;
+            
+            for (let i = 0; i < vocabulary.length; i++) {
+                const itemId = 'fc-' + i;
+                const srsCard = srsCards[itemId];
+                if (!srsCard) {
+                    newCount++;
+                } else if (srsCard.state === 'learning' && SRS.isDue(srsCard)) {
+                    learningCount++;
+                } else if (srsCard.state === 'review' && SRS.isDue(srsCard)) {
+                    reviewCount++;
+                }
+            }
+            
+            document.getElementById('statNew').textContent = newCount;
+            document.getElementById('statLearning').textContent = learningCount;
+            document.getElementById('statReview').textContent = reviewCount;
+            
+            const total = newCount + learningCount + reviewCount;
+            document.getElementById('studyBtn').disabled = total === 0;
+        }
+
+        function buildDueQueue() {
+            dueCards = [];
+            const learning = [];
+            const review = [];
+            const newCards = [];
+            
+            for (let i = 0; i < vocabulary.length; i++) {
+                const itemId = 'fc-' + i;
+                const srsCard = srsCards[itemId];
+                
+                if (!srsCard) {
+                    if (newCardsIntroduced < newCardsPerDay) {
+                        newCards.push(i);
+                    }
+                } else if (srsCard.state === 'learning' && SRS.isDue(srsCard)) {
+                    learning.push(i);
+                } else if (srsCard.state === 'review' && SRS.isDue(srsCard)) {
+                    review.push(i);
+                }
+            }
+            
+            dueCards = review.concat(learning).concat(newCards);
+        }
+
+        function startStudy() {
+            buildDueQueue();
+            if (dueCards.length === 0) {
                 return;
             }
-            const item = vocabulary[currentIndex];
+            currentIndex = 0;
+            document.getElementById('deckView').classList.add('hidden');
+            document.getElementById('reviewView').classList.remove('hidden');
+            showCard();
+        }
+
+        function showCard() {
+            if (currentIndex >= dueCards.length) {
+                document.getElementById('deckView').classList.remove('hidden');
+                document.getElementById('reviewView').classList.add('hidden');
+                updateStats();
+                return;
+            }
+            
+            const vocabIndex = dueCards[currentIndex];
+            const item = vocabulary[vocabIndex];
+            const itemId = 'fc-' + vocabIndex;
+            const srsCard = getOrInitCard(itemId);
+            
+            if (srsCard.state === 'new') {
+                newCardsIntroduced++;
+                saveSRS();
+            }
+            
             wordEl.textContent = item.w;
             pronunciationEl.textContent = item.p;
             definitionEl.textContent = item.d;
             sentenceEl.innerHTML = (item.s || '').replace(/\n/g, '<br>');
-            progressEl.textContent = 'Card ' + (currentIndex + 1) + ' of ' + vocabulary.length;
+            
+            document.getElementById('intervalAgain').textContent = SRS.getIntervalDisplay(srsCard, 1);
+            document.getElementById('intervalHard').textContent = SRS.getIntervalDisplay(srsCard, 2);
+            document.getElementById('intervalGood').textContent = SRS.getIntervalDisplay(srsCard, 3);
+            document.getElementById('intervalEasy').textContent = SRS.getIntervalDisplay(srsCard, 4);
+            
             card.classList.remove('is-flipped');
+            isFlipped = false;
+            document.getElementById('ratingButtons').classList.add('hidden');
+            
+            progressEl.textContent = 'Card ' + (currentIndex + 1) + ' of ' + dueCards.length;
         }
 
-        function flipCard() { card.classList.toggle('is-flipped'); }
-        function nextCard() {
-            if (currentIndex < vocabulary.length - 1) {
-                currentIndex++;
-                updateCard();
-            } else if (vocabulary.length && confirm('End of list! Restart?')) {
-                currentIndex = 0;
-                updateCard();
+        function flipCard() {
+            if (dueCards.length === 0) return;
+            card.classList.toggle('is-flipped');
+            isFlipped = !isFlipped;
+            if (isFlipped) {
+                document.getElementById('ratingButtons').classList.remove('hidden');
+            } else {
+                document.getElementById('ratingButtons').classList.add('hidden');
             }
         }
-        function prevCard() {
-            if (currentIndex > 0) {
-                currentIndex--;
-                updateCard();
-            }
+
+        function rateCard(rating) {
+            const vocabIndex = dueCards[currentIndex];
+            const itemId = 'fc-' + vocabIndex;
+            const srsCard = getOrInitCard(itemId);
+            
+            const updated = SRS.reviewCard(srsCard, rating);
+            srsCards[itemId] = updated;
+            saveSRS();
+            
+            currentIndex++;
+            showCard();
         }
-        function shuffleCards() {
-            if (!vocabulary.length) return;
-            for (let i = vocabulary.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [vocabulary[i], vocabulary[j]] = [vocabulary[j], vocabulary[i]];
-            }
-            currentIndex = 0;
-            updateCard();
+
+        function initVocab() {
+            vocabulary = (typeof FLASHCARDS_VOCAB !== 'undefined' && FLASHCARDS_VOCAB.length) ? FLASHCARDS_VOCAB : FALLBACK_VOCAB;
+            loadSRS();
+            updateStats();
+            progressEl.textContent = 'Ready to study!';
         }
+
         document.addEventListener('keydown', function(e) {
+            if (dueCards.length === 0) return;
             if (e.code === 'Space' || e.code === 'ArrowUp' || e.code === 'ArrowDown') {
                 e.preventDefault();
                 flipCard();
-            } else if (e.code === 'ArrowRight') nextCard();
-            else if (e.code === 'ArrowLeft') prevCard();
+            } else if (isFlipped) {
+                if (e.code === 'Digit1') rateCard(1);
+                else if (e.code === 'Digit2') rateCard(2);
+                else if (e.code === 'Digit3') rateCard(3);
+                else if (e.code === 'Digit4') rateCard(4);
+            }
         });
 
         initVocab();
@@ -252,9 +513,7 @@
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             localStorage.setItem('sqwease-theme', next);
-            // Icon updates via [data-theme] and CSS
         }
-        // Load saved theme (already applied in head; icon driven by CSS)
         const saved = localStorage.getItem('sqwease-theme');
         if (saved) document.documentElement.setAttribute('data-theme', saved);
     </script>

@@ -40,7 +40,7 @@ The project is currently in early development, with a basic flashcard interface 
 - **Progress Tracking**: Visual progress indicators showing current position in vocabulary set
 - **Keyboard Navigation**: Space/Arrow keys for quick card navigation
 - **Shuffle Mode**: Randomize card order for varied practice
-- **1-2-3 Cups**: Conversation-first sentence patterns (Likes, Study, Routine, Wants, Because) with generated cups and flip-card practice in the browser
+- **1-2-3 Boxes**: Conversation-first sentence patterns (Likes, Study, Routine, Wants, Because) with generated boxes and flip-card practice in the browser
 
 ---
 
@@ -64,31 +64,31 @@ The project is currently in early development, with a basic flashcard interface 
 
 **Main menu**
 
-- Open **`index.html`** in your browser. You’ll see a **main menu** with two options: **Flashcards** and **1-2-3 Cups**. Click one to open that activity.
+- Open **`index.html`** in your browser. You’ll see a **main menu** with two options: **Flashcards** and **1-2-3 Boxes**. Click one to open that activity.
 
 **Flashcards**
 
 - From the menu, click **Flashcards** (or open **`flashcards.html`**). **1500 words** come from **`flashcards-vocab.js`** (same folder). When you deploy, the static host builds this file from the CSV—no manual step.
 
-**1-2-3 Cups (conversation practice)**
+**1-2-3 Boxes (conversation practice)**
 
-- From the menu, click **1-2-3 Cups** (or open **`cups.html`**). Data comes from **`cups-data.js`** (same folder). When you deploy, the static host builds it from `content/cups-config.json` and `content/cups-words.json`—no manual step. Word lists and practice are saved in that browser (localStorage).
+- From the menu, click **1-2-3 Boxes** (or open **`boxes.html`**). Data comes from **`boxes-data.js`** (same folder). When you deploy, the static host builds it from `content/boxes-config.json` and `content/boxes-words.json`—no manual step. Word lists and practice are saved in that browser (localStorage).
 
 **Both in one place**
 
-- Open **`index.html`** in your browser (or run a local server and open **http://localhost:8000**). The main menu lets you switch between Flashcards and 1-2-3 Cups; each activity has a **← Menu** link to return.
+- Open **`index.html`** in your browser (or run a local server and open **http://localhost:8000**). The main menu lets you switch between Flashcards and 1-2-3 Boxes; each activity has a **← Menu** link to return.
 
 **Share with friends / use on your phone — one link**
 
 - **Deploy once, then share the link.** No zip, no “run this on your machine.” You get a URL; send it to anyone—they open it on their phone (or any browser) and practice. No install, no unzip.
-- **How to deploy (GitHub Pages):** Push the repo. Run **`node scripts/build-flashcards-vocab.js`** and **`node scripts/build-cups-data.js`** locally, commit **`flashcards-vocab.js`** and **`cups-data.js`**, then push. In repo **Settings → Pages → Source:** “Deploy from a branch” → branch **main** (or **master**), folder **/ (root)**. Save; your site will be at **https://kcpatt27.github.io/sqwease/**.
+- **How to deploy (GitHub Pages):** Push the repo. Run **`node scripts/build-flashcards-vocab.js`** and **`node scripts/build-boxes-data.js`** locally, commit **`flashcards-vocab.js`** and **`boxes-data.js`**, then push. In repo **Settings → Pages → Source:** “Deploy from a branch” → branch **main** (or **master**), folder **/ (root)**. Save; your site will be at **https://kcpatt27.github.io/sqwease/**.
 - **Later:** The site is static HTML/JS; it can be deployed to [Cloudflare Pages](https://pages.cloudflare.com) or any static host (run the build scripts, then upload the folder).
-- After deploy, open the site URL on your phone—Flashcards and 1-2-3 Cups work; layout is responsive. Word lists and progress stay in that browser (localStorage).
+- After deploy, open the site URL on your phone—Flashcards and 1-2-3 Boxes work; layout is responsive. Word lists and progress stay in that browser (localStorage).
 
 **Other ways to run**
 
 - **Same Wi‑Fi (no deploy):** On your computer: `python -m http.server 8000 --bind 0.0.0.0`. On your phone (same Wi‑Fi), open `http://<your-IP>:8000` (find IP with `ipconfig` / `ifconfig`).
-- **Local only:** Open **`index.html`** in a browser. Keep **`flashcards-vocab.js`** and **`cups-data.js`** in the same folder (generate with the scripts in `scripts/` if missing).
+- **Local only:** Open **`index.html`** in a browser. Keep **`flashcards-vocab.js`** and **`boxes-data.js`** in the same folder (generate with the scripts in `scripts/` if missing).
 
 ---
 
@@ -98,7 +98,7 @@ The project is currently in early development, with a basic flashcard interface 
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - **To share with others:** Deploy to GitHub Pages (see Quick start); you get a URL. Share that link—no zip, no install. People open it on their phone and practice.
-- **Local use:** Open `index.html`; keep **`flashcards-vocab.js`** and **`cups-data.js`** in the same folder (generate with `node scripts/build-flashcards-vocab.js` and `node scripts/build-cups-data.js` if missing).
+- **Local use:** Open `index.html`; keep **`flashcards-vocab.js`** and **`boxes-data.js`** in the same folder (generate with `node scripts/build-flashcards-vocab.js` and `node scripts/build-boxes-data.js` if missing).
 
 ### Setup
 
@@ -110,9 +110,9 @@ The project is currently in early development, with a basic flashcard interface 
 
 2. **Build data (optional but recommended)**:
    - **Flashcards:** `node scripts/build-flashcards-vocab.js` → creates `flashcards-vocab.js` (1500 words).
-   - **1-2-3 Cups:** `node scripts/build-cups-data.js` → creates `cups-data.js` from `content/cups-config.json` and `content/cups-words.json`.
+   - **1-2-3 Boxes:** `node scripts/build-boxes-data.js` → creates `boxes-data.js` from `content/boxes-config.json` and `content/boxes-words.json`. (Config may use `cups`/`cupType`; the app normalizes to `boxes`/`boxType` at runtime.)
 3. **Open the app**:
-   - Open **`index.html`** directly in your browser for menu, Flashcards, and 1-2-3 Cups (no server needed if the `.js` data files are present).
+   - Open **`index.html`** directly in your browser for menu, Flashcards, and 1-2-3 Boxes (no server needed if the `.js` data files are present).
    - Or start a local server and go to `http://localhost:8000`:
      ```bash
      # Python 3
@@ -162,14 +162,14 @@ Example: 学校に行きます。 (I go to school.)
 - `→`: Next card
 - `←`: Previous card
 
-### 1-2-3 Cups (Conversation practice)
+### 1-2-3 Boxes (Conversation practice)
 
-1. Open **`cups.html`** (or click **1-2-3 Cups** from the main flashcard page).
+1. Open **`boxes.html`** (or click **1-2-3 Boxes** from the main menu).
 2. Choose a **set**: Likes and Dislikes, Studying and Work, Daily Routine, Wants and Plans, or Because.
 3. **View list**: See all generated sentences (Cup 1 = statement, Cup 2 = yes/no question, Cup 3 = open question).
 4. **Practice**: Switch to “Practice (flip cards)” and click the card or press **Space** to flip (Japanese → romaji + English). Use **←** / **→** or buttons for prev/next.
 
-Sentences are **generated** from word lists and cup patterns. **Verbs** are a great place to start: Japanese has roughly 2,000–3,000 base verbs (plus many する-compounds). The app’s verbs are **cherry-picked** to match common English verbs (go, come, make, take, give, see, know, think, move, stay, change, etc.) plus motion/state verbs, so you get strong coverage for speaking and thinking. Each verb drives three phrase types (statement, yes/no question, open question) in the Routine and Wants sets. The practice pack has a **“Core verbs: learn these first”** section (Motion, State/change, Daily life, Mental/communication). Use the **Word lists** tab in `cups.html` to add or remove nouns, verbs, places, and routine pairs; your changes are saved in this browser (localStorage). **Reset to defaults** restores the built-in lists. You can also edit **`content/cups-words.json`** directly; the app loads from JSON on first visit, then uses saved data if present. The full method and drills are in **`content/1-2-3-cups-practice-pack.md`**.
+Sentences are **generated** from word lists and cup patterns. **Verbs** are a great place to start: Japanese has roughly 2,000–3,000 base verbs (plus many する-compounds). The app’s verbs are **cherry-picked** to match common English verbs (go, come, make, take, give, see, know, think, move, stay, change, etc.) plus motion/state verbs, so you get strong coverage for speaking and thinking. Each verb drives three phrase types (statement, yes/no question, open question) in the Routine and Wants sets. The practice pack has a **“Core verbs: learn these first”** section (Motion, State/change, Daily life, Mental/communication). Use the **Word lists** tab in `boxes.html` to add or remove nouns, verbs, places, and routine pairs; your changes are saved in this browser (localStorage). **Reset to defaults** restores the built-in lists. You can also edit **`content/cups-words.json`** directly; the app loads from JSON on first visit, then uses saved data if present. The full method and drills are in **`content/1-2-3-boxes-practice-pack.md`**.
 
 ### Using with Anki
 
