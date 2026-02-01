@@ -85,7 +85,8 @@
             max-width: 320px;
         }
         .menu a {
-            display: block;
+            display: flex;
+            flex-direction: column;
             padding: 20px 24px;
             background: var(--card-bg);
             border: 2px solid var(--primary);
@@ -109,11 +110,15 @@
         .menu a.cups:hover {
             box-shadow: 0 6px 16px rgba(46, 213, 115, 0.25);
         }
+        .menu .title {
+            font-size: 1.1rem;
+            font-weight: 700;
+        }
         .menu .hint {
             font-size: 0.8rem;
             color: #a4b0be;
             font-weight: 400;
-            margin-top: 4px;
+            margin-top: 6px;
         }
         .menu .desc {
             display: none;
@@ -133,6 +138,9 @@
                 padding: 24px 28px;
                 text-align: left;
             }
+            .menu .title {
+                font-size: 1.15rem;
+            }
             .menu .hint {
                 font-size: 0.85rem;
                 color: #747d8c;
@@ -149,7 +157,7 @@
         }
         @media (max-width: 600px) {
             h1 { font-size: 1.4rem; }
-            .menu a { padding: 18px 20px; min-height: 56px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+            .menu a { padding: 18px 20px; min-height: 56px; align-items: center; justify-content: center; }
         }
     </style>
 </head>
@@ -159,12 +167,12 @@
     <p class="tagline">Japanese · vocab & conversation</p>
     <nav class="menu">
         <a href="flashcards.html">
-            Flashcards
+            <span class="title">Flashcards</span>
             <span class="hint">Vocabulary · flip cards</span>
             <span class="desc">1,500 high-frequency words. Flip to see romaji, definition, and example sentence.</span>
         </a>
-        <a href="cups.html" class="cups">
-            1-2-3 Cups
+        <a href="boxes.html" class="cups">
+            <span class="title">1-2-3 Boxes</span>
             <span class="hint">Conversation practice · sentence patterns</span>
             <span class="desc">Statement → yes/no question → open question. Build real conversation habits.</span>
         </a>
@@ -176,13 +184,9 @@
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             localStorage.setItem('sqwease-theme', next);
-            // Icon updates via [data-theme] and CSS
         }
-        // Load saved theme (sync icon with already-applied theme from head)
         const saved = localStorage.getItem('sqwease-theme');
-        if (saved) {
-            document.documentElement.setAttribute('data-theme', saved);
-        }
+        if (saved) document.documentElement.setAttribute('data-theme', saved);
     </script>
 </body>
 </html>

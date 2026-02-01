@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1-2-3 Cups · SQWease</title>
+    <title>1-2-3 Boxes · SQWease</title>
     <script>
     (function(){
         var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
@@ -150,15 +150,15 @@
         }
         .mode-tab.active { background: #2ed573; color: #fff; border-color: #2ed573; }
         .list-view { max-width: 700px; }
-        .cup-group {
+        .box-group {
             margin-bottom: 24px;
         }
-        .cup-group h3 {
+        .box-group h3 {
             color: var(--primary);
             margin-bottom: 8px;
             font-size: 1rem;
         }
-        .cup-item {
+        .box-item {
             display: grid;
             grid-template-columns: 1fr auto auto;
             gap: 12px;
@@ -169,9 +169,9 @@
             margin-bottom: 6px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.08);
         }
-        .cup-item .ja { font-size: 1.1rem; }
-        .cup-item .romaji { color: var(--secondary-text); font-style: italic; font-size: 0.95rem; }
-        .cup-item .en { color: var(--text); font-size: 0.95rem; }
+        .box-item .ja { font-size: 1.1rem; }
+        .box-item .romaji { color: var(--secondary-text); font-style: italic; font-size: 0.95rem; }
+        .box-item .en { color: var(--text); font-size: 0.95rem; }
         .practice-area {
             max-width: 520px;
             margin: 0 auto;
@@ -263,13 +263,13 @@
             .subtitle { font-size: 0.9rem; margin-bottom: 16px; }
             .set-tab { padding: 10px 12px; font-size: 0.9rem; }
             .mode-tab { padding: 10px 12px; min-height: 44px; }
-            .cup-item {
+            .box-item {
                 grid-template-columns: 1fr;
                 gap: 4px;
                 padding: 12px;
             }
-            .cup-item .ja { font-size: 1.2rem; }
-            .cup-item .romaji, .cup-item .en { font-size: 0.9rem; }
+            .box-item .ja { font-size: 1.2rem; }
+            .box-item .romaji, .box-item .en { font-size: 0.9rem; }
             .practice-card { min-height: 240px; }
             .practice-card .face { min-height: 240px; padding: 16px; }
             .practice-card .face-front .main { font-size: 1.5rem; }
@@ -290,28 +290,28 @@
     <nav class="nav">
         <a href="index.html">← Menu</a>
         <span>·</span>
-        <span><strong>1-2-3 Cups</strong></span>
+        <span><strong>1-2-3 Boxes</strong></span>
     </nav>
-    <h1>1-2-3 Cups</h1>
-    <p class="subtitle">Conversation-first sentence patterns. Cup 1 = statement, Cup 2 = yes/no question, Cup 3 = open question.</p>
+    <h1>1-2-3 Boxes</h1>
+    <p class="subtitle">Conversation-first sentence patterns. Box 1 = statement, Box 2 = yes/no question, Box 3 = open question.</p>
 
     <div class="info-box">
         <h3>💡 How to use</h3>
         <div id="infoToggle">
             <span class="toggle-info" onclick="toggleInfo()">Show instructions ▼</span>
             <div id="infoDetail" style="display:none; margin-top:12px;">
-                <p><strong>1-2-3 Cups</strong> is a method for building conversation skills by practicing three sentence types:</p>
+                <p><strong>1-2-3 Boxes</strong> is a method for building conversation skills by practicing three sentence types:</p>
                 <ul>
-                    <li><strong>Cup 1 (Statement):</strong> "I like coffee." — State something.</li>
-                    <li><strong>Cup 2 (Yes/No Question):</strong> "Do you like coffee?" — Ask a closed question.</li>
-                    <li><strong>Cup 3 (Open Question):</strong> "What do you like?" — Ask an open question.</li>
+                    <li><strong>Box 1 (Statement):</strong> "I like coffee." — State something.</li>
+                    <li><strong>Box 2 (Yes/No Question):</strong> "Do you like coffee?" — Ask a closed question.</li>
+                    <li><strong>Box 3 (Open Question):</strong> "What do you like?" — Ask an open question.</li>
                 </ul>
                 <p><strong>Usage:</strong> Pick a set (Likes, Study, Routine, etc.) → <strong>View list</strong> to see all sentences, <strong>Practice</strong> to flip cards (Japanese front, romaji+English back), or <strong>Word lists</strong> to add/edit vocabulary.</p>
             </div>
         </div>
     </div>
 
-    <div id="loading" class="loading">Loading cups...</div>
+    <div id="loading" class="loading">Loading boxes...</div>
     <div id="main" class="hidden">
         <div class="set-tabs" id="setTabs"></div>
         <div class="mode-tabs">
@@ -342,7 +342,7 @@
             </div>
         </div>
         <div id="wordListView" class="wordlist-area hidden">
-            <p class="subtitle" style="margin-bottom: 12px;">Add or remove words used to generate cups. Saved in this browser only.</p>
+            <p class="subtitle" style="margin-bottom: 12px;">Add or remove words used to generate boxes. Saved in this browser only.</p>
             <div class="wordlist-cats" id="wordlistCats"></div>
             <div id="wordlistContent"></div>
             <div class="wordlist-reset">
@@ -353,11 +353,11 @@
     </div>
     <div id="error" class="error hidden"></div>
 
-    <script src="cups-data.js"></script>
+    <script src="boxes-data.js"></script>
     <script>
         let config = null;
         let words = null;
-        let generatedItems = [];  // { ja, romaji, en, cupType, setName, cupName }
+        let generatedItems = [];  // { ja, romaji, en, boxType, setName, boxName }
         let currentSetId = null;
         let practiceIndex = 0;
         let practiceItems = [];
@@ -373,27 +373,27 @@
         function generateItems() {
             const items = [];
             for (const set of config.sets) {
-                for (const cup of set.cups) {
-                    if (cup.fixed) {
+                for (const box of set.boxes) {
+                    if (box.fixed) {
                         items.push({
-                            ja: cup.templateJa,
-                            romaji: cup.templateRomaji,
-                            en: cup.templateEn,
-                            cupType: cup.cupType,
+                            ja: box.templateJa,
+                            romaji: box.templateRomaji,
+                            en: box.templateEn,
+                            boxType: box.boxType,
                             setName: set.name,
-                            cupName: cup.name
+                            boxName: box.name
                         });
                     } else {
-                        const slotWords = words[cup.slot];
+                        const slotWords = words[box.slot];
                         if (!slotWords) continue;
                         for (const w of slotWords) {
                             items.push({
-                                ja: fillTemplate(cup.templateJa, w),
-                                romaji: fillTemplate(cup.templateRomaji, w),
-                                en: fillTemplate(cup.templateEn, w),
-                                cupType: cup.cupType,
+                                ja: fillTemplate(box.templateJa, w),
+                                romaji: fillTemplate(box.templateRomaji, w),
+                                en: fillTemplate(box.templateEn, w),
+                                boxType: box.boxType,
                                 setName: set.name,
-                                cupName: cup.name
+                                boxName: box.name
                             });
                         }
                     }
@@ -446,7 +446,7 @@
                 group.innerHTML = '<h3>Cup ' + cupType + ': ' + escapeHtml(list[0].cupName) + '</h3>';
                 for (const item of list) {
                     const row = document.createElement('div');
-                    row.className = 'cup-item';
+                    row.className = 'box-item';
                     row.innerHTML = '<span class="ja">' + escapeHtml(item.ja) + '</span><span class="romaji">' + escapeHtml(item.romaji) + '</span><span class="en">' + escapeHtml(item.en) + '</span>';
                     group.appendChild(row);
                 }
@@ -539,7 +539,7 @@
 
         function saveWords() {
             try {
-                localStorage.setItem('sqwease-cups-words', JSON.stringify(words));
+                localStorage.setItem('sqwease-boxes-words', JSON.stringify(words));
             } catch (err) {}
             generatedItems = generateItems();
             renderList();
@@ -656,12 +656,12 @@
 
         function load() {
             try {
-                if (typeof CUPS_CONFIG === 'undefined' || typeof CUPS_WORDS === 'undefined') {
-                    throw new Error('cups-data.js not loaded');
+                if (typeof BOXES_CONFIG === 'undefined' || typeof BOXES_WORDS === 'undefined') {
+                    throw new Error('boxes-data.js not loaded');
                 }
-                config = CUPS_CONFIG;
-                defaultWords = CUPS_WORDS;
-                const stored = localStorage.getItem('sqwease-cups-words');
+                config = BOXES_CONFIG;
+                defaultWords = BOXES_WORDS;
+                const stored = localStorage.getItem('sqwease-boxes-words');
                 words = stored ? JSON.parse(stored) : JSON.parse(JSON.stringify(defaultWords));
                 if (!words.nounsLikes || !Array.isArray(words.nounsLikes)) words = JSON.parse(JSON.stringify(defaultWords));
                 generatedItems = generateItems();
@@ -674,7 +674,7 @@
             } catch (e) {
                 document.getElementById('loading').classList.add('hidden');
                 document.getElementById('error').classList.remove('hidden');
-                document.getElementById('error').textContent = 'Could not load cups data. Run: node scripts/build-cups-data.js then open cups.html (or ensure cups-data.js is in the same folder as cups.html).';
+                document.getElementById('error').textContent = 'Could not load boxes data. Run: node scripts/build-boxes-data.js then open boxes.html (or ensure boxes-data.js is in the same folder as boxes.html).';
             }
         }
         load();
