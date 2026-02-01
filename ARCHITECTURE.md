@@ -138,7 +138,7 @@ In the future, SQWease will evolve into a full-stack application with a backend 
 
 **Failure Mode:** If backend is down, users can't track progress or use spaced repetition features. Mitigation: Implement offline mode with local storage, graceful degradation.
 
-**Hosted on:** TBD (considering Vercel, Railway, or AWS)
+**Hosted on:** GitHub Pages (static). Future: Cloudflare Pages or other static host; backend TBD (Railway, AWS, etc.).
 
 ### Planned: Database (PostgreSQL)
 
@@ -248,7 +248,7 @@ In the future, SQWease will evolve into a full-stack application with a backend 
 
 **Why:**
 - **MVP focus**: Validate core learning experience before adding complexity
-- **Deployment simplicity**: Can host on any static hosting (GitHub Pages, Netlify)
+- **Deployment simplicity**: Can host on any static hosting (GitHub Pages, Cloudflare Pages)
 - **No infrastructure costs**: Free hosting options available
 - **Faster iteration**: No backend deployment pipeline needed
 
@@ -281,7 +281,7 @@ In the future, SQWease will evolve into a full-stack application with a backend 
 ### Scaling Strategy (Future)
 
 1. **Frontend**: 
-   - CDN distribution (Vercel, Netlify) for static assets
+   - CDN distribution (GitHub Pages, Cloudflare Pages) for static assets
    - Code splitting for faster initial load
    - Service worker for offline support
 
@@ -352,8 +352,8 @@ In the future, SQWease will evolve into a full-stack application with a backend 
 
 1. **Environments**:
    - **Development**: Local machine with hot reload
-   - **Staging**: Preview deployments (Vercel/Netlify previews)
-   - **Production**: Static hosting (Vercel/Netlify) + Backend (TBD)
+   - **Staging**: Preview deployments (e.g. branch previews)
+   - **Production**: Static hosting (GitHub Pages; future: Cloudflare Pages) + Backend (TBD)
 
 2. **CI/CD Pipeline**:
    - **Frontend**: Automatic deployment on git push to main
@@ -367,7 +367,7 @@ In the future, SQWease will evolve into a full-stack application with a backend 
 
 4. **Monitoring/Alerting**:
    - Error tracking (Sentry)
-   - Performance monitoring (Vercel Analytics, or similar)
+   - Performance monitoring (optional; e.g. Cloudflare Web Analytics)
    - Uptime monitoring (UptimeRobot or similar)
    - User analytics (privacy-respecting, like Plausible)
 

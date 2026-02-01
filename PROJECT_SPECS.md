@@ -17,7 +17,7 @@ A language learning application that combines comprehensive input with spaced re
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
 - **Database:** CSV files (vocabulary data), planned: PostgreSQL for user progress
 - **External APIs:** None currently, planned: Text-to-speech API for pronunciation
-- **Hosting:** Local development, planned: Static hosting (Vercel/Netlify) + backend (TBD)
+- **Hosting:** Local development; GitHub Pages (static). Future: Cloudflare Pages or other static host; backend TBD.
 - **AI Tools Used:** Cursor (Claude 3.5 for scaffolding and documentation)
 
 ## Key Features (Completed)

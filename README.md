@@ -80,11 +80,9 @@ The project is currently in early development, with a basic flashcard interface 
 
 **Share with friends / use on your phone — one link**
 
-- **Deploy once, then share the link.** No zip, no “run this on your machine.” You deploy this repo to a static host; the host runs the build (generates `flashcards-vocab.js` and `cups-data.js`). You get a URL. Send that URL to anyone—they open it on their phone (or any browser) and practice. No install, no unzip.
-- **How to deploy:** Push the repo to GitHub, then:
-  - **[Netlify](https://netlify.com):** New site → Import from Git → pick this repo. Build command and publish dir are in **`netlify.toml`** (no config needed).
-  - **[Vercel](https://vercel.com):** Import this repo. Build command and output are in **`vercel.json`** (no config needed).
-  - **GitHub Pages:** Push the repo. Run **`node scripts/build-flashcards-vocab.js`** and **`node scripts/build-cups-data.js`** locally, commit **`flashcards-vocab.js`** and **`cups-data.js`**, then push. In repo **Settings → Pages → Source:** “Deploy from a branch” → branch **main** (or **master**), folder **/ (root)**. Save; your site will be at **https://kcpatt27.github.io/sqwease/**.
+- **Deploy once, then share the link.** No zip, no “run this on your machine.” You get a URL; send it to anyone—they open it on their phone (or any browser) and practice. No install, no unzip.
+- **How to deploy (GitHub Pages):** Push the repo. Run **`node scripts/build-flashcards-vocab.js`** and **`node scripts/build-cups-data.js`** locally, commit **`flashcards-vocab.js`** and **`cups-data.js`**, then push. In repo **Settings → Pages → Source:** “Deploy from a branch” → branch **main** (or **master**), folder **/ (root)**. Save; your site will be at **https://kcpatt27.github.io/sqwease/**.
+- **Later:** The site is static HTML/JS; it can be deployed to [Cloudflare Pages](https://pages.cloudflare.com) or any static host (run the build scripts, then upload the folder).
 - After deploy, open the site URL on your phone—Flashcards and 1-2-3 Cups work; layout is responsive. Word lists and progress stay in that browser (localStorage).
 
 **Other ways to run**
@@ -99,7 +97,7 @@ The project is currently in early development, with a basic flashcard interface 
 ### Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
-- **To share with others:** Deploy to Netlify, Vercel, or GitHub Pages (see Quick start); the build runs and you get a URL. Share that link—no zip, no install. People open it on their phone and practice.
+- **To share with others:** Deploy to GitHub Pages (see Quick start); you get a URL. Share that link—no zip, no install. People open it on their phone and practice.
 - **Local use:** Open `index.html`; keep **`flashcards-vocab.js`** and **`cups-data.js`** in the same folder (generate with `node scripts/build-flashcards-vocab.js` and `node scripts/build-cups-data.js` if missing).
 
 ### Setup
