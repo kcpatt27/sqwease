@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kana Charts · SQWease</title>
+    <script>
+    (function(){
+        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
+        var theme = (s === 'dark' || s === 'light') ? s : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    })();
+    </script>
+    <style>
+        :root {
+            --primary: #ff4757;
+            --text: #2f3542;
+            --bg: #f1f2f6;
+            --card-bg: #ffffff;
+            --border: #dfe4ea;
+            --secondary-text: #747d8c;
+        }
+        [data-theme="dark"] {
+            --primary: #ff6b81;
+            --text: #e4e4e4;
+            --bg: #1e272e;
+            --card-bg: #2d3436;
+            --border: #57606f;
+            --secondary-text: #a4b0be;
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 20px;
+            padding-bottom: 40px;
+            min-height: 100vh;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--card-bg);
+            border: 2px solid var(--border);
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.4rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            z-index: 100;
+        }
+        .theme-toggle .icon-dark { display: none; }
+        .theme-toggle .icon-light { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-light { display: none; }
+        .top-link { margin-bottom: 12px; }
+        .top-link a { color: var(--primary); font-weight: 600; text-decoration: none; }
+        .top-link a:hover { text-decoration: underline; }
+        h1 { color: var(--primary); margin-bottom: 8px; font-size: 1.75rem; }
+        .subtitle { color: var(--secondary-text); font-size: 0.95rem; margin-bottom: 24px; }
+        .chart-wrap {
+            overflow-x: auto;
+            margin-bottom: 24px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .kana-table {
+            border-collapse: collapse;
+            width: 100%;
+            min-width: 280px;
+            background: var(--card-bg);
+            font-size: 0.9rem;
+        }
+        .kana-table th, .kana-table td {
+            border: 1px solid var(--border);
+            padding: 6px 0px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        .kana-table th {
+            background: var(--secondary-text);
+            color: var(--card-bg);
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+        .kana-table th.consonant { width: 1.8em; font-size: 0.7rem; }
+        .kana-table td.consonant {
+            font-weight: 700;
+            font-size: 0.75rem;
+            background: var(--bg);
+            color: var(--text);
+        }
+        .kana-table td.cell {
+            min-width: 52px;
+        }
+        .kana-table td.cell .cell-inner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 0.5rem;
+            width: 100%;
+            min-height: 2.2em;
+            padding: 0 1.75rem;
+        }
+        .kana-table .cell-kana-group {
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+        }
+        /* 3-column tables (Digraphs, Digraphs + diacritics): higher cell padding than 5-column */
+        .kana-table.kana-table-cols-3 td.cell .cell-inner {
+            padding: 0 2.25rem;
+        }
+        .kana-table .cell-romaji {
+            font-size: 0.9rem;
+            color: var(--text);
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+        .kana-table .cell-kana { font-size: 1.2rem; line-height: 1.2; }
+        .kana-table .kana { display: block; }
+        .kana-table td.cell.empty { background: var(--bg); opacity: 0.4; }
+        /* Row colors by consonant (Gojuon) */
+        .kana-table tr.row-vowel td.cell { background: #e8b4b8; }
+        [data-theme="dark"] .kana-table tr.row-vowel td.cell { background: #5c3a3d; }
+        .kana-table tr.row-k td.cell { background: #f5d0a9; }
+        [data-theme="dark"] .kana-table tr.row-k td.cell { background: #5c4a2a; }
+        .kana-table tr.row-s td.cell { background: #f9f3a9; }
+        [data-theme="dark"] .kana-table tr.row-s td.cell { background: #5c5a2a; }
+        .kana-table tr.row-t td.cell { background: #a8d5a2; }
+        [data-theme="dark"] .kana-table tr.row-t td.cell { background: #2d4a2a; }
+        .kana-table tr.row-n td.cell { background: #a8d4e6; }
+        [data-theme="dark"] .kana-table tr.row-n td.cell { background: #2a4a5c; }
+        .kana-table tr.row-h td.cell { background: #c9b4e8; }
+        [data-theme="dark"] .kana-table tr.row-h td.cell { background: #3d3a5c; }
+        .kana-table tr.row-m td.cell { background: #b4b4e8; }
+        [data-theme="dark"] .kana-table tr.row-m td.cell { background: #2a2a5c; }
+        .kana-table tr.row-y td.cell { background: #a8d5a2; }
+        [data-theme="dark"] .kana-table tr.row-y td.cell { background: #2d4a2a; }
+        .kana-table tr.row-r td.cell { background: #e8b4b8; }
+        [data-theme="dark"] .kana-table tr.row-r td.cell { background: #5c3a3d; }
+        .kana-table tr.row-w td.cell { background: #d4b896; }
+        [data-theme="dark"] .kana-table tr.row-w td.cell { background: #5c4a3a; }
+        .kana-table tr.row-nn td.cell { background: #d4b896; }
+        [data-theme="dark"] .kana-table tr.row-nn td.cell { background: #5c4a3a; }
+        .section-title { font-size: 1rem; font-weight: 700; margin: 20px 0 10px; color: var(--text); }
+        .chart-group { margin-bottom: 32px; }
+        @media (max-width: 600px) {
+            body { padding: 12px; }
+            .kana-table .cell-romaji { font-size: 0.8rem; }
+            .kana-table .cell-kana { font-size: 1rem; }
+            .kana-table .cell-kana-group { gap: 0.35rem; }
+            .kana-table td.cell .cell-inner { gap: 0.35rem; min-height: 1.9em; padding: 0 0.35rem; }
+            .kana-table.kana-table-cols-3 td.cell .cell-inner { padding: 0 0.6rem; }
+            .kana-table.kana-table-cols-3 .cell-kana-group { gap: 0.5rem; }
+            .kana-table th, .kana-table td { padding: 5px 0px; }
+            .kana-table td.cell { min-width: 44px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
+    <p class="top-link"><a href="index.html">← Menu</a></p>
+    <h1>Kana Charts</h1>
+    <p class="subtitle">Hiragana (top) and Katakana (bottom) in Gojuon order.</p>
+
+    <div class="chart-group">
+        <div class="section-title">Monographs (basic)</div>
+        <div class="chart-wrap">
+            <table class="kana-table" id="gojuonTable"></table>
+        </div>
+    </div>
+
+    <div class="chart-group">
+        <div class="section-title">Diacritics (dakuten ゛ handakuten ゜)</div>
+        <div class="chart-wrap">
+            <table class="kana-table" id="diacriticsTable"></table>
+        </div>
+    </div>
+
+    <div class="chart-group">
+        <div class="section-title">Digraphs (ya, yu, yo combinations)</div>
+        <div class="chart-wrap">
+            <table class="kana-table kana-table-cols-3" id="digraphsTable"></table>
+        </div>
+    </div>
+
+    <div class="chart-group">
+        <div class="section-title">Digraphs with diacritics</div>
+        <div class="chart-wrap">
+            <table class="kana-table kana-table-cols-3" id="digraphsDiacriticsTable"></table>
+        </div>
+    </div>
+
+    <script>
+        // Gojuon monographs
+        var gojuon = [
+            { consonant: '', rowClass: 'row-vowel', cells: [
+                { h: 'あ', k: 'ア', r: 'a' }, { h: 'い', k: 'イ', r: 'i' }, { h: 'う', k: 'ウ', r: 'u' }, { h: 'え', k: 'エ', r: 'e' }, { h: 'お', k: 'オ', r: 'o' }
+            ]},
+            { consonant: 'k', rowClass: 'row-k', cells: [
+                { h: 'か', k: 'カ', r: 'ka' }, { h: 'き', k: 'キ', r: 'ki' }, { h: 'く', k: 'ク', r: 'ku' }, { h: 'け', k: 'ケ', r: 'ke' }, { h: 'こ', k: 'コ', r: 'ko' }
+            ]},
+            { consonant: 's', rowClass: 'row-s', cells: [
+                { h: 'さ', k: 'サ', r: 'sa' }, { h: 'し', k: 'シ', r: 'shi' }, { h: 'す', k: 'ス', r: 'su' }, { h: 'せ', k: 'セ', r: 'se' }, { h: 'そ', k: 'ソ', r: 'so' }
+            ]},
+            { consonant: 't', rowClass: 'row-t', cells: [
+                { h: 'た', k: 'タ', r: 'ta' }, { h: 'ち', k: 'チ', r: 'chi' }, { h: 'つ', k: 'ツ', r: 'tsu' }, { h: 'て', k: 'テ', r: 'te' }, { h: 'と', k: 'ト', r: 'to' }
+            ]},
+            { consonant: 'n', rowClass: 'row-n', cells: [
+                { h: 'な', k: 'ナ', r: 'na' }, { h: 'に', k: 'ニ', r: 'ni' }, { h: 'ぬ', k: 'ヌ', r: 'nu' }, { h: 'ね', k: 'ネ', r: 'ne' }, { h: 'の', k: 'ノ', r: 'no' }
+            ]},
+            { consonant: 'h', rowClass: 'row-h', cells: [
+                { h: 'は', k: 'ハ', r: 'ha' }, { h: 'ひ', k: 'ヒ', r: 'hi' }, { h: 'ふ', k: 'フ', r: 'fu' }, { h: 'へ', k: 'ヘ', r: 'he' }, { h: 'ほ', k: 'ホ', r: 'ho' }
+            ]},
+            { consonant: 'm', rowClass: 'row-m', cells: [
+                { h: 'ま', k: 'マ', r: 'ma' }, { h: 'み', k: 'ミ', r: 'mi' }, { h: 'む', k: 'ム', r: 'mu' }, { h: 'め', k: 'メ', r: 'me' }, { h: 'も', k: 'モ', r: 'mo' }
+            ]},
+            { consonant: 'y', rowClass: 'row-y', cells: [
+                { h: 'や', k: 'ヤ', r: 'ya' }, null, { h: 'ゆ', k: 'ユ', r: 'yu' }, null, { h: 'よ', k: 'ヨ', r: 'yo' }
+            ]},
+            { consonant: 'r', rowClass: 'row-r', cells: [
+                { h: 'ら', k: 'ラ', r: 'ra' }, { h: 'り', k: 'リ', r: 'ri' }, { h: 'る', k: 'ル', r: 'ru' }, { h: 'れ', k: 'レ', r: 're' }, { h: 'ろ', k: 'ロ', r: 'ro' }
+            ]},
+            { consonant: 'w', rowClass: 'row-w', cells: [
+                { h: 'わ', k: 'ワ', r: 'wa' }, null, null, null, { h: 'を', k: 'ヲ', r: 'wo' }
+            ]},
+            { consonant: '—', rowClass: 'row-nn', cells: [
+                { h: 'ん', k: 'ン', r: 'n' }, null, null, null, null
+            ]}
+        ];
+
+        // Diacritics (dakuten and handakuten)
+        var diacritics = [
+            { consonant: 'g', rowClass: 'row-k', cells: [
+                { h: 'が', k: 'ガ', r: 'ga' }, { h: 'ぎ', k: 'ギ', r: 'gi' }, { h: 'ぐ', k: 'グ', r: 'gu' }, { h: 'げ', k: 'ゲ', r: 'ge' }, { h: 'ご', k: 'ゴ', r: 'go' }
+            ]},
+            { consonant: 'z', rowClass: 'row-s', cells: [
+                { h: 'ざ', k: 'ザ', r: 'za' }, { h: 'じ', k: 'ジ', r: 'ji' }, { h: 'ず', k: 'ズ', r: 'zu' }, { h: 'ぜ', k: 'ゼ', r: 'ze' }, { h: 'ぞ', k: 'ゾ', r: 'zo' }
+            ]},
+            { consonant: 'd', rowClass: 'row-t', cells: [
+                { h: 'だ', k: 'ダ', r: 'da' }, { h: 'ぢ', k: 'ヂ', r: 'ji' }, { h: 'づ', k: 'ヅ', r: 'zu' }, { h: 'で', k: 'デ', r: 'de' }, { h: 'ど', k: 'ド', r: 'do' }
+            ]},
+            { consonant: 'b', rowClass: 'row-h', cells: [
+                { h: 'ば', k: 'バ', r: 'ba' }, { h: 'び', k: 'ビ', r: 'bi' }, { h: 'ぶ', k: 'ブ', r: 'bu' }, { h: 'べ', k: 'ベ', r: 'be' }, { h: 'ぼ', k: 'ボ', r: 'bo' }
+            ]},
+            { consonant: 'p', rowClass: 'row-h', cells: [
+                { h: 'ぱ', k: 'パ', r: 'pa' }, { h: 'ぴ', k: 'ピ', r: 'pi' }, { h: 'ぷ', k: 'プ', r: 'pu' }, { h: 'ぺ', k: 'ペ', r: 'pe' }, { h: 'ぽ', k: 'ポ', r: 'po' }
+            ]}
+        ];
+
+        // Digraphs (ya, yu, yo combinations)
+        var digraphs = [
+            { consonant: 'k', rowClass: 'row-k', cells: [
+                { h: 'きゃ', k: 'キャ', r: 'kya' }, { h: 'きゅ', k: 'キュ', r: 'kyu' }, { h: 'きょ', k: 'キョ', r: 'kyo' }
+            ]},
+            { consonant: 's', rowClass: 'row-s', cells: [
+                { h: 'しゃ', k: 'シャ', r: 'sha' }, { h: 'しゅ', k: 'シュ', r: 'shu' }, { h: 'しょ', k: 'ショ', r: 'sho' }
+            ]},
+            { consonant: 'c', rowClass: 'row-t', cells: [
+                { h: 'ちゃ', k: 'チャ', r: 'cha' }, { h: 'ちゅ', k: 'チュ', r: 'chu' }, { h: 'ちょ', k: 'チョ', r: 'cho' }
+            ]},
+            { consonant: 'n', rowClass: 'row-n', cells: [
+                { h: 'にゃ', k: 'ニャ', r: 'nya' }, { h: 'にゅ', k: 'ニュ', r: 'nyu' }, { h: 'にょ', k: 'ニョ', r: 'nyo' }
+            ]},
+            { consonant: 'h', rowClass: 'row-h', cells: [
+                { h: 'ひゃ', k: 'ヒャ', r: 'hya' }, { h: 'ひゅ', k: 'ヒュ', r: 'hyu' }, { h: 'ひょ', k: 'ヒョ', r: 'hyo' }
+            ]},
+            { consonant: 'm', rowClass: 'row-m', cells: [
+                { h: 'みゃ', k: 'ミャ', r: 'mya' }, { h: 'みゅ', k: 'ミュ', r: 'myu' }, { h: 'みょ', k: 'ミョ', r: 'myo' }
+            ]},
+            { consonant: 'r', rowClass: 'row-r', cells: [
+                { h: 'りゃ', k: 'リャ', r: 'rya' }, { h: 'りゅ', k: 'リュ', r: 'ryu' }, { h: 'りょ', k: 'リョ', r: 'ryo' }
+            ]}
+        ];
+
+        // Digraphs with diacritics
+        var digraphsDiacritics = [
+            { consonant: 'g', rowClass: 'row-k', cells: [
+                { h: 'ぎゃ', k: 'ギャ', r: 'gya' }, { h: 'ぎゅ', k: 'ギュ', r: 'gyu' }, { h: 'ぎょ', k: 'ギョ', r: 'gyo' }
+            ]},
+            { consonant: 'j', rowClass: 'row-s', cells: [
+                { h: 'じゃ', k: 'ジャ', r: 'ja' }, { h: 'じゅ', k: 'ジュ', r: 'ju' }, { h: 'じょ', k: 'ジョ', r: 'jo' }
+            ]},
+            { consonant: 'b', rowClass: 'row-h', cells: [
+                { h: 'びゃ', k: 'ビャ', r: 'bya' }, { h: 'びゅ', k: 'ビュ', r: 'byu' }, { h: 'びょ', k: 'ビョ', r: 'byo' }
+            ]},
+            { consonant: 'p', rowClass: 'row-h', cells: [
+                { h: 'ぴゃ', k: 'ピャ', r: 'pya' }, { h: 'ぴゅ', k: 'ピュ', r: 'pyu' }, { h: 'ぴょ', k: 'ピョ', r: 'pyo' }
+            ]}
+        ];
+
+        function renderTable(tableId, data, headers) {
+            var table = document.getElementById(tableId);
+            var headerRow = '<tr>';
+            headers.forEach(function(h) { headerRow += '<th>' + h + '</th>'; });
+            headerRow += '</tr>';
+            table.innerHTML = headerRow;
+
+            data.forEach(function(row) {
+                var tr = document.createElement('tr');
+                tr.className = row.rowClass;
+                row.cells.forEach(function(cell) {
+                    var td = document.createElement('td');
+                    td.className = 'cell' + (cell ? '' : ' empty');
+                    if (cell) {
+                        td.innerHTML = '<div class="cell-inner"><span class="cell-romaji">' + cell.r + '</span><span class="cell-kana-group"><span class="cell-kana">' + cell.h + '</span><span class="cell-kana">' + cell.k + '</span></span></div>';
+                    }
+                    tr.appendChild(td);
+                });
+                table.appendChild(tr);
+            });
+        }
+
+        renderTable('gojuonTable', gojuon, ['a', 'i', 'u', 'e', 'o']);
+        renderTable('diacriticsTable', diacritics, ['a', 'i', 'u', 'e', 'o']);
+        renderTable('digraphsTable', digraphs, ['ya', 'yu', 'yo']);
+        renderTable('digraphsDiacriticsTable', digraphsDiacritics, ['ya', 'yu', 'yo']);
+
+        // #region agent log
+        (function(){
+            var firstCell = document.querySelector('.kana-table td.cell .cell-inner');
+            var romajiEl = firstCell ? firstCell.querySelector('.cell-romaji') : null;
+            var kanaGroupEl = firstCell ? firstCell.querySelector('.cell-kana-group') : null;
+            var innerJustify = firstCell ? window.getComputedStyle(firstCell).justifyContent : '';
+            var cellWidth = firstCell ? firstCell.getBoundingClientRect().width : 0;
+            var romajiWidth = romajiEl ? romajiEl.getBoundingClientRect().width : 0;
+            var kanaGroupWidth = kanaGroupEl ? kanaGroupEl.getBoundingClientRect().width : 0;
+            var gap = cellWidth - romajiWidth - kanaGroupWidth;
+            fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'kana-charts.html',message:'cell spacing',data:{innerJustify:innerJustify,cellWidth:cellWidth,romajiWidth:romajiWidth,kanaGroupWidth:kanaGroupWidth,gapWidth:gap,innerWidth:window.innerWidth},timestamp:Date.now(),sessionId:'debug-session',hypothesisId:'H2',runId:'post-fix-2'})}).catch(function(){});
+        })();
+        // #endregion
+
+        function toggleTheme() {
+            var html = document.documentElement;
+            var current = html.getAttribute('data-theme');
+            var next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('sqwease-theme', next);
+        }
+        var saved = localStorage.getItem('sqwease-theme');
+        if (saved) document.documentElement.setAttribute('data-theme', saved);
+    </script>
+</body>
+</html>

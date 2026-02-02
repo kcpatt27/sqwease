@@ -27,6 +27,18 @@ SQWease aims to become the most efficient way to learn any language, by combinin
   - Codebase: ~580 lines (HTML/CSS/JS)
   - Documentation: README, PROJECT_SPECS, ARCHITECTURE, ROADMAP complete
 
+## Recently completed (from product backlog)
+
+- **Kana charts:** Main menu card + page (Gojuon grid, row color-coding, monographs/diacritics/digraphs).
+- **Kanji section:** Main menu card + kanji.html with add/remove list (localStorage), scalable.
+- **Boxes cards:** Front = Japanese + Romaji; back = Japanese + Romaji + English.
+- **Syllable color-coding:** Kanji/romaji colored by first syllable (red a/i/u/e/o, orange k+, yellow s+, etc.); applied on Flashcards (word, pronunciation, definition), Boxes (front/back), Kanji list (character, readings).
+
+## Planned (from product backlog)
+
+- **Kanji pictures:** Optional images for Kanji entries (deferred).
+- **Audio / Image:** See Now section below.
+
 ## Now (Next 4 weeks)
 
 ### Spaced Repetition Algorithm Implementation
@@ -39,6 +51,7 @@ SQWease aims to become the most efficient way to learn any language, by combinin
 **Effort**: ~1-2 weeks
 
 ### Audio Pronunciation Integration
+<!-- small browser ai + Whisper??? -->
 **Why**: Comprehensive input requires audio. Many learners struggle with Japanese pronunciation, and hearing native pronunciation is essential for proper learning. This addresses a critical gap in the current text-only approach.
 
 **Impact**: Enables true comprehensive input learning. Expected to improve pronunciation accuracy by 40% and overall word recognition by 25%.

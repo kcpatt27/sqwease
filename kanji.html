@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanji · SQWease</title>
+    <script>
+    (function(){
+        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
+        var theme = (s === 'dark' || s === 'light') ? s : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    })();
+    </script>
+    <style>
+        :root {
+            --primary: #ff4757;
+            --text: #2f3542;
+            --bg: #f1f2f6;
+            --card-bg: #ffffff;
+            --border: #dfe4ea;
+            --secondary-text: #747d8c;
+        }
+        [data-theme="dark"] {
+            --primary: #ff6b81;
+            --text: #e4e4e4;
+            --bg: #1e272e;
+            --card-bg: #2d3436;
+            --border: #57606f;
+            --secondary-text: #a4b0be;
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 16px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--card-bg);
+            border: 2px solid var(--border);
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.4rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            user-select: none;
+            z-index: 100;
+        }
+        .theme-toggle:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+        }
+        .theme-toggle .icon-dark { display: none; }
+        .theme-toggle .icon-light { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-light { display: none; }
+        .container {
+            width: 100%;
+            max-width: 700px;
+        }
+        .nav {
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .nav a:hover { text-decoration: underline; }
+        h1 { color: var(--primary); margin-top: 0; }
+        .subtitle { color: var(--secondary-text); margin-bottom: 24px; }
+        .kanji-add {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: flex-end;
+            margin-bottom: 24px;
+        }
+        .kanji-add .field {
+            display: flex;
+            flex-direction: column;
+        }
+        .kanji-add label {
+            font-size: 0.8rem;
+            color: var(--secondary-text);
+            margin-bottom: 4px;
+        }
+        .kanji-add input {
+            padding: 10px 12px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 1rem;
+            background: var(--card-bg);
+            color: var(--text);
+        }
+        .kanji-add input#kanjiChar { width: 4em; font-size: 1.5rem; text-align: center; }
+        .kanji-add input#kanjiReadings { min-width: 140px; }
+        .kanji-add input#kanjiMeaning { min-width: 160px; }
+        .kanji-add button {
+            padding: 10px 20px;
+            background: #e67e22;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .kanji-add button:hover { background: #d35400; }
+        .kanji-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: var(--card-bg);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .kanji-table th,
+        .kanji-table td {
+            padding: 12px 14px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+        .kanji-table th {
+            background: var(--border);
+            font-size: 0.85rem;
+            color: var(--secondary-text);
+        }
+        .kanji-table tr:last-child td { border-bottom: none; }
+        .kanji-table .char {
+            font-size: 1.8rem;
+            font-weight: 600;
+        }
+        .kanji-table .readings { color: var(--secondary-text); font-style: italic; }
+        .kanji-table .meaning { font-size: 0.95rem; }
+        .kanji-table .remove-btn {
+            padding: 6px 12px;
+            font-size: 0.85rem;
+            background: #ff6b6b;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+        .kanji-table .remove-btn:hover { background: #ee5a5a; }
+        .kanji-empty {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--secondary-text);
+            background: var(--card-bg);
+            border-radius: 8px;
+            border: 2px dashed var(--border);
+        }
+        .hidden { display: none !important; }
+        @media (max-width: 600px) {
+            body { padding: 12px; }
+            .kanji-add { flex-direction: column; align-items: stretch; }
+            .kanji-add input#kanjiChar { width: 100%; }
+            .kanji-table th, .kanji-table td { padding: 10px; font-size: 0.9rem; }
+            .kanji-table .char { font-size: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
+    <div class="container">
+        <nav class="nav">
+            <a href="index.html">← Menu</a>
+            <span>·</span>
+            <span><strong>Kanji</strong></span>
+        </nav>
+        <h1>Kanji</h1>
+        <p class="subtitle">Add and remove characters. Readings and meanings are saved in this browser only.</p>
+
+        <div class="kanji-add">
+            <div class="field">
+                <label for="kanjiChar">Character</label>
+                <input type="text" id="kanjiChar" maxlength="4" placeholder="日" autocomplete="off" />
+            </div>
+            <div class="field">
+                <label for="kanjiReadings">Readings (romaji)</label>
+                <input type="text" id="kanjiReadings" placeholder="nichi, hi" autocomplete="off" />
+            </div>
+            <div class="field">
+                <label for="kanjiMeaning">Meaning</label>
+                <input type="text" id="kanjiMeaning" placeholder="day, sun" autocomplete="off" />
+            </div>
+            <button type="button" id="kanjiAddBtn">Add</button>
+        </div>
+
+        <div id="kanjiListWrap">
+            <table class="kanji-table" id="kanjiTable">
+                <thead>
+                    <tr>
+                        <th>Kanji</th>
+                        <th>Readings</th>
+                        <th>Meaning</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody id="kanjiTbody"></tbody>
+            </table>
+            <div id="kanjiEmpty" class="kanji-empty hidden">No Kanji yet. Add one above.</div>
+        </div>
+    </div>
+
+    <script src="syllable-color.js"></script>
+    <script>
+        var STORAGE_KEY = 'sqwease-kanji-list';
+
+        function loadKanji() {
+            try {
+                var raw = localStorage.getItem(STORAGE_KEY);
+                return raw ? JSON.parse(raw) : [];
+            } catch (e) {
+                return [];
+            }
+        }
+
+        function saveKanji(list) {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+            renderList();
+        }
+
+        function escapeHtml(s) {
+            if (s == null) return '';
+            var div = document.createElement('div');
+            div.textContent = s;
+            return div.innerHTML;
+        }
+
+        function renderList() {
+            var list = loadKanji();
+            var tbody = document.getElementById('kanjiTbody');
+            var emptyEl = document.getElementById('kanjiEmpty');
+            var tableEl = document.getElementById('kanjiTable');
+
+            if (list.length === 0) {
+                tableEl.classList.add('hidden');
+                emptyEl.classList.remove('hidden');
+                return;
+            }
+            tableEl.classList.remove('hidden');
+            emptyEl.classList.add('hidden');
+
+            tbody.innerHTML = '';
+            var isDark = typeof SyllableColor !== 'undefined' && SyllableColor.isDarkTheme();
+            list.forEach(function(item, index) {
+                var tr = document.createElement('tr');
+                var color = typeof SyllableColor !== 'undefined' ? SyllableColor.getColorForRomaji(item.readings, isDark) : '';
+                var charStyle = color ? ' style="color:' + color + ';font-weight:600"' : '';
+                tr.innerHTML =
+                    '<td class="char"' + charStyle + '>' + escapeHtml(item.character) + '</td>' +
+                    '<td class="readings">' + escapeHtml(item.readings) + '</td>' +
+                    '<td class="meaning">' + escapeHtml(item.meaning) + '</td>' +
+                    '<td><button type="button" class="remove-btn" data-index="' + index + '">Remove</button></td>';
+                tr.querySelector('.remove-btn').addEventListener('click', function() {
+                    var idx = parseInt(this.getAttribute('data-index'), 10);
+                    var arr = loadKanji();
+                    arr.splice(idx, 1);
+                    saveKanji(arr);
+                });
+                tbody.appendChild(tr);
+            });
+        }
+
+        document.getElementById('kanjiAddBtn').addEventListener('click', function() {
+            var charInput = document.getElementById('kanjiChar');
+            var readingsInput = document.getElementById('kanjiReadings');
+            var meaningInput = document.getElementById('kanjiMeaning');
+            var character = (charInput.value || '').trim();
+            var readings = (readingsInput.value || '').trim();
+            var meaning = (meaningInput.value || '').trim();
+            if (!character) return;
+            var list = loadKanji();
+            list.push({ character: character, readings: readings, meaning: meaning });
+            saveKanji(list);
+            charInput.value = '';
+            readingsInput.value = '';
+            meaningInput.value = '';
+            charInput.focus();
+        });
+
+        document.getElementById('kanjiReadings').addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') document.getElementById('kanjiAddBtn').click();
+        });
+        document.getElementById('kanjiMeaning').addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') document.getElementById('kanjiAddBtn').click();
+        });
+
+        renderList();
+
+        function toggleTheme() {
+            var html = document.documentElement;
+            var current = html.getAttribute('data-theme');
+            var next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('sqwease-theme', next);
+        }
+    </script>
+</body>
+</html>
