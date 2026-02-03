@@ -1,0 +1,64 @@
+[
+  {
+    "id": "boxes-likes-3",
+    "version": "1.0",
+    "ja": "何が好きですか。",
+    "romaji": "nani ga suki desu ka.",
+    "en": "What do you like?",
+    "tokens": [
+      { "ja": "何", "kana": "なに", "romaji": "nani", "en": "what", "start": 0, "end": 1, "pos": "pronoun", "isParticle": false },
+      { "ja": "が", "kana": "が", "romaji": "ga", "en": null, "start": 1, "end": 2, "pos": "particle", "isParticle": true },
+      { "ja": "好き", "kana": "すき", "romaji": "suki", "en": "like", "start": 2, "end": 4, "pos": "adjective", "isParticle": false },
+      { "ja": "です", "kana": "です", "romaji": "desu", "en": null, "start": 4, "end": 6, "pos": "copula", "isParticle": true },
+      { "ja": "か", "kana": "か", "romaji": "ka", "en": null, "start": 6, "end": 7, "pos": "particle", "isParticle": true },
+      { "ja": "。", "kana": "。", "romaji": ".", "en": null, "start": 7, "end": 8, "pos": "punctuation", "isParticle": true }
+    ]
+  },
+  {
+    "id": "boxes-study-3",
+    "version": "1.0",
+    "ja": "何を勉強していますか。",
+    "romaji": "nani o benkyou shite imasu ka.",
+    "en": "What are you studying?",
+    "tokens": [
+      { "ja": "何", "kana": "なに", "romaji": "nani", "en": "what", "start": 0, "end": 1, "pos": "pronoun", "isParticle": false },
+      { "ja": "を", "kana": "を", "romaji": "o", "en": null, "start": 1, "end": 2, "pos": "particle", "isParticle": true },
+      { "ja": "勉強", "kana": "べんきょう", "romaji": "benkyou", "en": "study", "start": 2, "end": 4, "pos": "noun", "isParticle": false },
+      { "ja": "して", "kana": "して", "romaji": "shite", "en": null, "start": 4, "end": 6, "pos": "auxiliary", "isParticle": true },
+      { "ja": "います", "kana": "います", "romaji": "imasu", "en": null, "start": 6, "end": 9, "pos": "auxiliary", "isParticle": true },
+      { "ja": "か", "kana": "か", "romaji": "ka", "en": null, "start": 9, "end": 10, "pos": "particle", "isParticle": true },
+      { "ja": "。", "kana": "。", "romaji": ".", "en": null, "start": 10, "end": 11, "pos": "punctuation", "isParticle": true }
+    ]
+  },
+  {
+    "id": "boxes-routine-3",
+    "version": "1.0",
+    "ja": "いつ起きますか。",
+    "romaji": "itsu okimasu ka.",
+    "en": "When do you get up?",
+    "tokens": [
+      { "ja": "いつ", "kana": "いつ", "romaji": "itsu", "en": "when", "start": 0, "end": 2, "pos": "pronoun", "isParticle": false },
+      { "ja": "起き", "kana": "おき", "romaji": "oki", "en": "get up", "start": 2, "end": 4, "pos": "verb", "isParticle": false },
+      { "ja": "ます", "kana": "ます", "romaji": "masu", "en": null, "start": 4, "end": 6, "pos": "auxiliary", "isParticle": true },
+      { "ja": "か", "kana": "か", "romaji": "ka", "en": null, "start": 6, "end": 7, "pos": "particle", "isParticle": true },
+      { "ja": "。", "kana": "。", "romaji": ".", "en": null, "start": 7, "end": 8, "pos": "punctuation", "isParticle": true }
+    ]
+  },
+  {
+    "id": "boxes-wants-3",
+    "version": "1.0",
+    "ja": "なぜ日本に行きたいですか。",
+    "romaji": "naze nihon ni ikitai desu ka.",
+    "en": "Why do you want to go to Japan?",
+    "tokens": [
+      { "ja": "なぜ", "kana": "なぜ", "romaji": "naze", "en": "why", "start": 0, "end": 2, "pos": "adverb", "isParticle": false },
+      { "ja": "日本", "kana": "にほん", "romaji": "nihon", "en": "Japan", "start": 2, "end": 4, "pos": "noun", "isParticle": false },
+      { "ja": "に", "kana": "に", "romaji": "ni", "en": null, "start": 4, "end": 5, "pos": "particle", "isParticle": true },
+      { "ja": "行き", "kana": "いき", "romaji": "iki", "en": "go", "start": 5, "end": 7, "pos": "verb", "isParticle": false },
+      { "ja": "たい", "kana": "たい", "romaji": "tai", "en": "want to", "start": 7, "end": 9, "pos": "auxiliary", "isParticle": false },
+      { "ja": "です", "kana": "です", "romaji": "desu", "en": null, "start": 9, "end": 11, "pos": "copula", "isParticle": true },
+      { "ja": "か", "kana": "か", "romaji": "ka", "en": null, "start": 11, "end": 12, "pos": "particle", "isParticle": true },
+      { "ja": "。", "kana": "。", "romaji": ".", "en": null, "start": 12, "end": 13, "pos": "punctuation", "isParticle": true }
+    ]
+  }
+]
