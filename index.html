@@ -72,6 +72,8 @@
             margin-bottom: 8px;
             font-size: 1.75rem;
         }
+        .mobile-title { display: none; }
+        .pc-tablet-title { display: block; }
         .tagline {
             color: #747d8c;
             margin-bottom: 40px;
@@ -174,14 +176,17 @@
         }
         @media (max-width: 600px) {
             h1 { font-size: 1.4rem; }
+            .mobile-title { display: block; }
+            .pc-tablet-title { display: none; }
             .menu a { padding: 18px 20px; min-height: 56px; align-items: center; justify-content: center; }
         }
     </style>
 </head>
 <body>
     <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
-    <h1>SQWease · JP</h1>
-    <p class="tagline">Japanese · vocab & conversation</p>
+    <h1 class="mobile-title">SQWease · JP</h1>
+    <h1 class="pc-tablet-title">Speak Quite Well with Ease · Japanese</h1>
+    <p class="tagline">Vocab & conversation practice</p>
     <nav class="menu">
         <a href="flashcards.html">
             <span class="title">Flashcards</span>
@@ -202,6 +207,11 @@
             <span class="title">Kanji</span>
             <span class="hint">Characters & meanings</span>
             <span class="desc">Add and study your own Kanji list. Build a personal reference.</span>
+        </a>
+        <a href="editor.html" style="border-color: var(--border); color: var(--secondary-text);">
+            <span class="title">Token editor</span>
+            <span class="hint">Authoring</span>
+            <span class="desc">Edit tokenized sentences, kana, romaji, and recompute from kana.</span>
         </a>
     </nav>
     <script>
