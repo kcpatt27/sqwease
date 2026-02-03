@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tokenized sentences editor · SQWease</title>
+    <script>
+    (function(){
+        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
+        var theme = (s === 'dark' || s === 'light') ? s : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    })();
+    </script>
+    <style>
+        :root {
+            --primary: #ff4757;
+            --text: #2f3542;
+            --bg: #f1f2f6;
+            --card-bg: #ffffff;
+            --border: #dfe4ea;
+            --secondary-text: #747d8c;
+        }
+        [data-theme="dark"] {
+            --primary: #ff6b81;
+            --text: #e4e4e4;
+            --bg: #1e272e;
+            --card-bg: #2d3436;
+            --border: #57606f;
+            --secondary-text: #a4b0be;
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 16px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--card-bg);
+            border: 2px solid var(--border);
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.4rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            user-select: none;
+            z-index: 100;
+        }
+        .theme-toggle:hover { transform: scale(1.1); }
+        .theme-toggle .icon-dark { display: none; }
+        .theme-toggle .icon-light { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
+        [data-theme="dark"] .theme-toggle .icon-light { display: none; }
+        .container { width: 100%; max-width: 900px; }
+        .nav { margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
+        .nav a { color: var(--primary); text-decoration: none; font-weight: 600; }
+        .nav a:hover { text-decoration: underline; }
+        h1 { color: var(--primary); margin-top: 0; font-size: 1.5rem; }
+        .toolbar {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+        .toolbar button, .toolbar label {
+            padding: 8px 14px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            background: var(--card-bg);
+            color: var(--text);
+            font-size: 0.9rem;
+            cursor: pointer;
+        }
+        .toolbar button:hover, .toolbar label:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        .toolbar input[type="file"] { display: none; }
+        .status { color: var(--secondary-text); font-size: 0.9rem; margin-bottom: 16px; }
+        .status.error { color: var(--primary); }
+        .sentence-nav {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+        .sentence-nav button {
+            padding: 8px 16px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            background: var(--card-bg);
+            color: var(--text);
+            cursor: pointer;
+        }
+        .sentence-nav button:hover:not(:disabled) {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        .sentence-nav button:disabled { opacity: 0.5; cursor: not-allowed; }
+        .sentence-nav .index { font-size: 0.95rem; color: var(--secondary-text); }
+        .card {
+            background: var(--card-bg);
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .card h2 { margin-top: 0; font-size: 1rem; color: var(--primary); }
+        .sentence-ja {
+            font-size: 1.4rem;
+            line-height: 1.8;
+            margin-bottom: 8px;
+        }
+        .sentence-ja .token-span {
+            display: inline;
+            border-bottom: 1px dashed var(--border);
+            padding: 0 1px;
+        }
+        .sentence-romaji, .sentence-en {
+            font-size: 1rem;
+            color: var(--secondary-text);
+            margin-bottom: 8px;
+        }
+        .sentence-en-edit {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            background: var(--card-bg);
+            color: var(--text);
+            font-size: 1rem;
+        }
+        .token-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 16px;
+            font-size: 0.9rem;
+        }
+        .token-table th, .token-table td {
+            border: 1px solid var(--border);
+            padding: 8px 10px;
+            text-align: left;
+        }
+        .token-table th { background: var(--bg); color: var(--secondary-text); font-weight: 600; }
+        .token-table input[type="text"], .token-table input[type="checkbox"] {
+            width: 100%;
+            max-width: 140px;
+            padding: 6px 8px;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            background: var(--card-bg);
+            color: var(--text);
+        }
+        .token-table .ja-cell { font-size: 1.1rem; }
+        .token-table .particle-cell { width: 80px; text-align: center; }
+        .token-table .particle-cell input { max-width: none; width: auto; }
+        .actions { margin-top: 20px; display: flex; flex-wrap: wrap; gap: 12px; }
+        .actions button {
+            padding: 10px 18px;
+            border: 2px solid var(--primary);
+            border-radius: 8px;
+            background: var(--primary);
+            color: #fff;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .actions button.secondary {
+            background: var(--card-bg);
+            color: var(--primary);
+        }
+        .actions button:hover { opacity: 0.9; }
+        .card-header-row { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 8px; }
+        .card-header-row h2 { margin: 0; }
+        .register-label { font-size: 0.9rem; color: var(--secondary-text); }
+        .register-label select { margin-left: 4px; padding: 4px 8px; border: 1px solid var(--border); border-radius: 4px; background: var(--card-bg); color: var(--text); }
+        .checked-label { display: flex; align-items: center; gap: 6px; font-size: 0.9rem; color: var(--secondary-text); cursor: pointer; }
+        .checked-label input { cursor: pointer; }
+        .preview-colored { margin-top: 12px; font-size: 1.1rem; line-height: 1.6; }
+        .no-data { color: var(--secondary-text); text-align: center; padding: 40px 20px; }
+    </style>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
+    <div class="container">
+        <nav class="nav">
+            <a href="index.html">← SQWease</a>
+        </nav>
+        <h1>Tokenized sentences editor</h1>
+        <div class="toolbar">
+            <button type="button" id="btnLoadDefault">Load default</button>
+            <label for="fileInput">Load file</label>
+            <input type="file" id="fileInput" accept=".json,application/json">
+            <button type="button" id="btnExport">Export JSON</button>
+            <button type="button" id="btnExportCsv">Export CSV for spot-check</button>
+            <button type="button" id="btnAddSentenceToolbar" class="secondary">Add sentence</button>
+        </div>
+        <p class="status" id="status">No data loaded. Click "Load default" or "Load file".</p>
+        <div class="sentence-nav" id="sentenceNav" style="display: none;">
+            <button type="button" id="btnPrev">Previous</button>
+            <span class="index" id="navIndex">1 / 1</span>
+            <button type="button" id="btnNext">Next</button>
+            <button type="button" id="btnAddSentence" class="secondary">Add sentence</button>
+            <button type="button" id="btnRemoveSentence" class="secondary">Remove sentence</button>
+        </div>
+        <div class="card" id="sentenceCard" style="display: none;">
+            <div class="card-header-row">
+                <h2 id="cardId"></h2>
+                <label class="register-label">Register: <select id="sentenceRegister" title="Politeness/register">
+                    <option value="">—</option>
+                    <option value="polite">polite</option>
+                    <option value="casual">casual</option>
+                    <option value="very-formal">very-formal</option>
+                </select></label>
+                <label class="checked-label"><input type="checkbox" id="sentenceChecked" title="Mark as checked"> Mark as checked</label>
+            </div>
+            <label>Japanese (sentence):</label>
+            <input type="text" class="sentence-en-edit" id="sentenceJaInput" placeholder="Paste or type full Japanese text" style="margin-bottom: 8px;">
+            <div class="sentence-ja" id="sentenceJa"></div>
+            <div class="sentence-romaji" id="sentenceRomaji"></div>
+            <label>English (sentence):</label>
+            <input type="text" class="sentence-en-edit" id="sentenceEnInput" placeholder="Full English translation">
+            <div class="preview-colored" id="previewColored" style="display: none;"></div>
+            <table class="token-table">
+                <thead>
+                    <tr>
+                        <th>ja</th>
+                        <th>kana</th>
+                        <th>romaji</th>
+                        <th>en</th>
+                        <th>lemma</th>
+                        <th class="particle-cell">isParticle</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody id="tokenTbody"></tbody>
+            </table>
+            <div class="token-add-row" style="margin-top: 8px;">
+                <input type="text" id="newTokenJa" placeholder="New token (ja)" maxlength="20" style="width: 120px; padding: 6px 8px; margin-right: 8px;">
+                <button type="button" id="btnAddToken" class="secondary">Add token at end</button>
+            </div>
+            <div class="actions">
+                <button type="button" id="btnRecomputeCurrent">Recompute romaji from kana (this sentence)</button>
+                <button type="button" id="btnRecomputeAll" class="secondary">Recompute romaji from kana (all)</button>
+                <button type="button" id="btnTinySegmenter" class="secondary" title="Pre-fill token boundaries from TinySegmenter; you fill kana/en">Pre-fill tokens (TinySegmenter)</button>
+            </div>
+        </div>
+        <div class="no-data" id="noData">Load tokenized JSON to edit sentences.</div>
+    </div>
+    <script src="tiny-segmenter.js"></script>
+    <script src="romaji.js"></script>
+    <script src="syllable-color.js"></script>
+    <script>
+(function() {
+    'use strict';
+    var sentences = [];
+    var currentIndex = 0;
+
+    function toggleTheme() {
+        var html = document.documentElement;
+        var next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        html.setAttribute('data-theme', next);
+        if (typeof localStorage !== 'undefined') localStorage.setItem('sqwease-theme', next);
+        renderCurrent();
+    }
+
+    function setStatus(msg, isError) {
+        var el = document.getElementById('status');
+        el.textContent = msg;
+        el.classList.toggle('error', !!isError);
+    }
+
+    function loadSentences(data) {
+        if (!Array.isArray(data)) {
+            setStatus('Invalid data: expected an array of sentences.', true);
+            return;
+        }
+        sentences = data;
+        currentIndex = 0;
+        setStatus('Loaded ' + sentences.length + ' sentence(s).');
+        document.getElementById('noData').style.display = sentences.length ? 'none' : 'block';
+        document.getElementById('sentenceNav').style.display = sentences.length ? 'flex' : 'none';
+        document.getElementById('sentenceCard').style.display = sentences.length ? 'block' : 'none';
+        renderCurrent();
+    }
+
+    function loadDefault() {
+        fetch('content/boxes-tokenized.json')
+            .then(function(r) { return r.ok ? r.json() : Promise.reject(new Error(r.status + ' ' + r.statusText)); })
+            .then(loadSentences)
+            .catch(function(e) {
+                setStatus('Could not load default file. Use "Load file" to pick content/boxes-tokenized.json from disk. ' + e.message, true);
+            });
+    }
+
+    function onFileChange(e) {
+        var f = e.target.files && e.target.files[0];
+        if (!f) return;
+        var r = new FileReader();
+        r.onload = function() {
+            try {
+                var data = JSON.parse(r.result);
+                loadSentences(data);
+            } catch (err) {
+                setStatus('Invalid JSON: ' + err.message, true);
+            }
+        };
+        r.readAsText(f);
+        e.target.value = '';
+    }
+
+    function exportJson() {
+        if (!sentences.length) {
+            setStatus('No data to export.', true);
+            return;
+        }
+        var blob = new Blob([JSON.stringify(sentences, null, 2)], { type: 'application/json' });
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'tokenized-sentences.json';
+        a.click();
+        URL.revokeObjectURL(a.href);
+        setStatus('Exported ' + sentences.length + ' sentence(s).');
+    }
+
+    function escapeCsvCell(s) {
+        if (s == null) return '';
+        var str = String(s);
+        if (/[",\r\n]/.test(str)) return '"' + str.replace(/"/g, '""') + '"';
+        return str;
+    }
+
+    function exportCsvForSpotCheck() {
+        if (!sentences.length) {
+            setStatus('No data to export.', true);
+            return;
+        }
+        var rows = ['id,ja,romaji,en,register,checked'];
+        for (var i = 0; i < sentences.length; i++) {
+            var s = sentences[i];
+            rows.push([
+                escapeCsvCell(s.id),
+                escapeCsvCell(s.ja),
+                escapeCsvCell(s.romaji),
+                escapeCsvCell(s.en),
+                escapeCsvCell(s.register),
+                s.checked ? 'yes' : ''
+            ].join(','));
+        }
+        var blob = new Blob(['\ufeff' + rows.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'tokenized-sentences-spotcheck.csv';
+        a.click();
+        URL.revokeObjectURL(a.href);
+        setStatus('Exported CSV for spot-check (' + sentences.length + ' sentences).');
+    }
+
+    function recomputeCurrent() {
+        if (typeof Romaji === 'undefined' || !Romaji.kanaToRomaji) return;
+        var s = sentences[currentIndex];
+        if (!s || !s.tokens || !s.tokens.length) return;
+        for (var i = 0; i < s.tokens.length; i++) {
+            var t = s.tokens[i];
+            var k = (t.kana != null ? String(t.kana) : '').trim();
+            t.romaji = Romaji.kanaToRomaji(k);
+        }
+        s.romaji = s.tokens.map(function(t) { return t.romaji || ''; }).join(' ');
+        renderCurrent();
+        setStatus('Recomputed romaji for current sentence.');
+    }
+
+    function recomputeAll() {
+        if (typeof Romaji === 'undefined' || !Romaji.kanaToRomaji) return;
+        for (var j = 0; j < sentences.length; j++) {
+            var s = sentences[j];
+            if (!s.tokens || !s.tokens.length) continue;
+            for (var i = 0; i < s.tokens.length; i++) {
+                var t = s.tokens[i];
+                var k = (t.kana != null ? String(t.kana) : '').trim();
+                t.romaji = Romaji.kanaToRomaji(k);
+            }
+            s.romaji = s.tokens.map(function(t) { return t.romaji || ''; }).join(' ');
+        }
+        renderCurrent();
+        setStatus('Recomputed romaji for all ' + sentences.length + ' sentence(s).');
+    }
+
+    function renderCurrent() {
+        if (!sentences.length) return;
+        var s = sentences[currentIndex];
+        if (!s) return;
+        document.getElementById('cardId').textContent = s.id || ('Sentence ' + (currentIndex + 1));
+        var jaInput = document.getElementById('sentenceJaInput');
+        if (jaInput) {
+            jaInput.value = s.ja != null ? s.ja : '';
+        }
+        var regEl = document.getElementById('sentenceRegister');
+        if (regEl) {
+            regEl.value = (s.register && ['polite', 'casual', 'very-formal'].indexOf(s.register) >= 0) ? s.register : '';
+        }
+        var checkedCb = document.getElementById('sentenceChecked');
+        if (checkedCb) {
+            checkedCb.checked = !!s.checked;
+        }
+        var ja = s.ja || '';
+        var tokens = s.tokens || [];
+        var jaHtml = '';
+        for (var i = 0; i < tokens.length; i++) {
+            var t = tokens[i];
+            var seg = ja.slice(t.start, t.end);
+            jaHtml += '<span class="token-span">' + escapeHtml(seg) + '</span>';
+        }
+        document.getElementById('sentenceJa').innerHTML = jaHtml || escapeHtml(ja);
+        document.getElementById('sentenceRomaji').textContent = s.romaji || '';
+        document.getElementById('sentenceEnInput').value = s.en != null ? s.en : '';
+        var tbody = document.getElementById('tokenTbody');
+        tbody.innerHTML = '';
+        for (var i = 0; i < tokens.length; i++) {
+            var t = tokens[i];
+            var tr = document.createElement('tr');
+            var jaCell = document.createElement('td');
+            jaCell.className = 'ja-cell';
+            jaCell.textContent = t.ja != null ? t.ja : '';
+            tr.appendChild(jaCell);
+            var kanaInput = document.createElement('input');
+            kanaInput.type = 'text';
+            kanaInput.value = t.kana != null ? t.kana : '';
+            kanaInput.dataset.tokenIndex = String(i);
+            kanaInput.dataset.field = 'kana';
+            kanaInput.addEventListener('input', onTokenInput);
+            tr.appendChild(createTdWithInput(kanaInput));
+            var romajiInput = document.createElement('input');
+            romajiInput.type = 'text';
+            romajiInput.value = t.romaji != null ? t.romaji : '';
+            romajiInput.dataset.tokenIndex = String(i);
+            romajiInput.dataset.field = 'romaji';
+            romajiInput.addEventListener('input', onTokenInput);
+            tr.appendChild(createTdWithInput(romajiInput));
+            var enInput = document.createElement('input');
+            enInput.type = 'text';
+            enInput.value = t.en != null ? t.en : '';
+            enInput.dataset.tokenIndex = String(i);
+            enInput.dataset.field = 'en';
+            enInput.addEventListener('input', onTokenInput);
+            tr.appendChild(createTdWithInput(enInput));
+            var lemmaInput = document.createElement('input');
+            lemmaInput.type = 'text';
+            lemmaInput.value = t.lemma != null ? t.lemma : '';
+            lemmaInput.dataset.tokenIndex = String(i);
+            lemmaInput.dataset.field = 'lemma';
+            lemmaInput.addEventListener('input', onTokenInput);
+            tr.appendChild(createTdWithInput(lemmaInput));
+            var cb = document.createElement('input');
+            cb.type = 'checkbox';
+            cb.checked = !!t.isParticle;
+            cb.dataset.tokenIndex = String(i);
+            cb.addEventListener('change', onParticleChange);
+            var tdCb = document.createElement('td');
+            tdCb.className = 'particle-cell';
+            tdCb.appendChild(cb);
+            tr.appendChild(tdCb);
+            var removeBtn = document.createElement('button');
+            removeBtn.type = 'button';
+            removeBtn.className = 'secondary';
+            removeBtn.textContent = 'Remove';
+            removeBtn.style.fontSize = '0.85rem';
+            removeBtn.dataset.tokenIndex = String(i);
+            removeBtn.addEventListener('click', onRemoveToken);
+            var tdRemove = document.createElement('td');
+            tdRemove.appendChild(removeBtn);
+            tr.appendChild(tdRemove);
+            tbody.appendChild(tr);
+        }
+        document.getElementById('navIndex').textContent = (currentIndex + 1) + ' / ' + sentences.length;
+        document.getElementById('btnPrev').disabled = currentIndex <= 0;
+        document.getElementById('btnNext').disabled = currentIndex >= sentences.length - 1;
+        if (typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens && typeof Romaji !== 'undefined') {
+            var preview = document.getElementById('previewColored');
+            var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            var out = SyllableColor.colorizeByTokens(ja, tokens, isDark);
+            preview.innerHTML = out.jaHtml;
+            preview.style.display = 'block';
+        }
+    }
+
+    function createTdWithInput(input) {
+        var td = document.createElement('td');
+        td.appendChild(input);
+        return td;
+    }
+
+    function onTokenInput(e) {
+        var idx = parseInt(e.target.dataset.tokenIndex, 10);
+        var field = e.target.dataset.field;
+        var s = sentences[currentIndex];
+        if (!s || !s.tokens || !s.tokens[idx]) return;
+        var val = e.target.value;
+        if (field === 'en' && val === '') s.tokens[idx].en = null;
+        else if (field === 'lemma' && val === '') s.tokens[idx].lemma = undefined;
+        else s.tokens[idx][field] = val;
+        if (field === 'romaji' || field === 'kana') {
+            s.romaji = s.tokens.map(function(t) { return t.romaji != null ? t.romaji : ''; }).join(' ');
+            document.getElementById('sentenceRomaji').textContent = s.romaji || '';
+        }
+    }
+
+    function onParticleChange(e) {
+        var idx = parseInt(e.target.dataset.tokenIndex, 10);
+        var s = sentences[currentIndex];
+        if (!s || !s.tokens || !s.tokens[idx]) return;
+        s.tokens[idx].isParticle = e.target.checked;
+        renderCurrent();
+    }
+
+    function onSentenceJaInput() {
+        var s = sentences[currentIndex];
+        if (!s) return;
+        var el = document.getElementById('sentenceJaInput');
+        s.ja = el ? el.value : '';
+    }
+
+    function onSentenceEnInput() {
+        var s = sentences[currentIndex];
+        if (!s) return;
+        s.en = document.getElementById('sentenceEnInput').value.trim() || '';
+    }
+
+    function onSentenceCheckedChange() {
+        var s = sentences[currentIndex];
+        if (!s) return;
+        var cb = document.getElementById('sentenceChecked');
+        s.checked = !!cb && cb.checked;
+    }
+
+    function onSentenceRegisterChange() {
+        var s = sentences[currentIndex];
+        if (!s) return;
+        var sel = document.getElementById('sentenceRegister');
+        var v = sel && sel.value ? sel.value : undefined;
+        s.register = v || undefined;
+    }
+
+    function addSentence() {
+        var id = 'new-' + (sentences.length + 1);
+        sentences.push({
+            id: id,
+            ja: '',
+            romaji: '',
+            en: '',
+            tokens: []
+        });
+        currentIndex = sentences.length - 1;
+        document.getElementById('noData').style.display = 'none';
+        document.getElementById('sentenceNav').style.display = 'flex';
+        document.getElementById('sentenceCard').style.display = 'block';
+        setStatus('Added sentence. Fill Japanese and use "Pre-fill tokens" or add tokens manually.');
+        renderCurrent();
+    }
+
+    function removeSentence() {
+        if (!sentences.length) return;
+        sentences.splice(currentIndex, 1);
+        if (currentIndex >= sentences.length) currentIndex = Math.max(0, sentences.length - 1);
+        if (!sentences.length) {
+            document.getElementById('noData').style.display = 'block';
+            document.getElementById('sentenceNav').style.display = 'none';
+            document.getElementById('sentenceCard').style.display = 'none';
+            setStatus('No sentences left.');
+            return;
+        }
+        renderCurrent();
+        setStatus('Sentence removed.');
+    }
+
+    function addToken() {
+        var s = sentences[currentIndex];
+        if (!s) return;
+        var input = document.getElementById('newTokenJa');
+        var text = (input && input.value ? input.value : '').trim();
+        if (!text) {
+            setStatus('Enter Japanese text for the new token.', true);
+            return;
+        }
+        if (!s.tokens) s.tokens = [];
+        var start = s.ja ? s.ja.length : 0;
+        var end = start + text.length;
+        s.ja = (s.ja || '') + text;
+        var kana = '';
+        var romaji = typeof Romaji !== 'undefined' && Romaji.kanaToRomaji ? Romaji.kanaToRomaji(kana) : '';
+        s.tokens.push({
+            ja: text,
+            kana: kana,
+            romaji: romaji,
+            en: null,
+            start: start,
+            end: end,
+            pos: '',
+            isParticle: false
+        });
+        s.romaji = s.tokens.map(function(t) { return t.romaji || ''; }).join(' ');
+        if (input) input.value = '';
+        renderCurrent();
+        setStatus('Token added. Fill kana and run "Recompute romaji from kana" if needed.');
+    }
+
+    function onRemoveToken(e) {
+        var idx = parseInt(e.target.dataset.tokenIndex, 10);
+        var s = sentences[currentIndex];
+        if (!s || !s.tokens || !s.tokens[idx]) return;
+        var t = s.tokens[idx];
+        var len = t.end - t.start;
+        s.ja = (s.ja || '').slice(0, t.start) + (s.ja || '').slice(t.end);
+        s.tokens.splice(idx, 1);
+        for (var i = idx; i < s.tokens.length; i++) {
+            s.tokens[i].start -= len;
+            s.tokens[i].end -= len;
+        }
+        s.romaji = s.tokens.map(function(tok) { return tok.romaji || ''; }).join(' ');
+        renderCurrent();
+        setStatus('Token removed.');
+    }
+
+    function prefillTokensFromTinySegmenter() {
+        if (typeof TinySegmenter === 'undefined') {
+            setStatus('TinySegmenter not loaded. Ensure the script is available.', true);
+            return;
+        }
+        var s = sentences[currentIndex];
+        if (!s || !s.ja) {
+            setStatus('No sentence or Japanese text.', true);
+            return;
+        }
+        var ja = String(s.ja);
+        var segmenter = new TinySegmenter();
+        var segs = segmenter.segment(ja);
+        if (!segs || !segs.length) {
+            setStatus('TinySegmenter returned no segments.', true);
+            return;
+        }
+        var pos = 0;
+        var tokens = [];
+        for (var i = 0; i < segs.length; i++) {
+            var surface = segs[i];
+            var start = ja.indexOf(surface, pos);
+            if (start < 0) start = pos;
+            var end = start + surface.length;
+            pos = end;
+            tokens.push({
+                ja: surface,
+                kana: '',
+                romaji: '',
+                en: null,
+                start: start,
+                end: end,
+                pos: '',
+                isParticle: false
+            });
+        }
+        s.tokens = tokens;
+        s.romaji = tokens.map(function(t) { return t.romaji || ''; }).join(' ');
+        renderCurrent();
+        setStatus('Pre-filled ' + tokens.length + ' token(s). Fill kana and run "Recompute romaji from kana" as needed.');
+    }
+
+    function escapeHtml(str) {
+        if (str == null) return '';
+        var div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+    }
+
+    document.getElementById('btnLoadDefault').addEventListener('click', loadDefault);
+    document.getElementById('fileInput').addEventListener('change', onFileChange);
+    document.getElementById('btnExport').addEventListener('click', exportJson);
+    document.getElementById('btnExportCsv').addEventListener('click', exportCsvForSpotCheck);
+    var sentenceCheckedEl = document.getElementById('sentenceChecked');
+    if (sentenceCheckedEl) sentenceCheckedEl.addEventListener('change', onSentenceCheckedChange);
+    document.getElementById('btnPrev').addEventListener('click', function() {
+        if (currentIndex > 0) { currentIndex--; renderCurrent(); }
+    });
+    document.getElementById('btnNext').addEventListener('click', function() {
+        if (currentIndex < sentences.length - 1) { currentIndex++; renderCurrent(); }
+    });
+    document.getElementById('btnRecomputeCurrent').addEventListener('click', recomputeCurrent);
+    document.getElementById('btnRecomputeAll').addEventListener('click', recomputeAll);
+    document.getElementById('sentenceJaInput').addEventListener('input', onSentenceJaInput);
+    document.getElementById('sentenceEnInput').addEventListener('input', onSentenceEnInput);
+    var regEl = document.getElementById('sentenceRegister');
+    if (regEl) regEl.addEventListener('change', onSentenceRegisterChange);
+    document.getElementById('btnTinySegmenter').addEventListener('click', prefillTokensFromTinySegmenter);
+    document.getElementById('btnAddSentence').addEventListener('click', addSentence);
+    document.getElementById('btnRemoveSentence').addEventListener('click', removeSentence);
+    document.getElementById('btnAddToken').addEventListener('click', addToken);
+    document.getElementById('btnAddSentenceToolbar').addEventListener('click', addSentence);
+
+    loadDefault();
+})();
+    </script>
+</body>
+</html>
