@@ -123,6 +123,14 @@
             cursor: pointer;
         }
         .kanji-add button:hover { background: #d35400; }
+        button.secondary { background: var(--card-bg); color: var(--text); border: 2px solid var(--border); }
+        button.secondary:hover { border-color: var(--primary); color: var(--primary); }
+        .view-btn { padding: 8px 14px; border: 2px solid var(--border); border-radius: 8px; background: var(--card-bg); color: var(--text); font-size: 0.9rem; cursor: pointer; }
+        .view-btn:hover { border-color: var(--primary); color: var(--primary); }
+        .view-btn.active { border-color: var(--primary); background: var(--primary); color: #fff; }
+        .lookup-results { font-size: 0.9rem; }
+        .lookup-results .result-btn { margin: 4px 8px 4px 0; padding: 6px 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--card-bg); color: var(--text); cursor: pointer; font-size: 1.1rem; }
+        .lookup-results .result-btn:hover { border-color: var(--primary); color: var(--primary); }
         .kanji-table {
             width: 100%;
             border-collapse: collapse;
@@ -188,6 +196,10 @@
         <h1>Kanji</h1>
         <p class="subtitle">Add and remove characters. Readings and meanings are saved in this browser only.</p>
 
+        <p class="lookup-hint" style="font-size: 0.9rem; color: var(--secondary-text); margin-bottom: 16px;">
+            <strong>Look up:</strong> Enter a <strong>character</strong> (e.g. 日), a <strong>meaning</strong> (e.g. sun), or a <strong>reading</strong> (e.g. naka or なか), then click <strong>Look up</strong>. Results fill the form; you can edit and <strong>Add</strong> to your personal list.
+        </p>
+
         <div class="kanji-add">
             <div class="field">
                 <label for="kanjiChar">Character</label>
@@ -201,7 +213,16 @@
                 <label for="kanjiMeaning">Meaning</label>
                 <input type="text" id="kanjiMeaning" placeholder="day, sun" autocomplete="off" />
             </div>
-            <button type="button" id="kanjiAddBtn">Add</button>
+            <button type="button" id="kanjiLookupBtn" title="Search by character, meaning, or reading">Look up</button>
+            <button type="button" id="kanjiAddBtn">Add to personal list</button>
+        </div>
+        <p class="lookup-status" id="lookupStatus" style="display: none; font-size: 0.85rem; color: var(--secondary-text); margin-top: 4px;"></p>
+        <div id="lookupResults" class="lookup-results" style="display: none; margin-top: 8px;"></div>
+
+        <div class="view-switcher" style="margin-bottom: 16px; display: flex; align-items: center; gap: 12px;">
+            <span style="font-size: 0.9rem; color: var(--secondary-text);">List:</span>
+            <button type="button" id="kanjiViewCommon" class="view-btn active">Grade 1+2 (240)</button>
+            <button type="button" id="kanjiViewPersonal" class="view-btn">Personal (<span id="personalCount">0</span>)</button>
         </div>
 
         <div id="kanjiListWrap">
@@ -220,11 +241,33 @@
         </div>
     </div>
 
+    <script src="romaji.js"></script>
     <script src="syllable-color.js"></script>
+    <script src="content/common-kanji.js"></script>
     <script>
-        var STORAGE_KEY = 'sqwease-kanji-list';
+        var STORAGE_KEY = 'sqwease-kanji-personal';
+        var VIEW_KEY = 'sqwease-kanji-view';
+        var KANJI_API_BASE = 'https://kanjiapi.dev/v1/kanji/';
+        var READING_API_BASE = 'https://kanjiapi.dev/v1/reading/';
+        var commonListCache = null;
 
-        function loadKanji() {
+        function getCommonList() {
+            if (commonListCache) return commonListCache;
+            var raw = (typeof COMMON_KANJI !== 'undefined' && Array.isArray(COMMON_KANJI)) ? COMMON_KANJI : [];
+            if (typeof Romaji !== 'undefined' && Romaji.kanaToRomaji) {
+                commonListCache = raw.map(function(item) {
+                    var r = (item.readings || '').split(',').map(function(s) { return Romaji.kanaToRomaji(s.trim()); }).filter(Boolean);
+                    return { character: item.character, readings: r.join(', '), meaning: item.meaning || '' };
+                });
+            } else {
+                commonListCache = raw.map(function(item) {
+                    return { character: item.character, readings: item.readings || '', meaning: item.meaning || '' };
+                });
+            }
+            return commonListCache;
+        }
+
+        function getPersonalList() {
             try {
                 var raw = localStorage.getItem(STORAGE_KEY);
                 return raw ? JSON.parse(raw) : [];
@@ -233,9 +276,185 @@
             }
         }
 
-        function saveKanji(list) {
+        function savePersonalList(list) {
             localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+            updateViewState();
             renderList();
+        }
+
+        function getCurrentView() {
+            var v = localStorage.getItem(VIEW_KEY);
+            return (v === 'common' || v === 'personal') ? v : 'common';
+        }
+
+        function setCurrentView(v) {
+            localStorage.setItem(VIEW_KEY, v);
+            updateViewState();
+            renderList();
+        }
+
+        function updateViewState() {
+            var commonBtn = document.getElementById('kanjiViewCommon');
+            var personalBtn = document.getElementById('kanjiViewPersonal');
+            var countEl = document.getElementById('personalCount');
+            var view = getCurrentView();
+            if (commonBtn) commonBtn.classList.toggle('active', view === 'common');
+            if (personalBtn) personalBtn.classList.toggle('active', view === 'personal');
+            if (countEl) countEl.textContent = String(getPersonalList().length);
+        }
+
+        function showLookupStatus(msg, isError) {
+            var el = document.getElementById('lookupStatus');
+            if (!el) return;
+            el.textContent = msg;
+            el.style.display = 'block';
+            el.style.color = isError ? 'var(--primary)' : 'var(--secondary-text)';
+        }
+        function hideLookupStatus() {
+            var el = document.getElementById('lookupStatus');
+            if (el) el.style.display = 'none';
+        }
+        function showLookupResults(items, fillForm) {
+            var container = document.getElementById('lookupResults');
+            if (!container) return;
+            container.innerHTML = '';
+            if (!items || items.length === 0) {
+                container.style.display = 'none';
+                return;
+            }
+            container.style.display = 'block';
+            var label = document.createElement('span');
+            label.textContent = items.length + ' match(es): ';
+            label.style.marginRight = '8px';
+            container.appendChild(label);
+            items.forEach(function(item) {
+                var btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'result-btn';
+                btn.textContent = item.character + ' ' + (item.meaning ? '(' + (item.meaning.split(',')[0] || '').trim() + ')' : '');
+                btn.title = item.readings + ' — ' + item.meaning;
+                btn.addEventListener('click', function() {
+                    fillForm(item);
+                    container.style.display = 'none';
+                });
+                container.appendChild(btn);
+            });
+        }
+        function hideLookupResults() {
+            var el = document.getElementById('lookupResults');
+            if (el) el.style.display = 'none';
+        }
+
+        function fillFormFromItem(item) {
+            document.getElementById('kanjiChar').value = item.character || '';
+            document.getElementById('kanjiReadings').value = item.readings || '';
+            document.getElementById('kanjiMeaning').value = item.meaning || '';
+        }
+
+        function fetchOneKanjiData(char, fillForm) {
+            showLookupStatus('Looking up…');
+            fetch(KANJI_API_BASE + encodeURIComponent(char))
+                .then(function(res) {
+                    if (!res.ok) throw new Error(res.status === 404 ? 'Kanji not found' : res.status + ' ' + res.statusText);
+                    return res.json();
+                })
+                .then(function(data) {
+                    var kun = (data.kun_readings || []).filter(Boolean);
+                    var on = (data.on_readings || []).filter(Boolean);
+                    var readings = [];
+                    if (typeof Romaji !== 'undefined' && Romaji.kanaToRomaji) {
+                        kun.forEach(function(r) { readings.push(Romaji.kanaToRomaji(r)); });
+                        on.forEach(function(r) { readings.push(Romaji.kanaToRomaji(r)); });
+                    } else {
+                        readings = kun.concat(on);
+                    }
+                    var item = { character: data.kanji || char, readings: readings.join(', '), meaning: (data.meanings || []).join(', ') };
+                    fillForm(item);
+                    showLookupStatus('Fetched: ' + (data.meanings || []).slice(0, 2).join(', ') + (data.meanings && data.meanings.length > 2 ? '…' : ''));
+                })
+                .catch(function(err) {
+                    showLookupStatus('Lookup failed: ' + (err.message || err), true);
+                });
+        }
+
+        function lookupKanji() {
+            hideLookupStatus();
+            hideLookupResults();
+            var charInput = document.getElementById('kanjiChar');
+            var readingsInput = document.getElementById('kanjiReadings');
+            var meaningInput = document.getElementById('kanjiMeaning');
+            var charTrim = (charInput.value || '').trim();
+            var meaningTrim = (meaningInput.value || '').trim();
+            var readingsTrim = (readingsInput.value || '').trim();
+
+            if (charTrim.length === 1) {
+                fetchOneKanjiData(charTrim, fillFormFromItem);
+                return;
+            }
+            if (meaningTrim) {
+                var q = meaningTrim.toLowerCase();
+                var common = getCommonList();
+                var personal = getPersonalList();
+                var byMeaning = common.concat(personal).filter(function(item) {
+                    return (item.meaning || '').toLowerCase().indexOf(q) !== -1;
+                });
+                if (byMeaning.length === 0) {
+                    showLookupStatus('No kanji found for meaning “‘ + meaningTrim + ’”. Try the Grade 1+2 list or add your own.', true);
+                    return;
+                }
+                if (byMeaning.length === 1) {
+                    fillFormFromItem(byMeaning[0]);
+                    showLookupStatus('1 match.');
+                    return;
+                }
+                showLookupStatus(byMeaning.length + ' matches.');
+                showLookupResults(byMeaning, fillFormFromItem);
+                return;
+            }
+            if (readingsTrim) {
+                var qr = readingsTrim.toLowerCase();
+                var commonR = getCommonList();
+                var personalR = getPersonalList();
+                var byReadings = commonR.concat(personalR).filter(function(item) {
+                    return (item.readings || '').toLowerCase().indexOf(qr) !== -1;
+                });
+                showLookupStatus('Looking up…');
+                fetch(READING_API_BASE + encodeURIComponent(readingsTrim))
+                    .then(function(res) { return res.ok ? res.json() : null; })
+                    .then(function(data) {
+                        if (data && data.main_kanji && data.main_kanji.length > 0) {
+                            var first = data.main_kanji[0];
+                            fetchOneKanjiData(first, fillFormFromItem);
+                            return;
+                        }
+                        if (byReadings.length === 0) {
+                            showLookupStatus('No kanji found for reading “‘ + readingsTrim + ’”. Try kana (e.g. なか) for API, or check the lists.', true);
+                            return;
+                        }
+                        if (byReadings.length === 1) {
+                            fillFormFromItem(byReadings[0]);
+                            showLookupStatus('1 match.');
+                            return;
+                        }
+                        showLookupStatus(byReadings.length + ' matches.');
+                        showLookupResults(byReadings, fillFormFromItem);
+                    })
+                    .catch(function() {
+                        if (byReadings.length === 0) {
+                            showLookupStatus('No kanji found for reading “‘ + readingsTrim + ’”.', true);
+                            return;
+                        }
+                        if (byReadings.length === 1) {
+                            fillFormFromItem(byReadings[0]);
+                            showLookupStatus('1 match (from list).');
+                            return;
+                        }
+                        showLookupStatus(byReadings.length + ' matches (from list).');
+                        showLookupResults(byReadings, fillFormFromItem);
+                    });
+                return;
+            }
+            showLookupStatus('Enter a character, meaning, or reading to look up.', true);
         }
 
         function escapeHtml(s) {
@@ -246,7 +465,9 @@
         }
 
         function renderList() {
-            var list = loadKanji();
+            var view = getCurrentView();
+            var list = view === 'common' ? getCommonList() : getPersonalList();
+            var isPersonal = view === 'personal';
             var tbody = document.getElementById('kanjiTbody');
             var emptyEl = document.getElementById('kanjiEmpty');
             var tableEl = document.getElementById('kanjiTable');
@@ -254,6 +475,7 @@
             if (list.length === 0) {
                 tableEl.classList.add('hidden');
                 emptyEl.classList.remove('hidden');
+                emptyEl.textContent = isPersonal ? 'No personal kanji yet. Use Look up and “Add to personal list”.' : 'Grade 1+2 list not loaded (ensure content/common-kanji.js is available).';
                 return;
             }
             tableEl.classList.remove('hidden');
@@ -265,21 +487,33 @@
                 var tr = document.createElement('tr');
                 var color = typeof SyllableColor !== 'undefined' ? SyllableColor.getColorForRomaji(item.readings, isDark) : '';
                 var charStyle = color ? ' style="color:' + color + ';font-weight:600"' : '';
+                var removeCell = isPersonal
+                    ? '<td><button type="button" class="remove-btn" data-index="' + index + '">Remove</button></td>'
+                    : '<td></td>';
                 tr.innerHTML =
                     '<td class="char"' + charStyle + '>' + escapeHtml(item.character) + '</td>' +
                     '<td class="readings">' + escapeHtml(item.readings) + '</td>' +
                     '<td class="meaning">' + escapeHtml(item.meaning) + '</td>' +
-                    '<td><button type="button" class="remove-btn" data-index="' + index + '">Remove</button></td>';
-                tr.querySelector('.remove-btn').addEventListener('click', function() {
-                    var idx = parseInt(this.getAttribute('data-index'), 10);
-                    var arr = loadKanji();
-                    arr.splice(idx, 1);
-                    saveKanji(arr);
-                });
+                    removeCell;
+                if (isPersonal) {
+                    tr.querySelector('.remove-btn').addEventListener('click', function() {
+                        var idx = parseInt(this.getAttribute('data-index'), 10);
+                        var arr = getPersonalList();
+                        arr.splice(idx, 1);
+                        savePersonalList(arr);
+                    });
+                }
                 tbody.appendChild(tr);
             });
         }
 
+        document.getElementById('kanjiLookupBtn').addEventListener('click', function() {
+            hideLookupStatus();
+            hideLookupResults();
+            lookupKanji();
+        });
+        document.getElementById('kanjiViewCommon').addEventListener('click', function() { setCurrentView('common'); });
+        document.getElementById('kanjiViewPersonal').addEventListener('click', function() { setCurrentView('personal'); });
         document.getElementById('kanjiAddBtn').addEventListener('click', function() {
             var charInput = document.getElementById('kanjiChar');
             var readingsInput = document.getElementById('kanjiReadings');
@@ -287,23 +521,29 @@
             var character = (charInput.value || '').trim();
             var readings = (readingsInput.value || '').trim();
             var meaning = (meaningInput.value || '').trim();
-            if (!character) return;
-            var list = loadKanji();
+            if (!character) {
+                showLookupStatus('Enter a character to add.', true);
+                return;
+            }
+            var list = getPersonalList();
             list.push({ character: character, readings: readings, meaning: meaning });
-            saveKanji(list);
+            savePersonalList(list);
+            setCurrentView('personal');
             charInput.value = '';
             readingsInput.value = '';
             meaningInput.value = '';
             charInput.focus();
+            showLookupStatus('Added to personal list.');
         });
 
         document.getElementById('kanjiReadings').addEventListener('keydown', function(e) {
-            if (e.key === 'Enter') document.getElementById('kanjiAddBtn').click();
+            if (e.key === 'Enter') document.getElementById('kanjiLookupBtn').click();
         });
         document.getElementById('kanjiMeaning').addEventListener('keydown', function(e) {
-            if (e.key === 'Enter') document.getElementById('kanjiAddBtn').click();
+            if (e.key === 'Enter') document.getElementById('kanjiLookupBtn').click();
         });
 
+        updateViewState();
         renderList();
 
         function toggleTheme() {
