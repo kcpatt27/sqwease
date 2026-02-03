@@ -1,6 +1,15 @@
 # Color alignment (JA ↔ Romaji ↔ EN): theory and improvements
 
-## Current approach
+## Current implementation (as of Feb 2026)
+
+- **Romaji standard:** `romaji.js` — modified Hepburn (`kanaToRomaji`), particle/polite sets, `isParticleToken()`, `containsKanji()`, `shouldColorToken()`. Romaji is derived from kana in code.
+- **Tokenized schema:** Per-sentence JSON with `ja`, `romaji`, `en`, `tokens[]` (ja, kana, romaji, en, start, end, pos, isParticle, lemma), optional `version`, `lastUpdated`, `checked`, `register`. See `content/README-tokenized.md`.
+- **Data:** `content/boxes-tokenized.json` for Boxes; `scripts/build-boxes-data.js` emits `BOXES_TOKENIZED_SENTENCES` / `BOXES_TOKENIZED_VERSION` into `boxes-data.js`.
+- **Coloring:** `syllable-color.js` — `colorizeByTokens(ja, tokens, isDark)` when tokens exist; particle-aware segment-length fallback when not. Boxes and Flashcards use token-based coloring when `item.tokens` is present.
+- **Editor:** `editor.html` — load/edit tokenized JSON, add/remove sentence and token, TinySegmenter pre-fill, register/lemma, mark as checked, export JSON/CSV spot-check, recompute romaji from kana.
+- **Learner UI:** Boxes and Flashcards show Phase 1 (romaji + EN), Phase 2 (no romaji), or Phase 3 (Japanese only) via `sqwease-romaji-phase`; deck version and optional register label on Boxes.
+
+## Previous approach (proportional / heuristic)
 
 - **Japanese:** Split into N segments by proportional character count (one segment per romaji word). Only segments whose romaji word is a content word (non-particle) get a color.
 - **Romaji:** Content words colored by first-syllable; particles left plain.

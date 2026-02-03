@@ -13,7 +13,7 @@ SQWease aims to become the most efficient way to learn any language, by combinin
 ## Current Status
 
 - **Latest Version:** v0.1 (Pre-alpha)
-- **Release Date:** January 2025 (initial development)
+- **Release Date:** March 2026 (initial development)
 - **Key Milestones Completed:**
   - Basic flashcard interface with flip animations
   - First 263 Japanese words with pronunciation, definitions, and example sentences
@@ -30,9 +30,12 @@ SQWease aims to become the most efficient way to learn any language, by combinin
 ## Recently completed (from product backlog)
 
 - **Kana charts:** Main menu card + page (Gojuon grid, row color-coding, monographs/diacritics/digraphs).
-- **Kanji section:** Main menu card + kanji.html with add/remove list (localStorage), scalable.
-- **Boxes cards:** Front = Japanese + Romaji; back = Japanese + Romaji + English.
-- **Syllable color-coding:** Kanji/romaji colored by first syllable (red a/i/u/e/o, orange k+, yellow s+, etc.); applied on Flashcards (word, pronunciation, definition), Boxes (front/back), Kanji list (character, readings).
+- **Kanji section:** Main menu card + kanji.html — Grade 1+2 list (240 common kanji from kanjiapi.dev), Personal list (localStorage), lookup by character/meaning/reading, add/remove personal entries.
+- **Boxes cards:** Front = Japanese + Romaji; back = Japanese + Romaji + English; token-based coloring when tokenized data present; deck version and optional register label.
+- **Syllable color-coding:** Token-based when `item.tokens` exists (`colorizeByTokens`); otherwise word-based with particle-aware fallback. Applied on Flashcards (word, pronunciation, definition), Boxes (front/back), Kanji list (character, readings).
+- **Tokenization:** Romaji standard (`romaji.js`), tokenized sentence schema (`content/README-tokenized.md`), `boxes-tokenized.json` + build pipeline, token editor (`editor.html` with add/remove sentence/token, TinySegmenter, register/lemma, export JSON/CSV).
+- **Romaji phase toggle:** Boxes and Flashcards — Phase 1 (romaji + EN), Phase 2 (no romaji), Phase 3 (Japanese only); preference in `sqwease-romaji-phase`.
+- **Index:** Separate h1 for mobile (“SQWease · JP”) vs PC/tablet (“Speak Quite Well with Ease · Japanese”) via CSS at 600px breakpoint.
 
 ## Planned (from product backlog)
 
@@ -253,5 +256,5 @@ Priorities are set based on:
 
 ---
 
-**Last Updated**: January 2025  
-**Next Review**: February 2025
+**Last Updated**: February 2026  
+**Next Review**: March 2026
