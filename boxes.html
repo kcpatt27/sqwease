@@ -211,9 +211,11 @@
             border: 2px solid #2ed573;
             transform: rotateY(180deg);
         }
-        .practice-card .face-front .main { font-size: 2rem; text-align: center; }
-        .practice-card .face-back .romaji { font-size: 1.25rem; color: var(--secondary-text); font-style: italic; margin-bottom: 12px; }
-        .practice-card .face-back .en { font-size: 1.1rem; color: var(--text); }
+        .practice-card .face-front .ja { font-size: 2rem; text-align: center; margin-bottom: 12px; display: block; }
+        .practice-card .face-front .romaji { font-size: 1rem; color: var(--secondary-text); font-style: italic; display: block; }
+        .practice-card .face-back .ja { font-size: 1.5rem; margin-bottom: 12px; display: block; }
+        .practice-card .face-back .romaji { font-size: 1.1rem; color: var(--secondary-text); font-style: italic; margin-bottom: 12px; display: block; }
+        .practice-card .face-back .en { font-size: 1.1rem; color: var(--text); display: block; }
         .practice-controls {
             display: flex;
             align-items: center;
@@ -302,8 +304,10 @@
             .box-item .romaji, .box-item .en { font-size: 0.9rem; }
             .practice-card { min-height: 240px; }
             .practice-card .face { min-height: 240px; padding: 16px; }
-            .practice-card .face-front .main { font-size: 1.5rem; }
-            .practice-card .face-back .romaji { font-size: 1rem; }
+            .practice-card .face-front .ja { font-size: 1.5rem; }
+            .practice-card .face-front .romaji { font-size: 0.9rem; }
+            .practice-card .face-back .ja { font-size: 1.25rem; }
+            .practice-card .face-back .romaji { font-size: 0.95rem; }
             .practice-card .face-back .en { font-size: 0.95rem; }
             .practice-controls { flex-wrap: wrap; gap: 10px; }
             .practice-controls button { padding: 12px 18px; min-height: 44px; }
@@ -341,6 +345,15 @@
                 <p><strong>Usage:</strong> Pick a set (Likes, Study, Routine, etc.) → <strong>View list</strong> to see all sentences, <strong>Practice</strong> to flip cards (Japanese front, romaji+English back), or <strong>Word lists</strong> to add/edit vocabulary.</p>
             </div>
         </div>
+        <p class="deck-version" id="deckVersion" style="display: none; font-size: 0.85rem; color: var(--secondary-text); margin-top: 8px;"></p>
+        <p class="display-phase" style="margin-top: 8px; font-size: 0.9rem;">
+            <label>Display: </label>
+            <select id="romajiPhase" title="Phase 1 = JA + romaji + EN, Phase 2 = JA + EN (no romaji), Phase 3 = JA only">
+                <option value="1">Phase 1 (romaji + English)</option>
+                <option value="2">Phase 2 (no romaji)</option>
+                <option value="3">Phase 3 (Japanese only)</option>
+            </select>
+        </p>
     </div>
 
     <div id="loading" class="loading">Loading boxes...</div>
@@ -359,14 +372,17 @@
             <div class="practice-card" id="practiceCard">
                 <div class="card-inner">
                     <div class="face face-front">
-                        <span class="main" id="cardFront"></span>
+                        <span class="ja" id="cardFrontJa"></span>
+                        <span class="romaji" id="cardFrontRomaji"></span>
                     </div>
                     <div class="face face-back">
-                        <span class="romaji" id="cardRomaji"></span>
-                        <span class="en" id="cardEn"></span>
+                        <span class="ja" id="cardBackJa"></span>
+                        <span class="romaji" id="cardBackRomaji"></span>
+                        <span class="en" id="cardBackEn"></span>
                     </div>
                 </div>
             </div>
+            <p class="card-register" id="cardRegister" style="display: none; font-size: 0.85rem; color: var(--secondary-text); margin-top: 6px;"></p>
             <div class="rating-buttons hidden" id="boxRatingButtons">
                 <button class="rating-btn again" onclick="rateBoxCard(1)">
                     <span>Again</span>
@@ -403,7 +419,9 @@
     </div>
     <div id="error" class="error hidden"></div>
 
+    <script src="romaji.js"></script>
     <script src="srs.js"></script>
+    <script src="syllable-color.js"></script>
     <script src="boxes-data.js"></script>
     <script>
         let config = null;
@@ -419,6 +437,16 @@
         let dueCards = [];
         let isFlipped = false;
 
+        const ROMAJI_PHASE_KEY = 'sqwease-romaji-phase';
+        function getRomajiPhase() {
+            var v = typeof localStorage !== 'undefined' ? localStorage.getItem(ROMAJI_PHASE_KEY) : null;
+            var n = parseInt(v, 10);
+            return (n === 1 || n === 2 || n === 3) ? n : 1;
+        }
+        function setRomajiPhase(phase) {
+            if (typeof localStorage !== 'undefined') localStorage.setItem(ROMAJI_PHASE_KEY, String(phase));
+        }
+
         function fillTemplate(template, word) {
             let out = template;
             for (const key of Object.keys(word)) {
@@ -429,17 +457,31 @@
 
         function generateItems() {
             const items = [];
+            const tokenized = typeof BOXES_TOKENIZED_SENTENCES !== 'undefined' ? BOXES_TOKENIZED_SENTENCES : {};
             for (const set of config.sets) {
                 for (const box of set.boxes) {
+                    const cupType = box.boxType != null ? box.boxType : box.cupType;
+                    const cupName = box.name || '';
                     if (box.fixed) {
-                        items.push({
+                        const item = {
                             ja: box.templateJa,
                             romaji: box.templateRomaji,
                             en: box.templateEn,
                             boxType: box.boxType,
+                            cupType: cupType,
+                            cupName: cupName,
                             setName: set.name,
                             boxName: box.name
-                        });
+                        };
+                        const tok = tokenized[box.templateJa];
+                        if (tok && tok.tokens) {
+                            item.tokens = tok.tokens;
+                            item.ja = tok.ja;
+                            item.romaji = tok.romaji;
+                            item.en = tok.en;
+                            if (tok.register) item.register = tok.register;
+                        }
+                        items.push(item);
                     } else {
                         const slotWords = words[box.slot];
                         if (!slotWords) continue;
@@ -449,6 +491,8 @@
                                 romaji: fillTemplate(box.templateRomaji, w),
                                 en: fillTemplate(box.templateEn, w),
                                 boxType: box.boxType,
+                                cupType: cupType,
+                                cupName: cupName,
                                 setName: set.name,
                                 boxName: box.name
                             });
@@ -504,7 +548,18 @@
                 for (const item of list) {
                     const row = document.createElement('div');
                     row.className = 'box-item';
-                    row.innerHTML = '<span class="ja">' + escapeHtml(item.ja) + '</span><span class="romaji">' + escapeHtml(item.romaji) + '</span><span class="en">' + escapeHtml(item.en) + '</span>';
+                    if (item.tokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
+                        const isDark = SyllableColor.isDarkTheme();
+                        const colored = SyllableColor.colorizeByTokens(item.ja, item.tokens, isDark);
+                        row.innerHTML = '<span class="ja">' + colored.jaHtml + '</span><span class="romaji">' + colored.romajiHtml + '</span><span class="en">' + colored.enHtml + '</span>';
+                    } else {
+                        row.innerHTML = '<span class="ja">' + escapeHtml(item.ja) + '</span><span class="romaji">' + escapeHtml(item.romaji) + '</span><span class="en">' + escapeHtml(item.en) + '</span>';
+                    }
+                    var phase = getRomajiPhase();
+                    var romajiSpan = row.querySelector('.romaji');
+                    var enSpan = row.querySelector('.en');
+                    if (romajiSpan) romajiSpan.style.display = phase >= 2 ? 'none' : '';
+                    if (enSpan) enSpan.style.display = phase >= 3 ? 'none' : '';
                     group.appendChild(row);
                 }
                 container.appendChild(group);
@@ -524,9 +579,11 @@
 
         function renderPracticeCard() {
             if (!practiceItems.length) {
-                document.getElementById('cardFront').textContent = 'No sentences in this set.';
-                document.getElementById('cardRomaji').textContent = '';
-                document.getElementById('cardEn').textContent = '';
+                document.getElementById('cardFrontJa').textContent = 'No sentences in this set.';
+                document.getElementById('cardFrontRomaji').textContent = '';
+                document.getElementById('cardBackJa').textContent = '';
+                document.getElementById('cardBackRomaji').textContent = '';
+                document.getElementById('cardBackEn').textContent = '';
                 document.getElementById('practiceProgress').textContent = '0 / 0';
                 return;
             }
@@ -539,11 +596,39 @@
             isFlipped = false;
             document.getElementById('boxRatingButtons').classList.add('hidden');
             
-            document.getElementById('cardFront').textContent = item.ja;
-            document.getElementById('cardRomaji').textContent = item.romaji;
-            document.getElementById('cardEn').textContent = item.en;
+            if (item.tokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
+                var isDark = SyllableColor.isDarkTheme();
+                var colored = SyllableColor.colorizeByTokens(item.ja, item.tokens, isDark);
+                document.getElementById('cardFrontJa').innerHTML = colored.jaHtml;
+                document.getElementById('cardFrontRomaji').innerHTML = colored.romajiHtml;
+                document.getElementById('cardBackJa').innerHTML = colored.jaHtml;
+                document.getElementById('cardBackRomaji').innerHTML = colored.romajiHtml;
+                document.getElementById('cardBackEn').innerHTML = colored.enHtml;
+            } else if (typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByWords) {
+                var isDark = SyllableColor.isDarkTheme();
+                var colored = SyllableColor.colorizeByWords(item.ja, item.romaji, item.en, isDark);
+                document.getElementById('cardFrontJa').innerHTML = colored.jaHtml;
+                document.getElementById('cardFrontRomaji').innerHTML = colored.romajiHtml;
+                document.getElementById('cardBackJa').innerHTML = colored.jaHtml;
+                document.getElementById('cardBackRomaji').innerHTML = colored.romajiHtml;
+                document.getElementById('cardBackEn').innerHTML = colored.enHtml;
+            } else {
+                document.getElementById('cardFrontJa').textContent = item.ja;
+                document.getElementById('cardFrontRomaji').textContent = item.romaji;
+                document.getElementById('cardBackJa').textContent = item.ja;
+                document.getElementById('cardBackRomaji').textContent = item.romaji;
+                document.getElementById('cardBackEn').textContent = item.en;
+            }
+            var phase = getRomajiPhase();
+            document.getElementById('cardFrontRomaji').style.display = phase >= 2 ? 'none' : '';
+            document.getElementById('cardBackRomaji').style.display = phase >= 2 ? 'none' : '';
+            document.getElementById('cardBackEn').style.display = phase >= 3 ? 'none' : '';
             document.getElementById('practiceProgress').textContent = (practiceIndex + 1) + ' / ' + practiceItems.length;
-            
+            var cardRegisterEl = document.getElementById('cardRegister');
+            if (cardRegisterEl) {
+                cardRegisterEl.textContent = item.register ? ('Register: ' + item.register) : '';
+                cardRegisterEl.style.display = item.register ? 'block' : 'none';
+            }
             document.getElementById('boxIntervalAgain').textContent = SRS.getIntervalDisplay(srsCard, 1);
             document.getElementById('boxIntervalHard').textContent = SRS.getIntervalDisplay(srsCard, 2);
             document.getElementById('boxIntervalGood').textContent = SRS.getIntervalDisplay(srsCard, 3);
@@ -806,9 +891,23 @@
                 loadSRSBoxes();
                 document.getElementById('loading').classList.add('hidden');
                 document.getElementById('main').classList.remove('hidden');
+                var versionEl = document.getElementById('deckVersion');
+                if (versionEl && typeof BOXES_TOKENIZED_VERSION !== 'undefined' && BOXES_TOKENIZED_VERSION != null) {
+                    versionEl.textContent = 'Tokenized deck v' + String(BOXES_TOKENIZED_VERSION);
+                    versionEl.style.display = 'block';
+                }
                 renderSetTabs();
                 renderList();
                 initPractice();
+                var phaseEl = document.getElementById('romajiPhase');
+                if (phaseEl) {
+                    phaseEl.value = String(getRomajiPhase());
+                    phaseEl.addEventListener('change', function() {
+                        setRomajiPhase(parseInt(phaseEl.value, 10));
+                        renderList();
+                        if (!document.getElementById('practiceView').classList.contains('hidden')) renderPracticeCard();
+                    });
+                }
             } catch (e) {
                 document.getElementById('loading').classList.add('hidden');
                 document.getElementById('error').classList.remove('hidden');

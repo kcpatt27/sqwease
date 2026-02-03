@@ -299,6 +299,14 @@
             <span class="stat-label">To Review</span>
             <span class="stat-value review" id="statReview">0</span>
         </div>
+        <p class="display-phase" style="font-size: 0.9rem; margin: 12px 0 8px;">
+            <label>Display: </label>
+            <select id="romajiPhase" title="Phase 1 = word + romaji + def, Phase 2 = no romaji, Phase 3 = word only">
+                <option value="1">Phase 1 (romaji + definition)</option>
+                <option value="2">Phase 2 (no romaji)</option>
+                <option value="3">Phase 3 (word only)</option>
+            </select>
+        </p>
         <button class="study-btn" id="studyBtn" onclick="startStudy()">Study Now</button>
     </div>
 
@@ -341,6 +349,7 @@
     </div>
     </div>
     
+    <script src="romaji.js"></script>
     <script src="srs.js"></script>
     <script src="syllable-color.js"></script>
     <script src="flashcards-vocab.js"></script>
@@ -367,6 +376,16 @@
             { w: "を", p: "wo (oh)", d: "object marker", s: "水を飲みます。 (I drink water.)" },
             { w: "が", p: "ga (gah)", d: "subject marker", s: "猫がいます。 (There is a cat.)" }
         ];
+
+        var ROMAJI_PHASE_KEY = 'sqwease-romaji-phase';
+        function getRomajiPhase() {
+            var v = typeof localStorage !== 'undefined' ? localStorage.getItem(ROMAJI_PHASE_KEY) : null;
+            var n = parseInt(v, 10);
+            return (n === 1 || n === 2 || n === 3) ? n : 1;
+        }
+        function setRomajiPhase(phase) {
+            if (typeof localStorage !== 'undefined') localStorage.setItem(ROMAJI_PHASE_KEY, String(phase));
+        }
 
         function saveSRS() {
             localStorage.setItem('sqwease-flashcards-srs', JSON.stringify(srsCards));
@@ -475,7 +494,13 @@
             }
             
             sentenceEl.innerHTML = (item.s || '').replace(/\n/g, '<br>');
-            if (typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByWords) {
+            if (item.tokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
+                var isDark = SyllableColor.isDarkTheme();
+                var colored = SyllableColor.colorizeByTokens(item.w, item.tokens, isDark);
+                wordEl.innerHTML = colored.jaHtml;
+                pronunciationEl.innerHTML = colored.romajiHtml;
+                definitionEl.innerHTML = colored.enHtml;
+            } else if (typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByWords) {
                 var isDark = SyllableColor.isDarkTheme();
                 var colored = SyllableColor.colorizeByWords(item.w, item.p, item.d, isDark);
                 wordEl.innerHTML = colored.jaHtml;
@@ -570,6 +595,14 @@
         });
 
         initVocab();
+        var phaseEl = document.getElementById('romajiPhase');
+        if (phaseEl) {
+            phaseEl.value = String(getRomajiPhase());
+            phaseEl.addEventListener('change', function() {
+                setRomajiPhase(parseInt(phaseEl.value, 10));
+                if (dueCards.length) showCard();
+            });
+        }
         
         function toggleTheme() {
             const html = document.documentElement;
