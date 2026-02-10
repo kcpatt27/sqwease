@@ -29,6 +29,10 @@
             --secondary-text: #a4b0be;
         }
         * { box-sizing: border-box; }
+        a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, .theme-toggle:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -66,7 +70,14 @@
         [data-theme="dark"] .theme-toggle .icon-light { display: none; }
         .container { width: 100%; max-width: 900px; }
         .nav { margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
-        .nav a { color: var(--primary); text-decoration: none; font-weight: 600; }
+        .nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
+        }
         .nav a:hover { text-decoration: underline; }
         h1 { color: var(--primary); margin-top: 0; font-size: 1.5rem; }
         .toolbar {
@@ -78,6 +89,7 @@
         }
         .toolbar button, .toolbar label {
             padding: 8px 14px;
+            min-height: 44px;
             border: 2px solid var(--border);
             border-radius: 8px;
             background: var(--card-bg);
@@ -100,6 +112,7 @@
         }
         .sentence-nav button {
             padding: 8px 16px;
+            min-height: 44px;
             border: 2px solid var(--border);
             border-radius: 8px;
             background: var(--card-bg);
