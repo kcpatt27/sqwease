@@ -96,27 +96,28 @@
         .info-box {
             background: var(--card-bg);
             border-left: 4px solid var(--primary);
-            padding: 16px;
+            padding: 12px 14px;
             margin-bottom: 16px;
+            margin-right: 28px;
             border-radius: 8px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.08);
         }
         .info-box h3 {
             margin-top: 0;
             color: var(--primary);
-            font-size: 1rem;
+            font-size: 0.95rem;
         }
         .info-box p {
-            margin: 8px 0 0;
-            font-size: 0.9rem;
-            line-height: 1.6;
+            margin: 6px 0 0;
+            font-size: 0.875rem;
+            line-height: 1.5;
             color: var(--secondary-text);
         }
         .info-box ul {
-            margin: 8px 0 0 20px;
+            margin: 6px 0 0 18px;
             padding: 0;
-            font-size: 0.9rem;
-            line-height: 1.8;
+            font-size: 0.875rem;
+            line-height: 1.6;
             color: var(--secondary-text);
         }
         .info-box .toggle-info {
@@ -131,7 +132,8 @@
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
-            margin-bottom: 12px;
+            margin-bottom: 20px;
+            margin-top: 20px;
         }
         .set-tab {
             padding: 10px 16px;
@@ -148,7 +150,7 @@
         .mode-tabs {
             display: flex;
             gap: 8px;
-            margin-bottom: 12px;
+            margin-bottom: 20px;
         }
         .mode-tab {
             padding: 8px 14px;
@@ -160,7 +162,8 @@
         .mode-tab.active { background: var(--primary); color: #fff; border-color: var(--primary); font-weight: bolder; }
         .list-view { max-width: 700px; }
         .box-group {
-            margin-bottom: 18px;
+            margin-top: 24px;
+            margin-bottom: 32px;
         }
         .box-group h3 {
             color: var(--primary);
@@ -221,15 +224,15 @@
             grid-template-columns: 1fr auto auto;
             gap: 12px;
             align-items: center;
-            padding: 10px 12px;
+            padding: 8px 10px;
             background: var(--card-bg);
             border-radius: 8px;
-            margin-bottom: 6px;
+            margin-bottom: 5px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.08);
         }
-        .box-item .ja { font-size: 1.1rem; }
-        .box-item .romaji { color: var(--secondary-text); font-style: italic; font-size: 0.95rem; }
-        .box-item .en { color: var(--text); font-size: 0.95rem; }
+        .box-item .ja { font-size: 1.1rem; margin-left: 12px; }
+        .box-item .romaji { color: var(--secondary-text); font-style: italic; font-size: 0.95rem; margin-right: 16px; }
+        .box-item .en { color: var(--text); font-size: 0.95rem; margin-right: 12px; }
         .practice-area {
             max-width: 520px;
             margin: 0 auto;
@@ -386,7 +389,6 @@
         <span>·</span>
         <span><strong>1-2-3 Boxes</strong></span>
     </nav>
-    <!-- <h1>1-2-3 Boxes</h1> -->
     <div class="info-box">
         <h3>
             <span class="toggle-info" onclick="toggleInfo()">💡 How to use 1-2-3 Boxes ▲</span>

@@ -64,18 +64,32 @@
         .theme-toggle .icon-light { display: inline; }
         [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
         [data-theme="dark"] .theme-toggle .icon-light { display: none; }
-        .top-link { margin-bottom: 12px; }
-        .top-link a {
+        .nav {
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .nav a {
             color: var(--primary);
-            font-weight: 600;
             text-decoration: none;
+            font-weight: 600;
             min-height: 44px;
             display: inline-flex;
             align-items: center;
         }
-        .top-link a:hover { text-decoration: underline; }
-        h1 { color: var(--primary); margin-bottom: 8px; font-size: 1.75rem; }
-        .subtitle { color: var(--secondary-text); font-size: 0.95rem; margin-bottom: 24px; }
+        .nav a:hover { text-decoration: underline; }
+        h1 { color: var(--primary); margin-top: 0; }
+        .subtitle { color: var(--secondary-text); margin-bottom: 24px; }
+        .info-box {
+            background: var(--card-bg);
+            border-left: 4px solid var(--primary);
+            padding: 12px 14px;
+            margin-bottom: 16px;
+            margin-right: 28px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
         .chart-wrap {
             overflow-x: auto;
             margin-bottom: 24px;
@@ -178,8 +192,12 @@
 </head>
 <body>
     <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
-    <p class="top-link"><a href="index.html">← Menu</a></p>
-    <h1>Kana Charts</h1>
+    <nav class="nav">
+        <a href="index.html">← Menu</a>
+        <span>·</span>
+        <span><strong>Kana Charts</strong></span>
+    </nav>
+    <h1>Gojuonjun Expanded Charts</h1>
     <p class="subtitle">Hiragana (top) and Katakana (bottom) in Gojuon order.</p>
 
     <div class="chart-group">

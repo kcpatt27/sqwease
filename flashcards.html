@@ -39,12 +39,19 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
             min-height: 100vh;
             margin: 0;
             padding: 20px;
             transition: background-color 0.3s, color 0.3s;
         }
+        .flashcards-wrap {
+            width: 100%;
+            max-width: 500px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .flashcards-wrap .nav { align-self: flex-start; margin-bottom: 20px; }
         .theme-toggle {
             position: fixed;
             top: 20px;
@@ -72,17 +79,32 @@
         .theme-toggle .icon-light { display: inline; }
         [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
         [data-theme="dark"] .theme-toggle .icon-light { display: none; }
-        .top-link { margin-bottom: 12px; }
-        .top-link a {
+        .nav {
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .nav a {
             color: var(--primary);
-            font-weight: 600;
             text-decoration: none;
+            font-weight: 600;
             min-height: 44px;
             display: inline-flex;
             align-items: center;
         }
-        .top-link a:hover { text-decoration: underline; }
-        h1 { color: var(--primary); margin-bottom: 20px; }
+        .nav a:hover { text-decoration: underline; }
+        h1 { color: var(--primary); margin-top: 0; }
+        .subtitle { color: var(--secondary-text); margin-bottom: 24px; }
+        .info-box {
+            background: var(--card-bg);
+            border-left: 4px solid var(--primary);
+            padding: 12px 14px;
+            margin-bottom: 16px;
+            margin-right: 28px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
         .deck-stats {
             background: var(--card-bg);
             border-radius: 12px;
@@ -134,6 +156,28 @@
             background: var(--border);
             cursor: not-allowed;
             transform: none;
+        }
+        .display-phase {
+            font-size: 0.9rem;
+            margin: 12px 0 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .display-phase label { color: var(--secondary-text); font-weight: 600; }
+        .select-primary {
+            padding: 8px 14px;
+            min-height: 44px;
+            border: 2px solid var(--primary);
+            background: var(--card-bg);
+            color: var(--text);
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .select-primary:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
         }
         .hidden { display: none !important; }
         .container {
@@ -296,7 +340,12 @@
 </head>
 <body>
     <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
-    <p class="top-link"><a href="index.html">← Menu</a></p>
+    <div class="flashcards-wrap">
+    <nav class="nav">
+        <a href="index.html">← Menu</a>
+        <span>·</span>
+        <span><strong>Flashcards</strong></span>
+    </nav>
     <h1>🇯🇵 Japanese 1500</h1>
     
     <div id="deckView" class="deck-stats">
@@ -313,9 +362,9 @@
             <span class="stat-label">To Review</span>
             <span class="stat-value review" id="statReview">0</span>
         </div>
-        <p class="display-phase" style="font-size: 0.9rem; margin: 12px 0 8px;">
-            <label>Display: </label>
-            <select id="romajiPhase" title="Phase 1 = word + romaji + def, Phase 2 = no romaji, Phase 3 = word only">
+        <p class="display-phase">
+            <label>Display:</label>
+            <select id="romajiPhase" class="select-primary" title="Phase 1 = word + romaji + def, Phase 2 = no romaji, Phase 3 = word only">
                 <option value="1">Phase 1 (romaji + definition)</option>
                 <option value="2">Phase 2 (no romaji)</option>
                 <option value="3">Phase 3 (word only)</option>
@@ -361,6 +410,7 @@
         <button type="button" class="nav-btn" id="navPrev" onclick="navigatePrev()">←</button>
         <div class="progress" id="progress">Loading…</div>
         <button type="button" class="nav-btn" id="navNext" onclick="navigateNext()">→</button>
+    </div>
     </div>
     </div>
     

@@ -138,16 +138,18 @@
             font-size: 1.4rem;
             line-height: 1.8;
             margin-bottom: 8px;
+            margin-top: 12px;
         }
         .sentence-ja .token-span {
             display: inline;
             border-bottom: 1px dashed var(--border);
             padding: 0 1px;
+            margin-bottom: 12px;
         }
         .sentence-romaji, .sentence-en {
-            font-size: 1rem;
+            font-size: 1.2rem;
             color: var(--secondary-text);
-            margin-bottom: 8px;
+            margin-bottom: 20px;
         }
         .sentence-en-edit {
             width: 100%;
@@ -203,7 +205,8 @@
         .register-label select { margin-left: 4px; padding: 4px 8px; border: 1px solid var(--border); border-radius: 4px; background: var(--card-bg); color: var(--text); }
         .checked-label { display: flex; align-items: center; gap: 6px; font-size: 0.9rem; color: var(--secondary-text); cursor: pointer; }
         .checked-label input { cursor: pointer; }
-        .preview-colored { margin-top: 12px; font-size: 1.1rem; line-height: 1.6; }
+        .apply-colors-label { display: flex; align-items: center; gap: 8px; font-size: 0.9rem; color: var(--secondary-text); cursor: pointer; }
+        .preview-colored { margin-top: 12px; font-size: 1.6rem; line-height: 1.6; }
         .no-data { color: var(--secondary-text); text-align: center; padding: 40px 20px; }
     </style>
 </head>
@@ -211,9 +214,11 @@
     <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
     <div class="container">
         <nav class="nav">
-            <a href="index.html">← SQWease</a>
+            <a href="index.html">← Menu</a>
+            <span>·</span>
+            <span><strong>Token Editor</strong></span>
         </nav>
-        <h1>Tokenized sentences editor</h1>
+        <h1>Tokenized sentence editor</h1>
         <div class="toolbar">
             <button type="button" id="btnLoadDefault">Load default</button>
             <label for="fileInput">Load file</label>
@@ -240,14 +245,22 @@
                     <option value="very-formal">very-formal</option>
                 </select></label>
                 <label class="checked-label"><input type="checkbox" id="sentenceChecked" title="Mark as checked"> Mark as checked</label>
+                <label class="apply-colors-label">
+                    <input type="checkbox" id="applyColorsInPreview" checked title="Show syllable colors in the preview below (used on Boxes page for Box 3)">
+                    <span>Apply syllable colors in preview</span>
+                </label>
             </div>
+            <div class="box3-notice" id="box3Notice" style="display: none; margin-bottom: 12px; padding: 10px 12px; background: var(--card-bg); border-left: 4px solid var(--primary); border-radius: 6px; font-size: 0.9rem; color: var(--secondary-text);">
+                <strong>Box 3 (Open Question)</strong> — This sentence is used on the 1-2-3 Boxes page as the open question for this set. Changes here affect how it appears there (including syllable colors).
+            </div>
+            
             <label>Japanese (sentence):</label>
             <input type="text" class="sentence-en-edit" id="sentenceJaInput" placeholder="Paste or type full Japanese text" style="margin-bottom: 8px;">
-            <div class="sentence-ja" id="sentenceJa"></div>
-            <div class="sentence-romaji" id="sentenceRomaji"></div>
+            <!-- <div class="preview-colored" id="sentenceJa" style="display: none;"></div> -->
+            <div class="sentence-ja preview-colored" id="sentenceJa"></div>
+            <div class="sentence-romaji " id="sentenceRomaji"></div>
             <label>English (sentence):</label>
             <input type="text" class="sentence-en-edit" id="sentenceEnInput" placeholder="Full English translation">
-            <div class="preview-colored" id="previewColored" style="display: none;"></div>
             <table class="token-table">
                 <thead>
                     <tr>
@@ -502,12 +515,21 @@
         document.getElementById('navIndex').textContent = (currentIndex + 1) + ' / ' + sentences.length;
         document.getElementById('btnPrev').disabled = currentIndex <= 0;
         document.getElementById('btnNext').disabled = currentIndex >= sentences.length - 1;
-        if (typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens && typeof Romaji !== 'undefined') {
-            var preview = document.getElementById('previewColored');
+        var box3Notice = document.getElementById('box3Notice');
+        var isBox3 = s.id && /^boxes-.+-3$/.test(String(s.id));
+        if (box3Notice) box3Notice.style.display = isBox3 ? 'block' : 'none';
+        var applyCb = document.getElementById('applyColorsInPreview');
+        var applyColors = !applyCb || applyCb.checked;
+        if (applyColors && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens && typeof Romaji !== 'undefined') {
             var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-            var out = SyllableColor.colorizeByTokens(ja, tokens, isDark);
-            preview.innerHTML = out.jaHtml;
-            preview.style.display = 'block';
+            var out = SyllableColor.colorizeByTokens(ja, tokens, isDark, s.en || '');
+            document.getElementById('sentenceJa').innerHTML = out.jaHtml;
+            document.getElementById('sentenceJa').style.display = 'block';
+            var romajiEl = document.getElementById('sentenceRomaji');
+            if (romajiEl) { romajiEl.innerHTML = out.romajiHtml || escapeHtml(s.romaji || ''); }
+        } else {
+            var romajiEl = document.getElementById('sentenceRomaji');
+            if (romajiEl) { romajiEl.textContent = s.romaji || ''; }
         }
     }
 
@@ -703,6 +725,8 @@
     document.getElementById('btnExportCsv').addEventListener('click', exportCsvForSpotCheck);
     var sentenceCheckedEl = document.getElementById('sentenceChecked');
     if (sentenceCheckedEl) sentenceCheckedEl.addEventListener('change', onSentenceCheckedChange);
+    var applyColorsEl = document.getElementById('applyColorsInPreview');
+    if (applyColorsEl) applyColorsEl.addEventListener('change', renderCurrent);
     document.getElementById('btnPrev').addEventListener('click', function() {
         if (currentIndex > 0) { currentIndex--; renderCurrent(); }
     });

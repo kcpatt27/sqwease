@@ -20,7 +20,7 @@
     /** JA/romaji: do not color these tokens even if they have kanji. */
     var BOXES_SKIP_ROMAJI = { 'naze': true, 'anime': true, 'dorama': true, 'karaoke': true };
 
-    /** EN: grammatical function words (do not color). */
+    /** EN: grammatical function words (do not color). Question words (what, why, when, etc.) are NOT here so they get colored and align with JA. */
     var EN_HELPERS = {
         'i': true, 'you': true, 'he': true, 'she': true, 'it': true, 'we': true, 'they': true,
         'am': true, 'is': true, 'are': true, 'was': true, 'were': true, 'be': true, 'been': true,
@@ -30,9 +30,11 @@
         'do': true, 'does': true, 'did': true, 'have': true, 'has': true, 'had': true,
         'because': true, 'not': true, 'no': true, 'yes': true,
         'can': true, 'will': true, 'would': true, 'could': true, 'should': true,
-        'when': true, 'what': true, 'why': true, 'how': true, 'where': true, 'who': true, 'which': true,
         'that': true, 'this': true, 'some': true, 'any': true, 'with': true, 'for': true, 'from': true, 'about': true
     };
+
+    /** EN: question words that start a content group; use direct (no SOV) mapping so What <-> nani, like <-> suki. */
+    var EN_QUESTION_WORDS = { 'when': true, 'what': true, 'why': true, 'how': true, 'where': true, 'who': true, 'which': true };
 
     /** EN: content words we never color (loanwords). */
     var EN_NO_COLOR = { 'anime': true, 'dramas': true, 'karaoke': true, 'coffee': true, 'breakfast': true, 'apples': true, 'games': true, 'sports': true, 'udon': true, 'ramen': true, 'soba': true, 'mandarins': true };
@@ -163,6 +165,13 @@
                     lastTimeGroup = lastGroup;
                 }
             }
+            var firstContentIsQuestion = false;
+            for (var g = 0; g < contentGroups.length; g++) {
+                if (contentGroups[g].colorGroupIdx === 0 && contentGroups[g].start < enWords.length) {
+                    firstContentIsQuestion = EN_QUESTION_WORDS[normalize(enWords[contentGroups[g].start])] === true;
+                    break;
+                }
+            }
 
             for (w = 0; w < enWords.length; w++) {
                 var gr = null;
@@ -177,12 +186,15 @@
                         enHtml += (enHtml ? ' ' : '') + escapeHtml(enWords[w]);
                         continue;
                     }
-                    // SOV: first EN content word → last JA color; remaining EN content → JA colors in order (same as syllable-color.js).
-                    // If EN ends with a time phrase and we have 3 groups, use full reverse to map time → first JA.
+                    // SOV: first EN content → last JA color; rest → JA in order. Exception: time-tail (3 groups) → full reverse.
+                    // Exception: first EN content is question word (What/Why/When...) → direct map so What↔nani, like↔suki.
                     var useTimeReverse = (colors.length === 3 && numColorGroups === 3 && lastTimeGroup != null);
+                    var useDirectMap = firstContentIsQuestion;
                     var reversedIdx = useTimeReverse
                         ? (colors.length - 1 - gr.colorGroupIdx)
-                        : (gr.colorGroupIdx === 0 ? colors.length - 1 : gr.colorGroupIdx - 1);
+                        : useDirectMap
+                            ? gr.colorGroupIdx
+                            : (gr.colorGroupIdx === 0 ? colors.length - 1 : gr.colorGroupIdx - 1);
                     if (reversedIdx < 0) reversedIdx = 0;
                     if (reversedIdx >= colors.length) reversedIdx = colors.length - 1;
                     
