@@ -1,23 +1,23 @@
-# 1–2–3 Cups Practice Pack  
+# 1–2–3 Boxes Practice Pack  
 ## Conversation-First Japanese (1–2 Weeks)
 
-A self-contained practice pack of “cups” (sentence patterns) for daily speaking. Target: late-beginner (JLPT N5–N4-ish). Use です / ます (casual-polite) throughout.
+A self-contained practice pack of “boxes” (sentence patterns) for daily speaking. Target: late-beginner (JLPT N5–N4-ish). Use です / ます (casual-polite) throughout.
 
-**How to use in the app:** Open **`cups.html`** in your browser (via a local server, e.g. `python -m http.server 8000`). You can **view generated sentences** by set (Likes, Study, Routine, Wants, Because), **practice with flip cards**, and **edit word lists** (Word lists tab: add/remove nouns, verbs, places; changes are saved in this browser only). Use the schedule at the bottom of this file for 1–2 weeks of daily practice.
+**How to use in the app:** Open **`boxes.html`** in your browser (via a local server, e.g. `python -m http.server 8000`). You can **view generated sentences** by set (Likes, Study, Routine, Wants, Because), **practice with flip cards**, and **edit word lists** (Word lists tab: add/remove nouns, verbs, places; changes are saved in this browser only). Use the schedule at the bottom of this file for 1–2 weeks of daily practice.
 
 ---
 
 ## Overview
 
-**How the cups work**
+**How the boxes work**
 
-- **Cup 1** = a simple statement pattern (e.g. “I like X”, “I am studying X”). You plug in words and say the full sentence.
-- **Cup 2** = the yes/no question version of Cup 1 (e.g. “Do you like X?”). You use the same pattern but turn it into a question.
-- **Cup 3** = an open question using the same idea (e.g. “What do you like?”, “Why do you like X?”). Someone asks you this; you answer with a Cup 1–style sentence.
+- **Box 1** = a simple statement pattern (e.g. “I like X”, “I am studying X”). You plug in words and say the full sentence.
+- **Box 2** = the yes/no question version of Box 1 (e.g. “Do you like X?”). You use the same pattern but turn it into a question.
+- **Box 3** = an open question using the same idea (e.g. “What do you like?”, “Why do you like X?”). Someone asks you this; you answer with a Box 1–style sentence.
 
 **How to “loop” answers**
 
-When someone asks a Cup 3 question, answer with a Cup 1 statement. Then treat that answer as a new topic: make a Cup 2 question from it, or another Cup 3. For example:  
+When someone asks a Box 3 question, answer with a Box 1 statement. Then treat that answer as a new topic: make a Box 2 question from it, or another Box 3. For example:  
 *“What do you like?”* → *“I like coffee.”* → *“Do you like tea too?”* → *“Yes, I like tea.”*  
 Always read every sentence out loud. Aim for using the patterns freely; small grammar mistakes are fine.
 
@@ -25,9 +25,9 @@ Always read every sentence out loud. Aim for using the patterns freely; small gr
 
 ## Core verbs: learn these first
 
-The verb lists in the app are **cherry-picked** to match the kinds of verbs we use most in English: go, come, get, make, take, give, see, know, think, say, want, use, work, try, ask, help, show, hear, play, run, move, live, change, start, stop, continue, and so on. If you learn these first, you cover a huge share of what you need to **speak, hear, and think** in Japanese. Each verb in the app turns into **three** phrase types in the cups: statement (Cup 1), yes/no question (Cup 2), and open question (Cup 3).
+The verb lists in the app are **cherry-picked** to match the kinds of verbs we use most in English: go, come, get, make, take, give, see, know, think, say, want, use, work, try, ask, help, show, hear, play, run, move, live, change, start, stop, continue, and so on. If you learn these first, you cover a huge share of what you need to **speak, hear, and think** in Japanese. Each verb in the app turns into **three** phrase types in the boxes: statement (Box 1), yes/no question (Box 2), and open question (Box 3).
 
-Use the **Word lists** tab in `cups.html` to see the full list. Below is a quick reference by category so you can focus in order.
+Use the **Word lists** tab in `boxes.html` to see the full list. Below is a quick reference by category so you can focus in order.
 
 **Motion** — go, come, leave, enter, exit, walk, run, ride, move, arrive, stop  
 行く・来る・帰る・出る・入る・歩く・走る・乗る・動く・着く・止まる
@@ -44,17 +44,17 @@ Use the **Word lists** tab in `cups.html` to see the full list. Below is a quick
 **Do / be (sur-u and existence)** — study, travel, exercise, shop, call, reserve, worry; ある (there is, thing) / いる (there is, living)  
 勉強する・旅行する・運動する・買い物する・電話する・予約する・心配する
 
-Start with **motion** and **daily life**; add **mental/communication** and **state/change** as you go. Once these feel familiar in the cups, you’re in a good place for conversation.
+Start with **motion** and **daily life**; add **mental/communication** and **state/change** as you go. Once these feel familiar in the boxes, you’re in a good place for conversation.
 
 ---
 
-# Cup Set 1: Likes and Dislikes
+# Box Set 1: Likes and Dislikes
 
 **Goal:** Say what you like and don’t like (food, hobbies, activities).
 
 ---
 
-## Cup 1: Statement (like)
+## Box 1: Statement (like)
 
 ```
 +------------------------------------------+
@@ -68,7 +68,7 @@ Notes:   X = noun (food, hobby, thing). が marks the thing you like.
 
 ---
 
-## Cup 2: Yes/No question (like)
+## Box 2: Yes/No question (like)
 
 ```
 +------------------------------------------+
@@ -82,7 +82,7 @@ Notes:   Add か at the end for a question. Answer: はい、好きです。/ �
 
 ---
 
-## Cup 3: Open question (like)
+## Box 3: Open question (like)
 
 ```
 +------------------------------------------+
@@ -91,12 +91,12 @@ Notes:   Add か at the end for a question. Answer: はい、好きです。/ �
 +------------------------------------------+
 Meaning:  "What do you like?" / "Why do you like X?"
 Romaji:  Nani ga suki desu ka. / X wa naze suki desu ka.
-Notes:   何 = what. なぜ = why. Answer with Cup 1, then add からです for "because" later.
+Notes:   何 = what. なぜ = why. Answer with Box 1, then add からです for "because" later.
 ```
 
 ---
 
-## Cup 1: Statement (dislike)
+## Box 1: Statement (dislike)
 
 ```
 +------------------------------------------+
@@ -129,9 +129,9 @@ Notes:   Polite negative of 好きです.
 
 ## Drills: Set 1
 
-### Day A – Substitution (Cup 1 & 2)
+### Day A – Substitution (Box 1 & 2)
 
-1. Say each as **Cup 1** (statement), then as **Cup 2** (question).  
+1. Say each as **Box 1** (statement), then as **Box 2** (question).  
    Plug in: コーヒー / 紅茶（こうちゃ） / ラーメン / 寿司（すし） / 旅行（りょこう） / ゲーム / スポーツ / 日本語  
    Example: コーヒーが好きです。 → コーヒーが好きですか。
 
@@ -139,23 +139,23 @@ Notes:   Polite negative of 好きです.
 
 3. Answer out loud: りんごが好きですか。 はい、好きです。 / いいえ、好きじゃありません。
 
-### Day B – Cup 3 and loop
+### Day B – Box 3 and loop
 
-1. Ask yourself: 何が好きですか。 Answer with 2–3 Cup 1 sentences (e.g. コーヒーが好きです。音楽も好きです。).
+1. Ask yourself: 何が好きですか。 Answer with 2–3 Box 1 sentences (e.g. コーヒーが好きです。音楽も好きです。).
 
-2. For each answer, make one Cup 2 question (e.g. コーヒーが好きですか。).
+2. For each answer, make one Box 2 question (e.g. コーヒーが好きですか。).
 
 3. Ask: 〇〇はなぜ好きですか。 (Fill 〇〇 with one thing you like.) Answer: 〇〇が好きです。おもしろい／おいしい／たのしいからです。
 
 ---
 
-# Cup Set 2: Studying and Work
+# Box Set 2: Studying and Work
 
 **Goal:** Say what you study, learn, or do for work.
 
 ---
 
-## Cup 1: “I am studying X”
+## Box 1: “I am studying X”
 
 ```
 +------------------------------------------+
@@ -169,7 +169,7 @@ Notes:   X = subject (e.g. 日本語、数学). を = object marker. してい�
 
 ---
 
-## Cup 2: Yes/No question
+## Box 2: Yes/No question
 
 ```
 +------------------------------------------+
@@ -182,7 +182,7 @@ Romaji:  X o benkyō shite imasu ka.
 
 ---
 
-## Cup 3: Open question
+## Box 3: Open question
 
 ```
 +------------------------------------------+
@@ -195,7 +195,7 @@ Romaji:  Nani o benkyō shite imasu ka. / Naze X o benkyō shite imasu ka.
 
 ---
 
-## Cup 1: “I work as X” / “My job is X”
+## Box 1: “I work as X” / “My job is X”
 
 ```
 +------------------------------------------+
@@ -209,7 +209,7 @@ Notes:   X = プログラマー、先生、エンジニア、など
 
 ---
 
-## Cup 1: “I am learning X”
+## Box 1: “I am learning X”
 
 ```
 +------------------------------------------+
@@ -255,17 +255,17 @@ Notes:   習う = learn (from someone). 学ぶ = study/learn (slightly more form
 3. **X を習っています。**  
    Plug in: ピアノ / ギター / 日本語 / 料理
 
-### Day B – Cup 3 and loop
+### Day B – Box 3 and loop
 
-1. Ask: 何を勉強していますか。 Answer with 2–3 Cup 1 sentences.
+1. Ask: 何を勉強していますか。 Answer with 2–3 Box 1 sentences.
 
 2. Ask: なぜ〇〇を勉強していますか。 (Use one of your subjects.) Answer with 〇〇が好きだからです。 or 〇〇の仕事をしたいからです。 etc.
 
-3. Turn your “why” answer into a simple Cup 1 statement without から (e.g. 日本に行きたいです。日本語が好きです。).
+3. Turn your “why” answer into a simple Box 1 statement without から (e.g. 日本に行きたいです。日本語が好きです。).
 
 ---
 
-# Cup Set 3: Daily Routine and Time
+# Box Set 3: Daily Routine and Time
 
 **Goal:** Say what you do and when (today / yesterday / tomorrow).
 
@@ -289,7 +289,7 @@ Notes:   習う = learn (from someone). 学ぶ = study/learn (slightly more form
 
 ---
 
-## Cup 1: “I [verb] at [time]”
+## Box 1: “I [verb] at [time]”
 
 ```
 +------------------------------------------+
@@ -303,7 +303,7 @@ Notes:   に = at (time). e.g. ７時に起きます。 I get up at 7.
 
 ---
 
-## Cup 2: Yes/No question
+## Box 2: Yes/No question
 
 ```
 +------------------------------------------+
@@ -316,7 +316,7 @@ Romaji:  [jikan] ni [dōshi] masu ka.
 
 ---
 
-## Cup 3: Open question
+## Box 3: Open question
 
 ```
 +------------------------------------------+
@@ -329,7 +329,7 @@ Romaji:  Itsu [dōshi] masu ka. / Asa nani o shimasu ka.
 
 ---
 
-## Cup 1: “Today I will [verb]”
+## Box 1: “Today I will [verb]”
 
 ```
 +------------------------------------------+
@@ -342,7 +342,7 @@ Romaji:  Kyō [dōshi] masu.
 
 ---
 
-## Cup 1: “Yesterday I [verb]-ed”
+## Box 1: “Yesterday I [verb]-ed”
 
 ```
 +------------------------------------------+
@@ -401,13 +401,13 @@ Notes:   Replace ます with ました for past.
 
 ---
 
-# Cup Set 4: Wants and Plans
+# Box Set 4: Wants and Plans
 
 **Goal:** Say what you want to do and what you plan to do.
 
 ---
 
-## Cup 1: “I want to [verb]”
+## Box 1: “I want to [verb]”
 
 ```
 +------------------------------------------+
@@ -421,7 +421,7 @@ Notes:   Replace ます with たい (e.g. 行きます → 行きたい). 食べ
 
 ---
 
-## Cup 2: Yes/No question
+## Box 2: Yes/No question
 
 ```
 +------------------------------------------+
@@ -434,7 +434,7 @@ Romaji:  [dōshi] tai desu ka.
 
 ---
 
-## Cup 3: Open question
+## Box 3: Open question
 
 ```
 +------------------------------------------+
@@ -448,7 +448,7 @@ Notes:   したい = want to do (from する).
 
 ---
 
-## Cup 1: “I plan to [verb]” / “I will [verb]”
+## Box 1: “I plan to [verb]” / “I will [verb]”
 
 ```
 +------------------------------------------+
@@ -462,7 +462,7 @@ Notes:   Use verb plain form (辞書形) before つもり: 行くつもり、勉
 
 ---
 
-## Cup 1: “I want to go to [place]”
+## Box 1: “I want to go to [place]”
 
 ```
 +------------------------------------------+
@@ -522,13 +522,13 @@ Notes:   に = to (place). 日本、東京、京都、アメリカ、など.
 
 ---
 
-# Cup Set 5: Reasons (Because)
+# Box Set 5: Reasons (Because)
 
-**Goal:** Combine previous cups with からです (“because”).
+**Goal:** Combine previous boxes with からです (“because”).
 
 ---
 
-## Cup 1: “Because …” (reason)
+## Box 1: “Because …” (reason)
 
 ```
 +------------------------------------------+
@@ -542,7 +542,7 @@ Notes:   Put a short statement before からです. e.g. おいしいからで�
 
 ---
 
-## Cup 2: Yes/No question
+## Box 2: Yes/No question
 
 ```
 +------------------------------------------+
@@ -555,7 +555,7 @@ Romaji:  [bun] kara desu ka.
 
 ---
 
-## Cup 3: Open question (triggers “because” answer)
+## Box 3: Open question (triggers “because” answer)
 
 ```
 +------------------------------------------+
@@ -569,9 +569,9 @@ Notes:   Answer with [reason] からです。
 
 ---
 
-## Example Q&A chains (Cup 3 → Cup 1 + からです)
+## Example Q&A chains (Box 3 → Box 1 + からです)
 
-| Question (Cup 3) | Answer (Cup 1 + からです) |
+| Question (Box 3) | Answer (Box 1 + からです) |
 |------------------|---------------------------|
 | なぜ日本語を勉強していますか。 | 日本に行きたいからです。 |
 | なぜコーヒーが好きですか。 | おいしいからです。 / 朝、元気になりたいからです。 |
@@ -581,16 +581,16 @@ Notes:   Answer with [reason] からです。
 
 ---
 
-## Turning the answer into new Cup 2 / Cup 3
+## Turning the answer into new Box 2 / Box 3
 
 - Answer: **日本に行きたいからです。**  
-  → New Cup 1: 日本に行きたいです。  
-  → New Cup 2: 日本に行きたいですか。  
-  → New Cup 3: いつ日本に行きたいですか。 なぜ日本に行きたいですか。
+  → New Box 1: 日本に行きたいです。  
+  → New Box 2: 日本に行きたいですか。  
+  → New Box 3: いつ日本に行きたいですか。 なぜ日本に行きたいですか。
 
 - Answer: **おいしいからです。**  
-  → New Cup 1: コーヒーが好きです。  
-  → New Cup 2: コーヒーが好きですか。
+  → New Box 1: コーヒーが好きです。  
+  → New Box 2: コーヒーが好きですか。
 
 ---
 
@@ -608,11 +608,11 @@ Notes:   Answer with [reason] からです。
 
 ### Day B – Restate without からです
 
-1. Say your “because” answer again. Then say the **same meaning** as a simple Cup 1 statement **without** からです.  
+1. Say your “because” answer again. Then say the **same meaning** as a simple Box 1 statement **without** からです.  
    Example: 日本に行きたいからです。 → 日本に行きたいです。  
    おいしいからです。 → おいしいです。 / 〇〇が好きです。
 
-2. Take one Cup 3 question from Set 1, 2, or 4. Answer with からです. Then turn that into one Cup 2 question and answer it with はい or いいえ and a short Cup 1.
+2. Take one Box 3 question from Set 1, 2, or 4. Answer with からです. Then turn that into one Box 2 question and answer it with はい or いいえ and a short Box 1.
 
 ---
 
@@ -620,20 +620,20 @@ Notes:   Answer with [reason] からです。
 
 | Days | Focus | What to do |
 |------|--------|------------|
-| **Day 1–2** | Cup Set 1 (Likes/Dislikes) | Learn Cup 1–3, do Day A then Day B drills. Say all examples out loud. |
-| **Day 3–4** | Cup Set 2 (Studying/Work) | Same: cups → examples → Day A → Day B. Loop answers into new Cup 1/2 sentences. |
-| **Day 5–6** | Cup Set 3 (Routine/Time) | Cups + time words → Day A guided sentences → Day B mini-monologues (morning / tomorrow). |
-| **Day 7–8** | Cup Set 4 (Wants/Plans) | たい / つもり / に行きたい → Day A substitution → Day B OPI-style questions. |
-| **Day 9–10** | Cup Set 5 + review | からです answers. Day A “because” answers, Day B restate without から. Mix in Cup 3 questions from Sets 1–4 and answer with からです. |
-| **Ongoing** | Free practice | Pick 2–3 Cup 3 questions from any set. Answer in Japanese, then expand with one more sentence. |
+| **Day 1–2** | Box Set 1 (Likes/Dislikes) | Learn Box 1–3, do Day A then Day B drills. Say all examples out loud. |
+| **Day 3–4** | Box Set 2 (Studying/Work) | Same: boxes → examples → Day A → Day B. Loop answers into new Box 1/2 sentences. |
+| **Day 5–6** | Box Set 3 (Routine/Time) | Boxes + time words → Day A guided sentences → Day B mini-monologues (morning / tomorrow). |
+| **Day 7–8** | Box Set 4 (Wants/Plans) | たい / つもり / に行きたい → Day A substitution → Day B OPI-style questions. |
+| **Day 9–10** | Box Set 5 + review | からです answers. Day A “because” answers, Day B restate without から. Mix in Box 3 questions from Sets 1–4 and answer with からです. |
+| **Ongoing** | Free practice | Pick 2–3 Box 3 questions from any set. Answer in Japanese, then expand with one more sentence. |
 
 **Tips**
 
 - **Always read every sentence out loud.**  
-- For every Cup 3 question, answer in Japanese first; then try to add one more sentence (e.g. another Cup 1 or からです).  
+- For every Box 3 question, answer in Japanese first; then try to add one more sentence (e.g. another Box 1 or からです).  
 - **Fluency and using the patterns matter more than perfect grammar.**  
-- If you have a tutor or partner, have them ask Cup 2 and Cup 3 questions; you answer and then ask them back.
+- If you have a tutor or partner, have them ask Box 2 and Box 3 questions; you answer and then ask them back.
 
 ---
 
-*End of 1–2–3 Cups Practice Pack. がんばってください。*
+*End of 1–2–3 Boxes Practice Pack. がんばってください。*

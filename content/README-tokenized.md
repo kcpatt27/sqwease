@@ -36,6 +36,8 @@ Color a token iff: `/\u4e00-\u9faf/.test(token.ja) && !Romaji.isParticleToken(to
 
 Use token `start`/`end` for Japanese spans; align romaji and English by token order (no reversal).
 
+**Note (Boxes):** Boxes-specific coloring (e.g. skip naze/anime/dorama/karaoke, EN phrases like "hot springs", "X o'clock", time-tail mapping) was implemented in dedicated `boxes-coloring.js` (Feb 2026 refactor). The generic rule above still applies for non-Boxes use (Editor, Flashcards); Boxes uses its own module.
+
 ## Related
 
 - **romaji.js** — `kanaToRomaji(kana)`, `isParticleToken(token)`, `containsKanji(token)`, `shouldColorToken(token)`.
