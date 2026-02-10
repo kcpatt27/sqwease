@@ -1,77 +1,71 @@
-# Color alignment (JA ↔ Romaji ↔ EN): theory and improvements
+# Color Alignment Theory
 
-## Current implementation (as of Feb 2026)
+## Purpose
 
-- **Romaji standard:** `romaji.js` — modified Hepburn (`kanaToRomaji`), particle/polite sets, `isParticleToken()`, `containsKanji()`, `shouldColorToken()`. Romaji is derived from kana in code.
-- **Tokenized schema:** Per-sentence JSON with `ja`, `romaji`, `en`, `tokens[]` (ja, kana, romaji, en, start, end, pos, isParticle, lemma), optional `version`, `lastUpdated`, `checked`, `register`. See `content/README-tokenized.md`.
-- **Data:** `content/boxes-tokenized.json` for Boxes; `scripts/build-boxes-data.js` emits `BOXES_TOKENIZED_SENTENCES` / `BOXES_TOKENIZED_VERSION` into `boxes-data.js`.
-- **Coloring:** `syllable-color.js` — `colorizeByTokens(ja, tokens, isDark)` when tokens exist; particle-aware segment-length fallback when not. Boxes and Flashcards use token-based coloring when `item.tokens` is present.
-- **Editor:** `editor.html` — load/edit tokenized JSON, add/remove sentence and token, TinySegmenter pre-fill, register/lemma, mark as checked, export JSON/CSV spot-check, recompute romaji from kana.
-- **Learner UI:** Boxes and Flashcards show Phase 1 (romaji + EN), Phase 2 (no romaji), or Phase 3 (Japanese only) via `sqwease-romaji-phase`; deck version and optional register label on Boxes.
+Colors help learners **map meaning across languages** (JA ↔ EN). If a Japanese word contains kanji and is colored, its **English translation gets the same color** so the brain can quickly encode the relationship. Content words (like, studying, job, go) are colored in EN because they correspond to colored JA/romaji—not because they are "special," but so users can see the mapping.
 
-## Previous approach (proportional / heuristic)
+---
 
-- **Japanese:** Split into N segments by proportional character count (one segment per romaji word). Only segments whose romaji word is a content word (non-particle) get a color.
-- **Romaji:** Content words colored by first-syllable; particles left plain.
-- **English:** Content words (non-helper) colored in **reverse** order so SOV (kohi, suki) aligns with SVO (like, coffee).
+## For future AI / maintainers
 
-## Remaining issues
+**Boxes coloring has been a recurring problem.** Rules were scattered across `romaji.js` (particle lists), `syllable-color.js` (PARTICLES, EN_HELPERS, EN_PHRASES), and ad-hoc logic. Fixes were applied by adding more entries to those shared lists (naze, anime, dorama, karaoke in POLITE_ROMAJI; phrase grouping in colorizeByTokens), which overloaded generic modules with boxes-only behavior and made the system hard to reason about.
 
-1. **Proportional split ignores word boundaries** – We slice Japanese by character count, so we can cut inside a word (e.g. 好|き) or group が with the wrong segment. Real boundaries need morphology.
-2. **Particle list is incomplete** – More particles/conjugations exist; some content words may be misclassified.
-3. **English reversal is a heuristic** – Works for simple SOV↔SVO; fails for more complex word order or multiple clauses.
-4. **No reading info** – We don’t know which Japanese characters “spell” which romaji word; we only infer from position.
+**Refactor plan:** A dedicated **boxes-coloring.js** module should own all boxes-specific rules (JA/romaji skip list, EN helpers, EN no-color, EN phrases like "hot springs" and "X o'clock"). **romaji.js** should answer only "is this a grammatical particle?" **syllable-color.js** should stay generic (no boxes-only lists or phrase grouping). Plan file: `.cursor/plans/boxes_coloring_refactor_cb4505d3.plan.md`. **Implementing the refactor is not guaranteed to fix every edge case**; treat it as the target architecture and verify behavior on all 5 Boxes tabs and list + practice after any change.
 
-## Ways to improve
+---
 
-### 1. Use a Japanese tokenizer (best accuracy for runtime)
+## What gets colored
 
-- **TinySegmenter** (pure JS, no WASM):  
-  - Segments e.g. `"コーヒーが好きです"` → `["コーヒー", "が", "好き", "です"]`.  
-  - Align by index with romaji words (same order).  
-  - Lightweight; accuracy is good but not perfect (no readings).
-- **MeCab WASM** (e.g. mecab-emscripten, mecab-wasm):  
-  - Full morphological analysis + readings.  
-  - Can map each token to surface form and reading (→ romaji).  
-  - Heavier (WASM + dictionary); best for “correct” boundaries and alignment.
+### Japanese / Romaji
 
-**Idea:** Run tokenizer on JA → get JA segments. Assume romaji string is space-separated in the same order → zip JA segments with romaji words. Color only pairs where romaji word is not a particle. No proportional split.
+- **Colored:** All tokens that contain kanji and are not particles (e.g. 好き/suki, 勉強/benkyō, 仕事/shigoto, 行きたい/ikitai).
+- **Not colored:** Grammatical particles (が/ga, は/wa, を/o, に/ni, で/de, と/to, か/ka, ね/ne, よ/yo, です/desu, ます/masu, して/shite, います/imasu, etc.). Pure kana question word なぜ/naze is not colored (not kanji). Loanwords that are not colored in boxes: anime, dorama, karaoke (boxes-specific; see refactor plan).
 
-### 2. Pre-segmented data (best accuracy, no tokenizer)
+### English
 
-- In the **source data** (CSV/JSON for flashcards and boxes), store:
-  - `ja_segments`: `["コーヒー", "が", "好き", "です"]`
-  - `romaji_segments`: `["kohi", "ga", "suki", "desu"]`
-  - Optional: `en_segments` or indices mapping JA segments to EN words
-- The app then **only** colors by index: no splitting, no guessing. Build step or data pipeline does segmentation once (e.g. with MeCab/fugashi in Python).
+- **Colored:** Content words that correspond to colored JA/romaji (like, studying, job, go, Japanese, student, etc.) so the mapping is visible.
+- **Not colored:** Grammatical function words (I, you, am, is, are, do, does, at, to, because, etc.). Boxes-specific: anime, dramas, karaoke are not colored (loanwords). Some EN nouns are also excluded in Boxes to align with desired learning focus (see `EN_NO_COLOR` in `boxes-coloring.js`).
 
-### 3. Furigana / ruby as alignment source
+### Special cases (boxes)
 
-- If the data has furigana (e.g. `日本[にほん]` or `<ruby>日本<rt>にほん</rt></ruby>`), we know which base characters map to which reading.
-- Convert reading to romaji (e.g. にほん → nihon) and use that for coloring and for aligning JA↔romaji↔EN. Good for kanji-heavy text; need a consistent furigana format in the data.
+- **"hot springs"** and **"X o'clock"** (e.g. 7 o'clock) are treated as **one phrase** and get one color (same as 温泉, 7時).
+- **Time phrases** at the end of EN (night, weekend, noon, every day) map to the **first** JA time token when there are three content groups (time + object + verb).
+- **に** (ni) in e.g. "shichi-ji ni okimasu" is a particle and is not colored.
 
-### 4. Heuristic refinements (no new deps)
+---
 
-- **Particle-aware segment lengths:** When the corresponding romaji word is a known particle (が, です, は, etc.), assign a fixed length (e.g. 1 for が, 2 for です) instead of proportional. Reduces bad cuts on particles.
-- **Expand particle list:** Add more particles and conjugations (e.g. でしょう, ません, ている) so they stay uncolored.
-- **Expand EN helper list:** So “do”, “does”, “can”, etc. stay plain.
+## Color assignment
 
-### 5. English alignment beyond reversal
+- Colors come from the **first syllable** of the romaji (e.g. "ko" → orange, "su" → yellow).
+- English inherits colors via **SOV↔SVO mapping**: first EN content word maps to last JA content color; remaining EN content words map to JA content colors in order.
+- When there are more EN content words than JA colors (e.g. Routine: time + verb), content words are **grouped** so each JA color maps to a phrase (e.g. "get up" vs "7 o'clock"). For time-tail sentences with three groups, use full reverse to map EN time → JA time.
 
-- Reversal works when there’s one object and one verb (SOV ↔ SVO). For more complex sentences, we’d need:
-  - Parallel segments (JA segment i ↔ EN segment j) from data, or
-  - Semantic similarity (embeddings) to pair words – likely overkill for this app.
-- Pragmatic approach: keep reversal; optionally allow the data to specify `en_content_order` or explicit JA↔EN indices for tricky cards.
+---
 
-## Suggested order of implementation
+## Where rules live (current vs after refactor)
 
-1. **Short term:** Particle-aware segment lengths + expanded particle/helper lists (quick win).
-2. **Medium term:** Integrate **TinySegmenter** (or similar) in the app: segment JA, align 1:1 with romaji words, color only content-word pairs. Drop proportional split.
-3. **Long term / best quality:** Pre-segment in the build pipeline or data; store `ja_segments` / `romaji_segments` (and optionally EN mapping) so the app just renders colors by index.
+| Concern | Current (pre-refactor) | After refactor (target) |
+|--------|------------------------|-------------------------|
+| Grammatical particles | romaji.js: PARTICLES_ROMAJI, POLITE_ROMAJI | romaji.js only (no naze/anime/dorama/karaoke in POLITE_ROMAJI) |
+| Boxes "don't color" (naze, anime, etc.) | romaji.js POLITE_ROMAJI + syllable-color.js PARTICLES | boxes-coloring.js: BOXES_SKIP_ROMAJI |
+| EN grammatical helpers | syllable-color.js EN_HELPERS | boxes-coloring.js (for boxes); syllable-color.js EN_HELPERS generic only |
+| EN no-color (anime, dramas, karaoke) | syllable-color.js EN_HELPERS | boxes-coloring.js: EN_NO_COLOR |
+| EN phrases (hot springs, o'clock) | syllable-color.js EN_PHRASES + logic in colorizeByTokens | boxes-coloring.js: EN_PHRASES + logic in colorizeBoxesItem |
+| Token "should color" (kanji + not particle) | syllable-color.js shouldColor using Romaji.isParticleToken | boxes: boxes-coloring.js shouldColorTokenForBoxes; generic: syllable-color.js (hasKanji && !isParticle) |
 
-## References (from research)
+---
 
-- MeCab in browser: mecab-emscripten, mecab-wasm, mecab-web-worker, Birch-san’s mecab-web.
-- TinySegmenter: pure JS, npm `tiny-segmenter`, no WASM.
-- Japanese word boundaries: Stack Exchange “How to separate words in a Japanese sentence”; fugashi, nagisa, JUMAN, KyTea (Python).
-- Ruby/furigana: W3C Ruby Annotation; character-range mapping (mono vs group ruby).
+## Implementation (current)
+
+- **syllable-color.js:** `colorizeByTokens(ja, tokens, isDark, fullEn)` — token-based path; when fullEn is provided, builds EN from full sentence with content groups and SOV mapping. `colorizeByWords(ja, romaji, en, isDark, maxEnColors)` — word-based fallback using PARTICLES and EN_HELPERS.
+- **romaji.js:** `isParticleToken(token)`, `shouldColorToken(token)`, `containsKanji(token)`. PARTICLES_ROMAJI and POLITE_ROMAJI (currently include naze, anime, dorama, karaoke for boxes behavior).
+- **boxes.html:** Calls `BoxesColoring.colorizeBoxesItem(item.ja, tokens, isDark, item.en)` for list and practice; fallback to SyllableColor only when needed. Includes token normalization for common compounds (digit+時, ごはん splits/joins, お好み焼き, ます/か handling) to align with romaji.
+
+After refactor, boxes.html will call `BoxesColoring.colorizeBoxesItem(item.ja, tokens, isDark, item.en)` when tokens exist; boxes-coloring.js will own all boxes rules and use Romaji + SyllableColor only as utilities.
+
+---
+
+## Learner UI
+
+- Boxes and Flashcards: Phase 1 (romaji + EN), Phase 2 (no romaji), Phase 3 (Japanese only) via `sqwease-romaji-phase`.
+- Deck version and optional register label on Boxes.

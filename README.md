@@ -12,6 +12,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Architecture Overview](#architecture-overview)
+- [Documentation](#documentation)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -110,7 +111,7 @@ The project is currently in early development, with a basic flashcard interface 
 
 2. **Build data (optional but recommended)**:
    - **Flashcards:** `node scripts/build-flashcards-vocab.js` → creates `flashcards-vocab.js` (1500 words).
-   - **1-2-3 Boxes:** `node scripts/build-boxes-data.js` → creates `boxes-data.js` from `content/boxes-config.json` and `content/boxes-words.json`. (Config may use `cups`/`cupType`; the app normalizes to `boxes`/`boxType` at runtime.)
+   - **1-2-3 Boxes:** `node scripts/build-boxes-data.js` → creates `boxes-data.js` from `content/boxes-config.json` and `content/boxes-words.json`. (Config may use `boxes`/`boxType`; the app normalizes to `boxes`/`boxType` at runtime.)
 3. **Open the app**:
    - Open **`index.html`** directly in your browser for menu, Flashcards, and 1-2-3 Boxes (no server needed if the `.js` data files are present).
    - Or start a local server and go to `http://localhost:8000`:
@@ -166,10 +167,10 @@ Example: 学校に行きます。 (I go to school.)
 
 1. Open **`boxes.html`** (or click **1-2-3 Boxes** from the main menu).
 2. Choose a **set**: Likes and Dislikes, Studying and Work, Daily Routine, Wants and Plans, or Because.
-3. **View list**: See all generated sentences (Cup 1 = statement, Cup 2 = yes/no question, Cup 3 = open question).
+3. **View list**: See all generated sentences (Box 1 = statement, Box 2 = yes/no question, Box 3 = open question).
 4. **Practice**: Switch to “Practice (flip cards)” and click the card or press **Space** to flip (Japanese → romaji + English). Use **←** / **→** or buttons for prev/next.
 
-Sentences are **generated** from word lists and cup patterns. **Verbs** are a great place to start: Japanese has roughly 2,000–3,000 base verbs (plus many する-compounds). The app’s verbs are **cherry-picked** to match common English verbs (go, come, make, take, give, see, know, think, move, stay, change, etc.) plus motion/state verbs, so you get strong coverage for speaking and thinking. Each verb drives three phrase types (statement, yes/no question, open question) in the Routine and Wants sets. The practice pack has a **“Core verbs: learn these first”** section (Motion, State/change, Daily life, Mental/communication). Use the **Word lists** tab in `boxes.html` to add or remove nouns, verbs, places, and routine pairs; your changes are saved in this browser (localStorage). **Reset to defaults** restores the built-in lists. You can also edit **`content/cups-words.json`** directly; the app loads from JSON on first visit, then uses saved data if present. The full method and drills are in **`content/1-2-3-boxes-practice-pack.md`**.
+Sentences are **generated** from word lists and box patterns. **Verbs** are a great place to start: Japanese has roughly 2,000–3,000 base verbs (plus many する-compounds). The app’s verbs are **cherry-picked** to match common English verbs (go, come, make, take, give, see, know, think, move, stay, change, etc.) plus motion/state verbs, so you get strong coverage for speaking and thinking. Each verb drives three phrase types (statement, yes/no question, open question) in the Routine and Wants sets. The practice pack has a **“Core verbs: learn these first”** section (Motion, State/change, Daily life, Mental/communication). Use the **Word lists** tab in `boxes.html` to add or remove nouns, verbs, places, and routine pairs; your changes are saved in this browser (localStorage). **Reset to defaults** restores the built-in lists. You can also edit **`content/boxes-words.json`** directly; the app loads from JSON on first visit, then uses saved data if present. The full method and drills are in **`content/1-2-3-boxes-practice-pack.md`**.
 
 ### Using with Anki
 
@@ -243,6 +244,14 @@ SQWease is currently a client-side application with a simple, modular structure 
 │             │  - Mastery levels
 └─────────────┘
 ```
+
+---
+
+## Documentation
+
+- **Memory bank** (project context for AI and maintainers): [memory-bank/](memory-bank/). Key files: [activeContext.md](memory-bank/activeContext.md), [progress.md](memory-bank/progress.md).
+- **Color alignment (Boxes / Flashcards):** [memory-bank/color-alignment-theory.md](memory-bank/color-alignment-theory.md) — how JA/romaji/EN coloring works and how it maps meaning across languages. Boxes coloring rules now live in dedicated `boxes-coloring.js` (Feb 2026 refactor).
+- **Tokenized schema:** [content/README-tokenized.md](content/README-tokenized.md).
 
 ---
 

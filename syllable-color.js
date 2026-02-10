@@ -1,33 +1,68 @@
 /**
  * Syllable-based color coding for romaji/Japanese (Gojuon-style).
- * First syllable determines color: a/i/u/e/o = red, k+ = orange, s+ = yellow, etc.
+ *
+ * CONTRACT: Color is determined ONLY from romaji (first syllable of each romaji word/token).
+ * - Syllable → color: getFirstSyllable(romaji) → row → palette. We never use English text
+ *   or English syllables to pick a color.
+ * - Japanese segments and English translated words INHERIT the color of their aligned
+ *   romaji counterpart. JA and EN are never passed to getColorForRomaji.
+ *
+ * Row colors: あ=red, か/が=orange, さ=yellow (su/suki=like), た=teal, な=blue,
+ * は=purple, ま=tan, や=olive, ら=magenta, わ=brown.
+ *
+ * Debug: set window.SyllableColorDebug = true and open the console to log (romaji, syllable, row, color) for every getColorForRomaji call.
  */
 (function(global) {
     'use strict';
 
+    var vowel_RED = 'hsl(0, 76.60%, 54.70%)'; /* red for monograph vowels (a, i, u, e, o) */
+    var k_ORANGE = 'hsl(22, 79.60%, 53.90%)'; /* orange for monographs and digraphs (ka, ki, ku, ke, ko, kya, kyu, kyo) */
+    var k_LIGHT = 'hsl(22, 79.20%, 71.80%)'; /* lighter orange for diacritics and digraphs with diacritics (gyo, gya, gyu, ga, go, gi, ge, gu) */
+    var s_YELLOW = 'hsl(59, 100.00%, 45.10%)'; /* yellow for monographs and digraphs (sa, shi, su, se, so, sha, shu, sho) */
+    var s_LIGHT = 'hsl(54, 76.20%, 72.00%)'; /* lighter yellow for diacritics and digraphs with diacritics (zu, ze, za, zo, ji, ja, ju, jo) */
+    var t_GREEN = 'hsl(140, 65.10%, 53.90%)'; /* green for monographs and digraphs (ta, chi, tsu, te, to, cha, chu, cho) */
+    var t_LIGHT = 'hsl(160, 49.10%, 66.90%)'; /* lighter green for diacritics (da, ji, zu, de, do) */
+    var n_BLUE = 'hsl(207, 81.90%, 49.80%)'; /* blue for monographs and digraphs (na, ni, nu, ne, no, nya, nyu, nyo) */
+    var h_PURPLE = 'hsl(268, 78.30%, 63.90%)'; /* purple for monographs and digraphs (ha, hi, fu, he, ho, hya, hyu, hyo) */
+    var h_LIGHT = 'hsl(268, 68.10%, 72.90%)'; /* lighter purple for diacritics and digraphs with diacritics (bi, ba, bu, be, bo, pa, pi, pu, pe, po, bya, byu, byo, pya, pyu, pyo) */
+    var m_NAVY_BLUE = 'hsl(226, 51.10%, 46.50%)'; /* navy blue for monographs and digraphs (ma, mi, mu, me, mo, mya, myu, myo) */
+    var y_MAGENTA = 'hsl(315, 42.60%, 49.20%)'; /* magenta for monographs (ya, yu, yo) */
+    var r_BROWN = 'hsl(33, 29.60%, 39.00%)'; /* brown for monographs and digraphs (ra, ri, ru, re, ro, rya, ryu, ryo) */
+    var w_GRAY = 'hsl(0, 0.00%, 62.00%)'; /* gray for monographs wa and wo */
+
     var LIGHT = {
-        vowel: '#c0392b',
-        k: '#e67e22',
-        s: '#f1c40f',
-        t: '#27ae60',
-        n: '#3498db',
-        h: '#9b59b6',
-        m: '#5c6bc0',
-        y: '#27ae60',
-        r: '#c0392b',
-        w: '#a67c52'
+        vowel: vowel_RED,   
+        k: k_ORANGE,      
+        g: k_LIGHT, 
+        s: s_YELLOW,       
+        z: s_LIGHT, 
+        t: t_GREEN,      
+        d: t_LIGHT, 
+        n: n_BLUE,      
+        h: h_PURPLE,      
+        b: h_LIGHT, 
+        p: h_LIGHT, 
+        m: m_NAVY_BLUE,      
+        y: y_MAGENTA,      
+        r: r_BROWN,      
+        w: w_GRAY       
     };
     var DARK = {
-        vowel: '#e74c3c',
-        k: '#f39c12',
-        s: '#f1c40f',
-        t: '#2ecc71',
-        n: '#3498db',
-        h: '#9b59b6',
-        m: '#7986cb',
-        y: '#2ecc71',
-        r: '#e74c3c',
-        w: '#b7956e'
+        vowel: vowel_RED,   
+        k: k_ORANGE,      
+        g: k_LIGHT, 
+        s: s_YELLOW,       
+        z: s_LIGHT, 
+        t: t_GREEN,      
+        d: t_LIGHT, 
+        n: n_BLUE,      
+        h: h_PURPLE,      
+        b: h_LIGHT, 
+        p: h_LIGHT, 
+        m: m_NAVY_BLUE,      
+        y: y_MAGENTA,      
+        r: r_BROWN,      
+        w: w_GRAY 
     };
 
     /** Get first syllable from romaji (e.g. "nihon" -> "ni", "ichi" -> "i"). */
@@ -41,16 +76,21 @@
         return '';
     }
 
-    /** Map first syllable to row key (vowel, k, s, t, n, h, m, y, r, w). */
+    /** Map first syllable to row key: consonant letter (k, g, s, z, t, d, n, h, b, p, m, y, r, w) or vowel. */
     function syllableToRow(syllable) {
         if (!syllable) return 'vowel';
         var c = syllable.charAt(0);
         if (/[aiueo]/.test(c)) return 'vowel';
-        if (/[kg]/.test(c)) return 'k';
-        if (/[sz]/.test(c) || syllable.indexOf('sh') === 0 || syllable.indexOf('j') === 0) return 's';
-        if (/[td]/.test(c) || syllable.indexOf('ch') === 0 || syllable.indexOf('ts') === 0) return 't';
+        if (c === 'g') return 'g';
+        if (c === 'k') return 'k';
+        if (syllable.indexOf('j') === 0 || c === 'z') return 'z';
+        if (c === 's' || syllable.indexOf('sh') === 0) return 's';
+        if (c === 'd') return 'd';
+        if (c === 't' || syllable.indexOf('ch') === 0 || syllable.indexOf('ts') === 0) return 't';
         if (c === 'n') return 'n';
-        if (/[hfbp]/.test(c)) return 'h';
+        if (c === 'p') return 'p';
+        if (c === 'b') return 'b';
+        if (c === 'h' || c === 'f') return 'h';
         if (c === 'm') return 'm';
         if (c === 'y') return 'y';
         if (c === 'r') return 'r';
@@ -58,12 +98,16 @@
         return 'vowel';
     }
 
-    /** Return hex color for a romaji string (uses first syllable). isDark = dark theme. */
+    /** Return hex color for a romaji string (uses first syllable). Call only with romaji; never with English. */
     function getColorForRomaji(romaji, isDark) {
         var syl = getFirstSyllable(romaji);
         var row = syllableToRow(syl);
         var palette = isDark ? DARK : LIGHT;
-        return palette[row] || palette.vowel;
+        var color = palette[row] || palette.vowel;
+        if (typeof global !== 'undefined' && global.SyllableColorDebug) {
+            try { console.log('SyllableColor', { romaji: romaji, syllable: syl, row: row, color: color }); } catch (e) {}
+        }
+        return color;
     }
 
     /** Wrap text in a span with background color from romaji's first syllable. */
@@ -97,23 +141,33 @@
     }
 
     /** Common Japanese particles and helper words to exclude from coloring. */
+    // why do we have this? why is the code not robust enough to handle particles? this needs to be refactored
     var PARTICLES = {
         'ga': true, 'wa': true, 'wo': true, 'o': true, 'ni': true, 'de': true, 'to': true,
         'ka': true, 'ne': true, 'yo': true, 'na': true, 'no': true, 'mo': true, 'ya': true,
         'desu': true, 'masu': true, 'da': true, 'deshita': true, 'mashita': true, 'masen': true,
         'kara': true, 'made': true, 'yori': true, 'node': true, 'kedo': true, 'keredo': true,
-        'shi': true, 'te': true, 'ta': true, 'tari': true, 'nara': true, 'ba': true, 'kedo': true
+        'shi': true, 'te': true, 'ta': true, 'tari': true, 'nara': true, 'ba': true,
+        'shite': true, 'imasu': true, 'shimasu': true, 'shimashita': true,
+        'shiteimasu': true, 'imashita': true, 'imasen': true, 'arimasen': true, 'ja': true
     };
     
-    /** Common English helper words to exclude from coloring. */
+    /** Common English grammatical/function words to exclude from coloring (only true helpers, not content words). */
+    // this also needs to be refactored, per the above comment
     var EN_HELPERS = {
         'i': true, 'you': true, 'he': true, 'she': true, 'it': true, 'we': true, 'they': true,
         'am': true, 'is': true, 'are': true, 'was': true, 'were': true, 'be': true, 'been': true,
         'a': true, 'an': true, 'the': true, 'to': true, 'of': true, 'in': true, 'on': true, 'at': true,
         'and': true, 'or': true, 'but': true, 'my': true, 'your': true, 'his': true, 'her': true,
-        'its': true, 'our': true, 'their': true
+        'its': true, 'our': true, 'their': true,
+        'do': true, 'does': true, 'did': true, 'have': true, 'has': true, 'had': true,
+        'want': true, 'because': true, 'not': true, 'no': true, 'yes': true,
+        'can': true, 'will': true, 'would': true, 'could': true, 'should': true,
+        'when': true, 'what': true, 'why': true, 'how': true, 'where': true, 'who': true, 'which': true,
+        'that': true, 'this': true, 'some': true, 'any': true, 'with': true, 'for': true, 'from': true, 'about': true
     };
-    
+
+
     /** Check if romaji word is a particle. */
     function isParticle(word) {
         return PARTICLES[word.toLowerCase().replace(/[.,!?]/g, '')];
@@ -165,10 +219,11 @@
 
     /**
      * Color only content words (skip particles). Japanese: only color segments that match content romaji words.
-     * English: assign colors in REVERSE order so SOV (kohi, suki) matches SVO (like, coffee) → kohi=coffee, suki=like.
+     * English: verb-first (EN) maps to verb-last (JA). First EN content word → last JA color; remaining EN content words → JA colors in order (object1→object1, object2→object2). So SOV [obj1, obj2, verb] aligns with SVO [verb, obj1, obj2].
+     * @param {number} [maxEnColors] - If provided (e.g. from token-based colored count), only this many EN content words get a color, so EN matches JA/romaji (e.g. kana-only words stay uncolored).
      * Returns {jaHtml, romajiHtml, enHtml}.
      */
-    function colorizeByWords(ja, romaji, en, isDark) {
+    function colorizeByWords(ja, romaji, en, isDark, maxEnColors) {
         if (!romaji) {
             return {
                 jaHtml: escapeHtml(ja || ''),
@@ -180,6 +235,7 @@
         var enWords = (en || '').trim().split(/\s+/).filter(Boolean);
         var jaSegments = segmentJaByRomajiWordCount((ja || '').trim(), romajiWords);
 
+        /* Colors come ONLY from romaji; never from English. */
         var colors = [];
         for (var i = 0; i < romajiWords.length; i++) {
             if (!isParticle(romajiWords[i])) {
@@ -217,15 +273,19 @@
             }
         }
 
+        /* EN inherits romaji-derived colors by position (SOV↔SVO mapping). We never use English text to pick a color. */
         var enContentIndices = [];
         for (var i = 0; i < enWords.length; i++) {
             if (!isEnHelper(enWords[i])) enContentIndices.push(i);
         }
         var numContent = Math.min(colors.length, enContentIndices.length);
+        if (maxEnColors !== undefined && maxEnColors !== null) {
+            numContent = Math.min(numContent, maxEnColors);
+        }
         for (var i = 0; i < enWords.length; i++) {
             var idx = enContentIndices.indexOf(i);
             if (idx >= 0 && idx < numContent) {
-                var reversedIdx = numContent - 1 - idx;
+                var reversedIdx = idx === 0 ? numContent - 1 : idx - 1;
                 var colorStyle = 'color:' + colors[reversedIdx] + ';font-weight:600';
                 enHtml += (i > 0 ? ' ' : '') + '<span style="' + colorStyle + '">' + escapeHtml(enWords[i]) + '</span>';
             } else {
@@ -241,24 +301,31 @@
     }
 
     /**
-     * Token-based coloring: use token start/end for Japanese; color only tokens where containsKanji && !isParticle.
-     * Requires Romaji.shouldColorToken and Romaji.isParticleToken when Romaji is loaded.
+     * Token-based coloring: color is from token.romaji only; JA and token.en inherit that color.
+     * Requires Romaji.shouldColorToken when Romaji is loaded. We never use token.en to pick a color.
      * @param {string} ja - Full sentence (source of truth for start/end)
-     * @param {Array<{ja:string, kana?:string, romaji:string, en?:string|null, start:number, end:number, pos?:string, isParticle?:boolean}>} tokens
+     * @param {Array<{ja:string, kana?:string, romaji:string, en?:string|null, start:number, end:number}>} tokens
      * @param {boolean} isDark
+     * @param {string} [fullEn] - Optional full English sentence; when set, enHtml is built from this (content words colored by token colors).
      * @returns {{jaHtml:string, romajiHtml:string, enHtml:string}}
      */
-    function colorizeByTokens(ja, tokens, isDark) {
+    function colorizeByTokens(ja, tokens, isDark, fullEn) {
         if (!tokens || !tokens.length) {
             return {
                 jaHtml: escapeHtml(ja || ''),
                 romajiHtml: '',
-                enHtml: ''
+                enHtml: fullEn != null && fullEn !== '' ? escapeHtml(fullEn) : ''
             };
         }
-        var shouldColor = (typeof global.Romaji !== 'undefined' && global.Romaji.shouldColorToken)
-            ? global.Romaji.shouldColorToken.bind(global.Romaji)
-            : function(t) { return /[\u4e00-\u9faf]/.test(t.ja) && !(typeof global.Romaji !== 'undefined' && global.Romaji.isParticleToken(t)); };
+        /* Color tokens that contain kanji and are not particles. Pure kana words (like なぜ/naze) are not colored. */
+        var shouldColor = (typeof global.Romaji !== 'undefined' && global.Romaji.isParticleToken)
+            ? function(t) { 
+                var hasKanji = /[\u4e00-\u9faf]/.test(t.ja);
+                var isParticle = global.Romaji.isParticleToken(t);
+                return hasKanji && !isParticle;
+              }
+            : function(t) { return /[\u4e00-\u9faf]/.test(t.ja); };
+        /* Color only from token.romaji; token.en inherits the same color. */
         var colors = [];
         for (var i = 0; i < tokens.length; i++) {
             if (shouldColor(tokens[i])) colors.push(getColorForRomaji(tokens[i].romaji, isDark));
@@ -281,10 +348,32 @@
                     ? '<span style="' + colorStyle + '">' + escapeHtml(t.romaji) + '</span>'
                     : escapeHtml(t.romaji));
             }
-            if (t.en != null && t.en !== '') {
-                enHtml += (enHtml ? ' ' : '') + (colorStyle
-                    ? '<span style="' + colorStyle + '">' + escapeHtml(t.en) + '</span>'
-                    : escapeHtml(t.en));
+            if (fullEn == null || fullEn === '') {
+                if (t.en != null && t.en !== '') {
+                    var enWord = String(t.en).trim().toLowerCase().replace(/[.,!?]/g, '');
+                    var styleForEn = (colorStyle && !EN_HELPERS[enWord]) ? colorStyle : '';
+                    enHtml += (enHtml ? ' ' : '') + (styleForEn
+                        ? '<span style="' + styleForEn + '">' + escapeHtml(t.en) + '</span>'
+                        : escapeHtml(t.en));
+                }
+            }
+        }
+        if (fullEn != null && fullEn !== '') {
+            var enWords = fullEn.trim().split(/\s+/).filter(Boolean);
+            var enContentIndices = [];
+            for (var w = 0; w < enWords.length; w++) {
+                if (!isEnHelper(enWords[w])) enContentIndices.push(w);
+            }
+            var numContent = Math.min(colors.length, enContentIndices.length);
+            for (w = 0; w < enWords.length; w++) {
+                var idx = enContentIndices.indexOf(w);
+                if (idx >= 0 && idx < numContent && colors.length > 0) {
+                    var reversedIdx = idx === 0 ? numContent - 1 : idx - 1;
+                    var colorStyleEn = 'color:' + colors[reversedIdx] + ';font-weight:600';
+                    enHtml += (enHtml ? ' ' : '') + '<span style="' + colorStyleEn + '">' + escapeHtml(enWords[w]) + '</span>';
+                } else {
+                    enHtml += (enHtml ? ' ' : '') + escapeHtml(enWords[w]);
+                }
             }
         }
         return {

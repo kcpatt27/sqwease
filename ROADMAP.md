@@ -32,7 +32,7 @@ SQWease aims to become the most efficient way to learn any language, by combinin
 - **Kana charts:** Main menu card + page (Gojuon grid, row color-coding, monographs/diacritics/digraphs).
 - **Kanji section:** Main menu card + kanji.html — Grade 1+2 list (240 common kanji from kanjiapi.dev), Personal list (localStorage), lookup by character/meaning/reading, add/remove personal entries.
 - **Boxes cards:** Front = Japanese + Romaji; back = Japanese + Romaji + English; token-based coloring when tokenized data present; deck version and optional register label.
-- **Syllable color-coding:** Token-based when `item.tokens` exists (`colorizeByTokens`); otherwise word-based with particle-aware fallback. Applied on Flashcards (word, pronunciation, definition), Boxes (front/back), Kanji list (character, readings).
+- **Syllable color-coding:** Token-based when `item.tokens` exists (`colorizeByTokens`); otherwise word-based with particle-aware fallback. Applied on Flashcards (word, pronunciation, definition), Boxes (front/back), Kanji list (character, readings). Boxes coloring now uses dedicated `boxes-coloring.js` (Feb 2026 refactor).
 - **Tokenization:** Romaji standard (`romaji.js`), tokenized sentence schema (`content/README-tokenized.md`), `boxes-tokenized.json` + build pipeline, token editor (`editor.html` with add/remove sentence/token, TinySegmenter, register/lemma, export JSON/CSV).
 - **Romaji phase toggle:** Boxes and Flashcards — Phase 1 (romaji + EN), Phase 2 (no romaji), Phase 3 (Japanese only); preference in `sqwease-romaji-phase`.
 - **Index:** Separate h1 for mobile (“SQWease · JP”) vs PC/tablet (“Speak Quite Well with Ease · Japanese”) via CSS at 600px breakpoint.

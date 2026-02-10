@@ -10,6 +10,10 @@
 - project_specs.md — Project vision and features
 - ROADMAP.md — Feature roadmap (Now/Next/Later)
 - ARCHITECTURE.md — System design (generate from README prompt)
+- memory-bank/ — Project context for AI and maintainers: activeContext.md, progress.md, color-alignment-theory.md. Read at start of tasks when working on Boxes, coloring, or tokenization.
+
+## Known issues (for AI and maintainers)
+- **Boxes coloring (resolved Feb 2026):** All boxes coloring rules now live in dedicated `boxes-coloring.js`. Do not add boxes-specific rules to romaji.js (grammatical particles only) or syllable-color.js (generic behavior). See memory-bank/color-alignment-theory.md for current architecture.
 
 ## Documentation Standards
 - Use markdown format

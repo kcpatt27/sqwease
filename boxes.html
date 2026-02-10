@@ -29,6 +29,10 @@
             --secondary-text: #a4b0be;
         }
         * { box-sizing: border-box; }
+        a:focus-visible, button:focus-visible, input:focus-visible, .theme-toggle:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -82,6 +86,9 @@
             color: var(--primary);
             text-decoration: none;
             font-weight: 600;
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
         }
         .nav a:hover { text-decoration: underline; }
         h1 { color: var(--primary); margin-top: 0; }
@@ -90,7 +97,7 @@
             background: var(--card-bg);
             border-left: 4px solid var(--primary);
             padding: 16px;
-            margin-bottom: 24px;
+            margin-bottom: 16px;
             border-radius: 8px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.08);
         }
@@ -117,16 +124,18 @@
             cursor: pointer;
             font-weight: 600;
             user-select: none;
+            margin-left: auto;
         }
         .info-box .toggle-info:hover { text-decoration: underline; }
         .set-tabs {
             display: flex;
             flex-wrap: wrap;
-            gap: 8px;
-            margin-bottom: 20px;
+            gap: 10px;
+            margin-bottom: 12px;
         }
         .set-tab {
             padding: 10px 16px;
+            min-height: 44px;
             border: 2px solid var(--primary);
             background: #fff;
             color: var(--primary);
@@ -139,24 +148,73 @@
         .mode-tabs {
             display: flex;
             gap: 8px;
-            margin-bottom: 16px;
+            margin-bottom: 12px;
         }
         .mode-tab {
             padding: 8px 14px;
-            border: 1px solid #ddd;
+            border: 1px solid var(--text);
             background: #fff;
             cursor: pointer;
             border-radius: 6px;
         }
-        .mode-tab.active { background: #2ed573; color: #fff; border-color: #2ed573; }
+        .mode-tab.active { background: var(--primary); color: #fff; border-color: var(--primary); font-weight: bolder; }
         .list-view { max-width: 700px; }
         .box-group {
-            margin-bottom: 24px;
+            margin-bottom: 18px;
         }
         .box-group h3 {
             color: var(--primary);
-            margin-bottom: 8px;
+            margin: 12px 0 8px;
             font-size: 1rem;
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 6px;
+        }
+        .list-view .box-group:first-child h3 {
+            margin-top: 6px;
+        }
+        .display-phase {
+            margin-top: 0;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .display-phase label {
+            color: var(--secondary-text);
+            font-weight: 600;
+        }
+        .select-primary {
+            padding: 8px 14px;
+            min-height: 44px;
+            border: 2px solid var(--primary);
+            background: var(--card-bg);
+            color: var(--text);
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .select-primary:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
+        .mode-tabs .select-primary {
+            background: var(--card-bg);
+        }
+        .box-group h3::after {
+            content: '▼';
+            font-size: 0.7em;
+            transition: transform 0.2s;
+            display: inline-block;
+        }
+        .box-group.collapsed h3::after {
+            transform: rotate(-90deg);
+        }
+        .box-group.collapsed .box-item {
+            display: none;
         }
         .box-item {
             display: grid;
@@ -328,32 +386,23 @@
         <span>·</span>
         <span><strong>1-2-3 Boxes</strong></span>
     </nav>
-    <h1>1-2-3 Boxes</h1>
-    <p class="subtitle">Conversation-first sentence patterns. Box 1 = statement, Box 2 = yes/no question, Box 3 = open question.</p>
-
+    <!-- <h1>1-2-3 Boxes</h1> -->
     <div class="info-box">
-        <h3>💡 How to use</h3>
+        <h3>
+            <span class="toggle-info" onclick="toggleInfo()">💡 How to use 1-2-3 Boxes ▲</span>
+        </h3>
         <div id="infoToggle">
-            <span class="toggle-info" onclick="toggleInfo()">Show instructions ▼</span>
-            <div id="infoDetail" style="display:none; margin-top:12px;">
+            <div id="infoDetail" style="display:block; margin-top:12px;">
                 <p><strong>1-2-3 Boxes</strong> is a method for building conversation skills by practicing three sentence types:</p>
                 <ul>
-                    <li><strong>Box 1 (Statement):</strong> "I like coffee." — State something.</li>
-                    <li><strong>Box 2 (Yes/No Question):</strong> "Do you like coffee?" — Ask a closed question.</li>
-                    <li><strong>Box 3 (Open Question):</strong> "What do you like?" — Ask an open question.</li>
+                    <li><strong>Box 1 (Statements):</strong> "I like coffee." — State something, anything.</li>
+                    <li><strong>Box 2 (Closed Questions):</strong> "Do you like coffee?" — A yes or no question.</li>
+                    <li><strong>Box 3 (Open Questions):</strong> "What do you like?" — Use these to ask an open question. These are also your practice questions because you have to not only be able to ask them but to answer them too. Write the ones you master, or have trouble with, in a small notebook. As you practice and grow your list, you will expand what you can talk about and who you can talk to. <i><strong><u>THIS</u></strong> is what will make you <u>conversational</u> and <u>fluent</u>.</i></li>
                 </ul>
                 <p><strong>Usage:</strong> Pick a set (Likes, Study, Routine, etc.) → <strong>View list</strong> to see all sentences, <strong>Practice</strong> to flip cards (Japanese front, romaji+English back), or <strong>Word lists</strong> to add/edit vocabulary.</p>
             </div>
         </div>
         <p class="deck-version" id="deckVersion" style="display: none; font-size: 0.85rem; color: var(--secondary-text); margin-top: 8px;"></p>
-        <p class="display-phase" style="margin-top: 8px; font-size: 0.9rem;">
-            <label>Display: </label>
-            <select id="romajiPhase" title="Phase 1 = JA + romaji + EN, Phase 2 = JA + EN (no romaji), Phase 3 = JA only">
-                <option value="1">Phase 1 (romaji + English)</option>
-                <option value="2">Phase 2 (no romaji)</option>
-                <option value="3">Phase 3 (Japanese only)</option>
-            </select>
-        </p>
     </div>
 
     <div id="loading" class="loading">Loading boxes...</div>
@@ -363,6 +412,13 @@
             <button type="button" class="mode-tab active" data-mode="list">View list</button>
             <button type="button" class="mode-tab" data-mode="practice">Practice (flip cards)</button>
             <button type="button" class="mode-tab" data-mode="words">Word lists</button>
+            <div class="display-phase">
+                <select id="romajiPhase" class="select-primary" title="Phase 1 = JA + romaji + EN, Phase 2 = JA + EN (no romaji), Phase 3 = JA only">
+                    <option value="1">Phase 1 (romaji + English)</option>
+                    <option value="2">Phase 2 (no romaji)</option>
+                    <option value="3">Phase 3 (Japanese only)</option>
+                </select>
+            </div>
         </div>
 
         <div id="listView" class="list-view">
@@ -419,9 +475,11 @@
     </div>
     <div id="error" class="error hidden"></div>
 
+    <script src="tiny-segmenter.js"></script>
     <script src="romaji.js"></script>
     <script src="srs.js"></script>
     <script src="syllable-color.js"></script>
+    <script src="boxes-coloring.js"></script>
     <script src="boxes-data.js"></script>
     <script>
         let config = null;
@@ -431,6 +489,7 @@
         let currentSetId = null;
         let practiceIndex = 0;
         let practiceItems = [];
+        let collapsedBoxes = {};
         let srsCards = {};
         let newCardsPerDay = 20;
         let newCardsIntroduced = 0;
@@ -447,6 +506,148 @@
             if (typeof localStorage !== 'undefined') localStorage.setItem(ROMAJI_PHASE_KEY, String(phase));
         }
 
+        /** Build tokens from ja + romaji using TinySegmenter for slot-filled items (no pre-tokenized data). */
+        function buildTokensFromSegmenter(ja, romaji, en) {
+            if (typeof TinySegmenter === 'undefined' || !ja || !romaji) return null;
+            const segmenter = new TinySegmenter();
+            let segments = segmenter.segment(ja);
+            if (!segments || !segments.length) return null;
+            const romajiWords = romaji.trim().split(/\s+/).filter(Boolean);
+            if (!romajiWords.length) return null;
+            function normalizeSegmentsForRomaji(segs) {
+                function mergeDigitTime(list) {
+                    const out = [];
+                    for (let i = 0; i < list.length; i++) {
+                        const cur = list[i];
+                        const next = i + 1 < list.length ? list[i + 1] : '';
+                        if (/^\d+$/.test(cur) && next === '時') {
+                            out.push(cur + next);
+                            i++;
+                            continue;
+                        }
+                        out.push(cur);
+                    }
+                    return out;
+                }
+                function mergeGohan(list) {
+                    const out = [];
+                    for (let i = 0; i < list.length; i++) {
+                        const cur = list[i];
+                        const next = i + 1 < list.length ? list[i + 1] : '';
+                        if ((cur === 'ご' || cur.endsWith('ご')) && next === 'はん') {
+                            out.push(cur + next);
+                            i++;
+                            continue;
+                        }
+                        out.push(cur);
+                    }
+                    return out;
+                }
+                function mergeOkonomiyaki(list) {
+                    const out = [];
+                    for (let i = 0; i < list.length; i++) {
+                        const cur = list[i];
+                        const next = i + 1 < list.length ? list[i + 1] : '';
+                        if (cur === 'お好み' && next === '焼き') {
+                            out.push(cur + next);
+                            i++;
+                            continue;
+                        }
+                        out.push(cur);
+                    }
+                    return out;
+                }
+                function mergeMasu(list) {
+                    const out = [];
+                    for (let i = 0; i < list.length; i++) {
+                        const cur = list[i];
+                        const next = i + 1 < list.length ? list[i + 1] : '';
+                        if (next && next.startsWith('ます')) {
+                            out.push(cur + next);
+                            i++;
+                            continue;
+                        }
+                        out.push(cur);
+                    }
+                    return out;
+                }
+                function splitGohanCompound(list) {
+                    const out = [];
+                    for (let i = 0; i < list.length; i++) {
+                        const seg = list[i];
+                        if (seg && seg !== 'ごはん' && seg.endsWith('ごはん')) {
+                            const prefix = seg.slice(0, -3);
+                            if (prefix) out.push(prefix);
+                            out.push('ごはん');
+                            continue;
+                        }
+                        out.push(seg);
+                    }
+                    return out;
+                }
+                function splitTrailingKa(list) {
+                    const out = [];
+                    for (let i = 0; i < list.length; i++) {
+                        const seg = list[i];
+                        if (!seg || seg.length <= 1) {
+                            out.push(seg);
+                            continue;
+                        }
+                        const m = seg.match(/^(.*)か([。.!?！？])$/);
+                        if (m && m[1]) {
+                            out.push(m[1]);
+                            out.push('か' + m[2]);
+                            continue;
+                        }
+                        if (seg.endsWith('か')) {
+                            out.push(seg.slice(0, -1));
+                            out.push('か');
+                            continue;
+                        }
+                        out.push(seg);
+                    }
+                    return out;
+                }
+                let out = segs.slice();
+                out = mergeDigitTime(out);
+                out = mergeOkonomiyaki(out);
+                out = mergeGohan(out);
+                out = mergeMasu(out);
+                out = splitGohanCompound(out);
+                out = splitTrailingKa(out);
+                return out;
+            }
+            // Merge trailing punctuation into preceding segment before count comparison
+            while (segments.length > 1 && /^[。、！？.!?]+$/.test(segments[segments.length - 1])) {
+                const punct = segments.pop();
+                segments[segments.length - 1] += punct;
+            }
+            segments = normalizeSegmentsForRomaji(segments);
+            while (segments.length > romajiWords.length && segments.length > 1) {
+                const last = segments.pop();
+                segments[segments.length - 1] = segments[segments.length - 1] + last;
+            }
+            if (segments.length !== romajiWords.length) {
+                return null;
+            }
+            let start = 0;
+            const tokens = [];
+            for (let i = 0; i < segments.length; i++) {
+                const seg = segments[i];
+                const end = start + seg.length;
+                tokens.push({
+                    ja: seg,
+                    kana: seg,
+                    romaji: romajiWords[i],
+                    en: null,
+                    start: start,
+                    end: end
+                });
+                start = end;
+            }
+            return tokens;
+        }
+
         function fillTemplate(template, word) {
             let out = template;
             for (const key of Object.keys(word)) {
@@ -460,16 +661,16 @@
             const tokenized = typeof BOXES_TOKENIZED_SENTENCES !== 'undefined' ? BOXES_TOKENIZED_SENTENCES : {};
             for (const set of config.sets) {
                 for (const box of set.boxes) {
-                    const cupType = box.boxType != null ? box.boxType : box.cupType;
-                    const cupName = box.name || '';
+                    const boxType = box.boxType != null ? box.boxType : box.boxType;
+                    const boxName = box.name || '';
                     if (box.fixed) {
                         const item = {
                             ja: box.templateJa,
                             romaji: box.templateRomaji,
                             en: box.templateEn,
                             boxType: box.boxType,
-                            cupType: cupType,
-                            cupName: cupName,
+                            boxType: boxType,
+                            boxName: boxName,
                             setName: set.name,
                             boxName: box.name
                         };
@@ -486,13 +687,16 @@
                         const slotWords = words[box.slot];
                         if (!slotWords) continue;
                         for (const w of slotWords) {
+                            // #region agent log
+                            fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:generateItems',message:'slot',data:{w:w,box:box},timestamp:Date.now(),hypothesisId:'H_Gen'})}).catch(function(){});
+                            // #endregion
                             items.push({
                                 ja: fillTemplate(box.templateJa, w),
                                 romaji: fillTemplate(box.templateRomaji, w),
                                 en: fillTemplate(box.templateEn, w),
                                 boxType: box.boxType,
-                                cupType: cupType,
-                                cupName: cupName,
+                                boxType: boxType,
+                                boxName: boxName,
                                 setName: set.name,
                                 boxName: box.name
                             });
@@ -533,26 +737,55 @@
 
         function renderList() {
             const filtered = generatedItems.filter(i => i.setName === (config.sets.find(s => s.id === currentSetId)?.name));
-            const byCup = { 1: [], 2: [], 3: [] };
+            const byBox = { 1: [], 2: [], 3: [] };
             for (const item of filtered) {
-                if (byCup[item.cupType]) byCup[item.cupType].push(item);
+                if (byBox[item.boxType]) byBox[item.boxType].push(item);
             }
             const container = document.getElementById('listContent');
             container.innerHTML = '';
-            for (const cupType of [1, 2, 3]) {
-                const list = byCup[cupType];
+            for (const boxType of [1, 2, 3]) {
+                const list = byBox[boxType];
                 if (!list.length) continue;
                 const group = document.createElement('div');
-                group.className = 'cup-group';
-                group.innerHTML = '<h3>Cup ' + cupType + ': ' + escapeHtml(list[0].cupName) + '</h3>';
+                group.className = 'box-group';
+                if (collapsedBoxes[currentSetId + '-' + boxType]) group.classList.add('collapsed');
+                group.innerHTML = '<h3>Box ' + boxType + ': ' + escapeHtml(list[0].boxName) + '</h3>';
+                group.querySelector('h3').addEventListener('click', (function(setId, ct, el) {
+                    return function() {
+                        el.classList.toggle('collapsed');
+                        collapsedBoxes[setId + '-' + ct] = el.classList.contains('collapsed');
+                    };
+                })(currentSetId, boxType, group));
                 for (const item of list) {
                     const row = document.createElement('div');
                     row.className = 'box-item';
-                    if (item.tokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
+                    const tokens = item.tokens || buildTokensFromSegmenter(item.ja, item.romaji, item.en);
+                    // #region agent log
+                    if (tokens) fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderList',message:'rendering',data:{ja:item.ja,tokens:tokens},timestamp:Date.now(),hypothesisId:'H_Render'})}).catch(function(){});
+                    // #endregion
+                    if (tokens && typeof BoxesColoring !== 'undefined' && BoxesColoring.colorizeBoxesItem) {
+                        const isDark = typeof SyllableColor !== 'undefined' && SyllableColor.isDarkTheme ? SyllableColor.isDarkTheme() : (document.documentElement.getAttribute('data-theme') === 'dark');
+                        const colored = BoxesColoring.colorizeBoxesItem(item.ja, tokens, isDark, item.en);
+                        row.innerHTML = '<span class="ja">' + colored.jaHtml + '</span><span class="romaji">' + colored.romajiHtml + '</span><span class="en">' + (colored.enHtml || escapeHtml(item.en)) + '</span>';
+                    } else if (tokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
+                        // #region agent log
+                        fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderList',message:'fallback',data:{path:'SyllableColor'},timestamp:Date.now(),hypothesisId:'H_Path'})}).catch(function(){});
+                        // #endregion
                         const isDark = SyllableColor.isDarkTheme();
-                        const colored = SyllableColor.colorizeByTokens(item.ja, item.tokens, isDark);
-                        row.innerHTML = '<span class="ja">' + colored.jaHtml + '</span><span class="romaji">' + colored.romajiHtml + '</span><span class="en">' + colored.enHtml + '</span>';
+                        const colored = SyllableColor.colorizeByTokens(item.ja, tokens, isDark, item.en);
+                        let enHtml = colored.enHtml;
+                        if (!enHtml && SyllableColor.colorizeByWords) {
+                            var coloredCount = 0;
+                            if (typeof Romaji !== 'undefined' && Romaji.isParticleToken) {
+                                for (var k = 0; k < tokens.length; k++) { if (!Romaji.isParticleToken(tokens[k])) coloredCount++; }
+                            }
+                            enHtml = SyllableColor.colorizeByWords(item.ja, item.romaji, item.en, isDark, coloredCount).enHtml;
+                        }
+                        row.innerHTML = '<span class="ja">' + colored.jaHtml + '</span><span class="romaji">' + colored.romajiHtml + '</span><span class="en">' + (enHtml || escapeHtml(item.en)) + '</span>';
                     } else {
+                        // #region agent log
+                        fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderList',message:'no_tokens',data:{ja:item.ja},timestamp:Date.now(),hypothesisId:'H_Path'})}).catch(function(){});
+                        // #endregion
                         row.innerHTML = '<span class="ja">' + escapeHtml(item.ja) + '</span><span class="romaji">' + escapeHtml(item.romaji) + '</span><span class="en">' + escapeHtml(item.en) + '</span>';
                     }
                     var phase = getRomajiPhase();
@@ -596,14 +829,34 @@
             isFlipped = false;
             document.getElementById('boxRatingButtons').classList.add('hidden');
             
-            if (item.tokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
-                var isDark = SyllableColor.isDarkTheme();
-                var colored = SyllableColor.colorizeByTokens(item.ja, item.tokens, isDark);
+            const cardTokens = item.tokens || buildTokensFromSegmenter(item.ja, item.romaji, item.en);
+            // #region agent log
+            if (cardTokens) fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderPracticeCard',message:'rendering',data:{ja:item.ja,tokens:cardTokens},timestamp:Date.now(),hypothesisId:'H_Render'})}).catch(function(){});
+            // #endregion
+            if (cardTokens && typeof BoxesColoring !== 'undefined' && BoxesColoring.colorizeBoxesItem) {
+                var isDark = typeof SyllableColor !== 'undefined' && SyllableColor.isDarkTheme ? SyllableColor.isDarkTheme() : (document.documentElement.getAttribute('data-theme') === 'dark');
+                var colored = BoxesColoring.colorizeBoxesItem(item.ja, cardTokens, isDark, item.en);
                 document.getElementById('cardFrontJa').innerHTML = colored.jaHtml;
                 document.getElementById('cardFrontRomaji').innerHTML = colored.romajiHtml;
                 document.getElementById('cardBackJa').innerHTML = colored.jaHtml;
                 document.getElementById('cardBackRomaji').innerHTML = colored.romajiHtml;
-                document.getElementById('cardBackEn').innerHTML = colored.enHtml;
+                document.getElementById('cardBackEn').innerHTML = colored.enHtml || escapeHtml(item.en);
+            } else if (cardTokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
+                var isDark = SyllableColor.isDarkTheme();
+                var colored = SyllableColor.colorizeByTokens(item.ja, cardTokens, isDark, item.en);
+                document.getElementById('cardFrontJa').innerHTML = colored.jaHtml;
+                document.getElementById('cardFrontRomaji').innerHTML = colored.romajiHtml;
+                document.getElementById('cardBackJa').innerHTML = colored.jaHtml;
+                document.getElementById('cardBackRomaji').innerHTML = colored.romajiHtml;
+                var enHtml = colored.enHtml;
+                if (!enHtml && SyllableColor.colorizeByWords) {
+                    var coloredCount = 0;
+                    if (typeof Romaji !== 'undefined' && Romaji.isParticleToken) {
+                        for (var k = 0; k < cardTokens.length; k++) { if (!Romaji.isParticleToken(cardTokens[k])) coloredCount++; }
+                    }
+                    enHtml = SyllableColor.colorizeByWords(item.ja, item.romaji, item.en, isDark, coloredCount).enHtml;
+                }
+                document.getElementById('cardBackEn').innerHTML = enHtml || escapeHtml(item.en);
             } else if (typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByWords) {
                 var isDark = SyllableColor.isDarkTheme();
                 var colored = SyllableColor.colorizeByWords(item.ja, item.romaji, item.en, isDark);
@@ -876,11 +1129,11 @@
                 }
                 config = BOXES_CONFIG;
                 defaultWords = BOXES_WORDS;
-                // Normalize: config/source may use "cups"; runtime expects "boxes" and boxType
+                // Normalize: config/source may use "boxes"; runtime expects "boxes" and boxType
                 config.sets.forEach(function(s) {
-                    if (!s.boxes && s.cups) s.boxes = s.cups;
+                    if (!s.boxes && s.boxes) s.boxes = s.boxes;
                     if (s.boxes) s.boxes.forEach(function(b) {
-                        if (b.boxType === undefined && b.cupType !== undefined) b.boxType = b.cupType;
+                        if (b.boxType === undefined && b.boxType !== undefined) b.boxType = b.boxType;
                     });
                 });
                 const stored = localStorage.getItem('sqwease-boxes-words');
@@ -921,10 +1174,10 @@
             const toggle = document.querySelector('.toggle-info');
             if (detail.style.display === 'none') {
                 detail.style.display = 'block';
-                toggle.textContent = 'Hide instructions ▲';
+                toggle.textContent = '💡 How to use 1-2-3 Boxes ▲';
             } else {
                 detail.style.display = 'none';
-                toggle.textContent = 'Show instructions ▼';
+                toggle.textContent = '💡 How to use 1-2-3 Boxes ▼';
             }
         }
         

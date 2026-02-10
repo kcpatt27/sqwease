@@ -196,7 +196,9 @@
     ]);
     var POLITE_ROMAJI = new Set([
         'desu', 'deshita', 'da', 'masu', 'mashita',
-        'masen', 'masen deshita', 'datta'
+        'masen', 'masen deshita', 'datta',
+        'shite', 'imasu', 'shimasu', 'shimashita',
+        'shiteimasu', 'imashita', 'imasen', 'arimasen', 'ja'
     ]);
 
     function normalizeRomajiForParticle(r) {
