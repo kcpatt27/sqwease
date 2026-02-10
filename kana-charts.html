@@ -29,6 +29,10 @@
             --secondary-text: #a4b0be;
         }
         * { box-sizing: border-box; }
+        a:focus-visible, button:focus-visible, .theme-toggle:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -61,7 +65,14 @@
         [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
         [data-theme="dark"] .theme-toggle .icon-light { display: none; }
         .top-link { margin-bottom: 12px; }
-        .top-link a { color: var(--primary); font-weight: 600; text-decoration: none; }
+        .top-link a {
+            color: var(--primary);
+            font-weight: 600;
+            text-decoration: none;
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
+        }
         .top-link a:hover { text-decoration: underline; }
         h1 { color: var(--primary); margin-bottom: 8px; font-size: 1.75rem; }
         .subtitle { color: var(--secondary-text); font-size: 0.95rem; margin-bottom: 24px; }

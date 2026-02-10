@@ -27,6 +27,10 @@
             --border: #57606f;
         }
         * { box-sizing: border-box; }
+        a:focus-visible, button:focus-visible, .theme-toggle:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -105,11 +109,11 @@
             transform: translateY(-2px);
             box-shadow: 0 6px 16px rgba(255, 71, 87, 0.2);
         }
-        .menu a.cups {
+        .menu a.boxes {
             border-color: #2ed573;
             color: #27ae60;
         }
-        .menu a.cups:hover {
+        .menu a.boxes:hover {
             box-shadow: 0 6px 16px rgba(46, 213, 115, 0.25);
         }
         .menu a.kana-charts {
@@ -193,7 +197,7 @@
             <span class="hint">1,500 high-frequency words</span>
             <span class="desc">Flip to see romaji, definition, and example sentence.</span>
         </a>
-        <a href="boxes.html" class="cups">
+        <a href="boxes.html" class="boxes">
             <span class="title">1-2-3 Boxes</span>
             <span class="hint">Verbs with sentence patterns</span>
             <span class="desc">Build real conversational habits with question and answer sets.</span>
