@@ -7,6 +7,11 @@ const lines = text.split(/\r?\n/).filter(function(l) { return l.length > 0; });
 const out = [];
 const MAX = 1500;
 
+// All-kana regex (hiragana U+3040-309F, katakana U+30A0-30FF)
+function isAllKana(str) {
+  return /^[\u3040-\u309f\u30a0-\u30ff]+$/.test(str || '');
+}
+
 for (let i = 0; i < Math.min(MAX, lines.length); i++) {
   const line = lines[i];
   const parts = [];
@@ -22,14 +27,24 @@ for (let i = 0; i < Math.min(MAX, lines.length); i++) {
   }
   parts.push(cur.trim());
   if (parts.length >= 4) {
-    out.push({
-      w: parts[0],
-      p: parts[1],
-      d: parts[2],
-      s: parts.slice(3).join(',').trim()
-    });
+    const w = parts[0];
+    const p = parts[1];
+    const d = parts[2];
+    const s = parts.slice(3).join(',').trim();
+    const item = { w, p, d, s };
+    if (isAllKana(w)) {
+      item.tokens = [{ ja: w, kana: w, romaji: p, en: d, start: 0, end: w.length }];
+    }
+    out.push(item);
   } else if (parts.length >= 3) {
-    out.push({ w: parts[0], p: parts[1], d: parts[2], s: '' });
+    const w = parts[0];
+    const p = parts[1];
+    const d = parts[2];
+    const item = { w, p, d, s: '' };
+    if (isAllKana(w)) {
+      item.tokens = [{ ja: w, kana: w, romaji: p, en: d, start: 0, end: w.length }];
+    }
+    out.push(item);
   }
 }
 
