@@ -20,6 +20,10 @@
             --border: #dfe4ea;
             --secondary-text: #747d8c;
         }
+        a:focus-visible, button:focus-visible, .theme-toggle:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
         [data-theme="dark"] {
             --primary: #ff6b81;
             --text: #e4e4e4;
@@ -69,7 +73,14 @@
         [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
         [data-theme="dark"] .theme-toggle .icon-light { display: none; }
         .top-link { margin-bottom: 12px; }
-        .top-link a { color: var(--primary); font-weight: 600; text-decoration: none; }
+        .top-link a {
+            color: var(--primary);
+            font-weight: 600;
+            text-decoration: none;
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
+        }
         .top-link a:hover { text-decoration: underline; }
         h1 { color: var(--primary); margin-bottom: 20px; }
         .deck-stats {
@@ -105,6 +116,7 @@
             margin-top: 24px;
             width: 100%;
             padding: 16px 24px;
+            min-height: 44px;
             background: #5352ed;
             color: white;
             border: none;
@@ -182,6 +194,7 @@
             align-items: center;
             gap: 6px;
             padding: 12px 20px;
+            min-height: 44px;
             border: none;
             border-radius: 8px;
             font-weight: 600;
@@ -251,6 +264,7 @@
             border: 2px solid var(--border);
             color: var(--text);
             padding: 8px 16px;
+            min-height: 44px;
             border-radius: 8px;
             font-size: 1.2rem;
             cursor: pointer;
@@ -307,6 +321,7 @@
                 <option value="3">Phase 3 (word only)</option>
             </select>
         </p>
+        <p id="noCardsMessage" class="hidden" style="margin-top: 8px; font-size: 0.9rem; color: var(--text-muted, #666);"></p>
         <button class="study-btn" id="studyBtn" onclick="startStudy()">Study Now</button>
     </div>
 
@@ -438,6 +453,8 @@
             
             const total = newCount + learningCount + reviewCount;
             document.getElementById('studyBtn').disabled = total === 0;
+            var noCardsEl = document.getElementById('noCardsMessage');
+            if (noCardsEl) { noCardsEl.classList.add('hidden'); noCardsEl.textContent = ''; }
         }
 
         function buildDueQueue() {
@@ -466,9 +483,15 @@
 
         function startStudy() {
             buildDueQueue();
+            var noCardsEl = document.getElementById('noCardsMessage');
             if (dueCards.length === 0) {
+                if (noCardsEl) {
+                    noCardsEl.textContent = 'No cards due right now. Come back later or tomorrow for more new cards.';
+                    noCardsEl.classList.remove('hidden');
+                }
                 return;
             }
+            if (noCardsEl) noCardsEl.classList.add('hidden');
             currentIndex = 0;
             document.getElementById('deckView').classList.add('hidden');
             document.getElementById('reviewView').classList.remove('hidden');
