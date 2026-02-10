@@ -29,6 +29,10 @@
             --secondary-text: #a4b0be;
         }
         * { box-sizing: border-box; }
+        a:focus-visible, button:focus-visible, input:focus-visible, .theme-toggle:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -115,6 +119,7 @@
         .kanji-add input#kanjiMeaning { min-width: 160px; }
         .kanji-add button {
             padding: 10px 20px;
+            min-height: 44px;
             background: #e67e22;
             color: #fff;
             border: none;
@@ -176,12 +181,15 @@
             border: 2px dashed var(--border);
         }
         .hidden { display: none !important; }
+        .nav a { min-height: 44px; display: inline-flex; align-items: center; }
         @media (max-width: 600px) {
             body { padding: 12px; }
             .kanji-add { flex-direction: column; align-items: stretch; }
             .kanji-add input#kanjiChar { width: 100%; }
+            .kanji-add button { min-height: 44px; }
             .kanji-table th, .kanji-table td { padding: 10px; font-size: 0.9rem; }
             .kanji-table .char { font-size: 1.5rem; }
+            .lookup-results .result-btn { min-height: 44px; padding: 10px 14px; }
         }
     </style>
 </head>
@@ -214,7 +222,7 @@
                 <input type="text" id="kanjiMeaning" placeholder="day, sun" autocomplete="off" />
             </div>
             <button type="button" id="kanjiLookupBtn" title="Search by character, meaning, or reading">Look up</button>
-            <button type="button" id="kanjiAddBtn">Add to personal list</button>
+            <button type="button" id="kanjiAddBtn">Add to Personal</button>
         </div>
         <p class="lookup-status" id="lookupStatus" style="display: none; font-size: 0.85rem; color: var(--secondary-text); margin-top: 4px;"></p>
         <div id="lookupResults" class="lookup-results" style="display: none; margin-top: 8px;"></div>
