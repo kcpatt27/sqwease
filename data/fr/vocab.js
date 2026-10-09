@@ -10,213 +10,17503 @@
         "words": [
             {
                 "id": "fr-0001",
-                "w": "bonjour",
-                "p": "bon-ZHOOR",
-                "d": "hello",
-                "s": "Bonjour, ça va ? (Hello, how are you?)"
+                "w": "de",
+                "p": "də",
+                "d": "from",
+                "s": "Comporte-toi comme quelqu'un de ton âge. (Act your age.)"
             },
             {
                 "id": "fr-0002",
-                "w": "merci",
-                "p": "mer-SEE",
-                "d": "thank you",
-                "s": "Merci beaucoup. (Thank you very much.)"
+                "w": "je",
+                "p": "ʒə",
+                "d": "I",
+                "s": "Est-ce que je peux en avoir un morceau ? (Can I have a bite?)"
             },
             {
                 "id": "fr-0003",
-                "w": "oui",
-                "p": "wee",
-                "d": "yes",
-                "s": "Oui, je veux. (Yes, I want it.)"
+                "w": "est",
+                "p": "ɛ",
+                "d": "to be",
+                "s": "Il est actuellement en train de marcher. (He is walking now.)"
             },
             {
                 "id": "fr-0004",
-                "w": "non",
-                "p": "nohn",
-                "d": "no",
-                "s": "Non, merci. (No, thank you.)"
+                "w": "pas",
+                "p": "pa",
+                "d": "not",
+                "s": "On ne peut tout simplement pas y aller ? (Can't we just go?)"
             },
             {
                 "id": "fr-0005",
-                "w": "s'il vous plaît",
-                "p": "seel voo PLEH",
-                "d": "please",
-                "s": "Un café, s'il vous plaît. (A coffee, please.)"
+                "w": "le",
+                "p": "lə",
+                "d": "the",
+                "s": "Puis-je composer directement le numéro ? (Can I dial direct?)"
             },
             {
                 "id": "fr-0006",
-                "w": "eau",
-                "p": "oh",
-                "d": "water",
-                "s": "Je voudrais de l'eau. (I would like some water.)"
+                "w": "que",
+                "p": "kə",
+                "d": "that",
+                "s": "Est-ce que les boissons sont gratuites ? (Are drinks free?)"
             },
             {
                 "id": "fr-0007",
-                "w": "pain",
-                "p": "pan",
-                "d": "bread",
-                "s": "Le pain est frais. (The bread is fresh.)"
+                "w": "la",
+                "p": "la",
+                "d": "the",
+                "s": "Puis-je rentrer à la maison maintenant ? (Can I go home now?)"
             },
             {
                 "id": "fr-0008",
-                "w": "maison",
-                "p": "meh-ZOHN",
-                "d": "house",
-                "s": "Ma maison est petite. (My house is small.)"
+                "w": "vous",
+                "p": "vu",
+                "d": "you",
+                "s": "S'il vous plaît, tenez-vous tranquilles. (Please sit still.)"
             },
             {
                 "id": "fr-0009",
-                "w": "ami",
-                "p": "ah-MEE",
-                "d": "friend",
-                "s": "Mon ami est gentil. (My friend is kind.)"
+                "w": "tu",
+                "p": "ty",
+                "d": "you",
+                "s": "Est-ce que tu viens juste de taper Tom ? (Did you just hit Tom?)"
             },
             {
                 "id": "fr-0010",
-                "w": "famille",
-                "p": "fah-MEEY",
-                "d": "family",
-                "s": "Ma famille est grande. (My family is big.)"
+                "w": "un",
+                "p": "œ̃",
+                "d": "an, a",
+                "s": "Est-ce que je peux en avoir un morceau ? (Can I have a bite?)"
             },
             {
                 "id": "fr-0011",
-                "w": "temps",
-                "p": "tahn",
-                "d": "time; weather",
-                "s": "Je n'ai pas le temps. (I do not have time.)"
+                "w": "et",
+                "p": "e",
+                "d": "and",
+                "s": "Il était en état d'ébriété et en colère. (He was drunk and angry.)"
             },
             {
                 "id": "fr-0012",
-                "w": "jour",
-                "p": "zhoor",
-                "d": "day",
-                "s": "Bonjour ! (Hello / Good day!)"
+                "w": "il",
+                "p": "il",
+                "d": "he",
+                "s": "Il est actuellement en train de marcher. (He is walking now.)"
             },
             {
                 "id": "fr-0013",
-                "w": "nuit",
-                "p": "nwee",
-                "d": "night",
-                "s": "Bonne nuit. (Good night.)"
+                "w": "ne",
+                "p": "nə",
+                "d": "not, no",
+                "s": "On ne peut tout simplement pas y aller ? (Can't we just go?)"
             },
             {
                 "id": "fr-0014",
-                "w": "aujourd'hui",
-                "p": "oh-zhoor-DWEE",
-                "d": "today",
-                "s": "Aujourd'hui je travaille. (Today I work.)"
+                "w": "les",
+                "p": "lɛ",
+                "d": "them",
+                "s": "Est-ce que les boissons sont gratuites ? (Are drinks free?)"
             },
             {
                 "id": "fr-0015",
-                "w": "demain",
-                "p": "deh-MAN",
-                "d": "tomorrow",
-                "s": "À demain. (See you tomorrow.)"
+                "w": "en",
+                "p": "ɑ̃",
+                "d": "in",
+                "s": "Vous ne pouvez pas encore vous en aller. (You can't go yet.)"
             },
             {
                 "id": "fr-0016",
-                "w": "bon",
-                "p": "bohn",
-                "d": "good",
-                "s": "C'est un bon jour. (It is a good day.)"
+                "w": "on",
+                "p": "ɔ̃",
+                "d": "one",
+                "s": "On ne peut tout simplement pas y aller ? (Can't we just go?)"
             },
             {
                 "id": "fr-0017",
-                "w": "mauvais",
-                "p": "mo-VEH",
-                "d": "bad",
-                "s": "Le temps est mauvais. (The weather is bad.)"
+                "w": "ça",
+                "p": "sa",
+                "d": "it",
+                "s": "Est-ce que ça vaut le coup de le faire ? (Is this worth doing?)"
             },
             {
                 "id": "fr-0018",
-                "w": "grand",
-                "p": "grahn",
-                "d": "big",
-                "s": "C'est une grande maison. (It is a big house.)"
+                "w": "une",
+                "p": "yn",
+                "d": "a / an",
+                "s": "Je déteste me conduire comme une idiote. (I hate being stupid.)"
             },
             {
                 "id": "fr-0019",
-                "w": "petit",
-                "p": "puh-TEE",
-                "d": "small",
-                "s": "Un petit café. (A small coffee.)"
+                "w": "ce",
+                "p": "sə",
+                "d": "it, this, that",
+                "s": "Il y aura peut-être de la neige ce soir. (It may snow tonight.)"
             },
             {
                 "id": "fr-0020",
-                "w": "je",
-                "p": "zhuh",
-                "d": "I",
-                "s": "Je suis étudiant. (I am a student.)"
+                "w": "pour",
+                "p": "puʁ",
+                "d": "for",
+                "s": "Pour consommer sur place ou à emporter ? (For here, or to go?)"
             },
             {
                 "id": "fr-0021",
-                "w": "tu",
-                "p": "tew",
-                "d": "you",
-                "s": "Tu veux ? (Do you want it?)"
+                "w": "ai",
+                "p": "e",
+                "d": "to have",
+                "s": "Je suis plus jeune que je n'en ai l'air. (I'm younger than I look.)"
             },
             {
                 "id": "fr-0022",
-                "w": "il",
-                "p": "eel",
-                "d": "he",
-                "s": "Il est mon ami. (He is my friend.)"
+                "w": "des",
+                "p": "de",
+                "d": "of the",
+                "s": "Moi, j'aime bien la lumière des bougies. (I like candlelight.)"
             },
             {
                 "id": "fr-0023",
-                "w": "elle",
-                "p": "el",
-                "d": "she",
-                "s": "Elle est ma sœur. (She is my sister.)"
+                "w": "qui",
+                "p": "ki",
+                "d": "who, whom",
+                "s": "Je pense que c'est vous qui l'avez fait. (I think you did it.)"
             },
             {
                 "id": "fr-0024",
-                "w": "vouloir",
-                "p": "voo-LWAR",
-                "d": "to want",
-                "s": "Je veux apprendre. (I want to learn.)"
+                "w": "mais",
+                "p": "mɛ",
+                "d": "but, although",
+                "s": "Nous avons regardé mais n'avons rien vu. (We looked, but saw nothing.)"
             },
             {
                 "id": "fr-0025",
-                "w": "avoir",
-                "p": "ah-VWAR",
-                "d": "to have",
-                "s": "J'ai un chien. (I have a dog.)"
+                "w": "dans",
+                "p": "dɑ̃",
+                "d": "in, inside",
+                "s": "Personne ne se trouve dans les environs. (No one is around.)"
             },
             {
                 "id": "fr-0026",
-                "w": "faire",
-                "p": "fehr",
-                "d": "to do; to make",
-                "s": "Qu'est-ce que tu fais ? (What are you doing?)"
+                "w": "nous",
+                "p": "nu",
+                "d": "we",
+                "s": "Nous nous sommes rencontrés aujourd'hui. (We met today.)"
             },
             {
                 "id": "fr-0027",
-                "w": "aller",
-                "p": "ah-LAY",
-                "d": "to go",
-                "s": "Je vais à la maison. (I am going home.)"
+                "w": "elle",
+                "p": "ɛl",
+                "d": "she",
+                "s": "Elle lui demanda de bien vouloir entrer. (She invited him in.)"
             },
             {
                 "id": "fr-0028",
-                "w": "manger",
-                "p": "mahn-ZHAY",
-                "d": "to eat",
-                "s": "Je mange des fruits. (I eat fruit.)"
+                "w": "me",
+                "p": "mə",
+                "d": "me",
+                "s": "Je déteste me conduire comme une idiote. (I hate being stupid.)"
             },
             {
                 "id": "fr-0029",
-                "w": "boire",
-                "p": "bwahr",
-                "d": "to drink",
-                "s": "Je bois de l'eau. (I drink water.)"
+                "w": "bien",
+                "p": "bjɛ̃",
+                "d": "well",
+                "s": "J'espère que vous vous en sortirez bien. (I hope you do well.)"
             },
             {
                 "id": "fr-0030",
+                "w": "si",
+                "p": "si",
+                "d": "so, such",
+                "s": "Pourquoi les garçons sont-ils si bêtes ? (Why are boys so dumb?)"
+            },
+            {
+                "id": "fr-0031",
+                "w": "du",
+                "p": "dy",
+                "d": "of the",
+                "s": "Je me suis réveillée au lever du soleil. (I woke up at sunrise.)"
+            },
+            {
+                "id": "fr-0032",
+                "w": "suis",
+                "p": "sɥi",
+                "d": "to be",
+                "s": "Je suis juste un monsieur tout-le-monde. (I am just a nobody.)"
+            },
+            {
+                "id": "fr-0033",
+                "w": "non",
+                "p": "nɔ̃",
+                "d": "no",
+                "s": "Je ne peux pas soulever le sac non plus. (I can't lift the sack either.)"
+            },
+            {
+                "id": "fr-0034",
+                "w": "avec",
+                "p": "a.vɛk",
+                "d": "with",
+                "s": "La France a une frontière avec l'Italie. (France borders Italy.)"
+            },
+            {
+                "id": "fr-0035",
+                "w": "tout",
+                "p": "tu",
+                "d": "everything",
+                "s": "On ne peut tout simplement pas y aller ? (Can't we just go?)"
+            },
+            {
+                "id": "fr-0036",
+                "w": "plus",
+                "p": "ply",
+                "d": "more, -er",
+                "s": "À cette époque, nous étions plus jeunes. (We were younger then.)"
+            },
+            {
+                "id": "fr-0037",
+                "w": "mon",
+                "p": "mɔ̃",
+                "d": "my",
+                "s": "Mon intention n'était pas de t'offenser. (I meant no offense.)"
+            },
+            {
+                "id": "fr-0038",
+                "w": "te",
+                "p": "tə",
+                "d": "you",
+                "s": "Je te souhaite la meilleure des chances. (Best of luck to you.)"
+            },
+            {
+                "id": "fr-0039",
+                "w": "au",
+                "p": "o",
+                "d": "to the",
+                "s": "Je me suis réveillée au lever du soleil. (I woke up at sunrise.)"
+            },
+            {
+                "id": "fr-0040",
+                "w": "fait",
+                "p": "fɛ",
+                "d": "to do",
+                "s": "Je pense que c'est vous qui l'avez fait. (I think you did it.)"
+            },
+            {
+                "id": "fr-0041",
+                "w": "moi",
+                "p": "mwa",
+                "d": "me",
+                "s": "Il habite l'étage au-dessus de chez moi. (He lives above me.)"
+            },
+            {
+                "id": "fr-0042",
+                "w": "oui",
+                "p": "wi",
+                "d": "yes",
+                "s": "« Puis-je entrer ? » « Oui, bien sûr ! » (\"May I come in?\" \"Yes, certainly.\")"
+            },
+            {
+                "id": "fr-0043",
+                "w": "va",
+                "p": "va",
+                "d": "to go",
+                "s": "Et ensuite, qu'est-ce qui va se passer ? (And then what'll happen?)"
+            },
+            {
+                "id": "fr-0044",
+                "w": "était",
+                "p": "e.tɛ",
+                "d": "to be",
+                "s": "Il était en état d'ébriété et en colère. (He was drunk and angry.)"
+            },
+            {
+                "id": "fr-0045",
+                "w": "as",
+                "p": "a",
+                "d": "to have",
+                "s": "Tu n'en as pas besoin d'une, maintenant. (You don't need one now.)"
+            },
+            {
+                "id": "fr-0046",
+                "w": "faire",
+                "p": "fɛʁ",
+                "d": "to do",
+                "s": "Nous ne pouvons pas le faire maintenant. (We can't do it now.)"
+            },
+            {
+                "id": "fr-0047",
+                "w": "ils",
+                "p": "il",
+                "d": "they",
+                "s": "Ils se sont blottis l'un contre l'autre. (They huddled together.)"
+            },
+            {
+                "id": "fr-0048",
+                "w": "sur",
+                "p": "syʁ",
+                "d": "on, upon",
+                "s": "Pour consommer sur place ou à emporter ? (For here, or to go?)"
+            },
+            {
+                "id": "fr-0049",
+                "w": "quoi",
+                "p": "kwa",
+                "d": "what",
+                "s": "Personne ne dispose de quoi que ce soit. (No one has anything.)"
+            },
+            {
+                "id": "fr-0050",
+                "w": "se",
+                "p": "sə",
+                "d": "himself",
+                "s": "Personne ne se trouve dans les environs. (No one is around.)"
+            },
+            {
+                "id": "fr-0051",
+                "w": "comme",
+                "p": "kɔm",
+                "d": "as",
+                "s": "Comporte-toi comme quelqu'un de ton âge. (Act your age.)"
+            },
+            {
+                "id": "fr-0052",
+                "w": "sais",
+                "p": "sɛ",
+                "d": "to know",
+                "s": "Je ne sais pas pendant combien de temps. (I don't know how long.)"
+            },
+            {
+                "id": "fr-0053",
+                "w": "être",
+                "p": "ɛtʁ",
+                "d": "to be",
+                "s": "De quelle difficulté cela peut-il être ? (How hard can that be?)"
+            },
+            {
+                "id": "fr-0054",
+                "w": "veux",
+                "p": "vø",
+                "d": "to want",
+                "s": "Je veux que vous me rendiez mon marteau. (I want my hammer back.)"
+            },
+            {
+                "id": "fr-0055",
+                "w": "ici",
+                "p": "i.si",
+                "d": "here",
+                "s": "Beaucoup de gens font leurs courses ici. (Many people shop here.)"
+            },
+            {
+                "id": "fr-0056",
+                "w": "ma",
+                "p": "ma",
+                "d": "my",
+                "s": "J'ai donné les clés de ma voiture à Tom. (I gave Tom my car keys.)"
+            },
+            {
+                "id": "fr-0057",
+                "w": "toi",
+                "p": "twa",
+                "d": "you",
+                "s": "C'est toi qui me reconduis à la maison ? (Are you my ride home?)"
+            },
+            {
+                "id": "fr-0058",
+                "w": "dit",
+                "p": "di",
+                "d": "to say, to tell",
+                "s": "On m'a dit de prendre contact avec vous. (I was told to contact you.)"
+            },
+            {
+                "id": "fr-0059",
+                "w": "lui",
+                "p": "lɥi",
+                "d": "him, he, it",
+                "s": "Elle lui demanda de bien vouloir entrer. (She invited him in.)"
+            },
+            {
+                "id": "fr-0060",
+                "w": "votre",
+                "p": "vɔtʁ",
+                "d": "your",
+                "s": "Comment s'est passé votre anniversaire ? (How was your birthday?)"
+            },
+            {
+                "id": "fr-0061",
+                "w": "es",
+                "p": "ɛ",
+                "d": "to be",
+                "s": "Tu es tout le temps en train de chanter. (You're always singing.)"
+            },
+            {
+                "id": "fr-0062",
+                "w": "pourquoi",
+                "p": "puʁ.kwa",
+                "d": "why",
+                "s": "Pourquoi ne donnes-tu pas ta démission ? (Why don't you quit?)"
+            },
+            {
+                "id": "fr-0063",
+                "w": "où",
+                "p": "u",
+                "d": "where",
+                "s": "Où vous êtes-vous rencontrés, les mecs ? (Where did you guys meet?)"
+            },
+            {
+                "id": "fr-0064",
+                "w": "là",
+                "p": "la",
+                "d": "there",
+                "s": "Est-ce là tout ce que vous pouvez dire ? (Is that all you can say?)"
+            },
+            {
+                "id": "fr-0065",
+                "w": "rien",
+                "p": "ʁjɛ̃",
+                "d": "nothing",
+                "s": "Nous avons regardé mais n'avons rien vu. (We looked, but saw nothing.)"
+            },
+            {
+                "id": "fr-0066",
+                "w": "cette",
+                "p": "sɛt",
+                "d": "this, that",
+                "s": "Qu'est-ce que c'est que cette camelote ? (What's this junk?)"
+            },
+            {
+                "id": "fr-0067",
+                "w": "sont",
+                "p": "sɔ̃",
+                "d": "to be",
+                "s": "Est-ce que les boissons sont gratuites ? (Are drinks free?)"
+            },
+            {
+                "id": "fr-0068",
+                "w": "quand",
+                "p": "kɑ̃",
+                "d": "when",
+                "s": "Quand pouvez-vous démarrer au plus tôt ? (How soon can you start?)"
+            },
+            {
+                "id": "fr-0069",
+                "w": "peux",
+                "p": "pø",
+                "d": "can, to be able to",
+                "s": "Est-ce que je peux en avoir un morceau ? (Can I have a bite?)"
+            },
+            {
+                "id": "fr-0070",
+                "w": "dire",
+                "p": "diʁ",
+                "d": "to say, to tell",
+                "s": "Je ne peux pas dire que je sois désolée. (I can't say I'm sorry.)"
+            },
+            {
+                "id": "fr-0071",
+                "w": "son",
+                "p": "sɔ̃",
+                "d": "his, her, their, its",
+                "s": "Je n'ai aucune malveillance à son égard. (I bear him no malice.)"
+            },
+            {
+                "id": "fr-0072",
+                "w": "avez",
+                "p": "a.ve",
+                "d": "to have",
+                "s": "Est-ce que vous avez essayé les sushis ? (Have you tried sushi?)"
+            },
+            {
+                "id": "fr-0073",
+                "w": "vais",
+                "p": "vɛ",
+                "d": "to go",
+                "s": "Je vais habituellement à l'école à pied. (I usually walk to school.)"
+            },
+            {
+                "id": "fr-0074",
+                "w": "alors",
+                "p": "a.lɔʁ",
+                "d": "then",
+                "s": "Que pensez-vous, alors, qu'il advienne ? (What do you think happens then?)"
+            },
+            {
+                "id": "fr-0075",
+                "w": "ton",
+                "p": "tɔ̃",
+                "d": "your",
+                "s": "Comporte-toi comme quelqu'un de ton âge. (Act your age.)"
+            },
+            {
+                "id": "fr-0076",
+                "w": "comment",
+                "p": "kɔ.mɑ̃",
+                "d": "how",
+                "s": "Comment se passe la recherche d'emploi ? (How's the job hunt?)"
+            },
+            {
+                "id": "fr-0077",
+                "w": "par",
+                "p": "paʁ",
+                "d": "through",
+                "s": "Nous nous rencontrons une fois par mois. (We meet once a month.)"
+            },
+            {
+                "id": "fr-0078",
+                "w": "ou",
+                "p": "u",
+                "d": "or",
+                "s": "Pour consommer sur place ou à emporter ? (For here, or to go?)"
+            },
+            {
+                "id": "fr-0079",
+                "w": "chose",
+                "p": "ʃoz",
+                "d": "thing",
+                "s": "Il me faut aller chercher quelque chose. (I need to get something.)"
+            },
+            {
+                "id": "fr-0080",
+                "w": "bon",
+                "p": "bɔ̃",
+                "d": "good",
+                "s": "Le type que vous tenez n'est pas le bon. (You've got the wrong guy.)"
+            },
+            {
+                "id": "fr-0081",
+                "w": "ont",
+                "p": "ɔ̃",
+                "d": "to have",
+                "s": "Elles ont besoin de nourriture et d'eau. (They need food and water.)"
+            },
+            {
+                "id": "fr-0082",
+                "w": "merci",
+                "p": "mɛʁ.si",
+                "d": "thank you",
+                "s": "Merci de bien vouloir valider ce ticket. (Please validate this ticket.)"
+            },
+            {
+                "id": "fr-0083",
+                "w": "juste",
+                "p": "ʒyst",
+                "d": "fair, just",
+                "s": "Je suis juste un monsieur tout-le-monde. (I am just a nobody.)"
+            },
+            {
+                "id": "fr-0084",
+                "w": "très",
+                "p": "tʁɛ",
+                "d": "very",
+                "s": "Je ne me sens pas très bien aujourd'hui. (I don't feel well today.)"
+            },
+            {
+                "id": "fr-0085",
+                "w": "jamais",
+                "p": "ʒa.mɛ",
+                "d": "never",
+                "s": "Je ne suis pratiquement jamais chez moi. (I'm hardly ever home.)"
+            },
+            {
+                "id": "fr-0086",
+                "w": "été",
+                "p": "e.te",
+                "d": "to be",
+                "s": "Faire cela n'a jamais été mon intention. (I never meant to do that.)"
+            },
+            {
+                "id": "fr-0087",
+                "w": "aussi",
+                "p": "o.si",
+                "d": "too, also, as well",
+                "s": "Je ne peux pas attendre aussi longtemps. (I can't wait that long.)"
+            },
+            {
+                "id": "fr-0088",
+                "w": "avoir",
+                "p": "a.vwaʁ",
+                "d": "to have",
+                "s": "Est-ce que je peux en avoir un morceau ? (Can I have a bite?)"
+            },
+            {
+                "id": "fr-0089",
+                "w": "vraiment",
+                "p": "vʁɛ.mɑ̃",
+                "d": "truly",
+                "s": "Ça a vraiment peu de chances de réussir. (That's a real long shot.)"
+            },
+            {
+                "id": "fr-0090",
+                "w": "voir",
+                "p": "vwaʁ",
+                "d": "to see",
+                "s": "Ne pouvez-vous voir que je suis occupé ? (Can't you see I'm busy?)"
+            },
+            {
+                "id": "fr-0091",
+                "w": "même",
+                "p": "mɛm",
+                "d": "even",
+                "s": "Tom est-il de la même famille que Mary ? (Is Tom related to Mary?)"
+            },
+            {
+                "id": "fr-0092",
+                "w": "sa",
+                "p": "sa",
+                "d": "his",
+                "s": "Elle était en train de repasser sa robe. (She was ironing her dress.)"
+            },
+            {
+                "id": "fr-0093",
+                "w": "oh",
+                "p": "o",
+                "d": "oh",
+                "s": "Oh, je vous en prie, ne dites pas cela ! (Oh, please don't say that.)"
+            },
+            {
+                "id": "fr-0094",
+                "w": "maintenant",
+                "p": "mɛ̃t.nɑ̃",
+                "d": "now, currently",
+                "s": "C'est maintenant que j'ai besoin d'aide. (I need help now.)"
+            },
+            {
+                "id": "fr-0095",
+                "w": "tous",
+                "p": "tuz‿",
+                "d": "all",
+                "s": "Tenez compte de tous les avertissements. (Heed all warnings.)"
+            },
+            {
+                "id": "fr-0096",
+                "w": "peut",
+                "p": "pø",
+                "d": "can, to be able to",
+                "s": "On ne peut tout simplement pas y aller ? (Can't we just go?)"
+            },
+            {
+                "id": "fr-0097",
+                "w": "deux",
+                "p": "dø",
+                "d": "two",
+                "s": "Nous étudions tous les deux le français. (We both study French.)"
+            },
+            {
+                "id": "fr-0098",
+                "w": "ces",
+                "p": "se",
+                "d": "these, those",
+                "s": "Tous ces livres vous appartiennent-ils ? (Are all these books yours?)"
+            },
+            {
+                "id": "fr-0099",
+                "w": "êtes",
+                "p": "ɛt",
+                "d": "to be",
+                "s": "Est-ce que vous êtes libre aujourd'hui ? (Are you free today?)"
+            },
+            {
+                "id": "fr-0100",
+                "w": "allez",
+                "p": "a.le",
+                "d": "to go",
+                "s": "Vous allez passer un sale quart d'heure. (You'll have a rough time.)"
+            },
+            {
+                "id": "fr-0101",
+                "w": "ta",
+                "p": "ta",
+                "d": "your",
+                "s": "Pourquoi ne donnes-tu pas ta démission ? (Why don't you quit?)"
+            },
+            {
+                "id": "fr-0102",
+                "w": "autre",
+                "p": "otʁ",
+                "d": "other",
+                "s": "Je vous ai apporté une autre couverture. (I brought you another blanket.)"
+            },
+            {
+                "id": "fr-0103",
+                "w": "peu",
+                "p": "pø",
+                "d": "few",
+                "s": "Est-ce que vous pouvez attendre un peu ? (Can you wait a bit?)"
+            },
+            {
+                "id": "fr-0104",
+                "w": "temps",
+                "p": "tɑ̃",
+                "d": "time",
+                "s": "Nous disposons de suffisamment de temps. (We have enough time.)"
+            },
+            {
+                "id": "fr-0105",
+                "w": "quelque",
+                "p": "kɛlk",
+                "d": "some",
+                "s": "Il me faut aller chercher quelque chose. (I need to get something.)"
+            },
+            {
+                "id": "fr-0106",
+                "w": "fais",
+                "p": "fɛ",
+                "d": "to do",
+                "s": "Fais preuve d'originalité pour une fois. (Be original for a change.)"
+            },
+            {
+                "id": "fr-0107",
+                "w": "toujours",
+                "p": "tu.ʒuʁ",
+                "d": "always",
+                "s": "Est-ce que vous jouez toujours au golf ? (Do you still play golf?)"
+            },
+            {
+                "id": "fr-0108",
+                "w": "encore",
+                "p": "ɑ̃.kɔʁ",
+                "d": "still",
+                "s": "Vous ne pouvez pas encore vous en aller. (You can't go yet.)"
+            },
+            {
+                "id": "fr-0109",
+                "w": "notre",
+                "p": "nɔtʁ",
+                "d": "our",
+                "s": "Notre équipe est en train de l'emporter. (Our team is winning.)"
+            },
+            {
+                "id": "fr-0110",
+                "w": "mes",
+                "p": "mɛ",
+                "d": "my",
+                "s": "Mes chaussettes sont-elles déjà sèches ? (Are my socks dry yet?)"
+            },
+            {
+                "id": "fr-0111",
+                "w": "besoin",
+                "p": "bə.zwɛ̃",
+                "d": "need",
+                "s": "C'est maintenant que j'ai besoin d'aide. (I need help now.)"
+            },
+            {
+                "id": "fr-0112",
+                "w": "avait",
+                "p": "a.vɛ",
+                "d": "to have",
+                "s": "Il n'y avait pas un bruit dans la pièce. (The room was quiet.)"
+            },
+            {
+                "id": "fr-0113",
+                "w": "accord",
+                "p": "a.kɔʁ",
+                "d": "chord",
+                "s": "À quoi est-ce que je donne mon accord ? (What am I agreeing to?)"
+            },
+            {
+                "id": "fr-0114",
+                "w": "faut",
+                "p": "fo",
+                "d": "to need",
+                "s": "Il me faut aller chercher quelque chose. (I need to get something.)"
+            },
+            {
+                "id": "fr-0115",
+                "w": "dois",
+                "p": "dwa",
+                "d": "must",
+                "s": "Ne me dictez pas qui je dois apprécier ! (Don't tell me who I like.)"
+            },
+            {
+                "id": "fr-0116",
+                "w": "vie",
+                "p": "vi",
+                "d": "life",
+                "s": "Si seulement elle était encore en vie... (I wish she were alive now.)"
+            },
+            {
+                "id": "fr-0117",
+                "w": "peut-être",
+                "p": "pø.t‿ɛtʁ",
+                "d": "maybe, perhaps",
+                "s": "Il y aura peut-être de la neige ce soir. (It may snow tonight.)"
+            },
+            {
+                "id": "fr-0118",
+                "w": "aller",
+                "p": "a.le",
+                "d": "to go",
+                "s": "On ne peut tout simplement pas y aller ? (Can't we just go?)"
+            },
+            {
+                "id": "fr-0119",
+                "w": "fois",
+                "p": "fwa",
+                "d": "time",
+                "s": "Nous nous rencontrons une fois par mois. (We meet once a month.)"
+            },
+            {
+                "id": "fr-0120",
+                "w": "vu",
+                "p": "vy",
+                "d": "to see",
+                "s": "Je suis heureux que les gens l’aient vu. (I'm glad people saw it.)"
+            },
+            {
+                "id": "fr-0121",
+                "w": "donc",
+                "p": "dɔ̃k",
+                "d": "therefore",
+                "s": "Pourquoi es-tu donc tellement en rogne ? (Why are you so upset?)"
+            },
+            {
+                "id": "fr-0122",
+                "w": "sans",
+                "p": "sɑ̃",
+                "d": "without",
+                "s": "Il s'en est presque tiré sans encombres. (He nearly got away with it.)"
+            },
+            {
+                "id": "fr-0123",
+                "w": "monde",
+                "p": "mɔ̃d",
+                "d": "world",
+                "s": "Je me suis entretenu avec tout le monde. (I talked to everybody.)"
+            },
+            {
+                "id": "fr-0124",
+                "w": "étais",
+                "p": "e.tɛ",
+                "d": "to be",
+                "s": "Je n'ai pas pensé que tu étais chez toi. (I didn't think you were home.)"
+            },
+            {
+                "id": "fr-0125",
+                "w": "avant",
+                "p": "a.vɑ̃",
+                "d": "before",
+                "s": "Je ne peux pas partir avant son arrivée. (I can't go until he comes.)"
+            },
+            {
+                "id": "fr-0126",
+                "w": "sûr",
+                "p": "syʁ",
+                "d": "sure, certain",
+                "s": "Je n'étais pas sûr de savoir quoi faire. (I wasn't sure what to do.)"
+            },
+            {
+                "id": "fr-0127",
+                "w": "trop",
+                "p": "tʁo",
+                "d": "too",
+                "s": "La police de caractères est trop grande. (The font is too large.)"
+            },
+            {
+                "id": "fr-0128",
                 "w": "parler",
-                "p": "par-LAY",
-                "d": "to speak",
-                "s": "Je parle français. (I speak French.)"
+                "p": "paʁ.le",
+                "d": "to speak, talk",
+                "s": "Sont-elles en train de parler français ? (Are they speaking French?)"
+            },
+            {
+                "id": "fr-0129",
+                "w": "personne",
+                "p": "pɛʁ.sɔn",
+                "d": "no one, nobody",
+                "s": "Personne ne se trouve dans les environs. (No one is around.)"
+            },
+            {
+                "id": "fr-0130",
+                "w": "avais",
+                "p": "a.vɛ",
+                "d": "to have",
+                "s": "J'ai entendu dire que tu avais été viré. (I heard that you got fired.)"
+            },
+            {
+                "id": "fr-0131",
+                "w": "père",
+                "p": "pɛʁ",
+                "d": "father",
+                "s": "Quelle voiture est celle de votre père ? (Which car is your father's?)"
+            },
+            {
+                "id": "fr-0132",
+                "w": "crois",
+                "p": "kʁwa",
+                "d": "to believe",
+                "s": "Je crois que je l'ai laissé à la maison. (I think I left it at home.)"
+            },
+            {
+                "id": "fr-0133",
+                "w": "après",
+                "p": "a.pʁɛ",
+                "d": "after",
+                "s": "Qu'est-ce qu'il s'est passé après cela ? (What happened after that?)"
+            },
+            {
+                "id": "fr-0134",
+                "w": "aux",
+                "p": "o",
+                "d": "to the",
+                "s": "Est-ce que je peux aller aux toilettes ? (May I use the toilet?)"
+            },
+            {
+                "id": "fr-0135",
+                "w": "dieu",
+                "p": "djø",
+                "d": "a god, male divinity",
+                "s": "Pourquoi, mon Dieu, avez-vous fait cela ? (Why on earth did you do that?)"
+            },
+            {
+                "id": "fr-0136",
+                "w": "ouais",
+                "p": "wɛ",
+                "d": "yes",
+                "s": "Ouais, je comprends ce que tu veux dire. (Yeah, I see what you mean.)"
+            },
+            {
+                "id": "fr-0137",
+                "w": "ses",
+                "p": "sɛ",
+                "d": "his",
+                "s": "Ses cheveux sont-il naturellement roux ? (Is her hair naturally red?)"
+            },
+            {
+                "id": "fr-0138",
+                "w": "pense",
+                "p": "pɑ̃s",
+                "d": "to think",
+                "s": "Je pense que c'est vous qui l'avez fait. (I think you did it.)"
+            },
+            {
+                "id": "fr-0139",
+                "w": "eu",
+                "p": "y",
+                "d": "to have",
+                "s": "Je pense que nous avons eu de la chance. (I think we were lucky.)"
+            },
+            {
+                "id": "fr-0140",
+                "w": "aime",
+                "p": "ɛm",
+                "d": "to love",
+                "s": "« Elle aime la musique. » « Moi aussi. » (\"She likes music.\" \"So do I.\")"
+            },
+            {
+                "id": "fr-0141",
+                "w": "leur",
+                "p": "lœʁ",
+                "d": "their",
+                "s": "Il leur fallut creuser durant des jours. (They had to dig for days.)"
+            },
+            {
+                "id": "fr-0142",
+                "w": "homme",
+                "p": "ɔm",
+                "d": "man",
+                "s": "Je savais que Tom était un homme occupé. (I knew Tom was a busy man.)"
+            },
+            {
+                "id": "fr-0143",
+                "w": "viens",
+                "p": "vjɛ̃",
+                "d": "to come",
+                "s": "Est-ce que tu viens juste de taper Tom ? (Did you just hit Tom?)"
+            },
+            {
+                "id": "fr-0144",
+                "w": "vrai",
+                "p": "vʁɛ",
+                "d": "true",
+                "s": "Je pense que ce que vous dites est vrai. (I think what you say is true.)"
+            },
+            {
+                "id": "fr-0145",
+                "w": "femme",
+                "p": "fam",
+                "d": "woman",
+                "s": "Je suis une femme, pas une petite fille. (I'm a woman, not a girl.)"
+            },
+            {
+                "id": "fr-0146",
+                "w": "doit",
+                "p": "dwa",
+                "d": "must, has to",
+                "s": "Je pense que ce manteau doit vous aller. (I think this coat should fit you.)"
+            },
+            {
+                "id": "fr-0147",
+                "w": "veut",
+                "p": "vø",
+                "d": "to want",
+                "s": "Il veut aller aux États-Unis d'Amérique. (He wants to go to America.)"
+            },
+            {
+                "id": "fr-0148",
+                "w": "ans",
+                "p": "ɑ̃",
+                "d": "year",
+                "s": "J'aurai trente ans la semaine prochaine. (I'll be thirty next week.)"
+            },
+            {
+                "id": "fr-0149",
+                "w": "mal",
+                "p": "mal",
+                "d": "badly",
+                "s": "Je ne pourrais jamais vous faire de mal. (I could never harm you.)"
+            },
+            {
+                "id": "fr-0150",
+                "w": "chez",
+                "p": "ʃe",
+                "d": "to",
+                "s": "Il habite l'étage au-dessus de chez moi. (He lives above me.)"
+            },
+            {
+                "id": "fr-0151",
+                "w": "déjà",
+                "p": "de.ʒa",
+                "d": "already, before",
+                "s": "Mes chaussettes sont-elles déjà sèches ? (Are my socks dry yet?)"
+            },
+            {
+                "id": "fr-0152",
+                "w": "depuis",
+                "p": "də.pɥi",
+                "d": "since",
+                "s": "Je ne vous ai pas vu depuis des lustres. (I haven't seen you in ages.)"
+            },
+            {
+                "id": "fr-0153",
+                "w": "beaucoup",
+                "p": "bo.ku",
+                "d": "much",
+                "s": "Beaucoup d'entre nous étaient fatiguées. (Many of us were tired.)"
+            },
+            {
+                "id": "fr-0154",
+                "w": "vos",
+                "p": "vo",
+                "d": "plural or formal you",
+                "s": "Je ne compte pas au nombre de vos amies. (I'm no friend of yours.)"
+            },
+            {
+                "id": "fr-0155",
+                "w": "bonne",
+                "p": "bɔn",
+                "d": "good",
+                "s": "Il y avait une bonne alchimie entre eux. (They had good chemistry.)"
+            },
+            {
+                "id": "fr-0156",
+                "w": "mort",
+                "p": "mɔʁ",
+                "d": "dead person",
+                "s": "Je ne peux pas croire que Tom soit mort. (I can't believe Tom's dead.)"
+            },
+            {
+                "id": "fr-0157",
+                "w": "mieux",
+                "p": "mjø",
+                "d": "well",
+                "s": "Maintenant, vous feriez mieux de partir. (You'd better leave now.)"
+            },
+            {
+                "id": "fr-0158",
+                "w": "vas",
+                "p": "va",
+                "d": "to go",
+                "s": "Qu'est-ce que tu vas faire aujourd'hui ? (What will you do today?)"
+            },
+            {
+                "id": "fr-0159",
+                "w": "mère",
+                "p": "mɛʁ",
+                "d": "mother",
+                "s": "Mon père ainsi que ma mère sont décédés. (My father and mother are dead.)"
+            },
+            {
+                "id": "fr-0160",
+                "w": "sera",
+                "p": "sə.ʁa",
+                "d": "to be",
+                "s": "Tom sera de retour la semaine prochaine. (Tom will be back next week.)"
+            },
+            {
+                "id": "fr-0161",
+                "w": "dis",
+                "p": "di",
+                "d": "to say, to tell",
+                "s": "Ne me dis pas que tu ne sais pas nager ! (Don't tell me you can't swim.)"
+            },
+            {
+                "id": "fr-0162",
+                "w": "fille",
+                "p": "fij",
+                "d": "girl",
+                "s": "Cette fille, on dirait un garçon manqué. (That girl looks boyish.)"
+            },
+            {
+                "id": "fr-0163",
+                "w": "tes",
+                "p": "tɛ",
+                "d": "your",
+                "s": "Je ne compte pas au nombre de tes amies. (I'm no friend of yours.)"
+            },
+            {
+                "id": "fr-0164",
+                "w": "gens",
+                "p": "ʒɑ̃",
+                "d": "set of people",
+                "s": "Beaucoup de gens font leurs courses ici. (Many people shop here.)"
+            },
+            {
+                "id": "fr-0165",
+                "w": "quel",
+                "p": "kɛl",
+                "d": "which",
+                "s": "Quel est le problème, de toutes façons ? (What's the problem anyway?)"
+            },
+            {
+                "id": "fr-0166",
+                "w": "vois",
+                "p": "vwa",
+                "d": "to see",
+                "s": "Ce n'est pas la manière dont je le vois. (That's not the way I see it.)"
+            },
+            {
+                "id": "fr-0167",
+                "w": "désolé",
+                "p": "de.zɔ.le",
+                "d": "to sadden, distress",
+                "s": "Je suis désolé de vous avoir crié après. (I'm sorry I yelled at you.)"
+            },
+            {
+                "id": "fr-0168",
+                "w": "ca",
+                "p": "siʁka",
+                "d": "approximately, about",
+                "s": "Ca semble trop beau pour être vrai. (It seems too good to be true.)"
+            },
+            {
+                "id": "fr-0169",
+                "w": "voilà",
+                "p": "vwa.la",
+                "d": "it has been, ago",
+                "s": "Que voilà de beaux pendants d'oreilles ! (What beautiful earrings!)"
+            },
+            {
+                "id": "fr-0170",
+                "w": "avons",
+                "p": "a.vɔ̃",
+                "d": "to have",
+                "s": "Je pense que nous avons eu de la chance. (I think we were lucky.)"
+            },
+            {
+                "id": "fr-0171",
+                "w": "petit",
+                "p": "pə.ti",
+                "d": "small",
+                "s": "Je vais vous préparer le petit déjeuner. (I'll fix breakfast for you.)"
+            },
+            {
+                "id": "fr-0172",
+                "w": "maison",
+                "p": "mɛ.zɔ̃",
+                "d": "house",
+                "s": "Puis-je rentrer à la maison maintenant ? (Can I go home now?)"
+            },
+            {
+                "id": "fr-0173",
+                "w": "soit",
+                "p": "swa",
+                "d": "to be",
+                "s": "Personne ne dispose de quoi que ce soit. (No one has anything.)"
+            },
+            {
+                "id": "fr-0174",
+                "w": "cela",
+                "p": "sə.la",
+                "d": "that",
+                "s": "De quelle difficulté cela peut-il être ? (How hard can that be?)"
+            },
+            {
+                "id": "fr-0175",
+                "w": "autres",
+                "p": "otʁ",
+                "d": "other",
+                "s": "Nous nous respectons les uns les autres. (We respect each other.)"
+            },
+            {
+                "id": "fr-0176",
+                "w": "toute",
+                "p": "tut",
+                "d": "all",
+                "s": "Nous sommes restés debout toute la nuit. (We've been up all night.)"
+            },
+            {
+                "id": "fr-0177",
+                "w": "soir",
+                "p": "swaʁ",
+                "d": "evening",
+                "s": "Il y aura peut-être de la neige ce soir. (It may snow tonight.)"
+            },
+            {
+                "id": "fr-0178",
+                "w": "passé",
+                "p": "pa.se",
+                "d": "to go past",
+                "s": "Aujourd'hui, ça ne s'est pas bien passé. (Today didn't go well.)"
+            },
+            {
+                "id": "fr-0179",
+                "w": "prendre",
+                "p": "pʁɑ̃.dʁə",
+                "d": "to take",
+                "s": "C'est un risque que nous devons prendre. (It's a risk we must take.)"
+            },
+            {
+                "id": "fr-0180",
+                "w": "jour",
+                "p": "ʒuʁ",
+                "d": "day",
+                "s": "Une nouvelle mise à jour est disponible. (A new update is available.)"
+            },
+            {
+                "id": "fr-0181",
+                "w": "monsieur",
+                "p": "mə.sjø",
+                "d": "mister, sir",
+                "s": "Je suis juste un monsieur tout-le-monde. (I am just a nobody.)"
+            },
+            {
+                "id": "fr-0182",
+                "w": "nos",
+                "p": "no",
+                "d": "our",
+                "s": "Nos projets ne sont pas encore concrets. (Our plans are not yet concrete.)"
+            },
+            {
+                "id": "fr-0183",
+                "w": "savoir",
+                "p": "sa.vwaʁ",
+                "d": "to know",
+                "s": "Comment pouvez-vous savoir qui je suis ? (How do you know who I am?)"
+            },
+            {
+                "id": "fr-0184",
+                "w": "choses",
+                "p": "ʃoz",
+                "d": "thing",
+                "s": "La chaleur dilate la plupart des choses. (Heat expands most things.)"
+            },
+            {
+                "id": "fr-0185",
+                "w": "salut",
+                "p": "sa.ly",
+                "d": "wave",
+                "s": "Salut, je suis Tom. Quel est ton nom ? (Hi, my name is Tom. What's your name?)"
+            },
+            {
+                "id": "fr-0186",
+                "w": "cet",
+                "p": "sɛ.t‿",
+                "d": "this",
+                "s": "En quoi consiste la cause de cet échec ? (What caused that failure?)"
+            },
+            {
+                "id": "fr-0187",
+                "w": "nom",
+                "p": "nɔ̃",
+                "d": "name",
+                "s": "Son nom ne se trouvait pas sur la liste. (Her name wasn't on the list.)"
+            },
+            {
+                "id": "fr-0188",
+                "w": "argent",
+                "p": "aʁ.ʒɑ̃",
+                "d": "silver",
+                "s": "Ne gaspille pas ton temps ni ton argent. (Don't waste your time and money.)"
+            },
+            {
+                "id": "fr-0189",
+                "w": "bonjour",
+                "p": "bɔ̃.ʒuʁ",
+                "d": "greetings",
+                "s": "Dis bonjour à ta famille, s'il te plaît. (Please say hello to your family.)"
+            },
+            {
+                "id": "fr-0190",
+                "w": "nuit",
+                "p": "nɥi",
+                "d": "night",
+                "s": "Nous sommes restés debout toute la nuit. (We've been up all night.)"
+            },
+            {
+                "id": "fr-0191",
+                "w": "raison",
+                "p": "ʁɛ.zɔ̃",
+                "d": "reason",
+                "s": "Je pense que vous avez tous deux raison. (I think you're both right.)"
+            },
+            {
+                "id": "fr-0192",
+                "w": "moins",
+                "p": "mwɛ̃",
+                "d": "little",
+                "s": "C'est le moins que nous puissions faire. (It's the least we can do.)"
+            },
+            {
+                "id": "fr-0193",
+                "w": "arrive",
+                "p": "a.ʁiv",
+                "d": "to arrive",
+                "s": "La marchandise arrive par voie maritime. (The goods arrive by sea.)"
+            },
+            {
+                "id": "fr-0194",
+                "w": "maman",
+                "p": "ma.mɑ̃",
+                "d": "mummy",
+                "s": "Je ne voulais pas que ma maman le sache. (I didn't want my mom to know.)"
+            },
+            {
+                "id": "fr-0195",
+                "w": "reste",
+                "p": "ʁɛst",
+                "d": "to stay",
+                "s": "Tom reste souvent éveillé toute la nuit. (Tom often stays up all night.)"
+            },
+            {
+                "id": "fr-0196",
+                "w": "moment",
+                "p": "mɔ.mɑ̃",
+                "d": "moment",
+                "s": "J'imagine que c'est le moment d'y aller. (I guess it's time to go.)"
+            },
+            {
+                "id": "fr-0197",
+                "w": "voulais",
+                "p": "vu.lɛ",
+                "d": "to want",
+                "s": "Je voulais vous souhaiter mes bons vœux. (I wanted to wish you well.)"
+            },
+            {
+                "id": "fr-0198",
+                "w": "seul",
+                "p": "sœl",
+                "d": "lonely",
+                "s": "Vous êtes le seul en qui j'ai confiance. (You're the only one I trust.)"
+            },
+            {
+                "id": "fr-0199",
+                "w": "aider",
+                "p": "ɛ.de",
+                "d": "to help",
+                "s": "Nous sommes toujours là pour vous aider. (We're always here to help.)"
+            },
+            {
+                "id": "fr-0200",
+                "w": "air",
+                "p": "ɛʁ",
+                "d": "air",
+                "s": "Nous avons passé la journée au grand air. (We spent the day in the open air.)"
+            },
+            {
+                "id": "fr-0201",
+                "w": "entre",
+                "p": "ɑ̃tʁ",
+                "d": "between",
+                "s": "Il y avait une bonne alchimie entre eux. (They had good chemistry.)"
+            },
+            {
+                "id": "fr-0202",
+                "w": "papa",
+                "p": "pa.pa",
+                "d": "pops",
+                "s": "Tu es le meilleur papa de tous les temps. (You're the best dad ever.)"
+            },
+            {
+                "id": "fr-0203",
+                "w": "passe",
+                "p": "pas",
+                "d": "to go past",
+                "s": "Comment se passe la recherche d'emploi ? (How's the job hunt?)"
+            },
+            {
+                "id": "fr-0204",
+                "w": "aurais",
+                "p": "ɔ.ʁɛ",
+                "d": "to have",
+                "s": "Je me demandais de quoi tu aurais l’air. (I was wondering how you'd look.)"
+            },
+            {
+                "id": "fr-0205",
+                "w": "problème",
+                "p": "pʁɔ.blɛm",
+                "d": "problem",
+                "s": "La main-d'œuvre n'était pas un problème. (Manpower was no problem.)"
+            },
+            {
+                "id": "fr-0206",
+                "w": "ah",
+                "p": "a",
+                "d": "ah",
+                "s": "Ah, je vois ce que tu veux dire. (Ah, I see what you mean.)"
+            },
+            {
+                "id": "fr-0207",
+                "w": "peur",
+                "p": "pœʁ",
+                "d": "fear",
+                "s": "J'ai bien peur que vous soyez en retard. (I'm afraid you're too late.)"
+            },
+            {
+                "id": "fr-0208",
+                "w": "regarde",
+                "p": "ʁə.ɡaʁd",
+                "d": "to look at",
+                "s": "Je ne regarde pas souvent la télévision. (I don't watch TV often.)"
+            },
+            {
+                "id": "fr-0209",
+                "w": "voulez",
+                "p": "vu.le",
+                "d": "to want",
+                "s": "Est-ce que vous voulez que je le fasse ? (Do you want me to do it?)"
+            },
+            {
+                "id": "fr-0210",
+                "w": "gars",
+                "p": "ɡa",
+                "d": "lad, guy",
+                "s": "Vous avez fait un super boulot les gars. (You guys did an awesome job.)"
+            },
+            {
+                "id": "fr-0211",
+                "w": "trouvé",
+                "p": "tʁu.ve",
+                "d": "to find",
+                "s": "Tom a trouvé un emploi comme mécanicien. (Tom found a job as a mechanic.)"
+            },
+            {
+                "id": "fr-0212",
+                "w": "fils",
+                "p": "fis",
+                "d": "son",
+                "s": "Est-ce que toi aussi tu es fils unique ? (Are you an only child, too?)"
+            },
+            {
+                "id": "fr-0213",
+                "w": "attends",
+                "p": "a.tɑ̃",
+                "d": "to wait for",
+                "s": "Attends ici jusqu'à ce que je revienne ! (Wait here until I come back.)"
+            },
+            {
+                "id": "fr-0214",
+                "w": "savez",
+                "p": "sa.ve",
+                "d": "to know",
+                "s": "J'ai besoin de savoir ce que vous savez. (I need to know what you know.)"
+            },
+            {
+                "id": "fr-0215",
+                "w": "trouver",
+                "p": "tʁu.ve",
+                "d": "to find",
+                "s": "Elle n'arrive pas à trouver son chapeau. (She can't find her hat.)"
+            },
+            {
+                "id": "fr-0216",
+                "w": "trois",
+                "p": "tʁwa",
+                "d": "three",
+                "s": "Trois députés se sont fait tirer dessus. (Three deputies were shot.)"
+            },
+            {
+                "id": "fr-0217",
+                "w": "assez",
+                "p": "a.se",
+                "d": "to a sufficient or moderate degree",
+                "s": "Je ne pourrai jamais assez te remercier. (I can never thank you enough.)"
+            },
+            {
+                "id": "fr-0218",
+                "w": "famille",
+                "p": "fa.mij",
+                "d": "family",
+                "s": "Tom est-il de la même famille que Mary ? (Is Tom related to Mary?)"
+            },
+            {
+                "id": "fr-0219",
+                "w": "dû",
+                "p": "dy",
+                "d": "must",
+                "s": "J'imagine ce que vous avez dû ressentir. (I can imagine how you felt.)"
+            },
+            {
+                "id": "fr-0220",
+                "w": "eh",
+                "p": "e",
+                "d": "signifying indifference or surprise",
+                "s": "Eh les mecs, je peux vous dire un truc ? (Can I tell you guys something?)"
+            },
+            {
+                "id": "fr-0221",
+                "w": "toutes",
+                "p": "tut",
+                "d": "all",
+                "s": "Nous avons verrouillé toutes les portes. (We locked all the doors.)"
+            },
+            {
+                "id": "fr-0222",
+                "w": "plaît",
+                "p": "plɛ",
+                "d": "to please",
+                "s": "S'il vous plaît, tenez-vous tranquilles. (Please sit still.)"
+            },
+            {
+                "id": "fr-0223",
+                "w": "pourrait",
+                "p": "pu.ʁɛ",
+                "d": "can, to be able to",
+                "s": "Il se pourrait que vous ne l'aimiez pas. (You might not like this.)"
+            },
+            {
+                "id": "fr-0224",
+                "w": "travail",
+                "p": "tʁa.vaj",
+                "d": "work",
+                "s": "Je devrais être au travail en ce moment. (I should be at work now.)"
+            },
+            {
+                "id": "fr-0225",
+                "w": "pris",
+                "p": "pʁi",
+                "d": "to take",
+                "s": "Je me suis senti un peu pris de vertige. (I felt a little dizzy.)"
+            },
+            {
+                "id": "fr-0226",
+                "w": "pu",
+                "p": "py",
+                "d": "can, to be able to",
+                "s": "J'aurais pu y aller la semaine dernière. (I could've gone last week.)"
+            },
+            {
+                "id": "fr-0227",
+                "w": "tête",
+                "p": "tɛt",
+                "d": "head",
+                "s": "Je me suis réveillé avec un mal de tête. (I woke up with a headache.)"
+            },
+            {
+                "id": "fr-0228",
+                "w": "quelle",
+                "p": "kɛl",
+                "d": "which?",
+                "s": "Quelle est la profondeur de la piscine ? (How deep is the pool?)"
+            },
+            {
+                "id": "fr-0229",
+                "w": "sait",
+                "p": "sɛ",
+                "d": "to know",
+                "s": "Elle ne sait pas faire de la bicyclette. (She can't ride a bicycle.)"
+            },
+            {
+                "id": "fr-0230",
+                "w": "sommes",
+                "p": "sɔm",
+                "d": "to be",
+                "s": "Nous nous sommes rencontrés aujourd'hui. (We met today.)"
+            },
+            {
+                "id": "fr-0231",
+                "w": "appelle",
+                "p": "a.pɛl",
+                "d": "to call",
+                "s": "Si quelqu'un appelle, je ne suis pas là. (If anyone calls, I'm not here.)"
+            },
+            {
+                "id": "fr-0232",
+                "w": "quelques",
+                "p": "kɛlk",
+                "d": "some",
+                "s": "Cela pourrait prendre quelques semaines. (It could take a few weeks.)"
+            },
+            {
+                "id": "fr-0233",
+                "w": "faites",
+                "p": "fɛt",
+                "d": "to do",
+                "s": "Ne vous faites pas de souci à ce sujet ! (Don't worry about it!)"
+            },
+            {
+                "id": "fr-0234",
+                "w": "partir",
+                "p": "paʁ.tiʁ",
+                "d": "to go away",
+                "s": "Vous pouvez partir maintenant, Monsieur. (You can go now, sir.)"
+            },
+            {
+                "id": "fr-0235",
+                "w": "vite",
+                "p": "vit",
+                "d": "quickly",
+                "s": "Il courut plus vite que tous les autres. (He ran the fastest of all.)"
+            },
+            {
+                "id": "fr-0236",
+                "w": "arrête",
+                "p": "a.ʁɛt",
+                "d": "to stop",
+                "s": "Arrête de te conduire comme une enfant ! (Quit acting like a child.)"
+            },
+            {
+                "id": "fr-0237",
+                "w": "seule",
+                "p": "sœl",
+                "d": "lonely",
+                "s": "Vous ne devriez pas vous y rendre seule. (You should not go alone.)"
+            },
+            {
+                "id": "fr-0238",
+                "w": "serait",
+                "p": "sə.ʁɛ",
+                "d": "to be",
+                "s": "Un peu de sommeil ne serait pas du luxe. (I could use some sleep.)"
+            },
+            {
+                "id": "fr-0239",
+                "w": "voiture",
+                "p": "vwa.tyʁ",
+                "d": "car",
+                "s": "Personne ne se trouvait dans la voiture. (No one was in the car.)"
+            },
+            {
+                "id": "fr-0240",
+                "w": "enfants",
+                "p": "ɑ̃.fɑ̃",
+                "d": "child",
+                "s": "Les enfants ne sont pas en sécurité ici. (Children aren't safe here.)"
+            },
+            {
+                "id": "fr-0241",
+                "w": "tuer",
+                "p": "tɥe",
+                "d": "to kill",
+                "s": "Ça ne va pas te tuer de sauter un repas. (It won't hurt you to skip one meal.)"
+            },
+            {
+                "id": "fr-0242",
+                "w": "merde",
+                "p": "mɛʁd",
+                "d": "break a leg!",
+                "s": "Je pense que nous sommes dans la merde. (I think we're in trouble.)"
+            },
+            {
+                "id": "fr-0243",
+                "w": "hé",
+                "p": "e",
+                "d": "a wooded slope",
+                "s": "Hé, vous ! Qu'est-ce que vous faites ? (Hey, you! What are you doing?)"
+            },
+            {
+                "id": "fr-0244",
+                "w": "pendant",
+                "p": "pɑ̃.dɑ̃",
+                "d": "during",
+                "s": "Je ne sais pas pendant combien de temps. (I don't know how long.)"
+            },
+            {
+                "id": "fr-0245",
+                "w": "idée",
+                "p": "i.de",
+                "d": "idea",
+                "s": "Je savais que c'était une mauvaise idée. (I knew it was a bad idea.)"
+            },
+            {
+                "id": "fr-0246",
+                "w": "chance",
+                "p": "ʃɑ̃s",
+                "d": "chance",
+                "s": "Je pense que nous avons eu de la chance. (I think we were lucky.)"
+            },
+            {
+                "id": "fr-0247",
+                "w": "parle",
+                "p": "paʁl",
+                "d": "to speak, talk",
+                "s": "Restez tranquilles pendant que je parle. (Be quiet while I'm speaking.)"
+            },
+            {
+                "id": "fr-0248",
+                "w": "aurait",
+                "p": "ɔ.ʁɛ",
+                "d": "to have",
+                "s": "Je n'ai jamais pensé que ça aurait lieu. (I never thought that would happen.)"
+            },
+            {
+                "id": "fr-0249",
+                "w": "part",
+                "p": "paʁ",
+                "d": "share",
+                "s": "Elle n'obtint pas de réponse de sa part. (She got no answer from him.)"
+            },
+            {
+                "id": "fr-0250",
+                "w": "elles",
+                "p": "ɛl",
+                "d": "they",
+                "s": "Elles disposent d'un lit supplémentaire. (They have an extra bed.)"
+            },
+            {
+                "id": "fr-0251",
+                "w": "jours",
+                "p": "ʒuʁ",
+                "d": "day",
+                "s": "Il regarde la télévision tous les jours. (He watches TV every day.)"
+            },
+            {
+                "id": "fr-0252",
+                "w": "grand",
+                "p": "ɡʁɑ̃",
+                "d": "big",
+                "s": "Tom n'est pas très grand, n'est-ce pas ? (Tom isn't very tall, is he?)"
+            },
+            {
+                "id": "fr-0253",
+                "w": "aujourd'hui",
+                "p": "o.ʒuʁ.d‿ɥi",
+                "d": "today",
+                "s": "Nous nous sommes rencontrés aujourd'hui. (We met today.)"
+            },
+            {
+                "id": "fr-0254",
+                "w": "venir",
+                "p": "və.niʁ",
+                "d": "to come",
+                "s": "J'aimerais venir à la maison maintenant. (I'd like to come home now.)"
+            },
+            {
+                "id": "fr-0255",
+                "w": "ami",
+                "p": "a.mi",
+                "d": "friend",
+                "s": "Le chien est le meilleur ami de l'homme. (Dog is man's best friend.)"
+            },
+            {
+                "id": "fr-0256",
+                "w": "demain",
+                "p": "də.mɛ̃",
+                "d": "tomorrow",
+                "s": "Il est possible que je vous voie demain. (I might see you tomorrow.)"
+            },
+            {
+                "id": "fr-0257",
+                "w": "hein",
+                "p": "ɛ̃",
+                "d": "huh, hey, eh",
+                "s": "Vous êtes très bonne en français, hein ? (You're really good at French, aren't you?)"
+            },
+            {
+                "id": "fr-0258",
+                "w": "tard",
+                "p": "taʁ",
+                "d": "late",
+                "s": "Recontacte-moi plus tard, s'il te plaît. (Please contact me later.)"
+            },
+            {
+                "id": "fr-0259",
+                "w": "puis",
+                "p": "pɥi",
+                "d": "and",
+                "s": "Il a pris le fusil puis a visé la cible. (He picked up the rifle and aimed it at the target.)"
+            },
+            {
+                "id": "fr-0260",
+                "w": "truc",
+                "p": "tʁyk",
+                "d": "procedure, technique",
+                "s": "Eh les mecs, je peux vous dire un truc ? (Can I tell you guys something?)"
+            },
+            {
+                "id": "fr-0261",
+                "w": "passer",
+                "p": "pa.se",
+                "d": "to go past",
+                "s": "Et ensuite, qu'est-ce qui va se passer ? (And then what'll happen?)"
+            },
+            {
+                "id": "fr-0262",
+                "w": "petite",
+                "p": "p(ə).tit",
+                "d": "small",
+                "s": "La police de caractères est trop petite. (The font is too small.)"
+            },
+            {
+                "id": "fr-0263",
+                "w": "tant",
+                "p": "tɑ̃",
+                "d": "so much",
+                "s": "J'ignore pourquoi il est tant en colère. (I don't know why he's so mad.)"
+            },
+            {
+                "id": "fr-0264",
+                "w": "connais",
+                "p": "kɔ.nɛ",
+                "d": "to know",
+                "s": "Je connais d'autres personnes comme Tom. (I know other people like Tom.)"
+            },
+            {
+                "id": "fr-0265",
+                "w": "combien",
+                "p": "kɔ̃.bjɛ̃",
+                "d": "how much",
+                "s": "Je ne sais pas pendant combien de temps. (I don't know how long.)"
+            },
+            {
+                "id": "fr-0266",
+                "w": "mec",
+                "p": "mɛk",
+                "d": "guy",
+                "s": "Je ne me souviens plus du nom de ce mec. (I don't remember that guy's name.)"
+            },
+            {
+                "id": "fr-0267",
+                "w": "sens",
+                "p": "sɑ̃",
+                "d": "to smell",
+                "s": "C'est ainsi que je me sens actuellement. (That's how I feel now.)"
+            },
+            {
+                "id": "fr-0268",
+                "w": "pouvez",
+                "p": "pu.ve",
+                "d": "can, to be able to",
+                "s": "Vous ne pouvez pas encore vous en aller. (You can't go yet.)"
+            },
+            {
+                "id": "fr-0269",
+                "w": "porte",
+                "p": "pɔʁt",
+                "d": "door",
+                "s": "Est-ce que vous pouvez fermer la porte ? (Could you shut the door?)"
+            },
+            {
+                "id": "fr-0270",
+                "w": "sortir",
+                "p": "sɔʁ.tiʁ",
+                "d": "to exit",
+                "s": "Je pense que nous allons nous en sortir. (I think we'll be OK.)"
+            },
+            {
+                "id": "fr-0271",
+                "w": "super",
+                "p": "sy.pɛʁ",
+                "d": "superb, great",
+                "s": "Vous avez fait un super boulot les gars. (You guys did an awesome job.)"
+            },
+            {
+                "id": "fr-0272",
+                "w": "heure",
+                "p": "œʁ",
+                "d": "hour, time",
+                "s": "À quelle heure vous êtes-vous réveillé ? (What time did you wake up?)"
+            },
+            {
+                "id": "fr-0273",
+                "w": "contre",
+                "p": "kɔ̃tʁ",
+                "d": "against",
+                "s": "Ils se sont blottis l'un contre l'autre. (They huddled together.)"
+            },
+            {
+                "id": "fr-0274",
+                "w": "coup",
+                "p": "ku",
+                "d": "sound of the action",
+                "s": "Est-ce que ça vaut le coup de le faire ? (Is this worth doing?)"
+            },
+            {
+                "id": "fr-0275",
+                "w": "comprends",
+                "p": "kɔ̃.pʁɑ̃",
+                "d": "to understand",
+                "s": "Ouais, je comprends ce que tu veux dire. (Yeah, I see what you mean.)"
+            },
+            {
+                "id": "fr-0276",
+                "w": "entendu",
+                "p": "ɑ̃.tɑ̃.dy",
+                "d": "to hear",
+                "s": "J'ai entendu dire que vous étiez échoué. (I hear you were grounded.)"
+            },
+            {
+                "id": "fr-0277",
+                "w": "vient",
+                "p": "vjɛ̃",
+                "d": "to come",
+                "s": "L'horloge vient de marquer trois heures. (The clock has just struck three.)"
+            },
+            {
+                "id": "fr-0278",
+                "w": "allons",
+                "p": "a.lɔ̃",
+                "d": "to go",
+                "s": "Je pense que nous allons nous en sortir. (I think we'll be OK.)"
+            },
+            {
+                "id": "fr-0279",
+                "w": "ensemble",
+                "p": "ɑ̃.sɑ̃bl",
+                "d": "together",
+                "s": "Nous avons passé notre enfance ensemble. (We were kids together.)"
+            },
+            {
+                "id": "fr-0280",
+                "w": "nouveau",
+                "p": "nu.vo",
+                "d": "new, novel",
+                "s": "Comment trouves-tu mon nouveau chapeau ? (How do you like my new hat?)"
+            },
+            {
+                "id": "fr-0281",
+                "w": "amour",
+                "p": "a.muʁ",
+                "d": "love",
+                "s": "Quand ton premier amour a-t-il eu lieu ? (When was your first love?)"
+            },
+            {
+                "id": "fr-0282",
+                "w": "importe",
+                "p": "ɛ̃.pɔʁt",
+                "d": "to import",
+                "s": "La qualité importe plus que la quantité. (Quality is more important than quantity.)"
+            },
+            {
+                "id": "fr-0283",
+                "w": "sang",
+                "p": "sɑ̃",
+                "d": "blood",
+                "s": "Je ne peux pas supporter la vue du sang. (I can't stand the sight of blood.)"
+            },
+            {
+                "id": "fr-0284",
+                "w": "désolée",
+                "p": "dezole",
+                "d": "sorry",
+                "s": "Je ne peux pas dire que je sois désolée. (I can't say I'm sorry.)"
+            },
+            {
+                "id": "fr-0285",
+                "w": "cas",
+                "p": "ka",
+                "d": "case, situation",
+                "s": "Au cas où il pleuvrait, je n'y vais pas. (In case it rains, I won't go.)"
+            },
+            {
+                "id": "fr-0286",
+                "w": "sous",
+                "p": "su",
+                "d": "below, under",
+                "s": "Qu'est-ce qu'il y a sous la couverture ? (What's under the blanket?)"
+            },
+            {
+                "id": "fr-0287",
+                "w": "rester",
+                "p": "ʁɛs.te",
+                "d": "to stay",
+                "s": "Je n'ai pas envie de rester à la maison. (I don't want to stay at home.)"
+            },
+            {
+                "id": "fr-0288",
+                "w": "amis",
+                "p": "a.mi",
+                "d": "friend",
+                "s": "Il est certain que mes amis me manquent. (I sure miss my friends.)"
+            },
+            {
+                "id": "fr-0289",
+                "w": "prends",
+                "p": "pʁɑ̃",
+                "d": "to take",
+                "s": "Ne prends pas de décisions irréfléchies. (Don't make any rash decisions.)"
+            },
+            {
+                "id": "fr-0290",
+                "w": "fini",
+                "p": "fi.ni",
+                "d": "to finish",
+                "s": "Moi je n'en ai pas encore fini avec toi. (I'm not done with you yet.)"
+            },
+            {
+                "id": "fr-0291",
+                "w": "hommes",
+                "p": "ɔm",
+                "d": "man",
+                "s": "J'adore les hommes qui portent la barbe. (I love men with beards.)"
+            },
+            {
+                "id": "fr-0292",
+                "w": "tué",
+                "p": "tɥe",
+                "d": "to kill",
+                "s": "Je préfère être pendu que tué par balle. (I'd rather be hanged than shot.)"
+            },
+            {
+                "id": "fr-0293",
+                "w": "question",
+                "p": "kɛs.tjɔ̃",
+                "d": "question",
+                "s": "Puis-je poser une question personnelle ? (May I ask a personal question?)"
+            },
+            {
+                "id": "fr-0294",
+                "w": "partie",
+                "p": "paʁ.ti",
+                "d": "part",
+                "s": "Il se peut que je sois partie un moment. (I may be gone for a while.)"
+            },
+            {
+                "id": "fr-0295",
+                "w": "histoire",
+                "p": "is.twaʁ",
+                "d": "story",
+                "s": "Conte-moi une histoire pour m'endormir ! (Tell me a bedtime story.)"
+            },
+            {
+                "id": "fr-0296",
+                "w": "devrais",
+                "p": "də.vʁɛ",
+                "d": "must",
+                "s": "Je devrais être au travail en ce moment. (I should be at work now.)"
+            },
+            {
+                "id": "fr-0297",
+                "w": "aide",
+                "p": "ɛd",
+                "d": "help, support",
+                "s": "Ils ont besoin d'une aide psychologique. (They need some counseling.)"
+            },
+            {
+                "id": "fr-0298",
+                "w": "dernière",
+                "p": "dɛʁ.njɛʁ",
+                "d": "last",
+                "s": "Il a fait un testament l'année dernière. (He made a will last year.)"
+            },
+            {
+                "id": "fr-0299",
+                "w": "demande",
+                "p": "də.mɑ̃d",
+                "d": "to ask",
+                "s": "Demande à quelqu'un d'autre, je te prie. (Please ask someone else.)"
+            },
+            {
+                "id": "fr-0300",
+                "w": "chercher",
+                "p": "ʃɛʁ.ʃe",
+                "d": "to look for, to seek",
+                "s": "Il me faut aller chercher quelque chose. (I need to get something.)"
+            },
+            {
+                "id": "fr-0301",
+                "w": "pensais",
+                "p": "pɑ̃sɛ",
+                "d": "to think",
+                "s": "Je pensais que vous viendriez peut-être. (I thought you might come.)"
+            },
+            {
+                "id": "fr-0302",
+                "w": "genre",
+                "p": "ʒɑ̃ʁ",
+                "d": "kind",
+                "s": "Quel genre de voiture conduisaient-ils ? (What kind of car were they driving?)"
+            },
+            {
+                "id": "fr-0303",
+                "w": "seulement",
+                "p": "sœl.mɑ̃",
+                "d": "only",
+                "s": "Nous étions seulement en train de jouer. (We were just playing.)"
+            },
+            {
+                "id": "fr-0304",
+                "w": "police",
+                "p": "pɔ.lis",
+                "d": "police",
+                "s": "La police de caractères est trop grande. (The font is too large.)"
+            },
+            {
+                "id": "fr-0305",
+                "w": "car",
+                "p": "kaʁ",
+                "d": "as",
+                "s": "Je ne suis pas allée car j'étais malade. (I didn't go because I was sick.)"
+            },
+            {
+                "id": "fr-0306",
+                "w": "mois",
+                "p": "mwa",
+                "d": "month",
+                "s": "Nous nous rencontrons une fois par mois. (We meet once a month.)"
+            },
+            {
+                "id": "fr-0307",
+                "w": "frère",
+                "p": "fʁɛʁ",
+                "d": "brother",
+                "s": "Ton frère sait-il conduire une voiture ? (Can your brother drive a car?)"
+            },
+            {
+                "id": "fr-0308",
+                "w": "laisser",
+                "p": "lɛ.se",
+                "d": "to leave",
+                "s": "Je ne peux pas laisser cela se produire. (I can't let that happen.)"
+            },
+            {
+                "id": "fr-0309",
+                "w": "aucun",
+                "p": "o.kœ̃",
+                "d": "no, none, not any",
+                "s": "Ce n'est en aucun cas un travail facile. (It is by no means an easy job.)"
+            },
+            {
+                "id": "fr-0310",
+                "w": "mettre",
+                "p": "mɛtʁ",
+                "d": "to put",
+                "s": "Pourriez-vous le mettre sur ma chambre ? (Could you charge it to my room?)"
+            },
+            {
+                "id": "fr-0311",
+                "w": "eux",
+                "p": "ø",
+                "d": "they",
+                "s": "Il y avait une bonne alchimie entre eux. (They had good chemistry.)"
+            },
+            {
+                "id": "fr-0312",
+                "w": "laisse",
+                "p": "lɛs",
+                "d": "to leave",
+                "s": "Ne laisse pas tes affaires derrière toi. (Don't leave your stuff behind.)"
+            },
+            {
+                "id": "fr-0313",
+                "w": "chaque",
+                "p": "ʃak",
+                "d": "each",
+                "s": "On ne peut pas l'emporter à chaque fois. (You can't win them all.)"
+            },
+            {
+                "id": "fr-0314",
+                "w": "ville",
+                "p": "vil",
+                "d": "town, city",
+                "s": "Est-ce que Boston est une grande ville ? (Is Boston a big city?)"
+            },
+            {
+                "id": "fr-0315",
+                "w": "arrivé",
+                "p": "a.ʁi.ve",
+                "d": "to arrive",
+                "s": "J'aimerais que ce ne soit jamais arrivé. (I wish it never happened.)"
+            },
+            {
+                "id": "fr-0316",
+                "w": "devrait",
+                "p": "də.vʁɛ",
+                "d": "must",
+                "s": "Ça ne devrait pas prendre trop de temps. (This shouldn't take long.)"
+            },
+            {
+                "id": "fr-0317",
+                "w": "parlé",
+                "p": "paʁ.le",
+                "d": "to speak, talk",
+                "s": "Nous avons parlé pendant trente minutes. (We talked for thirty minutes.)"
+            },
+            {
+                "id": "fr-0318",
+                "w": "vont",
+                "p": "vɔ̃",
+                "d": "to go",
+                "s": "Mes enfants vont rarement à l'extérieur. (My children rarely go outside.)"
+            },
+            {
+                "id": "fr-0319",
+                "w": "longtemps",
+                "p": "lɔ̃.tɑ̃",
+                "d": "for a long time",
+                "s": "Je ne peux plus attendre plus longtemps. (I can't wait any more.)"
+            },
+            {
+                "id": "fr-0320",
+                "w": "aucune",
+                "p": "o.kyn",
+                "d": "no, none, not any",
+                "s": "Je n'ai aucune malveillance à son égard. (I bear him no malice.)"
+            },
+            {
+                "id": "fr-0321",
+                "w": "heures",
+                "p": "œʁ",
+                "d": "hour, time",
+                "s": "L'école commence à huit heures et demie. (School begins at 8:30 a.m.)"
+            },
+            {
+                "id": "fr-0322",
+                "w": "bébé",
+                "p": "be.be",
+                "d": "baby",
+                "s": "Arrêtez de vous conduire comme un bébé ! (Quit acting like a baby.)"
+            },
+            {
+                "id": "fr-0323",
+                "w": "place",
+                "p": "plas",
+                "d": "place",
+                "s": "Pour consommer sur place ou à emporter ? (For here, or to go?)"
+            },
+            {
+                "id": "fr-0324",
+                "w": "revoir",
+                "p": "ʁə.vwaʁ",
+                "d": "to see again",
+                "s": "Il est grand temps qu'on dise au revoir. (It is high time we said good-bye.)"
+            },
+            {
+                "id": "fr-0325",
+                "w": "putain",
+                "p": "py.tɛ̃",
+                "d": "whore, hooker",
+                "s": ""
+            },
+            {
+                "id": "fr-0326",
+                "w": "compris",
+                "p": "kɔ̃.pʁi",
+                "d": "to understand",
+                "s": "Tu as dit que tu avais compris pourquoi. (You said you figured out why.)"
+            },
+            {
+                "id": "fr-0327",
+                "w": "ni",
+                "p": "ni",
+                "d": "neither",
+                "s": "Ne gaspille pas ton temps ni ton argent. (Don't waste your time and money.)"
+            },
+            {
+                "id": "fr-0328",
+                "w": "savais",
+                "p": "sa.vɛ",
+                "d": "to know",
+                "s": "Je savais que Tom n'avait pas très faim. (I knew Tom wasn't hungry.)"
+            },
+            {
+                "id": "fr-0329",
+                "w": "leurs",
+                "p": "lœʁ",
+                "d": "their",
+                "s": "Beaucoup de gens font leurs courses ici. (Many people shop here.)"
+            },
+            {
+                "id": "fr-0330",
+                "w": "étaient",
+                "p": "e.tɛ",
+                "d": "to be",
+                "s": "Beaucoup d'entre nous étaient fatiguées. (Many of us were tired.)"
+            },
+            {
+                "id": "fr-0331",
+                "w": "attention",
+                "p": "a.tɑ̃.sjɔ̃",
+                "d": "attention",
+                "s": "J'essayerai de distraire leur attention. (I'll try to distract them.)"
+            },
+            {
+                "id": "fr-0332",
+                "w": "donner",
+                "p": "dɔ.ne",
+                "d": "to give",
+                "s": "Pourquoi ne pas nous donner une chance ? (Why not give us a chance?)"
+            },
+            {
+                "id": "fr-0333",
+                "w": "affaire",
+                "p": "a.fɛʁ",
+                "d": "business",
+                "s": "Les faits ne sont pas affaire d'opinion. (Facts aren't a matter of opinion.)"
+            },
+            {
+                "id": "fr-0334",
+                "w": "endroit",
+                "p": "ɑ̃.dʁwa",
+                "d": "place, spot",
+                "s": "Je t’emmène dans un endroit sympathique. (I'm taking you somewhere nice.)"
+            },
+            {
+                "id": "fr-0335",
+                "w": "pourrais",
+                "p": "puʁɛ",
+                "d": "can, to be able to",
+                "s": "Je ne pourrais jamais vous faire de mal. (I could never harm you.)"
+            },
+            {
+                "id": "fr-0336",
+                "w": "corps",
+                "p": "kɔʁ",
+                "d": "body",
+                "s": "Le corps de Tom n'a jamais été retrouvé. (Tom's body was never found.)"
+            },
+            {
+                "id": "fr-0337",
+                "w": "façon",
+                "p": "fa.sɔ̃",
+                "d": "way",
+                "s": "Vous avez une drôle de façon de marcher. (You have a funny way of walking.)"
+            },
+            {
+                "id": "fr-0338",
+                "w": "donné",
+                "p": "dɔ.ne",
+                "d": "to give",
+                "s": "J'ai donné les clés de ma voiture à Tom. (I gave Tom my car keys.)"
+            },
+            {
+                "id": "fr-0339",
+                "w": "est-il",
+                "p": "ɛ.t‿il",
+                "d": "is he",
+                "s": "Tom est-il de la même famille que Mary ? (Is Tom related to Mary?)"
+            },
+            {
+                "id": "fr-0340",
+                "w": "voici",
+                "p": "vwa.si",
+                "d": "ago",
+                "s": "Voici un couteau dont tu peux te servir. (Here's a knife you can use.)"
+            },
+            {
+                "id": "fr-0341",
+                "w": "train",
+                "p": "tʁɛ̃",
+                "d": "train",
+                "s": "Il est actuellement en train de marcher. (He is walking now.)"
+            },
+            {
+                "id": "fr-0342",
+                "w": "dont",
+                "p": "dɔ̃",
+                "d": "of/from whom/which",
+                "s": "Où se trouve le livre dont j'ai besoin ? (Where's the book I need?)"
+            },
+            {
+                "id": "fr-0343",
+                "w": "écoute",
+                "p": "e.kut",
+                "d": "to listen",
+                "s": "Écoute, je ne veux pas perdre mon poste. (Look, I don't want to lose my job.)"
+            },
+            {
+                "id": "fr-0344",
+                "w": "yeux",
+                "p": "jø",
+                "d": "eye",
+                "s": "Vous pouvez ouvrir les yeux, maintenant. (You can open your eyes now.)"
+            },
+            {
+                "id": "fr-0345",
+                "w": "trouve",
+                "p": "tʁuv",
+                "d": "to find",
+                "s": "Personne ne se trouve dans les environs. (No one is around.)"
+            },
+            {
+                "id": "fr-0346",
+                "w": "pouvoir",
+                "p": "pu.vwaʁ",
+                "d": "can, to be able to",
+                "s": "Nous sommes sûres de pouvoir faire cela. (We're sure we can do that.)"
+            },
+            {
+                "id": "fr-0347",
+                "w": "type",
+                "p": "tip",
+                "d": "type",
+                "s": "Le type que vous tenez n'est pas le bon. (You've got the wrong guy.)"
+            },
+            {
+                "id": "fr-0348",
+                "w": "perdu",
+                "p": "pɛʁ.dy",
+                "d": "to lose",
+                "s": "J'ai perdu ma chaussure dans l'incendie. (I lost my shoe in the fire.)"
+            },
+            {
+                "id": "fr-0349",
+                "w": "premier",
+                "p": "pʁə.mje",
+                "d": "first",
+                "s": "Quand ton premier amour a-t-il eu lieu ? (When was your first love?)"
+            },
+            {
+                "id": "fr-0350",
+                "w": "première",
+                "p": "pʁə.mjɛʁ",
+                "d": "first",
+                "s": "C'est la première fois que je viens ici. (This is my first time here.)"
+            },
+            {
+                "id": "fr-0351",
+                "w": "côté",
+                "p": "ko.te",
+                "d": "side",
+                "s": "J'ai choisi de regarder de l'autre côté. (I chose to look the other way.)"
+            },
+            {
+                "id": "fr-0352",
+                "w": "point",
+                "p": "pwɛ̃",
+                "d": "point",
+                "s": "Je veux être clair, un point c'est tout. (I just want to be clear.)"
+            },
+            {
+                "id": "fr-0353",
+                "w": "tellement",
+                "p": "tɛl.mɑ̃",
+                "d": "so",
+                "s": "Pourquoi es-tu donc tellement en rogne ? (Why are you so upset?)"
+            },
+            {
+                "id": "fr-0354",
+                "w": "main",
+                "p": "mɛ̃",
+                "d": "hand",
+                "s": "Je les ai surprises la main dans le sac. (I caught them in the act.)"
+            },
+            {
+                "id": "fr-0355",
+                "w": "tiens",
+                "p": "tjɛ̃",
+                "d": "to have",
+                "s": "C'est tout ce que je tiens pour certain. (That's all I know for sure.)"
+            },
+            {
+                "id": "fr-0356",
+                "w": "sois",
+                "p": "swa",
+                "d": "to be",
+                "s": "Je ne peux pas dire que je sois désolée. (I can't say I'm sorry.)"
+            },
+            {
+                "id": "fr-0357",
+                "w": "enfant",
+                "p": "ɑ̃.fɑ̃",
+                "d": "child",
+                "s": "Je sais que Tom est un enfant paresseux. (I know Tom is a lazy kid.)"
+            },
+            {
+                "id": "fr-0358",
+                "w": "vieux",
+                "p": "vjø",
+                "d": "old",
+                "s": "Je suis à présent dans un vieux château. (I am now in an old castle.)"
+            },
+            {
+                "id": "fr-0359",
+                "w": "matin",
+                "p": "ma.tɛ̃",
+                "d": "morning",
+                "s": "Je me réveillais à cinq heures du matin. (I woke up at five this morning.)"
+            },
+            {
+                "id": "fr-0360",
+                "w": "venu",
+                "p": "və.ny",
+                "d": "to come",
+                "s": "Tom a attendu, mais personne n'est venu. (Tom waited, but nobody came.)"
+            },
+            {
+                "id": "fr-0361",
+                "w": "pardon",
+                "p": "paʁ.dɔ̃",
+                "d": "excuse me",
+                "s": "Pardon, je ne voulais pas te réveiller. (Sorry, I didn't mean to wake you.)"
+            },
+            {
+                "id": "fr-0362",
+                "w": "là-bas",
+                "p": "la.ba",
+                "d": "there, over there",
+                "s": "Quelle heure est-il là-bas, maintenant ? (What time is it there now?)"
+            },
+            {
+                "id": "fr-0363",
+                "w": "suite",
+                "p": "sɥit",
+                "d": "result",
+                "s": "Viens ici tout de suite, s'il te plaît ! (Please come here right away.)"
+            },
+            {
+                "id": "fr-0364",
+                "w": "vers",
+                "p": "vɛʁ",
+                "d": "towards",
+                "s": "Je n'avais personne vers qui me tourner. (I had no one to turn to.)"
+            },
+            {
+                "id": "fr-0365",
+                "w": "minutes",
+                "p": "mi.nyt",
+                "d": "minute",
+                "s": "Tom est arrivé trente minutes en retard. (Tom came 30 minutes late.)"
+            },
+            {
+                "id": "fr-0366",
+                "w": "demandé",
+                "p": "də.mɑ̃.de",
+                "d": "to ask",
+                "s": "Est-ce qu'on a demandé à Tom de partir ? (Was Tom asked to leave?)"
+            },
+            {
+                "id": "fr-0367",
+                "w": "venez",
+                "p": "və.ne",
+                "d": "to come",
+                "s": "Venez à la maison dès que vous pouvez ! (Come home as soon as you can.)"
+            },
+            {
+                "id": "fr-0368",
+                "w": "devant",
+                "p": "də.vɑ̃",
+                "d": "confronted with",
+                "s": "Parler devant un public me rend nerveux. (Speaking in public makes me nervous.)"
+            },
+            {
+                "id": "fr-0369",
+                "w": "enfin",
+                "p": "ɑ̃.fɛ̃",
+                "d": "finally",
+                "s": "Le rêve de Tom est enfin devenu réalité. (Tom's dream finally came true.)"
+            },
+            {
+                "id": "fr-0370",
+                "w": "arrêter",
+                "p": "a.ʁɛ.te",
+                "d": "to stop",
+                "s": "Comment pouvons-nous arrêter la guerre ? (How can we stop the war?)"
+            },
+            {
+                "id": "fr-0371",
+                "w": "cause",
+                "p": "koz",
+                "d": "cause",
+                "s": "En quoi consiste la cause de cet échec ? (What caused that failure?)"
+            },
+            {
+                "id": "fr-0372",
+                "w": "nouvelle",
+                "p": "nu.vɛl",
+                "d": "new",
+                "s": "Elle s'est fait faire une nouvelle robe. (She had a new dress made.)"
+            },
+            {
+                "id": "fr-0373",
+                "w": "attendez",
+                "p": "a.tɑ̃.de",
+                "d": "to wait for",
+                "s": "Attendez ici jusqu'à ce que je revienne. (Wait here till I come back.)"
+            },
+            {
+                "id": "fr-0374",
+                "w": "chambre",
+                "p": "ʃɑ̃bʁ",
+                "d": "a room",
+                "s": "Ma chambre est pourvue de deux fenêtres. (My room has two windows.)"
+            },
+            {
+                "id": "fr-0375",
+                "w": "droit",
+                "p": "dʁwa",
+                "d": "right",
+                "s": "Tom eut droit à un traitement de faveur. (Tom got special treatment.)"
+            },
+            {
+                "id": "fr-0376",
+                "w": "parti",
+                "p": "paʁ.ti",
+                "d": "to share",
+                "s": "Je suis parti en courant précipitamment. (I ran away in a hurry.)"
+            },
+            {
+                "id": "fr-0377",
+                "w": "mis",
+                "p": "mi",
+                "d": "to put",
+                "s": "Le conseil s'est mis d'accord là-dessus. (The council agreed on it.)"
+            },
+            {
+                "id": "fr-0378",
+                "w": "eau",
+                "p": "o",
+                "d": "water",
+                "s": "La cabane n'avait ni eau ni électricité. (The cabin had no water or electricity.)"
+            },
+            {
+                "id": "fr-0379",
+                "w": "compte",
+                "p": "kɔ̃t",
+                "d": "account",
+                "s": "Tenez compte de tous les avertissements. (Heed all warnings.)"
+            },
+            {
+                "id": "fr-0380",
+                "w": "dirait",
+                "p": "di.ʁɛ",
+                "d": "to say, to tell",
+                "s": "Cette fille, on dirait un garçon manqué. (That girl looks boyish.)"
+            },
+            {
+                "id": "fr-0381",
+                "w": "terre",
+                "p": "tɛʁ",
+                "d": "earth",
+                "s": "C'est l'homme le plus riche de la Terre. (He is the richest man on earth.)"
+            },
+            {
+                "id": "fr-0382",
+                "w": "belle",
+                "p": "bɛl",
+                "d": "handsome",
+                "s": "Ça a été la plus belle soirée de ma vie. (It was the best night of my life.)"
+            },
+            {
+                "id": "fr-0383",
+                "w": "espère",
+                "p": "ɛs.pɛʁ",
+                "d": "to hope",
+                "s": "Tom espère visiter Boston l'été prochain. (Tom hopes to visit Boston next summer.)"
+            },
+            {
+                "id": "fr-0384",
+                "w": "aimerais",
+                "p": "ɛm.ʁɛ",
+                "d": "to love",
+                "s": "Est-ce que tu aimerais venir avec nous ? (Would you like to go with us?)"
+            },
+            {
+                "id": "fr-0385",
+                "w": "loin",
+                "p": "lwɛ̃",
+                "d": "far, distant",
+                "s": "Ne pousses-tu pas le bouchon trop loin ? (Aren't you pushing it too far?)"
+            },
+            {
+                "id": "fr-0386",
+                "w": "mari",
+                "p": "ma.ʁi",
+                "d": "husband",
+                "s": "Votre mari avait-il beaucoup d'ennemis ? (Did your husband have many enemies?)"
+            },
+            {
+                "id": "fr-0387",
+                "w": "donne",
+                "p": "dɔn",
+                "d": "to give",
+                "s": "Je donne une fête pour mon anniversaire. (I'm having a birthday party.)"
+            },
+            {
+                "id": "fr-0388",
+                "w": "fin",
+                "p": "fɛ̃",
+                "d": "end, close, finish",
+                "s": "En fin de compte, mon plan a été retenu. (My plan was eventually adopted.)"
+            },
+            {
+                "id": "fr-0389",
+                "w": "croire",
+                "p": "kʁwaʁ",
+                "d": "to believe",
+                "s": "Je n'arrive pas à croire que j'ai gagné. (I can't believe I won.)"
+            },
+            {
+                "id": "fr-0390",
+                "w": "aura",
+                "p": "o.ʁa",
+                "d": "to have",
+                "s": "Il y aura peut-être de la neige ce soir. (It may snow tonight.)"
+            },
+            {
+                "id": "fr-0391",
+                "w": "gros",
+                "p": "ɡʁo",
+                "d": "big, thick, fat",
+                "s": "Il est trop gros pour courir rapidement. (He is too fat to run fast.)"
+            },
+            {
+                "id": "fr-0392",
+                "w": "boulot",
+                "p": "bu.lo",
+                "d": "work",
+                "s": "Je veux que vous me procuriez un boulot. (I want you to give me a job.)"
+            },
+            {
+                "id": "fr-0393",
+                "w": "plutôt",
+                "p": "ply.to",
+                "d": "rather, instead",
+                "s": "Je préfère être pauvre plutôt que riche. (I'd rather be poor than rich.)"
+            },
+            {
+                "id": "fr-0394",
+                "w": "chérie",
+                "p": "ʃe.ʁi",
+                "d": "dear",
+                "s": "J'ai une surprise pour toi, ma chérie. (I have a surprise for you, sweetheart.)"
+            },
+            {
+                "id": "fr-0395",
+                "w": "prêt",
+                "p": "pʁɛ",
+                "d": "ready",
+                "s": "Je ne suis pas sûre que vous soyez prêt. (I'm not sure you're ready.)"
+            },
+            {
+                "id": "fr-0396",
+                "w": "filles",
+                "p": "fij",
+                "d": "girl",
+                "s": "Les filles sont tombées dans les pommes. (The girls fainted.)"
+            },
+            {
+                "id": "fr-0397",
+                "w": "bureau",
+                "p": "by.ʁo",
+                "d": "desk",
+                "s": "Il m'a laissé travailler dans ce bureau. (He let me work in this office.)"
+            },
+            {
+                "id": "fr-0398",
+                "w": "mourir",
+                "p": "mu.ʁiʁ",
+                "d": "to die",
+                "s": "Aujourd'hui est un bon jour pour mourir. (Today is a good day to die.)"
+            },
+            {
+                "id": "fr-0399",
+                "w": "hier",
+                "p": "jɛʁ",
+                "d": "yesterday",
+                "s": "Je suis désolé à propos de hier au soir. (I'm sorry about last night.)"
+            },
+            {
+                "id": "fr-0400",
+                "w": "possible",
+                "p": "pɔ.sibl",
+                "d": "possible",
+                "s": "Il n'est pas possible que ce soit légal. (That can't be legal.)"
+            },
+            {
+                "id": "fr-0401",
+                "w": "jouer",
+                "p": "ʒwe",
+                "d": "to play",
+                "s": "Nous étions seulement en train de jouer. (We were just playing.)"
+            },
+            {
+                "id": "fr-0402",
+                "w": "demander",
+                "p": "də.mɑ̃.de",
+                "d": "to ask",
+                "s": "C'est tout ce que nous pouvons demander. (That's all we can ask.)"
+            },
+            {
+                "id": "fr-0403",
+                "w": "celui",
+                "p": "sə.lɥi",
+                "d": "the one",
+                "s": "Vous seriez celui qui serait au courant. (You'd be the one to know.)"
+            },
+            {
+                "id": "fr-0404",
+                "w": "voulait",
+                "p": "vulɛ",
+                "d": "to want",
+                "s": "Il a finalement obtenu ce qu'il voulait. (He finally got his wish.)"
+            },
+            {
+                "id": "fr-0405",
+                "w": "beau",
+                "p": "bo",
+                "d": "handsome",
+                "s": "J'espère que ce beau temps va continuer. (I hope this good weather continues.)"
+            },
+            {
+                "id": "fr-0406",
+                "w": "jeune",
+                "p": "ʒœn",
+                "d": "young",
+                "s": "Je suis plus jeune que je n'en ai l'air. (I'm younger than I look.)"
+            },
+            {
+                "id": "fr-0407",
+                "w": "euh",
+                "p": "ø",
+                "d": "er, um, uh",
+                "s": ""
+            },
+            {
+                "id": "fr-0408",
+                "w": "dehors",
+                "p": "də.ɔʁ",
+                "d": "outside",
+                "s": "Il fait noir comme dans un four, dehors. (It's pitch black outside.)"
+            },
+            {
+                "id": "fr-0409",
+                "w": "docteur",
+                "p": "dɔk.tœʁ",
+                "d": "a doctor",
+                "s": "Pourquoi avez-vous besoin d'un docteur ? (Why do you need a doctor?)"
+            },
+            {
+                "id": "fr-0410",
+                "w": "a-t-il",
+                "p": "a.t‿il",
+                "d": "to have",
+                "s": "Qui que ce soit a-t-il mangé avec vous ? (Did anybody eat with you?)"
+            },
+            {
+                "id": "fr-0411",
+                "w": "confiance",
+                "p": "kɔ̃.fjɑ̃s",
+                "d": "confidence",
+                "s": "Tu ne devrais pas faire confiance à Tom. (You shouldn't trust Tom.)"
+            },
+            {
+                "id": "fr-0412",
+                "w": "appeler",
+                "p": "a.p(ə).le",
+                "d": "to call",
+                "s": "Nous devrions appeler Tom immédiatement. (We should call Tom immediately.)"
+            },
+            {
+                "id": "fr-0413",
+                "w": "années",
+                "p": "a.ne",
+                "d": "year",
+                "s": "Nous nous connaissons depuis des années. (We've known each other for years.)"
+            },
+            {
+                "id": "fr-0414",
+                "w": "vérité",
+                "p": "ve.ʁi.te",
+                "d": "truth",
+                "s": "Que s'est-il mal passé, ici, en vérité ? (What really went wrong here?)"
+            },
+            {
+                "id": "fr-0415",
+                "w": "école",
+                "p": "e.kɔl",
+                "d": "school",
+                "s": "Aimez-vous davantage la nouvelle école ? (Do you like the new school better?)"
+            },
+            {
+                "id": "fr-0416",
+                "w": "chef",
+                "p": "ʃɛf",
+                "d": "a boss",
+                "s": "Un chef d'orchestre dirige un orchestre. (A conductor directs an orchestra.)"
+            },
+            {
+                "id": "fr-0417",
+                "w": "femmes",
+                "p": "fam",
+                "d": "woman",
+                "s": "Il est attiré par les femmes asiatiques. (He's attracted to Asian women.)"
+            },
+            {
+                "id": "fr-0418",
+                "w": "propos",
+                "p": "pʁɔ.po",
+                "d": "aim, intention",
+                "s": "Je me suis disputé avec lui à ce propos. (I argued with him about it.)"
+            },
+            {
+                "id": "fr-0419",
+                "w": "semaine",
+                "p": "sə.mɛn",
+                "d": "week",
+                "s": "Je peux m'y rendre la semaine prochaine. (I can go next week.)"
+            },
+            {
+                "id": "fr-0420",
+                "w": "vivre",
+                "p": "vivʁ",
+                "d": "to live",
+                "s": "J'aimerais que nous puissions vivre ici. (I wish we could live here.)"
+            },
+            {
+                "id": "fr-0421",
+                "w": "regardez",
+                "p": "ʁəgaʁde",
+                "d": "to look at",
+                "s": "Regardez ce problème plus attentivement. (Look into the matter more carefully.)"
+            },
+            {
+                "id": "fr-0422",
+                "w": "feu",
+                "p": "fø",
+                "d": "fire",
+                "s": "Le feu de circulation est passé au vert. (The traffic light turned green.)"
+            },
+            {
+                "id": "fr-0423",
+                "w": "journée",
+                "p": "ʒuʁ.ne",
+                "d": "day",
+                "s": "Essayons de passer une chouette journée. (Let's try to have a nice day.)"
+            },
+            {
+                "id": "fr-0424",
+                "w": "madame",
+                "p": "ma.dam",
+                "d": "madam, Mrs. or Ms",
+                "s": "N'agissez pas en Madame Je-sais-tout ! (Don't act like a know-it-all.)"
+            },
+            {
+                "id": "fr-0425",
+                "w": "téléphone",
+                "p": "te.le.fɔn",
+                "d": "telephone",
+                "s": "Tom m'a demandé mon numéro de téléphone. (Tom asked for my number.)"
+            },
+            {
+                "id": "fr-0426",
+                "w": "près",
+                "p": "pʁɛ",
+                "d": "attached to",
+                "s": "Le bus s'arrête près de la bibliothèque. (The bus stops near the library.)"
+            },
+            {
+                "id": "fr-0427",
+                "w": "affaires",
+                "p": "a.fɛʁ",
+                "d": "business",
+                "s": "Ne laisse pas tes affaires derrière toi. (Don't leave your stuff behind.)"
+            },
+            {
+                "id": "fr-0428",
+                "w": "meilleur",
+                "p": "mɛ.jœʁ",
+                "d": "better",
+                "s": "Le chien est le meilleur ami de l'homme. (Dog is man's best friend.)"
+            },
+            {
+                "id": "fr-0429",
+                "w": "devez",
+                "p": "də.ve",
+                "d": "must",
+                "s": "Vous devez être la nouvelle enseignante. (You must be the new teacher.)"
+            },
+            {
+                "id": "fr-0430",
+                "w": "dessus",
+                "p": "də.sy",
+                "d": "on",
+                "s": "Trois députés se sont fait tirer dessus. (Three deputies were shot.)"
+            },
+            {
+                "id": "fr-0431",
+                "w": "mains",
+                "p": "mɛ̃",
+                "d": "hand",
+                "s": "Je suis rentré chez moi les mains vides. (I came home empty handed.)"
+            },
+            {
+                "id": "fr-0432",
+                "w": "penses",
+                "p": "pɑ̃s",
+                "d": "to think",
+                "s": "Je suis plus solide que tu ne le penses. (I'm tougher than you think.)"
+            },
+            {
+                "id": "fr-0433",
+                "w": "prie",
+                "p": "pʁi",
+                "d": "to pray",
+                "s": "Demande à quelqu'un d'autre, je te prie. (Please ask someone else.)"
+            },
+            {
+                "id": "fr-0434",
+                "w": "équipe",
+                "p": "e.kip",
+                "d": "team",
+                "s": "Notre équipe est en train de l'emporter. (Our team is winning.)"
+            },
+            {
+                "id": "fr-0435",
+                "w": "vas-y",
+                "p": "va.z‿i",
+                "d": "go ahead",
+                "s": "Vas-y. Je te rejoins dans 10 minutes. (Go ahead. I'll catch up with you in ten minutes.)"
+            },
+            {
+                "id": "fr-0436",
+                "w": "grande",
+                "p": "ɡʁɑ̃d",
+                "d": "big",
+                "s": "Est-ce que Boston est une grande ville ? (Is Boston a big city?)"
+            },
+            {
+                "id": "fr-0437",
+                "w": "manger",
+                "p": "mɑ̃.ʒe",
+                "d": "to eat",
+                "s": "Est-ce que je peux manger cette orange ? (May I eat that orange?)"
+            },
+            {
+                "id": "fr-0438",
+                "w": "arriver",
+                "p": "a.ʁi.ve",
+                "d": "to arrive",
+                "s": "Rien de tout cela n'était censé arriver. (None of this was meant to happen.)"
+            },
+            {
+                "id": "fr-0439",
+                "w": "dur",
+                "p": "dyʁ",
+                "d": "hard, tough",
+                "s": "Nous devons continuer de travailler dur. (We have to keep working hard.)"
+            },
+            {
+                "id": "fr-0440",
+                "w": "guerre",
+                "p": "ɡɛʁ",
+                "d": "war",
+                "s": "Comment pouvons-nous arrêter la guerre ? (How can we stop the war?)"
+            },
+            {
+                "id": "fr-0441",
+                "w": "ait",
+                "p": "ɛ",
+                "d": "to have",
+                "s": "Je suis heureux que cela ait fonctionné. (I'm glad this worked out.)"
+            },
+            {
+                "id": "fr-0442",
+                "w": "appelé",
+                "p": "a.ple",
+                "d": "to call",
+                "s": "Elle a appelé pendant que j'étais sorti. (She called while I was out.)"
+            },
+            {
+                "id": "fr-0443",
+                "w": "marche",
+                "p": "maʁʃ",
+                "d": "to walk",
+                "s": "Laisse-moi te montrer comment ça marche. (Let me show you how it works.)"
+            },
+            {
+                "id": "fr-0444",
+                "w": "sécurité",
+                "p": "se.ky.ʁi.te",
+                "d": "security, safety",
+                "s": "Vous sentez-vous en sécurité chez vous ? (Do you feel safe at home?)"
+            },
+            {
+                "id": "fr-0445",
+                "w": "garçon",
+                "p": "ɡaʁ.sɔ̃",
+                "d": "boy",
+                "s": "Cette fille, on dirait un garçon manqué. (That girl looks boyish.)"
+            },
+            {
+                "id": "fr-0446",
+                "w": "essaie",
+                "p": "e.sɛ",
+                "d": "to test, to try on",
+                "s": "N'importe qui peut le faire s'il essaie. (Anyone can do it if they try.)"
+            },
+            {
+                "id": "fr-0447",
+                "w": "important",
+                "p": "ɛ̃.pɔʁ.tɑ̃",
+                "d": "important",
+                "s": "Je n'ai pas pensé que c'était important. (I didn't think it was important.)"
+            },
+            {
+                "id": "fr-0448",
+                "w": "dites",
+                "p": "dit",
+                "d": "to say, to tell",
+                "s": "Dites à Tom que je ne suis pas chez moi. (Tell Tom I'm not home.)"
+            },
+            {
+                "id": "fr-0449",
+                "w": "exactement",
+                "p": "ɛɡ.zak.tə.mɑ̃",
+                "d": "exactly, quite",
+                "s": "C'est exactement ce dont j'avais besoin. (This is just what I needed.)"
+            },
+            {
+                "id": "fr-0450",
+                "w": "font",
+                "p": "fɔ̃",
+                "d": "to do",
+                "s": "Beaucoup de gens font leurs courses ici. (Many people shop here.)"
+            },
+            {
+                "id": "fr-0451",
+                "w": "fort",
+                "p": "fɔːʁ",
+                "d": "strongly",
+                "s": "Elle l'a exhorté à travailler plus fort. (She urged him to study harder.)"
+            },
+            {
+                "id": "fr-0452",
+                "w": "presque",
+                "p": "pʁɛsk",
+                "d": "almost",
+                "s": "Elle est presque tombée dans les pommes. (She almost passed out.)"
+            },
+            {
+                "id": "fr-0453",
+                "w": "plein",
+                "p": "plɛ̃",
+                "d": "full, full up",
+                "s": "Je sais que Tom est plein de ressources. (I know Tom is resourceful.)"
+            },
+            {
+                "id": "fr-0454",
+                "w": "derrière",
+                "p": "dɛ.ʁjɛʁ",
+                "d": "behind",
+                "s": "Ne laisse pas tes affaires derrière toi. (Don't leave your stuff behind.)"
+            },
+            {
+                "id": "fr-0455",
+                "w": "ben",
+                "p": "bɛ̃",
+                "d": "Well",
+                "s": ""
+            },
+            {
+                "id": "fr-0456",
+                "w": "mariage",
+                "p": "ma.ʁjaʒ",
+                "d": "marriage",
+                "s": "Il a été en retard à son propre mariage. (He was late to his own wedding.)"
+            },
+            {
+                "id": "fr-0457",
+                "w": "parents",
+                "p": "pa.ʁɑ̃",
+                "d": "relative",
+                "s": "Je suis retourné vivre avec mes parents. (I moved back in with my parents.)"
+            },
+            {
+                "id": "fr-0458",
+                "w": "capitaine",
+                "p": "ka.pi.tɛn",
+                "d": "captain, leader",
+                "s": "L'équipe a besoin d'un nouveau capitaine. (The team needs a new captain.)"
+            },
+            {
+                "id": "fr-0459",
+                "w": "dernier",
+                "p": "dɛʁ.nje",
+                "d": "last",
+                "s": "Je suis resté à la maison lundi dernier. (I stayed at home last Monday.)"
+            },
+            {
+                "id": "fr-0460",
+                "w": "fou",
+                "p": "fu",
+                "d": "mad, crazy",
+                "s": "Je pensais être en train de devenir fou. (I thought I was going crazy.)"
+            },
+            {
+                "id": "fr-0461",
+                "w": "ceux",
+                "p": "sø",
+                "d": "those",
+                "s": "La chance vient à ceux qui la cherchent. (Luck comes to those who look for it.)"
+            },
+            {
+                "id": "fr-0462",
+                "w": "tomber",
+                "p": "tɔ̃.be",
+                "d": "to fall",
+                "s": "Je pense que vous avez fait tomber ceci. (I think you dropped this.)"
+            },
+            {
+                "id": "fr-0463",
+                "w": "attendre",
+                "p": "a.tɑ̃dʁ",
+                "d": "to wait for",
+                "s": "Est-ce que vous pouvez attendre un peu ? (Can you wait a bit?)"
+            },
+            {
+                "id": "fr-0464",
+                "w": "vue",
+                "p": "vy",
+                "d": "given",
+                "s": "J'espère que personne ne m'a vue danser. (I hope no one saw me dancing.)"
+            },
+            {
+                "id": "fr-0465",
+                "w": "pensé",
+                "p": "pɑ̃.se",
+                "d": "to think",
+                "s": "J'ai pensé qu'ils nous avaient entendus. (I thought they'd heard us.)"
+            },
+            {
+                "id": "fr-0466",
+                "w": "souviens",
+                "p": "suvjɛ̃",
+                "d": "to remember",
+                "s": "Je ne m'en souviens tout simplement pas. (I just don't remember.)"
+            },
+            {
+                "id": "fr-0467",
+                "w": "envie",
+                "p": "ɑ̃.vi",
+                "d": "desire, lust, urge",
+                "s": "Aujourd'hui je n'ai pas envie d'étudier. (I don't want to study today.)"
+            },
+            {
+                "id": "fr-0468",
+                "w": "fête",
+                "p": "fɛt",
+                "d": "winter holidays",
+                "s": "Je ne suis pas d'humeur à faire la fête. (I'm not in a party mood.)"
+            },
+            {
+                "id": "fr-0469",
+                "w": "jeu",
+                "p": "ʒø",
+                "d": "game",
+                "s": "S'il te plaît laisse-moi essayer le jeu. (Please let me try the game.)"
+            },
+            {
+                "id": "fr-0470",
+                "w": "génial",
+                "p": "ʒe.njal",
+                "d": "ingenious",
+                "s": "C'est génial que tu aies remporté le prix. (It is amazing that you won the prize.)"
+            },
+            {
+                "id": "fr-0471",
+                "w": "pays",
+                "p": "pɛ.i",
+                "d": "land",
+                "s": "Les gens du pays sont très accueillants. (The locals are very hospitable.)"
+            },
+            {
+                "id": "fr-0472",
+                "w": "garde",
+                "p": "ɡaʁd",
+                "d": "to keep",
+                "s": "Elle a ignoré toutes mes mises en garde. (She ignored all my warnings.)"
+            },
+            {
+                "id": "fr-0473",
+                "w": "cours",
+                "p": "kuʁ",
+                "d": "stream of water",
+                "s": "Nous prenons le bus pour aller en cours. (We go to school by bus.)"
+            },
+            {
+                "id": "fr-0474",
+                "w": "bientôt",
+                "p": "bjɛ̃.to",
+                "d": "soon",
+                "s": "Nous allons bientôt rentrer à la maison. (We'll be going home soon.)"
+            },
+            {
+                "id": "fr-0475",
+                "w": "numéro",
+                "p": "ny.me.ʁo",
+                "d": "number",
+                "s": "Puis-je composer directement le numéro ? (Can I dial direct?)"
+            },
+            {
+                "id": "fr-0476",
+                "w": "personnes",
+                "p": "pɛʁ.sɔn",
+                "d": "person",
+                "s": "Soyez gentil envers les personnes âgées. (Be kind to old people.)"
+            },
+            {
+                "id": "fr-0477",
+                "w": "cinq",
+                "p": "sɛ̃k",
+                "d": "five",
+                "s": "J'ai besoin d'une pause de cinq minutes. (I need a five-minute break.)"
+            },
+            {
+                "id": "fr-0478",
+                "w": "parfait",
+                "p": "paʁ.fɛ",
+                "d": "to finish",
+                "s": "Nous savons tous que nul n'est parfait. (We all know no one's perfect.)"
+            },
+            {
+                "id": "fr-0479",
+                "w": "excusez-moi",
+                "p": "ɛk.sky.ze.mwa",
+                "d": "excuse me",
+                "s": "Excusez-moi, cette place est-elle prise ? (Excuse me, is this seat taken?)"
+            },
+            {
+                "id": "fr-0480",
+                "w": "laissé",
+                "p": "lɛ.se",
+                "d": "to leave",
+                "s": "Je crois que je l'ai laissé à la maison. (I think I left it at home.)"
+            },
+            {
+                "id": "fr-0481",
+                "w": "ainsi",
+                "p": "ɛ̃.si",
+                "d": "in this way, thus",
+                "s": "C'est ainsi que je me sens actuellement. (That's how I feel now.)"
+            },
+            {
+                "id": "fr-0482",
+                "w": "retour",
+                "p": "ʁə.tuʁ",
+                "d": "return",
+                "s": "Tom sera de retour la semaine prochaine. (Tom will be back next week.)"
+            },
+            {
+                "id": "fr-0483",
+                "w": "semble",
+                "p": "sɑ̃bl",
+                "d": "to seem",
+                "s": "Ce n'est pas aussi mauvais qu'il semble. (It's not as bad as it looks.)"
+            },
+            {
+                "id": "fr-0484",
+                "w": "autant",
+                "p": "o.tɑ̃",
+                "d": "so much",
+                "s": "Pourquoi t'es-tu mise autant en colère ? (Why did you get so angry?)"
+            },
+            {
+                "id": "fr-0485",
+                "w": "peine",
+                "p": "pɛn",
+                "d": "punishment",
+                "s": "Je me rappelle à peine quoi que ce soit. (I barely remember anything.)"
+            },
+            {
+                "id": "fr-0486",
+                "w": "minute",
+                "p": "mi.nyt",
+                "d": "minute",
+                "s": "Pourquoi ne restez-vous pas une minute ? (Why don't you stay a minute?)"
+            },
+            {
+                "id": "fr-0487",
+                "w": "essayé",
+                "p": "esɛje",
+                "d": "to test, to try on",
+                "s": "Est-ce que vous avez essayé les sushis ? (Have you tried sushi?)"
+            },
+            {
+                "id": "fr-0488",
+                "w": "plan",
+                "p": "plɑ̃",
+                "d": "map",
+                "s": "Avons-nous besoin d'un plan de secours ? (Do we need a Plan B?)"
+            },
+            {
+                "id": "fr-0489",
+                "w": "instant",
+                "p": "ɛ̃s.tɑ̃",
+                "d": "instant",
+                "s": "Je veux que tu te rappelles cet instant. (I want you to remember this moment.)"
+            },
+            {
+                "id": "fr-0490",
+                "w": "serai",
+                "p": "sə.ʁe",
+                "d": "to be",
+                "s": "Je ne serai pas là la semaine prochaine. (I won't be here next week.)"
+            },
+            {
+                "id": "fr-0491",
+                "w": "prison",
+                "p": "pʁi.zɔ̃",
+                "d": "prison",
+                "s": "Les criminels devraient aller en prison. (Criminals should go to jail.)"
+            },
+            {
+                "id": "fr-0492",
+                "w": "penser",
+                "p": "pɑ̃.se",
+                "d": "to think",
+                "s": "Je sais ce que tu es en train de penser. (I know what you are thinking.)"
+            },
+            {
+                "id": "fr-0493",
+                "w": "essayer",
+                "p": "e.sɛ.je",
+                "d": "to test, to try on",
+                "s": "S'il te plaît laisse-moi essayer le jeu. (Please let me try the game.)"
+            },
+            {
+                "id": "fr-0494",
+                "w": "prend",
+                "p": "pʁɑ̃",
+                "d": "to take",
+                "s": "Qu'est-ce qui prend tellement de temps ? (What's taking so long?)"
+            },
+            {
+                "id": "fr-0495",
+                "w": "arme",
+                "p": "aʁm",
+                "d": "weapon",
+                "s": "Pourquoi est-ce que tu portes une arme ? (Why are you carrying a gun?)"
+            },
+            {
+                "id": "fr-0496",
+                "w": "mauvais",
+                "p": "mo.vɛ",
+                "d": "bad",
+                "s": "Ce n'est pas si mauvais dans l'ensemble. (That isn't altogether bad.)"
+            },
+            {
+                "id": "fr-0497",
+                "w": "mot",
+                "p": "mo",
+                "d": "word",
+                "s": "Je ne crois pas un mot de ce que tu dis. (I don't believe a word you say.)"
+            },
+            {
+                "id": "fr-0498",
+                "w": "travailler",
+                "p": "tʁa.va.je",
+                "d": "to work",
+                "s": "Pourrais-je travailler à temps partiel ? (Could I work part-time?)"
+            },
+            {
+                "id": "fr-0499",
+                "w": "quatre",
+                "p": "katʁ",
+                "d": "four",
+                "s": "Je rentre habituellement à quatre heures. (I usually go home at four.)"
+            },
+            {
+                "id": "fr-0500",
+                "w": "rentrer",
+                "p": "ʁɑ̃.tʁe",
+                "d": "to go back",
+                "s": "Puis-je rentrer à la maison maintenant ? (Can I go home now?)"
+            },
+            {
+                "id": "fr-0501",
+                "w": "regarder",
+                "p": "ʁə.ɡaʁ.de",
+                "d": "to look at",
+                "s": "Je n'arrive pas à m'arrêter de regarder. (I can't stop watching.)"
+            },
+            {
+                "id": "fr-0502",
+                "w": "choix",
+                "p": "ʃwa",
+                "d": "choice",
+                "s": "Je crains que nous n'ayons pas le choix. (I'm afraid we have no choice.)"
+            },
+            {
+                "id": "fr-0503",
+                "w": "parfois",
+                "p": "paʁ.fwa",
+                "d": "sometimes",
+                "s": "Les garçons sont vraiment bêtes parfois. (Boys are really stupid sometimes.)"
+            },
+            {
+                "id": "fr-0504",
+                "w": "film",
+                "p": "film",
+                "d": "movie, film",
+                "s": "Je pense que j'ai vu ce film auparavant. (I think I've seen this movie before.)"
+            },
+            {
+                "id": "fr-0505",
+                "w": "abord",
+                "p": "a.bɔʁ",
+                "d": "the surroundings of a place",
+                "s": "Elle ne l'apprécia pas au premier abord. (She didn't like him at first.)"
+            },
+            {
+                "id": "fr-0506",
+                "w": "voyez",
+                "p": "vwa.je",
+                "d": "to see",
+                "s": "Est-ce que vous voyez un cheval noir ? (Do you see a black horse?)"
+            },
+            {
+                "id": "fr-0507",
+                "w": "faute",
+                "p": "fot",
+                "d": "error, mistake",
+                "s": "Ce n'est pas de ma faute, n'est-ce pas ? (This isn't my fault, is it?)"
+            },
+            {
+                "id": "fr-0508",
+                "w": "facile",
+                "p": "fa.sil",
+                "d": "easy, simple",
+                "s": "Il est facile de blesser ses sentiments. (Her feelings are easily hurt.)"
+            },
+            {
+                "id": "fr-0509",
+                "w": "croyais",
+                "p": "kʁwa.jɛ",
+                "d": "to believe",
+                "s": "Je croyais pouvoir vous faire confiance. (I thought I could trust you.)"
+            },
+            {
+                "id": "fr-0510",
+                "w": "bas",
+                "p": "ba",
+                "d": "low",
+                "s": "J'essaye de faire profil bas maintenant. (I try to keep a low profile now.)"
+            },
+            {
+                "id": "fr-0511",
+                "w": "changer",
+                "p": "ʃɑ̃.ʒe",
+                "d": "to exchange",
+                "s": "Cela pourrait changer l'année prochaine. (This may change next year.)"
+            },
+            {
+                "id": "fr-0512",
+                "w": "entendre",
+                "p": "ɑ̃.tɑ̃dʁ",
+                "d": "to hear",
+                "s": "A entendre, cela me paraît très étrange. (It sounds very strange to me.)"
+            },
+            {
+                "id": "fr-0513",
+                "w": "plaisir",
+                "p": "plɛ.ziʁ",
+                "d": "pleasure",
+                "s": "J'ai pensé que cela vous ferait plaisir. (I thought you'd be pleased.)"
+            },
+            {
+                "id": "fr-0514",
+                "w": "heureux",
+                "p": "œ.ʁø",
+                "d": "happy",
+                "s": "Je suis heureux que les gens l’aient vu. (I'm glad people saw it.)"
+            },
+            {
+                "id": "fr-0515",
+                "w": "entrer",
+                "p": "ɑ̃.tʁe",
+                "d": "to enter",
+                "s": "Elle lui demanda de bien vouloir entrer. (She invited him in.)"
+            },
+            {
+                "id": "fr-0516",
+                "w": "voudrais",
+                "p": "vu.dʁɛ",
+                "d": "to want",
+                "s": "Je pensais que tu voudrais le récupérer. (I thought you'd want it back.)"
+            },
+            {
+                "id": "fr-0517",
+                "w": "propre",
+                "p": "pʁɔpʁ",
+                "d": "own",
+                "s": "Il a été en retard à son propre mariage. (He was late to his own wedding.)"
+            },
+            {
+                "id": "fr-0518",
+                "w": "étiez",
+                "p": "e.tje",
+                "d": "to be",
+                "s": "J'ai entendu dire que vous étiez échoué. (I hear you were grounded.)"
+            },
+            {
+                "id": "fr-0519",
+                "w": "tour",
+                "p": "tuʁ",
+                "d": "tower",
+                "s": "C'est à votre tour de battre les cartes. (It's your turn to shuffle.)"
+            },
+            {
+                "id": "fr-0520",
+                "w": "fera",
+                "p": "fə.ʁa",
+                "d": "to do",
+                "s": "Un peu de travail ne te fera pas de mal. (A little work won't hurt you.)"
+            },
+            {
+                "id": "fr-0521",
+                "w": "ensuite",
+                "p": "ɑ̃.sɥit",
+                "d": "in turn",
+                "s": "Et ensuite, qu'est-ce qui va se passer ? (And then what'll happen?)"
+            },
+            {
+                "id": "fr-0522",
+                "w": "garder",
+                "p": "ɡaʁ.de",
+                "d": "to keep",
+                "s": "Je suis mauvais pour garder les secrets. (I'm bad at keeping secrets.)"
+            },
+            {
+                "id": "fr-0523",
+                "w": "agent",
+                "p": "a.ʒɑ̃",
+                "d": "agent",
+                "s": "Un agent secret infiltra l'organisation. (An undercover operative infiltrated the organization.)"
+            },
+            {
+                "id": "fr-0524",
+                "w": "allait",
+                "p": "a.lɛ",
+                "d": "to go",
+                "s": "Tu savais que ceci allait arriver, non ? (You knew this was going to happen, right?)"
+            },
+            {
+                "id": "fr-0525",
+                "w": "lit",
+                "p": "li",
+                "d": "bed",
+                "s": "Elles disposent d'un lit supplémentaire. (They have an extra bed.)"
+            },
+            {
+                "id": "fr-0526",
+                "w": "travaille",
+                "p": "tʁavaj",
+                "d": "to work",
+                "s": "Je pense que c'est là que Tom travaille. (I think that's where Tom works.)"
+            },
+            {
+                "id": "fr-0527",
+                "w": "adore",
+                "p": "a.dɔʁ",
+                "d": "to love, to adore",
+                "s": "C'est un homme qui adore les cérémonies. (He is a man who loves ceremonies.)"
+            },
+            {
+                "id": "fr-0528",
+                "w": "amie",
+                "p": "a.mi",
+                "d": "friend",
+                "s": "Je suis tombée sur une amie dans le bus. (I ran into a friend on the bus.)"
+            },
+            {
+                "id": "fr-0529",
+                "w": "rendre",
+                "p": "ʁɑ̃dʁ",
+                "d": "to return",
+                "s": "Je peux m'y rendre la semaine prochaine. (I can go next week.)"
+            },
+            {
+                "id": "fr-0530",
+                "w": "allons-y",
+                "p": "a.lɔ̃.z‿i",
+                "d": "let's go",
+                "s": "Allons-y dès qu'il s'arrêtera de pleuvoir. (Let's go as soon as it stops raining.)"
+            },
+            {
+                "id": "fr-0531",
+                "w": "route",
+                "p": "ʁut",
+                "d": "road",
+                "s": "Ma voiture est tombée en panne en route. (My car broke down on the way.)"
+            },
+            {
+                "id": "fr-0532",
+                "w": "lieu",
+                "p": "ljø",
+                "d": "place",
+                "s": "Quand ton premier amour a-t-il eu lieu ? (When was your first love?)"
+            },
+            {
+                "id": "fr-0533",
+                "w": "année",
+                "p": "a.ne",
+                "d": "year",
+                "s": "Je pense que ça va être une bonne année. (I think it's going to be a good year.)"
+            },
+            {
+                "id": "fr-0534",
+                "w": "voit",
+                "p": "vwa",
+                "d": "to see",
+                "s": "Tout ce qu'il voit éveille sa curiosité. (Everything he sees arouses his curiosity.)"
+            },
+            {
+                "id": "fr-0535",
+                "w": "commence",
+                "p": "kɔ.mɑ̃s",
+                "d": "to begin, commence",
+                "s": "L'école commence à huit heures et demie. (School begins at 8:30 a.m.)"
+            },
+            {
+                "id": "fr-0536",
+                "w": "service",
+                "p": "sɛʁ.vis",
+                "d": "service",
+                "s": "J'ai besoin que tu me rendes un service. (I need you to do me a favor.)"
+            },
+            {
+                "id": "fr-0537",
+                "w": "devoir",
+                "p": "də.vwaʁ",
+                "d": "must",
+                "s": "Il est de notre devoir d'obéir à la loi. (It's our duty to obey the law.)"
+            },
+            {
+                "id": "fr-0538",
+                "w": "attend",
+                "p": "a.tɑ̃",
+                "d": "to wait for",
+                "s": "Tom attend l'appel téléphonique de Mary. (Tom is waiting for Mary's call.)"
+            },
+            {
+                "id": "fr-0539",
+                "w": "drôle",
+                "p": "dʁol",
+                "d": "funny, amusing",
+                "s": "Tom et Marie forment un drôle de couple. (Tom and Mary make an odd pair.)"
+            },
+            {
+                "id": "fr-0540",
+                "w": "difficile",
+                "p": "di.fi.sil",
+                "d": "difficult",
+                "s": "Vous n'avez pas été difficile à trouver. (You weren't hard to find.)"
+            },
+            {
+                "id": "fr-0541",
+                "w": "sûre",
+                "p": "syʁ",
+                "d": "sure, certain",
+                "s": "Comment peux-tu en être tellement sûre ? (How can you be so sure?)"
+            },
+            {
+                "id": "fr-0542",
+                "w": "pire",
+                "p": "piʁ",
+                "d": "worse",
+                "s": "Que se passe-t-il dans le pire des cas ? (What's the worst-case scenario?)"
+            },
+            {
+                "id": "fr-0543",
+                "w": "peuvent",
+                "p": "pœv",
+                "d": "can, to be able to",
+                "s": "Êtes-vous sûrs qu'ils peuvent faire ça ? (Are you sure they can do that?)"
+            },
+            {
+                "id": "fr-0544",
+                "w": "sujet",
+                "p": "sy.ʒɛ",
+                "d": "subject",
+                "s": "Ne vous faites pas de souci à ce sujet ! (Don't worry about it!)"
+            },
+            {
+                "id": "fr-0545",
+                "w": "état",
+                "p": "e.ta",
+                "d": "state, condition",
+                "s": "Il était en état d'ébriété et en colère. (He was drunk and angry.)"
+            },
+            {
+                "id": "fr-0546",
+                "w": "ceci",
+                "p": "sə.si",
+                "d": "this",
+                "s": "Nous ne pouvons pas nous permettre ceci. (We can't afford this.)"
+            },
+            {
+                "id": "fr-0547",
+                "w": "impossible",
+                "p": "ɛ̃.pɔ.sibl",
+                "d": "impossible",
+                "s": "Cela paraît impossible, mais c'est vrai. (It sounds impossible, but it's true.)"
+            },
+            {
+                "id": "fr-0548",
+                "w": "sorte",
+                "p": "sɔʁt",
+                "d": "sort, kind, type",
+                "s": "En vendez-vous beaucoup de cette sorte ? (Do you sell a lot of these?)"
+            },
+            {
+                "id": "fr-0549",
+                "w": "perdre",
+                "p": "pɛʁdʁ",
+                "d": "to lose",
+                "s": "Elle lui a conseillé de perdre du poids. (She advised him to lose weight.)"
+            },
+            {
+                "id": "fr-0550",
+                "w": "dollars",
+                "p": "dolaʁ",
+                "d": "dollar",
+                "s": "Cela fera sept dollars, s'il vous plaît. (That'll be seven dollars, please.)"
+            },
+            {
+                "id": "fr-0551",
+                "w": "voulu",
+                "p": "vuly",
+                "d": "to want",
+                "s": "Je n'ai pas voulu vous casser les pieds. (I didn't want to bug you.)"
+            },
+            {
+                "id": "fr-0552",
+                "w": "morte",
+                "p": "mɔʁt",
+                "d": "dead",
+                "s": "Elle est morte dans un accident d'avion. (She died in a plane crash.)"
+            },
+            {
+                "id": "fr-0553",
+                "w": "ira",
+                "p": "i.ʁa",
+                "d": "to go",
+                "s": "Ne te fais pas de souci ! Tout ira bien. (Don't worry. Everything will be fine.)"
+            },
+            {
+                "id": "fr-0554",
+                "w": "faisait",
+                "p": "fə.zɛ",
+                "d": "to do",
+                "s": "La musique swing faisait partie du jazz. (Swing music was a type of jazz.)"
+            },
+            {
+                "id": "fr-0555",
+                "w": "bizarre",
+                "p": "bi.zaʁ",
+                "d": "bizarre",
+                "s": "J'ai toujours pensé que c'était bizarre. (I always thought it was weird.)"
+            },
+            {
+                "id": "fr-0556",
+                "w": "oublié",
+                "p": "u.bli.je",
+                "d": "to forget",
+                "s": "Vous avez oublié d'acheter de la salade. (You forgot to buy lettuce.)"
+            },
+            {
+                "id": "fr-0557",
+                "w": "arrêtez",
+                "p": "a.ʁɛ.te",
+                "d": "to stop",
+                "s": "Arrêtez de vous conduire comme un bébé ! (Quit acting like a baby.)"
+            },
+            {
+                "id": "fr-0558",
+                "w": "ferai",
+                "p": "fə.ʁe",
+                "d": "to do",
+                "s": "Je ne ferai pas semblant d'être désolée. (I won't pretend I'm sorry.)"
+            },
+            {
+                "id": "fr-0559",
+                "w": "serais",
+                "p": "sə.ʁɛ",
+                "d": "to be",
+                "s": "Je pensais que je serais trop en retard. (I thought I'd be too late.)"
+            },
+            {
+                "id": "fr-0560",
+                "w": "tôt",
+                "p": "to",
+                "d": "early",
+                "s": "Quand pouvez-vous démarrer au plus tôt ? (How soon can you start?)"
+            },
+            {
+                "id": "fr-0561",
+                "w": "inquiète",
+                "p": "ɛ̃.kjɛt",
+                "d": "to worry",
+                "s": "Elle est inquiète pour votre sécurité. (She's worried about your safety.)"
+            },
+            {
+                "id": "fr-0562",
+                "w": "payer",
+                "p": "pɛ.je",
+                "d": "to pay",
+                "s": "Je dois payer cette facture aujourd'hui. (I have to pay this bill today.)"
+            },
+            {
+                "id": "fr-0563",
+                "w": "coeur",
+                "p": "kœʁ",
+                "d": "heart",
+                "s": ""
+            },
+            {
+                "id": "fr-0564",
+                "w": "dès",
+                "p": "dɛ",
+                "d": "from onward",
+                "s": "Je vous rembourserai dès que je le peux. (I'll pay you back as soon as I can.)"
+            },
+            {
+                "id": "fr-0565",
+                "w": "pouvais",
+                "p": "pu.vɛ",
+                "d": "can, to be able to",
+                "s": "Je ne pouvais pas m'empêcher de bâiller. (I couldn't help yawning.)"
+            },
+            {
+                "id": "fr-0566",
+                "w": "reviens",
+                "p": "ʁəvjɛ̃",
+                "d": "to come back",
+                "s": "Je veux que tu sois là quand je reviens. (I want you to be here when I get back.)"
+            },
+            {
+                "id": "fr-0567",
+                "w": "chien",
+                "p": "ʃjɛ̃",
+                "d": "dog",
+                "s": "Le chien est le meilleur ami de l'homme. (Dog is man's best friend.)"
+            },
+            {
+                "id": "fr-0568",
+                "w": "suffit",
+                "p": "sy.fi",
+                "d": "to be enough",
+                "s": "Si tu veux savoir, il suffit de demander. (If you want to know, just ask.)"
+            },
+            {
+                "id": "fr-0569",
+                "w": "prenez",
+                "p": "pʁə.ne",
+                "d": "to take",
+                "s": "Est-ce que vous prenez des médicaments ? (Are you on medication?)"
+            },
+            {
+                "id": "fr-0570",
+                "w": "pensez",
+                "p": "pɑ̃.se",
+                "d": "to think",
+                "s": "Faites ce que vous pensez être le mieux. (Do what you think is best.)"
+            },
+            {
+                "id": "fr-0571",
+                "w": "café",
+                "p": "ka.fe",
+                "d": "coffee",
+                "s": "En temps normal, je ne bois pas de café. (I normally don't drink coffee.)"
+            },
+            {
+                "id": "fr-0572",
+                "w": "calme",
+                "p": "kalm",
+                "d": "calmness, stillness",
+                "s": "Pourquoi tout le monde est-il si calme ? (Why's everybody so quiet?)"
+            },
+            {
+                "id": "fr-0573",
+                "w": "cherche",
+                "p": "ʃɛʁʃ",
+                "d": "to look for, to seek",
+                "s": "Je cherche un nouvel endroit pour vivre. (I'm looking for a new place to live.)"
+            },
+            {
+                "id": "fr-0574",
+                "w": "montrer",
+                "p": "mɔ̃.tʁe",
+                "d": "to show",
+                "s": "Pourriez-vous me montrer cette cravate ? (Could you show me that tie?)"
+            },
+            {
+                "id": "fr-0575",
+                "w": "parles",
+                "p": "paʁl",
+                "d": "to speak, talk",
+                "s": "Je n'aime pas la façon dont tu me parles. (I don't like the way you talk to me.)"
+            },
+            {
+                "id": "fr-0576",
+                "w": "photo",
+                "p": "fɔ.to",
+                "d": "photo",
+                "s": "J'aimerais disposer d'un appareil photo. (I wish I had a camera.)"
+            },
+            {
+                "id": "fr-0577",
+                "w": "ferme",
+                "p": "fɛʁm",
+                "d": "roof truss",
+                "s": "Ferme doucement la porte, s'il te plaît. (Please close the door quietly.)"
+            },
+            {
+                "id": "fr-0578",
+                "w": "problèmes",
+                "p": "pʁɔ.blɛm",
+                "d": "problem",
+                "s": "Tom avait des problèmes avec sa voiture. (Tom was having car trouble.)"
+            },
+            {
+                "id": "fr-0579",
+                "w": "cœur",
+                "p": "kœʁ",
+                "d": "heart",
+                "s": "Je vais essayer de l'apprendre par cœur. (I'll try to learn it by heart.)"
+            },
+            {
+                "id": "fr-0580",
+                "w": "sûrement",
+                "p": "syʁ.mɑ̃",
+                "d": "surely, certainly",
+                "s": "Il est sûrement en retard pour l'école. (He is likely to be late for school.)"
+            },
+            {
+                "id": "fr-0581",
+                "w": "verre",
+                "p": "vɛʁ",
+                "d": "glass",
+                "s": "Le verre est fabriqué à partir de sable. (Glass is made from sand.)"
+            },
+            {
+                "id": "fr-0582",
+                "w": "aimes",
+                "p": "ɛm",
+                "d": "to love",
+                "s": "Est-ce que tu aimes ta nouvelle maison ? (Do you like your new house?)"
+            },
+            {
+                "id": "fr-0583",
+                "w": "devons",
+                "p": "də.vɔ̃",
+                "d": "must",
+                "s": "C'est un risque que nous devons prendre. (It's a risk we must take.)"
+            },
+            {
+                "id": "fr-0584",
+                "w": "veulent",
+                "p": "vœl",
+                "d": "to want",
+                "s": "Ils veulent tous les deux la même chose. (They both want the same thing.)"
+            },
+            {
+                "id": "fr-0585",
+                "w": "doute",
+                "p": "dut",
+                "d": "doubt",
+                "s": "Je doute que Tom ait vraiment fait cela. (I doubt Tom has actually done that.)"
+            },
+            {
+                "id": "fr-0586",
+                "w": "musique",
+                "p": "my.zik",
+                "d": "music",
+                "s": "Tom a donné une boîte à musique à Marie. (Tom gave Mary a music box.)"
+            },
+            {
+                "id": "fr-0587",
+                "w": "courant",
+                "p": "ku.ʁɑ̃",
+                "d": "current",
+                "s": "Tous les garçons sont partis en courant. (All the boys ran away.)"
+            },
+            {
+                "id": "fr-0588",
+                "w": "sauf",
+                "p": "sof",
+                "d": "except, save",
+                "s": "Je suis libre tous les jours sauf lundi. (I'm free every day but Monday.)"
+            },
+            {
+                "id": "fr-0589",
+                "w": "moyen",
+                "p": "mwa.jɛ̃",
+                "d": "method, way of doing",
+                "s": "Nous n'avons aucun moyen de les arrêter. (We have no way of stopping them.)"
+            },
+            {
+                "id": "fr-0590",
+                "w": "nouvelles",
+                "p": "nu.vɛl",
+                "d": "news",
+                "s": "Personne n'aime les mauvaises nouvelles. (Nobody likes bad news.)"
+            },
+            {
+                "id": "fr-0591",
+                "w": "puis-je",
+                "p": "pɥi.ʒə",
+                "d": "I",
+                "s": "Puis-je composer directement le numéro ? (Can I dial direct?)"
+            },
+            {
+                "id": "fr-0592",
+                "w": "avis",
+                "p": "a.vi",
+                "d": "opinion",
+                "s": "Qui remportera la victoire, à ton avis ? (Who do you think will win?)"
+            },
+            {
+                "id": "fr-0593",
+                "w": "sauver",
+                "p": "so.ve",
+                "d": "to save, rescue",
+                "s": "Elle a fait de son mieux pour le sauver. (She did her best to rescue him.)"
+            },
+            {
+                "id": "fr-0594",
+                "w": "hôpital",
+                "p": "o.pi.tal",
+                "d": "hospital",
+                "s": "Il fut transporté vers un hôpital local. (He was transported to a local hospital.)"
+            },
+            {
+                "id": "fr-0595",
+                "w": "questions",
+                "p": "kɛs.tjɔ̃",
+                "d": "question",
+                "s": "Nous avons quelques questions pour vous. (We have some questions for you.)"
+            },
+            {
+                "id": "fr-0596",
+                "w": "meurtre",
+                "p": "mœʁtʁ",
+                "d": "murder",
+                "s": "Ils le qualifièrent de meurtre de masse. (They called it mass murder.)"
+            },
+            {
+                "id": "fr-0597",
+                "w": "sérieux",
+                "p": "se.ʁjø",
+                "d": "serious",
+                "s": "Nous ne pensons pas que ce soit sérieux. (We don't think it's serious.)"
+            },
+            {
+                "id": "fr-0598",
+                "w": "seconde",
+                "p": "sə.ɡɔ̃d",
+                "d": "second",
+                "s": "Est-ce que je peux te voir une seconde ? (Can I see you for a second?)"
+            },
+            {
+                "id": "fr-0599",
+                "w": "trucs",
+                "p": "tʁyk",
+                "d": "procedure, technique",
+                "s": "Voulez-vous un quelconque de ces trucs ? (Do you want any of this stuff?)"
+            },
+            {
+                "id": "fr-0600",
+                "w": "comprendre",
+                "p": "kɔ̃.pʁɑ̃dʁ",
+                "d": "to understand",
+                "s": "Je viens de comprendre comment le faire. (I just figured out how to do it.)"
+            },
+            {
+                "id": "fr-0601",
+                "w": "allais",
+                "p": "a.lɛ",
+                "d": "to go",
+                "s": "Je voulais m'assurer que tu allais bien. (I wanted to make sure you were all right.)"
+            },
+            {
+                "id": "fr-0602",
+                "w": "esprit",
+                "p": "ɛs.pʁi",
+                "d": "immaterial or incorporeal substance",
+                "s": "Je ne peux pas l'enlever de mon esprit. (I can't get her out of my mind.)"
+            },
+            {
+                "id": "fr-0603",
+                "w": "cool",
+                "p": "kul",
+                "d": "cool",
+                "s": "Nous sommes complètement cool avec ça. (We're totally cool with that.)"
+            },
+            {
+                "id": "fr-0604",
+                "w": "marché",
+                "p": "maʁ.ʃe",
+                "d": "market",
+                "s": "Je suis fatigué d'avoir beaucoup marché. (I'm tired from the long walk.)"
+            },
+            {
+                "id": "fr-0605",
+                "w": "fous",
+                "p": "fu",
+                "d": "to do",
+                "s": "Qu'est-ce que tu fous dans ma voiture ? (What are you doing in my car?)"
+            },
+            {
+                "id": "fr-0606",
+                "w": "haut",
+                "p": "o",
+                "d": "top",
+                "s": "Elles se tenaient au haut de la colline. (They stood on the hilltop.)"
+            },
+            {
+                "id": "fr-0607",
+                "w": "salle",
+                "p": "sal",
+                "d": "hall",
+                "s": "Pouvez-vous me rejoindre dans la salle ? (Can you meet me in the auditorium?)"
+            },
+            {
+                "id": "fr-0608",
+                "w": "malade",
+                "p": "ma.lad",
+                "d": "ill, unwell, sick",
+                "s": "Combien de jours Tom a-t-il été malade ? (How many days was Tom sick?)"
+            },
+            {
+                "id": "fr-0609",
+                "w": "changé",
+                "p": "ʃɑ̃.ʒe",
+                "d": "to exchange",
+                "s": "De toute façon, ça n'aurait rien changé. (It wouldn't have mattered anyway.)"
+            },
+            {
+                "id": "fr-0610",
+                "w": "gentil",
+                "p": "ʒɑ̃.ti",
+                "d": "kind, sweet",
+                "s": "Soyez gentil envers les personnes âgées. (Be kind to old people.)"
+            },
+            {
+                "id": "fr-0611",
+                "w": "allé",
+                "p": "a.le",
+                "d": "to go",
+                "s": "Après le repas, je suis allé me coucher. (I went to bed after eating.)"
+            },
+            {
+                "id": "fr-0612",
+                "w": "six",
+                "p": "sis",
+                "d": "six",
+                "s": "Je me lève à six heures tous les matins. (I get up at six every morning.)"
+            },
+            {
+                "id": "fr-0613",
+                "w": "simple",
+                "p": "sɛ̃pl",
+                "d": "single",
+                "s": "Je n’ai jamais dit que ça serait simple. (I never said it would be simple.)"
+            },
+            {
+                "id": "fr-0614",
+                "w": "semaines",
+                "p": "səmɛn",
+                "d": "week",
+                "s": "Cela pourrait prendre quelques semaines. (It could take a few weeks.)"
+            },
+            {
+                "id": "fr-0615",
+                "w": "celle",
+                "p": "sɛl",
+                "d": "the one",
+                "s": "Quelle voiture est celle de votre père ? (Which car is your father's?)"
+            },
+            {
+                "id": "fr-0616",
+                "w": "appris",
+                "p": "a.pʁi",
+                "d": "to learn",
+                "s": "Je pense avoir vraiment beaucoup appris. (I think I really learned a lot.)"
+            },
+            {
+                "id": "fr-0617",
+                "w": "seigneur",
+                "p": "sɛ.ɲœʁ",
+                "d": "lord",
+                "s": ""
+            },
+            {
+                "id": "fr-0618",
+                "w": "dîner",
+                "p": "di.ne",
+                "d": "dinner, evening meal",
+                "s": "Maman, est-ce que Tom peut rester dîner? (Mom, can Tom stay for dinner?)"
+            },
+            {
+                "id": "fr-0619",
+                "w": "sors",
+                "p": "sɔʁ",
+                "d": "to exit",
+                "s": "Je ne sors presque jamais ces jours-ci. (I hardly ever go out nowadays.)"
+            },
+            {
+                "id": "fr-0620",
+                "w": "commencé",
+                "p": "kɔ.mɑ̃.se",
+                "d": "to begin, commence",
+                "s": "Il a commencé la journée de bonne heure. (He started early in the morning.)"
+            },
+            {
+                "id": "fr-0621",
+                "w": "suppose",
+                "p": "sypoz",
+                "d": "to suppose",
+                "s": "Je suppose que je suis devenu paresseux. (I guess I've gotten lazy.)"
+            },
+            {
+                "id": "fr-0622",
+                "w": "chemin",
+                "p": "ʃə.mɛ̃",
+                "d": "path, way, road",
+                "s": "Indiquez-moi le chemin, s'il vous plaît. (Show me the way, please.)"
+            },
+            {
+                "id": "fr-0623",
+                "w": "partout",
+                "p": "paʁ.tu",
+                "d": "everywhere",
+                "s": "Un chien courait partout dans le jardin. (A dog ran around in the garden.)"
+            },
+            {
+                "id": "fr-0624",
+                "w": "bras",
+                "p": "bʁa",
+                "d": "arm",
+                "s": "Le policier se saisit du bras du voleur. (The policeman grabbed the robber's arm.)"
+            },
+            {
+                "id": "fr-0625",
+                "w": "cul",
+                "p": "ky",
+                "d": "the bottom, rear",
+                "s": "Elle est née le cul bordé de nouilles. (She was born lucky.)"
+            },
+            {
+                "id": "fr-0626",
+                "w": "prochaine",
+                "p": "pʁɔ.ʃɛn",
+                "d": "upcoming",
+                "s": "Je peux m'y rendre la semaine prochaine. (I can go next week.)"
+            },
+            {
+                "id": "fr-0627",
+                "w": "visage",
+                "p": "vi.zaʒ",
+                "d": "face",
+                "s": "Je n'ai pas pu voir le visage de Thomas. (I couldn't see Tom's face.)"
+            },
+            {
+                "id": "fr-0628",
+                "w": "meilleure",
+                "p": "mɛ.jœʁ",
+                "d": "best",
+                "s": "Je te souhaite la meilleure des chances. (Best of luck to you.)"
+            },
+            {
+                "id": "fr-0629",
+                "w": "face",
+                "p": "fas",
+                "d": "face",
+                "s": "Tenez-vous face à face, s'il vous plaît. (Please stand face to face.)"
+            },
+            {
+                "id": "fr-0630",
+                "w": "soirée",
+                "p": "swa.ʁe",
+                "d": "evening",
+                "s": "Combien de temps as-tu été à la soirée ? (How long were you at the party?)"
+            },
+            {
+                "id": "fr-0631",
+                "w": "roi",
+                "p": "ʁwa",
+                "d": "king",
+                "s": "Au pays des aveugles, le borgne est roi. (In the land of the blind, the one-eyed man is king.)"
+            },
+            {
+                "id": "fr-0632",
+                "w": "surtout",
+                "p": "syʁ.tu",
+                "d": "above all",
+                "s": "J'aime la musique, surtout classique. (I love music, particularly classical.)"
+            },
+            {
+                "id": "fr-0633",
+                "w": "retard",
+                "p": "ʁə.taʁ",
+                "d": "delay",
+                "s": "Je ne suis pas en retard, n'est-ce pas ? (I'm not late, am I?)"
+            },
+            {
+                "id": "fr-0634",
+                "w": "écrit",
+                "p": "e.kʁi",
+                "d": "to write",
+                "s": "Je ne sais pas qui a écrit cette lettre. (I don't know who wrote this letter.)"
+            },
+            {
+                "id": "fr-0635",
+                "w": "livre",
+                "p": "livʁ",
+                "d": "book",
+                "s": "Où se trouve le livre dont j'ai besoin ? (Where's the book I need?)"
+            },
+            {
+                "id": "fr-0636",
+                "w": "rapport",
+                "p": "ʁa.pɔʁ",
+                "d": "ratio",
+                "s": "J'ai seulement lu une partie du rapport. (I only read part of the report.)"
+            },
+            {
+                "id": "fr-0637",
+                "w": "chéri",
+                "p": "ʃe.ʁi",
+                "d": "dear",
+                "s": "J'ai une surprise pour toi, mon chéri. (I have a surprise for you, sweetheart.)"
+            },
+            {
+                "id": "fr-0638",
+                "w": "message",
+                "p": "mɛ.saʒ",
+                "d": "message",
+                "s": "Je n'arrive pas à déchiffrer ce message. (I can't decipher this message.)"
+            },
+            {
+                "id": "fr-0639",
+                "w": "vaut",
+                "p": "vo",
+                "d": "to be worth",
+                "s": "Est-ce que ça vaut le coup de le faire ? (Is this worth doing?)"
+            },
+            {
+                "id": "fr-0640",
+                "w": "ferais",
+                "p": "fə.ʁɛ",
+                "d": "to do",
+                "s": "Tu ferais mieux de commencer maintenant. (You'd better start now.)"
+            },
+            {
+                "id": "fr-0641",
+                "w": "morts",
+                "p": "mɔʁ",
+                "d": "dead person",
+                "s": "Les morts ne racontent pas d'histoires. (Dead men tell no tales.)"
+            },
+            {
+                "id": "fr-0642",
+                "w": "boire",
+                "p": "bwaʁ",
+                "d": "to drink",
+                "s": "Je pensais que tu avais arrêté de boire. (I thought you quit drinking.)"
+            },
+            {
+                "id": "fr-0643",
+                "w": "soyez",
+                "p": "swa.je",
+                "d": "to be",
+                "s": "Ne soyez pas en retard, s'il vous plaît. (Please don't be late.)"
+            },
+            {
+                "id": "fr-0644",
+                "w": "président",
+                "p": "pʁe.zi.dɑ̃",
+                "d": "president",
+                "s": "Le Président prend ses fonctions demain. (The president takes office tomorrow.)"
+            },
+            {
+                "id": "fr-0645",
+                "w": "plait",
+                "p": "plɛ",
+                "d": "post-1990 spelling of plaît",
+                "s": "Abstenez-vous de fumer, s'il vous plait. (Please refrain from smoking.)"
+            },
+            {
+                "id": "fr-0646",
+                "w": "bois",
+                "p": "bwa",
+                "d": "wood",
+                "s": "Il nous faut davantage de bois à brûler. (We need some more firewood.)"
+            },
+            {
+                "id": "fr-0647",
+                "w": "sinon",
+                "p": "si.nɔ̃",
+                "d": "except, apart from",
+                "s": "Dépêche-toi ! Sinon, on va rater le bus. (Hurry up, or we'll miss the bus.)"
+            },
+            {
+                "id": "fr-0648",
+                "w": "erreur",
+                "p": "e.ʁœʁ",
+                "d": "error",
+                "s": "Tout le monde peut commettre une erreur. (Anyone can make a mistake.)"
+            },
+            {
+                "id": "fr-0649",
+                "w": "rentre",
+                "p": "ʁɑ̃tʁ",
+                "d": "to go back",
+                "s": "Attends que ton père rentre à la maison. (Wait until your father gets home.)"
+            },
+            {
+                "id": "fr-0650",
+                "w": "rendez-vous",
+                "p": "ʁɑ̃.de.vu",
+                "d": "date",
+                "s": "Mon rendez-vous est dans trente minutes. (My appointment is in thirty minutes.)"
+            },
+            {
+                "id": "fr-0651",
+                "w": "devait",
+                "p": "də.vɛ",
+                "d": "must",
+                "s": "Que se passerait-il s'il devait échouer ? (What if he should fail?)"
+            },
+            {
+                "id": "fr-0652",
+                "w": "revenir",
+                "p": "ʁə.v(ə).niʁ",
+                "d": "to come back",
+                "s": "Nous devrions demander à Tom de revenir. (We should ask Tom to come back.)"
+            },
+            {
+                "id": "fr-0653",
+                "w": "joue",
+                "p": "ʒu",
+                "d": "to play",
+                "s": "Vous avez du rouge-à-lèvres sur la joue. (You have lipstick on your cheek.)"
+            },
+            {
+                "id": "fr-0654",
+                "w": "pauvre",
+                "p": "povʁ",
+                "d": "poor",
+                "s": "Je préfère être pauvre plutôt que riche. (I'd rather be poor than rich.)"
+            },
+            {
+                "id": "fr-0655",
+                "w": "devenir",
+                "p": "də.v(ə).niʁ",
+                "d": "to become",
+                "s": "Je pensais être en train de devenir fou. (I thought I was going crazy.)"
+            },
+            {
+                "id": "fr-0656",
+                "w": "rencontrer",
+                "p": "ʁɑ̃.kɔ̃.tʁe",
+                "d": "to meet",
+                "s": "Je suis très heureux de vous rencontrer. (I'm very glad to meet you.)"
+            },
+            {
+                "id": "fr-0657",
+                "w": "sort",
+                "p": "sɔʁ",
+                "d": "to exit",
+                "s": "Notre nouveau prof sort juste de la fac. (Our new teacher is fresh out of college.)"
+            },
+            {
+                "id": "fr-0658",
+                "w": "commencer",
+                "p": "kɔ.mɑ̃.se",
+                "d": "to begin, commence",
+                "s": "Tu ferais mieux de commencer maintenant. (You'd better start now.)"
+            },
+            {
+                "id": "fr-0659",
+                "w": "pouvait",
+                "p": "pu.vɛ",
+                "d": "can, to be able to",
+                "s": "Je savais que Tom ne pouvait pas danser. (I knew Tom couldn't dance.)"
+            },
+            {
+                "id": "fr-0660",
+                "w": "occupe",
+                "p": "ɔ.kyp",
+                "d": "to occupy",
+                "s": "Elle occupe le poste de trésorière du club. (She serves as the club treasurer.)"
+            },
+            {
+                "id": "fr-0661",
+                "w": "entends",
+                "p": "ɑ̃.tɑ̃",
+                "d": "to hear",
+                "s": "Peux tu me dire ce que tu entends par ça. (Can you tell me what you mean by that?)"
+            },
+            {
+                "id": "fr-0662",
+                "w": "souvent",
+                "p": "su.vɑ̃",
+                "d": "often",
+                "s": "Je ne regarde pas souvent la télévision. (I don't watch TV often.)"
+            },
+            {
+                "id": "fr-0663",
+                "w": "pièce",
+                "p": "pjɛs",
+                "d": "room in a house",
+                "s": "Il n'y avait pas un bruit dans la pièce. (The room was quiet.)"
+            },
+            {
+                "id": "fr-0664",
+                "w": "reçu",
+                "p": "ʁə.sy",
+                "d": "to receive",
+                "s": "Elle n'a pas reçu de réponse de sa part. (She got no answer from him.)"
+            },
+            {
+                "id": "fr-0665",
+                "w": "grave",
+                "p": "ɡʁav",
+                "d": "serious",
+                "s": "Il va se passer quelque chose de grave. (Something bad is about to happen.)"
+            },
+            {
+                "id": "fr-0666",
+                "w": "mets",
+                "p": "mɛ",
+                "d": "to put",
+                "s": "Ne te mets pas en colère, s'il te plaît. (Please don't be mad.)"
+            },
+            {
+                "id": "fr-0667",
+                "w": "intérieur",
+                "p": "ɛ̃.te.ʁjœʁ",
+                "d": "interior, inside",
+                "s": ""
+            },
+            {
+                "id": "fr-0668",
+                "w": "honneur",
+                "p": "ɔ.nœʁ",
+                "d": "honor",
+                "s": "Honneur à celui auquel l'honneur est dû. (Give credit where credit is due.)"
+            },
+            {
+                "id": "fr-0669",
+                "w": "dormir",
+                "p": "dɔʁ.miʁ",
+                "d": "to sleep",
+                "s": "J'espère que tu seras capable de dormir. (I hope you'll be able to sleep.)"
+            },
+            {
+                "id": "fr-0670",
+                "w": "an",
+                "p": "ɑ̃",
+                "d": "year",
+                "s": "Elle lui a rendu visite une fois par an. (She visited him once a year.)"
+            },
+            {
+                "id": "fr-0671",
+                "w": "faux",
+                "p": "fo",
+                "d": "false",
+                "s": "Je ne veux pas générer de faux espoirs. (I don't want to raise false hopes.)"
+            },
+            {
+                "id": "fr-0672",
+                "w": "messieurs",
+                "p": "me.sjø",
+                "d": "mister, sir",
+                "s": "Personne ne voulait offenser ces messieurs. (No one wanted to insult these men.)"
+            },
+            {
+                "id": "fr-0673",
+                "w": "groupe",
+                "p": "ɡʁup",
+                "d": "group",
+                "s": "Je ne crois pas à la thérapie de groupe. (I don't believe in group therapy.)"
+            },
+            {
+                "id": "fr-0674",
+                "w": "rêve",
+                "p": "ʁɛv",
+                "d": "dream",
+                "s": "Ça avait l'air d'être un boulot de rêve. (It sounded like a dream job.)"
+            },
+            {
+                "id": "fr-0675",
+                "w": "carte",
+                "p": "kaʁt",
+                "d": "card",
+                "s": "Une carte du monde montre tous les pays. (A world map shows all the countries.)"
+            },
+            {
+                "id": "fr-0676",
+                "w": "aviez",
+                "p": "a.vje",
+                "d": "to have",
+                "s": "Tom a dit vous lui aviez dit d'attendre. (Tom said you told him to wait.)"
+            },
+            {
+                "id": "fr-0677",
+                "w": "appel",
+                "p": "a.pɛl",
+                "d": "call",
+                "s": "J'ai attendu ton appel toute la journée. (I waited for your call all day.)"
+            },
+            {
+                "id": "fr-0678",
+                "w": "manque",
+                "p": "mɑ̃k",
+                "d": "to lack",
+                "s": "Il manque trois boutons sur mon manteau. (My coat is missing three buttons.)"
+            },
+            {
+                "id": "fr-0679",
+                "w": "envoyé",
+                "p": "ɑ̃.vwa.je",
+                "d": "to send",
+                "s": "Je t'ai envoyé un courrier électronique. (I sent you an email.)"
+            },
+            {
+                "id": "fr-0680",
+                "w": "début",
+                "p": "de.by",
+                "d": "start, beginning",
+                "s": "J'admets qu'au début je ne t'aimais pas. (I admit that at first I didn't like you.)"
+            },
+            {
+                "id": "fr-0681",
+                "w": "puisse",
+                "p": "pɥis",
+                "d": "can, to be able to",
+                "s": "Je ne pense pas que je puisse manger ça. (I don't think I can eat this.)"
+            },
+            {
+                "id": "fr-0682",
+                "w": "écoutez",
+                "p": "e.ku.te",
+                "d": "to listen",
+                "s": "Écoutez, je ne veux pas perdre mon poste. (Look, I don't want to lose my job.)"
+            },
+            {
+                "id": "fr-0683",
+                "w": "bonsoir",
+                "p": "bɔ̃.swaʁ",
+                "d": "good evening",
+                "s": "Bonsoir Mesdames et Messieurs ! (Good evening, ladies and gentlemen.)"
+            },
+            {
+                "id": "fr-0684",
+                "w": "content",
+                "p": "kɔ̃.tɑ̃",
+                "d": "content",
+                "s": "Je suis content que tu sois toujours là. (I'm glad you're still here.)"
+            },
+            {
+                "id": "fr-0685",
+                "w": "secret",
+                "p": "sə.kʁɛ",
+                "d": "secret",
+                "s": "Je pensais qu'il s'agissait d'un secret. (I thought it was a secret.)"
+            },
+            {
+                "id": "fr-0686",
+                "w": "venue",
+                "p": "və.ny",
+                "d": "to come",
+                "s": "Une bonne idée lui est venue à l'esprit. (A good idea occurred to him.)"
+            },
+            {
+                "id": "fr-0687",
+                "w": "cher",
+                "p": "ʃɛʁ",
+                "d": "dear, beloved",
+                "s": "Ça a coûté beaucoup plus cher que prévu. (It cost a lot more than I expected.)"
+            },
+            {
+                "id": "fr-0688",
+                "w": "effet",
+                "p": "ɛ.fɛ",
+                "d": "effect",
+                "s": "Il se pourrait que ça marche, en effet. (That might actually work.)"
+            },
+            {
+                "id": "fr-0689",
+                "w": "voyons",
+                "p": "vwa.jɔ̃",
+                "d": "to see",
+                "s": "Voyons voir ce que tu as dans ta valise. (Let's see what you've got in your suitcase.)"
+            },
+            {
+                "id": "fr-0690",
+                "w": "sac",
+                "p": "sak",
+                "d": "bag, sack",
+                "s": "Je les ai surprises la main dans le sac. (I caught them in the act.)"
+            },
+            {
+                "id": "fr-0691",
+                "w": "continue",
+                "p": "kɔ̃.ti.ny",
+                "d": "to continue",
+                "s": "Elle continue à faire les mêmes erreurs. (She keeps on making the same mistakes.)"
+            },
+            {
+                "id": "fr-0692",
+                "w": "acheter",
+                "p": "aʃ.te",
+                "d": "to purchase",
+                "s": "Devrais-je acheter une voiture hybride ? (Should I buy a hybrid?)"
+            },
+            {
+                "id": "fr-0693",
+                "w": "voix",
+                "p": "vwa",
+                "d": "voice",
+                "s": "Chaque État ne disposait que d'une voix. (Each state had just one vote.)"
+            },
+            {
+                "id": "fr-0694",
+                "w": "certains",
+                "p": "sɛʁ.tɛ̃",
+                "d": "some, some people",
+                "s": "Nous en sommes pour ainsi dire certains. (We're quite certain of that.)"
+            },
+            {
+                "id": "fr-0695",
+                "w": "occuper",
+                "p": "ɔ.ky.pe",
+                "d": "to occupy",
+                "s": "Nous sommes en train de nous en occuper. (We're handling it.)"
+            },
+            {
+                "id": "fr-0696",
+                "w": "noël",
+                "p": "nɔ.ɛl",
+                "d": "A Christmas gift",
+                "s": "Noël, c'est pour bientôt, n'est-ce pas ? (Christmas is soon, isn't it?)"
+            },
+            {
+                "id": "fr-0697",
+                "w": "gagner",
+                "p": "ɡa.ɲe",
+                "d": "to win",
+                "s": "Vous ne pouvez pas gagner à chaque fois. (You can't win every time.)"
+            },
+            {
+                "id": "fr-0698",
+                "w": "grâce",
+                "p": "ɡʁas",
+                "d": "grace, charm",
+                "s": "Grâce à vous, je suis arrivée à l'heure. (Thanks to you, I arrived on time.)"
+            },
+            {
+                "id": "fr-0699",
+                "w": "maître",
+                "p": "mɛtʁ",
+                "d": "master",
+                "s": "Chacun devrait être maître de son destin. (Everyone ought to be the master of his own destiny.)"
+            },
+            {
+                "id": "fr-0700",
+                "w": "prix",
+                "p": "pʁi",
+                "d": "prize",
+                "s": "Je vous en donnerai un prix raisonnable. (I'll give you a fair price.)"
+            },
+            {
+                "id": "fr-0701",
+                "w": "mauvaise",
+                "p": "mo.vɛz",
+                "d": "bad",
+                "s": "Nous n'avions pas de mauvaise intention. (We meant no harm.)"
+            },
+            {
+                "id": "fr-0702",
+                "w": "général",
+                "p": "ʒe.ne.ʁal",
+                "d": "general",
+                "s": "Je ne suis pas très bavarde, en général. (I'm not very chatty, usually.)"
+            },
+            {
+                "id": "fr-0703",
+                "w": "âge",
+                "p": "aʒ",
+                "d": "age",
+                "s": "Comporte-toi comme quelqu'un de ton âge. (Act your age.)"
+            },
+            {
+                "id": "fr-0704",
+                "w": "long",
+                "p": "lɔ̃",
+                "d": "long",
+                "s": "Tom et Marie sont là pour le long terme. (Tom and Mary are in it for the long haul.)"
+            },
+            {
+                "id": "fr-0705",
+                "w": "rue",
+                "p": "ʁy",
+                "d": "street, road",
+                "s": "Le bus s'arrête au prochain coin de rue. (The bus stops at the next corner.)"
+            },
+            {
+                "id": "fr-0706",
+                "w": "tirer",
+                "p": "ti.ʁe",
+                "d": "to draw, drag, pull",
+                "s": "Vous vous êtes fait tirer dans la jambe. (You got shot in the leg.)"
+            },
+            {
+                "id": "fr-0707",
+                "w": "apprendre",
+                "p": "a.pʁɑ̃dʁ",
+                "d": "to learn",
+                "s": "On est jamais trop vieux pour apprendre. (No one is too old to learn.)"
+            },
+            {
+                "id": "fr-0708",
+                "w": "cheveux",
+                "p": "ʃə.vø",
+                "d": "a headhair",
+                "s": "Ses cheveux sont-il naturellement roux ? (Is her hair naturally red?)"
+            },
+            {
+                "id": "fr-0709",
+                "w": "noir",
+                "p": "nwaʁ",
+                "d": "black in colour",
+                "s": "Il fait noir comme dans un four, dehors. (It's pitch black outside.)"
+            },
+            {
+                "id": "fr-0710",
+                "w": "promis",
+                "p": "pʁomi",
+                "d": "to promise",
+                "s": "N'as-tu pas promis de ne jamais mentir ? (Didn't you promise never to tell a lie?)"
+            },
+            {
+                "id": "fr-0711",
+                "w": "avaient",
+                "p": "a.vɛ",
+                "d": "to have",
+                "s": "J'ai pensé qu'ils nous avaient entendus. (I thought they'd heard us.)"
+            },
+            {
+                "id": "fr-0712",
+                "w": "patron",
+                "p": "pa.tʁɔ̃",
+                "d": "a boss, employer",
+                "s": "Mon patron m'a convoqué dans son bureau. (My boss called me into his office.)"
+            },
+            {
+                "id": "fr-0713",
+                "w": "avocat",
+                "p": "a.vɔ.ka",
+                "d": "lawyer, attorney",
+                "s": "Pourquoi ne consultes-tu pas un avocat ? (Why don't you consult a lawyer?)"
+            },
+            {
+                "id": "fr-0714",
+                "w": "force",
+                "p": "fɔʁs",
+                "d": "force",
+                "s": "Ne sous-estimez pas votre propre force ! (Don't underestimate your own strength.)"
+            },
+            {
+                "id": "fr-0715",
+                "w": "accident",
+                "p": "ak.si.dɑ̃",
+                "d": "accident",
+                "s": "Elle est morte dans un accident d'avion. (She died in a plane crash.)"
+            },
+            {
+                "id": "fr-0716",
+                "w": "dix",
+                "p": "dis",
+                "d": "ten",
+                "s": "Tu dois être de retour avant dix heures. (You must be back before ten.)"
+            },
+            {
+                "id": "fr-0717",
+                "w": "probablement",
+                "p": "pʁɔ.ba.blə.mɑ̃",
+                "d": "probably",
+                "s": "Celles-ci sont probablement les tiennes. (These are probably yours.)"
+            },
+            {
+                "id": "fr-0718",
+                "w": "laissez",
+                "p": "lɛse",
+                "d": "to leave",
+                "s": "Laissez quelqu'un d'autre s'en charger ! (Let someone else handle it.)"
+            },
+            {
+                "id": "fr-0719",
+                "w": "bout",
+                "p": "bu",
+                "d": "end, extremity, tip",
+                "s": "La victime a été abattue à bout portant. (The victim was shot at close range.)"
+            },
+            {
+                "id": "fr-0720",
+                "w": "ordre",
+                "p": "ɔʁdʁ",
+                "d": "order",
+                "s": "C'est un ordre que je ne peux pas donner. (That's an order that I can't give.)"
+            },
+            {
+                "id": "fr-0721",
+                "w": "armes",
+                "p": "aʁm",
+                "d": "weapon",
+                "s": "Nous avons le droit de porter des armes. (We have the right to bear arms.)"
+            },
+            {
+                "id": "fr-0722",
+                "w": "cru",
+                "p": "kʁy",
+                "d": "to believe",
+                "s": "Je suis désolé de ne pas vous avoir cru. (I'm sorry I didn't believe you.)"
+            },
+            {
+                "id": "fr-0723",
+                "w": "déteste",
+                "p": "de.tɛst",
+                "d": "to hate, to detest",
+                "s": "Je déteste me conduire comme une idiote. (I hate being stupid.)"
+            },
+            {
+                "id": "fr-0724",
+                "w": "retrouver",
+                "p": "ʁə.tʁu.ve",
+                "d": "to find",
+                "s": "Peux-tu me retrouver dans l'auditorium ? (Can you meet me in the auditorium?)"
+            },
+            {
+                "id": "fr-0725",
+                "w": "millions",
+                "p": "miljɔ̃",
+                "d": "million",
+                "s": "Ça ferait environ 10 millions de yens ? (Is it about ten million yen?)"
+            },
+            {
+                "id": "fr-0726",
+                "w": "incroyable",
+                "p": "ɛ̃.kʁwa.jabl",
+                "d": "incredible",
+                "s": "Tom m'a raconté une incroyable histoire. (Tom told me an incredible story.)"
+            },
+            {
+                "id": "fr-0727",
+                "w": "voyage",
+                "p": "vwa.jaʒ",
+                "d": "trip",
+                "s": "Est-ce ton premier voyage à l'étranger ? (Is this your first trip abroad?)"
+            },
+            {
+                "id": "fr-0728",
+                "w": "ailleurs",
+                "p": "a.jœʁ",
+                "d": "elsewhere",
+                "s": "Je sais que Tom avait l'esprit ailleurs. (I know Tom was distracted.)"
+            },
+            {
+                "id": "fr-0729",
+                "w": "oublie",
+                "p": "u.bli",
+                "d": "to forget",
+                "s": "Ce n'est pas quelque chose qu'on oublie. (That isn't something you forget.)"
+            },
+            {
+                "id": "fr-0730",
+                "w": "ressemble",
+                "p": "ʁəsɑ̃bl",
+                "d": "to resemble",
+                "s": "La maison de Tom ressemble à un château. (Tom's house looks like a castle.)"
+            },
+            {
+                "id": "fr-0731",
+                "w": "bienvenue",
+                "p": "bjɛ̃.v(ə).ny",
+                "d": "welcome",
+                "s": "Un peu de compassion serait la bienvenue. (I could use a little sympathy.)"
+            },
+            {
+                "id": "fr-0732",
+                "w": "disparu",
+                "p": "dis.pa.ʁy",
+                "d": "to disappear",
+                "s": "Le soleil a disparu derrière les nuages. (The sun disappeared behind the clouds.)"
+            },
+            {
+                "id": "fr-0733",
+                "w": "protéger",
+                "p": "pʁɔ.te.ʒe",
+                "d": "to protect",
+                "s": "Nous avons dû mentir pour nous protéger. (We had to lie to protect ourselves.)"
+            },
+            {
+                "id": "fr-0734",
+                "w": "utiliser",
+                "p": "y.ti.li.ze",
+                "d": "to use, to utilize",
+                "s": "Tu peux utiliser mon bureau, si tu veux. (You can use my desk if you want to.)"
+            },
+            {
+                "id": "fr-0735",
+                "w": "situation",
+                "p": "si.tɥa.sjɔ̃",
+                "d": "situation",
+                "s": "Cette situation est en train de changer. (That situation is changing.)"
+            },
+            {
+                "id": "fr-0736",
+                "w": "petits",
+                "p": "pə.ti",
+                "d": "small",
+                "s": "Le verre s'est brisé en petits morceaux. (The glass broke to pieces.)"
+            },
+            {
+                "id": "fr-0737",
+                "w": "aurai",
+                "p": "ɔ.ʁe",
+                "d": "to have",
+                "s": "Ne dites pas que je ne vous aurai pas prévenu ! (Don't say I didn't warn you.)"
+            },
+            {
+                "id": "fr-0738",
+                "w": "connaissez",
+                "p": "kɔ.nɛ.se",
+                "d": "to know",
+                "s": "Est-ce que vous connaissez Tom Jackson ? (Do you know Tom Jackson?)"
+            },
+            {
+                "id": "fr-0739",
+                "w": "simplement",
+                "p": "sɛ̃.plə.mɑ̃",
+                "d": "simply",
+                "s": "On ne peut tout simplement pas y aller ? (Can't we just go?)"
+            },
+            {
+                "id": "fr-0740",
+                "w": "scène",
+                "p": "sɛn",
+                "d": "stage",
+                "s": "Qui est votre metteur en scène préféré ? (Who's your favorite movie director?)"
+            },
+            {
+                "id": "fr-0741",
+                "w": "sœur",
+                "p": "sœʁ",
+                "d": "sister",
+                "s": "J'aimerais que vous rencontriez ma sœur. (I'd like you to meet my sister.)"
+            },
+            {
+                "id": "fr-0742",
+                "w": "prête",
+                "p": "pʁɛt",
+                "d": "ready",
+                "s": "Je ne suis pas encore tout à fait prête. (I'm not quite ready yet.)"
+            },
+            {
+                "id": "fr-0743",
+                "w": "oncle",
+                "p": "ɔ̃kl",
+                "d": "uncle",
+                "s": "Mon oncle a un grand intérêt pour l'art. (My uncle has a deep interest in art.)"
+            },
+            {
+                "id": "fr-0744",
+                "w": "devriez",
+                "p": "də.vʁi.je",
+                "d": "must",
+                "s": "Vous ne devriez pas vous y rendre seule. (You should not go alone.)"
+            },
+            {
+                "id": "fr-0745",
+                "w": "liste",
+                "p": "list",
+                "d": "list",
+                "s": "Son nom ne se trouvait pas sur la liste. (Her name wasn't on the list.)"
+            },
+            {
+                "id": "fr-0746",
+                "w": "soeur",
+                "p": "sœʁ",
+                "d": "sister",
+                "s": ""
+            },
+            {
+                "id": "fr-0747",
+                "w": "complètement",
+                "p": "kɔ̃.plɛt.mɑ̃",
+                "d": "completely",
+                "s": "Ça m'est complètement sorti de l'esprit. (That totally slipped my mind.)"
+            },
+            {
+                "id": "fr-0748",
+                "w": "dos",
+                "p": "do",
+                "d": "back",
+                "s": "Êtes-vous jamais montées à dos de mule ? (Have you ever ridden a mule?)"
+            },
+            {
+                "id": "fr-0749",
+                "w": "armée",
+                "p": "aʁ.me",
+                "d": "army",
+                "s": "Notre armée attaqua l'ennemi à la nuit. (Our army attacked the enemy during the night.)"
+            },
+            {
+                "id": "fr-0750",
+                "w": "paix",
+                "p": "pɛ",
+                "d": "peace",
+                "s": "Je voulais juste qu'on me foute la paix. (I just wanted to be left alone.)"
+            },
+            {
+                "id": "fr-0751",
+                "w": "battre",
+                "p": "batʁ",
+                "d": "to beat",
+                "s": "C'est à votre tour de battre les cartes. (It's your turn to shuffle.)"
+            },
+            {
+                "id": "fr-0752",
+                "w": "crime",
+                "p": "kʁim",
+                "d": "a category of severe offences within French law",
+                "s": "Elles l'ont incité à commettre un crime. (They incited him to commit the crime.)"
+            },
+            {
+                "id": "fr-0753",
+                "w": "anniversaire",
+                "p": "a.ni.vɛʁ.sɛʁ",
+                "d": "birthday",
+                "s": "Comment s'est passé votre anniversaire ? (How was your birthday?)"
+            },
+            {
+                "id": "fr-0754",
+                "w": "finir",
+                "p": "fi.niʁ",
+                "d": "to finish",
+                "s": "Nous allons devoir finir ceci plus tard. (We'll have to finish this later.)"
+            },
+            {
+                "id": "fr-0755",
+                "w": "réussi",
+                "p": "ʁe.y.si",
+                "d": "to manage to do something",
+                "s": "Nous avons réussi à nous extirper de là. (We made it out of there.)"
+            },
+            {
+                "id": "fr-0756",
+                "w": "agit",
+                "p": "a.ʒi",
+                "d": "to act, to do",
+                "s": "Il agit très timidement en sa présence. (He acts very shy in her presence.)"
+            },
+            {
+                "id": "fr-0757",
+                "w": "retourner",
+                "p": "ʁə.tuʁ.ne",
+                "d": "to turn over",
+                "s": "Vous feriez mieux de ne pas y retourner. (You'd better not go back there.)"
+            },
+            {
+                "id": "fr-0758",
+                "w": "sale",
+                "p": "sal",
+                "d": "dirty",
+                "s": "Vous allez passer un sale quart d'heure. (You'll have a rough time.)"
+            },
+            {
+                "id": "fr-0759",
+                "w": "libre",
+                "p": "libʁ",
+                "d": "free, at liberty",
+                "s": "Est-ce que vous êtes libre aujourd'hui ? (Are you free today?)"
+            },
+            {
+                "id": "fr-0760",
+                "w": "bouge",
+                "p": "buʒ",
+                "d": "to move",
+                "s": "Ne bouge pas jusqu'à ce que je revienne. (Don't move till I get back.)"
+            },
+            {
+                "id": "fr-0761",
+                "w": "contrôle",
+                "p": "kɔ̃.tʁol",
+                "d": "control",
+                "s": "On n'a plus le contrôle de la situation. (It's getting out of control.)"
+            },
+            {
+                "id": "fr-0762",
+                "w": "rappelle",
+                "p": "ʁapɛl",
+                "d": "to call again",
+                "s": "Je me rappelle à peine quoi que ce soit. (I barely remember anything.)"
+            },
+            {
+                "id": "fr-0763",
+                "w": "arrêté",
+                "p": "a.ʁɛ.te",
+                "d": "to stop",
+                "s": "Je pensais que tu avais arrêté de boire. (I thought you quit drinking.)"
+            },
+            {
+                "id": "fr-0764",
+                "w": "hôtel",
+                "p": "o.tɛl",
+                "d": "mansion",
+                "s": "Nous séjournâmes dans un chouette hôtel. (We stayed at a nice hotel.)"
+            },
+            {
+                "id": "fr-0765",
+                "w": "idiot",
+                "p": "i.djo",
+                "d": "idiot",
+                "s": "Seul un idiot ferait une chose pareille. (Only a fool would do something like that.)"
+            },
+            {
+                "id": "fr-0766",
+                "w": "okay",
+                "p": "ɔkaj",
+                "d": "OK",
+                "s": ""
+            },
+            {
+                "id": "fr-0767",
+                "w": "rencontré",
+                "p": "ʁɑ̃.kɔ̃.tʁe",
+                "d": "to meet",
+                "s": "Je ne l'ai pas rencontré une seule fois. (I haven't met him even once.)"
+            },
+            {
+                "id": "fr-0768",
+                "w": "restez",
+                "p": "ʁɛs.te",
+                "d": "to stay",
+                "s": "Restez calmes et faites de votre mieux ! (Stay calm and do your best.)"
+            },
+            {
+                "id": "fr-0769",
+                "w": "absolument",
+                "p": "ap.sɔ.ly.mɑ̃",
+                "d": "absolutely",
+                "s": "Je ne peux absolument pas le permettre. (I can't possibly allow that.)"
+            },
+            {
+                "id": "fr-0770",
+                "w": "mots",
+                "p": "mo",
+                "d": "word",
+                "s": "Ne me mets pas les mots dans la bouche ! (Don't put words in my mouth.)"
+            },
+            {
+                "id": "fr-0771",
+                "w": "victime",
+                "p": "vik.tim",
+                "d": "victim",
+                "s": "La victime a été abattue à bout portant. (The victim was shot at close range.)"
+            },
+            {
+                "id": "fr-0772",
+                "w": "impression",
+                "p": "ɛ̃.pʁɛ.sjɔ̃",
+                "d": "an impression",
+                "s": "J'ai une mauvaise impression à ce sujet. (I have a bad feeling about this.)"
+            },
+            {
+                "id": "fr-0773",
+                "w": "décidé",
+                "p": "deside",
+                "d": "to decide",
+                "s": "J'ai décidé de ne pas acheter de parfum. (I decided not to buy perfume.)"
+            },
+            {
+                "id": "fr-0774",
+                "w": "sympa",
+                "p": "sɛ̃.pa",
+                "d": "nice",
+                "s": "L'atmosphère de ce restaurant est sympa. (The atmosphere in this restaurant is nice.)"
+            },
+            {
+                "id": "fr-0775",
+                "w": "pars",
+                "p": "paʁ",
+                "d": "to share",
+                "s": "Je pars en vacances pour quelques jours. (I'm taking a couple of days off.)"
+            },
+            {
+                "id": "fr-0776",
+                "w": "fasse",
+                "p": "fas",
+                "d": "to do",
+                "s": "Est-ce que vous voulez que je le fasse ? (Do you want me to do it?)"
+            },
+            {
+                "id": "fr-0777",
+                "w": "avion",
+                "p": "a.vjɔ̃",
+                "d": "aeroplane",
+                "s": "Nous sommes allés en avion en Australie. (We went to Australia by plane.)"
+            },
+            {
+                "id": "fr-0778",
+                "w": "bordel",
+                "p": "bɔʁ.dɛl",
+                "d": "brothel",
+                "s": "C'était un bordel dans le grand magasin. (It was a mess in the department store.)"
+            },
+            {
+                "id": "fr-0779",
+                "w": "habitude",
+                "p": "a.bi.tyd",
+                "d": "habit",
+                "s": "Tenir un journal est une bonne habitude. (Keeping a diary is a good habit.)"
+            },
+            {
+                "id": "fr-0780",
+                "w": "table",
+                "p": "tabl",
+                "d": "table",
+                "s": "Laissez vos mains au-dessus de la table. (Keep your hands above the table.)"
+            },
+            {
+                "id": "fr-0781",
+                "w": "rouge",
+                "p": "ʁuʒ",
+                "d": "red",
+                "s": "La fille portait un grand chapeau rouge. (The girl had a large red hat on.)"
+            },
+            {
+                "id": "fr-0782",
+                "w": "système",
+                "p": "sis.tɛm",
+                "d": "system",
+                "s": "Je sais comment fonctionne le système. (I know how the system works.)"
+            },
+            {
+                "id": "fr-0783",
+                "w": "photos",
+                "p": "foto",
+                "d": "photo",
+                "s": "Montrez-moi les photos, s'il vous plaît. (Show me the photos, please.)"
+            },
+            {
+                "id": "fr-0784",
+                "w": "médecin",
+                "p": "med.sɛ̃",
+                "d": "physician",
+                "s": "Pourquoi avez-vous besoin d'un médecin ? (Why do you need a doctor?)"
+            },
+            {
+                "id": "fr-0785",
+                "w": "seras",
+                "p": "sə.ʁa",
+                "d": "to be",
+                "s": "J'espère que tu seras bientôt de retour. (I hope you'll come back soon.)"
+            },
+            {
+                "id": "fr-0786",
+                "w": "bateau",
+                "p": "ba.to",
+                "d": "a vessel of any size",
+                "s": "Quelle est la destination de ce bateau ? (What's the destination of this ship?)"
+            },
+            {
+                "id": "fr-0787",
+                "w": "stupide",
+                "p": "sty.pid",
+                "d": "stupid",
+                "s": "Nous savons que vous n'êtes pas stupide. (We know you're not stupid.)"
+            },
+            {
+                "id": "fr-0788",
+                "w": "faim",
+                "p": "fɛ̃",
+                "d": "hunger",
+                "s": "Je savais que Tom n'avait pas très faim. (I knew Tom wasn't hungry.)"
+            },
+            {
+                "id": "fr-0789",
+                "w": "autour",
+                "p": "o.tuʁ",
+                "d": "around",
+                "s": "Nous avons voyagé autour de l'Australie. (We traveled around Australia.)"
+            },
+            {
+                "id": "fr-0790",
+                "w": "fond",
+                "p": "fɔ̃",
+                "d": "back",
+                "s": "Il reste un peu de vin au fond du verre. (There is a little wine left in the bottom of the glass.)"
+            },
+            {
+                "id": "fr-0791",
+                "w": "surprise",
+                "p": "syʁ.pʁiz",
+                "d": "surprise",
+                "s": "Je ne suis pas surprise d'entendre cela. (I'm not surprised to hear that.)"
+            },
+            {
+                "id": "fr-0792",
+                "w": "croyez",
+                "p": "kʁwa.je",
+                "d": "to believe",
+                "s": "Ne croyez à rien de ce qu'elles disent ! (Don't believe anything they say.)"
+            },
+            {
+                "id": "fr-0793",
+                "w": "devais",
+                "p": "də.vɛ",
+                "d": "must",
+                "s": "Je devais me faire extraire une molaire. (I had to get a molar extracted.)"
+            },
+            {
+                "id": "fr-0794",
+                "w": "ligne",
+                "p": "liɲ",
+                "d": "line",
+                "s": "Veuillez signer sur la ligne pointillée. (Please sign on the dotted line.)"
+            },
+            {
+                "id": "fr-0795",
+                "w": "porter",
+                "p": "pɔʁ.te",
+                "d": "to carry",
+                "s": "Je me suis fait porter pâle aujourd'hui. (I called in sick today.)"
+            },
+            {
+                "id": "fr-0796",
+                "w": "imagine",
+                "p": "i.ma.ʒin",
+                "d": "to imagine",
+                "s": "Imagine que tu aies une machine à remonter le temps. (Imagine that you have a time machine.)"
+            },
+            {
+                "id": "fr-0797",
+                "w": "colère",
+                "p": "kɔ.lɛʁ",
+                "d": "anger, rage",
+                "s": "Ne te mets pas en colère, s'il te plaît. (Please don't be mad.)"
+            },
+            {
+                "id": "fr-0798",
+                "w": "clair",
+                "p": "klɛʁ",
+                "d": "clear",
+                "s": "Je veux être clair, un point c'est tout. (I just want to be clear.)"
+            },
+            {
+                "id": "fr-0799",
+                "w": "seront",
+                "p": "sə.ʁɔ̃",
+                "d": "to be",
+                "s": "Ne t'en fais pas. Ils seront supervisés. (Don't worry. They will be supervised.)"
+            },
+            {
+                "id": "fr-0800",
+                "w": "savait",
+                "p": "sa.vɛ",
+                "d": "to know",
+                "s": "Tom savait que Mary avait embrassé John. (Tom knew Mary had kissed John.)"
+            },
+            {
+                "id": "fr-0801",
+                "w": "balle",
+                "p": "bal",
+                "d": "ball",
+                "s": "Tom est décédé d’une blessure par balle. (Tom died from a bullet wound.)"
+            },
+            {
+                "id": "fr-0802",
+                "w": "gagné",
+                "p": "ɡa.ɲe",
+                "d": "to win",
+                "s": "Je n'arrive pas à croire que j'ai gagné. (I can't believe I won.)"
+            },
+            {
+                "id": "fr-0803",
+                "w": "or",
+                "p": "ɔʁ",
+                "d": "gold",
+                "s": "Je sais qu'il s'agit d'une occasion en or. (I know it's a great opportunity.)"
+            },
+            {
+                "id": "fr-0804",
+                "w": "hors",
+                "p": "ɔʁ",
+                "d": "outside, out of, off",
+                "s": "Je pense que nous sommes hors de danger. (I think we're out of danger.)"
+            },
+            {
+                "id": "fr-0805",
+                "w": "magnifique",
+                "p": "ma.ɲi.fik",
+                "d": "magnificent",
+                "s": "C'est une vue magnifique, n'est-ce pas ? (It's a magnificent view, isn't it?)"
+            },
+            {
+                "id": "fr-0806",
+                "w": "risque",
+                "p": "ʁisk",
+                "d": "risk",
+                "s": "C'est un risque que nous devons prendre. (It's a risk we must take.)"
+            },
+            {
+                "id": "fr-0807",
+                "w": "terminé",
+                "p": "tɛʁ.mi.ne",
+                "d": "to end",
+                "s": "Téléphonez-moi quand vous aurez terminé. (Call me when you're done.)"
+            },
+            {
+                "id": "fr-0808",
+                "w": "su",
+                "p": "sy",
+                "d": "known",
+                "s": "Il l'a fait au vu et au su du personnel. (He did it in front of the staff.)"
+            },
+            {
+                "id": "fr-0809",
+                "w": "heureuse",
+                "p": "œ.ʁøz",
+                "d": "happy",
+                "s": "Je suis heureuse que tu l'aies apprécié. (I'm glad you liked it.)"
+            },
+            {
+                "id": "fr-0810",
+                "w": "mission",
+                "p": "mi.sjɔ̃",
+                "d": "mission",
+                "s": "La mission s'est déroulée parfaitement. (The mission went perfectly.)"
+            },
+            {
+                "id": "fr-0811",
+                "w": "jolie",
+                "p": "ʒoli",
+                "d": "pretty",
+                "s": "Je sais que Mary est plus jolie que moi. (I know Mary is more beautiful than I am.)"
+            },
+            {
+                "id": "fr-0812",
+                "w": "parlez",
+                "p": "paʁ.le",
+                "d": "to speak, talk",
+                "s": "Je n'ai aucune idée de quoi vous parlez. (I have no idea what you're talking about.)"
+            },
+            {
+                "id": "fr-0813",
+                "w": "présent",
+                "p": "pʁe.zɑ̃",
+                "d": "the now",
+                "s": "Je suis à présent dans un vieux château. (I am now in an old castle.)"
+            },
+            {
+                "id": "fr-0814",
+                "w": "sorti",
+                "p": "sɔʁti",
+                "d": "to exit",
+                "s": "Je pense que tu t'en es très bien sorti. (I think you did very well.)"
+            },
+            {
+                "id": "fr-0815",
+                "w": "cadeau",
+                "p": "ka.do",
+                "d": "present, gift",
+                "s": "Elle enveloppa le cadeau dans du papier. (She wrapped the present in paper.)"
+            },
+            {
+                "id": "fr-0816",
+                "w": "expliquer",
+                "p": "ɛks.pli.ke",
+                "d": "to explain",
+                "s": "Laisse-moi expliquer ce qui s'est passé. (Let me explain what's happened.)"
+            },
+            {
+                "id": "fr-0817",
+                "w": "volé",
+                "p": "vɔ.le",
+                "d": "to fly through the air",
+                "s": "Elle est maquillée comme un camion volé. (She wears heavy makeup.)"
+            },
+            {
+                "id": "fr-0818",
+                "w": "plusieurs",
+                "p": "ply.zjœʁ",
+                "d": "several, many, a lot",
+                "s": "Je l'ai rencontré à plusieurs occasions. (I met him on several occasions.)"
+            },
+            {
+                "id": "fr-0819",
+                "w": "gauche",
+                "p": "ɡoʃ",
+                "d": "the left",
+                "s": "Avez-vous encore mal à la jambe gauche ? (Is your left leg still hurting?)"
+            },
+            {
+                "id": "fr-0820",
+                "w": "ferait",
+                "p": "fə.ʁɛ",
+                "d": "to do",
+                "s": "J'ai pensé que cela vous ferait plaisir. (I thought you'd be pleased.)"
+            },
+            {
+                "id": "fr-0821",
+                "w": "neuf",
+                "p": "nœf",
+                "d": "nine",
+                "s": "Je te verrai à neuf heures demain matin. (I'll see you at nine tomorrow morning.)"
+            },
+            {
+                "id": "fr-0822",
+                "w": "ouvre",
+                "p": "uvʁ",
+                "d": "to open",
+                "s": "Ouvre les rideaux et fais entrer le soleil. (Open the curtains and let the sunshine in.)"
+            },
+            {
+                "id": "fr-0823",
+                "w": "disais",
+                "p": "di.zɛ",
+                "d": "to say, to tell",
+                "s": "C'est ce que je disais depuis le début. (That's what I said all along.)"
+            },
+            {
+                "id": "fr-0824",
+                "w": "dedans",
+                "p": "də.dɑ̃",
+                "d": "towards the inside",
+                "s": "J'ai ouvert la boîte et regardé dedans. (I opened the box and looked inside.)"
+            },
+            {
+                "id": "fr-0825",
+                "w": "disent",
+                "p": "diz",
+                "d": "to say, to tell",
+                "s": "Ne croyez à rien de ce qu'elles disent ! (Don't believe anything they say.)"
+            },
+            {
+                "id": "fr-0826",
+                "w": "pouvons",
+                "p": "pu.vɔ̃",
+                "d": "can, to be able to",
+                "s": "Nous ne pouvons pas le faire maintenant. (We can't do it now.)"
+            },
+            {
+                "id": "fr-0827",
+                "w": "allez-y",
+                "p": "a.le.z‿i",
+                "d": "go ahead",
+                "s": "Si vous voulez y aller, allez-y ! (If you want to go, then go.)"
+            },
+            {
+                "id": "fr-0828",
+                "w": "suivre",
+                "p": "sɥivʁ",
+                "d": "to follow",
+                "s": "Vous feriez mieux de suivre son conseil. (You had better take her advice.)"
+            },
+            {
+                "id": "fr-0829",
+                "w": "pourra",
+                "p": "pu.ʁa",
+                "d": "can, to be able to",
+                "s": "Tom pourra te donner une réponse demain. (Tom can give you an answer tomorrow.)"
+            },
+            {
+                "id": "fr-0830",
+                "w": "inspecteur",
+                "p": "ɛ̃s.pɛk.tœʁ",
+                "d": "inspector",
+                "s": "Tom est un inspecteur. (Tom is an inspector.)"
+            },
+            {
+                "id": "fr-0831",
+                "w": "réponse",
+                "p": "ʁe.pɔ̃s",
+                "d": "response",
+                "s": "Elle n'obtint pas de réponse de sa part. (She got no answer from him.)"
+            },
+            {
+                "id": "fr-0832",
+                "w": "lumière",
+                "p": "ly.mjɛʁ",
+                "d": "light",
+                "s": "Moi, j'aime bien la lumière des bougies. (I like candlelight.)"
+            },
+            {
+                "id": "fr-0833",
+                "w": "pieds",
+                "p": "pje",
+                "d": "foot",
+                "s": "Je n'ai pas voulu vous casser les pieds. (I didn't want to bug you.)"
+            },
+            {
+                "id": "fr-0834",
+                "w": "pote",
+                "p": "pɔt",
+                "d": "mate, buddy",
+                "s": "T'as fait une grosse erreur, mon pote. (You made a big mistake, buddy.)"
+            },
+            {
+                "id": "fr-0835",
+                "w": "montre",
+                "p": "mɔ̃tʁ",
+                "d": "to show",
+                "s": "Ma montre est en avance de deux minutes. (My clock is two minutes fast.)"
+            },
+            {
+                "id": "fr-0836",
+                "w": "pied",
+                "p": "pje",
+                "d": "foot",
+                "s": "Je me rends d'habitude à pied à l'école. (I usually walk to school.)"
+            },
+            {
+                "id": "fr-0837",
+                "w": "marcher",
+                "p": "maʁ.ʃe",
+                "d": "to walk",
+                "s": "Il est actuellement en train de marcher. (He is walking now.)"
+            },
+            {
+                "id": "fr-0838",
+                "w": "auras",
+                "p": "ɔ.ʁa",
+                "d": "to have",
+                "s": "Tu auras besoin de certains de ceux-ci. (You'll need some of these.)"
+            },
+            {
+                "id": "fr-0839",
+                "w": "envoyer",
+                "p": "ɑ̃.vwa.je",
+                "d": "to send",
+                "s": "J'ai oublié de vous envoyer un courriel. (I forgot to send you an e-mail.)"
+            },
+            {
+                "id": "fr-0840",
+                "w": "vraie",
+                "p": "vʁɛ",
+                "d": "true",
+                "s": "Je n'ai encore jamais vu de vraie vache. (I've never seen a real cow.)"
+            },
+            {
+                "id": "fr-0841",
+                "w": "espèce",
+                "p": "ɛs.pɛs",
+                "d": "type, sort, kind",
+                "s": "C'est une espèce en voie de disparition. (It is an endangered species.)"
+            },
+            {
+                "id": "fr-0842",
+                "w": "doivent",
+                "p": "dwav",
+                "d": "must",
+                "s": "Les soldats doivent obéir à leurs chefs. (Soldiers must obey their commanders.)"
+            },
+            {
+                "id": "fr-0843",
+                "w": "allô",
+                "p": "a.lo",
+                "d": "hello",
+                "s": "Allô, en quoi puis-je vous être utile ? (Excuse me, but do you need any help?)"
+            },
+            {
+                "id": "fr-0844",
+                "w": "pareil",
+                "p": "pa.ʁɛj",
+                "d": "such",
+                "s": "Que faites-vous dans un endroit pareil ? (What are you doing in a place like this?)"
+            },
+            {
+                "id": "fr-0845",
+                "w": "soleil",
+                "p": "sɔ.lɛj",
+                "d": "sun",
+                "s": "Je me suis réveillée au lever du soleil. (I woke up at sunrise.)"
+            },
+            {
+                "id": "fr-0846",
+                "w": "camp",
+                "p": "kɑ̃",
+                "d": "camp",
+                "s": "Je me suis enfui du camp d'entraînement. (I ran away from the training camp.)"
+            },
+            {
+                "id": "fr-0847",
+                "w": "fallait",
+                "p": "fa.lɛ",
+                "d": "to need",
+                "s": "Il fallait que je le visse par moi-même. (I had to see it for myself.)"
+            },
+            {
+                "id": "fr-0848",
+                "w": "coin",
+                "p": "kwɛ̃",
+                "d": "wedge, cornerpiece",
+                "s": "Qu'est-ce qu'il y a à voir dans le coin? (What's there to see around here?)"
+            },
+            {
+                "id": "fr-0849",
+                "w": "ignore",
+                "p": "i.ɲɔʁ",
+                "d": "to ignore",
+                "s": "Elle ignore qui construisit ces maisons. (She doesn't know who built those houses.)"
+            },
+            {
+                "id": "fr-0850",
+                "w": "moitié",
+                "p": "mwa.tje",
+                "d": "half",
+                "s": "La moitié d'entre elles sont étudiantes. (Half of them are students.)"
+            },
+            {
+                "id": "fr-0851",
+                "w": "selon",
+                "p": "sə.lɔ̃",
+                "d": "according to",
+                "s": "Je veux que tu agisses selon les ordres. (I want you to follow orders.)"
+            },
+            {
+                "id": "fr-0852",
+                "w": "tenir",
+                "p": "tə.niʁ",
+                "d": "to have",
+                "s": "Nous ne faisions que nous tenir la main. (We were just holding hands.)"
+            },
+            {
+                "id": "fr-0853",
+                "w": "grosse",
+                "p": "ɡʁos",
+                "d": "big, thick, fat",
+                "s": "J'ai peut-être commis une grosse erreur. (I may have made a big mistake.)"
+            },
+            {
+                "id": "fr-0854",
+                "w": "vouloir",
+                "p": "vu.lwaʁ",
+                "d": "to want",
+                "s": "Elle lui demanda de bien vouloir entrer. (She invited him in.)"
+            },
+            {
+                "id": "fr-0855",
+                "w": "vieille",
+                "p": "vjɛj",
+                "d": "old",
+                "s": "Je pensais que vous seriez plus vieille. (I thought you'd be older.)"
+            },
+            {
+                "id": "fr-0856",
+                "w": "devenu",
+                "p": "də.v(ə).ny",
+                "d": "to become",
+                "s": "Je suppose que je suis devenu paresseux. (I guess I've gotten lazy.)"
+            },
+            {
+                "id": "fr-0857",
+                "w": "continuer",
+                "p": "kɔ̃.ti.nɥe",
+                "d": "to continue",
+                "s": "J'ai dit à Tom de continuer à se battre. (I told Tom to keep fighting.)"
+            },
+            {
+                "id": "fr-0858",
+                "w": "rend",
+                "p": "ʁɑ̃",
+                "d": "to return",
+                "s": "Parler devant un public me rend nerveux. (Speaking in public makes me nervous.)"
+            },
+            {
+                "id": "fr-0859",
+                "w": "sortie",
+                "p": "sɔʁ.ti",
+                "d": "exit",
+                "s": "Je pense que tu t'en es très bien sortie. (I think you did very well.)"
+            },
+            {
+                "id": "fr-0860",
+                "w": "recherche",
+                "p": "ʁə.ʃɛʁʃ",
+                "d": "research",
+                "s": "Comment se passe la recherche d'emploi ? (How's the job hunt?)"
+            },
+            {
+                "id": "fr-0861",
+                "w": "arrière",
+                "p": "a.ʁjɛʁ",
+                "d": "back",
+                "s": "Votre voiture a un feu arrière de cassé. (Your car has a broken taillight.)"
+            },
+            {
+                "id": "fr-0862",
+                "w": "lire",
+                "p": "liʁ",
+                "d": "to read",
+                "s": "Avez-vous besoin de lunettes pour lire ? (Do you need glasses to read?)"
+            },
+            {
+                "id": "fr-0863",
+                "w": "doucement",
+                "p": "dus.mɑ̃",
+                "d": "softly",
+                "s": "Ferme doucement la porte, s'il te plaît. (Please close the door quietly.)"
+            },
+            {
+                "id": "fr-0864",
+                "w": "joli",
+                "p": "ʒɔ.li",
+                "d": "pretty",
+                "s": "J'ai fait un joli rêve la nuit dernière. (I had a good dream last night.)"
+            },
+            {
+                "id": "fr-0865",
+                "w": "avance",
+                "p": "a.vɑ̃s",
+                "d": "progression, advance",
+                "s": "Ma montre est en avance de deux minutes. (My clock is two minutes fast.)"
+            },
+            {
+                "id": "fr-0866",
+                "w": "exact",
+                "p": "ɛɡ.zakt",
+                "d": "exact",
+                "s": "Tu ne veux pas te marier non plus, exact ? (You don't want to get married either, right?)"
+            },
+            {
+                "id": "fr-0867",
+                "w": "disait",
+                "p": "di.zɛ",
+                "d": "to say, to tell",
+                "s": "J'ai eu du mal à saisir ce qu'il disait. (I found it difficult to understand what he was saying.)"
+            },
+            {
+                "id": "fr-0868",
+                "w": "club",
+                "p": "klœb",
+                "d": "club",
+                "s": "Notre club nautique compte dix membres. (Our yacht club has ten members.)"
+            },
+            {
+                "id": "fr-0869",
+                "w": "arrivée",
+                "p": "a.ʁi.ve",
+                "d": "arrival",
+                "s": "Je ne peux pas partir avant son arrivée. (I can't go until he comes.)"
+            },
+            {
+                "id": "fr-0870",
+                "w": "tue",
+                "p": "ty",
+                "d": "to kill",
+                "s": "Je te jure que si tu refais ça, je te tue. (I swear if you ever do that again, I'll kill you.)"
+            },
+            {
+                "id": "fr-0871",
+                "w": "laquelle",
+                "p": "la.kɛl",
+                "d": "which, that, whom",
+                "s": "Laquelle de ces raquettes est la vôtre ? (Which of these rackets is yours?)"
+            },
+            {
+                "id": "fr-0872",
+                "w": "poser",
+                "p": "po.ze",
+                "d": "to stop carrying",
+                "s": "Puis-je poser une question personnelle ? (May I ask a personal question?)"
+            },
+            {
+                "id": "fr-0873",
+                "w": "chaud",
+                "p": "ʃo",
+                "d": "warm, hot",
+                "s": "Le temps est devenu beaucoup plus chaud. (It has become much warmer.)"
+            },
+            {
+                "id": "fr-0874",
+                "w": "aimé",
+                "p": "ɛ.me",
+                "d": "to love",
+                "s": "J'aurais aimé que tu ne fasses pas cela. (I wish you hadn't done that.)"
+            },
+            {
+                "id": "fr-0875",
+                "w": "professeur",
+                "p": "pʁɔ.fɛ.sœʁ",
+                "d": "teacher",
+                "s": "Je ne suis pas médecin, mais professeur. (I'm a teacher, not a doctor.)"
+            },
+            {
+                "id": "fr-0876",
+                "w": "quitter",
+                "p": "ki.te",
+                "d": "to leave, to quit",
+                "s": "J'ai été le dernier à quitter le bureau. (I was the last to leave the office.)"
+            },
+            {
+                "id": "fr-0877",
+                "w": "loi",
+                "p": "lwa",
+                "d": "law",
+                "s": "Nous avons voté contre le projet de loi. (We voted against the bill.)"
+            },
+            {
+                "id": "fr-0878",
+                "w": "tueur",
+                "p": "tɥœʁ",
+                "d": "killer",
+                "s": "Je ne pense pas que Thomas soit le tueur. (I don't believe Tom is the killer.)"
+            },
+            {
+                "id": "fr-0879",
+                "w": "flics",
+                "p": "flik",
+                "d": "police officer",
+                "s": "N'appelle pas les flics, s'il te plaît ! (Please don't call the cops.)"
+            },
+            {
+                "id": "fr-0880",
+                "w": "connaître",
+                "p": "kɔ.nɛtʁ",
+                "d": "to know",
+                "s": "Je suis très heureuse de vous connaître. (I'm very happy to know you.)"
+            },
+            {
+                "id": "fr-0881",
+                "w": "lettre",
+                "p": "lɛtʁ",
+                "d": "letter",
+                "s": "C'est passé comme une lettre à la Poste. (It went without a hitch.)"
+            },
+            {
+                "id": "fr-0882",
+                "w": "forme",
+                "p": "fɔʁm",
+                "d": "shape",
+                "s": "Tu es de toute évidence en grande forme. (You're obviously in great shape.)"
+            },
+            {
+                "id": "fr-0883",
+                "w": "connaît",
+                "p": "kɔ.nɛ",
+                "d": "to know",
+                "s": "Cette règle ne connaît aucune exception. (This rule has no exceptions.)"
+            },
+            {
+                "id": "fr-0884",
+                "w": "conseil",
+                "p": "kɔ̃.sɛj",
+                "d": "piece of advice",
+                "s": "Le conseil s'est mis d'accord là-dessus. (The council agreed on it.)"
+            },
+            {
+                "id": "fr-0885",
+                "w": "bar",
+                "p": "baʁ",
+                "d": "bar",
+                "s": "Tom était recroquevillé derrière son bar. (Tom was cowering behind his bar.)"
+            },
+            {
+                "id": "fr-0886",
+                "w": "normal",
+                "p": "nɔʁ.mal",
+                "d": "normal",
+                "s": "En temps normal, je ne bois pas de café. (I normally don't drink coffee.)"
+            },
+            {
+                "id": "fr-0887",
+                "w": "danger",
+                "p": "dɑ̃.ʒe",
+                "d": "danger",
+                "s": "Je pense que nous sommes hors de danger. (I think we're out of danger.)"
+            },
+            {
+                "id": "fr-0888",
+                "w": "dangereux",
+                "p": "dɑ̃ʒ.ʁø",
+                "d": "dangerous",
+                "s": "Je pense vraiment que Tom est dangereux. (I do think that Tom is dangerous.)"
+            },
+            {
+                "id": "fr-0889",
+                "w": "folle",
+                "p": "fɔl",
+                "d": "mad, crazy",
+                "s": "Votre idée n'est pas complètement folle. (Your idea isn't entirely crazy.)"
+            },
+            {
+                "id": "fr-0890",
+                "w": "jure",
+                "p": "ʒyʁ",
+                "d": "to swear",
+                "s": "Je jure que je ne referai plus jamais ça. (I swear I'll never do that again.)"
+            },
+            {
+                "id": "fr-0891",
+                "w": "tiré",
+                "p": "ti.ʁe",
+                "d": "to draw, drag, pull",
+                "s": "Cela semblait trop tiré par les cheveux. (It sounded too farfetched.)"
+            },
+            {
+                "id": "fr-0892",
+                "w": "essaye",
+                "p": "e.sɛj",
+                "d": "to test, to try on",
+                "s": "Tom essaye de vendre sa vieille voiture. (Tom is trying to sell his old car.)"
+            },
+            {
+                "id": "fr-0893",
+                "w": "bonnes",
+                "p": "bɔn",
+                "d": "good",
+                "s": "Un sol riche produit de bonnes récoltes. (Rich soil yields good crops.)"
+            },
+            {
+                "id": "fr-0894",
+                "w": "offre",
+                "p": "ɔfʁ",
+                "d": "offer",
+                "s": "Je suis d'accord d'accepter votre offre. (I'm willing to accept your offer.)"
+            },
+            {
+                "id": "fr-0895",
+                "w": "but",
+                "p": "byt",
+                "d": "aim",
+                "s": "Mon but dans la vie est d'être écrivain. (My goal in life is to be a novelist.)"
+            },
+            {
+                "id": "fr-0896",
+                "w": "froid",
+                "p": "fʁwa",
+                "d": "cold",
+                "s": "Aujourd’hui, il fait horriblement froid. (It's really cold today.)"
+            },
+            {
+                "id": "fr-0897",
+                "w": "prêts",
+                "p": "pʁɛ",
+                "d": "ready",
+                "s": "Je ne suis pas sûr que vous soyez prêts. (I'm not sure you're ready.)"
+            },
+            {
+                "id": "fr-0898",
+                "w": "tranquille",
+                "p": "tʁɑ̃.kil",
+                "d": "calm",
+                "s": "S'il vous plaît, laissez-moi tranquille. (Please leave me alone.)"
+            },
+            {
+                "id": "fr-0899",
+                "w": "gamin",
+                "p": "ɡa.mɛ̃",
+                "d": "street urchin",
+                "s": "Je nageais souvent quand j'étais gamin. (I often swam when I was a kid.)"
+            },
+            {
+                "id": "fr-0900",
+                "w": "classe",
+                "p": "klas",
+                "d": "class, type, group",
+                "s": "On était dans la même classe à l'époque. (We were in the same class then.)"
+            },
+            {
+                "id": "fr-0901",
+                "w": "joué",
+                "p": "ʒwe",
+                "d": "to play",
+                "s": "J'ai joué avec Tom et Marie aujourd'hui. (I played with Tom and Mary today.)"
+            },
+            {
+                "id": "fr-0902",
+                "w": "poste",
+                "p": "pɔst",
+                "d": "post office",
+                "s": "C'est passé comme une lettre à la Poste. (It went without a hitch.)"
+            },
+            {
+                "id": "fr-0903",
+                "w": "con",
+                "p": "kɔ̃",
+                "d": "cunt, pussy",
+                "s": "Je suis désolé d'avoir agi comme un con. (I'm sorry I acted like a jerk.)"
+            },
+            {
+                "id": "fr-0904",
+                "w": "attaque",
+                "p": "a.tak",
+                "d": "attack",
+                "s": "Avez-vous déjà eu une attaque cardiaque ? (Have you ever had a heart attack?)"
+            },
+            {
+                "id": "fr-0905",
+                "w": "boîte",
+                "p": "bwat",
+                "d": "box",
+                "s": "Tom a donné une boîte à musique à Marie. (Tom gave Mary a music box.)"
+            },
+            {
+                "id": "fr-0906",
+                "w": "enquête",
+                "p": "ɑ̃.kɛt",
+                "d": "inquest",
+                "s": "Notre enquête n'est pas encore terminée. (Our investigation isn't complete yet.)"
+            },
+            {
+                "id": "fr-0907",
+                "w": "visite",
+                "p": "vi.zit",
+                "d": "visit",
+                "s": "Je lui rends visite tous les deux jours. (I visit him every other day.)"
+            },
+            {
+                "id": "fr-0908",
+                "w": "juge",
+                "p": "ʒyʒ",
+                "d": "judge",
+                "s": "La décision du juge a provoqué un tollé. (The judge's decision caused an uproar.)"
+            },
+            {
+                "id": "fr-0909",
+                "w": "moi-même",
+                "p": "mwa.mɛm",
+                "d": "myself",
+                "s": "Je veux m'en rendre compte par moi-même. (I want to see for myself.)"
+            },
+            {
+                "id": "fr-0910",
+                "w": "bord",
+                "p": "bɔʁ",
+                "d": "border, edge, limit",
+                "s": "La compagnie est au bord de la faillite. (The company is on the verge of bankruptcy.)"
+            },
+            {
+                "id": "fr-0911",
+                "w": "debout",
+                "p": "də.bu",
+                "d": "standing",
+                "s": "Nous sommes restés debout toute la nuit. (We've been up all night.)"
+            },
+            {
+                "id": "fr-0912",
+                "w": "envoie",
+                "p": "ɑ̃.vwa",
+                "d": "to send",
+                "s": "Mon frère vous envoie ses amitiés. (My brother sends you his regards.)"
+            },
+            {
+                "id": "fr-0913",
+                "w": "preuve",
+                "p": "pʁœv",
+                "d": "evidence, proof",
+                "s": "Fais preuve d'originalité pour une fois. (Be original for a change.)"
+            },
+            {
+                "id": "fr-0914",
+                "w": "oublier",
+                "p": "u.bli.je",
+                "d": "to forget",
+                "s": "J'ai failli oublier de poster la lettre. (I almost forgot to mail the letter.)"
+            },
+            {
+                "id": "fr-0915",
+                "w": "bons",
+                "p": "bɔ̃",
+                "d": "good",
+                "s": "Vous n'avez pas l'air aussi bons que ça. (You don't look that good.)"
+            },
+            {
+                "id": "fr-0916",
+                "w": "vivant",
+                "p": "vi.vɑ̃",
+                "d": "alive",
+                "s": "Est-ce que ce poisson est encore vivant ? (Is this fish still alive?)"
+            },
+            {
+                "id": "fr-0917",
+                "w": "ciel",
+                "p": "sjɛl",
+                "d": "sky",
+                "s": "Le ciel devenait de plus en plus sombre. (The sky grew darker and darker.)"
+            },
+            {
+                "id": "fr-0918",
+                "w": "lu",
+                "p": "ly",
+                "d": "to read",
+                "s": "J'ai seulement lu une partie du rapport. (I only read part of the report.)"
+            },
+            {
+                "id": "fr-0919",
+                "w": "touche",
+                "p": "tuʃ",
+                "d": "to touch",
+                "s": "Il est temps de mettre la touche finale. (It's time to apply the final touches.)"
+            },
+            {
+                "id": "fr-0920",
+                "w": "aimer",
+                "p": "ɛ.me",
+                "d": "to love",
+                "s": "Tom disait aimer apprendre le français. (Tom said he likes studying French.)"
+            },
+            {
+                "id": "fr-0921",
+                "w": "télé",
+                "p": "te.le",
+                "d": "TV, telly",
+                "s": "Tu peux éteindre la télé s'il te plaît ? (Could you please turn off the TV?)"
+            },
+            {
+                "id": "fr-0922",
+                "w": "met",
+                "p": "mɛ",
+                "d": "to put",
+                "s": "Je dois y aller. Il se met à faire noir. (I must go. It's getting dark.)"
+            },
+            {
+                "id": "fr-0923",
+                "w": "écouter",
+                "p": "e.ku.te",
+                "d": "to listen",
+                "s": "C'est ce que tu gagnes à ne pas écouter. (That's what you get for not listening.)"
+            },
+            {
+                "id": "fr-0924",
+                "w": "serez",
+                "p": "sə.ʁe",
+                "d": "to be",
+                "s": "Promettez-moi que vous serez prudentes ! (Promise me you'll be careful.)"
+            },
+            {
+                "id": "fr-0925",
+                "w": "pourtant",
+                "p": "puʁ.tɑ̃",
+                "d": "however, yet",
+                "s": "Le soleil brillait, pourtant il faisait froid. (The sun was shining, yet it was cold.)"
+            },
+            {
+                "id": "fr-0926",
+                "w": "change",
+                "p": "ʃɑ̃ʒ",
+                "d": "to exchange",
+                "s": "Appelle-moi si quoi que ce soit change ! (Call me if anything changes.)"
+            },
+            {
+                "id": "fr-0927",
+                "w": "triste",
+                "p": "tʁist",
+                "d": "sad",
+                "s": "La triste nouvelle lui retira l'appétit. (The sad news took away his appetite.)"
+            },
+            {
+                "id": "fr-0928",
+                "w": "droite",
+                "p": "dʁwat",
+                "d": "straight line",
+                "s": "Il traça une ligne droite de son crayon. (He drew a straight line with his pencil.)"
+            },
+            {
+                "id": "fr-0929",
+                "w": "gueule",
+                "p": "ɡœl",
+                "d": "gullet, snout, face",
+                "s": "Je me suis bourré la gueule, hier soir. (I got hammered last night.)"
+            },
+            {
+                "id": "fr-0930",
+                "w": "tombe",
+                "p": "tɔ̃b",
+                "d": "to fall",
+                "s": "Le yen est en hausse et le dollar tombe. (The yen is rising and the dollar is falling.)"
+            },
+            {
+                "id": "fr-0931",
+                "w": "sentir",
+                "p": "sɑ̃.tiʁ",
+                "d": "to smell",
+                "s": "Je ne parviens pas à sentir mes orteils. (I can't feel my toes.)"
+            },
+            {
+                "id": "fr-0932",
+                "w": "ouvrir",
+                "p": "u.vʁiʁ",
+                "d": "to open",
+                "s": "Tu peux ouvrir la boîte en la déchirant. (You can tear the box open.)"
+            },
+            {
+                "id": "fr-0933",
+                "w": "travers",
+                "p": "tʁa.vɛʁ",
+                "d": "outside",
+                "s": "Je sais que quelque chose va de travers. (I know something's wrong.)"
+            },
+            {
+                "id": "fr-0934",
+                "w": "santé",
+                "p": "sɑ̃.te",
+                "d": "health",
+                "s": "Pensez-vous que je sois en bonne santé ? (Do you think I'm healthy?)"
+            },
+            {
+                "id": "fr-0935",
+                "w": "dossier",
+                "p": "do.sje",
+                "d": "back of furniture",
+                "s": "Avez-vous vu le dossier médical de Tom ? (Have you seen Tom's medical records?)"
+            },
+            {
+                "id": "fr-0936",
+                "w": "jeunes",
+                "p": "ʒœn",
+                "d": "young",
+                "s": "À cette époque, nous étions plus jeunes. (We were younger then.)"
+            },
+            {
+                "id": "fr-0937",
+                "w": "coucher",
+                "p": "ku.ʃe",
+                "d": "to lay, to lay down",
+                "s": "Après le repas, je suis allé me coucher. (I went to bed after eating.)"
+            },
+            {
+                "id": "fr-0938",
+                "w": "cuisine",
+                "p": "kɥi.zin",
+                "d": "kitchen",
+                "s": "Est-ce que vous aimez faire la cuisine ? (Do you like cooking?)"
+            },
+            {
+                "id": "fr-0939",
+                "w": "monte",
+                "p": "mɔ̃t",
+                "d": "to go up, to climb",
+                "s": "Monte le son de la radio, s'il te plaît. (Please turn up the radio.)"
+            },
+            {
+                "id": "fr-0940",
+                "w": "signifie",
+                "p": "si.ɲi.fi",
+                "d": "to signify, mean",
+                "s": "Qu'est-ce que cela signifie exactement ? (Exactly what does that mean?)"
+            },
+            {
+                "id": "fr-0941",
+                "w": "entrez",
+                "p": "ɑ̃.tʁe",
+                "d": "to enter",
+                "s": "Entrez et faites comme chez vous. (Come on in and make yourself at home.)"
+            },
+            {
+                "id": "fr-0942",
+                "w": "relation",
+                "p": "ʁə.la.sjɔ̃",
+                "d": "relation",
+                "s": "Elle est en relation avec cette société. (She is connected with that company.)"
+            },
+            {
+                "id": "fr-0943",
+                "w": "centre",
+                "p": "sɑ̃tʁ",
+                "d": "centre, center",
+                "s": "Je me suis évadé du centre de détention. (I escaped from the detention center.)"
+            },
+            {
+                "id": "fr-0944",
+                "w": "dame",
+                "p": "dam",
+                "d": "lady",
+                "s": "Il a offert sa place à une vieille dame. (He offered his seat to an old woman.)"
+            },
+            {
+                "id": "fr-0945",
+                "w": "chacun",
+                "p": "ʃa.kœ̃",
+                "d": "each, each one",
+                "s": "Chacun d'entre eux a chanté une chanson. (Each of them sang a song.)"
+            },
+            {
+                "id": "fr-0946",
+                "w": "chanson",
+                "p": "ʃɑ̃.sɔ̃",
+                "d": "song",
+                "s": "Chacun d'entre eux a chanté une chanson. (Each of them sang a song.)"
+            },
+            {
+                "id": "fr-0947",
+                "w": "foutre",
+                "p": "futʁ",
+                "d": "to give",
+                "s": "La drogue peut foutre ta vie en l'air. (Drugs can ruin your life.)"
+            },
+            {
+                "id": "fr-0948",
+                "w": "voler",
+                "p": "vɔ.le",
+                "d": "to fly through the air",
+                "s": "Ils se sont fait voler tout leur argent. (They were robbed of all their money.)"
+            },
+            {
+                "id": "fr-0949",
+                "w": "blanc",
+                "p": "blɑ̃",
+                "d": "white color",
+                "s": "Vois-tu le grand bâtiment blanc là-bas ? (Can you see the big white building over there?)"
+            },
+            {
+                "id": "fr-0950",
+                "w": "certain",
+                "p": "sɛʁ.tɛ̃",
+                "d": "certain, guaranteed",
+                "s": "Je veux tout simplement en être certain. (I just want to be sure.)"
+            },
+            {
+                "id": "fr-0951",
+                "w": "don",
+                "p": "dɔ̃",
+                "d": "gift, talent, knack",
+                "s": "J'ai fait don de mes vêtements vieillots. (I gave my old clothes away.)"
+            },
+            {
+                "id": "fr-0952",
+                "w": "âme",
+                "p": "am",
+                "d": "soul",
+                "s": "Pensez-vous que les animaux ont une âme ? (Do you think animals have souls?)"
+            },
+            {
+                "id": "fr-0953",
+                "w": "manière",
+                "p": "ma.njɛʁ",
+                "d": "manner, way",
+                "s": "Je pense que c'est la meilleure manière. (I think it's the best way.)"
+            },
+            {
+                "id": "fr-0954",
+                "w": "flic",
+                "p": "flik",
+                "d": "police officer",
+                "s": "Ne dites pas à Tom que vous êtes un flic. (Don't tell Tom you're a cop.)"
+            },
+            {
+                "id": "fr-0955",
+                "w": "décision",
+                "p": "de.si.zjɔ̃",
+                "d": "decision",
+                "s": "La décision n'est pas encore définitive. (The decision isn't yet final.)"
+            },
+            {
+                "id": "fr-0956",
+                "w": "mange",
+                "p": "mɑ̃ʒ",
+                "d": "to eat",
+                "s": "Je mange des céréales au petit-déjeuner. (I eat cereal for breakfast.)"
+            },
+            {
+                "id": "fr-0957",
+                "w": "vit",
+                "p": "vi",
+                "d": "to see",
+                "s": "Elle vit dans une demeure plutôt grande. (She lives in quite a big mansion.)"
+            },
+            {
+                "id": "fr-0958",
+                "w": "compagnie",
+                "p": "kɔ̃.pa.ɲi",
+                "d": "company",
+                "s": "Tom n'aime pas les animaux de compagnie. (Tom is not fond of pets.)"
+            },
+            {
+                "id": "fr-0959",
+                "w": "déjeuner",
+                "p": "de.ʒœ.ne",
+                "d": "lunch, luncheon",
+                "s": "Avez-vous des projets pour le déjeuner ? (Do you have dinner plans?)"
+            },
+            {
+                "id": "fr-0960",
+                "w": "différent",
+                "p": "di.fe.ʁɑ̃",
+                "d": "different",
+                "s": "Permettez-moi d'être d'un avis différent. (I beg to differ with you.)"
+            },
+            {
+                "id": "fr-0961",
+                "w": "tire",
+                "p": "tiʁ",
+                "d": "to draw, drag, pull",
+                "s": "Je pense qu'il est temps que je me tire. (I think it's time for me to shove off.)"
+            },
+            {
+                "id": "fr-0962",
+                "w": "ordres",
+                "p": "ɔʁdʁ",
+                "d": "order",
+                "s": "Je veux que tu agisses selon les ordres. (I want you to follow orders.)"
+            },
+            {
+                "id": "fr-0963",
+                "w": "clé",
+                "p": "kle",
+                "d": "key",
+                "s": "Disposez-vous d'une clé supplémentaire ? (Do you have an extra key?)"
+            },
+            {
+                "id": "fr-0964",
+                "w": "vaisseau",
+                "p": "vɛ.so",
+                "d": "ship, vessel",
+                "s": "Je me demande qui a nommé ce vaisseau. (I wonder who named this ship.)"
+            },
+            {
+                "id": "fr-0965",
+                "w": "secondes",
+                "p": "sə.ɡɔ̃d",
+                "d": "second",
+                "s": "Passe-le trente secondes au micro-ondes. (Zap it in the microwave for thirty seconds.)"
+            },
+            {
+                "id": "fr-0966",
+                "w": "enfer",
+                "p": "ɑ̃.fɛʁ",
+                "d": "Hell",
+                "s": "Tu as fait de ma vie un véritable enfer. (You made my life a living hell.)"
+            },
+            {
+                "id": "fr-0967",
+                "w": "sortez",
+                "p": "sɔʁte",
+                "d": "to exit",
+                "s": "Fermez la porte à clé quand vous sortez. (Lock the door when you go out.)"
+            },
+            {
+                "id": "fr-0968",
+                "w": "vendre",
+                "p": "vɑ̃dʁ",
+                "d": "to sell",
+                "s": "Tom essaya de vendre sa vieille voiture. (Tom tried to sell his old car.)"
+            },
+            {
+                "id": "fr-0969",
+                "w": "faisais",
+                "p": "fə.zɛ",
+                "d": "to do",
+                "s": "Je pourrais être punie si je faisais ça. (I could get punished if I did that.)"
+            },
+            {
+                "id": "fr-0970",
+                "w": "responsable",
+                "p": "ʁɛs.pɔ̃.sabl",
+                "d": "responsible",
+                "s": "Qu'est-ce qui est responsable du délai ? (What's causing the delay?)"
+            },
+            {
+                "id": "fr-0971",
+                "w": "mecs",
+                "p": "mɛk",
+                "d": "guy",
+                "s": "Où vous êtes-vous rencontrés, les mecs ? (Where did you guys meet?)"
+            },
+            {
+                "id": "fr-0972",
+                "w": "nulle",
+                "p": "nyl",
+                "d": "no, none",
+                "s": "On ne pouvait trouver la clé nulle part. (The key was nowhere to be found.)"
+            },
+            {
+                "id": "fr-0973",
+                "w": "signe",
+                "p": "siɲ",
+                "d": "sign",
+                "s": "La pluie ne montre aucun signe de répit. (The rain shows no sign of stopping.)"
+            },
+            {
+                "id": "fr-0974",
+                "w": "lieutenant",
+                "p": "ljøt.nɑ̃",
+                "d": "lieutenant",
+                "s": "Il fut rétrogradé au rang de lieutenant. (He was demoted to the rank of lieutenant.)"
+            },
+            {
+                "id": "fr-0975",
+                "w": "aille",
+                "p": "aj",
+                "d": "to go",
+                "s": "Finis ton verre. Il faut qu'on y aille. (Drink up. We've got to go.)"
+            },
+            {
+                "id": "fr-0976",
+                "w": "acheté",
+                "p": "aʃ.te",
+                "d": "to purchase",
+                "s": "Devinez ce que j'ai acheté aujourd'hui ! (Guess what I bought today.)"
+            },
+            {
+                "id": "fr-0977",
+                "w": "étrange",
+                "p": "e.tʁɑ̃ʒ",
+                "d": "strange",
+                "s": "A entendre, cela me paraît très étrange. (It sounds very strange to me.)"
+            },
+            {
+                "id": "fr-0978",
+                "w": "diable",
+                "p": "djabl",
+                "d": "devil",
+                "s": "Mais que diable es-tu en train de faire ? (What the devil are you doing?)"
+            },
+            {
+                "id": "fr-0979",
+                "w": "viennent",
+                "p": "vjɛn",
+                "d": "to come",
+                "s": "Les rues s'en viennent à être désertées. (The streets become deserted.)"
+            },
+            {
+                "id": "fr-0980",
+                "w": "monter",
+                "p": "mɔ̃.te",
+                "d": "to go up, to climb",
+                "s": "Le prix de l'essence ne cesse de monter. (The cost of gasoline keeps on going up.)"
+            },
+            {
+                "id": "fr-0981",
+                "w": "là-dedans",
+                "p": "la.də.dɑ̃",
+                "d": "inside there",
+                "s": "Ne t'en fais pas. Je suis bon là-dedans. (Don't worry. I'm good at this.)"
+            },
+            {
+                "id": "fr-0982",
+                "w": "capable",
+                "p": "ka.pabl",
+                "d": "able, capable",
+                "s": "Tom est capable de conduire une voiture. (Tom is able to drive a car.)"
+            },
+            {
+                "id": "fr-0983",
+                "w": "emmener",
+                "p": "ɑ̃.m(ə).ne",
+                "d": "to take off",
+                "s": "Je suis venu pour vous emmener chez vous. (I've come to take you home.)"
+            },
+            {
+                "id": "fr-0984",
+                "w": "écrire",
+                "p": "e.kʁiʁ",
+                "d": "to write",
+                "s": "Tom utilise encore une machine à écrire. (Tom still uses a typewriter.)"
+            },
+            {
+                "id": "fr-0985",
+                "w": "honte",
+                "p": "ɔ̃t",
+                "d": "shame",
+                "s": "Vous n'avez aucune raison d'avoir honte. (You've got nothing to be ashamed of.)"
+            },
+            {
+                "id": "fr-0986",
+                "w": "bouche",
+                "p": "buʃ",
+                "d": "mouth",
+                "s": "Dans votre bouche, ça n'était pas clair. (You didn't make it clear.)"
+            },
+            {
+                "id": "fr-0987",
+                "w": "préfère",
+                "p": "pʁe.fɛʁ",
+                "d": "to prefer",
+                "s": "Je préfère être pauvre plutôt que riche. (I'd rather be poor than rich.)"
+            },
+            {
+                "id": "fr-0988",
+                "w": "coupable",
+                "p": "ku.pabl",
+                "d": "guilty",
+                "s": "J'étais convaincue qu'il était coupable. (I was convinced that he was guilty.)"
+            },
+            {
+                "id": "fr-0989",
+                "w": "rire",
+                "p": "ʁiʁ",
+                "d": "to laugh",
+                "s": "Je n'ai juste pas pu me retenir de rire. (I just couldn't keep from laughing.)"
+            },
+            {
+                "id": "fr-0990",
+                "w": "payé",
+                "p": "peje",
+                "d": "to pay",
+                "s": "Nous l'avons payé à un prix raisonnable. (We paid a fair price for it.)"
+            },
+            {
+                "id": "fr-0991",
+                "w": "soin",
+                "p": "swɛ̃",
+                "d": "care",
+                "s": "Il ne sait pas prendre soin de lui-même. (He can't take care of himself.)"
+            },
+            {
+                "id": "fr-0992",
+                "w": "milieu",
+                "p": "mi.ljø",
+                "d": "middle",
+                "s": "Nous étions assis au milieu de la pièce. (We sat in the center of the room.)"
+            },
+            {
+                "id": "fr-0993",
+                "w": "appartement",
+                "p": "a.paʁ.tə.mɑ̃",
+                "d": "apartment, flat",
+                "s": "Notre appartement est au deuxième étage. (Our apartment is on the third floor.)"
+            },
+            {
+                "id": "fr-0994",
+                "w": "prochain",
+                "p": "pʁɔ.ʃɛ̃",
+                "d": "upcoming",
+                "s": "J'espère que je ne suis pas le prochain. (I hope I'm not next.)"
+            },
+            {
+                "id": "fr-0995",
+                "w": "cerveau",
+                "p": "sɛʁ.vo",
+                "d": "brain",
+                "s": "C'est un excellent chirurgien du cerveau. (He's an excellent brain surgeon.)"
+            },
+            {
+                "id": "fr-0996",
+                "w": "paris",
+                "p": "pa.ʁi",
+                "d": "wager, bet",
+                "s": "Est-il vrai que vous faites des paris ? (Is it true that you gamble?)"
+            },
+            {
+                "id": "fr-0997",
+                "w": "blague",
+                "p": "blaɡ",
+                "d": "pouch",
+                "s": "Je pensais qu'il s'agissait d'une blague. (I thought it was a joke.)"
+            },
+            {
+                "id": "fr-0998",
+                "w": "choisi",
+                "p": "ʃwa.zi",
+                "d": "to choose",
+                "s": "J'ai choisi de regarder de l'autre côté. (I chose to look the other way.)"
+            },
+            {
+                "id": "fr-0999",
+                "w": "époque",
+                "p": "e.pɔk",
+                "d": "epoch",
+                "s": "À cette époque, nous étions plus jeunes. (We were younger then.)"
+            },
+            {
+                "id": "fr-1000",
+                "w": "aurez",
+                "p": "ɔ.ʁe",
+                "d": "to have",
+                "s": "Téléphonez-moi quand vous aurez terminé. (Call me when you're done.)"
+            },
+            {
+                "id": "fr-1001",
+                "w": "voie",
+                "p": "vwa",
+                "d": "way, track",
+                "s": "La jambe de Tom est en voie de guérison. (Tom's leg is healing.)"
+            },
+            {
+                "id": "fr-1002",
+                "w": "réunion",
+                "p": "ʁe.y.njɔ̃",
+                "d": "meeting",
+                "s": "Nous ne pouvons pas reporter la réunion. (We can't postpone the meeting.)"
+            },
+            {
+                "id": "fr-1003",
+                "w": "connu",
+                "p": "kɔ.ny",
+                "d": "to know",
+                "s": "Il est connu pour être un grand peintre. (He is known as a great painter.)"
+            },
+            {
+                "id": "fr-1004",
+                "w": "allée",
+                "p": "a.le",
+                "d": "to go",
+                "s": "Avec qui es-tu allée faire tes courses ? (Who did you go shopping with?)"
+            },
+            {
+                "id": "fr-1005",
+                "w": "intérêt",
+                "p": "ɛ̃.te.ʁɛ",
+                "d": "interest",
+                "s": "Mon oncle a un grand intérêt pour l'art. (My uncle has a deep interest in art.)"
+            },
+            {
+                "id": "fr-1006",
+                "w": "cheval",
+                "p": "ʃə.val",
+                "d": "horse",
+                "s": "Son cheval sauta par-dessus la clôture. (His horse jumped over the fence.)"
+            },
+            {
+                "id": "fr-1007",
+                "w": "combat",
+                "p": "kɔ̃.ba",
+                "d": "combat",
+                "s": "Tom a perdu son combat contre le cancer. (Tom lost his fight with cancer.)"
+            },
+            {
+                "id": "fr-1008",
+                "w": "silence",
+                "p": "si.lɑ̃s",
+                "d": "silence",
+                "s": "Un silence s'est installé dans la pièce. (A hush fell over the room.)"
+            },
+            {
+                "id": "fr-1009",
+                "w": "coups",
+                "p": "ku",
+                "d": "sound of the action",
+                "s": "Elle a su faire d'une pierre deux coups. (She was able to kill two birds with one stone.)"
+            },
+            {
+                "id": "fr-1010",
+                "w": "existe",
+                "p": "ɛɡ.zist",
+                "d": "to exist",
+                "s": "L'honneur existe même parmi les voleurs. (There is honor even among thieves.)"
+            },
+            {
+                "id": "fr-1011",
+                "w": "retourne",
+                "p": "ʁətuʁn",
+                "d": "to turn over",
+                "s": "Pouvez-vous me dire de quoi il retourne ? (Can you tell me what this is?)"
+            },
+            {
+                "id": "fr-1012",
+                "w": "tel",
+                "p": "tɛl",
+                "d": "such",
+                "s": "Comment peux-tu supporter un tel froid ? (How can you endure such cold?)"
+            },
+            {
+                "id": "fr-1013",
+                "w": "trou",
+                "p": "tʁu",
+                "d": "hole",
+                "s": "Il y a un gros trou dans ta chaussette. (There's a big hole in your sock.)"
+            },
+            {
+                "id": "fr-1014",
+                "w": "public",
+                "p": "py.blik",
+                "d": "public",
+                "s": "Parler devant un public me rend nerveux. (Speaking in public makes me nervous.)"
+            },
+            {
+                "id": "fr-1015",
+                "w": "oeil",
+                "p": "œj",
+                "d": "eye",
+                "s": ""
+            },
+            {
+                "id": "fr-1016",
+                "w": "pleine",
+                "p": "plɛn",
+                "d": "full, full up",
+                "s": "La vie est pleine de choses déroutantes. (Life is full of confusing things.)"
+            },
+            {
+                "id": "fr-1017",
+                "w": "cacher",
+                "p": "ka.ʃe",
+                "d": "to hide",
+                "s": "Tout le monde a quelque chose à cacher ! (Everyone has something to hide.)"
+            },
+            {
+                "id": "fr-1018",
+                "w": "amoureux",
+                "p": "a.mu.ʁø",
+                "d": "love",
+                "s": "Ne veux-tu pas être à nouveau amoureux ? (Don't you want to be in love again?)"
+            },
+            {
+                "id": "fr-1019",
+                "w": "drogue",
+                "p": "dʁɔɡ",
+                "d": "drug",
+                "s": "Tom n'est pas un trafiquant de drogue. (Tom isn't a drug dealer.)"
+            },
+            {
+                "id": "fr-1020",
+                "w": "commandant",
+                "p": "kɔ.mɑ̃.dɑ̃",
+                "d": "commander",
+                "s": "Qui est le commandant de ce navire ? (Who's the captain of this ship?)"
+            },
+            {
+                "id": "fr-1021",
+                "w": "garçons",
+                "p": "ɡaʁ.sɔ̃",
+                "d": "boy",
+                "s": "Pourquoi les garçons sont-ils si bêtes ? (Why are boys so dumb?)"
+            },
+            {
+                "id": "fr-1022",
+                "w": "faisons",
+                "p": "fə.zɔ̃",
+                "d": "to do",
+                "s": "Nous faisons des grillades en ce moment. (We're having a barbecue.)"
+            },
+            {
+                "id": "fr-1023",
+                "w": "tient",
+                "p": "tjɛ̃",
+                "d": "to have",
+                "s": "Qu'est-ce qui te tient éveillé la nuit ? (What keeps you up at night?)"
+            },
+            {
+                "id": "fr-1024",
+                "w": "prise",
+                "p": "pʁiz",
+                "d": "taken",
+                "s": "Cette décision n'a pas encore été prise. (That decision hasn't yet been made.)"
+            },
+            {
+                "id": "fr-1025",
+                "w": "gouvernement",
+                "p": "ɡu.vɛʁ.nə.mɑ̃",
+                "d": "government",
+                "s": "Ils ont comploté contre le gouvernement. (They plotted against the government.)"
+            },
+            {
+                "id": "fr-1026",
+                "w": "dirai",
+                "p": "di.ʁe",
+                "d": "to say, to tell",
+                "s": "Je ne le dirai pas si tu ne le fais pas. (I won't tell if you won't.)"
+            },
+            {
+                "id": "fr-1027",
+                "w": "client",
+                "p": "kli.jɑ̃",
+                "d": "customer",
+                "s": "Est-ce que le client a toujours raison ? (Is the customer always right?)"
+            },
+            {
+                "id": "fr-1028",
+                "w": "adresse",
+                "p": "a.dʁɛs",
+                "d": "skill, adroitness",
+                "s": "Cette lettre porte une mauvaise adresse. (This letter is wrongly addressed.)"
+            },
+            {
+                "id": "fr-1029",
+                "w": "journal",
+                "p": "ʒuʁ.nal",
+                "d": "diary, journal",
+                "s": "J'écris tous les jours dans mon journal. (I write in my diary every day.)"
+            },
+            {
+                "id": "fr-1030",
+                "w": "contact",
+                "p": "kɔ̃.takt",
+                "d": "contact",
+                "s": "On m'a dit de prendre contact avec vous. (I was told to contact you.)"
+            },
+            {
+                "id": "fr-1031",
+                "w": "dingue",
+                "p": "dɛ̃ɡ",
+                "d": "mad, crazy, nuts",
+                "s": "Peut-être que je suis simplement dingue. (Maybe I'm just crazy.)"
+            },
+            {
+                "id": "fr-1032",
+                "w": "sent",
+                "p": "sɑ̃",
+                "d": "to smell",
+                "s": "Elle bégaye quand elle se sent nerveuse. (She stammers when she feels nervous.)"
+            },
+            {
+                "id": "fr-1033",
+                "w": "récupérer",
+                "p": "ʁe.ky.pe.ʁe",
+                "d": "to get back",
+                "s": "Je pensais que tu voudrais le récupérer. (I thought you'd want it back.)"
+            },
+            {
+                "id": "fr-1034",
+                "w": "base",
+                "p": "baz",
+                "d": "base",
+                "s": "Ils agirent sur la base de l'information. (They acted on the information.)"
+            },
+            {
+                "id": "fr-1035",
+                "w": "preuves",
+                "p": "pʁœv",
+                "d": "evidence, proof",
+                "s": "Tom a été acquitté par manque de preuves. (Tom was acquitted for lack of evidence.)"
+            },
+            {
+                "id": "fr-1036",
+                "w": "présente",
+                "p": "pʁe.zɑ̃t",
+                "d": "to present",
+                "s": "Je vous présente mes excuses pour cela. (I apologize for that.)"
+            },
+            {
+                "id": "fr-1037",
+                "w": "peau",
+                "p": "po",
+                "d": "skin of a person or animal",
+                "s": "Les mauvaises habitudes ont la peau dure. (Bad habits die hard.)"
+            },
+            {
+                "id": "fr-1038",
+                "w": "servir",
+                "p": "sɛʁ.viʁ",
+                "d": "to serve",
+                "s": "Voici un couteau dont tu peux te servir. (Here's a knife you can use.)"
+            },
+            {
+                "id": "fr-1039",
+                "w": "peuple",
+                "p": "pœpl",
+                "d": "people",
+                "s": "La guerre a unifié le peuple américain. (The war had united the American people.)"
+            },
+            {
+                "id": "fr-1040",
+                "w": "exemple",
+                "p": "ɛɡ.zɑ̃pl",
+                "d": "example",
+                "s": "Pouvez-vous me fournir un autre exemple ? (Can you give me another example?)"
+            },
+            {
+                "id": "fr-1041",
+                "w": "fiche",
+                "p": "fiʃ",
+                "d": "to plug in",
+                "s": "Elle se fiche de comment elle s'habille. (She doesn't care how she dresses.)"
+            },
+            {
+                "id": "fr-1042",
+                "w": "promets",
+                "p": "pʁomɛ",
+                "d": "to promise",
+                "s": "Je vous promets que cela n'arrivera pas. (I promise you that won't happen.)"
+            },
+            {
+                "id": "fr-1043",
+                "w": "lequel",
+                "p": "lə.kɛl",
+                "d": "which, that, whom",
+                "s": "Lequel d'entre vous est le père de Tom ? (Which of you is Tom's father?)"
+            },
+            {
+                "id": "fr-1044",
+                "w": "blessé",
+                "p": "blɛ.se",
+                "d": "to wound, to injure",
+                "s": "Il s'est blessé pendant la partie, hier. (He got hurt in the game yesterday.)"
+            },
+            {
+                "id": "fr-1045",
+                "w": "société",
+                "p": "sɔ.sje.te",
+                "d": "society",
+                "s": "Elle est en relation avec cette société. (She is connected with that company.)"
+            },
+            {
+                "id": "fr-1046",
+                "w": "tort",
+                "p": "tɔʁ",
+                "d": "fault",
+                "s": "J'espère que Tom prouvera que j'ai tort. (I hope Tom proves me wrong.)"
+            },
+            {
+                "id": "fr-1047",
+                "w": "sept",
+                "p": "sɛt",
+                "d": "seven",
+                "s": "Dessine-moi une étoile à sept branches ! (Draw me a seven-pointed star.)"
+            },
+            {
+                "id": "fr-1048",
+                "w": "pourriez",
+                "p": "puʁje",
+                "d": "can, to be able to",
+                "s": "Vous pourriez être arrêté à tout moment. (You might be arrested at any time.)"
+            },
+            {
+                "id": "fr-1049",
+                "w": "savent",
+                "p": "sav",
+                "d": "to know",
+                "s": "Tous mes enfants savent parler français. (All of my children can speak French.)"
+            },
+            {
+                "id": "fr-1050",
+                "w": "ouvert",
+                "p": "u.vɛʁ",
+                "d": "to open",
+                "s": "Le magasin n'est pas ouvert aujourd'hui. (The store is not open today.)"
+            },
+            {
+                "id": "fr-1051",
+                "w": "héros",
+                "p": "e.ʁo",
+                "d": "hero",
+                "s": "Chaque petit garçon a besoin d'un héros. (Every little boy needs a hero.)"
+            },
+            {
+                "id": "fr-1052",
+                "w": "menti",
+                "p": "mɑ̃ti",
+                "d": "to lie",
+                "s": "Je suis vraiment désolée d'avoir menti. (I'm very sorry I lied.)"
+            },
+            {
+                "id": "fr-1053",
+                "w": "mer",
+                "p": "mɛʁ",
+                "d": "sea",
+                "s": "Il y a beaucoup de poissons dans la mer. (There are a lot of fish in the sea.)"
+            },
+            {
+                "id": "fr-1054",
+                "w": "contente",
+                "p": "kɔ̃.tɑ̃t",
+                "d": "content",
+                "s": "Je suis contente que tu aies demandé ça. (I'm glad you asked that.)"
+            },
+            {
+                "id": "fr-1055",
+                "w": "quitté",
+                "p": "kite",
+                "d": "to discharge somebody from an obligation",
+                "s": "Nous avons quitté Boston à 14 h 30 hier. (We left Boston at 2:30 yesterday.)"
+            },
+            {
+                "id": "fr-1056",
+                "w": "jeter",
+                "p": "ʒə.te",
+                "d": "to throw",
+                "s": "Je pensais que tu voudrais jeter un œil. (I thought you'd want to take a look.)"
+            },
+            {
+                "id": "fr-1057",
+                "w": "sauvé",
+                "p": "sove",
+                "d": "to save, rescue",
+                "s": "Il a sauvé un petit garçon de la noyade. (He saved a little boy from drowning.)"
+            },
+            {
+                "id": "fr-1058",
+                "w": "bière",
+                "p": "bjɛʁ",
+                "d": "beer",
+                "s": "Tom ne boit jamais de bière à la maison. (Tom never drinks beer at home.)"
+            },
+            {
+                "id": "fr-1059",
+                "w": "assis",
+                "p": "a.si",
+                "d": "to sit down",
+                "s": "Le vieux couple était assis côte-à-côte. (The old couple sat side by side.)"
+            },
+            {
+                "id": "fr-1060",
+                "w": "robe",
+                "p": "ʁɔb",
+                "d": "dress, frock",
+                "s": "Elle s'est fait faire une nouvelle robe. (She had a new dress made.)"
+            },
+            {
+                "id": "fr-1061",
+                "w": "devient",
+                "p": "də.vjɛ̃",
+                "d": "to become",
+                "s": "Si ça devient ennuyeux, j'irai chez moi. (If it gets boring, I'll go home.)"
+            },
+            {
+                "id": "fr-1062",
+                "w": "félicitations",
+                "p": "fe.li.si.ta.sjɔ̃",
+                "d": "congratulation",
+                "s": "Je crois que cela mérite des félicitations. (I believe congratulations are in order.)"
+            },
+            {
+                "id": "fr-1063",
+                "w": "opération",
+                "p": "ɔ.pe.ʁa.sjɔ̃",
+                "d": "operation",
+                "s": "Il a eu une opération à la jambe gauche. (He had an operation on his left leg.)"
+            },
+            {
+                "id": "fr-1064",
+                "w": "prévu",
+                "p": "pʁe.vy",
+                "d": "to anticipate",
+                "s": "J'avais prévu de me rendre à l'étranger. (I'd planned to go abroad.)"
+            },
+            {
+                "id": "fr-1065",
+                "w": "fut",
+                "p": "fy",
+                "d": "to be",
+                "s": "La mort de Thomas ne fut pas un suicide. (Tom's death wasn't a suicide.)"
+            },
+            {
+                "id": "fr-1066",
+                "w": "tenez",
+                "p": "təne",
+                "d": "to have",
+                "s": "Tenez compte de tous les avertissements. (Heed all warnings.)"
+            },
+            {
+                "id": "fr-1067",
+                "w": "livres",
+                "p": "livʁ",
+                "d": "book",
+                "s": "Tous ces livres vous appartiennent-ils ? (Are all these books yours?)"
+            },
+            {
+                "id": "fr-1068",
+                "w": "répondre",
+                "p": "ʁe.pɔ̃dʁ",
+                "d": "to reply, to answer",
+                "s": "Les étudiants ne pouvaient pas répondre. (The students couldn't answer.)"
+            },
+            {
+                "id": "fr-1069",
+                "w": "seuls",
+                "p": "sœl",
+                "d": "lonely",
+                "s": "Vous ne devriez pas vous y rendre seuls. (You should not go alone.)"
+            },
+            {
+                "id": "fr-1070",
+                "w": "pute",
+                "p": "pyt",
+                "d": "whore, slut",
+                "s": ""
+            },
+            {
+                "id": "fr-1071",
+                "w": "entrée",
+                "p": "ɑ̃.tʁe",
+                "d": "entry",
+                "s": "Il a quitté la pièce quand je suis entrée. (He left the room when I came in.)"
+            },
+            {
+                "id": "fr-1072",
+                "w": "vol",
+                "p": "vɔl",
+                "d": "flight",
+                "s": "Un épais brouillard a retardé notre vol. (A thick fog delayed our flight.)"
+            },
+            {
+                "id": "fr-1073",
+                "w": "horrible",
+                "p": "ɔ.ʁibl",
+                "d": "horrible",
+                "s": "J'ai eu une horrible journée, au travail. (I had a horrible day at work.)"
+            },
+            {
+                "id": "fr-1074",
+                "w": "vin",
+                "p": "vɛ̃",
+                "d": "wine",
+                "s": "J'ai acheté plusieurs bouteilles de vin. (I bought several bottles of wine.)"
+            },
+            {
+                "id": "fr-1075",
+                "w": "dommage",
+                "p": "dɔ.maʒ",
+                "d": "damage",
+                "s": "La tempête n'a occasionné aucun dommage. (The storm didn't cause any damage.)"
+            },
+            {
+                "id": "fr-1076",
+                "w": "auriez",
+                "p": "ɔ.ʁje",
+                "d": "to have",
+                "s": "Vous auriez dû me consulter en premier. (You should have consulted me first.)"
+            },
+            {
+                "id": "fr-1077",
+                "w": "colonel",
+                "p": "kɔ.lɔ.nɛl",
+                "d": "a colonel",
+                "s": "Il fut élevé au rang de colonel il y a deux ans. (He was promoted to colonel two years ago.)"
+            },
+            {
+                "id": "fr-1078",
+                "w": "ramener",
+                "p": "ʁa.m(ə).ne",
+                "d": "to take back",
+                "s": "Je lui ai demandé de me ramener chez moi. (I asked him to drive me home.)"
+            },
+            {
+                "id": "fr-1079",
+                "w": "règles",
+                "p": "ʁɛɡl",
+                "d": "rule, regulation",
+                "s": "Je crois que vous connaissez les règles. (I believe you know the rules.)"
+            },
+            {
+                "id": "fr-1080",
+                "w": "nez",
+                "p": "ne",
+                "d": "nose",
+                "s": "Personne n'a montré son nez aujourd'hui. (Nobody showed up today.)"
+            },
+            {
+                "id": "fr-1081",
+                "w": "justice",
+                "p": "ʒys.tis",
+                "d": "justice",
+                "s": "N'as-tu donc pas le sens de la justice ? (Don't you have a sense of justice?)"
+            },
+            {
+                "id": "fr-1082",
+                "w": "découvert",
+                "p": "de.ku.vɛʁ",
+                "d": "to discover",
+                "s": "J'ai enfin découvert ce qui s'est passé. (I finally found out what happened.)"
+            },
+            {
+                "id": "fr-1083",
+                "w": "départ",
+                "p": "de.paʁ",
+                "d": "departure, start",
+                "s": "Au départ je me suis sentie embarrassée. (I felt embarrassed at first.)"
+            },
+            {
+                "id": "fr-1084",
+                "w": "bruit",
+                "p": "bʁɥi",
+                "d": "a noise",
+                "s": "Il n'y avait pas un bruit dans la pièce. (The room was quiet.)"
+            },
+            {
+                "id": "fr-1085",
+                "w": "secours",
+                "p": "sə.kuʁ",
+                "d": "aid",
+                "s": "Avons-nous besoin d'un plan de secours ? (Do we need a Plan B?)"
+            },
+            {
+                "id": "fr-1086",
+                "w": "vérifier",
+                "p": "ve.ʁi.fje",
+                "d": "to confirm",
+                "s": "Je peux vérifier ta tension artérielle ? (Can I check your blood pressure?)"
+            },
+            {
+                "id": "fr-1087",
+                "w": "enceinte",
+                "p": "ɑ̃.sɛ̃t",
+                "d": "pregnant",
+                "s": "Ma femme était enceinte à l'époque. (My wife was pregnant at the time.)"
+            },
+            {
+                "id": "fr-1088",
+                "w": "mise",
+                "p": "miz",
+                "d": "to put",
+                "s": "Pourquoi t'es-tu mise autant en colère ? (Why did you get so angry?)"
+            },
+            {
+                "id": "fr-1089",
+                "w": "témoin",
+                "p": "te.mwɛ̃",
+                "d": "witness",
+                "s": "Notre unique témoin refuse de témoigner. (Our only witness is refusing to testify.)"
+            },
+            {
+                "id": "fr-1090",
+                "w": "dirais",
+                "p": "di.ʁɛ",
+                "d": "to say, to tell",
+                "s": "J'ai eu le sentiment que tu dirais cela. (I had a feeling you'd say that.)"
+            },
+            {
+                "id": "fr-1091",
+                "w": "directeur",
+                "p": "di.ʁɛk.tœʁ",
+                "d": "director",
+                "s": "J'ai rencontré le directeur en personne. (I met the principal himself.)"
+            },
+            {
+                "id": "fr-1092",
+                "w": "intéressant",
+                "p": "ɛ̃.te.ʁɛ.sɑ̃",
+                "d": "interesting",
+                "s": "J'ai trouvé le travail très intéressant. (I found the work very interesting.)"
+            },
+            {
+                "id": "fr-1093",
+                "w": "excuse",
+                "p": "ɛk.skyz",
+                "d": "to excuse",
+                "s": "Crois-moi, cette excuse ne passera pas. (Believe me, that excuse ain't gonna fly.)"
+            },
+            {
+                "id": "fr-1094",
+                "w": "environ",
+                "p": "ɑ̃.vi.ʁɔ̃",
+                "d": "about",
+                "s": "Tom est parti il y a environ 30 minutes. (Tom left about 30 minutes ago.)"
+            },
+            {
+                "id": "fr-1095",
+                "w": "inutile",
+                "p": "i.ny.til",
+                "d": "useless",
+                "s": "Il est inutile d'essayer de m'intimider. (It's no use trying to intimidate me.)"
+            },
+            {
+                "id": "fr-1096",
+                "w": "terrible",
+                "p": "tɛ.ʁibl",
+                "d": "terrible",
+                "s": "J'ai un terrible mal de tête aujourd'hui. (I have a bad headache today.)"
+            },
+            {
+                "id": "fr-1097",
+                "w": "danse",
+                "p": "dɑ̃s",
+                "d": "dance",
+                "s": "Veux-tu vraiment que je danse avec toi ? (Do you really want me to dance with you?)"
+            },
+            {
+                "id": "fr-1098",
+                "w": "position",
+                "p": "po.zi.sjɔ̃",
+                "d": "position",
+                "s": "Vous n'êtes pas en position de négocier. (You're in no position to bargain.)"
+            },
+            {
+                "id": "fr-1099",
+                "w": "humain",
+                "p": "y.mɛ̃",
+                "d": "human",
+                "s": "Se tromper est humain, pardonner, divin. (To err is human, to forgive divine.)"
+            },
+            {
+                "id": "fr-1100",
+                "w": "apparemment",
+                "p": "a.pa.ʁa.mɑ̃",
+                "d": "apparently",
+                "s": "Tom est apparemment chauffeur de camion. (Tom is apparently a truck driver.)"
+            },
+            {
+                "id": "fr-1101",
+                "w": "avenir",
+                "p": "av.niʁ",
+                "d": "future",
+                "s": "Je ferai ça dans un avenir très proche. (I'll do that in the very near future.)"
+            },
+            {
+                "id": "fr-1102",
+                "w": "rêves",
+                "p": "ʁɛv",
+                "d": "dream",
+                "s": "Vous ne pouvez pas renoncer à vos rêves. (You can't give up on your dreams.)"
+            },
+            {
+                "id": "fr-1103",
+                "w": "œil",
+                "p": "œj",
+                "d": "eye",
+                "s": "Je pensais que tu voudrais jeter un œil. (I thought you'd want to take a look.)"
+            },
+            {
+                "id": "fr-1104",
+                "w": "bête",
+                "p": "bɛt",
+                "d": "stupid",
+                "s": "Il n'est pas aussi bête qu'il en a l'air. (He isn't as stupid as he looks.)"
+            },
+            {
+                "id": "fr-1105",
+                "w": "sérieusement",
+                "p": "se.ʁjøz.mɑ̃",
+                "d": "seriously",
+                "s": "Envisages-tu sérieusement de te marier ? (Are you serious about getting married?)"
+            },
+            {
+                "id": "fr-1106",
+                "w": "bravo",
+                "p": "bʁa.vo",
+                "d": "bravo!",
+                "s": "Bravo ! Tu as joliment réalisé ce dessin. (Well done! You have drawn this picture nicely.)"
+            },
+            {
+                "id": "fr-1107",
+                "w": "approche",
+                "p": "a.pʁɔʃ",
+                "d": "to approach",
+                "s": "Nous sortons d'ici. La tempête approche. (We're getting out of here. The storm is coming.)"
+            },
+            {
+                "id": "fr-1108",
+                "w": "nourriture",
+                "p": "nu.ʁi.tyʁ",
+                "d": "food, nourishment",
+                "s": "Il n'y a pas suffisamment de nourriture. (There's not enough food.)"
+            },
+            {
+                "id": "fr-1109",
+                "w": "fric",
+                "p": "fʁik",
+                "d": "dosh, dough, bread",
+                "s": "J'ai claqué tout mon fric en conneries. (I spent all my money on stupid stuff.)"
+            },
+            {
+                "id": "fr-1110",
+                "w": "plupart",
+                "p": "ply.paʁ",
+                "d": "main part, majority",
+                "s": "La chaleur dilate la plupart des choses. (Heat expands most things.)"
+            },
+            {
+                "id": "fr-1111",
+                "w": "lycée",
+                "p": "li.se",
+                "d": "a public secondary school",
+                "s": "J'ai lu ce livre quand j'étais au lycée. (I read this book when I was in high school.)"
+            },
+            {
+                "id": "fr-1112",
+                "w": "tas",
+                "p": "ta",
+                "d": "heap",
+                "s": "Nous avons eu des tas de problèmes hier. (We had a lot of problems yesterday.)"
+            },
+            {
+                "id": "fr-1113",
+                "w": "empêcher",
+                "p": "ɑ̃.pɛ.ʃe",
+                "d": "to stop",
+                "s": "Je ne peux simplement pas m'en empêcher. (I just can't help it.)"
+            },
+            {
+                "id": "fr-1114",
+                "w": "longue",
+                "p": "lɔ̃ɡ",
+                "d": "long",
+                "s": "Après une longue absence, il est revenu. (After a long absence he came back.)"
+            },
+            {
+                "id": "fr-1115",
+                "w": "sexe",
+                "p": "sɛks",
+                "d": "sex",
+                "s": "Certains poissons sont capables de changer de sexe. (Some fish are able to change their gender.)"
+            },
+            {
+                "id": "fr-1116",
+                "w": "niveau",
+                "p": "ni.vo",
+                "d": "level",
+                "s": "Quel est ton plus haut niveau d'études ? (What is the highest level of school you completed?)"
+            },
+            {
+                "id": "fr-1117",
+                "w": "banque",
+                "p": "bɑ̃k",
+                "d": "bank",
+                "s": "La banque n'est pas ouverte le dimanche. (The bank isn't open on Sundays.)"
+            },
+            {
+                "id": "fr-1118",
+                "w": "éviter",
+                "p": "e.vi.te",
+                "d": "to avoid",
+                "s": "J'ai fait de mon mieux pour éviter ceci. (I did my best to prevent this.)"
+            },
+            {
+                "id": "fr-1119",
+                "w": "étions",
+                "p": "e.tjɔ̃",
+                "d": "to be",
+                "s": "Nous étions seulement en train de jouer. (We were just playing.)"
+            },
+            {
+                "id": "fr-1120",
+                "w": "lune",
+                "p": "lyn",
+                "d": "the Moon",
+                "s": "Le soleil est plus brillant que la lune. (The sun is brighter than the moon.)"
+            },
+            {
+                "id": "fr-1121",
+                "w": "pitié",
+                "p": "pi.tje",
+                "d": "pity, mercy",
+                "s": "Ne confonds jamais la pitié avec l'amour. (Never confuse pity with love.)"
+            },
+            {
+                "id": "fr-1122",
+                "w": "liberté",
+                "p": "li.bɛʁ.te",
+                "d": "liberty",
+                "s": "Lincoln a donné la liberté aux esclaves. (Lincoln set the slaves free.)"
+            },
+            {
+                "id": "fr-1123",
+                "w": "expérience",
+                "p": "ɛk.spe.ʁjɑ̃s",
+                "d": "experiment",
+                "s": "Ce fut une nouvelle expérience pour moi. (It was a new experience for me.)"
+            },
+            {
+                "id": "fr-1124",
+                "w": "procès",
+                "p": "pʁɔ.sɛ",
+                "d": "lawsuit",
+                "s": "La vérité éclata finalement à son procès. (The truth finally came out at his trial.)"
+            },
+            {
+                "id": "fr-1125",
+                "w": "radio",
+                "p": "ʁa.djo",
+                "d": "radio, tuner",
+                "s": "Monte le son de la radio, s'il te plaît. (Please turn up the radio.)"
+            },
+            {
+                "id": "fr-1126",
+                "w": "hum",
+                "p": "ɔm",
+                "d": "um..., hm",
+                "s": ""
+            },
+            {
+                "id": "fr-1127",
+                "w": "verra",
+                "p": "vɛ.ʁa",
+                "d": "to see",
+                "s": "Je ne pense pas qu'on verra Tom aujourd'hui. (I don't think we're going to see Tom today.)"
+            },
+            {
+                "id": "fr-1128",
+                "w": "thé",
+                "p": "te",
+                "d": "tea",
+                "s": "Pour moi du thé au citron, je vous prie. (I'll have lemon tea, please.)"
+            },
+            {
+                "id": "fr-1129",
+                "w": "partez",
+                "p": "paʁte",
+                "d": "to share",
+                "s": "Je ne comprends pas pourquoi vous partez. (I don't understand why you're leaving.)"
+            },
+            {
+                "id": "fr-1130",
+                "w": "utilisé",
+                "p": "y.ti.li.ze",
+                "d": "to use, to utilize",
+                "s": "Il a utilisé une fausse carte d'identité. (He used a fake I.D.)"
+            },
+            {
+                "id": "fr-1131",
+                "w": "mur",
+                "p": "myʁ",
+                "d": "wall",
+                "s": "L'image est maintenant accrochée au mur. (The picture is on the wall now.)"
+            },
+            {
+                "id": "fr-1132",
+                "w": "pose",
+                "p": "poz",
+                "d": "to stop carrying",
+                "s": "Il pose toujours des questions stupides. (He's always asking silly questions.)"
+            },
+            {
+                "id": "fr-1133",
+                "w": "revenu",
+                "p": "ʁə.v(ə).ny",
+                "d": "to come back",
+                "s": "Après une longue absence, il est revenu. (After a long absence he came back.)"
+            },
+            {
+                "id": "fr-1134",
+                "w": "deuxième",
+                "p": "dø.zjɛm",
+                "d": "second",
+                "s": "Notre appartement est au deuxième étage. (Our apartment is on the third floor.)"
+            },
+            {
+                "id": "fr-1135",
+                "w": "bande",
+                "p": "bɑ̃d",
+                "d": "band, strip",
+                "s": "Tu dois te tenir à l'écart de cette bande. (You must steer clear of that gang.)"
+            },
+            {
+                "id": "fr-1136",
+                "w": "certaines",
+                "p": "sɛʁ.tɛn",
+                "d": "certain, guaranteed",
+                "s": "Certaines d'entre elles furent blessées. (Some of them were wounded.)"
+            },
+            {
+                "id": "fr-1137",
+                "w": "ridicule",
+                "p": "ʁi.di.kyl",
+                "d": "ridiculous",
+                "s": "Ne penses-tu pas que ceci est ridicule ? (Don't you think this is ridiculous?)"
+            },
+            {
+                "id": "fr-1138",
+                "w": "nord",
+                "p": "nɔʁ",
+                "d": "north",
+                "s": "Il est parti en expédition au pôle Nord. (He left on an expedition to the North Pole.)"
+            },
+            {
+                "id": "fr-1139",
+                "w": "appelez",
+                "p": "a.ple",
+                "d": "to call",
+                "s": "Appelez une ambulance s'il vous plait. (Please send an ambulance.)"
+            },
+            {
+                "id": "fr-1140",
+                "w": "copine",
+                "p": "kɔ.pin",
+                "d": "female friend",
+                "s": "Je sais que vous avez une petite copine. (I know you have a girlfriend.)"
+            },
+            {
+                "id": "fr-1141",
+                "w": "baiser",
+                "p": "bɛ.ze",
+                "d": "to kiss",
+                "s": "N'ai-je pas droit à un baiser d'adieu ? (Don't I get a goodbye kiss?)"
+            },
+            {
+                "id": "fr-1142",
+                "w": "anglais",
+                "p": "ɑ̃.ɡlɛ",
+                "d": "English",
+                "s": "Elle obtient de bonnes notes en anglais. (She gets good marks in English.)"
+            },
+            {
+                "id": "fr-1143",
+                "w": "henry",
+                "p": "ɑ̃.ʁi",
+                "d": "henry",
+                "s": ""
+            },
+            {
+                "id": "fr-1144",
+                "w": "toilettes",
+                "p": "twa.lɛt",
+                "d": "toilet, lavatory",
+                "s": "Est-ce que je peux aller aux toilettes ? (May I use the toilet?)"
+            },
+            {
+                "id": "fr-1145",
+                "w": "portes",
+                "p": "pɔʁt",
+                "d": "door",
+                "s": "Nous avons verrouillé toutes les portes. (We locked all the doors.)"
+            },
+            {
+                "id": "fr-1146",
+                "w": "faudra",
+                "p": "fo.dʁa",
+                "d": "to need",
+                "s": "Il faudra d'abord qu'ils nous attrapent. (They'll have to catch us first.)"
+            },
+            {
+                "id": "fr-1147",
+                "w": "occupé",
+                "p": "ɔ.ky.pe",
+                "d": "to occupy",
+                "s": "Ne pouvez-vous voir que je suis occupé ? (Can't you see I'm busy?)"
+            },
+            {
+                "id": "fr-1148",
+                "w": "grands",
+                "p": "ɡʁɑ̃",
+                "d": "big",
+                "s": "Les hiboux sont pourvus de grands yeux. (Owls have big eyes.)"
+            },
+            {
+                "id": "fr-1149",
+                "w": "dérange",
+                "p": "de.ʁɑ̃ʒ",
+                "d": "to bother",
+                "s": "Est-ce que je dérange quoi que ce soit ? (Am I disturbing anything?)"
+            },
+            {
+                "id": "fr-1150",
+                "w": "rôle",
+                "p": "ʁol",
+                "d": "role",
+                "s": "Il a joué un rôle clé dans le mouvement. (He played a key role in the movement.)"
+            },
+            {
+                "id": "fr-1151",
+                "w": "censé",
+                "p": "sɑ̃.se",
+                "d": "supposed to",
+                "s": "Rien de tout cela n'était censé arriver. (None of this was meant to happen.)"
+            },
+            {
+                "id": "fr-1152",
+                "w": "reine",
+                "p": "ʁɛn",
+                "d": "queen",
+                "s": "La rose est appelée la reine des fleurs. (The rose is called the queen of flowers.)"
+            },
+            {
+                "id": "fr-1153",
+                "w": "croit",
+                "p": "kʁwa",
+                "d": "to believe",
+                "s": "Personne ne croit que c'est une blague. (Nobody thinks this is a joke.)"
+            },
+            {
+                "id": "fr-1154",
+                "w": "cour",
+                "p": "kuʁ",
+                "d": "courtyard",
+                "s": "Je pense que Tom est dans la cour avant. (I think Tom is in the front yard.)"
+            },
+            {
+                "id": "fr-1155",
+                "w": "église",
+                "p": "e.ɡliz",
+                "d": "church",
+                "s": "Quand cette église a-t-elle été érigée ? (When was this church built?)"
+            },
+            {
+                "id": "fr-1156",
+                "w": "vide",
+                "p": "vid",
+                "d": "empty",
+                "s": "Le réservoir d'essence est presque vide. (The gas tank is almost empty.)"
+            },
+            {
+                "id": "fr-1157",
+                "w": "obtenir",
+                "p": "ɔp.tə.niʁ",
+                "d": "to get, to obtain",
+                "s": "Vous pouvez obtenir un prêt d'une banque. (You can get a loan from a bank.)"
+            },
+            {
+                "id": "fr-1158",
+                "w": "conneries",
+                "p": "kɔn.ʁi",
+                "d": "foolish act",
+                "s": "J'ai claqué tout mon fric en conneries. (I spent all my money on stupid stuff.)"
+            },
+            {
+                "id": "fr-1159",
+                "w": "ennuis",
+                "p": "ɑ̃.nɥi",
+                "d": "boredom",
+                "s": "Vous allez vous mettre dans les ennuis. (You'll get into trouble.)"
+            },
+            {
+                "id": "fr-1160",
+                "w": "personnel",
+                "p": "pɛʁ.sɔ.nɛl",
+                "d": "personal",
+                "s": "Il l'a fait au vu et au su du personnel. (He did it in front of the staff.)"
+            },
+            {
+                "id": "fr-1161",
+                "w": "conduire",
+                "p": "kɔ̃.dɥiʁ",
+                "d": "to drive",
+                "s": "Je déteste me conduire comme une idiote. (I hate being stupid.)"
+            },
+            {
+                "id": "fr-1162",
+                "w": "tombé",
+                "p": "tɔ̃be",
+                "d": "to fall",
+                "s": "J'ai trébuché, mais je ne suis pas tombé. (I tripped, but I didn't fall.)"
+            },
+            {
+                "id": "fr-1163",
+                "w": "sol",
+                "p": "sɔl",
+                "d": "soil, earth",
+                "s": "Un sol riche produit de bonnes récoltes. (Rich soil yields good crops.)"
+            },
+            {
+                "id": "fr-1164",
+                "w": "code",
+                "p": "kɔd",
+                "d": "code",
+                "s": "Tu devrais respecter le code de la route. (You should obey the traffic rules.)"
+            },
+            {
+                "id": "fr-1165",
+                "w": "huit",
+                "p": "ɥit",
+                "d": "eight",
+                "s": "L'école commence à huit heures et demie. (School begins at 8:30 a.m.)"
+            },
+            {
+                "id": "fr-1166",
+                "w": "avions",
+                "p": "a.vjɔ̃",
+                "d": "to have",
+                "s": "Ce n'est pas ce que nous avions convenu. (That wasn't the deal.)"
+            },
+            {
+                "id": "fr-1167",
+                "w": "espoir",
+                "p": "ɛs.pwaʁ",
+                "d": "hope",
+                "s": "Ne me dis pas qu'il n'y a aucun espoir. (Don't tell me there's no hope at all.)"
+            },
+            {
+                "id": "fr-1168",
+                "w": "comprenez",
+                "p": "kɔ̃.pʁə.ne",
+                "d": "to understand",
+                "s": "Est-ce que vous comprenez la situation ? (Do you understand the situation?)"
+            },
+            {
+                "id": "fr-1169",
+                "w": "spécial",
+                "p": "spe.sjal",
+                "d": "special",
+                "s": "Vous prévoyez quelque chose de spécial ? (Are you planning something special?)"
+            },
+            {
+                "id": "fr-1170",
+                "w": "vidéo",
+                "p": "vi.de.o",
+                "d": "video",
+                "s": "Je suis en train de regarder une vidéo. (I'm watching a video now.)"
+            },
+            {
+                "id": "fr-1171",
+                "w": "vêtements",
+                "p": "vɛt.mɑ̃",
+                "d": "garment",
+                "s": "Il porte toujours des vêtements sombres. (He always wears dark clothes.)"
+            },
+            {
+                "id": "fr-1172",
+                "w": "défense",
+                "p": "de.fɑ̃s",
+                "d": "defence",
+                "s": "Qu'avez-vous à dire pour votre défense ? (What do you have to say in your defense?)"
+            },
+            {
+                "id": "fr-1173",
+                "w": "sud",
+                "p": "syd",
+                "d": "south",
+                "s": "Les fenêtres sont orientées vers le sud. (These windows look to the south.)"
+            },
+            {
+                "id": "fr-1174",
+                "w": "grand-mère",
+                "p": "ɡʁɑ̃.mɛʁ",
+                "d": "grandmother",
+                "s": "J'ai un vague souvenir de ma grand-mère. (I have a dim memory of my grandmother.)"
+            },
+            {
+                "id": "fr-1175",
+                "w": "match",
+                "p": "matʃ",
+                "d": "match, game",
+                "s": "Es-tu prêt pour le match d'aujourd'hui ? (Are you ready for today's game?)"
+            },
+            {
+                "id": "fr-1176",
+                "w": "bombe",
+                "p": "bɔ̃b",
+                "d": "bomb",
+                "s": "La science a produit la bombe atomique. (Science produced the atomic bomb.)"
+            },
+            {
+                "id": "fr-1177",
+                "w": "intéresse",
+                "p": "ɛ̃.te.ʁɛs",
+                "d": "to interest",
+                "s": "Tout ce qui vous intéresse, c'est l'argent. (All you care about is money.)"
+            },
+            {
+                "id": "fr-1178",
+                "w": "zone",
+                "p": "zon",
+                "d": "zone",
+                "s": "La chasse est interdite dans cette zone. (Hunting is prohibited in this area.)"
+            },
+            {
+                "id": "fr-1179",
+                "w": "tante",
+                "p": "tɑ̃t",
+                "d": "aunt",
+                "s": "Le vase qu'elle a cassé est à ma tante. (The vase she broke is my aunt's.)"
+            },
+            {
+                "id": "fr-1180",
+                "w": "paraît",
+                "p": "pa.ʁɛ",
+                "d": "to appear",
+                "s": "A entendre, cela me paraît très étrange. (It sounds very strange to me.)"
+            },
+            {
+                "id": "fr-1181",
+                "w": "excuser",
+                "p": "ɛk.sky.ze",
+                "d": "to excuse",
+                "s": "Veuillez excuser mon écriture illisible. (Please excuse my bad handwriting.)"
+            },
+            {
+                "id": "fr-1182",
+                "w": "magasin",
+                "p": "ma.ɡa.zɛ̃",
+                "d": "shop, store",
+                "s": "Où se trouve le magasin le plus proche ? (Where's the closest shop?)"
+            },
+            {
+                "id": "fr-1183",
+                "w": "marier",
+                "p": "ma.ʁje",
+                "d": "to marry",
+                "s": "Envisages-tu sérieusement de te marier ? (Are you serious about getting married?)"
+            },
+            {
+                "id": "fr-1184",
+                "w": "chère",
+                "p": "ʃɛʁ",
+                "d": "dear, beloved",
+                "s": "Combien coûte la voiture la plus chère ? (How much is the most expensive car?)"
+            },
+            {
+                "id": "fr-1185",
+                "w": "aie",
+                "p": "ɛ",
+                "d": "to have",
+                "s": "Aie de la compassion à mon égard ! (Have some pity on me.)"
+            },
+            {
+                "id": "fr-1186",
+                "w": "souvenir",
+                "p": "su.v(ə).niʁ",
+                "d": "to remember",
+                "s": "Il n'avait aucun souvenir de l'accident. (He had no memory of the accident.)"
+            },
+            {
+                "id": "fr-1187",
+                "w": "proche",
+                "p": "pʁɔʃ",
+                "d": "close",
+                "s": "Où se trouve le magasin le plus proche ? (Where's the closest shop?)"
+            },
+            {
+                "id": "fr-1188",
+                "w": "revient",
+                "p": "ʁəvjɛ̃",
+                "d": "to come back",
+                "s": "C'est à vous qu'il revient d'en décider. (It's up to you to decide the matter.)"
+            },
+            {
+                "id": "fr-1189",
+                "w": "douleur",
+                "p": "du.lœʁ",
+                "d": "pain",
+                "s": "Je suis habitué à la douleur maintenant. (I'm used to the pain now.)"
+            },
+            {
+                "id": "fr-1190",
+                "w": "arrivera",
+                "p": "a.ʁi.vʁa",
+                "d": "to arrive",
+                "s": "Qui arrivera le plus vite à destination ? (Who'll get there the quickest?)"
+            },
+            {
+                "id": "fr-1191",
+                "w": "presse",
+                "p": "pʁɛs",
+                "d": "press, papers",
+                "s": "Vous ne lisez pas la presse à scandale ? (Don't you read the tabloids?)"
+            },
+            {
+                "id": "fr-1192",
+                "w": "merveilleux",
+                "p": "mɛʁ.vɛ.jø",
+                "d": "marvelous, brilliant",
+                "s": "J'ai de merveilleux souvenirs de Boston. (I have wonderful memories of Boston.)"
+            },
+            {
+                "id": "fr-1193",
+                "w": "asseoir",
+                "p": "a.swaʁ",
+                "d": "to sit down",
+                "s": "Je pense que nous devrions nous asseoir. (I think we should sit down.)"
+            },
+            {
+                "id": "fr-1194",
+                "w": "ravi",
+                "p": "ʁa.vi",
+                "d": "to ravish",
+                "s": "Je suis ravi que vous ayez soulevé cela. (I'm glad you brought that up.)"
+            },
+            {
+                "id": "fr-1195",
+                "w": "aimais",
+                "p": "ɛ.mɛ",
+                "d": "to love",
+                "s": "J'admets que je ne vous aimais pas au début. (I admit that at first I didn't like you.)"
+            },
+            {
+                "id": "fr-1196",
+                "w": "fenêtre",
+                "p": "fə.nɛtʁ",
+                "d": "window",
+                "s": "Tom s'assit sur le rebord de la fenêtre. (Tom sat on the window sill.)"
+            },
+            {
+                "id": "fr-1197",
+                "w": "mien",
+                "p": "mjɛ̃",
+                "d": "mine, my own",
+                "s": "Le mien n'est pas aussi bon que le tien. (Mine isn't as good as yours.)"
+            },
+            {
+                "id": "fr-1198",
+                "w": "terrain",
+                "p": "tɛ.ʁɛ̃",
+                "d": "ground, landscape",
+                "s": "Avez-vous trouvé un terrain d'entente ? (Did you find any common ground?)"
+            },
+            {
+                "id": "fr-1199",
+                "w": "sergent",
+                "p": "sɛʁ.ʒɑ̃",
+                "d": "sergeant",
+                "s": ""
+            },
+            {
+                "id": "fr-1200",
+                "w": "projet",
+                "p": "pʁɔ.ʒɛ",
+                "d": "project",
+                "s": "Nous nous sommes accordés sur le projet. (We agreed to the plan.)"
+            },
+            {
+                "id": "fr-1201",
+                "w": "quartier",
+                "p": "kaʁ.tje",
+                "d": "quarter",
+                "s": "Je ne connais pas très bien ce quartier. (I don't know this neighborhood too well.)"
+            },
+            {
+                "id": "fr-1202",
+                "w": "planète",
+                "p": "pla.nɛt",
+                "d": "planet",
+                "s": "Nous vivons tous sur la planète Terre. (We all live on planet Earth.)"
+            },
+            {
+                "id": "fr-1203",
+                "w": "certainement",
+                "p": "sɛʁ.tɛn.mɑ̃",
+                "d": "certainly",
+                "s": "J'ai certainement eu beaucoup de chance. (I certainly have had great luck.)"
+            },
+            {
+                "id": "fr-1204",
+                "w": "rapide",
+                "p": "ʁa.pid",
+                "d": "fast, rapid",
+                "s": "Je te souhaite un rétablissement rapide. (I wish you a speedy recovery.)"
+            },
+            {
+                "id": "fr-1205",
+                "w": "lorsque",
+                "p": "lɔʁsk",
+                "d": "when",
+                "s": "J'avais un chien lorsque j'étais enfant. (I had a dog when I was a kid.)"
+            },
+            {
+                "id": "fr-1206",
+                "w": "assurer",
+                "p": "a.sy.ʁe",
+                "d": "to assure",
+                "s": "J'aimerais assurer ceci s'il vous plaît. (I'd like to insure this, please.)"
+            },
+            {
+                "id": "fr-1207",
+                "w": "rendu",
+                "p": "ʁɑ̃.dy",
+                "d": "to return",
+                "s": "Je ne me suis jamais rendu à l'étranger. (I've never been abroad.)"
+            },
+            {
+                "id": "fr-1208",
+                "w": "mignon",
+                "p": "mi.ɲɔ̃",
+                "d": "cute",
+                "s": "C'est le garçon le plus mignon en ville. (He's the cutest boy in town.)"
+            },
+            {
+                "id": "fr-1209",
+                "w": "tourne",
+                "p": "tuʁn",
+                "d": "to turn",
+                "s": "Tout ce que je fais tourne au désastre. (Everything I do turns into a disaster.)"
+            },
+            {
+                "id": "fr-1210",
+                "w": "danser",
+                "p": "dɑ̃.se",
+                "d": "to dance",
+                "s": "Je savais que Tom ne pouvait pas danser. (I knew Tom couldn't dance.)"
+            },
+            {
+                "id": "fr-1211",
+                "w": "bob",
+                "p": "bɔb",
+                "d": "bucket hat",
+                "s": ""
+            },
+            {
+                "id": "fr-1212",
+                "w": "clients",
+                "p": "kli.jɑ̃",
+                "d": "client",
+                "s": "L'avocat a beaucoup de clients fortunés. (The lawyer has a lot of wealthy clients.)"
+            },
+            {
+                "id": "fr-1213",
+                "w": "petites",
+                "p": "pə.tit",
+                "d": "small",
+                "s": "Peut-être a-t-il plein de petites amies. (Maybe he has lots of girlfriends.)"
+            },
+            {
+                "id": "fr-1214",
+                "w": "aimez",
+                "p": "ɛ.me",
+                "d": "to love",
+                "s": "Est-ce que vous aimez faire la cuisine ? (Do you like cooking?)"
+            },
+            {
+                "id": "fr-1215",
+                "w": "présenter",
+                "p": "pʁe.zɑ̃.te",
+                "d": "to present",
+                "s": "Je suis disposé à présenter mes excuses. (I'm willing to apologize.)"
+            },
+            {
+                "id": "fr-1216",
+                "w": "importance",
+                "p": "ɛ̃.pɔʁ.tɑ̃s",
+                "d": "importance",
+                "s": "J'y attache une très grande importance. (I feel very strongly about that.)"
+            },
+            {
+                "id": "fr-1217",
+                "w": "venus",
+                "p": "vəny",
+                "d": "to come",
+                "s": "D'où pensez-vous que nous sommes venus ? (Where do you think we came from?)"
+            },
+            {
+                "id": "fr-1218",
+                "w": "sache",
+                "p": "saʃ",
+                "d": "to know",
+                "s": "Je ne voulais pas que ma maman le sache. (I didn't want my mom to know.)"
+            },
+            {
+                "id": "fr-1219",
+                "w": "mérite",
+                "p": "me.ʁit",
+                "d": "to deserve, merit",
+                "s": "Tout le monde mérite une seconde chance. (Everyone deserves a second chance.)"
+            },
+            {
+                "id": "fr-1220",
+                "w": "machine",
+                "p": "ma.ʃin",
+                "d": "machine, device",
+                "s": "Elle est en train de réparer la machine. (She's fixing the machine.)"
+            },
+            {
+                "id": "fr-1221",
+                "w": "derniers",
+                "p": "dɛʁ.nje",
+                "d": "last",
+                "s": "J'ai été très occupé ces derniers temps. (I've been very busy lately.)"
+            },
+            {
+                "id": "fr-1222",
+                "w": "programme",
+                "p": "pʁɔ.ɡʁam",
+                "d": "a program",
+                "s": "Mon programme télé préféré a été annulé. (My favorite TV show's been canceled.)"
+            },
+            {
+                "id": "fr-1223",
+                "w": "mesdames",
+                "p": "me.dam",
+                "d": "lady, woman",
+                "s": "Mesdames et Messieurs, par ici s'il vous plaît. (Ladies and gentlemen, please come this way.)"
+            },
+            {
+                "id": "fr-1224",
+                "w": "meilleurs",
+                "p": "mɛ.jœʁ",
+                "d": "best",
+                "s": "Je pense que ceux-ci sont les meilleurs. (I think those are the best.)"
+            },
+            {
+                "id": "fr-1225",
+                "w": "honnête",
+                "p": "ɔ.nɛt",
+                "d": "honest",
+                "s": "Vous avez l'air d'être un homme honnête. (You seem to be an honest man.)"
+            },
+            {
+                "id": "fr-1226",
+                "w": "essayez",
+                "p": "eseje",
+                "d": "to test, to try on",
+                "s": "Vous essayez seulement de nous effrayer. (You're just trying to scare us.)"
+            },
+            {
+                "id": "fr-1227",
+                "w": "irai",
+                "p": "i.ʁe",
+                "d": "to go",
+                "s": "Je m'en irai lorsqu'ils reviendront ici. (I will go when they come back here.)"
+            },
+            {
+                "id": "fr-1228",
+                "w": "connard",
+                "p": "kɔ.naʁ",
+                "d": "bastard",
+                "s": "Ne te comporte pas comme un connard. (Don't act like a jerk.)"
+            },
+            {
+                "id": "fr-1229",
+                "w": "occasion",
+                "p": "ɔ.ka.zjɔ̃",
+                "d": "occasion",
+                "s": "Il se peut que vous ayez cette occasion. (You may have that opportunity.)"
+            },
+            {
+                "id": "fr-1230",
+                "w": "prouver",
+                "p": "pʁu.ve",
+                "d": "to prove",
+                "s": "Comment puis-je prouver mon innocence ? (How can I prove my innocence?)"
+            },
+            {
+                "id": "fr-1231",
+                "w": "travaillé",
+                "p": "tʁa.va.je",
+                "d": "to work",
+                "s": "Il a travaillé jusque tard dans la nuit. (He worked far into the night.)"
+            },
+            {
+                "id": "fr-1232",
+                "w": "glace",
+                "p": "ɡlas",
+                "d": "ice",
+                "s": "La glace supportera-t-elle notre poids ? (Will the ice bear our weight?)"
+            },
+            {
+                "id": "fr-1233",
+                "w": "ayez",
+                "p": "ɛ.je",
+                "d": "to have",
+                "s": "Je suis ravi que vous ayez soulevé cela. (I'm glad you brought that up.)"
+            },
+            {
+                "id": "fr-1234",
+                "w": "parie",
+                "p": "pa.ʁi",
+                "d": "to mate, couple",
+                "s": "Je parie qu'il acceptera ta proposition. (I bet that he'll accept your proposal.)"
+            },
+            {
+                "id": "fr-1235",
+                "w": "camion",
+                "p": "ka.mjɔ̃",
+                "d": "lorry",
+                "s": "Elle est maquillée comme un camion volé. (She wears heavy makeup.)"
+            },
+            {
+                "id": "fr-1236",
+                "w": "fier",
+                "p": "fjɛʁ",
+                "d": "proud",
+                "s": "Je ne peux pas me fier à ce qu'elle dit. (I can't trust what she says.)"
+            },
+            {
+                "id": "fr-1237",
+                "w": "discuter",
+                "p": "dis.ky.te",
+                "d": "to argue, to debate",
+                "s": "Est-il possible de discuter maintenant ? (Is it possible to talk now?)"
+            },
+            {
+                "id": "fr-1238",
+                "w": "village",
+                "p": "vi.laʒ",
+                "d": "village",
+                "s": "Le bus s'est arrêté dans chaque village. (The bus stopped in every village.)"
+            },
+            {
+                "id": "fr-1239",
+                "w": "spectacle",
+                "p": "spɛk.takl",
+                "d": "a show",
+                "s": "Le spectacle a beaucoup amusé le public. (The audience was very much entertained by the show.)"
+            },
+            {
+                "id": "fr-1240",
+                "w": "nul",
+                "p": "nyl",
+                "d": "no, none",
+                "s": "Nous savons tous que nul n'est parfait. (We all know no one's perfect.)"
+            },
+            {
+                "id": "fr-1241",
+                "w": "rose",
+                "p": "ʁoz",
+                "d": "pink",
+                "s": "Il n'y avait aucune rose dans le jardin. (There weren't any roses in the garden.)"
+            },
+            {
+                "id": "fr-1242",
+                "w": "touché",
+                "p": "tu.ʃe",
+                "d": "to touch",
+                "s": "Je pense avoir touché un point sensible. (I think I touched a nerve.)"
+            },
+            {
+                "id": "fr-1243",
+                "w": "mangé",
+                "p": "mɑ̃.ʒe",
+                "d": "to eat",
+                "s": "Qui que ce soit a-t-il mangé avec vous ? (Did anybody eat with you?)"
+            },
+            {
+                "id": "fr-1244",
+                "w": "vis",
+                "p": "vi",
+                "d": "to see",
+                "s": "Les vis sont plus solides que les clous. (Screws are more durable than nails.)"
+            },
+            {
+                "id": "fr-1245",
+                "w": "parole",
+                "p": "pa.ʁɔl",
+                "d": "speech, language",
+                "s": "Je garderai ma parole quoi qu'il arrive. (I'll keep my word, whatever may happen.)"
+            },
+            {
+                "id": "fr-1246",
+                "w": "rencontre",
+                "p": "ʁɑ̃.kɔ̃tʁ",
+                "d": "encounter",
+                "s": "Tom voulait que Mary rencontre ses amis. (Tom wanted Mary to meet his friends.)"
+            },
+            {
+                "id": "fr-1247",
+                "w": "apprécie",
+                "p": "apʁesi",
+                "d": "to appreciate",
+                "s": "Tom apprécie beaucoup son nouveau boulot. (Tom really likes his new job.)"
+            },
+            {
+                "id": "fr-1248",
+                "w": "réalité",
+                "p": "ʁe.a.li.te",
+                "d": "reality",
+                "s": "Le rêve de Tom est enfin devenu réalité. (Tom's dream finally came true.)"
+            },
+            {
+                "id": "fr-1249",
+                "w": "savons",
+                "p": "sa.vɔ̃",
+                "d": "to know",
+                "s": "Nous savons tous les deux qui a fait ça. (We both know who did that.)"
+            },
+            {
+                "id": "fr-1250",
+                "w": "respect",
+                "p": "ʁɛs.pɛ",
+                "d": "respect",
+                "s": "Les personnes âgées méritent du respect. (Old people deserve respect.)"
+            },
+            {
+                "id": "fr-1251",
+                "w": "remettre",
+                "p": "ʁə.mɛtʁ",
+                "d": "to put back, replace",
+                "s": "Je dois remettre le rapport aujourd'hui. (I must hand in the report today.)"
+            },
+            {
+                "id": "fr-1252",
+                "w": "vacances",
+                "p": "va.kɑ̃s",
+                "d": "vacancy",
+                "s": "Elles sont parties en vacances ensemble. (They went on vacation together.)"
+            },
+            {
+                "id": "fr-1253",
+                "w": "détruire",
+                "p": "de.tʁɥiʁ",
+                "d": "to destroy",
+                "s": "Je ne vous laisserai pas détruire ça. (I won't let you ruin this.)"
+            },
+            {
+                "id": "fr-1254",
+                "w": "choisir",
+                "p": "ʃwa.ziʁ",
+                "d": "to choose",
+                "s": "Vous pouvez choisir l'une d'entre elles. (You may choose one of them.)"
+            },
+            {
+                "id": "fr-1255",
+                "w": "ha",
+                "p": "ha",
+                "d": "ha",
+                "s": ""
+            },
+            {
+                "id": "fr-1256",
+                "w": "découvrir",
+                "p": "de.ku.vʁiʁ",
+                "d": "to discover",
+                "s": "Je viens de découvrir ce qui se passait. (I just found out what was going on.)"
+            },
+            {
+                "id": "fr-1257",
+                "w": "idées",
+                "p": "i.de",
+                "d": "idea",
+                "s": "Ses idées ne lui ont jamais valu un sou. (His ideas never earned him a dime.)"
+            },
+            {
+                "id": "fr-1258",
+                "w": "officier",
+                "p": "ɔ.fi.sje",
+                "d": "officer",
+                "s": "Il aime se déguiser en officier de police. (He likes to dress up as a police officer.)"
+            },
+            {
+                "id": "fr-1259",
+                "w": "frères",
+                "p": "fʁɛʁ",
+                "d": "brother",
+                "s": "Les deux frères se ressemblent beaucoup. (The two brothers are very much alike.)"
+            },
+            {
+                "id": "fr-1260",
+                "w": "sert",
+                "p": "sɛʁ",
+                "d": "to serve",
+                "s": "Ça ne sert à rien d'argumenter avec lui. (It is no use arguing with him.)"
+            },
+            {
+                "id": "fr-1261",
+                "w": "bill",
+                "p": "bil",
+                "d": "bill",
+                "s": "Je me demande si le Prince Guillaume laisse quiconque l'appeler Bill. (I wonder if Prince William lets anyone call him Bill.)"
+            },
+            {
+                "id": "fr-1262",
+                "w": "solution",
+                "p": "sɔ.ly.sjɔ̃",
+                "d": "solution",
+                "s": "Je ne pense pas que ce soit la solution. (I don't think that's the solution.)"
+            },
+            {
+                "id": "fr-1263",
+                "w": "informations",
+                "p": "ɛ̃.fɔʁ.ma.sjɔ̃",
+                "d": "piece of information]",
+                "s": "Je veux seulement lire les informations. (I just want to read the news.)"
+            },
+            {
+                "id": "fr-1264",
+                "w": "attendais",
+                "p": "a.tɑ̃.dɛ",
+                "d": "to wait for",
+                "s": "Il y a plus de monde que je n'en attendais. (There are many more people than I expected.)"
+            },
+            {
+                "id": "fr-1265",
+                "w": "monstre",
+                "p": "mɔ̃stʁ",
+                "d": "monster",
+                "s": "Un monstre hideux vivait là-bas auparavant. (A hideous monster used to live there.)"
+            },
+            {
+                "id": "fr-1266",
+                "w": "sexy",
+                "p": "sɛk.si",
+                "d": "sexy",
+                "s": "Vous avez des jambes très sexy. (You have very sexy legs.)"
+            },
+            {
+                "id": "fr-1267",
+                "w": "ordinateur",
+                "p": "ɔʁ.di.na.tœʁ",
+                "d": "a computer",
+                "s": "Je vous donnerai un ordinateur portable. (I'll give you a laptop.)"
+            },
+            {
+                "id": "fr-1268",
+                "w": "retrouvé",
+                "p": "ʁətʁuve",
+                "d": "to find",
+                "s": "Le corps de Tom n'a jamais été retrouvé. (Tom's body was never found.)"
+            },
+            {
+                "id": "fr-1269",
+                "w": "nature",
+                "p": "na.tyʁ",
+                "d": "nature",
+                "s": "C'est par nature une personne généreuse. (He is by nature a generous person.)"
+            },
+            {
+                "id": "fr-1270",
+                "w": "rappeler",
+                "p": "ʁa.ple",
+                "d": "to call again",
+                "s": "On doit se rappeler de qui nous a aidés. (We need to remember who helped us.)"
+            },
+            {
+                "id": "fr-1271",
+                "w": "énergie",
+                "p": "e.nɛʁ.ʒi",
+                "d": "energy",
+                "s": "Je n'ai, aujourd'hui, aucune énergie. (I have no energy today.)"
+            },
+            {
+                "id": "fr-1272",
+                "w": "pierre",
+                "p": "pjɛʁ",
+                "d": "stone",
+                "s": "L'enfant a jeté une pierre sur le chien. (The child threw a stone at the dog.)"
+            },
+            {
+                "id": "fr-1273",
+                "w": "utilise",
+                "p": "ytiliz",
+                "d": "to use, to utilize",
+                "s": "Tom utilise encore une machine à écrire. (Tom still uses a typewriter.)"
+            },
+            {
+                "id": "fr-1274",
+                "w": "pression",
+                "p": "pʁɛ.sjɔ̃",
+                "d": "pressure",
+                "s": "Ne cédez pas à la pression de vos pairs. (Don't give in to peer pressure.)"
+            },
+            {
+                "id": "fr-1275",
+                "w": "chaussures",
+                "p": "ʃosyʁ",
+                "d": "shoe",
+                "s": "Je me suis fait nettoyer les chaussures. (I had my shoes cleaned.)"
+            },
+            {
+                "id": "fr-1276",
+                "w": "faite",
+                "p": "fɛt",
+                "d": "fact",
+                "s": "C'est la niche que j'ai faite moi-même. (This is the doghouse that I made myself.)"
+            },
+            {
+                "id": "fr-1277",
+                "w": "histoires",
+                "p": "is.twaʁ",
+                "d": "story",
+                "s": "Toutes les histoires sont intéressantes. (All the stories are interesting.)"
+            },
+            {
+                "id": "fr-1278",
+                "w": "marié",
+                "p": "ma.ʁje",
+                "d": "married",
+                "s": "Tom ne m'a jamais dit qu'il était marié. (Tom never told me he was married.)"
+            },
+            {
+                "id": "fr-1279",
+                "w": "espace",
+                "p": "ɛs.pas",
+                "d": "space",
+                "s": "Cet espace est trop réduit pour nous. (This room is too small for us.)"
+            },
+            {
+                "id": "fr-1280",
+                "w": "soient",
+                "p": "swa",
+                "d": "to be",
+                "s": "Je ne pense pas qu'elles soient mariées. (I don't think they're married.)"
+            },
+            {
+                "id": "fr-1281",
+                "w": "portable",
+                "p": "pɔʁ.tabl",
+                "d": "portable",
+                "s": "Je vous donnerai un ordinateur portable. (I'll give you a laptop.)"
+            },
+            {
+                "id": "fr-1282",
+                "w": "préparer",
+                "p": "pʁe.pa.ʁe",
+                "d": "to prepare",
+                "s": "Je vais vous préparer le petit déjeuner. (I'll fix breakfast for you.)"
+            },
+            {
+                "id": "fr-1283",
+                "w": "nécessaire",
+                "p": "ne.se.sɛʁ",
+                "d": "necessary",
+                "s": "Il n'était pas nécessaire que tu mentes. (You didn't have to lie.)"
+            },
+            {
+                "id": "fr-1284",
+                "w": "court",
+                "p": "kuʁ",
+                "d": "short",
+                "s": "Elle s'est fait couper les cheveux court. (She had her hair cut short.)"
+            },
+            {
+                "id": "fr-1285",
+                "w": "offrir",
+                "p": "ɔ.fʁiʁ",
+                "d": "to offer",
+                "s": "Je cherche un cadeau à offrir à mon ami. (I'm looking for a gift for my friend.)"
+            },
+            {
+                "id": "fr-1286",
+                "w": "envers",
+                "p": "ɑ̃.vɛʁ",
+                "d": "in relation to",
+                "s": "Soyez gentil envers les personnes âgées. (Be kind to old people.)"
+            },
+            {
+                "id": "fr-1287",
+                "w": "bain",
+                "p": "bɛ̃",
+                "d": "bath",
+                "s": "J'ai vu un cafard dans la salle de bain. (I saw a cockroach in the bathroom.)"
+            },
+            {
+                "id": "fr-1288",
+                "w": "charge",
+                "p": "ʃaʁʒ",
+                "d": "load, burden",
+                "s": "Tu ne devras pas prendre cela en charge. (You won't have to take charge of that.)"
+            },
+            {
+                "id": "fr-1289",
+                "w": "ennemi",
+                "p": "ɛn.mi",
+                "d": "enemy",
+                "s": "N'aie jamais confiance en ton ennemi. (Never trust your enemy.)"
+            },
+            {
+                "id": "fr-1290",
+                "w": "arrivent",
+                "p": "a.ʁiv",
+                "d": "to arrive",
+                "s": "Peu d'étudiants arrivent à lire le latin. (Few students can read Latin.)"
+            },
+            {
+                "id": "fr-1291",
+                "w": "immédiatement",
+                "p": "i.me.djat.mɑ̃",
+                "d": "immediately",
+                "s": "Je lui demandai de partir immédiatement. (I asked him to leave at once.)"
+            },
+            {
+                "id": "fr-1292",
+                "w": "finalement",
+                "p": "fi.nal.mɑ̃",
+                "d": "finally",
+                "s": "Il a finalement obtenu ce qu'il voulait. (He finally got his wish.)"
+            },
+            {
+                "id": "fr-1293",
+                "w": "énorme",
+                "p": "e.nɔʁm",
+                "d": "enormous, huge",
+                "s": "Tu viens de commettre une énorme erreur. (You just made a huge mistake.)"
+            },
+            {
+                "id": "fr-1294",
+                "w": "grand-père",
+                "p": "ɡʁɑ̃.pɛʁ",
+                "d": "grandfather",
+                "s": "Mon grand-père a construit cette maison. (My grandfather built this house.)"
+            },
+            {
+                "id": "fr-1295",
+                "w": "test",
+                "p": "tɛst",
+                "d": "test",
+                "s": "Je dois étudier pour un test de biologie. (I have to study for a biology test.)"
+            },
+            {
+                "id": "fr-1296",
+                "w": "gagne",
+                "p": "ɡaɲ",
+                "d": "to win",
+                "s": "Elle gagne davantage qu'elle ne dépense. (She earns more than she spends.)"
+            },
+            {
+                "id": "fr-1297",
+                "w": "réfléchir",
+                "p": "ʁe.fle.ʃiʁ",
+                "d": "to reflect",
+                "s": "Elle l'exhorta à réfléchir à la demande. (She urged him to consider the request.)"
+            },
+            {
+                "id": "fr-1298",
+                "w": "victimes",
+                "p": "viktim",
+                "d": "victim",
+                "s": "Le nombre de victimes est toujours inconnu. (The number of casualties is still unknown.)"
+            },
+            {
+                "id": "fr-1299",
+                "w": "chanter",
+                "p": "ʃɑ̃.te",
+                "d": "to sing",
+                "s": "Les perroquets sont capables de chanter. (Parrots can sing.)"
+            },
+            {
+                "id": "fr-1300",
+                "w": "futur",
+                "p": "fy.tyʁ",
+                "d": "future, future tense",
+                "s": "Nous discutions souvent de notre futur. (We used to talk about our future.)"
+            },
+            {
+                "id": "fr-1301",
+                "w": "lâche",
+                "p": "laʃ",
+                "d": "to release",
+                "s": "Pour le dire en un mot, c'est un lâche. (In a word, he is a coward.)"
+            },
+            {
+                "id": "fr-1302",
+                "w": "mademoiselle",
+                "p": "mad.mwa.zɛl",
+                "d": "Miss",
+                "s": ""
+            },
+            {
+                "id": "fr-1303",
+                "w": "copain",
+                "p": "kɔ.pɛ̃",
+                "d": "friend",
+                "s": "Je suis ton petit copain, n'est-ce pas ? (I'm your boyfriend, aren't I?)"
+            },
+            {
+                "id": "fr-1304",
+                "w": "enlever",
+                "p": "ɑ̃l.ve",
+                "d": "to remove",
+                "s": "Je n'arrive pas à enlever mes chaussures. (I can't get my shoes off.)"
+            },
+            {
+                "id": "fr-1305",
+                "w": "retrouve",
+                "p": "ʁətʁuv",
+                "d": "to find",
+                "s": "Je ne retrouve pas mon téléphone portable. (I can't find my cell phone.)"
+            },
+            {
+                "id": "fr-1306",
+                "w": "épouser",
+                "p": "e.pu.ze",
+                "d": "to marry, to wed",
+                "s": "J'ai trouvé l'homme que je veux épouser. (I found the man I want to marry.)"
+            },
+            {
+                "id": "fr-1307",
+                "w": "fleurs",
+                "p": "flœʁ",
+                "d": "flower",
+                "s": "Choisissez les fleurs qui vous plaisent. (Choose any flowers you like.)"
+            },
+            {
+                "id": "fr-1308",
+                "w": "salope",
+                "p": "sa.lɔp",
+                "d": "slut",
+                "s": ""
+            },
+            {
+                "id": "fr-1309",
+                "w": "aies",
+                "p": "ɛ",
+                "d": "to have",
+                "s": "Je suis contente que tu aies demandé ça. (I'm glad you asked that.)"
+            },
+            {
+                "id": "fr-1310",
+                "w": "gosse",
+                "p": "ɡɔs",
+                "d": "child, kid",
+                "s": "Ce gosse veut un ami avec lequel jouer. (That child wants a friend to play with.)"
+            },
+            {
+                "id": "fr-1311",
+                "w": "arranger",
+                "p": "a.ʁɑ̃.ʒe",
+                "d": "to arrange",
+                "s": "Je suis sûr que nous pouvons arranger ça. (I'm sure we can work this out.)"
+            },
+            {
+                "id": "fr-1312",
+                "w": "riche",
+                "p": "ʁiʃ",
+                "d": "rich",
+                "s": "N'êtes-vous pas contentes d'être riche ? (Aren't you glad you're rich?)"
+            },
+            {
+                "id": "fr-1313",
+                "w": "faits",
+                "p": "fɛ",
+                "d": "fact",
+                "s": "La rumeur ne reposait pas sur des faits. (The rumor was baseless.)"
+            },
+            {
+                "id": "fr-1314",
+                "w": "ancien",
+                "p": "ɑ̃.sjɛ̃",
+                "d": "old, former, ex-",
+                "s": "Voulez-vous récupérer votre ancien poste ? (Do you want your old job back?)"
+            },
+            {
+                "id": "fr-1315",
+                "w": "stop",
+                "p": "stɔp",
+                "d": "stop sign",
+                "s": "Tom n'a pas vu le panneau de stop. (Tom didn't see the stop sign.)"
+            },
+            {
+                "id": "fr-1316",
+                "w": "accepter",
+                "p": "ak.sɛp.te",
+                "d": "to accept",
+                "s": "Tom ne voulait pas accepter mes excuses. (Tom wouldn't accept my apology.)"
+            },
+            {
+                "id": "fr-1317",
+                "w": "restes",
+                "p": "ʁɛst",
+                "d": "to stay",
+                "s": "Il y a des restes dans le réfrigérateur. (There's some leftover food in the fridge.)"
+            },
+            {
+                "id": "fr-1318",
+                "w": "nouveaux",
+                "p": "nu.vo",
+                "d": "new, novel",
+                "s": "Nous sommes les nouveaux propriétaires. (We're the new owners.)"
+            },
+            {
+                "id": "fr-1319",
+                "w": "sauter",
+                "p": "so.te",
+                "d": "to jump, leap",
+                "s": "J'ai peur de sauter par-dessus le fossé. (I'm afraid to jump over the ditch.)"
+            },
+            {
+                "id": "fr-1320",
+                "w": "suspect",
+                "p": "sys.pɛ",
+                "d": "a suspect",
+                "s": "Le suspect voulait éviter d'être arrêté. (The suspect wanted to avoid being arrested.)"
+            },
+            {
+                "id": "fr-1321",
+                "w": "vies",
+                "p": "vi",
+                "d": "life",
+                "s": "Les transplantations sauvent des vies. (Transplants save lives.)"
+            },
+            {
+                "id": "fr-1322",
+                "w": "durant",
+                "p": "dy.ʁɑ̃",
+                "d": "during, while",
+                "s": "Il leur fallut creuser durant des jours. (They had to dig for days.)"
+            },
+            {
+                "id": "fr-1323",
+                "w": "invité",
+                "p": "ɛ̃.vi.te",
+                "d": "to invite",
+                "s": "Je suis invité à la fête de Tom ce soir. (I'm invited to Tom's party tonight.)"
+            },
+            {
+                "id": "fr-1324",
+                "w": "politique",
+                "p": "pɔ.li.tik",
+                "d": "politics",
+                "s": "La politique ne m'intéresse pas du tout. (I'm not interested in politics at all.)"
+            },
+            {
+                "id": "fr-1325",
+                "w": "dents",
+                "p": "dɑ̃",
+                "d": "tooth",
+                "s": "N'oubliez pas de vous brosser les dents. (Remember to brush your teeth.)"
+            },
+            {
+                "id": "fr-1326",
+                "w": "patient",
+                "p": "pa.sjɑ̃",
+                "d": "patient, outpatient",
+                "s": "Le patient est hors de danger à présent. (The patient is out of danger now.)"
+            },
+            {
+                "id": "fr-1327",
+                "w": "repas",
+                "p": "ʁə.pa",
+                "d": "meal, repast",
+                "s": "Après le repas, je suis allé me coucher. (I went to bed after eating.)"
+            },
+            {
+                "id": "fr-1328",
+                "w": "urgence",
+                "p": "yʁ.ʒɑ̃s",
+                "d": "emergency, urgency",
+                "s": "Quelle est la nature de votre urgence ? (What's the nature of your emergency?)"
+            },
+            {
+                "id": "fr-1329",
+                "w": "cartes",
+                "p": "kaʁt",
+                "d": "card",
+                "s": "C'est à votre tour de battre les cartes. (It's your turn to shuffle.)"
+            },
+            {
+                "id": "fr-1330",
+                "w": "jambes",
+                "p": "ʒɑ̃b",
+                "d": "leg",
+                "s": "Je ne parviens pas à bouger les jambes. (I can't move my legs.)"
+            },
+            {
+                "id": "fr-1331",
+                "w": "conversation",
+                "p": "kɔ̃.vɛʁ.sa.sjɔ̃",
+                "d": "conversation",
+                "s": "Je n'ai pas pris part à la conversation. (I didn't take part in the conversation.)"
+            },
+            {
+                "id": "fr-1332",
+                "w": "telle",
+                "p": "tɛl",
+                "d": "one",
+                "s": "Est-ce qu'une telle chose est possible ? (Is such a thing possible?)"
+            },
+            {
+                "id": "fr-1333",
+                "w": "bus",
+                "p": "bys",
+                "d": "bus",
+                "s": "Nous prenons le bus pour aller en cours. (We go to school by bus.)"
+            },
+            {
+                "id": "fr-1334",
+                "w": "to",
+                "p": "to",
+                "d": "a dish made from pearl millet",
+                "s": ""
+            },
+            {
+                "id": "fr-1335",
+                "w": "tourner",
+                "p": "tuʁ.ne",
+                "d": "to turn",
+                "s": "Je n'avais personne vers qui me tourner. (I had no one to turn to.)"
+            },
+            {
+                "id": "fr-1336",
+                "w": "toucher",
+                "p": "tu.ʃe",
+                "d": "to touch",
+                "s": "Vous ne devez pas toucher les peintures. (You must not touch the paintings.)"
+            },
+            {
+                "id": "fr-1337",
+                "w": "mémoire",
+                "p": "me.mwaʁ",
+                "d": "memory",
+                "s": "Sa mémoire ne cesse jamais de m'étonner. (His memory never ceases to astonish me.)"
+            },
+            {
+                "id": "fr-1338",
+                "w": "série",
+                "p": "se.ʁi",
+                "d": "series",
+                "s": "Tom a attrapé toute une série de poissons. (Tom caught a whole string of fish.)"
+            },
+            {
+                "id": "fr-1339",
+                "w": "mariée",
+                "p": "ma.ʁje",
+                "d": "bride",
+                "s": "Quel âge avais-tu quand tu t'es mariée ? (How old were you when you got married?)"
+            },
+            {
+                "id": "fr-1340",
+                "w": "contraire",
+                "p": "kɔ̃.tʁɛːʁ",
+                "d": "opposite",
+                "s": "« Rapide » est le contraire de « lent. » (\"Fast\" is the opposite of \"slow.\")"
+            },
+            {
+                "id": "fr-1341",
+                "w": "vent",
+                "p": "vɑ̃",
+                "d": "wind",
+                "s": "Il y a un petit peu de vent aujourd'hui. (There's a bit of a wind today.)"
+            },
+            {
+                "id": "fr-1342",
+                "w": "taille",
+                "p": "taj",
+                "d": "the act of cutting",
+                "s": "C'est de la taille d'une petite voiture. (It's the size of a small car.)"
+            },
+            {
+                "id": "fr-1343",
+                "w": "trouves",
+                "p": "tʁuv",
+                "d": "to find",
+                "s": "Appelle-moi si tu trouves quelque chose. (Call me if you find something.)"
+            },
+            {
+                "id": "fr-1344",
+                "w": "celui-là",
+                "p": "sə.lɥi.la",
+                "d": "that one",
+                "s": "On a la même sensation qu'avec celui-là. (It feels very similar to this one.)"
+            },
+            {
+                "id": "fr-1345",
+                "w": "chat",
+                "p": "ʃa",
+                "d": "cat",
+                "s": "Je suis en train de jouer avec mon chat. (I'm playing with my cat.)"
+            },
+            {
+                "id": "fr-1346",
+                "w": "continuez",
+                "p": "kɔ̃.ti.nɥe",
+                "d": "to continue",
+                "s": "S'il vous plaît, continuez votre histoire. (Please go on with your story.)"
+            },
+            {
+                "id": "fr-1347",
+                "w": "contrat",
+                "p": "kɔ̃.tʁa",
+                "d": "contract",
+                "s": "Le contrat s'est arrêté le mois dernier. (The business contract ran out last month.)"
+            },
+            {
+                "id": "fr-1348",
+                "w": "couteau",
+                "p": "ku.to",
+                "d": "knife",
+                "s": "Voici un couteau dont tu peux te servir. (Here's a knife you can use.)"
+            },
+            {
+                "id": "fr-1349",
+                "w": "double",
+                "p": "dubl",
+                "d": "double, two",
+                "s": "Est-ce que tu as un double de la clé ? (Do you have a spare key?)"
+            },
+            {
+                "id": "fr-1350",
+                "w": "dure",
+                "p": "dyʁ",
+                "d": "hard, tough",
+                "s": "Les mauvaises habitudes ont la peau dure. (Bad habits die hard.)"
+            },
+            {
+                "id": "fr-1351",
+                "w": "carrière",
+                "p": "ka.ʁjɛʁ",
+                "d": "racecourse",
+                "s": "La carrière de l'acteur a duré trente ans. (The actor's career lasted for thirty years.)"
+            },
+            {
+                "id": "fr-1352",
+                "w": "excuse-moi",
+                "p": "ɛk.skyz.mwa",
+                "d": "excuse me?",
+                "s": "Excuse-moi, qu'est-ce qui se passe ? (Excuse me, what's going on?)"
+            },
+            {
+                "id": "fr-1353",
+                "w": "regardé",
+                "p": "ʁə.ɡaʁ.de",
+                "d": "to look at",
+                "s": "Nous n'avons pas regardé très longtemps. (We didn't look very long.)"
+            },
+            {
+                "id": "fr-1354",
+                "w": "descendre",
+                "p": "de.sɑ̃dʁ",
+                "d": "to go down",
+                "s": "Je l'ai entendu descendre les escaliers. (I heard him coming downstairs.)"
+            },
+            {
+                "id": "fr-1355",
+                "w": "université",
+                "p": "y.ni.vɛʁ.si.te",
+                "d": "university",
+                "s": "Quand cette université fut-elle fondée ? (When was this university founded?)"
+            },
+            {
+                "id": "fr-1356",
+                "w": "sentiments",
+                "p": "sɑ̃timɑ̃",
+                "d": "a sentiment",
+                "s": "Il est facile de blesser ses sentiments. (Her feelings are easily hurt.)"
+            },
+            {
+                "id": "fr-1357",
+                "w": "papier",
+                "p": "pa.pje",
+                "d": "paper",
+                "s": "Elle enveloppa le cadeau dans du papier. (She wrapped the present in paper.)"
+            },
+            {
+                "id": "fr-1358",
+                "w": "remarqué",
+                "p": "ʁəmaʁke",
+                "d": "to observe",
+                "s": "Je ne pensais pas que tu avais remarqué. (I didn't think that you'd noticed.)"
+            },
+            {
+                "id": "fr-1359",
+                "w": "noms",
+                "p": "nɔ̃",
+                "d": "name",
+                "s": "Elle le traite souvent de tous les noms. (She often calls him names.)"
+            },
+            {
+                "id": "fr-1360",
+                "w": "vécu",
+                "p": "ve.ky",
+                "d": "to live",
+                "s": "Tom a vécu la moitié de sa vie à Boston. (Tom lived half his life in Boston.)"
+            },
+            {
+                "id": "fr-1361",
+                "w": "courage",
+                "p": "ku.ʁaʒ",
+                "d": "courage",
+                "s": "Vous avez vraiment beaucoup de courage ! (You sure have a lot of nerve!)"
+            },
+            {
+                "id": "fr-1362",
+                "w": "beauté",
+                "p": "bo.te",
+                "d": "beauty",
+                "s": "La beauté n'a que l'épaisseur de la peau. (Beauty is only skin deep.)"
+            },
+            {
+                "id": "fr-1363",
+                "w": "bu",
+                "p": "by",
+                "d": "to drink",
+                "s": "J'ai bu du thé pendant toute la matinée. (I was drinking tea all morning.)"
+            },
+            {
+                "id": "fr-1364",
+                "w": "tais-toi",
+                "p": "",
+                "d": "itself",
+                "s": "Tais-toi et retourne dans la voiture. (Be quiet and get back in the car.)"
+            },
+            {
+                "id": "fr-1365",
+                "w": "après-midi",
+                "p": "a.pʁɛ.mi.di",
+                "d": "afternoon",
+                "s": "Il va peut-être pleuvoir cet après-midi. (It may rain in the afternoon.)"
+            },
+            {
+                "id": "fr-1366",
+                "w": "excellent",
+                "p": "ɛk.sɛ.lɑ̃",
+                "d": "excellent",
+                "s": "Le service est excellent dans cet hôtel. (The service is excellent in this hotel.)"
+            },
+            {
+                "id": "fr-1367",
+                "w": "richard",
+                "p": "ʁi.ʃaʁ",
+                "d": "rich man",
+                "s": "Il travaillait pour un richard. (He worked for a rich man.)"
+            },
+            {
+                "id": "fr-1368",
+                "w": "propres",
+                "p": "pʁɔpʁ",
+                "d": "own",
+                "s": "Je peux le faire par mes propres moyens. (I can do it all myself.)"
+            },
+            {
+                "id": "fr-1369",
+                "w": "parmi",
+                "p": "paʁ.mi",
+                "d": "among, amongst",
+                "s": "L'honneur existe même parmi les voleurs. (There is honor even among thieves.)"
+            },
+            {
+                "id": "fr-1370",
+                "w": "forte",
+                "p": "fɔʁt",
+                "d": "strong",
+                "s": "Nous avons entendu une forte détonation. (We heard a loud explosion.)"
+            },
+            {
+                "id": "fr-1371",
+                "w": "étant",
+                "p": "e.tɑ̃",
+                "d": "to be",
+                "s": "C'est la maison où je vivais étant petit. (This is the house I lived in when I was young.)"
+            },
+            {
+                "id": "fr-1372",
+                "w": "couple",
+                "p": "kupl",
+                "d": "a force couple",
+                "s": "Tom et Marie forment un drôle de couple. (Tom and Mary make an odd pair.)"
+            },
+            {
+                "id": "fr-1373",
+                "w": "aiment",
+                "p": "ɛm",
+                "d": "to love",
+                "s": "Les mouches du temps aiment une flèche. (Time flies like an arrow.)"
+            },
+            {
+                "id": "fr-1374",
+                "w": "permis",
+                "p": "pɛʁ.mi",
+                "d": "permit, licence",
+                "s": "Disposez-vous d'une permis de pilotage ? (Do you have a license to fly a plane?)"
+            },
+            {
+                "id": "fr-1375",
+                "w": "différence",
+                "p": "di.fe.ʁɑ̃s",
+                "d": "difference",
+                "s": "Pourquoi cela ferait-il une différence ? (Why would that make a difference?)"
+            },
+            {
+                "id": "fr-1376",
+                "w": "faudrait",
+                "p": "fo.dʁɛ",
+                "d": "to need",
+                "s": "Il vous faudrait parler plus clairement. (You should speak more clearly.)"
+            },
+            {
+                "id": "fr-1377",
+                "w": "course",
+                "p": "kuʁs",
+                "d": "run, running",
+                "s": "Est-il vrai que Tom a gagné la course ? (Is it true Tom won the race?)"
+            },
+            {
+                "id": "fr-1378",
+                "w": "humains",
+                "p": "y.mɛ̃",
+                "d": "human",
+                "s": "C'est l'un des instincts humains de base. (It's one of the basic human instincts.)"
+            },
+            {
+                "id": "fr-1379",
+                "w": "dégage",
+                "p": "degaʒ",
+                "d": "to free",
+                "s": "Votre maison dégage une atmosphère agréable. (Your house has a very cozy atmosphere.)"
+            },
+            {
+                "id": "fr-1380",
+                "w": "mille",
+                "p": "mil",
+                "d": "thousand",
+                "s": "Elle déchira en mille morceaux la lettre. (She tore the letter to pieces.)"
+            },
+            {
+                "id": "fr-1381",
+                "w": "accès",
+                "p": "ak.sɛ",
+                "d": "access",
+                "s": "Tout étudiant a accès à la bibliothèque. (Every student has access to the library.)"
+            },
+            {
+                "id": "fr-1382",
+                "w": "cible",
+                "p": "sibl",
+                "d": "target",
+                "s": "Je dirigeais mon revolver vers la cible. (I aimed my gun at the target.)"
+            },
+            {
+                "id": "fr-1383",
+                "w": "joyeux",
+                "p": "ʒwa.jø",
+                "d": "joyful, happy",
+                "s": "J'espère que tu passeras un joyeux Noël. (I hope you have a merry Christmas.)"
+            },
+            {
+                "id": "fr-1384",
+                "w": "bonheur",
+                "p": "bɔ.nœʁ",
+                "d": "goodhap",
+                "s": "L'argent ne peut pas acheter le bonheur. (Money cannot buy happiness.)"
+            },
+            {
+                "id": "fr-1385",
+                "w": "aimait",
+                "p": "ɛ.mɛ",
+                "d": "to love",
+                "s": "Je croyais que Tom aimait les énigmes. (I thought Tom liked riddles.)"
+            },
+            {
+                "id": "fr-1386",
+                "w": "manqué",
+                "p": "mɑ̃.ke",
+                "d": "to lack",
+                "s": "Cette fille, on dirait un garçon manqué. (That girl looks boyish.)"
+            },
+            {
+                "id": "fr-1387",
+                "w": "action",
+                "p": "ak.sjɔ̃",
+                "d": "action, act, deed",
+                "s": "Son action rapide a évité une épidémie. (His prompt action prevented an epidemic.)"
+            },
+            {
+                "id": "fr-1388",
+                "w": "aidé",
+                "p": "ɛ.de",
+                "d": "to help",
+                "s": "J'ai aidé ma mère à nettoyer la cuisine. (I helped my mother clean the kitchen.)"
+            },
+            {
+                "id": "fr-1389",
+                "w": "vouliez",
+                "p": "vulje",
+                "d": "to want",
+                "s": "Vous avez dit que vous vouliez la vérité. (You said you wanted the truth.)"
+            },
+            {
+                "id": "fr-1390",
+                "w": "trouvez",
+                "p": "tʁu.ve",
+                "d": "to find",
+                "s": "Vous ne trouvez pas que c'est bonnard ? (How cool is this?)"
+            },
+            {
+                "id": "fr-1391",
+                "w": "films",
+                "p": "film",
+                "d": "movie, film",
+                "s": "J'ai regardé beaucoup de films français. (I've watched many French movies.)"
+            },
+            {
+                "id": "fr-1392",
+                "w": "emmène",
+                "p": "ɑ̃.mɛn",
+                "d": "to take off",
+                "s": "Il emmène souvent ses enfants au zoo. (He often takes his children to the zoo.)"
+            },
+            {
+                "id": "fr-1393",
+                "w": "marie",
+                "p": "ma.ʁi",
+                "d": "to marry",
+                "s": "Tom a donné une boîte à musique à Marie. (Tom gave Mary a music box.)"
+            },
+            {
+                "id": "fr-1394",
+                "w": "taxi",
+                "p": "tak.si",
+                "d": "taxi",
+                "s": "Je vais voir si je peux trouver un taxi. (I'll see if I can find a cab.)"
+            },
+            {
+                "id": "fr-1395",
+                "w": "restaurant",
+                "p": "ʁɛs.tɔ.ʁɑ̃",
+                "d": "restaurant",
+                "s": "Je suis copropriétaire de ce restaurant. (I'm part owner of this restaurant.)"
+            },
+            {
+                "id": "fr-1396",
+                "w": "crise",
+                "p": "kʁiz",
+                "d": "crisis",
+                "s": "Les gens disent que la crise est passée. (People are saying that the crisis is over.)"
+            },
+            {
+                "id": "fr-1397",
+                "w": "piste",
+                "p": "pist",
+                "d": "track or trail",
+                "s": "La police n'a pas encore de piste. (The police still have no leads.)"
+            },
+            {
+                "id": "fr-1398",
+                "w": "dernières",
+                "p": "dɛʁ.njɛʁ",
+                "d": "last",
+                "s": "À quand remonte vos dernières vacances ? (When was the last time you had a vacation?)"
+            },
+            {
+                "id": "fr-1399",
+                "w": "puisque",
+                "p": "pɥisk",
+                "d": "since, because",
+                "s": "Puisque je suis ici, laisse-moi t'aider. (Since I'm here, let me help you.)"
+            },
+            {
+                "id": "fr-1400",
+                "w": "blanche",
+                "p": "blɑ̃ʃ",
+                "d": "white color",
+                "s": "Elle porte une robe blanche aujourd'hui. (She is wearing a white dress today.)"
+            },
+            {
+                "id": "fr-1401",
+                "w": "coupe",
+                "p": "kup",
+                "d": "goblet, cup",
+                "s": "Aimes-tu ma nouvelle coupe de cheveux ? (Do you like my new haircut?)"
+            },
+            {
+                "id": "fr-1402",
+                "w": "secrets",
+                "p": "sə.kʁɛ",
+                "d": "secret",
+                "s": "Je suis mauvais pour garder les secrets. (I'm bad at keeping secrets.)"
+            },
+            {
+                "id": "fr-1403",
+                "w": "prince",
+                "p": "pʁɛ̃s",
+                "d": "prince",
+                "s": "Le prince fut changé en arbre par magie. (The prince was changed into a tree by magic.)"
+            },
+            {
+                "id": "fr-1404",
+                "w": "marrant",
+                "p": "ma.ʁɑ̃",
+                "d": "funny, amusing",
+                "s": "C'est marrant, je ne me le rappelle pas. (Funny, I don't remember that.)"
+            },
+            {
+                "id": "fr-1405",
+                "w": "raisons",
+                "p": "ʁɛzɔ̃",
+                "d": "reason",
+                "s": "J'avais de bonnes raisons d'être jaloux. (I had good reason to be jealous.)"
+            },
+            {
+                "id": "fr-1406",
+                "w": "refuse",
+                "p": "ʁə.fyz",
+                "d": "to refuse",
+                "s": "Je refuse de répondre à ces accusations. (I refuse to reply to these charges.)"
+            },
+            {
+                "id": "fr-1407",
+                "w": "apporté",
+                "p": "a.pɔʁ.te",
+                "d": "to bring",
+                "s": "Je vous ai apporté une autre couverture. (I brought you another blanket.)"
+            },
+            {
+                "id": "fr-1408",
+                "w": "cassé",
+                "p": "ka.se",
+                "d": "to break",
+                "s": "Votre voiture a un feu arrière de cassé. (Your car has a broken taillight.)"
+            },
+            {
+                "id": "fr-1409",
+                "w": "lors",
+                "p": "lɔʁ",
+                "d": "then, at that time",
+                "s": "Il est demeuré à l'étranger depuis lors. (He remained abroad ever since then.)"
+            },
+            {
+                "id": "fr-1410",
+                "w": "mettez",
+                "p": "mɛ.te",
+                "d": "to put",
+                "s": "Mettez une étiquette sur tous les sacs. (Attach labels to all the bags.)"
+            },
+            {
+                "id": "fr-1411",
+                "w": "tuée",
+                "p": "tɥe",
+                "d": "to kill",
+                "s": "La possibilité que je sois tuée subsiste. (There's a possibility that I'll get killed.)"
+            },
+            {
+                "id": "fr-1412",
+                "w": "maladie",
+                "p": "ma.la.di",
+                "d": "illness, disease",
+                "s": "La montée de sève n'est pas une maladie. (Spring fever is not a disease.)"
+            },
+            {
+                "id": "fr-1413",
+                "w": "mienne",
+                "p": "mjɛn",
+                "d": "my",
+                "s": "Son opinion était la même que la mienne. (His opinion was the same as mine.)"
+            },
+            {
+                "id": "fr-1414",
+                "w": "rentré",
+                "p": "ʁɑ̃tʁe",
+                "d": "to go back",
+                "s": "Je suis rentré chez moi les mains vides. (I came home empty handed.)"
+            },
+            {
+                "id": "fr-1415",
+                "w": "week-end",
+                "p": "wi.kɛnd",
+                "d": "weekend",
+                "s": "Est-ce que tu as passé un bon week-end ? (Did you have a nice weekend?)"
+            },
+            {
+                "id": "fr-1416",
+                "w": "excuses",
+                "p": "ɛkskyz",
+                "d": "excuse",
+                "s": "Je suis disposé à présenter mes excuses. (I'm willing to apologize.)"
+            },
+            {
+                "id": "fr-1417",
+                "w": "alcool",
+                "p": "al.kɔl",
+                "d": "alcohol",
+                "s": "Avez-vous quelque chose sans alcool ? (Do you have anything non-alcoholic?)"
+            },
+            {
+                "id": "fr-1418",
+                "w": "voudrait",
+                "p": "vu.dʁɛ",
+                "d": "to want",
+                "s": "Tout le monde voudrait une paix durable. (Everybody wants permanent peace.)"
+            },
+            {
+                "id": "fr-1419",
+                "w": "fil",
+                "p": "fil",
+                "d": "yarn, thread, wire",
+                "s": "Il me faut du fil pour coudre ce bouton. (I need thread to sew on this button.)"
+            },
+            {
+                "id": "fr-1420",
+                "w": "rends",
+                "p": "ʁɑ̃",
+                "d": "to return",
+                "s": "Je m'en rends compte à l'heure actuelle. (I can see that now.)"
+            },
+            {
+                "id": "fr-1421",
+                "w": "quitte",
+                "p": "kit",
+                "d": "to discharge somebody from an obligation",
+                "s": "Il dit qu'il quitte le pays pour de bon. (He says he is leaving the country for good.)"
+            },
+            {
+                "id": "fr-1422",
+                "w": "couché",
+                "p": "ku.ʃe",
+                "d": "to lay, to lay down",
+                "s": "Tom a couché le bébé sur une couverture. (Tom laid the baby down on a blanket.)"
+            },
+            {
+                "id": "fr-1423",
+                "w": "disons",
+                "p": "di.zɔ̃",
+                "d": "to say, to tell",
+                "s": "Disons juste que je n'étais pas surpris. (Let's just say I wasn't surprised.)"
+            },
+            {
+                "id": "fr-1424",
+                "w": "totalement",
+                "p": "tɔ.tal.mɑ̃",
+                "d": "totally",
+                "s": "Ce que tu as dit est totalement insensé. (What you said is complete nonsense.)"
+            },
+            {
+                "id": "fr-1425",
+                "w": "claire",
+                "p": "klɛʁ",
+                "d": "clear",
+                "s": "Je veux être claire, un point c'est tout. (I just want to be clear.)"
+            },
+            {
+                "id": "fr-1426",
+                "w": "remercier",
+                "p": "ʁə.mɛʁ.sje",
+                "d": "to thank",
+                "s": "J'imagine que je devrais vous remercier. (I guess I should thank you.)"
+            },
+            {
+                "id": "fr-1427",
+                "w": "mêmes",
+                "p": "mɛm",
+                "d": "same",
+                "s": "Elle continue à faire les mêmes erreurs. (She keeps on making the same mistakes.)"
+            },
+            {
+                "id": "fr-1428",
+                "w": "partis",
+                "p": "paʁ.ti",
+                "d": "to share",
+                "s": "Tous les garçons sont partis en courant. (All the boys ran away.)"
+            },
+            {
+                "id": "fr-1429",
+                "w": "pensait",
+                "p": "pɑ̃sɛ",
+                "d": "to think",
+                "s": "Tom pensait que Marie était la première. (Tom thought Mary was first.)"
+            },
+            {
+                "id": "fr-1430",
+                "w": "île",
+                "p": "il",
+                "d": "island",
+                "s": "Notre bateau s'approcha de la petit île. (Our boat approached the small island.)"
+            },
+            {
+                "id": "fr-1431",
+                "w": "remercie",
+                "p": "ʁəmɛʁsi",
+                "d": "to thank",
+                "s": "Je vous remercie pour votre courtoisie. (Thank you for your courtesy.)"
+            },
+            {
+                "id": "fr-1432",
+                "w": "caméra",
+                "p": "ka.me.ʁa",
+                "d": "video camera",
+                "s": "Il n'y a pas de film dans cette caméra. (There is no film in this camera.)"
+            },
+            {
+                "id": "fr-1433",
+                "w": "pensent",
+                "p": "pɑ̃s",
+                "d": "to think",
+                "s": "Les garçons pensent beaucoup aux filles. (Boys think about girls a lot.)"
+            },
+            {
+                "id": "fr-1434",
+                "w": "pleurer",
+                "p": "plœ.ʁe",
+                "d": "to cry, to weep",
+                "s": "Je ne peux supporter de la voir pleurer. (I can't bear to see her cry.)"
+            },
+            {
+                "id": "fr-1435",
+                "w": "régler",
+                "p": "ʁe.ɡle",
+                "d": "to sort out",
+                "s": "Nous avons réussi à régler le différend. (We succeeded in settling the dispute.)"
+            },
+            {
+                "id": "fr-1436",
+                "w": "ouvrez",
+                "p": "u.vʁe",
+                "d": "to open",
+                "s": "Tournez la poignée et ouvrez la porte. (Turn the knob and open the door.)"
+            },
+            {
+                "id": "fr-1437",
+                "w": "entier",
+                "p": "ɑ̃.tje",
+                "d": "whole",
+                "s": "Tom devint célèbre dans le monde entier. (Tom became world famous.)"
+            },
+            {
+                "id": "fr-1438",
+                "w": "foutu",
+                "p": "fu.ty",
+                "d": "to do",
+                "s": "La pluie a foutu en l'air notre pique-nique. (The rain spoiled our picnic.)"
+            },
+            {
+                "id": "fr-1439",
+                "w": "types",
+                "p": "tip",
+                "d": "type",
+                "s": "Tom et John sont des types sympathiques. (Tom and John are nice guys.)"
+            },
+            {
+                "id": "fr-1440",
+                "w": "fermer",
+                "p": "fɛʁ.me",
+                "d": "to shut",
+                "s": "Est-ce que vous pouvez fermer la porte ? (Could you shut the door?)"
+            },
+            {
+                "id": "fr-1441",
+                "w": "animaux",
+                "p": "a.ni.mo",
+                "d": "animal",
+                "s": "Tom n'aime pas les animaux de compagnie. (Tom is not fond of pets.)"
+            },
+            {
+                "id": "fr-1442",
+                "w": "dise",
+                "p": "diz",
+                "d": "to say, to tell",
+                "s": "Il est grand temps qu'on dise au revoir. (It is high time we said good-bye.)"
+            },
+            {
+                "id": "fr-1443",
+                "w": "image",
+                "p": "i.maʒ",
+                "d": "picture, image",
+                "s": "À quoi tu penses en voyant cette image ? (What does this image make you think of?)"
+            },
+            {
+                "id": "fr-1444",
+                "w": "étage",
+                "p": "e.taʒ",
+                "d": "floor, storey",
+                "s": "Notre appartement est au deuxième étage. (Our apartment is on the third floor.)"
+            },
+            {
+                "id": "fr-1445",
+                "w": "rejoindre",
+                "p": "ʁə.ʒwɛ̃dʁ",
+                "d": "to join, to join up",
+                "s": "Je vais te rejoindre à la gare routière. (I'll meet you at the bus station.)"
+            },
+            {
+                "id": "fr-1446",
+                "w": "soldats",
+                "p": "sɔlda",
+                "d": "soldier",
+                "s": "Les soldats ont essuyé des tirs ennemis. (The soldiers came under enemy fire.)"
+            },
+            {
+                "id": "fr-1447",
+                "w": "amuser",
+                "p": "a.my.ze",
+                "d": "to amuse",
+                "s": "Nous ne sommes pas ici pour nous amuser. (We're not here to have fun.)"
+            },
+            {
+                "id": "fr-1448",
+                "w": "points",
+                "p": "pwɛ̃",
+                "d": "point",
+                "s": "Nous avons beaucoup de points en commun. (We have a lot in common.)"
+            },
+            {
+                "id": "fr-1449",
+                "w": "suivi",
+                "p": "sɥi.vi",
+                "d": "to follow",
+                "s": "J'ai suivi le régime de manière stricte. (I followed the diet strictly.)"
+            },
+            {
+                "id": "fr-1450",
+                "w": "oubliez",
+                "p": "u.bli.je",
+                "d": "to forget",
+                "s": "Oubliez que j'ai dit quoi que ce soit. (Forget I said anything.)"
+            },
+            {
+                "id": "fr-1451",
+                "w": "langue",
+                "p": "lɑ̃ɡ",
+                "d": "tongue",
+                "s": "Le français n'est pas une langue facile. (French isn't an easy language.)"
+            },
+            {
+                "id": "fr-1452",
+                "w": "direction",
+                "p": "di.ʁɛk.sjɔ̃",
+                "d": "direction",
+                "s": "Ta maison fait face à quelle direction ? (What direction does your house face?)"
+            },
+            {
+                "id": "fr-1453",
+                "w": "frais",
+                "p": "fʁɛ",
+                "d": "fresh",
+                "s": "Veux-tu quelque chose de frais à boire ? (Do you want something cold to drink?)"
+            },
+            {
+                "id": "fr-1454",
+                "w": "veuillez",
+                "p": "vœ.je",
+                "d": "to want",
+                "s": "Veuillez signer sur la ligne pointillée. (Please sign on the dotted line.)"
+            },
+            {
+                "id": "fr-1455",
+                "w": "soldat",
+                "p": "sɔl.da",
+                "d": "soldier",
+                "s": "Le soldat dirigea son fusil vers l'homme. (The soldier aimed his gun at the man.)"
+            },
+            {
+                "id": "fr-1456",
+                "w": "couleur",
+                "p": "ku.lœʁ",
+                "d": "color/colour",
+                "s": "J'aime la couleur de ton rouge à lèvres. (I like the color of your lipstick.)"
+            },
+            {
+                "id": "fr-1457",
+                "w": "bouger",
+                "p": "bu.ʒe",
+                "d": "to move",
+                "s": "Je ne parviens pas à bouger les jambes. (I can't move my legs.)"
+            },
+            {
+                "id": "fr-1458",
+                "w": "frappé",
+                "p": "fʁa.pe",
+                "d": "to hit",
+                "s": "Il l'a frappé tandis qu'il était à terre. (He kicked him while he was down.)"
+            },
+            {
+                "id": "fr-1459",
+                "w": "frapper",
+                "p": "fʁa.pe",
+                "d": "to hit",
+                "s": "J'entendis quelqu'un frapper à la porte. (I heard someone knock on the door.)"
+            },
+            {
+                "id": "fr-1460",
+                "w": "venait",
+                "p": "və.nɛ",
+                "d": "to come",
+                "s": "J'ai demandé à l'inconnu d'où il venait. (I asked the stranger where he was from.)"
+            },
+            {
+                "id": "fr-1461",
+                "w": "raté",
+                "p": "ʁa.te",
+                "d": "to miss",
+                "s": "J'ai raté une occasion de le rencontrer. (I passed up an opportunity to see him.)"
+            },
+            {
+                "id": "fr-1462",
+                "w": "évidemment",
+                "p": "e.vi.da.mɑ̃",
+                "d": "of course",
+                "s": "Évidemment qu'elle peut parler anglais. (Of course she can speak English.)"
+            },
+            {
+                "id": "fr-1463",
+                "w": "sacré",
+                "p": "sa.kʁe",
+                "d": "sacred, holy",
+                "s": "Les voleurs sont partis avec un sacré butin. (The thieves made off with quite a haul.)"
+            },
+            {
+                "id": "fr-1464",
+                "w": "clés",
+                "p": "kle",
+                "d": "key",
+                "s": "J'ai donné les clés de ma voiture à Tom. (I gave Tom my car keys.)"
+            },
+            {
+                "id": "fr-1465",
+                "w": "mentir",
+                "p": "mɑ̃.tiʁ",
+                "d": "to lie",
+                "s": "Nous avons dû mentir pour nous protéger. (We had to lie to protect ourselves.)"
+            },
+            {
+                "id": "fr-1466",
+                "w": "épouse",
+                "p": "e.puz",
+                "d": "female spouse, wife",
+                "s": "J'aimerais que tu rencontres mon épouse. (I'd like you to meet my wife.)"
+            },
+            {
+                "id": "fr-1467",
+                "w": "troisième",
+                "p": "tʁwa.zjɛm",
+                "d": "third",
+                "s": "C'est la troisième fois que je viens ici. (This is the third time I've been here.)"
+            },
+            {
+                "id": "fr-1468",
+                "w": "faible",
+                "p": "fɛbl",
+                "d": "weak",
+                "s": "J'ai une très faible estime de moi-même. (I have very low self-esteem.)"
+            },
+            {
+                "id": "fr-1469",
+                "w": "afin",
+                "p": "a.fɛ̃",
+                "d": "to",
+                "s": "Je restai à la maison afin de me reposer. (I stayed home to rest.)"
+            },
+            {
+                "id": "fr-1470",
+                "w": "bleu",
+                "p": "blø",
+                "d": "blue",
+                "s": "Tom porte un pull-over bleu aujourd'hui. (Tom is wearing a blue sweater today.)"
+            },
+            {
+                "id": "fr-1471",
+                "w": "failli",
+                "p": "fa.ji",
+                "d": "to almost do something",
+                "s": "Il a vraiment failli se faire renverser. (He narrowly escaped being run over.)"
+            },
+            {
+                "id": "fr-1472",
+                "w": "courir",
+                "p": "ku.ʁiʁ",
+                "d": "to run",
+                "s": "Il est trop gros pour courir rapidement. (He is too fat to run fast.)"
+            },
+            {
+                "id": "fr-1473",
+                "w": "américain",
+                "p": "a.me.ʁi.kɛ̃",
+                "d": "of or pertaining to America",
+                "s": "Mark Twain était un romancier américain. (Mark Twain was an American novelist.)"
+            },
+            {
+                "id": "fr-1474",
+                "w": "détails",
+                "p": "de.taj",
+                "d": "detail",
+                "s": "Tu peux me donner les détails plus tard. (You can give me the details later.)"
+            },
+            {
+                "id": "fr-1475",
+                "w": "pont",
+                "p": "pɔ̃",
+                "d": "bridge",
+                "s": "Le pont a été construit par les Romains. (The bridge was built by the Romans.)"
+            },
+            {
+                "id": "fr-1476",
+                "w": "gay",
+                "p": "ɡɛ",
+                "d": "gay",
+                "s": "Le mariage gay est légal ici. (Gay marriage is legal here.)"
+            },
+            {
+                "id": "fr-1477",
+                "w": "attraper",
+                "p": "a.tʁa.pe",
+                "d": "to trap",
+                "s": "Fais attention de ne pas attraper froid. (Take care not to catch a cold.)"
+            },
+            {
+                "id": "fr-1478",
+                "w": "papiers",
+                "p": "pa.pje",
+                "d": "paper",
+                "s": "Veuillez regarder ces papiers avec soin. (Please look at these papers carefully.)"
+            },
+            {
+                "id": "fr-1479",
+                "w": "poisson",
+                "p": "pwa.sɔ̃",
+                "d": "fish",
+                "s": "Il mange souvent du poisson pour souper. (He often eats fish for dinner.)"
+            },
+            {
+                "id": "fr-1480",
+                "w": "lui-même",
+                "p": "lɥi.mɛm",
+                "d": "himself, itself",
+                "s": "Il n'avait pas besoin de venir lui-même. (He needn't have come himself.)"
+            },
+            {
+                "id": "fr-1481",
+                "w": "chiens",
+                "p": "ʃjɛ̃",
+                "d": "dog",
+                "s": "Les chiens qui aboient mordent rarement. (Barking dogs seldom bite.)"
+            },
+            {
+                "id": "fr-1482",
+                "w": "date",
+                "p": "dat",
+                "d": "date",
+                "s": "Cette musique date des années quarante. (This music is from the 40s.)"
+            },
+            {
+                "id": "fr-1483",
+                "w": "intention",
+                "p": "ɛ̃.tɑ̃.sjɔ̃",
+                "d": "intention",
+                "s": "Nous n'avions pas de mauvaise intention. (We meant no harm.)"
+            },
+            {
+                "id": "fr-1484",
+                "w": "procureur",
+                "p": "pʁɔ.ky.ʁœʁ",
+                "d": "representative",
+                "s": "Le procureur me posa une question insidieuse. (The prosecutor asked me a leading question.)"
+            },
+            {
+                "id": "fr-1485",
+                "w": "goût",
+                "p": "ɡu",
+                "d": "taste, flavour",
+                "s": "Est-ce que le goût de la bière te plaît ? (Do you like the taste of beer?)"
+            },
+            {
+                "id": "fr-1486",
+                "w": "pourras",
+                "p": "puʁa",
+                "d": "can, to be able to",
+                "s": "Tu pourras me poser au bureau mercredi ? (Can you give me a ride to the office on Wednesday?)"
+            },
+            {
+                "id": "fr-1487",
+                "w": "shérif",
+                "p": "ʃe.ʁif",
+                "d": "sheriff",
+                "s": "Le shérif vous attend dans son bureau. (The sheriff is waiting for you in his office.)"
+            },
+            {
+                "id": "fr-1488",
+                "w": "sais-tu",
+                "p": "sɛ.ty",
+                "d": "you know",
+                "s": "Sais-tu comment attacher tes chaussures? (Do you know how to tie your shoes?)"
+            },
+            {
+                "id": "fr-1489",
+                "w": "arrêt",
+                "p": "a.ʁɛ",
+                "d": "stopping",
+                "s": "Tom me pose sans arrêt la même question. (Tom always asks me the same question.)"
+            },
+            {
+                "id": "fr-1490",
+                "w": "sourire",
+                "p": "su.ʁiʁ",
+                "d": "smile",
+                "s": "Nous ne sommes pas en train de sourire. (We're not smiling.)"
+            },
+            {
+                "id": "fr-1491",
+                "w": "lait",
+                "p": "lɛ",
+                "d": "milk",
+                "s": "J'achète du lait presque tous les jours. (I buy milk almost every day.)"
+            },
+            {
+                "id": "fr-1492",
+                "w": "chasse",
+                "p": "ʃas",
+                "d": "hunt, hunting",
+                "s": "La chasse est interdite dans cette zone. (Hunting is prohibited in this area.)"
+            },
+            {
+                "id": "fr-1493",
+                "w": "signal",
+                "p": "si.ɲal",
+                "d": "signal",
+                "s": "Il nous a donné le signal pour commencer. (He gave us the signal to begin.)"
+            },
+            {
+                "id": "fr-1494",
+                "w": "parlait",
+                "p": "paʁ.lɛ",
+                "d": "to speak, talk",
+                "s": "Elle parlait rarement à qui que ce soit. (She rarely talked to anybody.)"
+            },
+            {
+                "id": "fr-1495",
+                "w": "destin",
+                "p": "dɛs.tɛ̃",
+                "d": "destiny, fate",
+                "s": "Elle était prête à affronter son destin. (She was ready to face her fate.)"
+            },
+            {
+                "id": "fr-1496",
+                "w": "marre",
+                "p": "maʁ",
+                "d": "enough",
+                "s": "J'en ai vraiment marre de cette chaleur. (I'm really fed up with this heat.)"
+            },
+            {
+                "id": "fr-1497",
+                "w": "français",
+                "p": "fʁɑ̃.sɛ",
+                "d": "French",
+                "s": "Nous étudions tous les deux le français. (We both study French.)"
+            },
+            {
+                "id": "fr-1498",
+                "w": "princesse",
+                "p": "pʁɛ̃.sɛs",
+                "d": "princess",
+                "s": "Il était une fois une belle princesse... (Once upon a time, there was a beautiful princess.)"
+            },
+            {
+                "id": "fr-1499",
+                "w": "paie",
+                "p": "pɛ",
+                "d": "to pay",
+                "s": "Je paie toujours le loyer dans les temps. (I always pay the rent on time.)"
+            },
+            {
+                "id": "fr-1500",
+                "w": "foi",
+                "p": "fwa",
+                "d": "Faith",
+                "s": "Nous devons avoir foi dans le président. (We must have faith in the president.)"
+            },
+            {
+                "id": "fr-1501",
+                "w": "chier",
+                "p": "ʃje",
+                "d": "to shit, defecate",
+                "s": "On a démarré un groupe parce qu'on se faisait chier. (We started a band because we were bored.)"
+            },
+            {
+                "id": "fr-1502",
+                "w": "présence",
+                "p": "pʁe.zɑ̃s",
+                "d": "presence",
+                "s": "Nous nous réjouissons de votre présence. (We're looking forward to your being here.)"
+            },
+            {
+                "id": "fr-1503",
+                "w": "doigts",
+                "p": "dwa",
+                "d": "finger",
+                "s": "Elle tambourina des doigts sur la table. (She drummed her fingers on the table.)"
+            },
+            {
+                "id": "fr-1504",
+                "w": "partenaire",
+                "p": "paʁ.tə.nɛʁ",
+                "d": "partner",
+                "s": "N'as-tu jamais eu de partenaire féminine? (You've never had a girlfriend, have you?)"
+            },
+            {
+                "id": "fr-1505",
+                "w": "quelles",
+                "p": "kɛl",
+                "d": "which?",
+                "s": "Quelles conclusions pouvons-nous tirer ? (What conclusions can we draw?)"
+            },
+            {
+                "id": "fr-1506",
+                "w": "préféré",
+                "p": "pʁe.fe.ʁe",
+                "d": "favourite",
+                "s": "Qui est votre metteur en scène préféré ? (Who's your favorite movie director?)"
+            },
+            {
+                "id": "fr-1507",
+                "w": "adieu",
+                "p": "a.djø",
+                "d": "farewell",
+                "s": "Je suis venue simplement pour dire adieu. (I just dropped in to say goodbye.)"
+            },
+            {
+                "id": "fr-1508",
+                "w": "costume",
+                "p": "kɔs.tym",
+                "d": "a suit worn by a man",
+                "s": "Que pensez-vous de mon nouveau costume ? (How do you like my new suit?)"
+            },
+            {
+                "id": "fr-1509",
+                "w": "entreprise",
+                "p": "ɑ̃.tʁə.pʁiz",
+                "d": "company, business",
+                "s": "Pour quelle entreprise travaillez-vous ? (What company do you work for?)"
+            },
+            {
+                "id": "fr-1510",
+                "w": "utile",
+                "p": "y.til",
+                "d": "useful",
+                "s": "Ce médicament est utile en cas de rhume. (This medicine is good for a cold.)"
+            },
+            {
+                "id": "fr-1511",
+                "w": "lien",
+                "p": "ljɛ̃",
+                "d": "tie, bond",
+                "s": "Tom a-t-il un lien de parenté avec Mary ? (Is Tom related to Mary?)"
+            },
+            {
+                "id": "fr-1512",
+                "w": "unique",
+                "p": "y.nik",
+                "d": "unique",
+                "s": "Est-ce que toi aussi tu es fils unique ? (Are you an only child, too?)"
+            },
+            {
+                "id": "fr-1513",
+                "w": "appartient",
+                "p": "a.paʁ.tjɛ̃",
+                "d": "to belong",
+                "s": "La décision vous appartient entièrement. (The decision is wholly up to you.)"
+            },
+            {
+                "id": "fr-1514",
+                "w": "attendant",
+                "p": "a.tɑ̃.dɑ̃",
+                "d": "to wait for",
+                "s": "Fais semblant en attendant de le faire. (Fake it till you make it.)"
+            },
+            {
+                "id": "fr-1515",
+                "w": "amené",
+                "p": "am.ne",
+                "d": "to bring",
+                "s": "Le prisonnier fut amené devant un juge. (The prisoner was brought before a judge.)"
+            },
+            {
+                "id": "fr-1516",
+                "w": "moindre",
+                "p": "mwɛ̃dʁ",
+                "d": "small",
+                "s": "Avez-vous la moindre nouvelle pour moi ? (Do you have any news for me?)"
+            },
+            {
+                "id": "fr-1517",
+                "w": "quels",
+                "p": "kɛl",
+                "d": "which",
+                "s": "Quels sont vos projets pour le weekend ? (What are your weekend plans?)"
+            },
+            {
+                "id": "fr-1518",
+                "w": "amener",
+                "p": "am.ne",
+                "d": "to bring",
+                "s": "Quelle sorte de vin devrais-je amener ? (What kind of wine should I bring?)"
+            },
+            {
+                "id": "fr-1519",
+                "w": "amène",
+                "p": "a.mɛn",
+                "d": "to bring",
+                "s": "C'est lui qui amène le pain à la maison. (He brings home the bread and butter.)"
+            },
+            {
+                "id": "fr-1520",
+                "w": "enfoiré",
+                "p": "ɑ̃.fwa.ʁe",
+                "d": "dickhead",
+                "s": ""
+            },
+            {
+                "id": "fr-1521",
+                "w": "recherches",
+                "p": "ʁə.ʃɛʁʃ",
+                "d": "research",
+                "s": "J'ai fait quelques recherches à ce sujet. (I did some research on this.)"
+            },
+            {
+                "id": "fr-1522",
+                "w": "discours",
+                "p": "dis.kuʁ",
+                "d": "speech",
+                "s": "Le discours de Thomas dura trois heures. (Tom's speech lasted three hours.)"
+            },
+            {
+                "id": "fr-1523",
+                "w": "données",
+                "p": "dɔ.ne",
+                "d": "data",
+                "s": "Et si vous jetiez un œil à ces données ? (Why don't you take a look at this data?)"
+            },
+            {
+                "id": "fr-1524",
+                "w": "robert",
+                "p": "ʁɔ.bɛʁ",
+                "d": "tit",
+                "s": "Robert Deniro a fait une brève apparition dans le film. (Robert Deniro made a cameo appearance in the movie.)"
+            },
+            {
+                "id": "fr-1525",
+                "w": "art",
+                "p": "aʁ",
+                "d": "art",
+                "s": "C'est tout autant un art qu'une science. (It's as much an art as a science.)"
+            },
+            {
+                "id": "fr-1526",
+                "w": "appelles",
+                "p": "a.pɛl",
+                "d": "to call",
+                "s": "Je veux que tu appelles la police. (I want you to call the police.)"
+            },
+            {
+                "id": "fr-1527",
+                "w": "salaud",
+                "p": "sa.lo",
+                "d": "bastard, wretch",
+                "s": "T'es vraiment un salaud. (You really are a jerk.)"
+            },
+            {
+                "id": "fr-1528",
+                "w": "magie",
+                "p": "ma.ʒi",
+                "d": "magic",
+                "s": "Le prince fut changé en arbre par magie. (The prince was changed into a tree by magic.)"
+            },
+            {
+                "id": "fr-1529",
+                "w": "bouteille",
+                "p": "bu.tɛj",
+                "d": "bottle",
+                "s": "Le vin, c'est de la poésie en bouteille. (Wine is poetry put into a bottle.)"
+            },
+            {
+                "id": "fr-1530",
+                "w": "justement",
+                "p": "ʒys.tə.mɑ̃",
+                "d": "precisely, exactly",
+                "s": "Nous nous apprêtons justement à manger. (We're just getting ready to eat.)"
+            },
+            {
+                "id": "fr-1531",
+                "w": "raconter",
+                "p": "ʁa.kɔ̃.te",
+                "d": "to recount",
+                "s": "Nous ne pouvons le raconter à quiconque. (We can't tell anybody.)"
+            },
+            {
+                "id": "fr-1532",
+                "w": "rapidement",
+                "p": "ʁa.pid.mɑ̃",
+                "d": "speedily",
+                "s": "Les nouvelles se répandirent rapidement. (The news quickly spread.)"
+            },
+            {
+                "id": "fr-1533",
+                "w": "bref",
+                "p": "bʁɛf",
+                "d": "in short",
+                "s": "Voici un bref aperçu de mon discours. (Here's a brief outline of my speech.)"
+            },
+            {
+                "id": "fr-1534",
+                "w": "tribunal",
+                "p": "tʁi.by.nal",
+                "d": "tribunal",
+                "s": "La décision du tribunal est définitive. (The court's decision is final.)"
+            },
+            {
+                "id": "fr-1535",
+                "w": "viendra",
+                "p": "vjɛ̃.dʁa",
+                "d": "to come",
+                "s": "Thomas ne viendra pas s'il pleut demain. (If it rains tomorrow, Tom won't come.)"
+            },
+            {
+                "id": "fr-1536",
+                "w": "passée",
+                "p": "pa.se",
+                "d": "past",
+                "s": "Nous en avons discuté la semaine passée. (We went over this last week.)"
+            },
+            {
+                "id": "fr-1537",
+                "w": "superbe",
+                "p": "sy.pɛʁb",
+                "d": "superb",
+                "s": "Vous avez l'air superbe dans cette robe. (You look gorgeous in that dress.)"
+            },
+            {
+                "id": "fr-1538",
+                "w": "pourrai",
+                "p": "puʁɛ",
+                "d": "can, to be able to",
+                "s": "Je vous contacterai quand je le pourrai. (I'll contact you when I can.)"
+            },
+            {
+                "id": "fr-1539",
+                "w": "pièces",
+                "p": "pjɛs",
+                "d": "room in a house",
+                "s": "Tom a sorti quelques pièces de sa poche. (Tom took some coins out of his pocket.)"
+            },
+            {
+                "id": "fr-1540",
+                "w": "certaine",
+                "p": "sɛʁ.tɛn",
+                "d": "certain, guaranteed",
+                "s": "Je ne suis pas certaine de qui l'a fait. (I'm not sure who did that.)"
+            },
+            {
+                "id": "fr-1541",
+                "w": "obligé",
+                "p": "ɔ.bli.ʒe",
+                "d": "to oblige",
+                "s": "Je suis obligé d'être d'accord avec Tom. (I'm forced to agree with Tom.)"
+            },
+            {
+                "id": "fr-1542",
+                "w": "formidable",
+                "p": "fɔʁ.mi.dabl",
+                "d": "fantastic",
+                "s": "Vous avez fait un travail formidable. (You've done a terrific job.)"
+            },
+            {
+                "id": "fr-1543",
+                "w": "pause",
+                "p": "poz",
+                "d": "pause, break",
+                "s": "Pourquoi ne faisons-nous pas une pause ? (Why don't we take a break?)"
+            },
+            {
+                "id": "fr-1544",
+                "w": "identité",
+                "p": "i.dɑ̃.ti.te",
+                "d": "identity",
+                "s": "Je n'avais aucune idée de son identité. (I had no idea who she was.)"
+            },
+            {
+                "id": "fr-1545",
+                "w": "campagne",
+                "p": "kɑ̃.paɲ",
+                "d": "country, countryside",
+                "s": "La vie à la campagne me plaît beaucoup. (Rural life appeals to me very much.)"
+            },
+            {
+                "id": "fr-1546",
+                "w": "auraient",
+                "p": "ɔ.ʁɛ",
+                "d": "to have",
+                "s": "Elles auraient dû faire plus attention. (They should've been more careful.)"
+            },
+            {
+                "id": "fr-1547",
+                "w": "couper",
+                "p": "ku.pe",
+                "d": "to cut, cut up",
+                "s": "Je me suis fait couper les cheveux hier. (I got my hair cut yesterday.)"
+            },
+            {
+                "id": "fr-1548",
+                "w": "mark",
+                "p": "maʁk",
+                "d": "mark",
+                "s": "Mark Twain était un romancier américain. (Mark Twain was an American novelist.)"
+            },
+            {
+                "id": "fr-1549",
+                "w": "morceau",
+                "p": "mɔʁ.so",
+                "d": "piece",
+                "s": "Est-ce que je peux en avoir un morceau ? (Can I have a bite?)"
+            },
+            {
+                "id": "fr-1550",
+                "w": "os",
+                "p": "ɔs",
+                "d": "bone",
+                "s": "Ne vous êtes-vous jamais cassé un os ? (Have you ever broken a bone?)"
+            },
+            {
+                "id": "fr-1551",
+                "w": "lettres",
+                "p": "lɛtʁ",
+                "d": "letter",
+                "s": "Des douzaines de lettres vous attendent. (Dozens of letters are awaiting you.)"
+            },
+            {
+                "id": "fr-1552",
+                "w": "nombre",
+                "p": "nɔ̃bʁ",
+                "d": "number",
+                "s": "Je ne compte pas au nombre de tes amies. (I'm no friend of yours.)"
+            },
+            {
+                "id": "fr-1553",
+                "w": "intelligent",
+                "p": "ɛ̃.tɛ.li.ʒɑ̃",
+                "d": "intelligent",
+                "s": "Je ne suis pas plus intelligent que lui. (I'm not as intelligent as he is.)"
+            },
+            {
+                "id": "fr-1554",
+                "w": "gâteau",
+                "p": "ɡa.to",
+                "d": "a sponge cake",
+                "s": "Vous devriez vraiment essayer ce gâteau. (You really should try this cake.)"
+            },
+            {
+                "id": "fr-1555",
+                "w": "dépend",
+                "p": "de.pɑ̃",
+                "d": "to depend",
+                "s": "Je pense que ça dépend désormais de toi. (I think that's up to you now.)"
+            },
+            {
+                "id": "fr-1556",
+                "w": "job",
+                "p": "dʒɔb",
+                "d": "job",
+                "s": "J'ai un job temporaire dans l'entreprise. (I got a temporary job at the firm.)"
+            },
+            {
+                "id": "fr-1557",
+                "w": "jeux",
+                "p": "ʒø",
+                "d": "game",
+                "s": "Les jeux d'argent sont légaux au Nevada. (Gambling is legal in Nevada.)"
+            },
+            {
+                "id": "fr-1558",
+                "w": "compter",
+                "p": "kɔ̃.te",
+                "d": "to count",
+                "s": "Vous ne pouvez pas compter sur son aide. (You can't rely on his help.)"
+            },
+            {
+                "id": "fr-1559",
+                "w": "cou",
+                "p": "ku",
+                "d": "neck",
+                "s": "C'est un suçon que tu as dans le cou ? (Is that a hickey on your neck?)"
+            },
+            {
+                "id": "fr-1560",
+                "w": "reprendre",
+                "p": "ʁə.pʁɑ̃dʁ",
+                "d": "to take back",
+                "s": "Je n'arrive pas à reprendre mon souffle. (I can't catch my breath.)"
+            },
+            {
+                "id": "fr-1561",
+                "w": "joie",
+                "p": "ʒwa",
+                "d": "joy",
+                "s": "Elle accepta sa proposition avec joie. (She gladly accepted his proposal.)"
+            },
+            {
+                "id": "fr-1562",
+                "w": "agents",
+                "p": "a.ʒɑ̃",
+                "d": "agent",
+                "s": "Les agents de sécurité ont refusé de nous laisser entrer. (The security guards wouldn't let us in.)"
+            },
+            {
+                "id": "fr-1563",
+                "w": "gardes",
+                "p": "ɡaʁd",
+                "d": "a watch, guard",
+                "s": "Tu ferais mieux de rester sur tes gardes. (You'd better stay on your guard.)"
+            },
+            {
+                "id": "fr-1564",
+                "w": "star",
+                "p": "staʁ",
+                "d": "star",
+                "s": "Tom était la star de l'équipe de football. (Tom was the star of the football team.)"
+            },
+            {
+                "id": "fr-1565",
+                "w": "regard",
+                "p": "ʁə.ɡaʁ",
+                "d": "look, glance",
+                "s": "Peux-tu détourner le regard, je te prie ? (Can you please look the other way?)"
+            },
+            {
+                "id": "fr-1566",
+                "w": "demandez",
+                "p": "də.mɑ̃.de",
+                "d": "to ask",
+                "s": "Vous me demandez de renoncer, pas vrai ? (You aren't asking me to give up, are you?)"
+            },
+            {
+                "id": "fr-1567",
+                "w": "balles",
+                "p": "bal",
+                "d": "ball",
+                "s": "Le mur était criblé d'impacts de balles. (The wall was riddled with bullet holes.)"
+            },
+            {
+                "id": "fr-1568",
+                "w": "vendu",
+                "p": "vɑ̃.dy",
+                "d": "to sell",
+                "s": "Combien d'exemplaires avez-vous vendu ? (How many copies did you sell?)"
+            },
+            {
+                "id": "fr-1569",
+                "w": "majesté",
+                "p": "ma.ʒɛs.te",
+                "d": "majesty",
+                "s": ""
+            },
+            {
+                "id": "fr-1570",
+                "w": "menace",
+                "p": "mə.nas",
+                "d": "threat",
+                "s": "Elles ne constituent pas une menace. (They're not a threat.)"
+            },
+            {
+                "id": "fr-1571",
+                "w": "malgré",
+                "p": "mal.ɡʁe",
+                "d": "despite, in spite of",
+                "s": "Il est arrivé à l'heure malgré la pluie. (He arrived on time in spite of the rain.)"
+            },
+            {
+                "id": "fr-1572",
+                "w": "appareil",
+                "p": "a.pa.ʁɛj",
+                "d": "apparatus, device",
+                "s": "J'aimerais disposer d'un appareil photo. (I wish I had a camera.)"
+            },
+            {
+                "id": "fr-1573",
+                "w": "demandais",
+                "p": "də.mɑ̃.dɛ",
+                "d": "to ask",
+                "s": "Je me demandais de quoi tu aurais l’air. (I was wondering how you'd look.)"
+            },
+            {
+                "id": "fr-1574",
+                "w": "là-haut",
+                "p": "la.o",
+                "d": "up there",
+                "s": "Est-ce que tout va bien là-haut ? (Is everything all right up there?)"
+            },
+            {
+                "id": "fr-1575",
+                "w": "privé",
+                "p": "pʁi.ve",
+                "d": "private",
+                "s": "Je peux te parler en privé une seconde ? (Can I talk to you in private for a second?)"
+            },
+            {
+                "id": "fr-1576",
+                "w": "forces",
+                "p": "fɔʁs",
+                "d": "force",
+                "s": "Les forces américaines ont été retirées. (American forces were withdrawn.)"
+            },
+            {
+                "id": "fr-1577",
+                "w": "fonctionne",
+                "p": "fɔ̃ksjɔn",
+                "d": "to function, to work",
+                "s": "Je vous montrerai comment ça fonctionne. (I'll show you how it works.)"
+            },
+            {
+                "id": "fr-1578",
+                "w": "méchant",
+                "p": "me.ʃɑ̃",
+                "d": "mean, unkind",
+                "s": "Elle me fixait avec un regard méchant. (She gave me the evil eye.)"
+            },
+            {
+                "id": "fr-1579",
+                "w": "jambe",
+                "p": "ʒɑ̃b",
+                "d": "leg",
+                "s": "La jambe de Tom est en voie de guérison. (Tom's leg is healing.)"
+            },
+            {
+                "id": "fr-1580",
+                "w": "empreintes",
+                "p": "ɑ̃.pʁɛ̃t",
+                "d": "imprint",
+                "s": "Il y a les empreintes d'un chat sur la table. (There are footprints of a cat on the table.)"
+            },
+            {
+                "id": "fr-1581",
+                "w": "ange",
+                "p": "ɑ̃ʒ",
+                "d": "angel",
+                "s": "Un enfant endormi ressemble à un ange. (A sleeping child looks like an angel.)"
+            },
+            {
+                "id": "fr-1582",
+                "w": "agir",
+                "p": "a.ʒiʁ",
+                "d": "to act, to do",
+                "s": "Regarde-la agir avec affectation là-bas. (Look at her putting on airs over there.)"
+            },
+            {
+                "id": "fr-1583",
+                "w": "noire",
+                "p": "nwaʁ",
+                "d": "black in colour",
+                "s": "De la fumée noire sortit de la cheminée. (Black smoke came out of the chimney.)"
+            },
+            {
+                "id": "fr-1584",
+                "w": "imbécile",
+                "p": "ɛ̃.be.sil",
+                "d": "imbecile",
+                "s": "Tu es un imbécile de sortir par un temps pareil. (You're an idiot to go out in this weather.)"
+            },
+            {
+                "id": "fr-1585",
+                "w": "gentille",
+                "p": "ʒɑ̃.tij",
+                "d": "noble",
+                "s": "Arrêtez d'être aussi gentille avec moi ! (Stop being so nice to me.)"
+            },
+            {
+                "id": "fr-1586",
+                "w": "labo",
+                "p": "la.bo",
+                "d": "lab",
+                "s": "Il y a eu une explosion dans le labo. (There was an explosion in the lab.)"
+            },
+            {
+                "id": "fr-1587",
+                "w": "résultats",
+                "p": "ʁe.zyl.ta",
+                "d": "outcome",
+                "s": "Je m'inquiète des résultats de l'examen. (I'm worried about the test result.)"
+            },
+            {
+                "id": "fr-1588",
+                "w": "toi-même",
+                "p": "twa.mɛm",
+                "d": "yourself",
+                "s": "Tu ne peux pas t'infliger ça à toi-même. (You can't do this to yourself.)"
+            },
+            {
+                "id": "fr-1589",
+                "w": "cinéma",
+                "p": "si.ne.ma",
+                "d": "cinema, filmmaking",
+                "s": "Elle se rend souvent au cinéma avec lui. (She often goes to the movies with him.)"
+            },
+            {
+                "id": "fr-1590",
+                "w": "nouvel",
+                "p": "nu.vɛl",
+                "d": "new",
+                "s": "Je viens d'acheter un nouvel ordinateur. (I've just bought a new computer.)"
+            },
+            {
+                "id": "fr-1591",
+                "w": "malheureusement",
+                "p": "ma.lø.ʁøz.mɑ̃",
+                "d": "unfortunately",
+                "s": "Malheureusement, ce n'est pas si simple. (Unfortunately, it's not that easy.)"
+            },
+            {
+                "id": "fr-1592",
+                "w": "décider",
+                "p": "de.si.de",
+                "d": "to decide",
+                "s": "Je n'arrivais pas à décider quoi mettre. (I couldn't decide what to wear.)"
+            },
+            {
+                "id": "fr-1593",
+                "w": "né",
+                "p": "ne",
+                "d": "to be born",
+                "s": "Je suis né au cours de la Guerre Froide. (I was born during the Cold War.)"
+            },
+            {
+                "id": "fr-1594",
+                "w": "importante",
+                "p": "ɛ̃.pɔʁ.tɑ̃t",
+                "d": "important",
+                "s": "Nous avons une journée importante demain. (We have a big day tomorrow.)"
+            },
+            {
+                "id": "fr-1595",
+                "w": "voulons",
+                "p": "vulɔ̃",
+                "d": "to want",
+                "s": "Nous ne voulons pas cela, n'est-ce pas ? (We don't want that, do we?)"
+            },
+            {
+                "id": "fr-1596",
+                "w": "détruit",
+                "p": "de.tʁɥi",
+                "d": "to destroy",
+                "s": "Le typhon a détruit beaucoup de maisons. (The typhoon destroyed many houses.)"
+            },
+            {
+                "id": "fr-1597",
+                "w": "parfaitement",
+                "p": "paʁ.fɛt.mɑ̃",
+                "d": "perfectly",
+                "s": "Elle fit parfaitement face à la douleur. (She put up with the pain quite well.)"
+            },
+            {
+                "id": "fr-1598",
+                "w": "martin",
+                "p": "maʁ.tɛ̃",
+                "d": "bird of either the starling family",
+                "s": ""
+            },
+            {
+                "id": "fr-1599",
+                "w": "produit",
+                "p": "pʁɔ.dɥi",
+                "d": "to produce, to yield",
+                "s": "Cela ne s'est jamais produit auparavant. (That never happened before.)"
+            },
+            {
+                "id": "fr-1600",
+                "w": "réparer",
+                "p": "ʁe.pa.ʁe",
+                "d": "to repair, fix, mend",
+                "s": "Elle est en train de réparer la machine. (She's fixing the machine.)"
+            },
+            {
+                "id": "fr-1601",
+                "w": "chapeau",
+                "p": "ʃa.po",
+                "d": "hat",
+                "s": "Elle n'arrive pas à trouver son chapeau. (She can't find her hat.)"
+            },
+            {
+                "id": "fr-1602",
+                "w": "gérer",
+                "p": "ʒe.ʁe",
+                "d": "to manage",
+                "s": "Vous ne pouvez pas gérer ça toute seule. (You can't handle this alone.)"
+            },
+            {
+                "id": "fr-1603",
+                "w": "échange",
+                "p": "e.ʃɑ̃ʒ",
+                "d": "exchange",
+                "s": "Qu'est-ce que je dois faire en échange ? (What do I have to do in return?)"
+            },
+            {
+                "id": "fr-1604",
+                "w": "mince",
+                "p": "mɛ̃s",
+                "d": "thin, slim, slender",
+                "s": "De combien voulez-vous être plus mince ? (How much thinner do you want to be?)"
+            },
+            {
+                "id": "fr-1605",
+                "w": "bougez",
+                "p": "bu.ʒe",
+                "d": "to move",
+                "s": "Ne bougez pas jusqu'à ce que je revienne. (Don't move till I get back.)"
+            },
+            {
+                "id": "fr-1606",
+                "w": "parfaite",
+                "p": "paʁfɛt",
+                "d": "perfect",
+                "s": "Il a une parfaite maîtrise de l'anglais. (He has a perfect command of English.)"
+            },
+            {
+                "id": "fr-1607",
+                "w": "meurt",
+                "p": "mœʁ",
+                "d": "to die",
+                "s": "Tout ce qui vit meurt un jour ou l'autre. (Everything that lives will die sometime.)"
+            },
+            {
+                "id": "fr-1608",
+                "w": "fout",
+                "p": "fu",
+                "d": "to do",
+                "s": "Ma sœur se fout toujours de ma gueule. (My sister always makes fun of me.)"
+            },
+            {
+                "id": "fr-1609",
+                "w": "vitesse",
+                "p": "vi.tɛs",
+                "d": "speed",
+                "s": "À quelle vitesse cette chose va-t-elle ? (How fast does this thing go?)"
+            },
+            {
+                "id": "fr-1610",
+                "w": "fermé",
+                "p": "fɛʁ.me",
+                "d": "to shut",
+                "s": "L'école a été fermé à cause de la neige. (School was canceled because of snow.)"
+            },
+            {
+                "id": "fr-1611",
+                "w": "succès",
+                "p": "syk.sɛ",
+                "d": "success",
+                "s": "Son succès est en partie dû à la chance. (His success was in part due to luck.)"
+            },
+            {
+                "id": "fr-1612",
+                "w": "au-dessus",
+                "p": "o.d(ə).sy",
+                "d": "above",
+                "s": "Il habite l'étage au-dessus de chez moi. (He lives above me.)"
+            },
+            {
+                "id": "fr-1613",
+                "w": "etre",
+                "p": "",
+                "d": "to be",
+                "s": ""
+            },
+            {
+                "id": "fr-1614",
+                "w": "souvenirs",
+                "p": "suv.niʁ",
+                "d": "memory",
+                "s": "J'ai de merveilleux souvenirs de Boston. (I have wonderful memories of Boston.)"
+            },
+            {
+                "id": "fr-1615",
+                "w": "comprend",
+                "p": "kɔ̃.pʁɑ̃",
+                "d": "to understand",
+                "s": "Tom comprend ce que tu ne comprends pas. (Tom understands what you don't.)"
+            },
+            {
+                "id": "fr-1616",
+                "w": "odeur",
+                "p": "ɔ.dœʁ",
+                "d": "smell, odour",
+                "s": "Les chiens mouillés ont une odeur atroce. (Wet dogs smell awful.)"
+            },
+            {
+                "id": "fr-1617",
+                "w": "pain",
+                "p": "pɛ̃",
+                "d": "bread",
+                "s": "Les souris ont mangé une partie du pain. (The mice ate some of the bread.)"
+            },
+            {
+                "id": "fr-1618",
+                "w": "falloir",
+                "p": "fa.lwaʁ",
+                "d": "to need",
+                "s": "Il va falloir que je vérifie mon agenda. (I'll need to check my schedule.)"
+            },
+            {
+                "id": "fr-1619",
+                "w": "aise",
+                "p": "ɛz",
+                "d": "satisfaction",
+                "s": "Mettez-vous à votre aise. (Make yourself comfortable.)"
+            },
+            {
+                "id": "fr-1620",
+                "w": "caché",
+                "p": "ka.ʃe",
+                "d": "to hide",
+                "s": "Je me suis caché dans les herbes hautes. (I hid in the tall grass.)"
+            },
+            {
+                "id": "fr-1621",
+                "w": "règle",
+                "p": "ʁɛɡl",
+                "d": "rule, regulation",
+                "s": "Cette règle ne connaît aucune exception. (This rule has no exceptions.)"
+            },
+            {
+                "id": "fr-1622",
+                "w": "imaginer",
+                "p": "i.ma.ʒi.ne",
+                "d": "to imagine",
+                "s": "Je ne peux pas imaginer ma vie sans toi. (I can't imagine my life without you.)"
+            },
+            {
+                "id": "fr-1623",
+                "w": "raconte",
+                "p": "ʁakɔ̃t",
+                "d": "to recount",
+                "s": "Ce qu'il raconte n'a vraiment aucun sens. (What he says is total nonsense.)"
+            },
+            {
+                "id": "fr-1624",
+                "w": "vus",
+                "p": "vy",
+                "d": "given",
+                "s": "Je ne vous ai pas vus depuis des lustres. (I haven't seen you in ages.)"
+            },
+            {
+                "id": "fr-1625",
+                "w": "accepté",
+                "p": "ak.sɛp.te",
+                "d": "to accept",
+                "s": "Tom a avoué avoir accepté un pot-de-vin. (Tom admitted he had accepted a bribe.)"
+            },
+            {
+                "id": "fr-1626",
+                "w": "trouvée",
+                "p": "tʁuve",
+                "d": "found",
+                "s": "Une lettre a été trouvée près du cadavre. (A letter was found next to the dead body.)"
+            },
+            {
+                "id": "fr-1627",
+                "w": "dors",
+                "p": "dɔʁ",
+                "d": "to sleep",
+                "s": "Je dors le jour et je travaille la nuit. (I sleep during the day and work at night.)"
+            },
+            {
+                "id": "fr-1628",
+                "w": "celui-ci",
+                "p": "sə.lɥi.si",
+                "d": "this one",
+                "s": "Si j'étais vous, j'achèterais celui-ci. (If I were you, I'd buy that one.)"
+            },
+            {
+                "id": "fr-1629",
+                "w": "ministre",
+                "p": "mi.nistʁ",
+                "d": "minister",
+                "s": "Le premier ministre rencontra la presse. (The Prime Minister met with the press.)"
+            },
+            {
+                "id": "fr-1630",
+                "w": "infos",
+                "p": "ɛ̃.fo",
+                "d": "plural of info",
+                "s": "A-t-on parlé de l'accident aux infos ? (Was there anything on the news about the accident?)"
+            },
+            {
+                "id": "fr-1631",
+                "w": "vendredi",
+                "p": "vɑ̃.dʁə.di",
+                "d": "Friday",
+                "s": "J'aimerais qu'aujourd'hui soit vendredi. (I wish today were Friday.)"
+            },
+            {
+                "id": "fr-1632",
+                "w": "voitures",
+                "p": "vwa.tyʁ",
+                "d": "car",
+                "s": "Il fait commerce de voitures d'occasion. (He deals in used cars.)"
+            },
+            {
+                "id": "fr-1633",
+                "w": "lever",
+                "p": "lə.ve",
+                "d": "to raise, lift",
+                "s": "Je me suis réveillée au lever du soleil. (I woke up at sunrise.)"
+            },
+            {
+                "id": "fr-1634",
+                "w": "arbre",
+                "p": "aʁbʁ",
+                "d": "tree",
+                "s": "Je me suis reposée à l'ombre d'un arbre. (I rested in the shade of a tree.)"
+            },
+            {
+                "id": "fr-1635",
+                "w": "maire",
+                "p": "mɛʁ",
+                "d": "mayor",
+                "s": "Le maire a nié avoir reçu un pot-de-vin. (The mayor denied having taken a bribe.)"
+            },
+            {
+                "id": "fr-1636",
+                "w": "faveur",
+                "p": "fa.vœʁ",
+                "d": "favour",
+                "s": "Tom eut droit à un traitement de faveur. (Tom got special treatment.)"
+            },
+            {
+                "id": "fr-1637",
+                "w": "pourraient",
+                "p": "puʁɛ",
+                "d": "can, to be able to",
+                "s": "Les choses ne pourraient pas être pires. (Things couldn't be worse.)"
+            },
+            {
+                "id": "fr-1638",
+                "w": "prendra",
+                "p": "pʁɑ̃.dʁa",
+                "d": "to take",
+                "s": "Ça ne prendra pas beaucoup plus de temps. (It won't take much longer.)"
+            },
+            {
+                "id": "fr-1639",
+                "w": "surpris",
+                "p": "syʁpʁi",
+                "d": "to surprise",
+                "s": "Je ne peux pas dire que je suis surpris. (I can't say that I'm surprised.)"
+            },
+            {
+                "id": "fr-1640",
+                "w": "jeté",
+                "p": "ʒə.te",
+                "d": "to throw",
+                "s": "C'est de l'argent jeté par les fenêtres. (It's a waste of money.)"
+            },
+            {
+                "id": "fr-1641",
+                "w": "également",
+                "p": "e.ɡal.mɑ̃",
+                "d": "equally",
+                "s": "Je sais que vous êtes également occupée. (I know you're busy, too.)"
+            },
+            {
+                "id": "fr-1642",
+                "w": "fac",
+                "p": "fak",
+                "d": "university",
+                "s": "Ce sont toutes des étudiantes de la fac. (They're all college students.)"
+            },
+            {
+                "id": "fr-1643",
+                "w": "apporter",
+                "p": "a.pɔʁ.te",
+                "d": "to bring",
+                "s": "J'aurais dû apporter mon appareil photo. (I should've brought my camera.)"
+            },
+            {
+                "id": "fr-1644",
+                "w": "champ",
+                "p": "ʃɑ̃",
+                "d": "a wide open space",
+                "s": "Ils moururent sur le champ de bataille. (They died in battle.)"
+            },
+            {
+                "id": "fr-1645",
+                "w": "comptes",
+                "p": "kɔ̃t",
+                "d": "account",
+                "s": "Tu ne comptes pas au nombre des suspects. (You're not a suspect.)"
+            },
+            {
+                "id": "fr-1646",
+                "w": "échapper",
+                "p": "e.ʃa.pe",
+                "d": "to escape, evade",
+                "s": "Nous sommes en train de nous échapper. (We're escaping.)"
+            },
+            {
+                "id": "fr-1647",
+                "w": "valeur",
+                "p": "va.lœʁ",
+                "d": "value, worth",
+                "s": "Je mesure la valeur de votre conviction. (I appreciate your conviction.)"
+            },
+            {
+                "id": "fr-1648",
+                "w": "réel",
+                "p": "ʁe.ɛl",
+                "d": "real",
+                "s": "Je me demande si c'est vraiment réel. (I wonder if this is really true.)"
+            },
+            {
+                "id": "fr-1649",
+                "w": "couverture",
+                "p": "ku.vɛʁ.tyʁ",
+                "d": "blanket",
+                "s": "Qu'est-ce qu'il y a sous la couverture ? (What's under the blanket?)"
+            },
+            {
+                "id": "fr-1650",
+                "w": "million",
+                "p": "mi.ljɔ̃",
+                "d": "million",
+                "s": "J'ai dû entendre ça un million de fois. (I must've heard that a million times.)"
+            },
+            {
+                "id": "fr-1651",
+                "w": "article",
+                "p": "aʁ.tikl",
+                "d": "article",
+                "s": "Réimprimer cet article est-il possible ? (Is reprinting this article a possibility?)"
+            },
+            {
+                "id": "fr-1652",
+                "w": "doux",
+                "p": "du",
+                "d": "sweet",
+                "s": "Le climat est ici plus doux qu'à Moscou. (The climate here is milder than that of Moscow.)"
+            },
+            {
+                "id": "fr-1653",
+                "w": "parc",
+                "p": "paʁk",
+                "d": "park",
+                "s": "Ils s'assirent sur un banc dans le parc. (They sat on a bench in the park.)"
+            },
+            {
+                "id": "fr-1654",
+                "w": "toit",
+                "p": "twa",
+                "d": "roof",
+                "s": "Le toit a vraiment besoin d'être réparé. (The roof is really in need of repair.)"
+            },
+            {
+                "id": "fr-1655",
+                "w": "unité",
+                "p": "y.ni.te",
+                "d": "unity",
+                "s": "Une livre est une unité de poids. (A pound is a unit of weight.)"
+            },
+            {
+                "id": "fr-1656",
+                "w": "resté",
+                "p": "ʁɛs.te",
+                "d": "to stay",
+                "s": "Je suis resté à la maison lundi dernier. (I stayed at home last Monday.)"
+            },
+            {
+                "id": "fr-1657",
+                "w": "plage",
+                "p": "plaʒ",
+                "d": "beach",
+                "s": "Nous avons passé une semaine à la plage. (We spent a week at the beach.)"
+            },
+            {
+                "id": "fr-1658",
+                "w": "partager",
+                "p": "paʁ.ta.ʒe",
+                "d": "to share",
+                "s": "Puis-je partager cette table avec toi ? (May I share this table with you?)"
+            },
+            {
+                "id": "fr-1659",
+                "w": "malin",
+                "p": "ma.lɛ̃",
+                "d": "malignant",
+                "s": "Je pense pouvoir être plus malin que Tom. (I think I can outsmart Tom.)"
+            },
+            {
+                "id": "fr-1660",
+                "w": "recevoir",
+                "p": "ʁə.sə.vwaʁ",
+                "d": "to receive",
+                "s": "J'aimerais recevoir une seconde opinion. (I'd like to get a second opinion.)"
+            },
+            {
+                "id": "fr-1661",
+                "w": "inquiétez",
+                "p": "ɛ̃.kje.te",
+                "d": "to worry",
+                "s": "Ne vous inquiétez pas. Je suis docteur. (Don't worry. I'm a doctor.)"
+            },
+            {
+                "id": "fr-1662",
+                "w": "attendu",
+                "p": "a.tɑ̃.dy",
+                "d": "to wait for",
+                "s": "Je ne m'étais pas attendu à ce résultat. (I didn't expect that result.)"
+            },
+            {
+                "id": "fr-1663",
+                "w": "coffre",
+                "p": "kɔfʁ",
+                "d": "chest, box",
+                "s": "Ne fais plus rien entrer dans le coffre. (Don't squeeze any more into the trunk.)"
+            },
+            {
+                "id": "fr-1664",
+                "w": "celle-là",
+                "p": "sɛl.la",
+                "d": "that one",
+                "s": "Celle-là, là-bas, est vraiment mignonne. (That one over there's really cute.)"
+            },
+            {
+                "id": "fr-1665",
+                "w": "ramène",
+                "p": "ʁamɛn",
+                "d": "to take back",
+                "s": "Tu veux que je te ramène quelque chose? (Would you like me to get you something to eat?)"
+            },
+            {
+                "id": "fr-1666",
+                "w": "mode",
+                "p": "mɔd",
+                "d": "fashion, trend",
+                "s": "Les jeans délavés sont encore à la mode. (Faded jeans are still in fashion.)"
+            },
+            {
+                "id": "fr-1667",
+                "w": "folie",
+                "p": "fɔ.li",
+                "d": "madness",
+                "s": "Ce serait de la folie de recommencer. (It would be crazy to do that again.)"
+            },
+            {
+                "id": "fr-1668",
+                "w": "extérieur",
+                "p": "ɛk.ste.ʁjœʁ",
+                "d": "exterior, outside",
+                "s": "Le Japon dépend du commerce extérieur. (Japan depends on foreign trade.)"
+            },
+            {
+                "id": "fr-1669",
+                "w": "van",
+                "p": "vɑ̃",
+                "d": "a winnowing basket",
+                "s": "Van Gogh souffrait de maladie mentale. (Van Gogh suffered from mental illness.)"
+            },
+            {
+                "id": "fr-1670",
+                "w": "membre",
+                "p": "mɑ̃bʁ",
+                "d": "member",
+                "s": "Chaque membre doit payer une cotisation. (Each member has to pay a membership fee.)"
+            },
+            {
+                "id": "fr-1671",
+                "w": "prévenir",
+                "p": "pʁev.niʁ",
+                "d": "to prevent",
+                "s": "Comment puis-je en prévenir l'occurrence ? (How can I prevent this from happening?)"
+            },
+            {
+                "id": "fr-1672",
+                "w": "cache",
+                "p": "kaʃ",
+                "d": "to hide",
+                "s": "Je pense qu'il nous cache quelque chose. (I think he is holding something back from us.)"
+            },
+            {
+                "id": "fr-1673",
+                "w": "inquiéter",
+                "p": "ɛ̃.kje.te",
+                "d": "to worry",
+                "s": "Vous n'avez pas à vous inquiéter de cela. (You don't need to worry about it.)"
+            },
+            {
+                "id": "fr-1674",
+                "w": "hasard",
+                "p": "a.zaʁ",
+                "d": "chance",
+                "s": "Savez-vous par hasard où habite-t-elle ? (Do you happen to know where she lives?)"
+            },
+            {
+                "id": "fr-1675",
+                "w": "concerne",
+                "p": "kɔ̃sɛʁn",
+                "d": "to concern",
+                "s": "En ce qui me concerne, je suis satisfait. (As for me, I'm satisfied.)"
+            },
+            {
+                "id": "fr-1676",
+                "w": "réponds",
+                "p": "ʁe.pɔ̃",
+                "d": "to reply, to answer",
+                "s": "Je ne réponds pas aux questions stupides. (I don't answer stupid questions.)"
+            },
+            {
+                "id": "fr-1677",
+                "w": "génie",
+                "p": "ʒe.ni",
+                "d": "genie",
+                "s": "Je pense que Tom est peut-être un génie. (I think Tom may be a genius.)"
+            },
+            {
+                "id": "fr-1678",
+                "w": "parlais",
+                "p": "paʁ.lɛ",
+                "d": "to speak, talk",
+                "s": "J'ignorais même que tu parlais français. (I didn't even know you spoke French.)"
+            },
+            {
+                "id": "fr-1679",
+                "w": "parlons",
+                "p": "paʁ.lɔ̃",
+                "d": "to speak, talk",
+                "s": "Venons-en aux faits et parlons affaires. (Let's get down to brass tacks and talk business.)"
+            },
+            {
+                "id": "fr-1680",
+                "w": "jardin",
+                "p": "ʒaʁ.dɛ̃",
+                "d": "garden",
+                "s": "Un chien courait partout dans le jardin. (A dog ran around in the garden.)"
+            },
+            {
+                "id": "fr-1681",
+                "w": "saison",
+                "p": "sɛ.zɔ̃",
+                "d": "winter",
+                "s": "Les hôtels sont moins chers hors saison. (Hotels are cheaper in the off season.)"
+            },
+            {
+                "id": "fr-1682",
+                "w": "montré",
+                "p": "mɔ̃tʁe",
+                "d": "to show",
+                "s": "Personne n'a montré son nez aujourd'hui. (Nobody showed up today.)"
+            },
+            {
+                "id": "fr-1683",
+                "w": "frappe",
+                "p": "fʁap",
+                "d": "to hit",
+                "s": "J'ai trouvé quelques fautes de frappe. (I found a few typos.)"
+            },
+            {
+                "id": "fr-1684",
+                "w": "enchanté",
+                "p": "ɑ̃.ʃɑ̃.te",
+                "d": "enchanted, delighted",
+                "s": "Enchanté de faire votre connaissance. (Nice to meet you.)"
+            },
+            {
+                "id": "fr-1685",
+                "w": "gosses",
+                "p": "ɡɔs",
+                "d": "child, kid",
+                "s": "Je veux que ces gosses se taillent. (I want those kids to leave.)"
+            },
+            {
+                "id": "fr-1686",
+                "w": "abandonner",
+                "p": "a.bɑ̃.dɔ.ne",
+                "d": "to give up",
+                "s": "Vous ne devriez pas abandonner l'espoir. (You shouldn't give up hope.)"
+            },
+            {
+                "id": "fr-1687",
+                "w": "assure",
+                "p": "a.syʁ",
+                "d": "to assure",
+                "s": "Je vous assure que tout sera prêt à temps. (I assure you everything will be ready on time.)"
+            },
+            {
+                "id": "fr-1688",
+                "w": "apporte",
+                "p": "apɔʁt",
+                "d": "to bring",
+                "s": "Je vous apporte l’addition tout de suite. (I'll bring you the bill immediately.)"
+            },
+            {
+                "id": "fr-1689",
+                "w": "prépare",
+                "p": "pʁepaʁ",
+                "d": "to prepare",
+                "s": "Je prépare le déjeuner tous les jours. (I make lunch every day.)"
+            },
+            {
+                "id": "fr-1690",
+                "w": "mètres",
+                "p": "mɛtʁ",
+                "d": "metre/meter",
+                "s": "Cette ville est à 1600 mètres d'altitude. (This city is 1,600 meters above sea level.)"
+            },
+            {
+                "id": "fr-1691",
+                "w": "suivant",
+                "p": "sɥi.vɑ̃",
+                "d": "follower, attendant",
+                "s": "Je le ferai en suivant tes instructions. (I'll do it according to your instructions.)"
+            },
+            {
+                "id": "fr-1692",
+                "w": "souhaite",
+                "p": "swɛt",
+                "d": "to wish",
+                "s": "Je te souhaite la meilleure des chances. (Best of luck to you.)"
+            },
+            {
+                "id": "fr-1693",
+                "w": "services",
+                "p": "sɛʁvis",
+                "d": "service",
+                "s": "Tom est un agent des services correctionnels. (Tom is a correctional officer.)"
+            },
+            {
+                "id": "fr-1694",
+                "w": "ouest",
+                "p": "wɛst",
+                "d": "west",
+                "s": "Ma maison est sur le côté ouest de la rue. (My house is on the west side of the street.)"
+            },
+            {
+                "id": "fr-1695",
+                "w": "poids",
+                "p": "pwa",
+                "d": "weight",
+                "s": "La glace supportera-t-elle notre poids ? (Will the ice bear our weight?)"
+            },
+            {
+                "id": "fr-1696",
+                "w": "poche",
+                "p": "pɔʃ",
+                "d": "pocket",
+                "s": "Tom a sorti quelques pièces de sa poche. (Tom took some coins out of his pocket.)"
+            },
+            {
+                "id": "fr-1697",
+                "w": "faisant",
+                "p": "fə.zɑ̃",
+                "d": "to do",
+                "s": "Il a sauté dans l'eau en faisant un plouf. (He jumped into the water with a splash.)"
+            },
+            {
+                "id": "fr-1698",
+                "w": "répondu",
+                "p": "ʁepɔ̃dy",
+                "d": "to reply, to answer",
+                "s": "Désolé de ne pas avoir répondu plus tôt. (Sorry I didn't reply sooner.)"
+            },
+            {
+                "id": "fr-1699",
+                "w": "directement",
+                "p": "di.ʁɛk.tə.mɑ̃",
+                "d": "directly",
+                "s": "Puis-je composer directement le numéro ? (Can I dial direct?)"
+            },
+            {
+                "id": "fr-1700",
+                "w": "source",
+                "p": "suʁs",
+                "d": "source, spring",
+                "s": "Où se situe la source de cette rivière ? (Where's the source of this river?)"
+            },
+            {
+                "id": "fr-1701",
+                "w": "créer",
+                "p": "kʁe.e",
+                "d": "to create",
+                "s": "Je ne veux créer d'ennuis à personne. (I don't want to get anyone in trouble.)"
+            },
+            {
+                "id": "fr-1702",
+                "w": "samedi",
+                "p": "sam.di",
+                "d": "Saturday",
+                "s": "Je ne travaille presque jamais le samedi. (I almost never work on Saturdays.)"
+            },
+            {
+                "id": "fr-1703",
+                "w": "univers",
+                "p": "y.ni.vɛʁ",
+                "d": "universe",
+                "s": ""
+            },
+            {
+                "id": "fr-1704",
+                "w": "saura",
+                "p": "soʁa",
+                "d": "to know",
+                "s": "Tom ne saura jamais ce qui s'est passé. (Tom will never know what happened.)"
+            },
+            {
+                "id": "fr-1705",
+                "w": "réalisé",
+                "p": "ʁealize",
+                "d": "to direct",
+                "s": "Nous avons réalisé des progrès sensibles. (We've made good progress.)"
+            },
+            {
+                "id": "fr-1706",
+                "w": "américains",
+                "p": "a.me.ʁi.kɛ̃",
+                "d": "sandwich",
+                "s": "En général, les Américains aiment le café. (Generally, Americans love coffee.)"
+            },
+            {
+                "id": "fr-1707",
+                "w": "perds",
+                "p": "pɛʁ",
+                "d": "to lose",
+                "s": "Perds pas de temps à discuter avec Tom. (Don't waste your breath on Tom.)"
+            },
+            {
+                "id": "fr-1708",
+                "w": "membres",
+                "p": "mɑ̃bʁ",
+                "d": "member",
+                "s": "Notre famille se compose de cinq membres. (There are five in our family.)"
+            },
+            {
+                "id": "fr-1709",
+                "w": "viande",
+                "p": "vjɑ̃d",
+                "d": "meat",
+                "s": "Il a déclaré ne pas consommer de viande. (He said he didn't eat meat.)"
+            },
+            {
+                "id": "fr-1710",
+                "w": "amoureuse",
+                "p": "a.mu.ʁøz",
+                "d": "love",
+                "s": "Est-ce que j'ai l'air d'être amoureuse ? (Do I sound like I'm in love?)"
+            },
+            {
+                "id": "fr-1711",
+                "w": "grandes",
+                "p": "ɡʁɑ̃d",
+                "d": "big",
+                "s": "Je pensais que vous étiez plus grandes. (I thought you were taller.)"
+            },
+            {
+                "id": "fr-1712",
+                "w": "changement",
+                "p": "ʃɑ̃ʒ.mɑ̃",
+                "d": "change",
+                "s": "Nous voulons faire un simple changement. (We want to make a simple change.)"
+            },
+            {
+                "id": "fr-1713",
+                "w": "compliqué",
+                "p": "kɔ̃.pli.ke",
+                "d": "complicated",
+                "s": "Ton refus d'aider a compliqué les choses. (Your refusal to help complicated matters.)"
+            },
+            {
+                "id": "fr-1714",
+                "w": "bal",
+                "p": "bal",
+                "d": "dance party, ball",
+                "s": "Il a été élu roi du bal de fin d'année. (He was voted prom king.)"
+            },
+            {
+                "id": "fr-1715",
+                "w": "page",
+                "p": "paʒ",
+                "d": "page",
+                "s": "Elle a accidentellement déchiré la page. (She accidentally tore the page.)"
+            },
+            {
+                "id": "fr-1716",
+                "w": "conduit",
+                "p": "kɔ̃.dɥi",
+                "d": "to drive",
+                "s": "Tom a conduit sa voiture jusqu'à Boston. (Tom drove his car to Boston.)"
+            },
+            {
+                "id": "fr-1717",
+                "w": "passage",
+                "p": "pa.saʒ",
+                "d": "the time when such an act occurs",
+                "s": "Je ne veux pas me mettre dans le passage. (I don't want to get in the way.)"
+            },
+            {
+                "id": "fr-1718",
+                "w": "piège",
+                "p": "pjɛʒ",
+                "d": "trap",
+                "s": "Il pensa que c'était peut-être un piège. (He thought maybe this was a trick.)"
+            },
+            {
+                "id": "fr-1719",
+                "w": "ressens",
+                "p": "ʁə.sɑ̃",
+                "d": "to feel",
+                "s": "Je ne peux pas changer ce que je ressens. (I can't change what I feel.)"
+            },
+            {
+                "id": "fr-1720",
+                "w": "accepte",
+                "p": "ak.sɛpt",
+                "d": "to accept",
+                "s": "Tom voulait que Marie accepte son cadeau. (Tom wanted Mary to accept his gift.)"
+            },
+            {
+                "id": "fr-1721",
+                "w": "amusant",
+                "p": "a.my.zɑ̃",
+                "d": "amusing",
+                "s": "C'était amusant, le temps que ça a duré. (It was fun while it lasted.)"
+            },
+            {
+                "id": "fr-1722",
+                "w": "dan",
+                "p": "dan",
+                "d": "dan",
+                "s": ""
+            },
+            {
+                "id": "fr-1723",
+                "w": "donnez",
+                "p": "dɔ.ne",
+                "d": "to give",
+                "s": "Si vous me donnez un livre, je le lirai. (If you give me a book, I'll read it.)"
+            },
+            {
+                "id": "fr-1724",
+                "w": "traces",
+                "p": "tʁas",
+                "d": "trace",
+                "s": "Le criminel a laissé des traces de pas. (The criminal left footprints.)"
+            },
+            {
+                "id": "fr-1725",
+                "w": "trésor",
+                "p": "tʁe.zɔʁ",
+                "d": "treasure",
+                "s": "Pourquoi ne pas enterrer le trésor ici ? (Why don't we bury the treasure here?)"
+            },
+            {
+                "id": "fr-1726",
+                "w": "explique",
+                "p": "ɛk.splik",
+                "d": "to explain",
+                "s": "S'il te plait, explique comment s'y rendre. (Please explain how to get there.)"
+            },
+            {
+                "id": "fr-1727",
+                "w": "fesses",
+                "p": "fɛs",
+                "d": "buttock",
+                "s": "Bougez-vous les fesses, les filles ! (Hurry up, girls.)"
+            },
+            {
+                "id": "fr-1728",
+                "w": "perte",
+                "p": "pɛʁt",
+                "d": "loss",
+                "s": "Je savais que c’était une perte de temps. (I knew this was a waste of time.)"
+            },
+            {
+                "id": "fr-1729",
+                "w": "fantôme",
+                "p": "fɑ̃.tom",
+                "d": "ghost",
+                "s": "Que ferais-tu si tu voyais un fantôme ? (What would you do if you saw a ghost?)"
+            },
+            {
+                "id": "fr-1730",
+                "w": "naissance",
+                "p": "nɛ.sɑ̃s",
+                "d": "birth",
+                "s": "Le bébé pesait 7 livres à la naissance. (The baby weighed seven pounds at birth.)"
+            },
+            {
+                "id": "fr-1731",
+                "w": "retraite",
+                "p": "ʁə.tʁɛt",
+                "d": "retirement",
+                "s": "Il a pris sa retraite à l'âge de 65 ans. (He retired at the age of 65.)"
+            },
+            {
+                "id": "fr-1732",
+                "w": "regardes",
+                "p": "ʁəgaʁd",
+                "d": "to look at",
+                "s": "Je veux que tu regardes par la fenêtre. (I want you to look out the window.)"
+            },
+            {
+                "id": "fr-1733",
+                "w": "franchement",
+                "p": "fʁɑ̃ʃ.mɑ̃",
+                "d": "frankly",
+                "s": "Pour le dire franchement, je le déteste. (Frankly speaking, I hate him.)"
+            },
+            {
+                "id": "fr-1734",
+                "w": "côtés",
+                "p": "kote",
+                "d": "side",
+                "s": "Je serai à tes côtés quoi qu'il arrive. (I will stand by you whatever happens.)"
+            },
+            {
+                "id": "fr-1735",
+                "w": "étranger",
+                "p": "e.tʁɑ̃.ʒe",
+                "d": "foreigner",
+                "s": "Je suis tout seul dans un pays étranger. (I'm all alone in a foreign country.)"
+            },
+            {
+                "id": "fr-1736",
+                "w": "poulet",
+                "p": "pu.le",
+                "d": "chicken",
+                "s": "Couvrez les blancs de poulet de farine. (Coat the chicken breast with flour.)"
+            },
+            {
+                "id": "fr-1737",
+                "w": "vienne",
+                "p": "vjɛn",
+                "d": "to come",
+                "s": "Elle a attendu qu'il vienne à la maison. (She waited for him to come home.)"
+            },
+            {
+                "id": "fr-1738",
+                "w": "débarrasser",
+                "p": "de.ba.ʁa.se",
+                "d": "to clear",
+                "s": "Il essaya de se débarrasser des fourmis. (He tried to get rid of the ants.)"
+            },
+            {
+                "id": "fr-1739",
+                "w": "enlève",
+                "p": "ɑ̃.lɛːv",
+                "d": "to remove",
+                "s": "Enlève ton manteau et vide tes poches ! (Remove your coat and empty your pockets.)"
+            },
+            {
+                "id": "fr-1740",
+                "w": "marque",
+                "p": "maʁk",
+                "d": "mark",
+                "s": "Quelle marque de cigarettes fumez-vous ? (What brand of cigarettes do you smoke?)"
+            },
+            {
+                "id": "fr-1741",
+                "w": "mens",
+                "p": "mɑ̃",
+                "d": "to lie",
+                "s": "Je ne te crois pas. Tu mens tout le temps. (I don't believe you. You're always lying.)"
+            },
+            {
+                "id": "fr-1742",
+                "w": "fantastique",
+                "p": "fɑ̃.tas.tik",
+                "d": "fantastic",
+                "s": "Je pense que c'est une idée fantastique. (I think it's a fantastic idea.)"
+            },
+            {
+                "id": "fr-1743",
+                "w": "cent",
+                "p": "sɑ̃",
+                "d": "hundred",
+                "s": "C'est dix qui est dix pour cent de cent. (Ten is ten percent of one hundred.)"
+            },
+            {
+                "id": "fr-1744",
+                "w": "beaux",
+                "p": "bo",
+                "d": "handsome",
+                "s": "Que voilà de beaux pendants d'oreilles ! (What beautiful earrings!)"
+            },
+            {
+                "id": "fr-1745",
+                "w": "entendez",
+                "p": "ɑ̃.tɑ̃.de",
+                "d": "to hear",
+                "s": "Ne croyez pas tout ce que vous entendez. (Don't believe everything you hear.)"
+            },
+            {
+                "id": "fr-1746",
+                "w": "ouverte",
+                "p": "u.vɛʁt",
+                "d": "open",
+                "s": "La banque n'est pas ouverte le dimanche. (The bank isn't open on Sundays.)"
+            },
+            {
+                "id": "fr-1747",
+                "w": "bâtiment",
+                "p": "ba.ti.mɑ̃",
+                "d": "building, edifice",
+                "s": "Un foyer est plus qu'un simple bâtiment. (A home is more than a mere building.)"
+            },
+            {
+                "id": "fr-1748",
+                "w": "devrions",
+                "p": "də.vʁi.jɔ̃",
+                "d": "must",
+                "s": "Je pense que nous devrions démissionner. (I think we should quit.)"
+            },
+            {
+                "id": "fr-1749",
+                "w": "embrasser",
+                "p": "ɑ̃.bʁa.se",
+                "d": "to kiss",
+                "s": "Je ne peux pas vous embrasser maintenant. (I can't kiss you now.)"
+            },
+            {
+                "id": "fr-1750",
+                "w": "tombée",
+                "p": "tɔ̃be",
+                "d": "to fall",
+                "s": "Elle est presque tombée dans les pommes. (She almost passed out.)"
+            },
+            {
+                "id": "fr-1751",
+                "w": "manquer",
+                "p": "mɑ̃.ke",
+                "d": "to lack",
+                "s": "Dépêche-toi ou tu vas manquer le train. (Hurry, or you'll miss the train.)"
+            },
+            {
+                "id": "fr-1752",
+                "w": "entré",
+                "p": "ɑ̃.tʁe",
+                "d": "to enter",
+                "s": "Comment êtes-vous entré dans la maison ? (How did you get in the house?)"
+            },
+            {
+                "id": "fr-1753",
+                "w": "san",
+                "p": "san",
+                "d": "san",
+                "s": "Le bateau arrive ce soir à San Francisco. (The ship will arrive in San Francisco this evening.)"
+            },
+            {
+                "id": "fr-1754",
+                "w": "chevaux",
+                "p": "ʃə.vo",
+                "d": "horse",
+                "s": "Les palefreniers s'occupent des chevaux. (The grooms tend to the horses.)"
+            },
+            {
+                "id": "fr-1755",
+                "w": "habite",
+                "p": "a.bit",
+                "d": "to live in",
+                "s": "Il habite l'étage au-dessus de chez moi. (He lives above me.)"
+            },
+            {
+                "id": "fr-1756",
+                "w": "animal",
+                "p": "a.ni.mal",
+                "d": "animal",
+                "s": "J'ai un lapin comme animal de compagnie. (I keep a rabbit as a pet.)"
+            },
+            {
+                "id": "fr-1757",
+                "w": "fatigué",
+                "p": "fa.ti.ɡe",
+                "d": "to tire",
+                "s": "Je suis fatigué d'avoir beaucoup marché. (I'm tired from the long walk.)"
+            },
+            {
+                "id": "fr-1758",
+                "w": "heureusement",
+                "p": "œ.ʁøz.mɑ̃",
+                "d": "luckily, fortunately",
+                "s": "Heureusement j'ai gagné le premier prix. (Luckily, I won first prize.)"
+            },
+            {
+                "id": "fr-1759",
+                "w": "billets",
+                "p": "bi.jɛ",
+                "d": "note",
+                "s": "Le distributeur de billets est en panne. (The ATM is out of order.)"
+            },
+            {
+                "id": "fr-1760",
+                "w": "convaincre",
+                "p": "kɔ̃.vɛ̃kʁ",
+                "d": "to convince",
+                "s": "Essayer de la convaincre n'a aucun sens. (It's no use trying to persuade her.)"
+            },
+            {
+                "id": "fr-1761",
+                "w": "appelait",
+                "p": "a.plɛ",
+                "d": "to call",
+                "s": "Il a entendu qu'on appelait son nom. (He heard his name called.)"
+            },
+            {
+                "id": "fr-1762",
+                "w": "paradis",
+                "p": "pa.ʁa.di",
+                "d": "paradise",
+                "s": "Ce parc est un paradis pour les enfants. (This park is a paradise for children.)"
+            },
+            {
+                "id": "fr-1763",
+                "w": "émission",
+                "p": "e.mi.sjɔ̃",
+                "d": "emission",
+                "s": "Voulez-vous regarder cette émission ? (Do you want to watch this program?)"
+            },
+            {
+                "id": "fr-1764",
+                "w": "lance",
+                "p": "lɑ̃s",
+                "d": "to throw",
+                "s": "Lance la balle le plus loin possible. (Throw the ball as far as possible.)"
+            },
+            {
+                "id": "fr-1765",
+                "w": "nettoyer",
+                "p": "nɛ.twa.je",
+                "d": "to clean",
+                "s": "Je me suis fait nettoyer les chaussures. (I had my shoes cleaned.)"
+            },
+            {
+                "id": "fr-1766",
+                "w": "file",
+                "p": "fil",
+                "d": "to spin",
+                "s": "La file d'attente avance très lentement. (The line is moving very slowly.)"
+            },
+            {
+                "id": "fr-1767",
+                "w": "dimanche",
+                "p": "di.mɑ̃ʃ",
+                "d": "Sunday",
+                "s": "Ce qui suit le dimanche, c'est le lundi. (Sunday is followed by Monday.)"
+            },
+            {
+                "id": "fr-1768",
+                "w": "agréable",
+                "p": "a.ɡʁe.abl",
+                "d": "pleasurable",
+                "s": "C'était agréable de travailler avec toi. (It was good working with you.)"
+            },
+            {
+                "id": "fr-1769",
+                "w": "plans",
+                "p": "plɑ̃",
+                "d": "map",
+                "s": "Quels sont tes plans pour le week-end ? (What are your weekend plans?)"
+            },
+            {
+                "id": "fr-1770",
+                "w": "conscience",
+                "p": "kɔ̃.sjɑ̃s",
+                "d": "conscience",
+                "s": "Je pris conscience de ce qui se passait. (I realized what was happening.)"
+            },
+            {
+                "id": "fr-1771",
+                "w": "ennemis",
+                "p": "ɛn.mi",
+                "d": "enemy",
+                "s": "Les soldats ont essuyé des tirs ennemis. (The soldiers came under enemy fire.)"
+            },
+            {
+                "id": "fr-1772",
+                "w": "disant",
+                "p": "di.zɑ̃",
+                "d": "to say, to tell",
+                "s": "Il l'a interrompu en lui disant non. (He cut him short by saying no.)"
+            },
+            {
+                "id": "fr-1773",
+                "w": "connaissance",
+                "p": "kɔ.nɛ.sɑ̃s",
+                "d": "knowledge",
+                "s": "Comment avez-vous fait sa connaissance ? (How did you come to know her?)"
+            },
+            {
+                "id": "fr-1774",
+                "w": "douce",
+                "p": "dus",
+                "d": "sweet",
+                "s": "C'est bien parfois de se la couler douce. (It's okay to take it easy sometimes.)"
+            },
+            {
+                "id": "fr-1775",
+                "w": "belles",
+                "p": "bɛl",
+                "d": "handsome",
+                "s": "Il choisit pour elle trois belles roses. (He chose three beautiful roses for her.)"
+            },
+            {
+                "id": "fr-1776",
+                "w": "sentiment",
+                "p": "sɑ̃.ti.mɑ̃",
+                "d": "a sentiment",
+                "s": "J'ai eu le sentiment que tu dirais cela. (I had a feeling you'd say that.)"
+            },
+            {
+                "id": "fr-1777",
+                "w": "bataille",
+                "p": "ba.taj",
+                "d": "battle",
+                "s": "Ils moururent sur le champ de bataille. (They died in battle.)"
+            },
+            {
+                "id": "fr-1778",
+                "w": "perd",
+                "p": "pɛʁ",
+                "d": "to lose",
+                "s": "Tom ne perd presque jamais aux échecs. (Tom hardly ever loses at chess.)"
+            },
+            {
+                "id": "fr-1779",
+                "w": "pourrez",
+                "p": "puʁe",
+                "d": "can, to be able to",
+                "s": "Vous ne pourrez pas attraper le train. (You won't be able to catch the train.)"
+            },
+            {
+                "id": "fr-1780",
+                "w": "relations",
+                "p": "ʁølasjɔ̃",
+                "d": "relation",
+                "s": "J'ai des relations dans le gouvernement. (I have connections in the government.)"
+            },
+            {
+                "id": "fr-1781",
+                "w": "espérais",
+                "p": "ɛs.pe.ʁɛ",
+                "d": "to hope",
+                "s": "Qu'est-ce que tu espérais accomplir ? (What were you hoping to accomplish?)"
+            },
+            {
+                "id": "fr-1782",
+                "w": "vôtre",
+                "p": "votʁ",
+                "d": "your",
+                "s": "Laquelle de ces raquettes est la vôtre ? (Which of these rackets is yours?)"
+            },
+            {
+                "id": "fr-1783",
+                "w": "servi",
+                "p": "sɛʁ.vi",
+                "d": "to serve",
+                "s": "Il avait servi comme député et sénateur. (He had served as a congressman and senator.)"
+            },
+            {
+                "id": "fr-1784",
+                "w": "souci",
+                "p": "su.si",
+                "d": "worry",
+                "s": "Ne vous faites pas de souci à ce sujet ! (Don't worry about it!)"
+            },
+            {
+                "id": "fr-1785",
+                "w": "note",
+                "p": "nɔt",
+                "d": "note",
+                "s": "Puis-je avoir la note, s'il vous plait ? (May I have the check, please?)"
+            },
+            {
+                "id": "fr-1786",
+                "w": "doigt",
+                "p": "dwa",
+                "d": "finger",
+                "s": "Je me suis pincé le doigt dans la porte. (I caught my finger in the door.)"
+            },
+            {
+                "id": "fr-1787",
+                "w": "mensonge",
+                "p": "mɑ̃.sɔ̃ʒ",
+                "d": "lie, falsehood",
+                "s": "Ce que vous a dit Tom était un mensonge. (What Tom told you was a lie.)"
+            },
+            {
+                "id": "fr-1788",
+                "w": "volonté",
+                "p": "vɔ.lɔ̃.te",
+                "d": "wish, will",
+                "s": "Il dispose de suffisamment de volonté. (He has enough willpower.)"
+            },
+            {
+                "id": "fr-1789",
+                "w": "victoire",
+                "p": "vik.twaʁ",
+                "d": "victory",
+                "s": "Qui remportera la victoire, à ton avis ? (Who do you think will win?)"
+            },
+            {
+                "id": "fr-1790",
+                "w": "direct",
+                "p": "di.ʁɛkt",
+                "d": "direct",
+                "s": "J'aimerais un vol direct pour New York. (I'd like a nonstop flight to New York.)"
+            },
+            {
+                "id": "fr-1791",
+                "w": "abandonné",
+                "p": "a.bɑ̃.dɔ.ne",
+                "d": "to give up",
+                "s": "Je n'ai pas totalement abandonné l'idée. (I haven't completely given up the idea.)"
+            },
+            {
+                "id": "fr-1792",
+                "w": "information",
+                "p": "ɛ̃.fɔʁ.ma.sjɔ̃",
+                "d": "piece of information]",
+                "s": "Pourquoi Tom veut-il cette information ? (Why does Tom want this information?)"
+            },
+            {
+                "id": "fr-1793",
+                "w": "joindre",
+                "p": "ʒwɛ̃dʁ",
+                "d": "to join",
+                "s": "Veux-tu te joindre à moi pour déjeuner ? (Do you want to join me for lunch?)"
+            },
+            {
+                "id": "fr-1794",
+                "w": "proches",
+                "p": "pʁɔʃ",
+                "d": "close",
+                "s": "Où sont les toilettes les plus proches ? (Where's the nearest bathroom?)"
+            },
+            {
+                "id": "fr-1795",
+                "w": "droits",
+                "p": "dʁwa",
+                "d": "right",
+                "s": "Tom est militant des droits de l'homme. (Tom is a human rights activist.)"
+            },
+            {
+                "id": "fr-1796",
+                "w": "nerveux",
+                "p": "nɛʁ.vø",
+                "d": "nerve",
+                "s": "Je ne pensais pas que tu serais nerveux. (I didn't think you'd be nervous.)"
+            },
+            {
+                "id": "fr-1797",
+                "w": "coupé",
+                "p": "ku.pe",
+                "d": "to cut, cut up",
+                "s": "Je me suis coupé avec une scie à métaux. (I cut myself with a hacksaw.)"
+            },
+            {
+                "id": "fr-1798",
+                "w": "patients",
+                "p": "pasjɑ̃",
+                "d": "patient, outpatient",
+                "s": "Il faut que vous soyez davantage patients. (You need to be more patient.)"
+            },
+            {
+                "id": "fr-1799",
+                "w": "invités",
+                "p": "ɛ̃.vi.te",
+                "d": "guest",
+                "s": "Je suis heureuse de vous avoir invités. (I'm glad I invited you.)"
+            },
+            {
+                "id": "fr-1800",
+                "w": "arrivés",
+                "p": "a.ʁi.ve",
+                "d": "to arrive",
+                "s": "Ils sont arrivés à la tombée de la nuit. (They arrived at twilight.)"
+            },
+            {
+                "id": "fr-1801",
+                "w": "descends",
+                "p": "de.sɑ̃",
+                "d": "to go down",
+                "s": "Descends ici et viens manger avec nous ! (Come down here and eat with us.)"
+            },
+            {
+                "id": "fr-1802",
+                "w": "pleure",
+                "p": "plœʁ",
+                "d": "to cry, to weep",
+                "s": "Il y a quelque part un enfant qui pleure. (A child is crying somewhere.)"
+            },
+            {
+                "id": "fr-1803",
+                "w": "traitement",
+                "p": "tʁɛt.mɑ̃",
+                "d": "treatment",
+                "s": "Tom eut droit à un traitement de faveur. (Tom got special treatment.)"
+            },
+            {
+                "id": "fr-1804",
+                "w": "senti",
+                "p": "sɑ̃.ti",
+                "d": "to smell",
+                "s": "Je me suis senti un peu pris de vertige. (I felt a little dizzy.)"
+            },
+            {
+                "id": "fr-1805",
+                "w": "cancer",
+                "p": "kɑ̃.sɛʁ",
+                "d": "cancer",
+                "s": "Elle est morte d'un cancer de l'estomac. (She died of stomach cancer.)"
+            },
+            {
+                "id": "fr-1806",
+                "w": "répète",
+                "p": "ʁepɛt",
+                "d": "to repeat",
+                "s": "En règle générale, l'histoire se répète. (Generally speaking, history repeats itself.)"
+            },
+            {
+                "id": "fr-1807",
+                "w": "reposer",
+                "p": "ʁə.po.ze",
+                "d": "to put down",
+                "s": "Vous devez vous asseoir et vous reposer. (You need to sit down and rest.)"
+            },
+            {
+                "id": "fr-1808",
+                "w": "regrette",
+                "p": "ʁəgʁɛt",
+                "d": "to regret",
+                "s": "J'ai fait quelque chose que je regrette. (I did something I regret.)"
+            },
+            {
+                "id": "fr-1809",
+                "w": "flingue",
+                "p": "flɛ̃g",
+                "d": "shooter, pistol, gat",
+                "s": "Un flingue serait bien utile. (A gun might come in handy.)"
+            },
+            {
+                "id": "fr-1810",
+                "w": "cousin",
+                "p": "ku.zɛ̃",
+                "d": "cousin",
+                "s": "Il est parti pour rester avec son cousin. (He went to stay with his cousin.)"
+            },
+            {
+                "id": "fr-1811",
+                "w": "désormais",
+                "p": "de.zɔʁ.mɛ",
+                "d": "henceforth",
+                "s": "Le château se trouve désormais en ruine. (The castle is now in ruins.)"
+            },
+            {
+                "id": "fr-1812",
+                "w": "vérifié",
+                "p": "veʁifje",
+                "d": "to confirm",
+                "s": "Avez-vous vérifié vos e-mails ce matin ? (Have you checked your email this morning?)"
+            },
+            {
+                "id": "fr-1813",
+                "w": "crains",
+                "p": "kʁɛ̃",
+                "d": "to fear",
+                "s": "Je crains que nous ne puissions t'aider. (I'm afraid we can't help you.)"
+            },
+            {
+                "id": "fr-1814",
+                "w": "douche",
+                "p": "duʃ",
+                "d": "shower",
+                "s": "Tu pourrais au moins prendre une douche. (You could at least take a shower.)"
+            },
+            {
+                "id": "fr-1815",
+                "w": "gaz",
+                "p": "ɡaz",
+                "d": "gas",
+                "s": "L'air est un mélange de différents gaz. (Air is a mixture of various gases.)"
+            },
+            {
+                "id": "fr-1816",
+                "w": "interdit",
+                "p": "ɛ̃.tɛʁ.di",
+                "d": "to forbid",
+                "s": "C'est interdit dans la plupart des pays. (It's prohibited in most countries.)"
+            },
+            {
+                "id": "fr-1817",
+                "w": "théorie",
+                "p": "te.ɔ.ʁi",
+                "d": "theory",
+                "s": "Pour le moment, ce n'est qu'une théorie. (It's only a theory at the moment.)"
+            },
+            {
+                "id": "fr-1818",
+                "w": "trace",
+                "p": "tʁas",
+                "d": "trace",
+                "s": "Je pris soin de ne laisser aucune trace. (I was careful to not leave any evidence.)"
+            },
+            {
+                "id": "fr-1819",
+                "w": "contrôler",
+                "p": "kɔ̃.tʁo.le",
+                "d": "to check or examine",
+                "s": "Personne n'a le droit de nous contrôler. (Nobody has the right to control us.)"
+            },
+            {
+                "id": "fr-1820",
+                "w": "signer",
+                "p": "si.ɲe",
+                "d": "to sign",
+                "s": "Veuillez signer sur la ligne pointillée. (Please sign on the dotted line.)"
+            },
+            {
+                "id": "fr-1821",
+                "w": "no",
+                "p": "no",
+                "d": "number",
+                "s": ""
+            },
+            {
+                "id": "fr-1822",
+                "w": "demandes",
+                "p": "də.mɑ̃d",
+                "d": "to ask",
+                "s": "Pourquoi est-ce que tu me demandes ça ? (Why do you ask me that?)"
+            },
+            {
+                "id": "fr-1823",
+                "w": "internet",
+                "p": "ɛ̃.tɛʁ.nɛt",
+                "d": "the Internet",
+                "s": "Je ne peux pas me connecter à internet. (I can't connect to the Internet.)"
+            },
+            {
+                "id": "fr-1824",
+                "w": "cherchez",
+                "p": "ʃɛʁ.ʃe",
+                "d": "to look for, to seek",
+                "s": "Cherchez ce mot dans votre dictionnaire. (Look up the word in your dictionary.)"
+            },
+            {
+                "id": "fr-1825",
+                "w": "salon",
+                "p": "sa.lɔ̃",
+                "d": "living room",
+                "s": "Nous nous sommes reposés dans le salon. (We relaxed in the living room.)"
+            },
+            {
+                "id": "fr-1826",
+                "w": "serons",
+                "p": "sə.ʁɔ̃",
+                "d": "to be",
+                "s": "Je pense que nous serons ici en sécurité. (I think we'll be safe here.)"
+            },
+            {
+                "id": "fr-1827",
+                "w": "appels",
+                "p": "a.pɛl",
+                "d": "call",
+                "s": "Je voulais effectuer quelques appels. (I wanted to make a few phone calls.)"
+            },
+            {
+                "id": "fr-1828",
+                "w": "lancer",
+                "p": "lɑ̃.se",
+                "d": "to throw",
+                "s": "Je vais lancer sur vous une malédiction. (I'm going to put a curse on you.)"
+            },
+            {
+                "id": "fr-1829",
+                "w": "protection",
+                "p": "pʁɔ.tɛk.sjɔ̃",
+                "d": "protection",
+                "s": "Tom portait des lunettes de protection. (Tom wore goggles.)"
+            },
+            {
+                "id": "fr-1830",
+                "w": "pantalon",
+                "p": "pɑ̃.ta.lɔ̃",
+                "d": "trousers, pants",
+                "s": "J'aimerais que l'on nettoie ce pantalon. (I'd like to have these pants cleaned.)"
+            },
+            {
+                "id": "fr-1831",
+                "w": "rappelles",
+                "p": "ʁapɛl",
+                "d": "to call again",
+                "s": "Je veux que tu te rappelles cet instant. (I want you to remember this moment.)"
+            },
+            {
+                "id": "fr-1832",
+                "w": "dossiers",
+                "p": "dosje",
+                "d": "back of furniture",
+                "s": "Les dossiers sont manquants. (The files are missing.)"
+            },
+            {
+                "id": "fr-1833",
+                "w": "style",
+                "p": "stil",
+                "d": "style",
+                "s": "Mon style de musique préféré est le jazz. (My favorite kind of music is jazz.)"
+            },
+            {
+                "id": "fr-1834",
+                "w": "ravie",
+                "p": "ʁavi",
+                "d": "thrilled",
+                "s": "Elle a été vraiment ravie de mon cadeau. (She was very delighted with my gift.)"
+            },
+            {
+                "id": "fr-1835",
+                "w": "semblant",
+                "p": "sɑ̃.blɑ̃",
+                "d": "a semblance",
+                "s": "Je ne ferai pas semblant d'être désolée. (I won't pretend I'm sorry.)"
+            },
+            {
+                "id": "fr-1836",
+                "w": "offert",
+                "p": "ɔ.fɛʁ",
+                "d": "to offer",
+                "s": "Il a offert sa place à une vieille dame. (He offered his seat to an old woman.)"
+            },
+            {
+                "id": "fr-1837",
+                "w": "vieil",
+                "p": "vjɛj‿",
+                "d": "old",
+                "s": "Le vieil homme s'est mis sur son chemin. (The old man got in her way.)"
+            },
+            {
+                "id": "fr-1838",
+                "w": "humaine",
+                "p": "y.mɛn",
+                "d": "human",
+                "s": "La cruauté humaine est dénuée de limites. (Human cruelty has no limits.)"
+            },
+            {
+                "id": "fr-1839",
+                "w": "grandi",
+                "p": "ɡʁɑ̃.di",
+                "d": "to grow, get bigger",
+                "s": "J'ai grandi dans une région montagneuse. (I grew up in a mountainous area.)"
+            },
+            {
+                "id": "fr-1840",
+                "w": "médicaments",
+                "p": "me.di.ka.mɑ̃",
+                "d": "drug",
+                "s": "Est-ce que vous prenez des médicaments ? (Are you on medication?)"
+            },
+            {
+                "id": "fr-1841",
+                "w": "acte",
+                "p": "akt",
+                "d": "act",
+                "s": "Un incendie volontaire est un acte criminel. (Arson is a criminal act.)"
+            },
+            {
+                "id": "fr-1842",
+                "w": "moyens",
+                "p": "mwajɛ̃",
+                "d": "method, way of doing",
+                "s": "Je peux le faire par mes propres moyens. (I can do it all myself.)"
+            },
+            {
+                "id": "fr-1843",
+                "w": "lois",
+                "p": "lwa",
+                "d": "law",
+                "s": "Je ne pense pas avoir enfreint de lois. (I don't think I've broken any laws.)"
+            },
+            {
+                "id": "fr-1844",
+                "w": "meurs",
+                "p": "mœʁ",
+                "d": "to die",
+                "s": "Je meurs de froid. Ferme cette fenêtre. (I'm freezing to death. Close that window.)"
+            },
+            {
+                "id": "fr-1845",
+                "w": "laisserai",
+                "p": "lɛsəʁɛ",
+                "d": "to leave",
+                "s": "Je ne vous laisserai plus jamais seules. (I'll never leave you alone again.)"
+            },
+            {
+                "id": "fr-1846",
+                "w": "aéroport",
+                "p": "a.e.ʁɔ.pɔʁ",
+                "d": "airport",
+                "s": "De quel aéroport est-ce que je pars ? (Which airport do I leave from?)"
+            },
+            {
+                "id": "fr-1847",
+                "w": "mauvaises",
+                "p": "mo.vɛz",
+                "d": "bad",
+                "s": "Personne n'aime les mauvaises nouvelles. (Nobody likes bad news.)"
+            },
+            {
+                "id": "fr-1848",
+                "w": "détective",
+                "p": "de.tɛk.tiv",
+                "d": "detective",
+                "s": "L'homme s'avéra être un détective privé. (The man turned out to be a private detective.)"
+            },
+            {
+                "id": "fr-1849",
+                "w": "autrement",
+                "p": "o.tʁə.mɑ̃",
+                "d": "differently",
+                "s": "Comment pourrait-il en être autrement ? (How could it be any other way?)"
+            },
+            {
+                "id": "fr-1850",
+                "w": "témoins",
+                "p": "te.mwɛ̃",
+                "d": "witness",
+                "s": "Le policier a noté les noms des témoins. (The policeman took down the witnesses' names.)"
+            },
+            {
+                "id": "fr-1851",
+                "w": "queue",
+                "p": "kø",
+                "d": "tail",
+                "s": "Le garçon a attrapé le chat par la queue. (The boy caught the cat by the tail.)"
+            },
+            {
+                "id": "fr-1852",
+                "w": "coincé",
+                "p": "kwɛ̃.se",
+                "d": "to wedge",
+                "s": "J'ai été coincé ici pendant trois jours. (I've been stuck here for three days.)"
+            },
+            {
+                "id": "fr-1853",
+                "w": "mariés",
+                "p": "ma.ʁje",
+                "d": "groom",
+                "s": "Nous avons été mariés pendant trois ans. (We were married for three years.)"
+            },
+            {
+                "id": "fr-1854",
+                "w": "sonne",
+                "p": "sɔn",
+                "d": "to sound",
+                "s": "Tu n'entends pas ? Le téléphone sonne. (Can't you hear? The phone's ringing.)"
+            },
+            {
+                "id": "fr-1855",
+                "w": "innocent",
+                "p": "i.nɔ.sɑ̃",
+                "d": "innocent",
+                "s": "Il n'y a aucun doute qu'il est innocent. (There's no doubt that he's innocent.)"
+            },
+            {
+                "id": "fr-1856",
+                "w": "dira",
+                "p": "di.ʁa",
+                "d": "to say, to tell",
+                "s": "S'il connaît la vérité, il nous le dira. (If he knows the truth, he will tell us.)"
+            },
+            {
+                "id": "fr-1857",
+                "w": "créé",
+                "p": "kʁe.e",
+                "d": "to create",
+                "s": "Pourquoi Dieu a-t-il créé l'univers ? (Why did God create the universe?)"
+            },
+            {
+                "id": "fr-1858",
+                "w": "supporter",
+                "p": "sy.pɔʁ.te",
+                "d": "to support",
+                "s": "Je ne peux simplement pas supporter Tom. (I just can't stand Tom.)"
+            },
+            {
+                "id": "fr-1859",
+                "w": "milliers",
+                "p": "milje",
+                "d": "thousand",
+                "s": "Des milliers de personnes y ont assisté. (Thousands of people attended.)"
+            },
+            {
+                "id": "fr-1860",
+                "w": "heu",
+                "p": "ø",
+                "d": "hoy",
+                "s": ""
+            },
+            {
+                "id": "fr-1861",
+                "w": "infirmière",
+                "p": "ɛ̃.fiʁ.mjɛʁ",
+                "d": "nurse",
+                "s": "Elle n'est pas infirmière, mais docteur. (She is not a nurse, but a doctor.)"
+            },
+            {
+                "id": "fr-1862",
+                "w": "métier",
+                "p": "me.tje",
+                "d": "job",
+                "s": "Je te montrerai les ficelles du métier. (I'll show you the ropes.)"
+            },
+            {
+                "id": "fr-1863",
+                "w": "crétin",
+                "p": "kʁe.tɛ̃",
+                "d": "cretin",
+                "s": "Apprends à conduire, crétin. (Learn how to drive, you moron.)"
+            },
+            {
+                "id": "fr-1864",
+                "w": "retirer",
+                "p": "ʁə.ti.ʁe",
+                "d": "to take off",
+                "s": "Nous ne pouvons nous retirer maintenant. (We can't back out now.)"
+            },
+            {
+                "id": "fr-1865",
+                "w": "surveillance",
+                "p": "syʁ.vɛ.jɑ̃s",
+                "d": "surveillance",
+                "s": "Ne laisse jamais ton verre sans surveillance. (Never leave your drink unattended.)"
+            },
+            {
+                "id": "fr-1866",
+                "w": "chances",
+                "p": "ʃɑ̃s",
+                "d": "chance",
+                "s": "Je te souhaite la meilleure des chances. (Best of luck to you.)"
+            },
+            {
+                "id": "fr-1867",
+                "w": "oreilles",
+                "p": "ɔ.ʁɛj",
+                "d": "ear",
+                "s": "Arrêtez de me hurler dans les oreilles ! (Stop screaming in my ears.)"
+            },
+            {
+                "id": "fr-1868",
+                "w": "trouvera",
+                "p": "tʁuvəʁa",
+                "d": "to find",
+                "s": "La police ne vous trouvera jamais là-bas. (The police will never find you there.)"
+            },
+            {
+                "id": "fr-1869",
+                "w": "suicide",
+                "p": "sɥi.sid",
+                "d": "suicide",
+                "s": "La mort de Thomas ne fut pas un suicide. (Tom's death wasn't a suicide.)"
+            },
+            {
+                "id": "fr-1870",
+                "w": "militaire",
+                "p": "mi.li.tɛʁ",
+                "d": "military",
+                "s": "Il voulait être un grand chef militaire. (He wanted to be a great military leader.)"
+            },
+            {
+                "id": "fr-1871",
+                "w": "atteindre",
+                "p": "a.tɛ̃dʁ",
+                "d": "to attain",
+                "s": "Comment puis-je atteindre la frontière ? (How can I get to the border?)"
+            },
+            {
+                "id": "fr-1872",
+                "w": "fuir",
+                "p": "fɥiʁ",
+                "d": "to escape",
+                "s": "Nous ne voulons pas faire fuir les enfants. (We don't want to scare the children away.)"
+            },
+            {
+                "id": "fr-1873",
+                "w": "casse",
+                "p": "kas",
+                "d": "to break",
+                "s": "Veillez à ce que le fil ne se casse pas. (Be careful that the thread doesn't break.)"
+            },
+            {
+                "id": "fr-1874",
+                "w": "dormi",
+                "p": "dɔʁ.mi",
+                "d": "to sleep",
+                "s": "Avez-vous assez dormi la nuit dernière ? (Did you sleep enough last night?)"
+            },
+            {
+                "id": "fr-1875",
+                "w": "pilote",
+                "p": "pi.lɔt",
+                "d": "pilot",
+                "s": "C'est votre pilote qui s'adresse à vous. (This is your pilot speaking.)"
+            },
+            {
+                "id": "fr-1876",
+                "w": "rires",
+                "p": "ʁiʁ",
+                "d": "laugh",
+                "s": "Des rires ont fusé dans toute la salle. (Laughter filled the room.)"
+            },
+            {
+                "id": "fr-1877",
+                "w": "appelée",
+                "p": "a.ple",
+                "d": "to call",
+                "s": "La rose est appelée la reine des fleurs. (The rose is called the queen of flowers.)"
+            },
+            {
+                "id": "fr-1878",
+                "w": "risques",
+                "p": "ʁisk",
+                "d": "risk",
+                "s": "Vous avez pris suffisamment de risques. (You've risked enough.)"
+            },
+            {
+                "id": "fr-1879",
+                "w": "leçon",
+                "p": "lə.sɔ̃",
+                "d": "lesson",
+                "s": "On devrait garder cette leçon à l'esprit. (This lesson should be kept in mind.)"
+            },
+            {
+                "id": "fr-1880",
+                "w": "paquet",
+                "p": "pa.kɛ",
+                "d": "packet",
+                "s": "Je me demande de qui provient ce paquet. (I wonder who this package is from.)"
+            },
+            {
+                "id": "fr-1881",
+                "w": "man",
+                "p": "man",
+                "d": "my",
+                "s": ""
+            },
+            {
+                "id": "fr-1882",
+                "w": "défendre",
+                "p": "de.fɑ̃dʁ",
+                "d": "to defend",
+                "s": "Nous devons toujours défendre nos droits. (We must always stand up for our rights.)"
+            },
+            {
+                "id": "fr-1883",
+                "w": "immeuble",
+                "p": "i.mœbl",
+                "d": "building",
+                "s": "Je veux que cet immeuble soit verrouillé. (I want this building locked.)"
+            },
+            {
+                "id": "fr-1884",
+                "w": "récemment",
+                "p": "ʁe.sa.mɑ̃",
+                "d": "recently",
+                "s": "Les règles ont été récemment assouplies. (The rules were recently relaxed.)"
+            },
+            {
+                "id": "fr-1885",
+                "w": "chinois",
+                "p": "ʃi.nwa",
+                "d": "of China",
+                "s": "Le papier a été inventé par les Chinois. (Paper was invented by the Chinese.)"
+            },
+            {
+                "id": "fr-1886",
+                "w": "battu",
+                "p": "ba.ty",
+                "d": "to beat",
+                "s": "Je me suis toujours battu pour survivre. (I've always fought to survive.)"
+            },
+            {
+                "id": "fr-1887",
+                "w": "aveugle",
+                "p": "a.vœɡl",
+                "d": "blind",
+                "s": "Comment peux-tu être à ce point aveugle ? (How can you be so blind?)"
+            },
+            {
+                "id": "fr-1888",
+                "w": "oiseau",
+                "p": "wa.zo",
+                "d": "bird",
+                "s": "Cet oiseau peut imiter la voix humaine. (This bird can imitate the human voice.)"
+            },
+            {
+                "id": "fr-1889",
+                "w": "qu",
+                "p": "ky",
+                "d": "cue",
+                "s": "Qu' y a-t-il dans votre armoire à pharmacie ? (What's in your medicine cabinet?)"
+            },
+            {
+                "id": "fr-1890",
+                "w": "propriétaire",
+                "p": "pʁɔ.pʁi.je.tɛʁ",
+                "d": "owner",
+                "s": "Qui est le propriétaire de cette maison ? (Who owns this house?)"
+            },
+            {
+                "id": "fr-1891",
+                "w": "ancienne",
+                "p": "ɑ̃.sjɛn",
+                "d": "old, former, ex-",
+                "s": "Mon père s'intéresse à l'histoire ancienne. (My father is interested in ancient history.)"
+            },
+            {
+                "id": "fr-1892",
+                "w": "veste",
+                "p": "vɛst",
+                "d": "jacket",
+                "s": "Combien de poches cette veste a-t-elle ? (How many pockets does that jacket have?)"
+            },
+            {
+                "id": "fr-1893",
+                "w": "saviez",
+                "p": "savje",
+                "d": "to know",
+                "s": "J'ai toujours pensé que vous saviez nager. (I've always thought you knew how to swim.)"
+            },
+            {
+                "id": "fr-1894",
+                "w": "amies",
+                "p": "a.mi",
+                "d": "friend",
+                "s": "Je ne compte pas au nombre de tes amies. (I'm no friend of yours.)"
+            },
+            {
+                "id": "fr-1895",
+                "w": "cherché",
+                "p": "ʃɛʁ.ʃe",
+                "d": "to look for, to seek",
+                "s": "Ils ont cherché à s'abriter de la pluie. (They sought shelter from the rain.)"
+            },
+            {
+                "id": "fr-1896",
+                "w": "tirez",
+                "p": "ti.ʁe",
+                "d": "to draw, drag, pull",
+                "s": "Tirez un trait sur votre feuille de papier. (Draw a line on your paper.)"
+            },
+            {
+                "id": "fr-1897",
+                "w": "al",
+                "p": "al",
+                "d": "singular",
+                "s": "Al Capone fut finalement jeté en prison pour évasion fiscale. (Al Capone was finally sent away for tax evasion.)"
+            },
+            {
+                "id": "fr-1898",
+                "w": "différents",
+                "p": "di.fe.ʁɑ̃",
+                "d": "different",
+                "s": "Nous sommes très différents, toi et moi. (We're very different, you and I.)"
+            },
+            {
+                "id": "fr-1899",
+                "w": "gardez",
+                "p": "ɡaʁ.de",
+                "d": "to keep",
+                "s": "Gardez votre gauche quand vous conduisez. (Keep to the left when driving.)"
+            },
+            {
+                "id": "fr-1900",
+                "w": "feras",
+                "p": "fə.ʁa",
+                "d": "to do",
+                "s": "Je sais que tu feras ce qu'il faut faire. (I know you'll do what needs to be done.)"
+            },
+            {
+                "id": "fr-1901",
+                "w": "lis",
+                "p": "li",
+                "d": "to read",
+                "s": "Je lis un ou deux livres chaque semaine. (I read one or two books every week.)"
+            },
+            {
+                "id": "fr-1902",
+                "w": "station",
+                "p": "sta.sjɔ̃",
+                "d": "station",
+                "s": "Laisse-moi t'emmener jusqu'à la station. (Let me give you a lift as far as the station.)"
+            },
+            {
+                "id": "fr-1903",
+                "w": "mandat",
+                "p": "mɑ̃.da",
+                "d": "mandate",
+                "s": "J'ai un mandat pour fouiller les lieux. (I have a warrant to search the premises.)"
+            },
+            {
+                "id": "fr-1904",
+                "w": "assassin",
+                "p": "a.sa.sɛ̃",
+                "d": "an assassin or other murderer",
+                "s": ""
+            },
+            {
+                "id": "fr-1905",
+                "w": "célèbre",
+                "p": "se.lɛbʁ",
+                "d": "famous",
+                "s": "Tom devint célèbre dans le monde entier. (Tom became world famous.)"
+            },
+            {
+                "id": "fr-1906",
+                "w": "dort",
+                "p": "dɔʁ",
+                "d": "to sleep",
+                "s": "Tom dort encore avec un ours en peluche. (Tom still sleeps with a teddy bear.)"
+            },
+            {
+                "id": "fr-1907",
+                "w": "bague",
+                "p": "baɡ",
+                "d": "ring",
+                "s": "J'aimerais voir cette bague, je te prie. (I'd like to see that ring, please.)"
+            },
+            {
+                "id": "fr-1908",
+                "w": "tente",
+                "p": "tɑ̃t",
+                "d": "to attempt",
+                "s": "Il tente juste d'acquérir de la renommée. (He's just trying to be popular.)"
+            },
+            {
+                "id": "fr-1909",
+                "w": "devenue",
+                "p": "də.v(ə).ny",
+                "d": "to become",
+                "s": "Il m'a demandé ce qu'elle était devenue. (He asked me what had become of her.)"
+            },
+            {
+                "id": "fr-1910",
+                "w": "ventre",
+                "p": "vɑ̃tʁ",
+                "d": "belly",
+                "s": "Je n'aime pas travailler le ventre vide. (I don't like working on an empty stomach.)"
+            },
+            {
+                "id": "fr-1911",
+                "w": "carter",
+                "p": "kaʁ.tɛʁ",
+                "d": "housing",
+                "s": ""
+            },
+            {
+                "id": "fr-1912",
+                "w": "respire",
+                "p": "ʁɛs.piʁ",
+                "d": "to breathe",
+                "s": "Respire à fond et ensuite relâche-toi. (Take a deep breath and then relax.)"
+            },
+            {
+                "id": "fr-1913",
+                "w": "haute",
+                "p": "ot",
+                "d": "high",
+                "s": "Tom a une très haute opinion de lui-même. (Tom has a very high opinion of himself.)"
+            },
+            {
+                "id": "fr-1914",
+                "w": "connaissais",
+                "p": "kɔ.nɛ.sɛ",
+                "d": "to know",
+                "s": "Ne fais pas comme si tu me connaissais ! (Don't act like you know me.)"
+            },
+            {
+                "id": "fr-1915",
+                "w": "genoux",
+                "p": "ʒə.nu",
+                "d": "knee",
+                "s": "Il était dans la neige jusqu'aux genoux. (He was knee-deep in snow.)"
+            },
+            {
+                "id": "fr-1916",
+                "w": "terme",
+                "p": "tɛʁm",
+                "d": "terms",
+                "s": "Tom et Marie sont là pour le long terme. (Tom and Mary are in it for the long haul.)"
+            },
+            {
+                "id": "fr-1917",
+                "w": "vert",
+                "p": "vɛʁ",
+                "d": "green",
+                "s": "Le feu de circulation est passé au vert. (The traffic light turned green.)"
+            },
+            {
+                "id": "fr-1918",
+                "w": "refusé",
+                "p": "ʁəfyze",
+                "d": "to refuse",
+                "s": "Il s'est refusé à prendre le pot-de-vin. (He refused to take the bribe.)"
+            },
+            {
+                "id": "fr-1919",
+                "w": "hâte",
+                "p": "at",
+                "d": "haste",
+                "s": "J'ai hâte de t'entendre chanter ce soir. (I look forward to hearing you sing tonight.)"
+            },
+            {
+                "id": "fr-1920",
+                "w": "réveiller",
+                "p": "ʁe.vɛ.je",
+                "d": "to awaken",
+                "s": "Vous n'aviez pas besoin de me réveiller. (You didn't have to wake me up.)"
+            },
+            {
+                "id": "fr-1921",
+                "w": "commande",
+                "p": "kɔ.mɑ̃d",
+                "d": "order",
+                "s": "C'est ma femme qui commande à la maison. (My wife is the boss at home.)"
+            },
+            {
+                "id": "fr-1922",
+                "w": "commun",
+                "p": "kɔ.mœ̃",
+                "d": "common",
+                "s": "Nous avons beaucoup de points en commun. (We have a lot in common.)"
+            },
+            {
+                "id": "fr-1923",
+                "w": "souris",
+                "p": "su.ʁi",
+                "d": "mouse",
+                "s": "Les souris ont mangé une partie du pain. (The mice ate some of the bread.)"
+            },
+            {
+                "id": "fr-1924",
+                "w": "partons",
+                "p": "paʁtɔ̃",
+                "d": "to share",
+                "s": "Nous partons pour l'Australie cet après-midi. (We leave for Australia this afternoon.)"
+            },
+            {
+                "id": "fr-1925",
+                "w": "perdue",
+                "p": "pɛʁ.dy",
+                "d": "lost",
+                "s": "Je croyais t'avoir perdue pour toujours. (I thought I'd lost you forever.)"
+            },
+            {
+                "id": "fr-1926",
+                "w": "dirige",
+                "p": "di.ʁiʒ",
+                "d": "to run",
+                "s": "Un chef d'orchestre dirige un orchestre. (A conductor directs an orchestra.)"
+            },
+            {
+                "id": "fr-1927",
+                "w": "verras",
+                "p": "vɛ.ʁa",
+                "d": "to see",
+                "s": "Si tu regardes à ta droite, tu verras la mer. (If you look to your right, you'll see the sea.)"
+            },
+            {
+                "id": "fr-1928",
+                "w": "charmant",
+                "p": "ʃaʁ.mɑ̃",
+                "d": "charming",
+                "s": "Vous avez l'air charmant aujourd'hui. (You look very charming today.)"
+            },
+            {
+                "id": "fr-1929",
+                "w": "chante",
+                "p": "ʃɑ̃t",
+                "d": "to sing",
+                "s": "D'après eux, ce garçon chante très bien. (According to what they say, that boy is very good at singing.)"
+            },
+            {
+                "id": "fr-1930",
+                "w": "sport",
+                "p": "spɔʁ",
+                "d": "sport",
+                "s": "J'ai bien transpiré à la salle de sport. (I worked up a good sweat at the gym.)"
+            },
+            {
+                "id": "fr-1931",
+                "w": "celle-ci",
+                "p": "sɛl.si",
+                "d": "this one, the latter",
+                "s": "Voulez-vous essayer celle-ci pour moi ? (Will you try this on for me?)"
+            },
+            {
+                "id": "fr-1932",
+                "w": "viré",
+                "p": "viʁe",
+                "d": "to bear, veer",
+                "s": "J'ai entendu dire que tu avais été viré. (I heard that you got fired.)"
+            },
+            {
+                "id": "fr-1933",
+                "w": "fiston",
+                "p": "fis.tɔ̃",
+                "d": "boy",
+                "s": ""
+            },
+            {
+                "id": "fr-1934",
+                "w": "étoiles",
+                "p": "e.twal",
+                "d": "star",
+                "s": "Des étoiles scintillaient dans le ciel. (Stars twinkled in the sky.)"
+            },
+            {
+                "id": "fr-1935",
+                "w": "laisses",
+                "p": "lɛs",
+                "d": "to leave",
+                "s": "Je veux que tu me laisses tranquille. (I want you to leave me alone.)"
+            },
+            {
+                "id": "fr-1936",
+                "w": "parlant",
+                "p": "paʁ.lɑ̃",
+                "d": "to speak, talk",
+                "s": "Y a-t-il quelqu'un parlant français ici ? (Is there someone here who speaks French?)"
+            },
+            {
+                "id": "fr-1937",
+                "w": "là-dessus",
+                "p": "la.d(ə).sy",
+                "d": "on this, here",
+                "s": "Le conseil s'est mis d'accord là-dessus. (The council agreed on it.)"
+            },
+            {
+                "id": "fr-1938",
+                "w": "signé",
+                "p": "siɲe",
+                "d": "to sign",
+                "s": "Tom a signé une déclaration sous serment. (Tom signed an affidavit.)"
+            },
+            {
+                "id": "fr-1939",
+                "w": "virer",
+                "p": "vi.ʁe",
+                "d": "to bear, veer",
+                "s": "Sur quel compte dois-je virer l'argent ? (Which account should I transfer the money to?)"
+            },
+            {
+                "id": "fr-1940",
+                "w": "permettre",
+                "p": "pɛʁ.mɛtʁ",
+                "d": "to permit, to allow",
+                "s": "Nous ne pouvons pas nous permettre cela. (We can't afford that.)"
+            },
+            {
+                "id": "fr-1941",
+                "w": "pouvoirs",
+                "p": "puvwaʁ",
+                "d": "power",
+                "s": "Êtes-vous dotée de pouvoirs psychiques ? (Do you have psychic powers?)"
+            },
+            {
+                "id": "fr-1942",
+                "w": "pluie",
+                "p": "plɥi",
+                "d": "rain",
+                "s": "J'ai été pris dans une tempête de pluie. (I got caught in a rainstorm.)"
+            },
+            {
+                "id": "fr-1943",
+                "w": "passez",
+                "p": "pase",
+                "d": "to go past",
+                "s": "J'espère que vous passez du bon temps ! (I hope you have a good time!)"
+            },
+            {
+                "id": "fr-1944",
+                "w": "vrais",
+                "p": "vʁɛ",
+                "d": "true",
+                "s": "J'ai de vrais sentiments à votre égard. (I've got real feelings for you.)"
+            },
+            {
+                "id": "fr-1945",
+                "w": "enlevé",
+                "p": "ɑ̃l.ve",
+                "d": "to remove",
+                "s": "Nous avons enlevé les anciens meubles. (We removed the old furniture.)"
+            },
+            {
+                "id": "fr-1946",
+                "w": "moments",
+                "p": "momɑ̃",
+                "d": "moment",
+                "s": "Il passe parfois des moments tout seul. (Sometimes he spends time by himself.)"
+            },
+            {
+                "id": "fr-1947",
+                "w": "blesser",
+                "p": "blɛ.se",
+                "d": "to wound, to injure",
+                "s": "Vous ne pouvez pas me blesser davantage. (You can't hurt me anymore.)"
+            },
+            {
+                "id": "fr-1948",
+                "w": "ombre",
+                "p": "ɔ̃bʁ",
+                "d": "shade, shadow",
+                "s": "L'arbre projetait une ombre sur la route. (The tree cast a shadow across the road.)"
+            },
+            {
+                "id": "fr-1949",
+                "w": "épisode",
+                "p": "e.pi.zɔd",
+                "d": "episode",
+                "s": "Quand sera diffusé le prochain épisode ? (When will the next episode air?)"
+            },
+            {
+                "id": "fr-1950",
+                "w": "talent",
+                "p": "ta.lɑ̃",
+                "d": "a talent",
+                "s": "Il paraît que tu as beaucoup de talent. (I hear you're very talented.)"
+            },
+            {
+                "id": "fr-1951",
+                "w": "chocolat",
+                "p": "ʃɔ.kɔ.la",
+                "d": "chocolate",
+                "s": "Même le chocolat contient des vitamines. (Even chocolate contains vitamins.)"
+            },
+            {
+                "id": "fr-1952",
+                "w": "assurance",
+                "p": "a.sy.ʁɑ̃s",
+                "d": "self-confidence",
+                "s": "J'espère que tu disposes d'une assurance. (I hope you have insurance.)"
+            },
+            {
+                "id": "fr-1953",
+                "w": "couche",
+                "p": "kuʃ",
+                "d": "to lay, to lay down",
+                "s": "D'habitude, je me couche à neuf heures. (I usually go to bed at nine.)"
+            },
+            {
+                "id": "fr-1954",
+                "w": "site",
+                "p": "sit",
+                "d": "site",
+                "s": "J'ai changé l'agencement de mon site web. (I've changed my website's layout.)"
+            },
+            {
+                "id": "fr-1955",
+                "w": "neige",
+                "p": "nɛʒ",
+                "d": "snow",
+                "s": "Il y aura peut-être de la neige ce soir. (It may snow tonight.)"
+            },
+            {
+                "id": "fr-1956",
+                "w": "gardé",
+                "p": "ɡaʁ.de",
+                "d": "to keep",
+                "s": "Nous vous avons gardé un siège juste là. (We saved you a seat right here.)"
+            },
+            {
+                "id": "fr-1957",
+                "w": "chemise",
+                "p": "ʃə.miz",
+                "d": "shirt",
+                "s": "Où puis-je acheter une chemise comme ça? (Where can I buy a shirt like that?)"
+            },
+            {
+                "id": "fr-1958",
+                "w": "voulaient",
+                "p": "vulɛ",
+                "d": "to want",
+                "s": "As-tu demandé si elles en voulaient un ? (Have you asked if they want one?)"
+            },
+            {
+                "id": "fr-1959",
+                "w": "emploi",
+                "p": "ɑ̃.plwa",
+                "d": "job",
+                "s": "Tom a trouvé un emploi comme mécanicien. (Tom found a job as a mechanic.)"
+            },
+            {
+                "id": "fr-1960",
+                "w": "précédemment",
+                "p": "pʁe.se.da.mɑ̃",
+                "d": "before, before now",
+                "s": "Je te suis reconnaissant pour ce que tu as fait précédemment. (I appreciate what you did earlier.)"
+            },
+            {
+                "id": "fr-1961",
+                "w": "surveiller",
+                "p": "syʁ.vɛ.je",
+                "d": "to monitor",
+                "s": "Tu peux surveiller mon sac une minute ? (Can you watch my bag for a minute?)"
+            },
+            {
+                "id": "fr-1962",
+                "w": "privée",
+                "p": "pʁive",
+                "d": "private",
+                "s": "Je suis désolé, c'est une soirée privée. (I'm sorry, this is a private party.)"
+            },
+            {
+                "id": "fr-1963",
+                "w": "entière",
+                "p": "ɑ̃.tjɛʁ",
+                "d": "whole",
+                "s": "Je serai parti pour une semaine entière. (I'll be gone for an entire week.)"
+            },
+            {
+                "id": "fr-1964",
+                "w": "saint",
+                "p": "sɛ̃",
+                "d": "a male saint",
+                "s": "Vous n'êtes pas non plus un saint. (You're no saint, either.)"
+            },
+            {
+                "id": "fr-1965",
+                "w": "parlent",
+                "p": "paʁl",
+                "d": "to speak, talk",
+                "s": "De nombreux Canadiens parlent français. (Many Canadians speak French.)"
+            },
+            {
+                "id": "fr-1966",
+                "w": "réfléchi",
+                "p": "ʁe.fle.ʃi",
+                "d": "to reflect",
+                "s": "Tu dois avoir réfléchi à quelque chose. (You must've thought of something.)"
+            },
+            {
+                "id": "fr-1967",
+                "w": "attendent",
+                "p": "a.tɑ̃d",
+                "d": "to wait for",
+                "s": "Des douzaines de lettres vous attendent. (Dozens of letters are awaiting you.)"
+            },
+            {
+                "id": "fr-1968",
+                "w": "jette",
+                "p": "ʒɛt",
+                "d": "to throw",
+                "s": "Ne jette pas de rochers dans la rivière. (Don't throw rocks into the river.)"
+            },
+            {
+                "id": "fr-1969",
+                "w": "facilement",
+                "p": "fa.sil.mɑ̃",
+                "d": "easily",
+                "s": "Je ne suis pas facilement impressionnée. (I'm not easily impressed.)"
+            },
+            {
+                "id": "fr-1970",
+                "w": "joues",
+                "p": "ʒu",
+                "d": "to play",
+                "s": "Au fait, est-ce que tu joues du violon ? (By the way, do you play the violin?)"
+            },
+            {
+                "id": "fr-1971",
+                "w": "jury",
+                "p": "ʒy.ʁi",
+                "d": "jury",
+                "s": "Je ne pense pas que le jury ait cru Tom. (I don't think the jury believed Tom.)"
+            },
+            {
+                "id": "fr-1972",
+                "w": "passera",
+                "p": "pasəʁa",
+                "d": "to go past",
+                "s": "J'espère juste que tout se passera bien. (I hope everything works out.)"
+            },
+            {
+                "id": "fr-1973",
+                "w": "voleur",
+                "p": "vɔ.lœʁ",
+                "d": "robber, thief",
+                "s": "Le policier se saisit du bras du voleur. (The policeman grabbed the robber's arm.)"
+            },
+            {
+                "id": "fr-1974",
+                "w": "véritable",
+                "p": "ve.ʁi.tabl",
+                "d": "veritable",
+                "s": "Tu as fait de ma vie un véritable enfer. (You made my life a living hell.)"
+            },
+            {
+                "id": "fr-1975",
+                "w": "entend",
+                "p": "ɑ̃.tɑ̃",
+                "d": "to hear",
+                "s": "Est-ce que quelqu'un d'autre entend ça ? (Does anyone else hear that?)"
+            },
+            {
+                "id": "fr-1976",
+                "w": "chaise",
+                "p": "ʃɛz",
+                "d": "chair, seat",
+                "s": "Il n'y a pas de chaise dans cette pièce. (There is no chair in this room.)"
+            },
+            {
+                "id": "fr-1977",
+                "w": "accusé",
+                "p": "a.ky.ze",
+                "d": "to accuse",
+                "s": "Il a été accusé de blanchiment d'argent. (He was accused of money-laundering.)"
+            },
+            {
+                "id": "fr-1978",
+                "w": "zéro",
+                "p": "ze.ʁo",
+                "d": "zero, nought, oh",
+                "s": "L'eau gèle à zéro degré, n'est-ce pas ? (Water freezes at zero degrees Celsius, doesn't it?)"
+            },
+            {
+                "id": "fr-1979",
+                "w": "clairement",
+                "p": "klɛʁ.mɑ̃",
+                "d": "clearly",
+                "s": "Il vous faudrait parler plus clairement. (You should speak more clearly.)"
+            },
+            {
+                "id": "fr-1980",
+                "w": "mouvement",
+                "p": "muv.mɑ̃",
+                "d": "movement",
+                "s": "Il a joué un rôle clé dans le mouvement. (He played a key role in the movement.)"
+            },
+            {
+                "id": "fr-1981",
+                "w": "celles",
+                "p": "sɛl",
+                "d": "those",
+                "s": "Ce sont celles qui veulent s'y rendre. (They're the ones who want to go.)"
+            },
+            {
+                "id": "fr-1982",
+                "w": "sommeil",
+                "p": "sɔ.mɛj",
+                "d": "sleep",
+                "s": "Un peu de sommeil ne serait pas du luxe. (I could use some sleep.)"
+            },
+            {
+                "id": "fr-1983",
+                "w": "blancs",
+                "p": "blɑ̃",
+                "d": "white",
+                "s": "Couvrez les blancs de poulet de farine. (Coat the chicken breast with flour.)"
+            },
+            {
+                "id": "fr-1984",
+                "w": "survivre",
+                "p": "syʁ.vivʁ",
+                "d": "to survive",
+                "s": "Je me suis toujours battu pour survivre. (I've always fought to survive.)"
+            },
+            {
+                "id": "fr-1985",
+                "w": "semblait",
+                "p": "sɑ̃blɛ",
+                "d": "to seem",
+                "s": "Cela semblait trop tiré par les cheveux. (It sounded too farfetched.)"
+            },
+            {
+                "id": "fr-1986",
+                "w": "craint",
+                "p": "kʁɛ̃",
+                "d": "to fear",
+                "s": "Il ne craint pas du tout les serpents. (He's not at all afraid of snakes.)"
+            },
+            {
+                "id": "fr-1987",
+                "w": "traduction",
+                "p": "tʁa.dyk.sjɔ̃",
+                "d": "translation",
+                "s": "Comparez votre traduction à la sienne. (Compare your translation with his.)"
+            },
+            {
+                "id": "fr-1988",
+                "w": "notes",
+                "p": "nɔt",
+                "d": "note",
+                "s": "Elle obtient de bonnes notes en anglais. (She gets good marks in English.)"
+            },
+            {
+                "id": "fr-1989",
+                "w": "repos",
+                "p": "ʁə.po",
+                "d": "rest, ease, repose",
+                "s": "Je n'ai pas besoin de quelconque repos. (I don't need any rest.)"
+            },
+            {
+                "id": "fr-1990",
+                "w": "siège",
+                "p": "sjɛʒ",
+                "d": "seat, chair",
+                "s": "Nous vous avons gardé un siège juste là. (We saved you a seat right here.)"
+            },
+            {
+                "id": "fr-1991",
+                "w": "policier",
+                "p": "pɔ.li.sje",
+                "d": "policeman",
+                "s": "Le policier est actuellement en service. (The policeman is now on duty.)"
+            },
+            {
+                "id": "fr-1992",
+                "w": "allés",
+                "p": "a.le",
+                "d": "to go",
+                "s": "Nous sommes allés à la plage pour nager. (We went to the beach to swim.)"
+            },
+            {
+                "id": "fr-1993",
+                "w": "puissance",
+                "p": "pɥi.sɑ̃s",
+                "d": "power",
+                "s": "C'est un champion du monde en puissance. (He is a potential world champion.)"
+            },
+            {
+                "id": "fr-1994",
+                "w": "familles",
+                "p": "fa.mij",
+                "d": "family",
+                "s": "La maison peut accueillir deux familles. (The house could accommodate two families.)"
+            },
+            {
+                "id": "fr-1995",
+                "w": "second",
+                "p": "sə.ɡɔ̃",
+                "d": "second",
+                "s": "Tourne à droite au second carrefour. (Turn right at the second corner.)"
+            },
+            {
+                "id": "fr-1996",
+                "w": "cellule",
+                "p": "sɛ.lyl",
+                "d": "cell",
+                "s": "Tom et John sont compagnons de cellule. (Tom and John are cellmates.)"
+            },
+            {
+                "id": "fr-1997",
+                "w": "engagé",
+                "p": "ɑ̃.ɡa.ʒe",
+                "d": "to pledge, commit",
+                "s": "Je me suis engagé dans l'armée de l'air. (I enlisted in the Air Force.)"
+            },
+            {
+                "id": "fr-1998",
+                "w": "adorable",
+                "p": "a.dɔ.ʁabl",
+                "d": "adorable",
+                "s": "Mon frère m'a donné une adorable poupée. (My brother gave me a cute doll.)"
+            },
+            {
+                "id": "fr-1999",
+                "w": "spéciale",
+                "p": "spesjal",
+                "d": "special",
+                "s": "Qu'est-ce qui rend celle-ci spéciale ? (What makes this one special?)"
+            },
+            {
+                "id": "fr-2000",
+                "w": "violence",
+                "p": "vjɔ.lɑ̃s",
+                "d": "violence",
+                "s": "La violence persista durant deux semaines. (The violence lasted for two weeks.)"
+            },
+            {
+                "id": "fr-2001",
+                "w": "ours",
+                "p": "uʁs",
+                "d": "bear",
+                "s": "Tom dort encore avec un ours en peluche. (Tom still sleeps with a teddy bear.)"
+            },
+            {
+                "id": "fr-2002",
+                "w": "gorge",
+                "p": "ɡɔʁʒ",
+                "d": "throat",
+                "s": "C'est un peu serré autour de la gorge. (This is a bit too tight around my neck.)"
+            },
+            {
+                "id": "fr-2003",
+                "w": "examen",
+                "p": "ɛɡ.za.mɛ̃",
+                "d": "examination",
+                "s": "Tom est inquiet pour le prochain examen. (Tom is worried about the next exam.)"
+            },
+            {
+                "id": "fr-2004",
+                "w": "dieux",
+                "p": "djø",
+                "d": "a god, male divinity",
+                "s": "Ils ont tué une chèvre en sacrifice aux dieux. (They killed a goat as a sacrifice to the gods.)"
+            },
+            {
+                "id": "fr-2005",
+                "w": "major",
+                "p": "ma.ʒɔʁ",
+                "d": "major",
+                "s": "Un major est au-dessus d'un capitaine. (A major is above a captain.)"
+            },
+            {
+                "id": "fr-2006",
+                "w": "obtenu",
+                "p": "ɔp.tə.ny",
+                "d": "to get, to obtain",
+                "s": "Il a finalement obtenu ce qu'il voulait. (He finally got his wish.)"
+            },
+            {
+                "id": "fr-2007",
+                "w": "évident",
+                "p": "e.vi.dɑ̃",
+                "d": "evident, obvious",
+                "s": "Peut-être que ce n'était pas si évident. (Maybe it wasn't so obvious.)"
+            },
+            {
+                "id": "fr-2008",
+                "w": "distance",
+                "p": "dis.tɑ̃s",
+                "d": "distance",
+                "s": "Tiens-toi juste à distance de ma fille ! (Just stay away from my daughter.)"
+            },
+            {
+                "id": "fr-2009",
+                "w": "titre",
+                "p": "titʁ",
+                "d": "heading, title",
+                "s": "Le titre de ce document doit être centré. (The title of the document needs to be centered.)"
+            },
+            {
+                "id": "fr-2010",
+                "w": "lundi",
+                "p": "lœ̃.di",
+                "d": "Monday",
+                "s": "Je suis resté à la maison lundi dernier. (I stayed at home last Monday.)"
+            },
+            {
+                "id": "fr-2011",
+                "w": "choc",
+                "p": "ʃɔk",
+                "d": "hit, strike",
+                "s": "On était tous les deux en état de choc. (We were both shell-shocked.)"
+            },
+            {
+                "id": "fr-2012",
+                "w": "différentes",
+                "p": "difeʁɑ̃t",
+                "d": "different",
+                "s": "Maintenant, les choses sont différentes. (Now things are different.)"
+            },
+            {
+                "id": "fr-2013",
+                "w": "théâtre",
+                "p": "te.ɑtʁ",
+                "d": "theatre",
+                "s": "Hier soir nous sommes allées au théâtre. (Last night, we went to the theater.)"
+            },
+            {
+                "id": "fr-2014",
+                "w": "exploser",
+                "p": "ɛk.splo.ze",
+                "d": "to explode",
+                "s": "Cela pourrait nous exploser à la figure. (This could blow up in our faces.)"
+            },
+            {
+                "id": "fr-2015",
+                "w": "rivière",
+                "p": "ʁi.vjɛʁ",
+                "d": "a river",
+                "s": "Quelle est la largeur de cette rivière ? (How wide is this river?)"
+            },
+            {
+                "id": "fr-2016",
+                "w": "paye",
+                "p": "pɛj",
+                "d": "to pay",
+                "s": "Je paye quelqu'un pour nettoyer chez moi. (I pay someone to clean my house.)"
+            },
+            {
+                "id": "fr-2017",
+                "w": "allo",
+                "p": "a.lo",
+                "d": "hello",
+                "s": "Allo, est-ce le service du personnel ? (Hello, is this the personnel department?)"
+            },
+            {
+                "id": "fr-2018",
+                "w": "revenez",
+                "p": "ʁəvəne",
+                "d": "to come back",
+                "s": "S'il vous plaît revenez dans trois jours. (Please come again in three days' time.)"
+            },
+            {
+                "id": "fr-2019",
+                "w": "écoutes",
+                "p": "e.kut",
+                "d": "to listen",
+                "s": "Je veux que tu écoutes attentivement. (I want you to listen carefully.)"
+            },
+            {
+                "id": "fr-2020",
+                "w": "logique",
+                "p": "lɔ.ʒik",
+                "d": "logical",
+                "s": "Ne t'attends pas à une réponse logique. (Don't expect a coherent answer.)"
+            },
+            {
+                "id": "fr-2021",
+                "w": "miracle",
+                "p": "mi.ʁakl",
+                "d": "miracle",
+                "s": "C'est un miracle que vous ayez survécu. (It's a miracle you survived.)"
+            },
+            {
+                "id": "fr-2022",
+                "w": "lève",
+                "p": "lɛv",
+                "d": "to raise, lift",
+                "s": "Je me lève à six heures tous les matins. (I get up at six every morning.)"
+            },
+            {
+                "id": "fr-2023",
+                "w": "montagne",
+                "p": "mɔ̃.taɲ",
+                "d": "mountain",
+                "s": "Quelle est l'altitude de cette montagne? (How high is that mountain?)"
+            },
+            {
+                "id": "fr-2024",
+                "w": "essayais",
+                "p": "esejɛ",
+                "d": "to test, to try on",
+                "s": "J'ai pensé que tu essayais d'être drôle. (I thought you were trying to be funny.)"
+            },
+            {
+                "id": "fr-2025",
+                "w": "pauvres",
+                "p": "povʁ",
+                "d": "poor",
+                "s": "Les hommes pauvres n'ont pas de loisirs. (Poor men have no leisure.)"
+            },
+            {
+                "id": "fr-2026",
+                "w": "tenu",
+                "p": "tə.ny",
+                "d": "to have",
+                "s": "Tom n'a pas tenu sa promesse envers moi. (Tom didn't keep his promise to me.)"
+            },
+            {
+                "id": "fr-2027",
+                "w": "auprès",
+                "p": "o.pʁɛ",
+                "d": "nearby",
+                "s": "Il était populaire auprès des électeurs. (He was popular with voters.)"
+            },
+            {
+                "id": "fr-2028",
+                "w": "lèvres",
+                "p": "lɛvʁ",
+                "d": "lip",
+                "s": "J'aime la couleur de ton rouge à lèvres. (I like the color of your lipstick.)"
+            },
+            {
+                "id": "fr-2029",
+                "w": "plat",
+                "p": "pla",
+                "d": "a flat area of ground",
+                "s": "La pizza est le plat préféré de l'enfant. (Pizza is the kid's favorite meal.)"
+            },
+            {
+                "id": "fr-2030",
+                "w": "lunettes",
+                "p": "ly.nɛt",
+                "d": "telescope",
+                "s": "Avez-vous besoin de lunettes pour lire ? (Do you need glasses to read?)"
+            },
+            {
+                "id": "fr-2031",
+                "w": "journaux",
+                "p": "ʒuʁ.no",
+                "d": "diary, journal",
+                "s": "L'histoire était dans tous les journaux. (The story was in all the papers.)"
+            },
+            {
+                "id": "fr-2032",
+                "w": "attaquer",
+                "p": "a.ta.ke",
+                "d": "to attack",
+                "s": "Mieux vaut attaquer que se laisser attaquer. (It's better to attack than to let oneself be attacked.)"
+            },
+            {
+                "id": "fr-2033",
+                "w": "mine",
+                "p": "min",
+                "d": "mine",
+                "s": "Tu as une meilleure mine aujourd'hui. (You look better today.)"
+            },
+            {
+                "id": "fr-2034",
+                "w": "pistolet",
+                "p": "pis.tɔ.lɛ",
+                "d": "gun, pistol",
+                "s": "Il n'y a pas de balles dans ce pistolet. (There aren't any bullets in this pistol.)"
+            },
+            {
+                "id": "fr-2035",
+                "w": "divorce",
+                "p": "di.vɔʁs",
+                "d": "divorce",
+                "s": "L'Église catholique s'oppose au divorce. (The Catholic Church is opposed to divorce.)"
+            },
+            {
+                "id": "fr-2036",
+                "w": "noirs",
+                "p": "nwaʁ",
+                "d": "black in colour",
+                "s": "J'ai les yeux bruns et les cheveux noirs. (I have brown eyes and black hair.)"
+            },
+            {
+                "id": "fr-2037",
+                "w": "meurtres",
+                "p": "mœʁtʁ",
+                "d": "murder",
+                "s": "Il doit y avoir un lien entre ces meurtres. (There must be a connection between these murders.)"
+            },
+            {
+                "id": "fr-2038",
+                "w": "premiers",
+                "p": "pʁə.mje",
+                "d": "first",
+                "s": "Peux-tu lui donner les premiers soins ? (Can you give him first aid?)"
+            },
+            {
+                "id": "fr-2039",
+                "w": "forêt",
+                "p": "fɔ.ʁɛ",
+                "d": "forest",
+                "s": "Il coupa à travers la forêt de Sherwood. (He cut through Sherwood Forest.)"
+            },
+            {
+                "id": "fr-2040",
+                "w": "respirer",
+                "p": "ʁɛs.pi.ʁe",
+                "d": "to breathe",
+                "s": "Il éprouvait des difficultés à respirer. (He had trouble breathing.)"
+            },
+            {
+                "id": "fr-2041",
+                "w": "fortune",
+                "p": "fɔʁ.tyn",
+                "d": "fortune",
+                "s": "Il laissa à sa fille une grande fortune. (He left his daughter a great fortune.)"
+            },
+            {
+                "id": "fr-2042",
+                "w": "réponses",
+                "p": "ʁepɔ̃s",
+                "d": "response",
+                "s": "Tu sembles connaître toutes les réponses. (You seem to know all the answers.)"
+            },
+            {
+                "id": "fr-2043",
+                "w": "devraient",
+                "p": "də.vʁɛ",
+                "d": "must",
+                "s": "Les criminels devraient aller en prison. (Criminals should go to jail.)"
+            },
+            {
+                "id": "fr-2044",
+                "w": "explosion",
+                "p": "ɛk.splo.zjɔ̃",
+                "d": "explosion",
+                "s": "À quand remonte la dernière explosion ? (When was the last explosion?)"
+            },
+            {
+                "id": "fr-2045",
+                "w": "reviendra",
+                "p": "ʁəvjɛ̃dʁa",
+                "d": "to come back",
+                "s": "Je pense qu'il ne reviendra plus jamais. (I think he'll never return.)"
+            },
+            {
+                "id": "fr-2046",
+                "w": "mène",
+                "p": "mɛn",
+                "d": "to lead, to take",
+                "s": "La rue qui mène à l'hôtel est étroite. (The road which leads to the hotel is narrow.)"
+            },
+            {
+                "id": "fr-2047",
+                "w": "maria",
+                "p": "maʁja",
+                "d": "to marry",
+                "s": "Thomas était avec Maria toute la matinée. (Tom was with Mary all morning.)"
+            },
+            {
+                "id": "fr-2048",
+                "w": "responsabilité",
+                "p": "ʁɛs.pɔ̃.sa.bi.li.te",
+                "d": "responsibility",
+                "s": "Il a assumé la complète responsabilité. (He assumed full responsibility.)"
+            },
+            {
+                "id": "fr-2049",
+                "w": "erreurs",
+                "p": "ɛʁœʁ",
+                "d": "error",
+                "s": "Nous avons tendance à faire des erreurs. (We tend to make mistakes.)"
+            },
+            {
+                "id": "fr-2050",
+                "w": "principal",
+                "p": "pʁɛ̃.si.pal",
+                "d": "main, key, principal",
+                "s": "M. Jackson est notre professeur principal. (Mr. Jackson is our homeroom teacher.)"
+            },
+            {
+                "id": "fr-2051",
+                "w": "épée",
+                "p": "e.pe",
+                "d": "sword",
+                "s": "Tom a tranché le bras de Mary avec une épée. (Tom hacked Mary's arm off with a sword.)"
+            },
+            {
+                "id": "fr-2052",
+                "w": "tienne",
+                "p": "tjɛn",
+                "d": "to have",
+                "s": "Mon opinion est différente de la tienne. (My idea is different from yours.)"
+            },
+            {
+                "id": "fr-2053",
+                "w": "travaillait",
+                "p": "tʁavajɛ",
+                "d": "to work",
+                "s": "Elle travaillait pour un homme riche. (She worked for a rich man.)"
+            },
+            {
+                "id": "fr-2054",
+                "w": "tableau",
+                "p": "ta.blo",
+                "d": "painting",
+                "s": "Il peignit un tableau figurant un chien. (He painted a picture of a dog.)"
+            },
+            {
+                "id": "fr-2055",
+                "w": "cabinet",
+                "p": "ka.bi.nɛ",
+                "d": "an office, a surgery",
+                "s": "Tous les membres du cabinet étaient présents. (Every member of the cabinet was present.)"
+            },
+            {
+                "id": "fr-2056",
+                "w": "normale",
+                "p": "nɔʁ.mal",
+                "d": "normal",
+                "s": "Je veux simplement mener une vie normale. (I just want to live a normal life.)"
+            },
+            {
+                "id": "fr-2057",
+                "w": "alerte",
+                "p": "a.lɛʁt",
+                "d": "alert",
+                "s": "C'est sans doute une fausse alerte. (It's probably a false alarm.)"
+            },
+            {
+                "id": "fr-2058",
+                "w": "meurtrier",
+                "p": "mœʁ.tʁi.je",
+                "d": "murderer",
+                "s": "L'identité du meurtrier reste inconnue. (The killer's identity is still unknown.)"
+            },
+            {
+                "id": "fr-2059",
+                "w": "libérer",
+                "p": "li.be.ʁe",
+                "d": "to liberate",
+                "s": "Il leur ordonna de libérer le prisonnier. (He ordered them to release the prisoner.)"
+            },
+            {
+                "id": "fr-2060",
+                "w": "commis",
+                "p": "kɔ.mi",
+                "d": "to commit",
+                "s": "J'ai peut-être commis une grosse erreur. (I may have made a big mistake.)"
+            },
+            {
+                "id": "fr-2061",
+                "w": "sérieuse",
+                "p": "se.ʁjøz",
+                "d": "serious",
+                "s": "Dites-moi que vous n'êtes pas sérieuse ! (Tell me you're not serious!)"
+            },
+            {
+                "id": "fr-2062",
+                "w": "sous-titrage",
+                "p": "su.ti.tʁaʒ",
+                "d": "subtitling",
+                "s": ""
+            },
+            {
+                "id": "fr-2063",
+                "w": "rock",
+                "p": "ʁɔk",
+                "d": "rock",
+                "s": "Je veux faire partie d'un groupe de rock. (I want to be in a rock band.)"
+            },
+            {
+                "id": "fr-2064",
+                "w": "vision",
+                "p": "vi.zjɔ̃",
+                "d": "vision, sight",
+                "s": "Jamais je n'ai eu de plus belle vision. (I had never seen a more beautiful sight.)"
+            },
+            {
+                "id": "fr-2065",
+                "w": "réveillé",
+                "p": "ʁe.vɛ.je",
+                "d": "to awaken",
+                "s": "J'espère que je ne vous ai pas réveillé. (I hope I didn't wake you.)"
+            },
+            {
+                "id": "fr-2066",
+                "w": "auront",
+                "p": "ɔ.ʁɔ̃",
+                "d": "to have",
+                "s": "Elles auront des discussions demain. (They will hold talks tomorrow.)"
+            },
+            {
+                "id": "fr-2067",
+                "w": "mesure",
+                "p": "mə.zyʁ",
+                "d": "measure",
+                "s": "Je mesure la valeur de votre conviction. (I appreciate your conviction.)"
+            },
+            {
+                "id": "fr-2068",
+                "w": "ed",
+                "p": "ɛd",
+                "d": "eth",
+                "s": ""
+            },
+            {
+                "id": "fr-2069",
+                "w": "louis",
+                "p": "lwi",
+                "d": "a louis",
+                "s": ""
+            },
+            {
+                "id": "fr-2070",
+                "w": "secrétaire",
+                "p": "sə.kʁe.tɛʁ",
+                "d": "secretary",
+                "s": "Mon secrétaire a dit que c'était urgent. (My secretary said it was urgent.)"
+            },
+            {
+                "id": "fr-2071",
+                "w": "images",
+                "p": "i.maʒ",
+                "d": "picture, image",
+                "s": "Ce livre contient de nombreuses images. (This book has many pictures.)"
+            },
+            {
+                "id": "fr-2072",
+                "w": "fuite",
+                "p": "fɥit",
+                "d": "escape",
+                "s": "Que se passera-t-il s'il y a une fuite ? (What if there's a leak?)"
+            },
+            {
+                "id": "fr-2073",
+                "w": "amitié",
+                "p": "a.mi.tje",
+                "d": "friendship, amity",
+                "s": "Leur amitié nous a profondément touchés. (Their friendship moved us deeply.)"
+            },
+            {
+                "id": "fr-2074",
+                "w": "annonce",
+                "p": "a.nɔ̃s",
+                "d": "advertisement",
+                "s": "J'ai lu votre annonce dans le journal. (I read your ad in the paper.)"
+            },
+            {
+                "id": "fr-2075",
+                "w": "pousser",
+                "p": "pu.se",
+                "d": "to push",
+                "s": "J'ai fait moi-même pousser ces carottes. (I grew these carrots myself.)"
+            },
+            {
+                "id": "fr-2076",
+                "w": "idiote",
+                "p": "i.djɔt",
+                "d": "idiot",
+                "s": "Je déteste me conduire comme une idiote. (I hate being stupid.)"
+            },
+            {
+                "id": "fr-2077",
+                "w": "nombreux",
+                "p": "nɔ̃.bʁø",
+                "d": "numerous, many",
+                "s": "Il y a de nombreux mystères dans la vie. (There are many mysteries in life.)"
+            },
+            {
+                "id": "fr-2078",
+                "w": "brisé",
+                "p": "bʁi.ze",
+                "d": "to break",
+                "s": "Le verre s'est brisé en petits morceaux. (The glass broke to pieces.)"
+            },
+            {
+                "id": "fr-2079",
+                "w": "raconté",
+                "p": "ʁakɔ̃te",
+                "d": "to recount",
+                "s": "Tom m'a raconté une incroyable histoire. (Tom told me an incredible story.)"
+            },
+            {
+                "id": "fr-2080",
+                "w": "cardiaque",
+                "p": "kaʁdjak",
+                "d": "cardiac",
+                "s": "Avez-vous déjà eu une attaque cardiaque ? (Have you ever had a heart attack?)"
+            },
+            {
+                "id": "fr-2081",
+                "w": "minuit",
+                "p": "mi.nɥi",
+                "d": "midnight",
+                "s": "On ne va jamais se coucher avant minuit. (We never go to bed before midnight.)"
+            },
+            {
+                "id": "fr-2082",
+                "w": "humeur",
+                "p": "y.mœʁ",
+                "d": "humour/humor",
+                "s": "Je ne suis pas non plus de bonne humeur. (I'm not in a good mood either.)"
+            },
+            {
+                "id": "fr-2083",
+                "w": "physique",
+                "p": "fi.zik",
+                "d": "physical, sportive",
+                "s": "Il est en excellente condition physique. (He is in excellent physical condition.)"
+            },
+            {
+                "id": "fr-2084",
+                "w": "prof",
+                "p": "pʁɔf",
+                "d": "teacher, professor",
+                "s": "Arrêtez de faire de la lèche à la prof ! (Stop sucking up to the teacher.)"
+            },
+            {
+                "id": "fr-2085",
+                "w": "lieux",
+                "p": "ljø",
+                "d": "place",
+                "s": "J'ai un mandat pour fouiller les lieux. (I have a warrant to search the premises.)"
+            },
+            {
+                "id": "fr-2086",
+                "w": "los",
+                "p": "lo",
+                "d": "praise",
+                "s": "Nous avons volé non-stop d'Osaka à Los Angeles. (We flew nonstop from Osaka to Los Angeles.)"
+            },
+            {
+                "id": "fr-2087",
+                "w": "seins",
+                "p": "sɛ̃",
+                "d": "breast",
+                "s": "As-tu remarqué des bosses dans tes seins ? (Have you noticed any lumps in your breasts?)"
+            },
+            {
+                "id": "fr-2088",
+                "w": "crier",
+                "p": "kʁi.je",
+                "d": "to cry out",
+                "s": "Tom dit qu'il n'a entendu personne crier. (Tom said that he didn't hear anybody scream.)"
+            },
+            {
+                "id": "fr-2089",
+                "w": "top",
+                "p": "tɔp",
+                "d": "top",
+                "s": "C'est une mission top secrète. (This is a top secret mission.)"
+            },
+            {
+                "id": "fr-2090",
+                "w": "go",
+                "p": "ɡo",
+                "d": "go",
+                "s": "Mon passe-temps favori est le jeu de go. (Playing go is my favorite pastime.)"
+            },
+            {
+                "id": "fr-2091",
+                "w": "permission",
+                "p": "pɛʁ.mi.sjɔ̃",
+                "d": "permission",
+                "s": "Vous avez la permission de vous y rendre. (You may go there.)"
+            },
+            {
+                "id": "fr-2092",
+                "w": "romantique",
+                "p": "ʁo.mɑ̃.tik",
+                "d": "romantic",
+                "s": "Je pense que c'est très romantique. (I think it's very romantic.)"
+            },
+            {
+                "id": "fr-2093",
+                "w": "lac",
+                "p": "lak",
+                "d": "lake",
+                "s": "Nous sommes finalement parvenues au lac. (We finally arrived at the lake.)"
+            },
+            {
+                "id": "fr-2094",
+                "w": "vente",
+                "p": "vɑ̃t",
+                "d": "sale",
+                "s": "Je serai là qu'il pleuve ou qu'il vente. (I'll be there rain or shine.)"
+            },
+            {
+                "id": "fr-2095",
+                "w": "vache",
+                "p": "vaʃ",
+                "d": "harsh",
+                "s": "Je n'ai encore jamais vu de vraie vache. (I've never seen a real cow.)"
+            },
+            {
+                "id": "fr-2096",
+                "w": "suit",
+                "p": "sɥi",
+                "d": "to follow",
+                "s": "Ce qui suit le dimanche, c'est le lundi. (Sunday is followed by Monday.)"
+            },
+            {
+                "id": "fr-2097",
+                "w": "courses",
+                "p": "kuʁs",
+                "d": "shopping",
+                "s": "Beaucoup de gens font leurs courses ici. (Many people shop here.)"
+            },
+            {
+                "id": "fr-2098",
+                "w": "casser",
+                "p": "ka.se",
+                "d": "to break",
+                "s": "Je n'ai pas voulu vous casser les pieds. (I didn't want to bug you.)"
+            },
+            {
+                "id": "fr-2099",
+                "w": "études",
+                "p": "e.tyd",
+                "d": "study",
+                "s": "Elle était assez motivée dans ses études. (She was quite eager in her studies.)"
+            },
+            {
+                "id": "fr-2100",
+                "w": "modèle",
+                "p": "mɔ.dɛl",
+                "d": "model",
+                "s": "Les ventes de ce modèle se sont envolées. (The sales of this model took off.)"
+            },
+            {
+                "id": "fr-2101",
+                "w": "version",
+                "p": "vɛʁ.sjɔ̃",
+                "d": "version",
+                "s": "Avez-vous vu la version non approuvée ? (Have you seen the uncensored version?)"
+            },
+            {
+                "id": "fr-2102",
+                "w": "pensées",
+                "p": "pɑ̃se",
+                "d": "a thought",
+                "s": "Je suis sûr que vos pensées sont nobles. (I am certain that you have noble thoughts.)"
+            },
+            {
+                "id": "fr-2103",
+                "w": "prudent",
+                "p": "pʁy.dɑ̃",
+                "d": "prudent",
+                "s": "Si j'étais vous, je serais plus prudent. (I'd be more careful if I were you.)"
+            },
+            {
+                "id": "fr-2104",
+                "w": "plaisante",
+                "p": "plɛzɑ̃t",
+                "d": "to joke",
+                "s": "Ne plaisante même pas à ce sujet ! (Don't even joke about that.)"
+            },
+            {
+                "id": "fr-2105",
+                "w": "emmené",
+                "p": "ɑ̃məne",
+                "d": "to take off",
+                "s": "J'ai emmené le chiot chez ma grand-mère. (I took the puppy to my grandmother's house.)"
+            },
+            {
+                "id": "fr-2106",
+                "w": "réfléchis",
+                "p": "ʁefleʃi",
+                "d": "to reflect",
+                "s": "Je réfléchis à mettre ma maison en vente. (I'm thinking about putting my house up for sale.)"
+            },
+            {
+                "id": "fr-2107",
+                "w": "concert",
+                "p": "kɔ̃.sɛʁ",
+                "d": "concert",
+                "s": "Le concert a attiré énormément de monde. (The concert was very well attended.)"
+            },
+            {
+                "id": "fr-2108",
+                "w": "blessure",
+                "p": "blɛ.syʁ",
+                "d": "wound",
+                "s": "Tom est décédé d’une blessure par balle. (Tom died from a bullet wound.)"
+            },
+            {
+                "id": "fr-2109",
+                "w": "tir",
+                "p": "tiʁ",
+                "d": "shot, shooting",
+                "s": "Pensez-vous que le tir fut accidentel ? (Do you think the shooting was accidental?)"
+            },
+            {
+                "id": "fr-2110",
+                "w": "chauffeur",
+                "p": "ʃo.fœʁ",
+                "d": "stoker",
+                "s": "Je ne fais pas confiance à ce chauffeur. (I don't trust this driver.)"
+            },
+            {
+                "id": "fr-2111",
+                "w": "midi",
+                "p": "mi.di",
+                "d": "noon, midday",
+                "s": "Le travail doit être terminé avant midi. (The work must be finished before noon.)"
+            },
+            {
+                "id": "fr-2112",
+                "w": "souvenez",
+                "p": "suvəne",
+                "d": "to remember",
+                "s": "Vous ne vous en souvenez probablement pas. (You probably don't remember.)"
+            },
+            {
+                "id": "fr-2113",
+                "w": "puissant",
+                "p": "pɥi.sɑ̃",
+                "d": "powerful",
+                "s": "Le séisme provoqua un puissant tsunami. (The earthquake triggered a powerful tsunami.)"
+            },
+            {
+                "id": "fr-2114",
+                "w": "moteur",
+                "p": "mɔ.tœʁ",
+                "d": "motor, engine",
+                "s": "Quel moteur de recherche utilisez-vous ? (Which search engine do you use?)"
+            },
+            {
+                "id": "fr-2115",
+                "w": "répond",
+                "p": "ʁepɔ̃",
+                "d": "to reply, to answer",
+                "s": "Cela ne répond toujours pas à ma question. (That still doesn't answer my question.)"
+            },
+            {
+                "id": "fr-2116",
+                "w": "hmm",
+                "p": "aʃɛmɛm",
+                "d": "expressing skepticism",
+                "s": ""
+            },
+            {
+                "id": "fr-2117",
+                "w": "coûte",
+                "p": "kut",
+                "d": "to cost",
+                "s": "Combien coûte l'excursion par personne ? (How much is the tour per person?)"
+            },
+            {
+                "id": "fr-2118",
+                "w": "reculez",
+                "p": "ʁə.ky.le",
+                "d": "to move back",
+                "s": "Ne reculez pas ! (Don't back away.)"
+            },
+            {
+                "id": "fr-2119",
+                "w": "dessous",
+                "p": "də.su",
+                "d": "underside",
+                "s": "Son travail est en dessous de la moyenne. (His work is below average.)"
+            },
+            {
+                "id": "fr-2120",
+                "w": "souffle",
+                "p": "sufl",
+                "d": "blowing",
+                "s": "Je n'arrive pas à reprendre mon souffle. (I can't catch my breath.)"
+            },
+            {
+                "id": "fr-2121",
+                "w": "construire",
+                "p": "kɔ̃s.tʁɥiʁ",
+                "d": "to build",
+                "s": "Je voudrais construire ma propre maison. (I'd like to build my own house.)"
+            },
+            {
+                "id": "fr-2122",
+                "w": "démon",
+                "p": "de.mɔ̃",
+                "d": "demon",
+                "s": ""
+            },
+            {
+                "id": "fr-2123",
+                "w": "achète",
+                "p": "a.ʃɛt",
+                "d": "to purchase",
+                "s": "Achète rapidement tous les objets requis ! (Quickly buy all required items.)"
+            },
+            {
+                "id": "fr-2124",
+                "w": "caméras",
+                "p": "kameʁa",
+                "d": "video camera",
+                "s": "Le Japon produit beaucoup de bonnes caméras. (Japan produces a lot of good cameras.)"
+            },
+            {
+                "id": "fr-2125",
+                "w": "pousse",
+                "p": "pus",
+                "d": "to push",
+                "s": "J'entends quelqu'un qui pousse des cris. (I hear some screaming.)"
+            },
+            {
+                "id": "fr-2126",
+                "w": "cesse",
+                "p": "sɛs",
+                "d": "end",
+                "s": "Cesse de reporter ta recherche d'emploi. (Stop putting off finding a job.)"
+            },
+            {
+                "id": "fr-2127",
+                "w": "gare",
+                "p": "ɡaʁ",
+                "d": "railway station",
+                "s": "Nous sommes parvenues à la gare à temps. (We reached the station on time.)"
+            },
+            {
+                "id": "fr-2128",
+                "w": "rentrée",
+                "p": "ʁɑ̃.tʁe",
+                "d": "to go back",
+                "s": "Je suis rentrée un peu tard, cette nuit. (I got home a little late last night.)"
+            },
+            {
+                "id": "fr-2129",
+                "w": "finit",
+                "p": "fi.ni",
+                "d": "to finish",
+                "s": "La vérité finit par éclater à son procès. (The truth finally came out at his trial.)"
+            },
+            {
+                "id": "fr-2130",
+                "w": "bosse",
+                "p": "bɔs",
+                "d": "to work",
+                "s": "Il a une bosse sur la tête. (He has a swelling on his head.)"
+            },
+            {
+                "id": "fr-2131",
+                "w": "fer",
+                "p": "fɛʁ",
+                "d": "iron",
+                "s": "L'or est un métal plus dense que le fer. (Gold's heavier than iron.)"
+            },
+            {
+                "id": "fr-2132",
+                "w": "couilles",
+                "p": "kuj",
+                "d": "ball, testicle",
+                "s": "Tom et Mary commencent à sérieusement me casser les couilles. (Tom and Mary are really starting to get on my nerves.)"
+            },
+            {
+                "id": "fr-2133",
+                "w": "quiconque",
+                "p": "ki.kɔ̃k",
+                "d": "anyone",
+                "s": "Nous ne pouvons le raconter à quiconque. (We can't tell anybody.)"
+            },
+            {
+                "id": "fr-2134",
+                "w": "vole",
+                "p": "vɔl",
+                "d": "to fly through the air",
+                "s": "J'ai mal au cœur chaque fois que je vole. (I get nauseous whenever I fly.)"
+            },
+            {
+                "id": "fr-2135",
+                "w": "ignorais",
+                "p": "i.ɲɔ.ʁɛ",
+                "d": "to ignore",
+                "s": "Je suis surprise que tu ignorais cela. (I'm surprised you didn't know that.)"
+            },
+            {
+                "id": "fr-2136",
+                "w": "soutien",
+                "p": "su.tjɛ̃",
+                "d": "support",
+                "s": "Je suis reconnaissante pour ton soutien. (I appreciate the support.)"
+            },
+            {
+                "id": "fr-2137",
+                "w": "usine",
+                "p": "y.zin",
+                "d": "factory",
+                "s": "Cette usine produit 500 voitures par jour. (This factory produces 500 automobiles a day.)"
+            },
+            {
+                "id": "fr-2138",
+                "w": "château",
+                "p": "ʃa.to",
+                "d": "castle",
+                "s": "Je suis à présent dans un vieux château. (I am now in an old castle.)"
+            },
+            {
+                "id": "fr-2139",
+                "w": "garage",
+                "p": "ɡa.ʁaʒ",
+                "d": "garage",
+                "s": "Le congélateur se trouve dans le garage. (The freezer's in the garage.)"
+            },
+            {
+                "id": "fr-2140",
+                "w": "délicieux",
+                "p": "de.li.sjø",
+                "d": "delicious",
+                "s": "Pourquoi ne pas essayer ce vin délicieux ? (Why not try that delicious wine?)"
+            },
+            {
+                "id": "fr-2141",
+                "w": "oreille",
+                "p": "ɔ.ʁɛj",
+                "d": "ear",
+                "s": "Tom a une bonne oreille pour la musique. (Tom has a good ear for music.)"
+            },
+            {
+                "id": "fr-2142",
+                "w": "virus",
+                "p": "vi.ʁys",
+                "d": "virus",
+                "s": "C'est un virus très contagieux. (It's a very contagious virus.)"
+            },
+            {
+                "id": "fr-2143",
+                "w": "réellement",
+                "p": "ʁe.ɛl.mɑ̃",
+                "d": "really",
+                "s": "Tom a-t-il réellement gagné une loterie? (Did Tom really win a lottery?)"
+            },
+            {
+                "id": "fr-2144",
+                "w": "posé",
+                "p": "poze",
+                "d": "to stop carrying",
+                "s": "J'ai posé quelques questions au médecin. (I asked the doctor some questions.)"
+            },
+            {
+                "id": "fr-2145",
+                "w": "avancer",
+                "p": "a.vɑ̃.se",
+                "d": "to advance",
+                "s": "Contentez-vous de continuer à avancer ! (Just keep moving.)"
+            },
+            {
+                "id": "fr-2146",
+                "w": "maisons",
+                "p": "mɛ.zɔ̃",
+                "d": "house",
+                "s": "Les deux maisons se situent côte à côte. (The two houses stand side by side.)"
+            },
+            {
+                "id": "fr-2147",
+                "w": "voisins",
+                "p": "vwa.zɛ̃",
+                "d": "neighbour, neighbor",
+                "s": "Tes voisins ne se plaignent-ils jamais ? (Don't your neighbors ever complain?)"
+            },
+            {
+                "id": "fr-2148",
+                "w": "deviens",
+                "p": "də.vjɛ̃",
+                "d": "to become",
+                "s": "Tout le monde pense que je deviens fou. (Everyone thinks I'm going mad.)"
+            },
+            {
+                "id": "fr-2149",
+                "w": "sage",
+                "p": "saʒ",
+                "d": "wise",
+                "s": "Il jugea plus sage de rester silencieux. (He judged it wiser to remain silent.)"
+            },
+            {
+                "id": "fr-2150",
+                "w": "crédit",
+                "p": "kʁe.di",
+                "d": "credit",
+                "s": "Nous ne prenons pas les cartes de crédit. (We don't take credit cards.)"
+            },
+            {
+                "id": "fr-2151",
+                "w": "ambulance",
+                "p": "ɑ̃.by.lɑ̃s",
+                "d": "ambulance",
+                "s": "S'il vous plaît, envoyez une ambulance. (Please send an ambulance.)"
+            },
+            {
+                "id": "fr-2152",
+                "w": "gamins",
+                "p": "gamɛ̃",
+                "d": "street urchin",
+                "s": "Tom laissa ses gamins à la maison. (Tom left his kids at home.)"
+            },
+            {
+                "id": "fr-2153",
+                "w": "fière",
+                "p": "fjɛʁ",
+                "d": "proud",
+                "s": "Vous devez être très fière de votre fils. (You must be very proud of your son.)"
+            },
+            {
+                "id": "fr-2154",
+                "w": "tourné",
+                "p": "tuʁne",
+                "d": "to turn",
+                "s": "Il s'est tourné et retourné toute la nuit. (He tossed and turned all night.)"
+            },
+            {
+                "id": "fr-2155",
+                "w": "puce",
+                "p": "pys",
+                "d": "flea",
+                "s": "Une puce peut sauter deux cents fois sa propre taille. (A flea can jump 200 times its own height.)"
+            },
+            {
+                "id": "fr-2156",
+                "w": "finie",
+                "p": "fi.ni",
+                "d": "finite",
+                "s": "Je suis très content que l'école soit finie. (I'm very glad school is over.)"
+            },
+            {
+                "id": "fr-2157",
+                "w": "canon",
+                "p": "ka.nɔ̃",
+                "d": "cannon, gun",
+                "s": "Je ne dispose pas vraiment d'un canon. (I don't really have a gun.)"
+            },
+            {
+                "id": "fr-2158",
+                "w": "liquide",
+                "p": "li.kid",
+                "d": "liquid",
+                "s": "Je ne transporte plus d'argent liquide. (I don't carry cash anymore.)"
+            },
+            {
+                "id": "fr-2159",
+                "w": "devine",
+                "p": "də.vin",
+                "d": "to guess",
+                "s": "Devine ce que j'ai acheté aujourd'hui ! (Guess what I bought today.)"
+            },
+            {
+                "id": "fr-2160",
+                "w": "particulier",
+                "p": "paʁ.ti.ky.lje",
+                "d": "an individual",
+                "s": "Aujourd'hui est un jour très particulier. (Today is a very special day.)"
+            },
+            {
+                "id": "fr-2161",
+                "w": "prennent",
+                "p": "pʁɛn",
+                "d": "to take",
+                "s": "Ces boîtes vides prennent trop de place. (These empty boxes take up too much space.)"
+            },
+            {
+                "id": "fr-2162",
+                "w": "traverser",
+                "p": "tʁa.vɛʁ.se",
+                "d": "to cross",
+                "s": "Où pouvons-nous traverser le ruisseau ? (Where can we cross the stream?)"
+            },
+            {
+                "id": "fr-2163",
+                "w": "rues",
+                "p": "ʁy",
+                "d": "street, road",
+                "s": "Les rues s'en viennent à être désertées. (The streets become deserted.)"
+            },
+            {
+                "id": "fr-2164",
+                "w": "criminel",
+                "p": "kʁi.mi.nɛl",
+                "d": "criminal",
+                "s": "Le criminel implora la clémence du juge. (The criminal begged the judge for mercy.)"
+            },
+            {
+                "id": "fr-2165",
+                "w": "cependant",
+                "p": "sə.pɑ̃.dɑ̃",
+                "d": "however",
+                "s": "Ce n'est pas ce que Tom a dit, cependant. (That isn't what Tom said, though.)"
+            },
+            {
+                "id": "fr-2166",
+                "w": "sombre",
+                "p": "sɔ̃bʁ",
+                "d": "dark",
+                "s": "Le ciel devenait de plus en plus sombre. (The sky grew darker and darker.)"
+            },
+            {
+                "id": "fr-2167",
+                "w": "agence",
+                "p": "a.ʒɑ̃s",
+                "d": "agency",
+                "s": "Je travaille dans une agence de voyage. (I work at a travel agency.)"
+            },
+            {
+                "id": "fr-2168",
+                "w": "comportement",
+                "p": "kɔ̃.pɔʁ.tə.mɑ̃",
+                "d": "behaviour/behavior",
+                "s": "Son comportement est au-dessous de tout. (Her behavior is beneath contempt.)"
+            },
+            {
+                "id": "fr-2169",
+                "w": "artiste",
+                "p": "aʁ.tist",
+                "d": "artist",
+                "s": "Tout le monde ne peut pas être artiste. (Not everybody can be an artist.)"
+            },
+            {
+                "id": "fr-2170",
+                "w": "bosser",
+                "p": "bɔ.se",
+                "d": "to emboss",
+                "s": "J'aime faire bosser les étudiants. (I like to make the students work.)"
+            },
+            {
+                "id": "fr-2171",
+                "w": "gouverneur",
+                "p": "ɡu.vɛʁ.nœʁ",
+                "d": "governor",
+                "s": "Il a fait office de gouverneur de l'Ohio. (He served as governor of Ohio.)"
+            },
+            {
+                "id": "fr-2172",
+                "w": "paroles",
+                "p": "paʁɔl",
+                "d": "words",
+                "s": "Imprimez ces paroles dans votre mémoire ! (Commit these words to memory.)"
+            },
+            {
+                "id": "fr-2173",
+                "w": "résoudre",
+                "p": "ʁe.zudʁ",
+                "d": "to resolve",
+                "s": "J’étais capable de résoudre ce problème. (I was able to solve the problem.)"
+            },
+            {
+                "id": "fr-2174",
+                "w": "chut",
+                "p": "ʃy",
+                "d": "shush",
+                "s": "L'arbre chut. (The tree fell down.)"
+            },
+            {
+                "id": "fr-2175",
+                "w": "période",
+                "p": "pe.ʁjɔd",
+                "d": "period",
+                "s": "Noël est une période magique de l'année. (Christmas is a magical time of the year.)"
+            },
+            {
+                "id": "fr-2176",
+                "w": "bat",
+                "p": "ba",
+                "d": "to beat",
+                "s": "Un homme qui bat sa femme est méprisable. (A man who smacks his wife around is contemptible.)"
+            },
+            {
+                "id": "fr-2177",
+                "w": "seraient",
+                "p": "sə.ʁɛ",
+                "d": "to be",
+                "s": "Les choses ne seraient plus jamais pareilles. (Things would never be the same.)"
+            },
+            {
+                "id": "fr-2178",
+                "w": "bébés",
+                "p": "be.be",
+                "d": "baby",
+                "s": "Les bébés sont intéressants à observer. (Babies are interesting to watch.)"
+            },
+            {
+                "id": "fr-2179",
+                "w": "cherches",
+                "p": "ʃɛʁʃ",
+                "d": "to look for, to seek",
+                "s": "Est-ce vraiment l'homme que tu cherches ? (Is he really the man you're looking for?)"
+            },
+            {
+                "id": "fr-2180",
+                "w": "donnes",
+                "p": "dɔn",
+                "d": "to give",
+                "s": "Je veux que tu donnes un message à Tom. (I want you to give Tom a message.)"
+            },
+            {
+                "id": "fr-2181",
+                "w": "préparé",
+                "p": "pʁe.pa.ʁe",
+                "d": "to prepare",
+                "s": "J'ai préparé le petit déjeuner pour Tom. (I prepared breakfast for Tom.)"
+            },
+            {
+                "id": "fr-2182",
+                "w": "soucis",
+                "p": "susi",
+                "d": "worry",
+                "s": "Ne te fais pas de soucis pour les autres. (Don't worry about others.)"
+            },
+            {
+                "id": "fr-2183",
+                "w": "traiter",
+                "p": "tʁɛ.te",
+                "d": "to treat",
+                "s": "Comment oses-tu me traiter d'hypocrite ? (How dare you call me a hypocrite!)"
+            },
+            {
+                "id": "fr-2184",
+                "w": "différente",
+                "p": "difeʁɑ̃t",
+                "d": "different",
+                "s": "Mon opinion est différente de la sienne. (My opinion differs from hers.)"
+            },
+            {
+                "id": "fr-2185",
+                "w": "reconnais",
+                "p": "ʁəkonɛ",
+                "d": "to recognise",
+                "s": "Je suis désolée, je ne te reconnais pas. (I'm sorry, I don't recognize you.)"
+            },
+            {
+                "id": "fr-2186",
+                "w": "bye",
+                "p": "baj",
+                "d": "bye",
+                "s": ""
+            },
+            {
+                "id": "fr-2187",
+                "w": "fromage",
+                "p": "fʁɔ.maʒ",
+                "d": "cheese",
+                "s": "Le fromage ne se digère pas facilement. (Cheese doesn't digest easily.)"
+            },
+            {
+                "id": "fr-2188",
+                "w": "essence",
+                "p": "e.sɑ̃s",
+                "d": "essence",
+                "s": "Où est la station essence la plus proche ? (Where's the nearest gas station?)"
+            },
+            {
+                "id": "fr-2189",
+                "w": "ayant",
+                "p": "ɛ.jɑ̃",
+                "d": "to have",
+                "s": "Venez, s'il vous plaît, en ayant faim. (Please come hungry.)"
+            },
+            {
+                "id": "fr-2190",
+                "w": "côte",
+                "p": "kot",
+                "d": "rib",
+                "s": "Les deux maisons se situent côte à côte. (The two houses stand side by side.)"
+            },
+            {
+                "id": "fr-2191",
+                "w": "tenté",
+                "p": "tɑ̃te",
+                "d": "to attempt",
+                "s": "As-tu tenté de redémarrer l'ordinateur ? (Did you try restarting the computer?)"
+            },
+            {
+                "id": "fr-2192",
+                "w": "chaleur",
+                "p": "ʃa.lœʁ",
+                "d": "heat",
+                "s": "La chaleur dilate la plupart des choses. (Heat expands most things.)"
+            },
+            {
+                "id": "fr-2193",
+                "w": "tests",
+                "p": "tɛst",
+                "d": "test",
+                "s": "Les tests débutent la semaine prochaine. (Tests start next week.)"
+            },
+            {
+                "id": "fr-2194",
+                "w": "champagne",
+                "p": "ʃɑ̃.paɲ",
+                "d": "champagne",
+                "s": "Nous allons boire une coupe de champagne. (Let's have a glass of champagne.)"
+            },
+            {
+                "id": "fr-2195",
+                "w": "objet",
+                "p": "ɔb.ʒɛ",
+                "d": "thing, object",
+                "s": "Nous vîmes un objet étrange dans le ciel. (We saw a strange object in the sky.)"
+            },
+            {
+                "id": "fr-2196",
+                "w": "disparaître",
+                "p": "dis.pa.ʁɛtʁ",
+                "d": "to disappear",
+                "s": "Mon argent semble disparaître à la fin du mois. (My money seems to disappear by the end of the month.)"
+            },
+            {
+                "id": "fr-2197",
+                "w": "oiseaux",
+                "p": "wa.zo",
+                "d": "bird",
+                "s": "Les oiseaux volent au-dessus des arbres. (Birds are flying above the trees.)"
+            },
+            {
+                "id": "fr-2198",
+                "w": "supposé",
+                "p": "sypoze",
+                "d": "to suppose",
+                "s": "Vous n'êtes pas supposé vous trouver là. (You're not supposed to be here.)"
+            },
+            {
+                "id": "fr-2199",
+                "w": "supplie",
+                "p": "sypli",
+                "d": "to implore",
+                "s": "Est-ce que tu veux que je te supplie ? (Do you want me to beg you?)"
+            },
+            {
+                "id": "fr-2200",
+                "w": "tournée",
+                "p": "tuʁ.ne",
+                "d": "tour, round",
+                "s": "La première tournée est pour la maison. (The first round is on the house.)"
+            },
+            {
+                "id": "fr-2201",
+                "w": "résultat",
+                "p": "ʁe.zyl.ta",
+                "d": "outcome",
+                "s": "Je ne m'étais pas attendu à ce résultat. (I didn't expect that result.)"
+            },
+            {
+                "id": "fr-2202",
+                "w": "concernant",
+                "p": "kɔ̃.sɛʁ.nɑ̃",
+                "d": "concerning",
+                "s": "Je ne m'inquiète pas concernant ce truc. (I don't worry about that stuff.)"
+            },
+            {
+                "id": "fr-2203",
+                "w": "vérifie",
+                "p": "veʁifi",
+                "d": "to confirm",
+                "s": "Il va falloir que je vérifie mon agenda. (I'll need to check my schedule.)"
+            },
+            {
+                "id": "fr-2204",
+                "w": "souffrir",
+                "p": "su.fʁiʁ",
+                "d": "to suffer",
+                "s": "C'est le lot des hommes que de souffrir. (It is man's destiny to suffer.)"
+            },
+            {
+                "id": "fr-2205",
+                "w": "occupée",
+                "p": "ɔ.ky.pe",
+                "d": "busy",
+                "s": "Pourquoi êtes-vous occupée aujourd'hui ? (Why are you busy today?)"
+            },
+            {
+                "id": "fr-2206",
+                "w": "fusil",
+                "p": "fy.zi",
+                "d": "rifle, gun",
+                "s": "Il a pris le fusil puis a visé la cible. (He picked up the rifle and aimed it at the target.)"
+            },
+            {
+                "id": "fr-2207",
+                "w": "gardien",
+                "p": "ɡaʁ.djɛ̃",
+                "d": "guard",
+                "s": "Le gardien de troupeaux entra dans le bar. (The cowboy entered the saloon.)"
+            },
+            {
+                "id": "fr-2208",
+                "w": "déranger",
+                "p": "de.ʁɑ̃.ʒe",
+                "d": "to bother",
+                "s": "Je lui ai demandé de ne pas me déranger. (I asked him not to bother me.)"
+            },
+            {
+                "id": "fr-2209",
+                "w": "verrai",
+                "p": "vɛ.ʁe",
+                "d": "to see",
+                "s": "Je te verrai à neuf heures demain matin. (I'll see you at nine tomorrow morning.)"
+            },
+            {
+                "id": "fr-2210",
+                "w": "fatiguée",
+                "p": "fa.ti.ɡe",
+                "d": "to tire",
+                "s": "Pourquoi es-tu si fatiguée aujourd'hui ? (Why are you so tired today?)"
+            },
+            {
+                "id": "fr-2211",
+                "w": "vote",
+                "p": "vɔt",
+                "d": "vote",
+                "s": "En France, le vote n'est pas obligatoire. (In France, voting isn't mandatory.)"
+            },
+            {
+                "id": "fr-2212",
+                "w": "dégagez",
+                "p": "degaʒe",
+                "d": "to free",
+                "s": "Dégagez simplement d'ici ! (Just get out of here!)"
+            },
+            {
+                "id": "fr-2213",
+                "w": "anciens",
+                "p": "ɑ̃sjɛ̃",
+                "d": "old, former, ex-",
+                "s": "Nous avons enlevé les anciens meubles. (We removed the old furniture.)"
+            },
+            {
+                "id": "fr-2214",
+                "w": "voila",
+                "p": "vwa.la",
+                "d": "to veil",
+                "s": ""
+            },
+            {
+                "id": "fr-2215",
+                "w": "tués",
+                "p": "tɥe",
+                "d": "to kill",
+                "s": "Les poulets ont été tués par un renard. (The chickens were killed by a fox.)"
+            },
+            {
+                "id": "fr-2216",
+                "w": "forcément",
+                "p": "fɔʁ.se.mɑ̃",
+                "d": "inevitably",
+                "s": "Le temps va forcément s'améliorer demain. (The weather is bound to get better tomorrow.)"
+            },
+            {
+                "id": "fr-2217",
+                "w": "cadeaux",
+                "p": "ka.do",
+                "d": "present, gift",
+                "s": "As-tu emballé tous tes cadeaux de Noël ? (Have you wrapped all your Christmas presents?)"
+            },
+            {
+                "id": "fr-2218",
+                "w": "herbe",
+                "p": "ɛʁb",
+                "d": "grass",
+                "s": "Tom est un écrivain en herbe. (Tom is an aspiring writer.)"
+            },
+            {
+                "id": "fr-2219",
+                "w": "menteur",
+                "p": "mɑ̃.tœʁ",
+                "d": "liar",
+                "s": "Quiconque vous a dit cela est un menteur. (Whoever told you that's a liar.)"
+            },
+            {
+                "id": "fr-2220",
+                "w": "vivante",
+                "p": "vivɑ̃t",
+                "d": "alive",
+                "s": "Je ne me suis jamais sentie si vivante. (I've never felt so alive.)"
+            },
+            {
+                "id": "fr-2221",
+                "w": "riches",
+                "p": "ʁiʃ",
+                "d": "rich",
+                "s": "Nous ne sommes pas aussi riches que Tom. (We aren't as rich as Tom.)"
+            },
+            {
+                "id": "fr-2222",
+                "w": "vive",
+                "p": "viv",
+                "d": "any of certain kind of fish",
+                "s": "Une vieille femme est morte brûlée vive. (An old woman was burnt to death.)"
+            },
+            {
+                "id": "fr-2223",
+                "w": "sacrée",
+                "p": "sakʁe",
+                "d": "sacred, holy",
+                "s": "Elle écoute de la musique sacrée. (She listens to religious music.)"
+            },
+            {
+                "id": "fr-2224",
+                "w": "adulte",
+                "p": "a.dylt",
+                "d": "adult",
+                "s": "Je déteste voir un homme adulte pleurer. (I hate to see a grown man cry.)"
+            },
+            {
+                "id": "fr-2225",
+                "w": "siècle",
+                "p": "sjɛkl",
+                "d": "century",
+                "s": "Cette coutume remonte au douzième siècle. (This custom dates back to the 12th century.)"
+            },
+            {
+                "id": "fr-2226",
+                "w": "attente",
+                "p": "a.tɑ̃t",
+                "d": "wait",
+                "s": "Contre toute attente, nous devînmes amis. (Against all expectations, we became good friends.)"
+            },
+            {
+                "id": "fr-2227",
+                "w": "endroits",
+                "p": "ɑ̃.dʁwa",
+                "d": "place, spot",
+                "s": "J'aime les endroits débordant d'activité. (I like busy places.)"
+            },
+            {
+                "id": "fr-2228",
+                "w": "écris",
+                "p": "e.kʁi",
+                "d": "to write",
+                "s": "Écris avec un stylo, non avec un crayon. (Write with a pen, not with a pencil.)"
+            },
+            {
+                "id": "fr-2229",
+                "w": "rapports",
+                "p": "ʁapɔʁ",
+                "d": "ratio",
+                "s": "Tu dois remettre les rapports lundi. (You have to turn in the reports on Monday.)"
+            },
+            {
+                "id": "fr-2230",
+                "w": "piscine",
+                "p": "pi.sin",
+                "d": "swimming pool",
+                "s": "Quelle est la profondeur de la piscine ? (How deep is the pool?)"
+            },
+            {
+                "id": "fr-2231",
+                "w": "rentrez",
+                "p": "ʁɑ̃tʁe",
+                "d": "to go back",
+                "s": "Rentrez votre chemise dans votre pantalon ! (Tuck your shirt in.)"
+            },
+            {
+                "id": "fr-2232",
+                "w": "lendemain",
+                "p": "lɑ̃.d(ə).mɛ̃",
+                "d": "the day after",
+                "s": "Il est devenu riche du jour au lendemain. (He became rich overnight.)"
+            },
+            {
+                "id": "fr-2233",
+                "w": "fumer",
+                "p": "fy.me",
+                "d": "to smoke",
+                "s": "Je ne parviens pas à m'arrêter de fumer. (I can't stop smoking.)"
+            },
+            {
+                "id": "fr-2234",
+                "w": "concours",
+                "p": "kɔ̃.kuʁ",
+                "d": "competition",
+                "s": "Tom gagnait le concours de déguisements. (Tom won the costume contest.)"
+            },
+            {
+                "id": "fr-2235",
+                "w": "ment",
+                "p": "mɑ̃",
+                "d": "to lie",
+                "s": "Il ment comme un arracheur de dents. (He is lying through his teeth.)"
+            },
+            {
+                "id": "fr-2236",
+                "w": "monté",
+                "p": "mɔ̃.te",
+                "d": "to go up, to climb",
+                "s": "Tom est monté sur les montagnes russes. (Tom rode the roller coaster.)"
+            },
+            {
+                "id": "fr-2237",
+                "w": "passait",
+                "p": "pasɛ",
+                "d": "to go past",
+                "s": "Je pris conscience de ce qui se passait. (I realized what was happening.)"
+            },
+            {
+                "id": "fr-2238",
+                "w": "vous-même",
+                "p": "vu.mɛm",
+                "d": "yourself",
+                "s": "Vous pourriez devoir le faire vous-même. (You may have to do that yourselves.)"
+            },
+            {
+                "id": "fr-2239",
+                "w": "inviter",
+                "p": "ɛ̃.vi.te",
+                "d": "to invite",
+                "s": "Vous pouvez inviter d'autres personnes. (You can invite other people.)"
+            },
+            {
+                "id": "fr-2240",
+                "w": "coach",
+                "p": "kotʃ",
+                "d": "coach",
+                "s": "Elle aimait le tennis et devint coach. (She liked tennis and became a tennis coach.)"
+            },
+            {
+                "id": "fr-2241",
+                "w": "fausse",
+                "p": "fos",
+                "d": "false",
+                "s": "Il a utilisé une fausse carte d'identité. (He used a fake I.D.)"
+            },
+            {
+                "id": "fr-2242",
+                "w": "élevé",
+                "p": "el.ve",
+                "d": "high, aloft, perched",
+                "s": "Le prix de cette voiture est très élevé. (The price of this car is very high.)"
+            },
+            {
+                "id": "fr-2243",
+                "w": "chair",
+                "p": "ʃɛʁ",
+                "d": "flesh",
+                "s": "Ma belle-mère me donne la chair de poule. (My mother-in-law gives me the creeps.)"
+            },
+            {
+                "id": "fr-2244",
+                "w": "magique",
+                "p": "ma.ʒik",
+                "d": "magic, magical",
+                "s": "Noël est une période magique de l'année. (Christmas is a magical time of the year.)"
+            },
+            {
+                "id": "fr-2245",
+                "w": "chaîne",
+                "p": "ʃɛn",
+                "d": "chain",
+                "s": "Ça a déclenché une réaction en chaîne. (It started a chain reaction.)"
+            },
+            {
+                "id": "fr-2246",
+                "w": "chèque",
+                "p": "ʃɛk",
+                "d": "cheque",
+                "s": "Dépose ce chèque sur mon compte courant. (Deposit this check in my checking account.)"
+            },
+            {
+                "id": "fr-2247",
+                "w": "réseau",
+                "p": "ʁe.zo",
+                "d": "network",
+                "s": "Comment me connecter à ton réseau wifi ? (How do I connect to your Wi-Fi?)"
+            },
+            {
+                "id": "fr-2248",
+                "w": "enfance",
+                "p": "ɑ̃.fɑ̃s",
+                "d": "childhood",
+                "s": "Nous avons passé notre enfance ensemble. (We were kids together.)"
+            },
+            {
+                "id": "fr-2249",
+                "w": "mensonges",
+                "p": "mɑ̃sɔ̃ʒ",
+                "d": "lie, falsehood",
+                "s": "Je suis fatigué de tous leurs mensonges. (I'm fed up with all their lies.)"
+            },
+            {
+                "id": "fr-2250",
+                "w": "pourrions",
+                "p": "puʁjɔ̃",
+                "d": "can, to be able to",
+                "s": "Je pensais que nous pourrions discuter. (I thought we could talk.)"
+            },
+            {
+                "id": "fr-2251",
+                "w": "choisis",
+                "p": "ʃwa.zi",
+                "d": "to choose",
+                "s": "Choisis n'importe lequel de ces stylos. (Choose any of these pens.)"
+            },
+            {
+                "id": "fr-2252",
+                "w": "taire",
+                "p": "tɛʁ",
+                "d": "to be quiet",
+                "s": "Il ne lui était pas permis de se taire. (He was not allowed to remain silent.)"
+            },
+            {
+                "id": "fr-2253",
+                "w": "inquiet",
+                "p": "ɛ̃.kjɛ",
+                "d": "worried",
+                "s": "Tom était inquiet au sujet de ses notes. (Tom was worried about his grades.)"
+            },
+            {
+                "id": "fr-2254",
+                "w": "enfuir",
+                "p": "ɑ̃.fɥiʁ",
+                "d": "to escape",
+                "s": "Pourquoi avez-vous essayé de vous enfuir ? (Why did you try to run away?)"
+            },
+            {
+                "id": "fr-2255",
+                "w": "bel",
+                "p": "bɛl",
+                "d": "handsome",
+                "s": "Il a trouvé un bel appartement pour Mary. (He found a nice apartment for Mary.)"
+            },
+            {
+                "id": "fr-2256",
+                "w": "profiter",
+                "p": "pʁɔ.fi.te",
+                "d": "to take advantage of",
+                "s": "Quelle chance j'ai de profiter du soleil. (I'm thankful for sunshine.)"
+            },
+            {
+                "id": "fr-2257",
+                "w": "science",
+                "p": "sjɑ̃s",
+                "d": "science",
+                "s": "C'est tout autant un art qu'une science. (It's as much an art as a science.)"
+            },
+            {
+                "id": "fr-2258",
+                "w": "revenue",
+                "p": "ʁəvəny",
+                "d": "income",
+                "s": "Je veux que tu sois revenue aujourd'hui. (I want you back today.)"
+            },
+            {
+                "id": "fr-2259",
+                "w": "billet",
+                "p": "bi.jɛ",
+                "d": "note",
+                "s": "J'ai eu le billet pour trois fois rien. (I got the ticket for nothing.)"
+            },
+            {
+                "id": "fr-2260",
+                "w": "crâne",
+                "p": "kʁan",
+                "d": "skull, cranium",
+                "s": "Ce groupe de rock me file mal au crâne. (That rock band gives me a headache.)"
+            },
+            {
+                "id": "fr-2261",
+                "w": "jaloux",
+                "p": "ʒa.lu",
+                "d": "jealous",
+                "s": "J'avais de bonnes raisons d'être jaloux. (I had good reason to be jealous.)"
+            },
+            {
+                "id": "fr-2262",
+                "w": "tien",
+                "p": "tjɛ̃",
+                "d": "your",
+                "s": "Le mien n'est pas aussi bon que le tien. (Mine isn't as good as yours.)"
+            },
+            {
+                "id": "fr-2263",
+                "w": "arrestation",
+                "p": "a.ʁɛs.ta.sjɔ̃",
+                "d": "arrest",
+                "s": ""
+            },
+            {
+                "id": "fr-2264",
+                "w": "laver",
+                "p": "la.ve",
+                "d": "to wash",
+                "s": "J'aimerais acquérir une machine à laver. (I'd like to buy a washing machine.)"
+            },
+            {
+                "id": "fr-2265",
+                "w": "nuits",
+                "p": "nɥi",
+                "d": "night",
+                "s": "Je vous téléphonerai toutes les nuits. (I'll call you every night.)"
+            },
+            {
+                "id": "fr-2266",
+                "w": "caisse",
+                "p": "kɛs",
+                "d": "box, crate",
+                "s": "Je veux trouver une caisse pour ceci. (I want to find a box for this.)"
+            },
+            {
+                "id": "fr-2267",
+                "w": "scientifique",
+                "p": "sjɑ̃.ti.fik",
+                "d": "scientific",
+                "s": "Quel genre de scientifique êtes-vous ? (What kind of scientist are you?)"
+            },
+            {
+                "id": "fr-2268",
+                "w": "russe",
+                "p": "ʁys",
+                "d": "Russian",
+                "s": "Le bulgare est très similaire au russe. (Bulgarian is very similar to Russian.)"
+            },
+            {
+                "id": "fr-2269",
+                "w": "cris",
+                "p": "kʁi",
+                "d": "cry",
+                "s": "J'entends quelqu'un qui pousse des cris. (I hear some screaming.)"
+            },
+            {
+                "id": "fr-2270",
+                "w": "traité",
+                "p": "tʁɛ.te",
+                "d": "to treat",
+                "s": "Je suis désormais traité par un médecin. (I am now under a doctor's care.)"
+            },
+            {
+                "id": "fr-2271",
+                "w": "attaqué",
+                "p": "a.ta.ke",
+                "d": "to attack",
+                "s": "Le chien a tout à coup attaqué l'enfant. (The dog suddenly attacked the child.)"
+            },
+            {
+                "id": "fr-2272",
+                "w": "montez",
+                "p": "mɔ̃te",
+                "d": "to go up, to climb",
+                "s": "Montez dans la voiture, s'il vous plaît. (Get in the car, please.)"
+            },
+            {
+                "id": "fr-2273",
+                "w": "promesse",
+                "p": "pʁɔ.mɛs",
+                "d": "promise",
+                "s": "Elle n'a pas réussi à tenir sa promesse. (She failed to keep her promise.)"
+            },
+            {
+                "id": "fr-2274",
+                "w": "sénateur",
+                "p": "se.na.tœʁ",
+                "d": "senator",
+                "s": "Il avait servi comme député et sénateur. (He had served as a congressman and senator.)"
+            },
+            {
+                "id": "fr-2275",
+                "w": "blessures",
+                "p": "ble.syʁ",
+                "d": "wound",
+                "s": "Le conducteur a subi plusieurs blessures. (The driver sustained multiple injuries.)"
+            },
+            {
+                "id": "fr-2276",
+                "w": "sucre",
+                "p": "sykʁ",
+                "d": "sugar",
+                "s": "Puis-je avoir le sucre, s'il vous plaît? (Can I have the sugar, please?)"
+            },
+            {
+                "id": "fr-2277",
+                "w": "murs",
+                "p": "myʁ",
+                "d": "wall",
+                "s": "Les murs étaient peints de couleur ocre. (The walls were painted light brown.)"
+            },
+            {
+                "id": "fr-2278",
+                "w": "attrape",
+                "p": "a.tʁap",
+                "d": "to trap",
+                "s": "Attrape ta guitare et joue nous un morceau. (Pick up your guitar and play us a tune.)"
+            },
+            {
+                "id": "fr-2279",
+                "w": "représente",
+                "p": "ʁəpʁezɑ̃t",
+                "d": "to represent",
+                "s": "Je vois le danger que cela représente. (I see how dangerous it is.)"
+            },
+            {
+                "id": "fr-2280",
+                "w": "esprits",
+                "p": "ɛspʁi",
+                "d": "immaterial or incorporeal substance",
+                "s": "Attends ! Laisse-moi rassembler mes esprits ! (Hold on. Just let me collect my thoughts.)"
+            },
+            {
+                "id": "fr-2281",
+                "w": "cloche",
+                "p": "klɔʃ",
+                "d": "to ring a bell",
+                "s": "Il y a quelque chose qui cloche vraiment. (Something is very wrong.)"
+            },
+            {
+                "id": "fr-2282",
+                "w": "réputation",
+                "p": "ʁe.py.ta.sjɔ̃",
+                "d": "reputation",
+                "s": "Cette entreprise a une bonne réputation. (That firm has a good reputation.)"
+            },
+            {
+                "id": "fr-2283",
+                "w": "étudier",
+                "p": "e.ty.dje",
+                "d": "to study",
+                "s": "Nous sommes trop fatiguées pour étudier. (We're too tired to study.)"
+            },
+            {
+                "id": "fr-2284",
+                "w": "trompe",
+                "p": "tʁɔ̃p",
+                "d": "to trick, dupe",
+                "s": "Pour le dire brutalement, il se trompe. (To put it bluntly, he's mistaken.)"
+            },
+            {
+                "id": "fr-2285",
+                "w": "chute",
+                "p": "ʃyt",
+                "d": "fall",
+                "s": "Les prix des maisons sont en chute libre. (Home prices are plummeting.)"
+            },
+            {
+                "id": "fr-2286",
+                "w": "demi",
+                "p": "də.mi",
+                "d": "half",
+                "s": "Il y a un an et demi, j'ai failli mourir. (I almost died a year and a half ago.)"
+            },
+            {
+                "id": "fr-2287",
+                "w": "devra",
+                "p": "də.vʁa",
+                "d": "must",
+                "s": "Elle devra cuisiner pour tout le monde. (She will have to cook for everyone.)"
+            },
+            {
+                "id": "fr-2288",
+                "w": "plainte",
+                "p": "plɛ̃t",
+                "d": "to pity",
+                "s": "Aucune plainte officielle n'a été déposée. (No official complaint was filed.)"
+            },
+            {
+                "id": "fr-2289",
+                "w": "grand-chose",
+                "p": "ɡʁɑ̃.ʃoz",
+                "d": "a big deal",
+                "s": "On n'a pas fait grand-chose aujourd'hui. (We didn't do much today.)"
+            },
+            {
+                "id": "fr-2290",
+                "w": "sorcière",
+                "p": "sɔʁ.sjɛʁ",
+                "d": "witch, sorceress",
+                "s": "Tom est un sorcier et Marie est une sorcière. (Tom is a warlock and Mary is a witch.)"
+            },
+            {
+                "id": "fr-2291",
+                "w": "venant",
+                "p": "və.nɑ̃",
+                "d": "to come",
+                "s": "Je suis tombé sur un vieil ami en venant ici. (I bumped into an old friend on my way here.)"
+            },
+            {
+                "id": "fr-2292",
+                "w": "tenue",
+                "p": "tə.ny",
+                "d": "maintenance, upkeep",
+                "s": "As-tu une tenue pour la pluie, avec toi ? (Do you have rain gear with you?)"
+            },
+            {
+                "id": "fr-2293",
+                "w": "journaliste",
+                "p": "ʒuʁ.na.list",
+                "d": "a journalist",
+                "s": "Je me suis décidé à devenir journaliste. (I've made up my mind to become a journalist.)"
+            },
+            {
+                "id": "fr-2294",
+                "w": "soyons",
+                "p": "swa.jɔ̃",
+                "d": "to be",
+                "s": "Il a demandé que nous soyons silencieux. (He asked that we be silent.)"
+            },
+            {
+                "id": "fr-2295",
+                "w": "chouette",
+                "p": "ʃwɛt",
+                "d": "great, cool, swell",
+                "s": "Nous séjournâmes dans un chouette hôtel. (We stayed at a nice hotel.)"
+            },
+            {
+                "id": "fr-2296",
+                "w": "karen",
+                "p": "kaʁɛn",
+                "d": "Karen",
+                "s": ""
+            },
+            {
+                "id": "fr-2297",
+                "w": "aurons",
+                "p": "ɔ.ʁɔ̃",
+                "d": "to have",
+                "s": "Nous aurons besoin de ceci pour survivre. (We will need this to survive.)"
+            },
+            {
+                "id": "fr-2298",
+                "w": "avocats",
+                "p": "a.vɔ.ka",
+                "d": "lawyer, attorney",
+                "s": "Les avocats gagnent beaucoup d'argent. (Lawyers make a lot of money.)"
+            },
+            {
+                "id": "fr-2299",
+                "w": "cherchais",
+                "p": "ʃɛʁ.ʃɛ",
+                "d": "to look for, to seek",
+                "s": "J'ai trouvé le tableau que tu cherchais. (I found the picture you were looking for.)"
+            },
+            {
+                "id": "fr-2300",
+                "w": "surveille",
+                "p": "syʁ.vɛj",
+                "d": "to monitor",
+                "s": "Surveille l'enfant pour moi un moment. (Keep an eye on the child for me for a moment.)"
+            },
+            {
+                "id": "fr-2301",
+                "w": "département",
+                "p": "de.paʁ.tə.mɑ̃",
+                "d": "department",
+                "s": "Notre département est en sous-effectif. (Our department is understaffed.)"
+            },
+            {
+                "id": "fr-2302",
+                "w": "abandonne",
+                "p": "a.bɑ̃.dɔn",
+                "d": "to give up",
+                "s": "Si tu n'es pas satisfait, abandonne ! (If you're not happy, quit.)"
+            },
+            {
+                "id": "fr-2303",
+                "w": "prendrai",
+                "p": "pʁɑ̃dʁɛ",
+                "d": "to take",
+                "s": "Quoi qu'il arrive, je prendrai le risque. (Anyway, I'll take a chance.)"
+            },
+            {
+                "id": "fr-2304",
+                "w": "peinture",
+                "p": "pɛ̃.tyʁ",
+                "d": "painting",
+                "s": "Tom a du talent pour la peinture moderne. (Tom has a talent for modern painting.)"
+            },
+            {
+                "id": "fr-2305",
+                "w": "refaire",
+                "p": "ʁə.fɛʁ",
+                "d": "to redo",
+                "s": "Je te prie de ne plus jamais refaire ça. (Please don't ever do that again.)"
+            },
+            {
+                "id": "fr-2306",
+                "w": "honnêtement",
+                "p": "ɔ.nɛt.mɑ̃",
+                "d": "honestly",
+                "s": "Honnêtement, je préfèrerais me tromper. (Honestly, I'd rather be wrong.)"
+            },
+            {
+                "id": "fr-2307",
+                "w": "opinion",
+                "p": "ɔ.pi.njɔ̃",
+                "d": "opinion",
+                "s": "Mon opinion est différente de la sienne. (My opinion differs from hers.)"
+            },
+            {
+                "id": "fr-2308",
+                "w": "geste",
+                "p": "ʒɛst",
+                "d": "gesture",
+                "s": "Je voulais juste faire un geste. (I just wanted to make a gesture.)"
+            },
+            {
+                "id": "fr-2309",
+                "w": "gaffe",
+                "p": "ɡaf",
+                "d": "gaffe",
+                "s": "Fais gaffe aux voleurs dans le coin. (Watch out for thieves around here.)"
+            },
+            {
+                "id": "fr-2310",
+                "w": "empire",
+                "p": "ɑ̃.piʁ",
+                "d": "empire",
+                "s": "D'année en année, la pollution empire. (From year to year, pollution is worsening.)"
+            },
+            {
+                "id": "fr-2311",
+                "w": "aient",
+                "p": "ɛ",
+                "d": "to have",
+                "s": "Je ne pense pas qu'ils aient fait ceci. (I don't think they did this.)"
+            },
+            {
+                "id": "fr-2312",
+                "w": "pizza",
+                "p": "pid.za",
+                "d": "pizza",
+                "s": "On est sorti manger une pizza hier soir. (We went out for a pizza last night.)"
+            },
+            {
+                "id": "fr-2313",
+                "w": "seriez",
+                "p": "sə.ʁje",
+                "d": "to be",
+                "s": "Je pensais que vous seriez plus vieille. (I thought you'd be older.)"
+            },
+            {
+                "id": "fr-2314",
+                "w": "fan",
+                "p": "fan",
+                "d": "fan",
+                "s": "Tom n'est pas un grand fan de football. (Tom isn't a huge football fan.)"
+            },
+            {
+                "id": "fr-2315",
+                "w": "poitrine",
+                "p": "pwa.tʁin",
+                "d": "chest, thorax, torso",
+                "s": "J'ai une douleur aiguë dans la poitrine. (I have a sharp pain in my chest.)"
+            },
+            {
+                "id": "fr-2316",
+                "w": "médecins",
+                "p": "mɛdsɛ̃",
+                "d": "physician",
+                "s": "Tom ne fait pas confiance aux médecins. (Tom doesn't trust doctors.)"
+            },
+            {
+                "id": "fr-2317",
+                "w": "remonte",
+                "p": "ʁəmɔ̃t",
+                "d": "to go back up",
+                "s": "À quand remonte vos dernières vacances ? (When was the last time you had a vacation?)"
+            },
+            {
+                "id": "fr-2318",
+                "w": "aventure",
+                "p": "a.vɑ̃.tyʁ",
+                "d": "adventure",
+                "s": "Je savais que cela allait être une aventure. (I knew it would be an adventure.)"
+            },
+            {
+                "id": "fr-2319",
+                "w": "réglé",
+                "p": "ʁegle",
+                "d": "to sort out",
+                "s": "Le problème est pour ainsi dire réglé. (The problem is as good as settled.)"
+            },
+            {
+                "id": "fr-2320",
+                "w": "mac",
+                "p": "mak",
+                "d": "clipping of Macintosh",
+                "s": ""
+            },
+            {
+                "id": "fr-2321",
+                "w": "barre",
+                "p": "baʁ",
+                "d": "bar, cake, ingot",
+                "s": "Il peut tordre une barre de fer de ses mains. (He can bend an iron rod with his hands.)"
+            },
+            {
+                "id": "fr-2322",
+                "w": "foyer",
+                "p": "fwa.je",
+                "d": "hearth",
+                "s": "Un foyer est plus qu'un simple bâtiment. (A home is more than a mere building.)"
+            },
+            {
+                "id": "fr-2323",
+                "w": "jean",
+                "p": "dʒin",
+                "d": "a pair of jeans",
+                "s": "Tom et Marie sont en colère contre Jean. (Tom and Mary are mad at John.)"
+            },
+            {
+                "id": "fr-2324",
+                "w": "amuse",
+                "p": "a.myz",
+                "d": "to amuse",
+                "s": "Ça vous amuse ? (Are you amused?)"
+            },
+            {
+                "id": "fr-2325",
+                "w": "mener",
+                "p": "mə.ne",
+                "d": "to lead, to take",
+                "s": "Je veux simplement mener une vie normale. (I just want to live a normal life.)"
+            },
+            {
+                "id": "fr-2326",
+                "w": "uniforme",
+                "p": "y.ni.fɔʁm",
+                "d": "a uniform",
+                "s": "Tom portait un uniforme de concierge. (Tom was wearing a janitor's uniform.)"
+            },
+            {
+                "id": "fr-2327",
+                "w": "cauchemar",
+                "p": "kɔʃ.maʁ",
+                "d": "nightmare",
+                "s": "J'ai fait un cauchemar la nuit dernière. (I had a nightmare last night.)"
+            },
+            {
+                "id": "fr-2328",
+                "w": "soupe",
+                "p": "sup",
+                "d": "soup",
+                "s": "Est-ce que la soupe est encore chaude ? (Is the soup still hot?)"
+            },
+            {
+                "id": "fr-2329",
+                "w": "intelligente",
+                "p": "ɛ̃.tɛ.li.ʒɑ̃t",
+                "d": "intelligent",
+                "s": "C'est une jeune femme très intelligente. (She is a very intelligent young lady.)"
+            },
+            {
+                "id": "fr-2330",
+                "w": "jus",
+                "p": "ʒy",
+                "d": "juice",
+                "s": "Quel genre de jus de fruit avez-vous ? (What kind of fruit juice do you have?)"
+            },
+            {
+                "id": "fr-2331",
+                "w": "prêtre",
+                "p": "pʁɛtʁ",
+                "d": "priest",
+                "s": "Le prêtre prit la place de l'homme malade. (The priest took the sick man's place.)"
+            },
+            {
+                "id": "fr-2332",
+                "w": "trompé",
+                "p": "tʁɔ̃pe",
+                "d": "to trick, dupe",
+                "s": "Désolé, vous vous êtes trompé de numéro. (Sorry, you have the wrong number.)"
+            },
+            {
+                "id": "fr-2333",
+                "w": "corde",
+                "p": "kɔʁd",
+                "d": "rope",
+                "s": "Je veux un couteau pour couper la corde. (I want a knife to cut the rope with.)"
+            },
+            {
+                "id": "fr-2334",
+                "w": "champion",
+                "p": "ʃɑ̃.pjɔ̃",
+                "d": "champion",
+                "s": "C'est un champion du monde en puissance. (He is a potential world champion.)"
+            },
+            {
+                "id": "fr-2335",
+                "w": "somme",
+                "p": "sɔm",
+                "d": "sum",
+                "s": "Je ne serais pas contre un petit somme. (I could use a little sleep.)"
+            },
+            {
+                "id": "fr-2336",
+                "w": "conférence",
+                "p": "kɔ̃.fe.ʁɑ̃s",
+                "d": "conference",
+                "s": "Sa conférence commença à l'heure prévue. (His lecture started on time.)"
+            },
+            {
+                "id": "fr-2337",
+                "w": "commissaire",
+                "p": "kɔ.mi.sɛʁ",
+                "d": "commissioner",
+                "s": ""
+            },
+            {
+                "id": "fr-2338",
+                "w": "répondez",
+                "p": "ʁe.pɔ̃.de",
+                "d": "to reply, to answer",
+                "s": "Répondez au téléphone, s'il vous plaît. (Answer the phone, please.)"
+            },
+            {
+                "id": "fr-2339",
+                "w": "attrapé",
+                "p": "a.tʁa.pe",
+                "d": "to trap",
+                "s": "J'ai attrapé trois poissons aujourd'hui. (I caught three fish today.)"
+            },
+            {
+                "id": "fr-2340",
+                "w": "racontes",
+                "p": "ʁakɔ̃t",
+                "d": "to recount",
+                "s": "Tu racontes cette histoire ou c'est moi ? (Are you telling this story or am I?)"
+            },
+            {
+                "id": "fr-2341",
+                "w": "deviner",
+                "p": "də.vi.ne",
+                "d": "to guess",
+                "s": "Ne me le dis pas ! Laisse-moi deviner ! (Don't tell me. Let me guess.)"
+            },
+            {
+                "id": "fr-2342",
+                "w": "recommencer",
+                "p": "ʁə.kɔ.mɑ̃.se",
+                "d": "to restart",
+                "s": "Tom te conseille de ne plus recommencer. (Tom recommends that you not do that again.)"
+            },
+            {
+                "id": "fr-2343",
+                "w": "complet",
+                "p": "kɔ̃.plɛ",
+                "d": "full",
+                "s": "Je porte un complet, mais pas de cravate. (I wear a suit, but not a tie.)"
+            },
+            {
+                "id": "fr-2344",
+                "w": "crimes",
+                "p": "kʁim",
+                "d": "a category of severe offences within French law",
+                "s": "Elles ont été punies pour leurs crimes. (They were punished for their crimes.)"
+            },
+            {
+                "id": "fr-2345",
+                "w": "crème",
+                "p": "kʁɛm",
+                "d": "cream",
+                "s": "Ajoutez un peu de sucre et de la crème. (Add a little sugar and cream.)"
+            },
+            {
+                "id": "fr-2346",
+                "w": "construit",
+                "p": "kɔ̃s.tʁɥi",
+                "d": "to build",
+                "s": "Quand avez-vous construit votre maison ? (When did you build your house?)"
+            },
+            {
+                "id": "fr-2347",
+                "w": "excusez",
+                "p": "ɛk.sky.ze",
+                "d": "to excuse",
+                "s": "Excusez ma rudesse, s'il vous plaît. (Please excuse me for being rude.)"
+            },
+            {
+                "id": "fr-2348",
+                "w": "entraînement",
+                "p": "ɑ̃.tʁɛn.mɑ̃",
+                "d": "training",
+                "s": "Aucun entraînement formel n'est requis. (No formal training is required.)"
+            },
+            {
+                "id": "fr-2349",
+                "w": "centaines",
+                "p": "sɑ̃.tɛn",
+                "d": "a hundred or so",
+                "s": "Des centaines d'animaux ont été tués. (Hundreds of animals were killed.)"
+            },
+            {
+                "id": "fr-2350",
+                "w": "calmer",
+                "p": "kal.me",
+                "d": "to calm",
+                "s": "Il a essayé de calmer l'homme en colère. (He tried to soothe the angry man.)"
+            },
+            {
+                "id": "fr-2351",
+                "w": "joueur",
+                "p": "ʒwœʁ",
+                "d": "player",
+                "s": "Son frère est un joueur de foot célèbre. (His brother is a famous soccer player.)"
+            },
+            {
+                "id": "fr-2352",
+                "w": "couloir",
+                "p": "ku.lwaʁ",
+                "d": "corridor, hallway",
+                "s": "La salle de bain est au bout du couloir. (The bathroom is at the end of the hall.)"
+            },
+            {
+                "id": "fr-2353",
+                "w": "horreur",
+                "p": "ɔ.ʁœʁ",
+                "d": "horror",
+                "s": "J'ai horreur de l'éclairage fluorescent. (I hate fluorescent lighting.)"
+            },
+            {
+                "id": "fr-2354",
+                "w": "propriété",
+                "p": "pʁɔ.pʁi.je.te",
+                "d": "property",
+                "s": "Vous êtes dans une propriété privée, ici. (You're trespassing here.)"
+            },
+            {
+                "id": "fr-2355",
+                "w": "admettre",
+                "p": "ad.mɛtʁ",
+                "d": "to admit",
+                "s": "Je dois admettre que je suis intéressée. (I have to admit I'm interested.)"
+            },
+            {
+                "id": "fr-2356",
+                "w": "matériel",
+                "p": "ma.te.ʁjɛl",
+                "d": "equipment, supplies",
+                "s": "Elle rassemble du matériel pour un livre. (She's collecting material for a book.)"
+            },
+            {
+                "id": "fr-2357",
+                "w": "verrez",
+                "p": "vɛ.ʁe",
+                "d": "to see",
+                "s": "Vous le reconnaîtrez quand vous le verrez. (You'll recognize it when you see it.)"
+            },
+            {
+                "id": "fr-2358",
+                "w": "foule",
+                "p": "ful",
+                "d": "crowd",
+                "s": "Il s'est rapidement fondu dans la foule. (He lost himself quickly in the crowd.)"
+            },
+            {
+                "id": "fr-2359",
+                "w": "réaction",
+                "p": "ʁe.ak.sjɔ̃",
+                "d": "reaction",
+                "s": "Tom fut surpris de la réaction de Mary. (Tom was surprised by Mary's reaction.)"
+            },
+            {
+                "id": "fr-2360",
+                "w": "ennuie",
+                "p": "ɑ̃nɥi",
+                "d": "to afflict with boredom",
+                "s": "J'espère que ça ne vous ennuie pas. (I hope you don't mind.)"
+            },
+            {
+                "id": "fr-2361",
+                "w": "laura",
+                "p": "lɔ.ʁa",
+                "d": "to crown",
+                "s": ""
+            },
+            {
+                "id": "fr-2362",
+                "w": "pub",
+                "p": "pyb",
+                "d": "Television ad or advert",
+                "s": "Ma femme travaille dans un pub à côté. (My wife works in a nearby pub.)"
+            },
+            {
+                "id": "fr-2363",
+                "w": "hiver",
+                "p": "i.vɛʁ",
+                "d": "winter",
+                "s": "Nous avons eu un hiver doux l'an dernier. (We had a mild winter last year.)"
+            },
+            {
+                "id": "fr-2364",
+                "w": "manteau",
+                "p": "mɑ̃.to",
+                "d": "coat",
+                "s": "Je pense que ce manteau doit vous aller. (I think this coat should fit you.)"
+            },
+            {
+                "id": "fr-2365",
+                "w": "pis",
+                "p": "pi",
+                "d": "worse",
+                "s": "Les choses semblent aller de mal en pis. (Things seem to be getting worse and worse.)"
+            },
+            {
+                "id": "fr-2366",
+                "w": "débile",
+                "p": "de.bil",
+                "d": "weak",
+                "s": "Je veux que tu abandonnes ce plan débile. (I want you to give up this stupid plan.)"
+            },
+            {
+                "id": "fr-2367",
+                "w": "trouverai",
+                "p": "tʁuvəʁɛ",
+                "d": "to find",
+                "s": "Je trouverai mon propre chemin de retour. (I'll find my own way back.)"
+            },
+            {
+                "id": "fr-2368",
+                "w": "conseiller",
+                "p": "kɔ̃.sɛ.je",
+                "d": "counsellor, advisor",
+                "s": "Il n'a pas d'amis pour le conseiller. (He has no friends to advise him.)"
+            },
+            {
+                "id": "fr-2369",
+                "w": "humanité",
+                "p": "y.ma.ni.te",
+                "d": "humanity",
+                "s": ""
+            },
+            {
+                "id": "fr-2370",
+                "w": "studio",
+                "p": "sty.djo",
+                "d": "studio",
+                "s": "Notre studio est toujours situé sur la rue Park. (Our studio is still located on Park Street.)"
+            },
+            {
+                "id": "fr-2371",
+                "w": "lapin",
+                "p": "la.pɛ̃",
+                "d": "rabbit",
+                "s": "J'ai un lapin comme animal de compagnie. (I keep a rabbit as a pet.)"
+            },
+            {
+                "id": "fr-2372",
+                "w": "désert",
+                "p": "de.zɛʁ",
+                "d": "desert",
+                "s": "Je n'ai jamais vu cet endroit si désert. (I've never seen this place so empty.)"
+            },
+            {
+                "id": "fr-2373",
+                "w": "combattre",
+                "p": "kɔ̃.batʁ",
+                "d": "to fight, to combat",
+                "s": "Il nous faut combattre le feu avec le feu. (We've got to fight fire with fire!)"
+            },
+            {
+                "id": "fr-2374",
+                "w": "boutique",
+                "p": "bu.tik",
+                "d": "shop",
+                "s": "Avez-vous une boutique de cadeaux ici ? (Do you have a gift shop here?)"
+            },
+            {
+                "id": "fr-2375",
+                "w": "fonds",
+                "p": "fɔ̃",
+                "d": "fund, funds",
+                "s": "Je n'ai pas de fonds à la banque. (I have no funds in the bank.)"
+            },
+            {
+                "id": "fr-2376",
+                "w": "voient",
+                "p": "vwa",
+                "d": "to see",
+                "s": "Les cicatrices ne se voient presque pas. (The scars are barely visible.)"
+            },
+            {
+                "id": "fr-2377",
+                "w": "reviendrai",
+                "p": "ʁəvjɛ̃dʁɛ",
+                "d": "to come back",
+                "s": "Je ne sais pas trop quand je reviendrai. (I'm not sure when I'll be back.)"
+            },
+            {
+                "id": "fr-2378",
+                "w": "ramené",
+                "p": "ʁaməne",
+                "d": "to take back",
+                "s": "L'avez-vous ramené à votre appartement ? (Did you take him back to your apartment?)"
+            },
+            {
+                "id": "fr-2379",
+                "w": "discussion",
+                "p": "dis.ky.sjɔ̃",
+                "d": "debate, argument",
+                "s": "Nous avons eu une très longue discussion. (We had a very long talk.)"
+            },
+            {
+                "id": "fr-2380",
+                "w": "connaissait",
+                "p": "kɔ.nɛ.sɛ",
+                "d": "to know",
+                "s": "Tom a dit qu'il ne vous connaissait pas. (Tom said he didn't know you.)"
+            },
+            {
+                "id": "fr-2381",
+                "w": "fiancée",
+                "p": "fjɑ̃.se",
+                "d": "a fiancée",
+                "s": "La jeune fille en blanc est ma fiancée. (The girl who is dressed in white is my fiancée.)"
+            },
+            {
+                "id": "fr-2382",
+                "w": "remonter",
+                "p": "ʁə.mɔ̃.te",
+                "d": "to go back up",
+                "s": "Nous essayâmes de lui remonter le moral. (We tried to cheer him up.)"
+            },
+            {
+                "id": "fr-2383",
+                "w": "incendie",
+                "p": "ɛ̃.sɑ̃.di",
+                "d": "fire",
+                "s": "Soudain, l'alarme incendie se déclencha. (All of a sudden, the fire alarm went off.)"
+            },
+            {
+                "id": "fr-2384",
+                "w": "arbres",
+                "p": "aʁbʁ",
+                "d": "tree",
+                "s": "Les oiseaux volent au-dessus des arbres. (Birds are flying above the trees.)"
+            },
+            {
+                "id": "fr-2385",
+                "w": "conseils",
+                "p": "kɔ̃.sɛj",
+                "d": "piece of advice",
+                "s": "Il a eu le culot d'ignorer mes conseils. (He had the gall to ignore my advice.)"
+            },
+            {
+                "id": "fr-2386",
+                "w": "géniale",
+                "p": "ʒe.njal",
+                "d": "ingenious",
+                "s": "Je trouvais que c'était une idée géniale. (I thought it was a great idea.)"
+            },
+            {
+                "id": "fr-2387",
+                "w": "messages",
+                "p": "mesaʒ",
+                "d": "message",
+                "s": "Ne vérifies-tu pas tes messages vocaux ? (Don't you check your voice mail?)"
+            },
+            {
+                "id": "fr-2388",
+                "w": "ex",
+                "p": "ɛks",
+                "d": "ex",
+                "s": "Je retourne avec mon ex petite copine. (I'm getting back together with my ex-girlfriend.)"
+            },
+            {
+                "id": "fr-2389",
+                "w": "surface",
+                "p": "syʁ.fas",
+                "d": "surface",
+                "s": "Le sous-marin est remonté à la surface. (The submarine has surfaced.)"
+            },
+            {
+                "id": "fr-2390",
+                "w": "appellent",
+                "p": "a.pɛl",
+                "d": "to call",
+                "s": "Les temps exceptionnels appellent des mesures exceptionnelles. (Drastic times call for drastic measures.)"
+            },
+            {
+                "id": "fr-2391",
+                "w": "atteint",
+                "p": "a.tɛ̃",
+                "d": "to attain",
+                "s": "L'indice boursier a atteint des sommets. (The stock price index soared to an all-time high.)"
+            },
+            {
+                "id": "fr-2392",
+                "w": "recommence",
+                "p": "ʁəkomɑ̃s",
+                "d": "to restart",
+                "s": "Je recommence à travailler. (I'm working again.)"
+            },
+            {
+                "id": "fr-2393",
+                "w": "curieux",
+                "p": "ky.ʁjø",
+                "d": "curious",
+                "s": "Il était curieux de voir à l'intérieur. (He was curious to see the inside.)"
+            },
+            {
+                "id": "fr-2394",
+                "w": "ascenseur",
+                "p": "a.sɑ̃.sœʁ",
+                "d": "lift, elevator",
+                "s": "Y a-t-il un ascenseur dans cet immeuble ? (Is there an elevator in this building?)"
+            },
+            {
+                "id": "fr-2395",
+                "w": "mars",
+                "p": "maʁs",
+                "d": "March",
+                "s": "On dit qu'il n'y a pas de vie sur Mars. (It is said that there is no life on Mars.)"
+            },
+            {
+                "id": "fr-2396",
+                "w": "apprend",
+                "p": "a.pʁɑ̃",
+                "d": "to learn",
+                "s": "C'est comme ça qu'elle apprend l'anglais. (That is how she learns English.)"
+            },
+            {
+                "id": "fr-2397",
+                "w": "abri",
+                "p": "a.bʁi",
+                "d": "a shelter or refuge against the elements or physical danger",
+                "s": "L'auvent offre un abri contre la pluie. (The awning provides shelter from the rain.)"
+            },
+            {
+                "id": "fr-2398",
+                "w": "larmes",
+                "p": "laʁm",
+                "d": "tear",
+                "s": "J'ai été émue aux larmes par l'histoire. (I was moved to tears by the story.)"
+            },
+            {
+                "id": "fr-2399",
+                "w": "impliqué",
+                "p": "ɛ̃plike",
+                "d": "to implicate",
+                "s": "Il admet être impliqué dans le scandale. (He admits being involved in the scandal.)"
+            },
+            {
+                "id": "fr-2400",
+                "w": "répéter",
+                "p": "ʁe.pe.te",
+                "d": "to repeat",
+                "s": "Pouvez-vous répéter ce que vous avez dit? (Can you repeat what you said?)"
+            },
+            {
+                "id": "fr-2401",
+                "w": "pardonner",
+                "p": "paʁ.dɔ.ne",
+                "d": "to pardon, forgive",
+                "s": "Se tromper est humain, pardonner, divin. (To err is human, to forgive divine.)"
+            },
+            {
+                "id": "fr-2402",
+                "w": "donnerai",
+                "p": "dɔn.ʁe",
+                "d": "to give",
+                "s": "Je vous donnerai un ordinateur portable. (I'll give you a laptop.)"
+            },
+            {
+                "id": "fr-2403",
+                "w": "soi",
+                "p": "swa",
+                "d": "direct",
+                "s": "On n'est jamais aussi bien que chez soi. (Be it ever so humble, there's no place like home.)"
+            },
+            {
+                "id": "fr-2404",
+                "w": "marine",
+                "p": "ma.ʁin",
+                "d": "maritime",
+                "s": "Tom s'engagea finalement dans la Marine. (Tom eventually joined the navy.)"
+            },
+            {
+                "id": "fr-2405",
+                "w": "cadavre",
+                "p": "ka.davʁ",
+                "d": "corpse, cadaver",
+                "s": "Une lettre a été trouvée près du cadavre. (A letter was found next to the dead body.)"
+            },
+            {
+                "id": "fr-2406",
+                "w": "front",
+                "p": "fʁɔ̃",
+                "d": "forehead",
+                "s": "Un front d'air froid a envahi l'Europe. (A cold front swept over Europe.)"
+            },
+            {
+                "id": "fr-2407",
+                "w": "uniquement",
+                "p": "y.nik.mɑ̃",
+                "d": "uniquely",
+                "s": "Puis-je acheter uniquement les lentilles ? (Can I buy only the lenses?)"
+            },
+            {
+                "id": "fr-2408",
+                "w": "traîner",
+                "p": "tʁɛ.ne",
+                "d": "to pull, drag",
+                "s": "Tom est un mec super sympa avec qui traîner. (Tom's a great guy to hang out with.)"
+            },
+            {
+                "id": "fr-2409",
+                "w": "rare",
+                "p": "ʁaʁ",
+                "d": "rare",
+                "s": "Ce genre de chose est rare de nos jours. (That kind of thing is rare these days.)"
+            },
+            {
+                "id": "fr-2410",
+                "w": "permet",
+                "p": "pɛʁ.mɛ",
+                "d": "to permit, to allow",
+                "s": "Cette porte permet d'accéder au jardin. (This gate allows access to the garden.)"
+            },
+            {
+                "id": "fr-2411",
+                "w": "parking",
+                "p": "paʁ.kiŋ",
+                "d": "car park",
+                "s": "Une voiture garée dans le parking brûle. (A car in the parking lot is on fire.)"
+            },
+            {
+                "id": "fr-2412",
+                "w": "morceaux",
+                "p": "mɔʁ.so",
+                "d": "piece",
+                "s": "Le verre s'est brisé en petits morceaux. (The glass broke to pieces.)"
+            },
+            {
+                "id": "fr-2413",
+                "w": "réussir",
+                "p": "ʁe.y.siʁ",
+                "d": "to manage to do something",
+                "s": "Ça a vraiment peu de chances de réussir. (That's a real long shot.)"
+            },
+            {
+                "id": "fr-2414",
+                "w": "empêche",
+                "p": "ɑ̃.pɛʃ",
+                "d": "to stop",
+                "s": "Qu'est-ce qui vous empêche de le faire ? (What's stopping you from doing that?)"
+            },
+            {
+                "id": "fr-2415",
+                "w": "traversé",
+                "p": "tʁavɛʁse",
+                "d": "to cross",
+                "s": "Ils ont traversé la frontière espagnole. (They crossed the border into Spain.)"
+            },
+            {
+                "id": "fr-2416",
+                "w": "américaine",
+                "p": "a.me.ʁi.kɛn",
+                "d": "of or pertaining to America",
+                "s": "La littérature américaine m'intéresse. (I am interested in American literature.)"
+            },
+            {
+                "id": "fr-2417",
+                "w": "décide",
+                "p": "de.sid",
+                "d": "to decide",
+                "s": "Il faut que je décide quoi faire. (I must decide what to do.)"
+            },
+            {
+                "id": "fr-2418",
+                "w": "doué",
+                "p": "dwe",
+                "d": "to endow",
+                "s": "Il n'est pas doué pour retenir les noms. (He's not good at remembering names.)"
+            },
+            {
+                "id": "fr-2419",
+                "w": "gloire",
+                "p": "ɡlwaʁ",
+                "d": "glory",
+                "s": "À vaincre sans péril, on triomphe sans gloire. (Nothing ventured, nothing gained.)"
+            },
+            {
+                "id": "fr-2420",
+                "w": "gang",
+                "p": "ɡɑ̃ɡ",
+                "d": "gang",
+                "s": "Les flics cherchent la planque du gang. (The cops are looking for the gang's hideout.)"
+            },
+            {
+                "id": "fr-2421",
+                "w": "communauté",
+                "p": "kɔ.my.no.te",
+                "d": "community",
+                "s": "Tom était bien connu dans la communauté. (Tom was well-known in the community.)"
+            },
+            {
+                "id": "fr-2422",
+                "w": "plaisantes",
+                "p": "plɛzɑ̃t",
+                "d": "to joke",
+                "s": "J'espère vraiment que tu plaisantes. (I really hope you're kidding.)"
+            },
+            {
+                "id": "fr-2423",
+                "w": "déclaration",
+                "p": "de.kla.ʁa.sjɔ̃",
+                "d": "declaration",
+                "s": "Tom a signé une déclaration sous serment. (Tom signed an affidavit.)"
+            },
+            {
+                "id": "fr-2424",
+                "w": "portait",
+                "p": "pɔʁtɛ",
+                "d": "to carry",
+                "s": "La fille portait un grand chapeau rouge. (The girl had a large red hat on.)"
+            },
+            {
+                "id": "fr-2425",
+                "w": "croient",
+                "p": "kʁwa",
+                "d": "to believe",
+                "s": "Il y a des gens qui croient aux fantômes. (Some people believe in ghosts.)"
+            },
+            {
+                "id": "fr-2426",
+                "w": "projets",
+                "p": "pʁoʒɛ",
+                "d": "project",
+                "s": "Avez-vous des projets pour le déjeuner ? (Do you have dinner plans?)"
+            },
+            {
+                "id": "fr-2427",
+                "w": "frontière",
+                "p": "fʁɔ̃.tjɛʁ",
+                "d": "boundary",
+                "s": "La France a une frontière avec l'Italie. (France borders Italy.)"
+            },
+            {
+                "id": "fr-2428",
+                "w": "saute",
+                "p": "sot",
+                "d": "to jump, leap",
+                "s": "Ne saute pas à de quelconques conclusions ! (Don't jump to conclusions.)"
+            },
+            {
+                "id": "fr-2429",
+                "w": "hais",
+                "p": "ɛ",
+                "d": "to hate",
+                "s": "Je hais les organisations terroristes. (I hate terrorist organizations.)"
+            },
+            {
+                "id": "fr-2430",
+                "w": "laissée",
+                "p": "lese",
+                "d": "to leave",
+                "s": "L'une des filles fut laissée en arrière. (One of the girls was left behind.)"
+            },
+            {
+                "id": "fr-2431",
+                "w": "prénom",
+                "p": "pʁe.nɔ̃",
+                "d": "first name",
+                "s": "Comment faut-il prononcer votre prénom ? (How do you pronounce your name?)"
+            },
+            {
+                "id": "fr-2432",
+                "w": "tenter",
+                "p": "tɑ̃.te",
+                "d": "to attempt",
+                "s": "Je veux tenter quelque chose de nouveau. (I want to try something new.)"
+            },
+            {
+                "id": "fr-2433",
+                "w": "liaison",
+                "p": "ljɛ.zɔ̃",
+                "d": "link, bond",
+                "s": "Ma liaison Internet a été coupée. (My internet connection was cut off.)"
+            },
+            {
+                "id": "fr-2434",
+                "w": "cérémonie",
+                "p": "se.ʁe.mɔ.ni",
+                "d": "ceremony",
+                "s": "La cérémonie d'ouverture a eu lieu hier. (The opening ceremony took place yesterday.)"
+            },
+            {
+                "id": "fr-2435",
+                "w": "fasses",
+                "p": "fas",
+                "d": "to do",
+                "s": "J'aurais aimé que tu ne fasses pas cela. (I wish you hadn't done that.)"
+            },
+            {
+                "id": "fr-2436",
+                "w": "vivent",
+                "p": "viv",
+                "d": "to live",
+                "s": "Elles vivent dans un monde de fantaisie. (They're living in a fantasy world.)"
+            },
+            {
+                "id": "fr-2437",
+                "w": "ho",
+                "p": "o",
+                "d": "Used by tamers to calm the animal they are taming",
+                "s": ""
+            },
+            {
+                "id": "fr-2438",
+                "w": "océan",
+                "p": "ɔ.se.ɑ̃",
+                "d": "an ocean",
+                "s": ""
+            },
+            {
+                "id": "fr-2439",
+                "w": "vélo",
+                "p": "ve.lo",
+                "d": "bike, bicycle, cycle",
+                "s": "C'est comme le vélo, ça ne s'oublie pas. (It's like riding a bike.)"
+            },
+            {
+                "id": "fr-2440",
+                "w": "aimerait",
+                "p": "ɛm.ʁɛ",
+                "d": "to love",
+                "s": "Elle aimerait qu'il parte immédiatement. (She'd like him to leave right away.)"
+            },
+            {
+                "id": "fr-2441",
+                "w": "réaliser",
+                "p": "ʁe.a.li.ze",
+                "d": "to direct",
+                "s": "Il a l'habitude de réaliser des discours. (He is used to making speeches.)"
+            },
+            {
+                "id": "fr-2442",
+                "w": "poupée",
+                "p": "pu.pe",
+                "d": "doll",
+                "s": "Sa poupée a été écrasée par une voiture. (Her doll was run over by a car.)"
+            },
+            {
+                "id": "fr-2443",
+                "w": "navire",
+                "p": "na.viʁ",
+                "d": "ship",
+                "s": "Tout le navire a été mis en quarantaine. (The whole ship was quarantined.)"
+            },
+            {
+                "id": "fr-2444",
+                "w": "saches",
+                "p": "saʃ",
+                "d": "to know",
+                "s": "Tom ne veut pas que tu saches la vérité. (Tom doesn't want you to know the truth.)"
+            },
+            {
+                "id": "fr-2445",
+                "w": "parties",
+                "p": "paʁ.ti",
+                "d": "part",
+                "s": "Elles sont parties en vacances ensemble. (They went on vacation together.)"
+            },
+            {
+                "id": "fr-2446",
+                "w": "remplacer",
+                "p": "ʁɑ̃.pla.se",
+                "d": "to replace",
+                "s": "Je dois remplacer la pile de la radio. (I have to replace the radio's battery.)"
+            },
+            {
+                "id": "fr-2447",
+                "w": "prisonnier",
+                "p": "pʁi.zɔ.nje",
+                "d": "prisoner",
+                "s": "Êtes-vous prisonnier de vos habitudes ? (Are you a creature of habit?)"
+            },
+            {
+                "id": "fr-2448",
+                "w": "ménage",
+                "p": "me.naʒ",
+                "d": "housework",
+                "s": "C'est le moment de faire le grand ménage. (It's time for spring cleaning.)"
+            },
+            {
+                "id": "fr-2449",
+                "w": "porté",
+                "p": "pɔʁte",
+                "d": "to carry",
+                "s": "Lisez ce qui est porté sur l'étiquette ! (Read what's on the label.)"
+            },
+            {
+                "id": "fr-2450",
+                "w": "employés",
+                "p": "ɑ̃.plwa.je",
+                "d": "employee",
+                "s": "La plupart de nos employés sont jeunes. (Most of our employees are young.)"
+            },
+            {
+                "id": "fr-2451",
+                "w": "bouton",
+                "p": "bu.tɔ̃",
+                "d": "button",
+                "s": "Il faut que vous appuyiez sur le bouton. (You need to press the button.)"
+            },
+            {
+                "id": "fr-2452",
+                "w": "acteur",
+                "p": "ak.tœʁ",
+                "d": "actor",
+                "s": "Voulez-vous être un acteur dans un film ? (Do you want to be an actor in a movie?)"
+            },
+            {
+                "id": "fr-2453",
+                "w": "show",
+                "p": "ʃo",
+                "d": "show",
+                "s": "Il est allé dans les coulisses après le show. (He went backstage after the show.)"
+            },
+            {
+                "id": "fr-2454",
+                "w": "mardi",
+                "p": "maʁ.di",
+                "d": "Tuesday",
+                "s": "Je viens seulement le mardi et le jeudi. (I only come on Tuesdays and Thursdays.)"
+            },
+            {
+                "id": "fr-2455",
+                "w": "juré",
+                "p": "ʒy.ʁe",
+                "d": "to swear",
+                "s": "J'ai juré que je ne ferais jamais ça. (I swore I'd never do that.)"
+            },
+            {
+                "id": "fr-2456",
+                "w": "médecine",
+                "p": "med.sin",
+                "d": "medicine",
+                "s": "Il alla en Amérique étudier la médecine. (He went to America to study medicine.)"
+            },
+            {
+                "id": "fr-2457",
+                "w": "restera",
+                "p": "ʁɛstəʁa",
+                "d": "to stay",
+                "s": "Pensez-vous qu'elle restera comme ça ? (Do you think it'll stay that way?)"
+            },
+            {
+                "id": "fr-2458",
+                "w": "lourd",
+                "p": "luʁ",
+                "d": "heavy",
+                "s": "Il fait moins lourd aujourd'hui qu'hier. (It is less muggy today than it was yesterday.)"
+            },
+            {
+                "id": "fr-2459",
+                "w": "chargé",
+                "p": "ʃaʁ.ʒe",
+                "d": "to load",
+                "s": "On m'a chargé de travailler avec vous. (I've been assigned to work with you.)"
+            },
+            {
+                "id": "fr-2460",
+                "w": "au-delà",
+                "p": "o.d(ə).la",
+                "d": "beyond",
+                "s": "Notre école se situe au-delà du fleuve. (Our school is across the river.)"
+            },
+            {
+                "id": "fr-2461",
+                "w": "survécu",
+                "p": "syʁ.ve.ky",
+                "d": "to survive",
+                "s": "C'est un miracle que vous ayez survécu. (It's a miracle you survived.)"
+            },
+            {
+                "id": "fr-2462",
+                "w": "bite",
+                "p": "bit",
+                "d": "knob, cock, dick",
+                "s": ""
+            },
+            {
+                "id": "fr-2463",
+                "w": "soudain",
+                "p": "su.dɛ̃",
+                "d": "suddenly",
+                "s": "Tout le monde a soudain cessé de parler. (Everyone suddenly stopped talking.)"
+            },
+            {
+                "id": "fr-2464",
+                "w": "voyais",
+                "p": "vwa.jɛ",
+                "d": "to see",
+                "s": "Que ferais-tu si tu voyais un fantôme ? (What would you do if you saw a ghost?)"
+            },
+            {
+                "id": "fr-2465",
+                "w": "travailles",
+                "p": "tʁavaj",
+                "d": "to work",
+                "s": "Pourquoi est-ce que tu travailles ici ? (Why do you work here?)"
+            },
+            {
+                "id": "fr-2466",
+                "w": "prévenu",
+                "p": "pʁɛvəny",
+                "d": "to prevent",
+                "s": "Je t'avais prévenu de ne pas venir ici. (I warned you not to come here.)"
+            },
+            {
+                "id": "fr-2467",
+                "w": "baisse",
+                "p": "bɛs",
+                "d": "to lower",
+                "s": "C'est la criminalité qui est en baisse. (Crime is down.)"
+            },
+            {
+                "id": "fr-2468",
+                "w": "filer",
+                "p": "fi.le",
+                "d": "to spin",
+                "s": "C'est gentil de me filer un coup de main. (Thanks for helping out.)"
+            },
+            {
+                "id": "fr-2469",
+                "w": "rompu",
+                "p": "ʁɔ̃py",
+                "d": "to break, to snap",
+                "s": "Leur mariage s'est rompu l'année passée. (Their marriage broke up last year.)"
+            },
+            {
+                "id": "fr-2470",
+                "w": "véhicule",
+                "p": "ve.i.kyl",
+                "d": "vehicle",
+                "s": "Vous ne pouvez garer votre véhicule ici. (You can't park your car here.)"
+            },
+            {
+                "id": "fr-2471",
+                "w": "sauve",
+                "p": "sov",
+                "d": "to save, rescue",
+                "s": "Je suis arrivée saine et sauve ce matin. (I arrived safe and sound this morning.)"
+            },
+            {
+                "id": "fr-2472",
+                "w": "rencontrés",
+                "p": "ʁɑ̃kɔ̃tʁe",
+                "d": "to meet",
+                "s": "Nous nous sommes rencontrés aujourd'hui. (We met today.)"
+            },
+            {
+                "id": "fr-2473",
+                "w": "emmerde",
+                "p": "ɑ̃.mɛʁd",
+                "d": "to bug",
+                "s": ""
+            },
+            {
+                "id": "fr-2474",
+                "w": "estomac",
+                "p": "ɛs.tɔ.ma",
+                "d": "stomach",
+                "s": "Ses yeux sont plus grands que son estomac. (His eyes are bigger than his stomach.)"
+            },
+            {
+                "id": "fr-2475",
+                "w": "donna",
+                "p": "dɔ.na",
+                "d": "to give",
+                "s": "Il me donna le peu d'argent qu'il avait. (He gave me what little money he had.)"
+            },
+            {
+                "id": "fr-2476",
+                "w": "couvrir",
+                "p": "ku.vʁiʁ",
+                "d": "to cover up",
+                "s": "C'est mieux de couvrir les livres de poche. (It's best to put covers on paperbacks.)"
+            },
+            {
+                "id": "fr-2477",
+                "w": "meilleures",
+                "p": "mɛ.jœʁ",
+                "d": "best",
+                "s": "Soyons les meilleures amies pour toujours. (Let's be best friends forever.)"
+            },
+            {
+                "id": "fr-2478",
+                "w": "rater",
+                "p": "ʁa.te",
+                "d": "to miss",
+                "s": "Dépêche-toi ! Sinon, on va rater le bus. (Hurry up, or we'll miss the bus.)"
+            },
+            {
+                "id": "fr-2479",
+                "w": "terminée",
+                "p": "tɛʁmine",
+                "d": "to end",
+                "s": "Je pensais que la partie était terminée. (I thought the game was over.)"
+            },
+            {
+                "id": "fr-2480",
+                "w": "tâche",
+                "p": "taʃ",
+                "d": "task",
+                "s": "Je ne suis pas à la hauteur de la tâche. (I am not equal to the task.)"
+            },
+            {
+                "id": "fr-2481",
+                "w": "réserve",
+                "p": "ʁe.zɛʁv",
+                "d": "reservation",
+                "s": "Notre réserve de nourriture est épuisée. (Our supply of food is exhausted.)"
+            },
+            {
+                "id": "fr-2482",
+                "w": "brûler",
+                "p": "bʁy.le",
+                "d": "to burn",
+                "s": "Il nous faut davantage de bois à brûler. (We need some more firewood.)"
+            },
+            {
+                "id": "fr-2483",
+                "w": "chou",
+                "p": "ʃu",
+                "d": "cabbage",
+                "s": "Pourquoi quiconque voudrait manger du chou mariné ? (Why would anybody eat pickled cabbage?)"
+            },
+            {
+                "id": "fr-2484",
+                "w": "réveille",
+                "p": "ʁe.vɛj",
+                "d": "to awaken",
+                "s": "Je n'ai pas envie que Tom réveille Mary. (I don't want Tom to wake Mary up.)"
+            },
+            {
+                "id": "fr-2485",
+                "w": "sentez",
+                "p": "sɑ̃te",
+                "d": "to smell",
+                "s": "Je sais que vous vous sentez impuissant. (I know you feel helpless.)"
+            },
+            {
+                "id": "fr-2486",
+                "w": "ferme-la",
+                "p": "fɛʁ.m(ə).la",
+                "d": "her, it",
+                "s": "Ferme-la ou je te pète la gueule ! (Shut up or I'll give you a fat lip!)"
+            },
+            {
+                "id": "fr-2487",
+                "w": "etait",
+                "p": "",
+                "d": "obsolete spelling of était",
+                "s": ""
+            },
+            {
+                "id": "fr-2488",
+                "w": "origine",
+                "p": "ɔ.ʁi.ʒin",
+                "d": "origin",
+                "s": "Les êtres humains prennent leur origine en Afrique. (Humans originated in Africa.)"
+            },
+            {
+                "id": "fr-2489",
+                "w": "rêvé",
+                "p": "ʁɛ.ve",
+                "d": "to dream",
+                "s": "C'est ce dont nous avons toujours rêvé. (It's what we've always dreamed of.)"
+            },
+            {
+                "id": "fr-2490",
+                "w": "pouviez",
+                "p": "pu.vje",
+                "d": "can, to be able to",
+                "s": "Vous avez fait tout ce que vous pouviez. (You've done all you can.)"
+            },
+            {
+                "id": "fr-2491",
+                "w": "poursuivre",
+                "p": "puʁ.sɥivʁ",
+                "d": "to pursue, to chase",
+                "s": "Tom ne va pas te poursuivre en justice. (Tom isn't going to sue you.)"
+            },
+            {
+                "id": "fr-2492",
+                "w": "actions",
+                "p": "ak.sjɔ̃",
+                "d": "action, act, deed",
+                "s": "Le cours de nos actions a chuté de 30 %. (Our stock prices have gone down 30%.)"
+            },
+            {
+                "id": "fr-2493",
+                "w": "tapis",
+                "p": "ta.pi",
+                "d": "carpet",
+                "s": "Le tapis était couvert de poils de chat. (The rug was covered with cat hair.)"
+            },
+            {
+                "id": "fr-2494",
+                "w": "absence",
+                "p": "ap.sɑ̃s",
+                "d": "absence",
+                "s": "Après une longue absence, il est revenu. (After a long absence he came back.)"
+            },
+            {
+                "id": "fr-2495",
+                "w": "lâcher",
+                "p": "la.ʃe",
+                "d": "to release",
+                "s": "Le chien ne voulait pas lâcher la balle. (The dog wouldn't let go of the ball.)"
+            },
+            {
+                "id": "fr-2496",
+                "w": "tempête",
+                "p": "tɑ̃.pɛt",
+                "d": "storm, tempest",
+                "s": "J'ai été pris dans une tempête de pluie. (I got caught in a rainstorm.)"
+            },
+            {
+                "id": "fr-2497",
+                "w": "souffre",
+                "p": "sufʁ",
+                "d": "to suffer",
+                "s": "Je souffre chaque minute de chaque jour. (I'm in pain every minute of every day.)"
+            },
+            {
+                "id": "fr-2498",
+                "w": "touchez",
+                "p": "tuʃe",
+                "d": "to touch",
+                "s": "Ne touchez pas à la peinture fraîche ! (Don't touch the wet paint.)"
+            },
+            {
+                "id": "fr-2499",
+                "w": "cents",
+                "p": "sɑ̃",
+                "d": "hundred",
+                "s": "J'ai payé deux cents dollars en impôts. (I paid $200 in taxes.)"
+            },
+            {
+                "id": "fr-2500",
+                "w": "rempli",
+                "p": "ʁɑ̃.pli",
+                "d": "to fill, to fill up",
+                "s": "Le jardin était rempli de jolies fleurs. (The garden was full of beautiful flowers.)"
             }
         ]
     };
