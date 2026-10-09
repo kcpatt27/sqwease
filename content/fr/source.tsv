@@ -1,0 +1,31 @@
+rank	word	reading	pos	english	example	example_english
+1	bonjour	bon-ZHOOR	interj	hello	Bonjour, ça va ?	Hello, how are you?
+2	merci	mer-SEE	interj	thank you	Merci beaucoup.	Thank you very much.
+3	oui	wee	adv	yes	Oui, je veux.	Yes, I want it.
+4	non	nohn	adv	no	Non, merci.	No, thank you.
+5	s'il vous plaît	seel voo PLEH	phrase	please	Un café, s'il vous plaît.	A coffee, please.
+6	eau	oh	noun	water	Je voudrais de l'eau.	I would like some water.
+7	pain	pan	noun	bread	Le pain est frais.	The bread is fresh.
+8	maison	meh-ZOHN	noun	house	Ma maison est petite.	My house is small.
+9	ami	ah-MEE	noun	friend	Mon ami est gentil.	My friend is kind.
+10	famille	fah-MEEY	noun	family	Ma famille est grande.	My family is big.
+11	temps	tahn	noun	time; weather	Je n'ai pas le temps.	I do not have time.
+12	jour	zhoor	noun	day	Bonjour !	Hello / Good day!
+13	nuit	nwee	noun	night	Bonne nuit.	Good night.
+14	aujourd'hui	oh-zhoor-DWEE	adv	today	Aujourd'hui je travaille.	Today I work.
+15	demain	deh-MAN	noun	tomorrow	À demain.	See you tomorrow.
+16	bon	bohn	adj	good	C'est un bon jour.	It is a good day.
+17	mauvais	mo-VEH	adj	bad	Le temps est mauvais.	The weather is bad.
+18	grand	grahn	adj	big	C'est une grande maison.	It is a big house.
+19	petit	puh-TEE	adj	small	Un petit café.	A small coffee.
+20	je	zhuh	pron	I	Je suis étudiant.	I am a student.
+21	tu	tew	pron	you	Tu veux ?	Do you want it?
+22	il	eel	pron	he	Il est mon ami.	He is my friend.
+23	elle	el	pron	she	Elle est ma sœur.	She is my sister.
+24	vouloir	voo-LWAR	verb	to want	Je veux apprendre.	I want to learn.
+25	avoir	ah-VWAR	verb	to have	J'ai un chien.	I have a dog.
+26	faire	fehr	verb	to do; to make	Qu est-ce que tu fais ?	What are you doing?
+27	aller	ah-LAY	verb	to go	Je vais à la maison.	I am going home.
+28	manger	mahn-ZHAY	verb	to eat	Je mange des fruits.	I eat fruit.
+29	boire	bwahr	verb	to drink	Je bois de l'eau.	I drink water.
+30	parler	par-LAY	verb	to speak	Je parle français.	I speak French.
