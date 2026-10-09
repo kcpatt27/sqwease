@@ -243,3 +243,38 @@ Performance work uses `defer` and lazy initialization instead.
 ### Consequences
 Offline/`file://` keeps working; large data modules must be deferred and
 memoized to stay fast (T-055/T-056).
+
+---
+
+## ADR-011: Tests run on Node's built-in test runner; no third-party test dependency
+
+- **Status:** accepted (2026-10-09)
+- **Deciders:** operator
+- **Related:** `scripts/check.js`, T-065, T-106, ADR-001, ADR-010
+
+### Context
+The project has no test framework and essentially no automated tests: only a
+7-case romaji smoke script (`run-romaji-test.js`) plus the shell gate
+(`scripts/check.js`). Recurring defects — coloring drift, SRS interval overflow,
+CSV corruption, unchecked language decks — shipped without a failing test.
+ADR-001 forbids a runtime dependency and there is no `package.json`.
+
+### Decision
+Use Node's built-in test runner (`node --test`, Node 18+) with
+`node:assert/strict`. Tests live in `test/**/*.test.js`. `node scripts/check.js`
+runs the suite alongside the existing checks, so the single gate command is
+unchanged. No third-party test framework, no `package.json`, no `npm install`.
+
+### Alternatives
+- **Jest/Vitest** — rejected: a dependency and config surface for what
+  `node --test` already does.
+- **Browser-only runner** — rejected: not CI-able.
+- **Playwright / e2e** — deferred: worth adding later for the UI, but overkill
+  for the pure and data logic that needs coverage now.
+
+### Consequences
+Zero dependencies; runs anywhere Node runs; consistent with the no-build,
+`file://` ethos. DOM-dependent modules (`syllable-color.js`, `boxes-coloring.js`)
+need a tiny `document` stub or a pure-function seam. Tests are a maintenance
+surface — keep them invariant-focused, not snapshot-heavy. The gate remains the
+one command (`node scripts/check.js`).

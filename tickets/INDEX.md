@@ -64,7 +64,7 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-056](./T-056.md) | Memoize tokens/coloring, hoist the segmenter, and remove O(n^2) scans | boxes | performance | bug-hunt |
 | [T-061](./T-061.md) | Use stable SRS card ids decoupled from mutable content | srs | data-integrity | bug-hunt |
 | [T-062](./T-062.md) | Regenerate boxes-data.js and add build validation | build | data-integrity | bug-hunt |
-| [T-065](./T-065.md) | Add a real test runner and coverage for romaji/coloring/SRS | core | test | ponytail-audit, bug-hunt |
+| [T-065](./T-065.md) | Establish the test suite: Node built-in runner + per-module coverage, wired into the gate | core | test | ponytail-audit, bug-hunt, session-audit-es-ko |
 | [T-068](./T-068.md) | Update srs-status.md: Boxes SRS is implemented | docs | docs | data |
 | [T-069](./T-069.md) | Resolve README build-step contradiction and menu-count drift | docs | docs | data |
 | [T-070](./T-070.md) | Document the content -> build script -> generated JS data pipeline | docs | docs | data |
