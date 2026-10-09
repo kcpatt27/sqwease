@@ -1,31 +1,2501 @@
 rank	word	reading	pos	english	example	example_english
-1	안녕하세요	annyeonghaseyo	interj	hello	안녕하세요, 잘 지내요?	Hello, how are you?
-2	감사합니다	gamsahamnida	interj	thank you	감사합니다.	Thank you.
-3	네	ne	adv	yes	네, 맞아요.	Yes, that is right.
-4	아니요	aniyo	adv	no	아니요, 괜찮아요.	No, it is okay.
-5	물	mul	noun	water	물 주세요.	Please give me water.
-6	밥	bap	noun	rice; meal	밥을 먹어요.	I eat a meal.
-7	집	jip	noun	house	집이 커요.	The house is big.
-8	친구	chingu	noun	friend	친구를 만나요.	I meet a friend.
-9	가족	gajok	noun	family	가족이 많아요.	I have a big family.
-10	시간	sigan	noun	time	시간이 없어요.	I do not have time.
-11	오늘	oneul	noun	today	오늘 일해요.	Today I work.
-12	내일	naeil	noun	tomorrow	내일 만나요.	See you tomorrow.
-13	좋다	jota	adj	good	날씨가 좋아요.	The weather is good.
-14	나쁘다	nappeuda	adj	bad	날씨가 나빠요.	The weather is bad.
-15	크다	keuda	adj	big	집이 커요.	The house is big.
-16	작다	jakda	adj	small	컵이 작아요.	The cup is small.
-17	나	na	pron	I	나는 학생이에요.	I am a student.
-18	너	neo	pron	you	너는 어때?	How about you?
-19	그	geu	pron	he; that	그는 내 친구예요.	He is my friend.
-20	그녀	geunyeo	pron	she	그녀는 선생님이에요.	She is a teacher.
-21	하다	hada	verb	to do	뭐 해요?	What are you doing?
-22	있다	itda	verb	to have; to exist	시간이 있어요.	I have time.
-23	가다	gada	verb	to go	집에 가요.	I go home.
-24	오다	oda	verb	to come	여기로 오세요.	Come here.
-25	먹다	meokda	verb	to eat	밥을 먹어요.	I eat.
-26	마시다	masida	verb	to drink	물을 마셔요.	I drink water.
-27	말하다	malhada	verb	to speak	한국어를 말해요.	I speak Korean.
-28	보다	boda	verb	to see; to watch	영화를 봐요.	I watch a movie.
-29	사랑	sarang	noun	love	사랑해요.	I love you.
-30	이름	ireum	noun	name	이름이 뭐예요?	What is your name?
+1	내가	naega	pron	I (with subject marker -가)		
+2	그	geu		that		
+3	난	nan		I		
+4	내	nae		my		
+5	안	an		not		
+6	수	su	noun	way; means; ability (bound noun)		
+7	이	i		This		
+8	네	ne		yes		
+9	거야	geoya	noun	it is; that’s (거 + 이야)		
+10	좀	jom		kinda		
+11	그래	geurae		yes; that’s right; like that		
+12	있어	isseo	verb	to exist; to have (informal)		
+13	왜	wae		why		
+14	더	deo	adv	more, -er (to a greater extent)		
+15	그리고	geurigo	adv	and, also, in addition (often used at the beginning of a sentence)		
+16	우리	uri		us		
+17	다	da	adv	all; everything		
+18	무슨	museun	det	what, what kind of; a certain, some; some kind of		
+19	한	han		one		
+20	하지만	hajiman		But		
+21	잘	jal		well		
+22	어떻게	eotteoke	adv	how; adverbial form of 어떻다 (eotteota); what is … ?		
+23	할	hal		do		
+24	그냥	geunyang	adv	simply; just like that; just as it is.; for no particular reason		
+25	정말	jeongmal		really		
+26	그럼	geureom		Then		
+27	것	geot	noun	thing; that which		
+28	게	ge		crab		
+29	있어요	isseoyo	verb	to exist; to have (polite)		
+30	있는	inneun	adj	existing; that exists		
+31	해	hae	verb	to do (informal)		
+32	여기	yeogi	pron	here		
+33	넌	neon		you (topic)		
+34	제가	jega		I (polite, subject)		
+35	날	nal		me (object); day		
+36	우리가	uriga		we (subject)		
+37	건	geon		that thing (topic); it is (거 + 는)		
+38	전	jeon		before; I (polite, topic)		
+39	이제	ije	noun	now, and now		
+40	지금	jigeum		now		
+41	그게	geuge	pron	that thing (as the subject of the sentence or clause)		
+42	걸	geol		that thing (object); will (future)		
+43	거	geo	noun	thing; that		
+44	아니	ani		no		
+45	네가	nega	pron	allomorph of 너 (neo, “(informal) you”) before -가 (-ga, “nominative case marker”)		
+46	없어	eopseo	verb	to not exist; to not have (informal)		
+47	돼	dwae	verb	infinitive of 되다 (doeda)		
+48	저	jeo		that (distal); I (polite)		
+49	우린	urin	noun	we (topic)		
+50	제	je		my (polite); I (polite, subject)		
+51	못	mot	adv	cannot; not		
+52	좋아	joa	adj	infinitive of 좋다 (jota, “to be good”)		
+53	당신이	dangsini		you (subject)		
+54	다른	dareun	det	different, other		
+55	나	na		me		
+56	그런	geureon		like that		
+57	그건	geugeon		that is; that thing (topic)		
+58	너무	neomu	adv	too, excessively; so, very, extremely		
+59	그래서	geuraeseo		So		
+60	그렇게	geureoke	adv	so, so much; in that way, to that extent		
+61	다시	dasi		again		
+62	이건	igeon		this is; this thing (topic)		
+63	이런	ireon		like this; such		
+64	나도	nado		me too		
+65	모든	modeun	det	all, every, each		
+66	당신	dangsin	pron	second person singular plain pronoun; you		
+67	거예요	geoyeyo		it is (polite)		
+68	당신은	dangsineun		you (topic)		
+69	아	a		Ah		
+70	좋은	joeun	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+71	오	o		oh		
+72	때	ttae	noun	time; occasion; opportunity		
+73	너	neo		you		
+74	하는	haneun	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+75	하고	hago	verb	a conjunctive form of 하다 (hada)		
+76	아냐	anya	intj	contraction of 아니야 (aniya, “no”)		
+77	나는	naneun		I (topic)		
+78	아니야	aniya		it is not (informal)		
+79	알아	ara	verb	to know (informal)		
+80	같이	gachi		together		
+81	응	eung	intj	yes		
+82	이게	ige	pron	this thing (as the subject of the sentence or clause)		
+83	없어요	eopseoyo	adj	to have none; (to be) lacking; (to be) nonexistent		
+84	괜찮아	gwaenchana	adj	to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...		
+85	오늘	oneul		today		
+86	말이야	mariya		I mean; you see		
+87	줄	jul		line; way; method (bound noun)		
+88	또	tto	adv	also; again		
+89	널	neol		you (object)		
+90	누가	nuga		who (subject)		
+91	어떤	eotteon	det	what kind of; some, any		
+92	아주	aju	adv	very		
+93	말	mal	noun	word; speech; horse		
+94	아직	ajik	adv	still; yet, not yet		
+95	안돼	andwae		it is not allowed; no		
+96	진짜	jinjja		really		
+97	모두	modu		all		
+98	마	ma		Do		
+99	같은	gateun		same		
+100	여기서	yeogiseo		from here		
+101	어서	eoseo	adv	quickly; an expression hard to translate in English; usually used with 오다 (oda) and its compounds to show one is welcome somewhere.		
+102	그는	geuneun		he (topic)		
+103	위해	wihae	noun	for; for the sake of		
+104	해요	haeyo	verb	informal polite present indicative form of 하다 (hada, “to do”); informal polite present interrogative form of 하다 (hada, “to do”)		
+105	일이	iri	num	work (subject); matter (subject)		
+106	하지	haji	noun	do not (with -지 마); do		
+107	엄마	eomma	noun	mum, mummy		
+108	바로	baro	adv	truly, without lie or deception; straight, without curvature		
+109	가	ga		go		
+110	근데	geunde	adv	however; but; by the way		
+111	알고	algo	verb	knowing; to know and		
+112	이렇게	ireoke	adv	like this, this way		
+113	빨리	ppalli	adv	quickly, without delay; often used when urging someone to hurry		
+114	있습니다	itseumnida	verb	to exist; to have (formal polite)		
+115	이거	igeo		this; this thing		
+116	전에	jeone		before; ago		
+117	어	eo		uh		
+118	아뇨	anyo	intj	contraction of 아니요 (aniyo, “no”)		
+119	계속	gyesok		continue		
+120	닥터	dakteo		doctor		
+121	얼마나	eolmana	adv	how long, how much, how many		
+122	될	doel		be		
+123	알았어	arasseo		Okay		
+124	않아	ana		No		
+125	제발	jebal	adv	please		
+126	있지	itji		you know; right?		
+127	겁니다	geomnida		it is (formal polite)		
+128	어디	eodi		where		
+129	사람이	sarami		person (subject)		
+130	그가	geuga		he (subject)		
+131	안녕	annyeong		hello		
+132	좋아요	joayo	adj	it is good; okay (polite)		
+133	같아	gata	adj	the same; like or similar (often used with 와 (wa)/과 (gwa))		
+134	우리는	urineun		we (topic)		
+135	그래요	geuraeyo		yes; that is right (polite)		
+136	당신을	dangsineul		you (object)		
+137	자	ja		Now		
+138	그걸	geugeol		that (object)		
+139	두	du		two		
+140	아니에요	anieyo	adj	to not be (something)		
+141	있을	isseul		that will exist; will have		
+142	때문에	ttaemune	adv	because of this, because of the aforementioned		
+143	대해	daehae		about; regarding		
+144	아빠	appa	noun	dad, papa		
+145	몇	myeot	det	how many; which number		
+146	사람	saram		person		
+147	했어	haesseo	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+148	뭐야	mwoya		What is it		
+149	수도	sudo	noun	capital; (it) can also		
+150	많이	mani	adv	many, much, a lot, plenty, in abundance		
+151	집에	jibe		at home; to home		
+152	거지	geoji	noun	right?; of course		
+153	일을	ireul		work (object)		
+154	저는	jeoneun		I (polite, topic)		
+155	음	eum		um		
+156	그렇지	geureochi	adv	yes; isn't it? aren't you?, etc. (seeking confirmation)		
+157	함께	hamkke	adv	together		
+158	만약	manyak	adv	if, in the event that.		
+159	하나	hana		one		
+160	저기	jeogi		over there; excuse me		
+161	고마워요	gomawoyo	adj	thank you (polite)		
+162	항상	hangsang	adv	always		
+163	나한테	nahante		to me		
+164	잠깐	jamkkan		a moment; wait		
+165	가서	gaseo	verb	go and; having gone		
+166	가장	gajang		most		
+167	돼요	dwaeyo		it is okay; it works		
+168	거죠	geojyo		right?; that is		
+169	가자	gaja	verb	let us go		
+170	맞아	maja		That's right		
+171	보고	bogo		seeing; see and		
+172	와	wa		Wow		
+173	그거	geugeo	pron	it, that thing		
+174	말을	mareul		words; speech (object)		
+175	괜찮아요	gwaenchanayo	adj	to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...		
+176	아무도	amudo	pron	anything; nothing (in a negative sentence)		
+177	없는	eomneun	adj	to have none; (to be) lacking; (to be) nonexistent		
+178	안녕하세요	annyeonghaseyo	phrase	How are you?; Hello		
+179	몰라	molla	verb	informal present form of 모르다 (moreuda, “not to know”); informal interrogative form of 모르다 (moreuda, “not to know”)		
+180	일	il		work		
+181	많은	maneun	adj	present determiner of 많다 (manta)		
+182	당신의	dangsinui		your		
+183	아무것도	amugeotdo		nothing		
+184	그러니까	geureonikka		So		
+185	큰	keun		big		
+186	알아요	arayo	verb	to know (polite)		
+187	그의	geuui		his		
+188	뭐가	mwoga		what (subject)		
+189	고마워	gomawo		thank you		
+190	그만	geuman	adv	this much only; no more. often used in imperatives.		
+191	했어요	haesseoyo	verb	did (polite)		
+192	젠장	jenjang	intj	damn it!		
+193	사람들이	saramdeuri		people		
+194	거에요	geoeyo		it is; it will be		
+195	이걸	igeol		this (object)		
+196	그럴	geureol		will do so; such		
+197	것도	geotdo		thing too; even		
+198	말이	mari		words (subject); speech (subject)		
+199	이미	imi	adv	already		
+200	야	ya		Hey		
+201	그를	geureul		him		
+202	뭔가	mwonga		something		
+203	온	on		came; whole		
+204	이봐	ibwa		Hey		
+205	아니면	animyeon		Or		
+206	같아요	gatayo	adj	the same; like or similar (often used with 와 (wa)/과 (gwa))		
+207	그런데	geureonde		But		
+208	아니라	anira	adj	is not […] , but rather; Used other than figuratively or idiomatically: see 아니다 (anida), -라 (-ra).		
+209	세상에	sesange		oh my; in the world		
+210	있다고	itdago		There is		
+211	있고	itgo		There is		
+212	뭐라고	mworago		What		
+213	예	ye		yes		
+214	절대	jeoldae	adv	absolutely, totally, never		
+215	말야	marya		I mean		
+216	당장	dangjang		Right now		
+217	그래도	geuraedo	adv	nevertheless		
+218	대한	daehan		about; regarding		
+219	말은	mareun		I mean		
+220	거기	geogi	pron	there		
+221	전부	jeonbu	noun	everything, all		
+222	둘	dul		two		
+223	그녀는	geunyeoneun		she		
+224	니가	niga		You		
+225	갈	gal		will go		
+226	않아요	anayo		does not; is not (polite)		
+227	자기	jagi	noun	oneself; the self; the ego		
+228	있죠	itjyo		right?; there is (polite)		
+229	하면	hamyeon		If you do		
+230	가지고	gajigo	noun	with; by; by means of		
+231	그들이	geudeuri		they		
+232	참	cham		True		
+233	너도	neodo		You too		
+234	됐어	dwaesseo		That's enough		
+235	미안해	mianhae	adj	to be ashamed of oneself; to be sorry		
+236	것을	geoseul		that		
+237	여긴	yeogin	verb	here (topic)		
+238	아무	amu		Any		
+239	사람은	sarameun		People		
+240	감사합니다	gamsahamnida		thank you		
+241	다들	dadeul	adv	everyone		
+242	어때	eottae		How about		
+243	씨	ssi		Mr.		
+244	곧	got	adv	soon, at once, immediately, shortly, straightway; easily, readily		
+245	엄마가	eommaga		Mom		
+246	나를	nareul		me		
+247	이젠	ijen	noun	now (as the topic of the sentence)		
+248	아마	ama		maybe		
+249	그들은	geudeureun		they are		
+250	얘기	yaegi	noun	contraction of 이야기 (iyagi): talk; story		
+251	꼭	kkok	adv	absolutely; surely; regardless; unreservedly		
+252	있잖아	itjana		You know,		
+253	저도	jeodo		Me too		
+254	지금은	jigeumeun		For now		
+255	그녀가	geunyeoga		she		
+256	중	jung		middle; among		
+257	있다	itda		There is		
+258	시간	sigan		time		
+259	먼저	meonjeo	adv	first in time or sequence		
+260	우릴	uril		us		
+261	말고	malgo		not ... but; instead of		
+262	사람을	sarameul		people		
+263	수가	suga		way; ability (with subject marker)		
+264	봐요	bwayo	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+265	있는데	inneunde		There is		
+266	알았어요	arasseoyo		Okay		
+267	해야	haeya	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+268	있었어	isseosseo		there was		
+269	우리의	uriui		our		
+270	않을	aneul		won't		
+271	방금	banggeum	adv	just a moment ago; just now		
+272	완전	wanjeon		completely		
+273	된	doen		that became		
+274	동안	dongan	noun	interval, period of time		
+275	시간이	sigani		time		
+276	싶어	sipeo	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+277	본	bon		seen; main		
+278	일은	ireun		work		
+279	친구	chingu	noun	friend; fellow, chap, guy		
+280	들어	deureo		listen		
+281	안에	ane		inside		
+282	번	beon		number		
+283	자네	jane	pron	you, second person pronoun, used generally in addressing a person of distinctly lower status.		
+284	합니다	hamnida	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+285	사실	sasil		fact		
+286	한번	hanbeon		once		
+287	대체	daeche		how on earth; instead		
+288	같은데	gateunde	adj	the same; like or similar (often used with 와 (wa)/과 (gwa))		
+289	생각해	saenggakae		think about it		
+290	맞아요	majayo		That's right		
+291	볼	bol		will see; cheek		
+292	혼자	honja	noun	solitude; alone, (all) by oneself, (all) on one's own		
+293	자네가	janega		You		
+294	절	jeol		bow; I (polite, object)		
+295	그러니	geureoni		So		
+296	선생님	seonsaengnim	noun	teacher; sir, mister, Ms (polite term of address for an elder male or female)		
+297	사람들은	saramdeureun		people		
+298	문제가	munjega		problem		
+299	다음	daeum	noun	the next, the following		
+300	물론	mullon	adv	of course, certainly, naturally		
+301	거의	geoui		almost		
+302	일이야	iriya		It's work		
+303	없습니다	eopseumnida	adj	to have none; (to be) lacking; (to be) nonexistent		
+304	아빠가	appaga		Dad		
+305	되는	doeneun		become		
+306	그러면	geureomyeon		Then		
+307	순	sun		net		
+308	가는	ganeun		going		
+309	말도	maldo		nonsense		
+310	이리	iri		Here		
+311	있었어요	isseosseoyo		There was		
+312	맙소사	mapsosa	intj	oh my God!, good heavens!		
+313	내일	naeil		tomorrow		
+314	있으면	isseumyeon		If there is		
+315	잠깐만	jamkkanman	intj	just a minute, just a moment		
+316	싫어	sireo	adj	to be disagreeable; to disapprove; to be hateful		
+317	중요한	jungyohan		important		
+318	내게	naege	pron	dative form of 나 (na); 내 (nae) + -게 (-ge)		
+319	말해	malhae		tell me		
+320	이상	isang	noun	an amount more than; an amount greater than or equal to		
+321	거라고	georago		I guess		
+322	아는	aneun		know		
+323	너는	neoneun		you		
+324	새	sae		bird		
+325	적	jeok		enemy		
+326	전혀	jeonhyeo	adv	at all, absolutely, completely		
+327	여자	yeoja	noun	woman		
+328	새로운	saeroun		new		
+329	너희	neohui	pron	you; you guys; you all		
+330	왔어	wasseo		came		
+331	아직도	ajikdo	adv	yet, still		
+332	가지	gaji		eggplant		
+333	나와	nawa		come out		
+334	알	al		Al		
+335	싶지	sipji		I don't want to		
+336	여기에	yeogie		here		
+337	원하는	wonhaneun		want		
+338	돈	don	noun	money; a don, a Korean unit of weight equivalent to about 4 g		
+339	필요	piryo	noun	need; necessity		
+340	도움이	doumi		helpful		
+341	그녀를	geunyeoreul		her		
+342	몰라요	mollayo	verb	informal polite declarative of 모르다 (moreuda)		
+343	작은	jageun	det	small		
+344	혹시	hoksi	adv	by chance		
+345	미안해요	mianhaeyo	adj	to be ashamed of oneself; to be sorry		
+346	나쁜	nappeun		bad		
+347	죄송해요	joesonghaeyo		I'm sorry		
+348	모르겠어	moreugesseo		I don't know		
+349	가요	gayo		Let's go		
+350	알지	alji		You know		
+351	밖에	bakke		outside		
+352	직접	jikjeop		directly		
+353	있나	inna		Is there		
+354	니	ni		you		
+355	해도	haedo	noun	chart (of the sea)		
+356	하죠	hajyo		Let's do it		
+357	했는데	haenneunde		I did it		
+358	필요해	piryohae	adj	to have a need; to be necessary, to be needed		
+359	아니요	aniyo	intj	no		
+360	적이	jeogi		enemy		
+361	있나요	innayo		Do you have it?		
+362	갖고	gatgo		have		
+363	돈을	doneul		money		
+364	주세요	juseyo		Please		
+365	어디서	eodiseo		where		
+366	것이	geosi		It is		
+367	거요	geoyo		Yes		
+368	위한	wihan		for		
+369	것은	geoseun		The thing is		
+370	없이	eopsi	adv	without, lacking		
+371	나중에	najunge		later		
+372	아버지	abeoji	noun	father (parent)		
+373	나랑	narang	noun	country, nation, kingdom		
+374	됐어요	dwaesseoyo		That's it		
+375	마세요	maseyo	verb	to smash		
+376	차	cha		tea		
+377	언제	eonje		when		
+378	그저	geujeo	adv	just (only); constantly		
+379	생각	saenggak	noun	thought; idea		
+380	했지	haetji		I did it		
+381	봤어	bwasseo	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+382	해서	haeseo		So		
+383	시간을	siganeul		time		
+384	마지막	majimak	noun	the end; the last thing		
+385	알겠어	algesseo		Okay		
+386	왜냐면	waenyamyeon	adv	alternative form of 왜냐하면 (waenyahamyeon)		
+387	위해서	wihaeseo		for the sake of		
+388	엄청	eomcheong	adv	very, really, awful		
+389	알겠습니다	algetseumnida		Okay		
+390	오래	orae		long		
+391	기다려	gidaryeo	verb	to wait for, to await; to look forward to		
+392	아닙니다	animnida	adj	to not be (something)		
+393	있는지	inneunji		Is there		
+394	알겠어요	algesseoyo		Okay		
+395	제일	jeil		The best		
+396	지난	jinan	verb	past determiner of 지나다 (jinada): last, past		
+397	그렇죠	geureochyo		That's right		
+398	죽은	jugeun		dead		
+399	제대로	jedaero	adv	properly, in the appropriate manner; sufficiently		
+400	아니지	aniji		No		
+401	있다면	itdamyeon		If there is		
+402	보면	bomyeon	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+403	우리를	urireul		us		
+404	짓을	jiseul		do		
+405	남자	namja	noun	man		
+406	너가	neoga		you		
+407	있다는	itdaneun		There is		
+408	누구	nugu	pron	who; someone		
+409	보여	boyeo		I see it		
+410	왔어요	wasseoyo		I came		
+411	너한테	neohante		To you		
+412	여러분	yeoreobun	noun	ladies and gentlemen; everyone (present); you; everyone		
+413	완전히	wanjeonhi	adv	completely, totally		
+414	너의	neoui		your		
+415	것이다	geosida		will		
+416	밤	bam	noun	night		
+417	소리	sori	noun	sound; voice		
+418	없지	eopji		No		
+419	벌써	beolsseo	adv	already		
+420	모르겠어요	moreugesseoyo		I don't know		
+421	말이지	mariji		That's right		
+422	올	ol		come		
+423	사람들을	saramdeureul		people		
+424	처음	cheoeum		first time		
+425	말이죠	marijyo		I mean		
+426	사람들	saramdeul	noun	plural of 사람 (saram): people, persons		
+427	그녀의	geunyeoui		her		
+428	멋진	meotjin	adj	to be cool, splendid		
+429	왜요	waeyo		Why		
+430	정말로	jeongmallo	adv	really; truly		
+431	이름은	ireumeun		The name is		
+432	와서	waseo	verb	informal non-polite cause/reason form of 오다 (oda, “to come”)		
+433	대해서	daehaeseo		About		
+434	여보	yeobo	noun	darling, honey, sweetheart		
+435	조금	jogeum		a little		
+436	않았어	anasseo		I didn't		
+437	말이에요	marieyo		I mean		
+438	이름이	ireumi		The name is		
+439	여보세요	yeoboseyo	intj	hello (when asking or answering the telephone); hello (when trying to get the attention of someone who does not appear to be listening)		
+440	서로	seoro		each other		
+441	안돼요	andwaeyo		No		
+442	죽을	jugeul		die		
+443	첫	cheot	det	first; initial		
+444	매우	maeu	adv	very, extremely		
+445	사랑해	saranghae	phrase	I love you		
+446	오늘은	oneureun		Today		
+447	싶은	sipeun	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+448	어디로	eodiro		where		
+449	단지	danji		just		
+450	아닌	anin	adj	to not be (something)		
+451	나가	naga		get out		
+452	뿐이야	ppuniya		It's just		
+453	미안	mian		sorry		
+454	확실히	hwaksilhi	adv	surely, certainly, definitely, unquestionably, for certain, for sure, without doubt		
+455	싶어요	sipeoyo	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+456	죄송합니다	joesonghamnida		sorry		
+457	때까지	ttaekkaji		until		
+458	없고	eopgo	adj	to have none; (to be) lacking; (to be) nonexistent		
+459	어때요	eottaeyo		How are you?		
+460	살	sal		flesh		
+461	당연히	dangyeonhi	adv	naturally, of course		
+462	데리고	derigo		take it with you		
+463	필요한	piryohan	adj	to have a need; to be necessary, to be needed		
+464	없다	eopda		None		
+465	후	hu	noun	after		
+466	가고	gago	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+467	글쎄	geulsse	intj	well; I'm not sure		
+468	않는	anneun	verb	auxiliary verb used to negate the clause to which the main verb belongs; to not do something		
+469	했죠	haetjyo		I did it		
+470	나의	naui		my		
+471	별로	byeollo		Not really		
+472	않은	aneun		not		
+473	라고	rago		says		
+474	집	jip		house		
+475	여전히	yeojeonhi	adv	still, just as before		
+476	없을	eopseul	adj	to have none; (to be) lacking; (to be) nonexistent		
+477	딱	ttak	noun	while colliding together; while stopping suddenly, decisively		
+478	있어서	isseoseo		Because		
+479	이야기	iyagi	noun	talk; story; anecdote		
+480	엄마는	eommaneun		Mom is		
+481	부인	buin	noun	(another person's) wife; Lady (honorary title bestowed on ladies of the high aristocracy in the Goryeo and Joseon dynasties)		
+482	하는데	haneunde	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+483	않고	anko		Without		
+484	알았지	aratji		Okay		
+485	아니고	anigo	adj	to not be (something)		
+486	여자가	yeojaga		the woman		
+487	문	mun	noun	door; phylum		
+488	되지	doeji		No		
+489	거기서	geogiseo		there		
+490	훨씬	hwolssin	adv	much more or less (than normal); a lot; long (before or after); far more		
+491	아버지가	abeojiga		my father		
+492	망할	manghal		damn		
+493	뭔지	mwonji	noun	what it is		
+494	손	son	noun	hand (organ of humans and humanoid animals); free hand		
+495	수술	susul	noun	surgery		
+496	듣고	deutgo		listen		
+497	어쩌면	eojjeomyeon		maybe		
+498	보세요	boseyo	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+499	생각이	saenggagi		thought		
+500	어느	eoneu	det	which; a certain, one, some		
+501	그러지	geureoji		That's right		
+502	되면	doemyeon		If it happens		
+503	아마도	amado	adv	maybe		
+504	준비	junbi	noun	readiness, preparation		
+505	전화	jeonhwa	noun	telephone, phone		
+506	뒤에	dwie		behind		
+507	도대체	dodaeche	adv	on earth; the hell; not at all, unfortunately		
+508	너를	neoreul		you		
+509	당신도	dangsindo		You too		
+510	것처럼	geotcheoreom		As if		
+511	않으면	aneumyeon		If not		
+512	말하는	malhaneun		talking		
+513	최고의	choegoui		best		
+514	말하지	malhaji		tell me		
+515	세	se		three		
+516	모르는	moreuneun		don't know		
+517	유일한	yuilhan		only		
+518	갑자기	gapjagi	adv	suddenly, all of a sudden		
+519	이봐요	ibwayo	intj	hi, hey, hello		
+520	건가요	geongayo		Are you sure		
+521	없다고	eopdago		There is no		
+522	것입니다	geosimnida		will		
+523	있잖아요	itjanayo		You know,		
+524	되고	doego		become		
+525	어쨌든	eojjaetdeun	adv	anyway; after all		
+526	가진	gajin		with		
+527	이번	ibeon	noun	this time; this occasion		
+528	뭐하는	mwohaneun		What are you doing		
+529	후에	hue		after		
+530	친구가	chinguga		friend		
+531	지	ji		Ji		
+532	신경	singyeong	noun	nerves; one's feelings on a subject		
+533	그만해	geumanhae		Stop it		
+534	누구야	nuguya		who is it		
+535	당신에게	dangsinege		to you		
+536	늘	neul	adv	always		
+537	없었어	eopseosseo	adj	to have none; (to be) lacking; (to be) nonexistent		
+538	그들을	geudeureul		them		
+539	있게	itge		have		
+540	알잖아	aljana		You know		
+541	누군가	nugunga	pron	somebody; someone		
+542	분명히	bunmyeonghi	adv	In an obvious manner.		
+543	생각을	saenggageul		think		
+544	존	jon	noun	zone		
+545	일단	ildan	adv	first and foremost; first, for a moment; just for starters		
+546	가야	gaya	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+547	걱정	geokjeong	noun	anxiety; worry		
+548	보자	boja	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+549	매일	maeil		every day		
+550	수는	suneun		The number is		
+551	아침	achim	noun	morning; breakfast		
+552	말할	malhal		say		
+553	말아요	marayo		Roll it up		
+554	모두가	moduga		everyone		
+555	않았어요	anasseoyo		I didn't		
+556	얘기를	yaegireul		talk		
+557	봤어요	bwasseoyo	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+558	대신	daesin		instead		
+559	마치	machi		As if		
+560	건데	geonde		It's going to be		
+561	자넨	janen		you		
+562	했잖아	haetjana		You did it		
+563	둘이	duri		Two of us		
+564	당신과	dangsingwa		with you		
+565	집으로	jibeuro		home		
+566	한다	handa	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+567	두고	dugo		Leave it		
+568	이름을	ireumeul		name		
+569	있네	inne		There is		
+570	그들의	geudeurui		their		
+571	뭔데	mwonde		What is it		
+572	금방	geumbang	adv	soon, shortly; just now, just		
+573	사는	saneun		living		
+574	좋아하는	joahaneun		favorite		
+575	찾을	chajeul		find		
+576	맘에	mame		I like it		
+577	결국	gyeolguk	adv	in the end, ultimately		
+578	이유가	iyuga		the reason		
+579	필요해요	piryohaeyo	adj	to have a need; to be necessary, to be needed		
+580	중에	junge		During		
+581	그때	geuttae	noun	that time, the given time		
+582	보는	boneun	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+583	너랑	neorang		With you		
+584	아이를	aireul		child		
+585	없잖아	eopjana		There isn't any		
+586	한다고	handago		I do it		
+587	기분	gibun	noun	feeling, mood		
+588	하게	hage		do		
+589	놈이	nomi		This guy		
+590	못해	motae		I can't		
+591	우리에게	uriege		to us		
+592	가면	gamyeon		mask		
+593	저를	jeoreul		me		
+594	잡아	jaba		catch		
+595	집에서	jibeseo		at home		
+596	우리도	urido		We too		
+597	기분이	gibuni		I feel like		
+598	저희	jeohui	pron	the first person plural polite pronoun; we		
+599	찾고	chatgo		looking for		
+600	손을	soneul		hand		
+601	거다	geoda		It's going to happen		
+602	어제	eoje		yesterday		
+603	남자가	namjaga		the man		
+604	뭐지	mwoji		What is it		
+605	앞으로	apeuro	adv	Used other than figuratively or idiomatically: see 앞 (ap), -으로 (-euro).; from now on; hereafter		
+606	잠깐만요	jamkkanmanyo		Wait a minute		
+607	자신의	jasinui		own		
+608	애가	aega	noun	mournful song, elegy		
+609	이상한	isanghan		strange		
+610	막	mak		Just		
+611	먹고	meokgo		eat		
+612	아이	ai		child		
+613	언제나	eonjena	adv	always; at some point; eventually		
+614	여기가	yeogiga		Here		
+615	아들	adeul	noun	son		
+616	알게	alge		get to know		
+617	하세요	haseyo	verb	informal polite present indicative form of 하시다 (hasida, “to do (polite)”); informal polite present interrogative form of 하시다 (hasida, “to do (polite)”)		
+618	총	chong	noun	gun; rifle; machine gun		
+619	스스로	seuseuro		yourself		
+620	방법이	bangbeobi		There is a way		
+621	있던	itdeon		there was		
+622	해봐	haebwa		Try it		
+623	아님	anim		Not		
+624	때가	ttaega		It's time		
+625	아니죠	anijyo		Nope		
+626	했던	haetdeon		did		
+627	조용히	joyonghi	adv	silently, quietly		
+628	밤에	bame		at night		
+629	미친	michin		crazy		
+630	텐데	tende		It would be		
+631	머리	meori	noun	head; intelligence		
+632	않습니다	anseumnida		does not		
+633	잘못	jalmot		wrong		
+634	고맙습니다	gomapseumnida		thank you		
+635	있어야	isseoya		Must be		
+636	왜냐하면	waenyahamyeon	adv	because; for the following reason.		
+637	앉아	anja		sit		
+638	아침에	achime		in the morning		
+639	죽일	jugil		kill		
+640	환자	hwanja	noun	a medical patient		
+641	양	yang		sheep		
+642	없죠	eopjyo		There is no		
+643	일어나	ireona		wake up		
+644	믿을	mideul		trustworthy		
+645	같네요	ganneyo		Looks like		
+646	건가	geonga		Is it dry?		
+647	게다가	gedaga	adv	moreover; there; thereat		
+648	알렉스	allekseu		alex		
+649	타고	tago		riding		
+650	데	de		having		
+651	들었어	deureosseo		I heard		
+652	눈을	nuneul		eyes		
+653	나에게	naege		to me		
+654	없었어요	eopseosseoyo	adj	to have none; (to be) lacking; (to be) nonexistent		
+655	만나서	mannaseo		meet up		
+656	진정해	jinjeonghae		Calm down		
+657	이것	igeot	pron	this		
+658	더이상	deoisang		anymore		
+659	보지	boji	noun	pussy, vulva, vagina		
+660	방법을	bangbeobeul		way		
+661	원래	wollae		original		
+662	솔직히	soljikhi	adv	honestly		
+663	좋지	jochi		Good		
+664	하려고	haryeogo	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+665	빌어먹을	bireomeogeul		Damn it		
+666	총을	chongeul		gun		
+667	길을	gireul		the road		
+668	누군지	nugunji		who is		
+669	아니라고	anirago		no		
+670	자신을	jasineul		yourself		
+671	여길	yeogil	verb	to consider (as)		
+672	있지만	itjiman		Although there is		
+673	얼른	eolleun	adv	quickly, at once, without delay		
+674	얘들아	yaedeura		Guys		
+675	대로	daero	noun	the same way as, the manner of; the same time as, as soon as		
+676	만든	mandeun		made		
+677	놈	nom	noun	bastard; kid, boy (from an older perspective)		
+678	조심해	josimhae		be careful		
+679	일에	ire		at work		
+680	따라	ttara		follow		
+681	술	sul		alcohol		
+682	정확히	jeonghwakhi	adv	exactly, accurately, correctly, precisely		
+683	자기가	jagiga		Baby		
+684	충분히	chungbunhi	adv	sufficiently		
+685	힘을	himeul		strength		
+686	아저씨	ajeossi	noun	middle-aged elder male; uncle		
+687	알겠지	algetji		Okay		
+688	있었는데	isseonneunde		There was		
+689	사랑하는	saranghaneun		loving		
+690	기다리고	gidarigo	verb	to wait for, to await; to look forward to		
+691	될거야	doelgeoya		It will be		
+692	살아	sara	verb	to live; to dwell		
+693	평생	pyeongsaeng	noun	one's entire life, lifetime		
+694	아까	akka		Earlier		
+695	얘야	yaeya		Honey		
+696	눈	nun	noun	eye (organ allowing animals to see); appreciative eye (for), discerning eye (for)		
+697	거기에	geogie		there		
+698	애	ae		kid		
+699	분명	bunmyeong	adv	clearly, certainly		
+700	말하고	malhago		speaking		
+701	역시	yeoksi	adv	too, also; just as expected		
+702	저희가	jeohuiga		We		
+703	찾아	chaja		find		
+704	걔가	gyaega		He		
+705	이럴	ireol	verb	to do this; to act in this way; to say this		
+706	저기요	jeogiyo		Hey there		
+707	너와	neowa		with you		
+708	될까요	doelkkayo		Will it happen?		
+709	천천히	cheoncheonhi	adv	slowly		
+710	문제	munje	noun	problem, issue, question		
+711	수술을	susureul		surgery		
+712	좋았어	joasseo	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+713	어디에	eodie		where		
+714	문을	muneul		open the door		
+715	맞지	matji		That's right		
+716	어딨어	eodisseo		Where are you?		
+717	조지	joji		george		
+718	아녜요	anyeyo		No		
+719	저녁	jeonyeok	noun	evening; evening meal; supper; dinner		
+720	됩니다	doemnida		It will be done		
+721	마요	mayo	verb	to smash		
+722	생각엔	saenggagen		I think		
+723	만들어	mandeureo		make it		
+724	적어도	jeogeodo	adv	at least; to say the least		
+725	애들	aedeul		kids		
+726	개	gae		dog		
+727	잘했어	jalhaesseo		Well done		
+728	그러나	geureona	adv	but, however; "like that, but;" contraction of 그러하나 (geureohana)		
+729	주	ju		state		
+730	괜찮은	gwaenchaneun	adj	to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...		
+731	생각은	saenggageun		Thought		
+732	위에	wie		above		
+733	가끔	gakkeum	adv	occasionally, from time to time, not frequently or regularly		
+734	있었던	isseotdeon		there was		
+735	간	gan		Liver		
+736	잠시	jamsi		for a moment		
+737	알아서	araseo		Take care of it		
+738	곳에	gose		where		
+739	집을	jibeul		house		
+740	그렇지만	geureochiman		But		
+741	그레이	geurei		gray		
+742	그럼요	geureomyo		Sure		
+743	삶을	salmeul		life		
+744	마음에	maeume		in my heart		
+745	살고	salgo	verb	to live; to dwell		
+746	들고	deulgo		carrying		
+747	분	bun		minutes		
+748	그랬어	geuraesseo		I did		
+749	차를	chareul		tea		
+750	옆에	yeope		next to		
+751	아이가	aiga		The child		
+752	이번엔	ibeonen		This time		
+753	저게	jeoge	pron	that thing (as the subject of the sentence or clause)		
+754	아빠는	appaneun		Dad is		
+755	괜찮을	gwaenchaneul	adj	to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...		
+756	하자	haja		Let's do it		
+757	알았는데	aranneunde		I thought		
+758	생각해요	saenggakaeyo		I think		
+759	없는데	eomneunde	adj	to have none; (to be) lacking; (to be) nonexistent		
+760	생각하는	saenggakaneun		thinking		
+761	아니잖아	anijana		Nope		
+762	마지막으로	majimageuro		finally		
+763	여자를	yeojareul		woman		
+764	죽었어	jugeosseo		dead		
+765	멍청한	meongcheonghan		stupid		
+766	훌륭한	hullyunghan		great		
+767	있었지	isseotji		There was		
+768	정도	jeongdo	noun	degree, extent; an approximate amount		
+769	베일리	beilli		bailey		
+770	준비가	junbiga		ready		
+771	남은	nameun		leftover		
+772	있으니까	isseunikka		Because there is		
+773	싫어요	sireoyo		I don't like it		
+774	입니다	imnida	verb	to carry on the head		
+775	영원히	yeongwonhi	adv	forever, eternally		
+776	엄청난	eomcheongnan		enormous		
+777	정신	jeongsin	noun	mind; consciousness; pneuma; psyche; mindset		
+778	는	neun		is		
+779	계세요	gyeseyo		Are you there?		
+780	하는지	haneunji		Do you do it?		
+781	좋을	joeul	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+782	있었죠	isseotjyo		There was		
+783	간다	ganda	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+784	기회를	gihoereul		opportunity		
+785	그대로	geudaero	adv	just, exactly; just the way something is, without change		
+786	하나도	hanado		Not even one		
+787	멈춰	meomchwo		stop		
+788	필요가	piryoga		need		
+789	도와줘	dowajwo		help me		
+790	다음에	daeume		next time		
+791	앞에서	apeseo	adv	Used other than figuratively or idiomatically: see 앞 (ap), 에서 (eseo).; previously		
+792	뭐든	mwodeun		whatever		
+793	물	mul		water		
+794	밖으로	bakkeuro		out		
+795	오는	oneun		coming		
+796	그렇다면	geureotamyeon		If so		
+797	미국	miguk		united states		
+798	말라고	mallago		Don't tell me		
+799	하지마	hajima	verb	informal present negative hortative form of 하다 (hada, “to do”); informal present negative imperative form of 하다 (hada, “to do”)		
+800	서	seo		standing		
+801	말한	malhan		said		
+802	테니까	tenikka		Because		
+803	앞에	ape		in front		
+804	를	reul		to		
+805	처럼	cheoreom		like		
+806	저한테	jeohante		To me		
+807	거고	geogo		That's it		
+808	받아	bada		take it		
+809	그것도	geugeotdo		That too		
+810	요즘	yojeum	noun	recent times; recently		
+811	믿어	mideo		believe it		
+812	뒤로	dwiro		back		
+813	놈들이	nomdeuri		They		
+814	입고	ipgo		wearing		
+815	보니	boni		Bonnie		
+816	속에	soge		Inside		
+817	잠시만요	jamsimanyo		Wait a minute		
+818	소리야	soriya		It's a sound		
+819	들어봐	deureobwa		Listen		
+820	자기야	jagiya		Baby		
+821	헤이	hei		hey		
+822	에	e		to		
+823	이해가	ihaega		I understand		
+824	옷	ot	noun	clothing; clothes		
+825	들어가	deureoga		Go in		
+826	아버지는	abeojineun		my father		
+827	않을거야	aneulgeoya		won't		
+828	있소	itso		There is		
+829	자네는	janeneun		you		
+830	모르겠지만	moreugetjiman		I don't know, but		
+831	누구도	nugudo		no one		
+832	입	ip		mouth		
+833	어머니	eomeoni	noun	mother		
+834	특별한	teukbyeolhan		special		
+835	좋겠어	jokesseo	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+836	준	jun	verb	given: Past determiner form of 주다 (juda, “to give”).; reduced: Past determiner form of 줄다 (julda, “decrease”).		
+837	그것은	geugeoseun		it is		
+838	관한	gwanhan		about		
+839	할게	halge		I'll do it		
+840	여기는	yeogineun	verb	to consider (as)		
+841	언니	eonni	noun	older sister of a female; somewhat older female		
+842	환자가	hwanjaga		the patient		
+843	갈게	galge		I'll go		
+844	나야	naya	verb	to be born; to appear, arise, occur, take place		
+845	제게	jege	pron	dative form of 저 (jeo); 제 (je) + -게 (-ge)		
+846	하루	haru	noun	a day, 24 hours; daytime		
+847	단	dan		sweet		
+848	필	pil		Phil		
+849	가세요	gaseyo	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+850	끔찍한	kkeumjjikan		terrible		
+851	걸로	geollo	noun	form of 거 (geo), alternative form of 것으로 (geos-euro)		
+852	사랑	sarang	noun	love; affection (emotion); love; beloved (object of one's love)		
+853	일도	ildo		work		
+854	아름다운	areumdaun		beautiful		
+855	년	nyeon		year		
+856	형	hyeong		brother		
+857	뭐요	mwoyo		What		
+858	저런	jeoreon		Like that		
+859	별	byeol		star		
+860	아니다	anida	adj	to not be (something)		
+861	받고	batgo		receive		
+862	할거야	halgeoya		I will do it		
+863	쓸	sseul		write		
+864	씨발	ssibal	intj	fuck! shit!		
+865	돈이	doni		money		
+866	그에게	geuege		to him		
+867	뭔가를	mwongareul		something		
+868	마음을	maeumeul		heart		
+869	문제는	munjeneun		The problem is		
+870	의	ui	noun	righteousness; righteous conduct		
+871	서둘러	seodulleo		hurry up		
+872	못할	motal		can't		
+873	없네	eomne		There is none		
+874	끝났어	kkeunnasseo		It's over		
+875	있을거야	isseulgeoya		There will be		
+876	머리를	meorireul		head		
+877	생각하지	saenggakaji		don't think		
+878	뭐라고요	mworagoyo		What?		
+879	힘든	himdeun		tough		
+880	보게	boge		see		
+881	가게	gage	noun	store, shop		
+882	말해봐	malhaebwa		tell me		
+883	밥	bap	noun	cooked rice; meal		
+884	상황이	sanghwangi		situation		
+885	줘요	jwoyo		Give it to me		
+886	만큼	mankeum	noun	the degree or extent to which		
+887	했지만	haetjiman		I did it but		
+888	같은데요	gateundeyo		I think so		
+889	이름	ireum	noun	name; full name; given name (in opposition to a surname)		
+890	엄마를	eommareul		Mom		
+891	전화를	jeonhwareul		call		
+892	어쩔	eojjeol	verb	to be inevitable; to be in a certain way		
+893	있니	inni		Are you there?		
+894	번째	beonjjae	noun	a dependent noun used to express the order or relative position of an object; a construction equivalent to ordinal numbers.		
+895	할까	halkka		Should I do it?		
+896	얘길	yaegil		story		
+897	찾는	channeun		looking for		
+898	선생님이	seonsaengnimi		teacher		
+899	진짜로	jinjjaro		really		
+900	일이에요	irieyo		It's work		
+901	건지	geonji		Guernsey		
+902	가족을	gajogeul		family		
+903	할지	halji		Do you do it?		
+904	중이야	jungiya		I'm in the middle of it		
+905	믿지	mitji		believe it		
+906	닥쳐	dakchyeo		Shut up		
+907	여기로	yeogiro		here		
+908	저건	jeogeon		That is		
+909	주고	jugo		give		
+910	멀리	meolli		far away		
+911	어이	eoi		Hey		
+912	거짓말	geojinmal	noun	a lie; a false statement		
+913	약	yak		About		
+914	잭	jaek	noun	a jack (surface mounted connector); a jack		
+915	사실은	sasireun	adv	as a matter of fact; actually		
+916	받을	badeul		receive		
+917	그러고	geureogo	verb	to do so; to do it; to say so		
+918	겁니까	geomnikka		Are you afraid?		
+919	먹을	meogeul		eat		
+920	그치만	geuchiman	adv	contraction of 그렇지만 (geureochiman, “nonetheless; however; but”)		
+921	너에게	neoege		to you		
+922	들었어요	deureosseoyo		I heard		
+923	하기	hagi		doing		
+924	오빠	oppa	noun	elder brother of a female; somewhat older male		
+925	오고	ogo		Coming		
+926	있을까	isseulkka		Is it		
+927	어린	eorin		young		
+928	통해	tonghae		through		
+929	아닌데	aninde	adj	to not be (something)		
+930	조금만	jogeumman		just a little bit		
+931	맞는	manneun	verb	to be correct, right; to suit (one's liking), to meet (one's wishes)		
+932	차에	chae		in the car		
+933	여자는	yeojaneun		The woman		
+934	보러	boreo		to see		
+935	손에	sone		in hand		
+936	모르지	moreuji		I don't know		
+937	가까이	gakkai		close		
+938	테니	teni		Teni		
+939	되죠	doejyo		It works		
+940	점점	jeomjeom	noun	gradually, bit by bit		
+941	잔	jan		cup		
+942	이야기를	iyagireul		tell a story		
+943	물론이죠	mullonijyo		Of course		
+944	학교	hakgyo	noun	school		
+945	주는	juneun		giving		
+946	아가씨	agassi	noun	Miss, girl, young lady; a younger sister of one's husband		
+947	먹어	meogeo		eat		
+948	것에	geose		to		
+949	크게	keuge	adv	adverbial form of 크다 (keuda, “to be big, to be great”): greatly		
+950	이유는	iyuneun		The reason is		
+951	군	gun		military		
+952	모두들	modudeul	noun	everybody		
+953	죽인	jugin		killed		
+954	셋	set	num	three (independently, without a classifier)		
+955	알죠	aljyo		I know		
+956	기억	gieok	noun	recall; the faculty of memory		
+957	경찰	gyeongchal	noun	police; policing; a police officer		
+958	제이	jei	noun	The name of the Latin script letter J/j.		
+959	그래야	geuraeya		so that		
+960	목숨을	moksumeul		life		
+961	있을까요	isseulkkayo		Is it there?		
+962	아니지만	anijiman	adj	to not be (something)		
+963	했다	haetda	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+964	딸	ttal	noun	daughter (female child)		
+965	많아	mana	adj	many, much, a lot, plentiful		
+966	떨어져	tteoreojyeo		away		
+967	사람이야	saramiya		It's a person		
+968	다시는	dasineun		never again		
+969	거잖아	geojana		That's right		
+970	애들이	aedeuri		kids		
+971	애를	aereul		I'm struggling		
+972	을	eul	noun	B; used to enumerate the second of a group of unnamed people or objects; the weaker or disadvantaged party in a relationship between two sides		
+973	말이다	marida		That's right		
+974	없다는	eopdaneun		There is no		
+975	만들	mandeul		make		
+976	오면	omyeon		When you come		
+977	할게요	halgeyo		I will do it		
+978	아기	agi	noun	unweaned baby, child; animal baby		
+979	영화	yeonghwa	noun	movie, film		
+980	가족	gajok	noun	household; family		
+981	찾았어	chajasseo		I found it		
+982	특히	teukhi	adv	in particular, notably		
+983	아들을	adeureul		son		
+984	제발요	jebaryo		Please		
+985	꿈을	kkumeul		dream		
+986	세상을	sesangeul		the world		
+987	놈을	nomeul		The guy		
+988	아니었어	anieosseo	adj	to not be (something)		
+989	마이크	maikeu	noun	mike; microphone		
+990	그리	geuri	adv	so much; like that; so		
+991	무엇을	mueoseul		what		
+992	만드는	mandeuneun		making		
+993	얼마	eolma	noun	how much, how many; some amount or quantity		
+994	보여요	boyeoyo		I can see it		
+995	사진	sajin	noun	photograph, picture		
+996	칼	kal	noun	knife, sword		
+997	잠시만	jamsiman		Just a moment		
+998	병원에	byeongwone		to the hospital		
+999	같습니다	gatseumnida	adj	the same; like or similar (often used with 와 (wa)/과 (gwa))		
+1000	바보	babo	noun	fool, moron, idiot; The Fool (Tarot card)		
+1001	열어	yeoreo		open it		
+1002	현재	hyeonjae		present		
+1003	해줘	haejwo		Do it		
+1004	주지	juji	noun	being generally known; especially in the collocation 주지의 사실 (juji-ui sasil, “well-known fact; common knowledge”).		
+1005	했습니다	haetseumnida	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+1006	자주	jaju		often		
+1007	있겠지	itgetji		There must be		
+1008	하는거야	haneungeoya		Are you doing it?		
+1009	샘	saem	noun	spring, fountain (source of water); gland		
+1010	꺼져	kkeojyeo		Go away		
+1011	가만히	gamanhi	adv	still; not moving; quietly		
+1012	그랬지	geuraetji		It was like that		
+1013	지금까지	jigeumkkaji		Until now		
+1014	저거	jeogeo	pron	that thing		
+1015	당연하지	dangyeonhaji		Of course		
+1016	나서	naseo	verb	to be born; to appear, arise, occur, take place		
+1017	그것	geugeot	pron	that (thing near the listener); that (thing that has already been mentioned)		
+1018	또한	ttohan	adv	also, too, furthermore		
+1019	보이지	boiji		I can't see it		
+1020	노래	norae	noun	song; an incessant request, repeated like the refrain of a song		
+1021	위험한	wiheomhan	adj	dangerous		
+1022	클레어	keulleeo		claire		
+1023	쉽게	swipge	adv	adverbial form of 쉽다 (swipda, “to be easy”): easily		
+1024	오지	oji		Ozzy		
+1025	정말요	jeongmaryo		Really		
+1026	계획이	gyehoegi		plan		
+1027	잡고	japgo		hold on		
+1028	열심히	yeolsimhi	adv	enthusiastically, fervently, with dedication		
+1029	마라	mara	verb	to smash		
+1030	경찰이	gyeongchari		the police		
+1031	말하면	malhamyeon		If you say		
+1032	방에	bange		in the room		
+1033	됐다	dwaetda		Done		
+1034	마음이	maeumi		heart		
+1035	메러디스	mereodiseu		meredith		
+1036	운이	uni		lucky		
+1037	드디어	deudieo	adv	finally, at last		
+1038	정보를	jeongboreul		information		
+1039	말입니다	marimnida		I mean		
+1040	때는	ttaeneun		When		
+1041	얼굴을	eolgureul		face		
+1042	만난	mannan		met		
+1043	있거든	itgeodeun		Because there is		
+1044	달	dal	noun	moon; the Moon; month		
+1045	약간	yakgan		slightly		
+1046	했다고	haetdago		I did it		
+1047	일찍	iljjik	adv	early		
+1048	굉장히	goengjanghi	adv	very, greatly		
+1049	못해요	motaeyo		I can't		
+1050	진실을	jinsireul		the truth		
+1051	줄게	julge		I'll give it to you		
+1052	아세요	aseyo		Do you know		
+1053	누굴	nugul		who		
+1054	거라	geora		That's it		
+1055	가족이	gajogi		family		
+1056	새로	saero	adv	anew, newly, for the first time		
+1057	절대로	jeoldaero	adv	absolutely, never		
+1058	와요	wayo		Come		
+1059	알지만	aljiman		I know but		
+1060	되어	doeeo	verb	infinitive of 되다 (doeda)		
+1061	내려	naeryeo		get down		
+1062	같네	ganne		It's the same		
+1063	그거야	geugeoya		That's it		
+1064	크리스티나	keuriseutina		Christina		
+1065	사이에	saie		between		
+1066	자꾸	jakku		over and over again		
+1067	저리	jeori		Go away		
+1068	사실을	sasireul		fact		
+1069	프랭크	peuraengkeu		frank		
+1070	와우	wau		wow		
+1071	뛰어	ttwieo		jump		
+1072	갔어	gasseo	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+1073	죽게	jukge		to die		
+1074	네게	nege	pron	dative form of 너 (neo); 네 (ne) + -게 (-ge)		
+1075	심지어	simjieo	adv	even, what is worse/what was worse		
+1076	글쎄요	geulsseyo	intj	well, let me see		
+1077	사람의	saramui		human		
+1078	오랫동안	oraetdongan	noun	A long time.		
+1079	모습을	moseubeul		appearance		
+1080	얘기가	yaegiga		The story		
+1081	아이고	aigo	intj	expression of surprise; oh, ouch		
+1082	상관	sanggwan	noun	correlation		
+1083	일하는	ilhaneun		working		
+1084	짐	jim		luggage		
+1085	길	gil		road		
+1086	사건	sageon	noun	a noteworthy or remarkable incident		
+1087	그렇다고	geureotago		That's right		
+1088	들어요	deureoyo		listen		
+1089	상황을	sanghwangeul		the situation		
+1090	옷을	oseul		clothes		
+1091	일이죠	irijyo		It's work		
+1092	아니예요	aniyeyo		No		
+1093	죽어	jugeo		die		
+1094	뿐이에요	ppunieyo		It's just that		
+1095	필요는	piryoneun		need		
+1096	여기요	yeogiyo		Here		
+1097	사랑해요	saranghaeyo		I love you		
+1098	죽는	jungneun		dying		
+1099	누군가가	nugungaga		someone		
+1100	얘기해	yaegihae		Talk to me		
+1101	모두를	modureul		everyone		
+1102	커피	keopi	noun	coffee, especially the beverage		
+1103	있는거야	inneungeoya		Is it there?		
+1104	있으니	isseuni		Because		
+1105	없지만	eopjiman	adj	to have none; (to be) lacking; (to be) nonexistent		
+1106	열	yeol		heat		
+1107	다신	dasin		never again		
+1108	만날	mannal	adv	every day; always; all the time		
+1109	남자는	namjaneun		The man		
+1110	저희는	jeohuineun		We are		
+1111	떠날	tteonal		leave		
+1112	맞죠	matjyo		That's right		
+1113	아들이	adeuri		my son		
+1114	놈은	nomeun		The guy		
+1115	하나가	hanaga		There is one		
+1116	의사	uisa	noun	doctor		
+1117	박사님	baksanim		Doctor		
+1118	나오는	naoneun		coming out		
+1119	딸이	ttari		daughter		
+1120	거짓말을	geojinmareul		lie		
+1121	했고	haetgo		I did it		
+1122	얼굴	eolgul	noun	face; visage		
+1123	보내	bonae		send		
+1124	받은	badeun		received		
+1125	쓰고	sseugo		write		
+1126	곳이	gosi		The place is		
+1127	된다고	doendago		It's okay		
+1128	설마	seolma		No way		
+1129	우리한테	urihante		to us		
+1130	방법은	bangbeobeun		The method is		
+1131	인생을	insaengeul		life		
+1132	보이는	boineun		visible		
+1133	정도로	jeongdoro		to the extent		
+1134	아니오	anio	noun	misspelling of 아니요 (aniyo)		
+1135	여러	yeoreo	det	several, various		
+1136	자고	jago		sleeping		
+1137	한다면	handamyeon		If you do		
+1138	실례합니다	sillyehamnida		Excuse me		
+1139	기회가	gihoega		there is a chance		
+1140	했을	haesseul		would have done		
+1141	결혼	gyeolhon	noun	marriage		
+1142	소리를	sorireul		sound		
+1143	알았다	aratda		Got it		
+1144	해야지	haeyaji		I have to do it		
+1145	완벽한	wanbyeokan		perfect		
+1146	있었다	isseotda		there was		
+1147	곳을	goseul		place		
+1148	겨우	gyeou	adv	barely; with difficulty		
+1149	없으면	eopseumyeon	adj	to have none; (to be) lacking; (to be) nonexistent		
+1150	아내가	anaega		my wife		
+1151	있습니까	itseumnikka		Are there any		
+1152	만들고	mandeulgo		create		
+1153	비켜	bikyeo		Get out of the way		
+1154	그것을	geugeoseul		it		
+1155	피를	pireul		blood		
+1156	못한	motan		couldn't		
+1157	말씀	malsseum	noun	word or speech		
+1158	자식	jasik	noun	one's children, offspring; a somewhat rude term referring to male people, sometimes expressing friendliness when used between friends		
+1159	만약에	manyage		if		
+1160	위대한	widaehan		great		
+1161	써	sseo		write		
+1162	이리와	iriwa		Come here		
+1163	눈이	nuni		snow		
+1164	사람도	saramdo		People too		
+1165	요	yo		Yo		
+1166	자신이	jasini		myself		
+1167	당신한테	dangsinhante		To you		
+1168	보통	botong		Normal		
+1169	나갈	nagal		go out		
+1170	문제를	munjereul		problem		
+1171	보다	boda		see		
+1172	앉아서	anjaseo		sit down		
+1173	도와줘요	dowajwoyo		Help me		
+1174	원하지	wonhaji		want		
+1175	이쪽으로	ijjogeuro		this way		
+1176	생각하고	saenggakago		thinking		
+1177	갑시다	gapsida		Let's go		
+1178	사랑을	sarangeul		love		
+1179	너네	neone	pron	alternative form of 너희 (neohui, “you (plural)”); alternative form of 너의 (neoui, “your; yours (singular)”)		
+1180	조	jo		Joe		
+1181	밖에서	bakkeseo		outside		
+1182	들어와	deureowa		Come in		
+1183	그렇군요	geureokunyo		I see.		
+1184	척	cheok	noun	pretense; as if		
+1185	같군	gatgun		Same		
+1186	나온	naon		came out		
+1187	같지	gatji		Same		
+1188	불러	bulleo		call me		
+1189	도움을	doumeul		help		
+1190	마음	maeum	noun	mind, heart (i.e. one's emotions); intention, will		
+1191	최선을	choeseoneul		Do your best		
+1192	된다	doenda		It becomes		
+1193	곳으로	goseuro		to the place		
+1194	아기를	agireul		baby		
+1195	죽이고	jugigo		kill		
+1196	대단한	daedanhan	adj	to be great, huge, immense, enormous, tremendous; to be great, outstanding, incredible, awesome		
+1197	뭐예요	mwoyeyo		What is it		
+1198	환자를	hwanjareul		the patient		
+1199	똑같은	ttokgateun		same		
+1200	가능한	ganeunghan		possible		
+1201	친구들	chingudeul		friends		
+1202	원해	wonhae		want		
+1203	좋아해	joahae		I like it		
+1204	될까	doelkka		Will it work?		
+1205	봤지	bwatji		I saw it		
+1206	방	bang		room		
+1207	몰라도	mollado		I don't know but		
+1208	갈게요	galgeyo		I'll go		
+1209	때도	ttaedo		Even when		
+1210	움직여	umjigyeo		move		
+1211	눈에	nune		in the eyes		
+1212	숨을	sumeul		breathe		
+1213	음악	eumak	noun	music		
+1214	자는	janeun		sleeping		
+1215	딸을	ttareul		daughter		
+1216	모르겠네요	moreugenneyo		I don't know		
+1217	의사가	uisaga		doctor		
+1218	셜록	syeollok		sherlock		
+1219	딴	ttan	noun	another, other; different		
+1220	가져와	gajyeowa		Bring it		
+1221	세상에서	sesangeseo		in the world		
+1222	소리가	soriga		the sound		
+1223	시간은	siganeun		time is		
+1224	도울	doul		help		
+1225	만한	manhan		worthy		
+1226	남편이	nampyeoni		My husband		
+1227	한다는	handaneun		to say		
+1228	아버지를	abeojireul		my father		
+1229	일로	illo	adv	over in this direction, hither		
+1230	감옥에	gamoge		in jail		
+1231	됐지	dwaetji		Okay		
+1232	짓	jit	noun	a physical act or movement		
+1233	순간	sungan	noun	an instant; a moment		
+1234	도와줄	dowajul		help me		
+1235	있도록	itdorok		so that		
+1236	할머니	halmeoni	noun	grandmother; (by extension) elderly female		
+1237	짓이야	jisiya		It's a joke		
+1238	쓰는	sseuneun		writing		
+1239	했잖아요	haetjanayo		You did it		
+1240	너희들	neohuideul	pron	you all, you people, you folks, you guys		
+1241	피터	piteo		peter		
+1242	당신들	dangsindeul	pron	you (plural)		
+1243	그날	geunal	noun	that day; the day in question; (menstrual) period		
+1244	화가	hwaga	noun	artist (painter)		
+1245	새끼	saekki	noun	young animal; a contemptible person, usually male; a son of a bitch		
+1246	쓴	sseun		bitter		
+1247	안에서	aneseo		inside		
+1248	최대한	choedaehan		as much as possible		
+1249	하네	hane		Yes		
+1250	팀	tim	noun	team		
+1251	이후로	ihuro		Since then		
+1252	그들	geudeul	pron	they		
+1253	이지	iji		Easy		
+1254	그치	geuchi	adv	contraction of 그렇지 (geureochi)		
+1255	죽었어요	jugeosseoyo		dead		
+1256	곳에서	goseseo		in a place		
+1257	때마다	ttaemada		every time		
+1258	몸이	momi		body		
+1259	모든게	modeunge		Everything		
+1260	캠	kaem	noun	cam (rotating or sliding piece in a mechanical linkage); abbreviation of 카메라 (kamera, “camera”)		
+1261	어차피	eochapi	adv	anyway, after all		
+1262	압니다	amnida		I know		
+1263	기억이	gieogi		I remember		
+1264	어딜	eodil		where		
+1265	산	san		mountain		
+1266	들려	deullyeo		I hear it		
+1267	있네요	inneyo		There is		
+1268	분이	buni		The person		
+1269	없어서	eopseoseo	adj	to have none; (to be) lacking; (to be) nonexistent		
+1270	이곳에	igose		here		
+1271	미안하지만	mianhajiman	adj	to be ashamed of oneself; to be sorry		
+1272	일어난	ireonan		happened		
+1273	왔습니다	watseumnida		came		
+1274	로스	roseu		ross		
+1275	속에서	sogeseo		in		
+1276	친구를	chingureul		friends		
+1277	모르지만	moreujiman		I don't know but		
+1278	예쁜	yeppeun	adj	Attributive form of 예쁘다 (yeppeuda) (“to be pretty, beautiful”).		
+1279	몸을	momeul		body		
+1280	잊지	itji		forget		
+1281	엄마한테	eommahante		To mom		
+1282	왔다	watda		came		
+1283	했는지	haenneunji		Did you do it?		
+1284	타	ta		ride		
+1285	같군요	gatgunyo		It seems like		
+1286	명	myeong		person		
+1287	모든걸	modeungeol		Everything		
+1288	하라고	harago		Do it		
+1289	그렇습니다	geureoseumnida	adj	to be thus, in that way; to be correct		
+1290	때문이야	ttaemuniya		It's because		
+1291	있겠어	itgesseo		There must be		
+1292	덕분에	deokbune		thanks		
+1293	싶으면	sipeumyeon	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+1294	나가서	nagaseo		go out		
+1295	비밀	bimil	noun	secret		
+1296	달라	dalla		It's different		
+1297	것보다	geotboda		than		
+1298	찾았어요	chajasseoyo		I found it		
+1299	대	dae		stand		
+1300	데릭	derik		derrick		
+1301	고통을	gotongeul		pain		
+1302	환자는	hwanjaneun		The patient		
+1303	엄마랑	eommarang		With mom		
+1304	진정한	jinjeonghan		true		
+1305	같다	gatda		Same		
+1306	생긴	saenggin		made		
+1307	병원	byeongwon	noun	hospital; any facility for healing or treatment of people, animals, or things		
+1308	반가워요	bangawoyo	adj	to be glad, happy; pleasant; welcome		
+1309	내내	naenae	adv	throughout, through, all the time		
+1310	가도	gado	noun	highway		
+1311	생각에	saenggage		in thoughts		
+1312	오세요	oseyo		Come		
+1313	이러지	ireoji		Like this		
+1314	따르면	ttareumyeon		According to		
+1315	고맙네	gomamne		Thank you		
+1316	할까요	halkkayo		Should I do it?		
+1317	사진을	sajineul		take a picture		
+1318	않게	anke		without		
+1319	한잔	hanjan	noun	one drink (of liquor); one glass		
+1320	않는다	anneunda	verb	auxiliary verb used to negate the clause to which the main verb belongs; to not do something		
+1321	있었고	isseotgo		There was		
+1322	되는데	doeneunde		It works		
+1323	남자를	namjareul		a man		
+1324	안으로	aneuro		in		
+1325	알았죠	aratjyo		Okay		
+1326	물론이지	mulloniji		Of course		
+1327	보낸	bonaen		sent		
+1328	피가	piga		blood		
+1329	하니까	hanikka	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+1330	아가	aga	noun	Vocative of 아기 (agi, “baby”); hey, baby		
+1331	반드시	bandeusi	adv	surely; certainly; without fail		
+1332	아무리	amuri	adv	however much/many; no matter how much/many		
+1333	얘기는	yaegineun		The story is		
+1334	잘못된	jalmotdoen		wrong		
+1335	오케이	okei		Okay		
+1336	알아야	araya		I need to know		
+1337	걸요	georyo		Girl		
+1338	해줄	haejul		Do it		
+1339	자리를	jarireul		place		
+1340	문제야	munjeya		It's a problem		
+1341	이유를	iyureul		the reason		
+1342	그러다	geureoda	verb	to do so; to do it; to say so		
+1343	약을	yageul		medicine		
+1344	싶었어	sipeosseo	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+1345	높은	nopeun		high		
+1346	같아서	gataseo	adj	the same; like or similar (often used with 와 (wa)/과 (gwa))		
+1347	이해	ihae	noun	understanding, comprehension of something		
+1348	하나만	hanaman		Just one		
+1349	돌아올	doraol		come back		
+1350	있는게	inneunge		There is something		
+1351	좋습니다	joseumnida	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+1352	좋다	jota	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+1353	배를	baereul		ship		
+1354	찾아야	chajaya		find it		
+1355	못하게	motage		Don't let me		
+1356	막을	mageul		stop it		
+1357	계획을	gyehoegeul		plan		
+1358	루크	rukeu		Luke		
+1359	이래	irae		Like this		
+1360	모르고	moreugo		without knowing		
+1361	없잖아요	eopjanayo		There isn't any		
+1362	그녀	geunyeo		she		
+1363	그동안	geudongan	adv	since our last meeting or conversation; the period of time just mentioned (= 그 동안)		
+1364	거니	geoni		Gurney		
+1365	빼고	ppaego		Except		
+1366	거긴	geogin		There		
+1367	이라고	irago		I said		
+1368	그랬어요	geuraesseoyo		I did		
+1369	더는	deoneun		no more		
+1370	죽지	jukji	noun	shoulder blade; scapula		
+1371	녀석	nyeoseok	noun	dude, fellow; endearing term for usually young boys, similar to squirt or scamp		
+1372	몰랐어	mollasseo		I didn't know		
+1373	리	ri		Lee		
+1374	뭐라	mwora		What		
+1375	박사	baksa	noun	doctorate, Ph.D. (Doctor of Philosophy); doctor (recipient of a doctorate)		
+1376	죽였어	jugyeosseo		I killed it		
+1377	믿고	mitgo		believe it		
+1378	좋네요	jonneyo		It's good		
+1379	여기까지	yeogikkaji		Until here		
+1380	이쪽은	ijjogeun		This is		
+1381	사람들에게	saramdeurege		to people		
+1382	아빠를	appareul		Dad		
+1383	어려운	eoryeoun	adj	to be difficult, to be hard; to be difficult, to be awkward, to be particular (e.g. a person's taste in food)		
+1384	봤는데	bwanneunde		I saw it		
+1385	적은	jeogeun	adj	present determiner of 적다 (jeokda)		
+1386	법을	beobeul		the law		
+1387	모르겠다	moreugetda		I don't know		
+1388	신이	sini		god		
+1389	그렇고	geureoko	adj	to be thus, in that way; to be correct		
+1390	관심	gwansim	noun	interest in, or inclination to, a topic or activity		
+1391	집이	jibi		The house		
+1392	오직	ojik	adv	only, solely, alone, exclusively, but		
+1393	좋아해요	joahaeyo		I like it		
+1394	있었습니다	isseotseumnida		There was		
+1395	나은	naeun		better		
+1396	않아도	anado		Even if you don't have to		
+1397	나면	namyeon	verb	to be born; to appear, arise, occur, take place		
+1398	옛날	yennal	noun	the past; long ago; once upon a time		
+1399	얘가	yaega		This guy		
+1400	식으로	sigeuro		in this way		
+1401	그걸로	geugeollo		With that		
+1402	냄새가	naemsaega		it smells		
+1403	못하는	motaneun		can't		
+1404	인간	ingan	noun	human, human being; fellow, guy		
+1405	세상이	sesangi		the world		
+1406	책	chaek	noun	book		
+1407	모두에게	moduege		to everyone		
+1408	말해줘	malhaejwo		tell me		
+1409	처음으로	cheoeumeuro		for the first time		
+1410	그러게	geureoge		That's right		
+1411	실제로	siljero	adv	in fact, in practice		
+1412	제임스	jeimseu		james		
+1413	데려다	deryeoda		take me		
+1414	크리스마스	keuriseumaseu		christmas		
+1415	보기	bogi		view		
+1416	신의	sinui		God's		
+1417	말했잖아	malhaetjana		I told you		
+1418	말했어	malhaesseo		I said		
+1419	돌아갈	doragal		go back		
+1420	한번도	hanbeondo		never once		
+1421	긴	gin	adj	attributive form of 길다 (gilda, “long”)		
+1422	움직이지	umjigiji		Don't move		
+1423	착한	chakhan	adj	to be good-hearted, to be kind, to be nice; to be good, to be pleasing		
+1424	일이지	iriji		It's work		
+1425	쓰지	sseuji		Write it		
+1426	곳	got	noun	place		
+1427	도와주세요	dowajuseyo		please help		
+1428	그러죠	geureojyo		Of course		
+1429	거니까	geonikka		Because it is		
+1430	곁에	gyeote		next to		
+1431	그녀에게	geunyeoege		to her		
+1432	그러는	geureoneun	verb	to do so; to do it; to say so		
+1433	머리에	meorie		on the head		
+1434	확인해	hwaginhae		Check it out		
+1435	싶어서	sipeoseo	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+1436	것들을	geotdeureul		things		
+1437	데이트	deiteu	noun	date (pre-arranged social meeting, meeting with a lover or a potential lover)		
+1438	사고	sago		accident		
+1439	한거야	hangeoya		I did it		
+1440	세상	sesang	noun	world		
+1441	감사해요	gamsahaeyo		Thank you		
+1442	책을	chaegeul		a book		
+1443	배	bae	noun	abdomen, belly (of a human or animal); abdomen (of an arthropod)		
+1444	젊은	jeolmeun		young		
+1445	가자고	gajago		Let's go		
+1446	아닌가	aninga		Isn't it?		
+1447	좋겠어요	jokesseoyo	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+1448	비행기	bihaenggi	noun	airplane		
+1449	맥스	maekseu		max		
+1450	하잖아	hajana		You say it		
+1451	없소	eopso		No		
+1452	애들은	aedeureun		The kids		
+1453	오늘밤	oneulbam		tonight		
+1454	고맙다	gomapda	adj	thankful		
+1455	라는	raneun		called		
+1456	언젠가	eonjenga	adv	at some time (in the past or future); at any time		
+1457	필요할	piryohal	adj	to have a need; to be necessary, to be needed		
+1458	아이들을	aideureul		children		
+1459	우리와	uriwa		with us		
+1460	머리가	meoriga		head		
+1461	그것이	geugeosi		that is		
+1462	세계	segye	noun	the world, the Earth; The World (Tarot card)		
+1463	애는	aeneun		The kid		
+1464	죽여	jugyeo		kill it		
+1465	차가	chaga		The car		
+1466	죽고	jukgo		die		
+1467	따라와	ttarawa		Follow me		
+1468	힘이	himi		strength		
+1469	확실해	hwaksilhae		I'm sure		
+1470	기억해	gieokae		remember		
+1471	있어도	isseodo		Even if		
+1472	자네를	janereul		you		
+1473	오래된	oraedoen		old		
+1474	기억나	gieongna		I remember		
+1475	루시어스	rusieoseu		Lucius		
+1476	분은	buneun		The person		
+1477	얘기하고	yaegihago		talking		
+1478	상관없어	sanggwaneopseo	adj	to have nothing to do with something; to be OK, not to matter		
+1479	다섯	daseot	num	five		
+1480	이제는	ijeneun		now		
+1481	없네요	eomneyo		There isn't any		
+1482	돌아가	doraga		go back		
+1483	자리에	jarie		in place		
+1484	이만	iman		That's it		
+1485	바랍니다	baramnida		please		
+1486	느낌이	neukkimi		feeling		
+1487	어머	eomeo	intj	oh, my goodness		
+1488	뭐든지	mwodeunji		whatever		
+1489	되요	doeyo		It works		
+1490	마약	mayak	noun	drug, narcotic		
+1491	행운을	haenguneul		good luck		
+1492	봐야	bwaya	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+1493	선생님은	seonsaengnimeun		The teacher		
+1494	줄은	jureun		The line is		
+1495	몰래	mollae	adv	secretly, in secret		
+1496	불쌍한	bulssanghan		poor		
+1497	아니잖아요	anijanayo		That's not true		
+1498	있거든요	itgeodeunyo		Because there is		
+1499	며칠	myeochil	noun	how many days?; which day?, what date?		
+1500	저랑	jeorang		With me		
+1501	결코	gyeolko	adv	at all		
+1502	이걸로	igeollo		With this		
+1503	안녕히	annyeonghi		Goodbye		
+1504	아이는	aineun		The child		
+1505	자네의	janeui		your		
+1506	입을	ibeul		mouth		
+1507	근처에	geuncheoe		nearby		
+1508	들은	deureun		heard		
+1509	뭐하는거야	mwohaneungeoya		what are you doing		
+1510	기다려요	gidaryeoyo	verb	to wait for, to await; to look forward to		
+1511	뭐라도	mworado		Anything		
+1512	않지만	anchiman		But		
+1513	배가	baega		hungry		
+1514	뒤	dwi	noun	back, latter, rear; afterwards, future, next		
+1515	어떡해	eotteokae		What should I do?		
+1516	몸	mom	noun	body (of a human or animal)		
+1517	죽이지	jugiji		Kill me		
+1518	가질	gajil		have		
+1519	해주세요	haejuseyo		Please do it		
+1520	봐라	bwara	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+1521	어서요	eoseoyo		Come on		
+1522	어째서	eojjaeseo		why		
+1523	놓고	noko		let go		
+1524	지금도	jigeumdo		Even now		
+1525	아나	ana		Ana		
+1526	맞다	matda		That's right		
+1527	좋네	jonne		Good		
+1528	의해	uihae		by		
+1529	시간에	sigane		in time		
+1530	차라리	charari	adv	preferably; rather (instead)		
+1531	헨리	helli		henry		
+1532	가끔은	gakkeumeun		Sometimes		
+1533	생각했어	saenggakaesseo		I thought		
+1534	할아버지	harabeoji	noun	grandfather; elderly male		
+1535	덜	deol	adv	less		
+1536	곳은	goseun		The place is		
+1537	남편	nampyeon	noun	husband		
+1538	애들을	aedeureul		The kids		
+1539	구할	guhal		save		
+1540	싶은데	sipeunde	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+1541	불	bul		fire		
+1542	생일	saengil	noun	birthday		
+1543	저렇게	jeoreoke	adv	like that		
+1544	돈은	doneun		money		
+1545	아직은	ajigeun		Not yet		
+1546	상태가	sangtaega		status		
+1547	위로	wiro	noun	consolation, comfort, solace		
+1548	가져	gajyeo	verb	contraction of 가지다 (gajida)		
+1549	얘긴	yaegin		The story		
+1550	안전한	anjeonhan	adj	to be safe		
+1551	실수를	silsureul		make a mistake		
+1552	미리	miri		in advance		
+1553	모를	moreul		I don't know		
+1554	명이	myeongi		Myeongseong		
+1555	사랑에	sarange		in love		
+1556	전엔	jeonen		Before		
+1557	갔어요	gasseoyo	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+1558	갖다	gatda	verb	contraction of 가지다 (gajida)		
+1559	대화를	daehwareul		conversation		
+1560	하나는	hananeun		one is		
+1561	벤	ben		ben		
+1562	지도	jido	noun	map		
+1563	가능성이	ganeungseongi		likely		
+1564	하는게	haneunge		Doing it		
+1565	있는데요	inneundeyo		There is		
+1566	실은	sireun	adv	actually, in fact		
+1567	먹는	meongneun		eating		
+1568	확인	hwagin	noun	check; confirmation; verification; affirmation		
+1569	심각한	simgakan		serious		
+1570	달라고	dallago		ask for it		
+1571	것만	geonman		only		
+1572	있기	itgi		There is		
+1573	그와	geuwa		with him		
+1574	형사님	hyeongsanim		Detective		
+1575	모르죠	moreujyo		I don't know		
+1576	몰랐어요	mollasseoyo		I didn't know		
+1577	결정을	gyeoljeongeul		make a decision		
+1578	파티	pati	noun	party (social gathering)		
+1579	날이	nari		the day		
+1580	최악의	choeagui		worst		
+1581	많아요	manayo	adj	many, much, a lot, plentiful		
+1582	죄송하지만	joesonghajiman		Sorry but		
+1583	있었는지	isseonneunji		Was there		
+1584	미스터	miseuteo	noun	Mr, mister (title)		
+1585	평범한	pyeongbeomhan		ordinary		
+1586	뜻이야	tteusiya		It means		
+1587	올게	olge		I'll come		
+1588	살인	sarin	noun	murder, homicide		
+1589	있겠죠	itgetjyo		There must be		
+1590	들을	deureul		hear		
+1591	믿어요	mideoyo		I believe it		
+1592	우선	useon		First of all		
+1593	마시고	masigo	verb	to smash		
+1594	당신들이	dangsindeuri		you guys		
+1595	자네도	janedo		You too		
+1596	혼자서	honjaseo		alone		
+1597	심장	simjang	noun	heart (an organ)		
+1598	좋은데	joeunde	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+1599	그런거	geureongeo		Something like that		
+1600	그들에게	geudeurege		to them		
+1601	녀석이	nyeoseogi		This guy		
+1602	하면서	hamyeonseo		While		
+1603	좋아하지	joahaji		I don't like it		
+1604	너희가	neohuiga		you guys		
+1605	처음부터	cheoeumbuteo		from the beginning		
+1606	심장이	simjangi		heart		
+1607	보낼	bonael		send		
+1608	가만	gaman		Still		
+1609	않는다면	anneundamyeon		If not		
+1610	심장을	simjangeul		heart		
+1611	자넬	janel		Janelle		
+1612	뭐라구요	mworaguyo		What?		
+1613	갔다	gatda	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+1614	고양이	goyangi	noun	cat		
+1615	위치를	wichireul		location		
+1616	첫번째	cheotbeonjjae		first		
+1617	생각도	saenggakdo		Even thinking		
+1618	동생	dongsaeng	noun	younger sibling; friend who is somewhat younger		
+1619	못했어	motaesseo		I couldn't do it		
+1620	않았다	anatda		did		
+1621	내버려	naebeoryeo		Leave it alone		
+1622	진심으로	jinsimeuro		Sincerely		
+1623	당연하죠	dangyeonhajyo		Of course		
+1624	번도	beondo		Even		
+1625	둘다	dulda		both		
+1626	과장님	gwajangnim		Manager		
+1627	중입니다	jungimnida		In progress		
+1628	마침내	machimnae	adv	finally; in the end.		
+1629	씨가	ssiga		Mr.		
+1630	검은	geomeun		black		
+1631	오말리	omalli		O'Malley		
+1632	봐도	bwado		Even if you look at it		
+1633	적도	jeokdo	noun	equator (circle around the earth)		
+1634	아닐	anil	adj	to not be (something)		
+1635	다리	dari	noun	bridge		
+1636	무기를	mugireul		weapons		
+1637	주면	jumyeon		If you give it		
+1638	돌아	dora		turn around		
+1639	릴리	rilli		lily		
+1640	뭔가가	mwongaga		something		
+1641	따로	ttaro	adv	differently; separately		
+1642	없으니까	eopseunikka	adj	to have none; (to be) lacking; (to be) nonexistent		
+1643	어디야	eodiya		Where are you		
+1644	끝까지	kkeutkkaji		till the end		
+1645	준비해	junbihae		get ready		
+1646	카메라	kamera	noun	camera (a device for taking still or moving pictures)		
+1647	아무튼	amuteun	adv	in any case, anyway, anyhow, at any rate		
+1648	알다시피	aldasipi		As you know		
+1649	죽으면	jugeumyeon		If I die		
+1650	않죠	anchyo		Isn't it?		
+1651	만나	manna		meet		
+1652	않나	anna		Isn’t it?		
+1653	아니라면	aniramyeon		If not		
+1654	임마	imma		Dude		
+1655	중이에요	jungieyo		I'm in the middle of it		
+1656	누군가를	nugungareul		someone		
+1657	있을지	isseulji		Will there be		
+1658	있단	itdan		There is		
+1659	돌아와	dorawa		Come back		
+1660	메리	meri		mary		
+1661	보자고	bojago		Let's see		
+1662	돼서	dwaeseo		It's done		
+1663	들어갈	deureogal		go in		
+1664	않지	anchi		No		
+1665	목을	mogeul		neck		
+1666	마크	makeu	noun	mark		
+1667	정도는	jeongdoneun		To some extent		
+1668	아는데	aneunde		I know		
+1669	게임	geim	noun	game, especially computer games.		
+1670	강한	ganghan	adj	realis adnominal of 강하다 (ganghada, “strong, powerful”)		
+1671	정말이야	jeongmariya		Really		
+1672	받는	banneun		receiving		
+1673	물건을	mulgeoneul		stuff		
+1674	무서워	museowo		I'm scared		
+1675	것으로	geoseuro		as		
+1676	얘기할	yaegihal		to talk about		
+1677	싶었어요	sipeosseoyo	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+1678	수정	sujeong	noun	crystal		
+1679	걱정하지	geokjeonghaji		Don't worry		
+1680	뭐에요	mwoeyo		What is it		
+1681	제길	jegil		Damn it		
+1682	가치가	gachiga		worth it		
+1683	말인지	marinji		Is it true?		
+1684	수술이	susuri		surgery		
+1685	없다면	eopdamyeon		If not		
+1686	톰	tom		tom		
+1687	클라라	keullara		Clara		
+1688	삼촌	samchon	noun	uncle; male sibling of a parent		
+1689	찾은	chajeun		found		
+1690	질문	jilmun	noun	a question		
+1691	저들이	jeodeuri		They		
+1692	서로를	seororeul		each other		
+1693	얼굴이	eolguri		The face		
+1694	아무래도	amuraedo	adv	no matter what; anyway; never		
+1695	당신들은	dangsindeureun		You guys		
+1696	사건을	sageoneul		incident		
+1697	됐죠	dwaetjyo		That's it		
+1698	꿈	kkum	noun	dream		
+1699	입은	ibeun		dressed		
+1700	받았어	badasseo		I got it		
+1701	할수	halsu		can do		
+1702	빠져	ppajyeo		Fall in love		
+1703	물을	mureul		water		
+1704	아기가	agiga		baby		
+1705	닉	nik	noun	a shortening of 닉네임 (ningneim).		
+1706	것과	geotgwa		and		
+1707	명령을	myeongnyeongeul		command		
+1708	부터	buteo		from		
+1709	거라면	georamyeon		If it is		
+1710	죽이는	jugineun		killing		
+1711	정신이	jeongsini		out of mind		
+1712	아파	apa	adj	to be painful, to hurt		
+1713	모르겠네	moreugenne		I don't know		
+1714	똑같이	ttokgachi	adv	equally, evenly; impartially		
+1715	꽤나	kkwaena		Quite a bit		
+1716	되잖아	doejana		It works		
+1717	형이	hyeongi		My brother		
+1718	밑에	mite		under		
+1719	아니었어요	anieosseoyo	adj	to not be (something)		
+1720	어렸을	eoryeosseul		I was young		
+1721	말했어요	malhaesseoyo		I said		
+1722	그만해요	geumanhaeyo		Stop it		
+1723	에서	eseo		in		
+1724	학교에	hakgyoe		to school		
+1725	아무런	amureon	det	of any sort whatsoever; any		
+1726	글로리아	geulloria		Gloria		
+1727	반	ban		half		
+1728	아이들이	aideuri		children		
+1729	그리곤	geurigon		And then		
+1730	거냐	geonya		Are you going?		
+1731	한데	hande		But		
+1732	아버지의	abeojiui		father's		
+1733	받지	batji		I don't get it		
+1734	일하고	ilhago		working		
+1735	말이오	mario		I mean		
+1736	없나요	eomnayo		Isn't there		
+1737	원한다면	wonhandamyeon		if you want		
+1738	생각할	saenggakal		think about		
+1739	버려	beoryeo		Throw it away		
+1740	즉시	jeuksi	adv	immediately, promptly		
+1741	거대한	geodaehan		huge		
+1742	가봐	gabwa		Go		
+1743	발	bal		foot		
+1744	들어가서	deureogaseo		go in		
+1745	시작	sijak	noun	start, beginning		
+1746	사람에게	saramege		to people		
+1747	내놔	naenwa		Give it to me		
+1748	행복한	haengbokan		happy		
+1749	나머지	nameoji	noun	the rest, remainder, what is left over; so... that (typically for verbs and adjectives of emotion)		
+1750	윌	wil		Will		
+1751	도와	dowa		help		
+1752	노래를	noraereul		sing a song		
+1753	왔는데	wanneunde		I came		
+1754	요원	yowon	noun	personnel		
+1755	되게	doege	adv	very, extremely, terribly, awfully		
+1756	누구죠	nugujyo		who is it		
+1757	얼굴에	eolgure		on the face		
+1758	하실	hasil	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+1759	환영합니다	hwanyeonghamnida		welcome		
+1760	걸까	geolkka		Is it		
+1761	되겠지	doegetji		It will work		
+1762	괜찮지	gwaenchanchi		It's okay		
+1763	하던	hadeon		used to		
+1764	아내를	anaereul		wife		
+1765	놈의	nomui		bastard		
+1766	미쳤어	michyeosseo		I'm crazy		
+1767	이것도	igeotdo		This too		
+1768	일부러	ilbureo	adv	deliberately, intentionally, on purpose		
+1769	혹은	hogeun	adv	or (if not); or else		
+1770	나올	naol		come out		
+1771	찾으러	chajeureo		To find it		
+1772	걔는	gyaeneun		He is		
+1773	잡을	jabeul		catch		
+1774	똑바로	ttokbaro	adv	straight, upright, even; correctly, properly		
+1775	얻을	eodeul		get		
+1776	이해해	ihaehae		I understand		
+1777	무지	muji		ignorance		
+1778	쪽으로	jjogeuro		toward		
+1779	무슨일이	museuniri		what happened		
+1780	이해할	ihaehal		understand		
+1781	친구야	chinguya		Hey friend		
+1782	어머니가	eomeoniga		mother		
+1783	질문을	jilmuneul		ask a question		
+1784	워	wo		Whoa		
+1785	엎드려	eopdeuryeo		Lie down		
+1786	있단다	itdanda		There is		
+1787	너희들이	neohuideuri		You guys		
+1788	놈들	nomdeul		bastards		
+1789	병원에서	byeongwoneseo		at the hospital		
+1790	친구는	chinguneun		Friends are		
+1791	믿는	minneun		believe		
+1792	회사	hoesa	noun	a company		
+1793	떨어진	tteoreojin		fell		
+1794	간에	gane		Between		
+1795	쪽	jjok	noun	side; direction of approach or movement		
+1796	다야	daya		That's it		
+1797	선물	seonmul	noun	gift; present		
+1798	안되는	andoeneun		It doesn't work		
+1799	찾아서	chajaseo		find		
+1800	전쟁을	jeonjaengeul		war		
+1801	친구들이	chingudeuri		friends		
+1802	마이클	maikeul		michael		
+1803	싸울	ssaul	verb	to fight or struggle		
+1804	만나고	mannago		meet		
+1805	기다리는	gidarineun	verb	to wait for, to await; to look forward to		
+1806	쉬운	swiun		easy		
+1807	매니	maeni		Manny		
+1808	말로는	malloneun		In words		
+1809	관심이	gwansimi		interested		
+1810	에이미	eimi		Amy		
+1811	사람이에요	saramieyo		It's a person		
+1812	끝난	kkeunnan		finished		
+1813	원치	wonchi	noun	winch (machine)		
+1814	재밌는	jaeminneun	adj	contraction of 재미있다 (jaemiitda)		
+1815	말인데	marinde		Speaking of which		
+1816	그렇겠지	geureoketji		I guess so		
+1817	피	pi		blood		
+1818	예전에	yejeone		In the past		
+1819	건배	geonbae	intj	cheers!; bottoms up!		
+1820	뭔데요	mwondeyo		What is it		
+1821	알면	almyeon		If you know		
+1822	엄마도	eommado		Mom too		
+1823	것들이	geotdeuri		things		
+1824	하려는	haryeoneun		want to		
+1825	맨날	maennal	adv	daily, every day		
+1826	있군	itgun		There is		
+1827	물러서	mulleoseo		Step back		
+1828	숨	sum	noun	breath, breathing; liveliness, spirit, vigor		
+1829	팔	pal		arm		
+1830	더러운	deoreoun		dirty		
+1831	옳은	oreun		correct		
+1832	출혈이	chulhyeori		bleeding		
+1833	즐거운	jeulgeoun		enjoyable		
+1834	다음엔	daeumen		Next time		
+1835	뭐해	mwohae		What are you doing		
+1836	준비됐어	junbidwaesseo		I'm ready		
+1837	검사	geomsa	noun	examination		
+1838	제기랄	jegiral	intj	damn it!; shoot!		
+1839	길이	giri		length		
+1840	나만	naman		Just me		
+1841	있고요	itgoyo		There is		
+1842	이것은	igeoseun		This is		
+1843	좋겠다	joketda	adj	to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)		
+1844	전에도	jeonedo		Even before		
+1845	함장님	hamjangnim		Captain		
+1846	나쁘지	nappeuji		bad		
+1847	관해	gwanhae		About		
+1848	원	won	noun	won; the official currency of South Korea, sign = ₩ (KRW); won; the official currency of North Korea, sign = ₩ (KPW)		
+1849	죽음을	jugeumeul		death		
+1850	사람들의	saramdeurui		of people		
+1851	해라	haera	verb	do, make, act		
+1852	알잖아요	aljanayo		You know		
+1853	거란	georan		Khitan		
+1854	다리를	darireul		legs		
+1855	어젯밤에	eojetbame		last night		
+1856	보내고	bonaego		send		
+1857	쟤가	jyaega		He is		
+1858	오후	ohu	noun	p.m.; afternoon		
+1859	영향을	yeonghyangeul		influence		
+1860	바라는	baraneun		wishing		
+1861	만나러	mannareo		to meet		
+1862	이러는	ireoneun	verb	to do this; to act in this way; to say this		
+1863	다음은	daeumeun		Next is		
+1864	보죠	bojyo		Let's see		
+1865	말해야	malhaeya		I have to say		
+1866	몸에	mome		on the body		
+1867	아빠한테	appahante		To dad		
+1868	약속을	yaksogeul		promise		
+1869	드릴게요	deurilgeyo		I'll give it to you		
+1870	미안하다	mianhada		I'm sorry		
+1871	바람	baram	noun	wind, air, draft; fad; vogue		
+1872	있다고요	itdagoyo		There is		
+1873	은	eun		silver		
+1874	하나를	hanareul		one		
+1875	최소한	choesohan	adv	at least		
+1876	전하	jeonha	noun	Highness (form of address)		
+1877	조니	joni		Johnny		
+1878	발사	balsa	noun	launch, discharge, fire, shoot		
+1879	무서운	museoun		scary		
+1880	못하고	motago		I can't		
+1881	이길	igil		beat		
+1882	일어날	ireonal		wake up		
+1883	말하자면	malhajamyeon		So to speak		
+1884	까지	kkaji		until		
+1885	나보다	naboda		than me		
+1886	둘은	dureun		The two		
+1887	놈들은	nomdeureun		They are		
+1888	능력을	neungnyeogeul		ability		
+1889	차에서	chaeseo		in the car		
+1890	않네	anne		It's not		
+1891	생각했어요	saenggakaesseoyo		I thought		
+1892	그랬죠	geuraetjyo		It was like that		
+1893	상처를	sangcheoreul		hurt		
+1894	생겼어	saenggyeosseo		It looks like		
+1895	물이	muri		water		
+1896	가까운	gakkaun		close		
+1897	켄	ken		ken		
+1898	없나	eomna		Is there any?		
+1899	보라고	borago		Look		
+1900	불을	bureul		light up		
+1901	종일	jongil		all day		
+1902	레이	rei		Ray		
+1903	아이구	aigu	intj	expression of surprise; oh, ouch		
+1904	미래를	miraereul		the future		
+1905	하나의	hanaui		one		
+1906	점심	jeomsim	noun	lunch, luncheon; midday		
+1907	나가요	nagayo		I'm going out		
+1908	최근에	choegeune		recently		
+1909	있었다고	isseotdago		There was		
+1910	최고	choego	noun	the peak, the pinnacle, the topmost point; the best		
+1911	가라	gara		go		
+1912	파티에	patie		to the party		
+1913	진짜야	jinjjaya		It's true		
+1914	아픈	apeun	adj	to be painful, to hurt		
+1915	리가	riga		riga		
+1916	것들	geotdeul		things		
+1917	전에는	jeoneneun		before		
+1918	맞았어	majasseo		That's right		
+1919	걸어	georeo	verb	infinitive of 걷다 (geotda, “to walk”); infinitive of 걸다 (geolda, “to hang”)		
+1920	않나요	annayo		Isn’t it?		
+1921	효과가	hyogwaga		It works		
+1922	때부터	ttaebuteo		From when		
+1923	수술에	susure		to surgery		
+1924	되나요	doenayo		Does it work?		
+1925	도시	dosi		city		
+1926	아래	arae	noun	below, bottom, lower, underneath		
+1927	모릅니다	moreumnida		I don't know		
+1928	자리	jari	noun	space, place, site (occupied by something or someone); seat, position, role, job, post, -ship		
+1929	죄를	joereul		sin		
+1930	가져다	gajyeoda		bring it		
+1931	감히	gamhi	adv	boldly, fearlessly, daringly		
+1932	진심이야	jinsimiya		I'm serious		
+1933	돌려	dollyeo		turn		
+1934	뭐하고	mwohago		What are you doing		
+1935	누구지	nuguji		who is it		
+1936	아닌가요	aningayo		Isn't it?		
+1937	저흰	jeohuin		We		
+1938	일인지	irinji		Is it work?		
+1939	인간의	inganui		human		
+1940	저의	jeoui		my		
+1941	그땐	geuttaen		At that time		
+1942	명의	myeongui	noun	name, title		
+1943	남았어	namasseo		There's left		
+1944	하루종일	harujongil		all day		
+1945	자막	jamak	noun	subtitle		
+1946	쉽지	swipji		It's easy		
+1947	하러	hareo		to do		
+1948	전까지	jeonkkaji		Until		
+1949	냄새	naemsae	noun	a smell, whether fragrant or offensive; odour; scent		
+1950	갈래	gallae	noun	division, separation, split, strand, thread, fork		
+1951	여기선	yeogiseon		Here		
+1952	생명을	saengmyeongeul		life		
+1953	바꿀	bakkul		change		
+1954	아내	anae	noun	wife, especially one's own		
+1955	어떻게든	eotteokedeun		somehow		
+1956	필요로	piryoro		need		
+1957	문이	muni		the door		
+1958	술을	sureul		drink		
+1959	끝나면	kkeunnamyeon		When it's over		
+1960	왔지	watji		came		
+1961	무기	mugi	noun	weapon, arms		
+1962	버리고	beorigo		Throw away		
+1963	지역	jiyeok	noun	area, district, particular geographic region		
+1964	해줘요	haejwoyo		Please do it		
+1965	어젯밤	eojetbam	noun	last night		
+1966	된다면	doendamyeon		If I could		
+1967	올려	ollyeo		Put it up		
+1968	싶다면	sipdamyeon		If you want		
+1969	좋게	joke		well		
+1970	될지	doelji		Will it happen?		
+1971	끌고	kkeulgo		drag		
+1972	거래를	georaereul		make a deal		
+1973	볼까	bolkka		Let's see		
+1974	조심해요	josimhaeyo		Be careful		
+1975	지금부터	jigeumbuteo		From now on		
+1976	폐하	pyeha	noun	His Majesty, Your Majesty		
+1977	만	man		only		
+1978	미안한데	mianhande	adj	to be ashamed of oneself; to be sorry		
+1979	축하해	chukahae		congratulations		
+1980	하	ha		ha		
+1981	인생	insaeng	noun	one's life; human life generally		
+1982	안전하게	anjeonhage		safely		
+1983	말하길	malhagil		said		
+1984	언니가	eonniga		My sister		
+1985	유명한	yumyeonghan		famous		
+1986	숨어	sumeo		hiding		
+1987	로	ro		by		
+1988	밤새	bamsae	noun	contraction of 밤사이 (bamsai, “all night long; throughout the night”)		
+1989	처음엔	cheoeumen		At first		
+1990	나요	nayo	verb	to be born; to appear, arise, occur, take place		
+1991	잠을	jameul		sleep		
+1992	세상은	sesangeun		The world		
+1993	얘는	yaeneun		This is		
+1994	오랜	oraen	det	longstanding; of long duration (of past time); long-time, old		
+1995	최근	choegeun	noun	the latest, the most recent; a close distance		
+1996	좋죠	jochyo		It's good		
+1997	카레브	karebeu		Karev		
+1998	내말은	naemareun		I mean		
+1999	리처드	richeodeu		richard		
+2000	사람한테	saramhante		To people		
+2001	학교에서	hakgyoeseo		at school		
+2002	달려	dallyeo		run		
+2003	갈거야	galgeoya		I'm going		
+2004	왼쪽	oenjjok	noun	left side		
+2005	사실이	sasiri		It's true		
+2006	경우	gyeongu	noun	conditions, circumstances; case, event		
+2007	안해	anhae	noun	wife		
+2008	수많은	sumaneun		countless		
+2009	가기	gagi	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+2010	귀여운	gwiyeoun	adj	Attributive form of 귀엽다 (gwiyeopda).		
+2011	채	chae		Chae		
+2012	크리스	keuriseu		chris		
+2013	하니	hani	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+2014	소식을	sosigeul		news		
+2015	의미가	uimiga		meaning		
+2016	사람과	saramgwa		with people		
+2017	받았어요	badasseoyo		I received it		
+2018	됐습니다	dwaetseumnida		Done		
+2019	전쟁	jeonjaeng	noun	war		
+2020	손이	soni		hand		
+2021	장난	jangnan	noun	mischief, fun, practical joke		
+2022	괜찮니	gwaenchanni		Are you okay?		
+2023	시작해	sijakae		start		
+2024	아니니까	aninikka	adj	to not be (something)		
+2025	스콧	seukot		scott		
+2026	드릴까요	deurilkkayo		Shall I give it to you?		
+2027	마셔	masyeo	verb	to smash		
+2028	쿠키	kuki	noun	cookie (baked good); HTTP cookie		
+2029	보이는데	boineunde		I can see it		
+2030	끝났어요	kkeunnasseoyo		It's over		
+2031	방에서	bangeseo		in the room		
+2032	카라	kara	noun	collar		
+2033	담배	dambae	noun	tobacco; cigarette		
+2034	잘하고	jalhago		Doing well		
+2035	내겐	naegen		To me		
+2036	저에게	jeoege		to me		
+2037	파티를	patireul		party		
+2038	폴	pol	noun	Gyeongsang, Hamgyong, and Jeolla dialect form of 팔 (pal, “arm”)		
+2039	뿐이지	ppuniji		It's just		
+2040	맘대로	mamdaero	adv	contraction of 마음대로 (ma'eumdaero): as one pleases/likes		
+2041	전해	jeonhae		conveyed		
+2042	데리러	derireo		pick up		
+2043	장	jang		chapter		
+2044	삶의	salmui		of life		
+2045	괜찮습니다	gwaenchanseumnida	adj	to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...		
+2046	찰리	challi		charlie		
+2047	없었다	eopseotda		There wasn't		
+2048	영국	yeongguk		england		
+2049	왔네	wanne		You came		
+2050	필요합니다	piryohamnida	adj	to have a need; to be necessary, to be needed		
+2051	라	ra	noun	la (musical note)		
+2052	대니	daeni		Danny		
+2053	이상해	isanghae	adj	to be strange, to be unusual		
+2054	사건이	sageoni		the incident		
+2055	매번	maebeon	adv	all the time		
+2056	거잖아요	geojanayo		That's right		
+2057	보스	boseu	noun	boss (criminal organization); boss (enemy)		
+2058	걸세	geolse		Girl		
+2059	생각해봐	saenggakaebwa		Think about it		
+2060	오신	osin		Welcome		
+2061	비밀을	bimireul		secret		
+2062	있긴	itgin		There is		
+2063	개를	gaereul		dog		
+2064	간다고	gandago		I'm going		
+2065	빠르게	ppareuge		quickly		
+2066	생각합니다	saenggakamnida		I think		
+2067	괜찮으세요	gwaenchaneuseyo	adj	to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...		
+2068	어찌	eojji	adv	How, in what way or for what purpose.		
+2069	오른쪽	oreunjjok	noun	right-hand; the right side		
+2070	말로	mallo		in words		
+2071	위험해	wiheomhae	adj	dangerous		
+2072	범인은	beomineun		The culprit is		
+2073	가방	gabang	noun	bag; briefcase		
+2074	떠나지	tteonaji		leave		
+2075	만들었어	mandeureosseo		I made it		
+2076	싶다고	sipdago		I want to		
+2077	개가	gaega	noun	remarriage (by a woman)		
+2078	뉴욕	nyuyok		new york		
+2079	그러세요	geureoseyo		Please do so		
+2080	먼	meon	adj	realis adnominal of 멀다 (meolda, “to be far, distant”)		
+2081	있는거	inneungeo		There is something		
+2082	이따	itta	adv	alternative form of 이따가 (ittaga)		
+2083	느낄	neukkil		feel		
+2084	우와	uwa		Wow		
+2085	위하여	wihayeo		for		
+2086	열쇠	yeolsoe	noun	key; means		
+2087	도시를	dosireul		the city		
+2088	낼	nael		tomorrow		
+2089	바닥에	badage		on the floor		
+2090	든	deun	verb	past adnominal of 들다 (deulda, “to enter, etc.”); past adnominal of 들다 (deulda, “to hold, etc.”)		
+2091	생각했는데	saenggakaenneunde		I thought		
+2092	진	jin		Jin		
+2093	말했지	malhaetji		I said		
+2094	가르쳐	gareuchyeo		teach		
+2095	마찬가지야	machangajiya		Same thing		
+2096	깊은	gipeun	adj	present determiner form of 깊다 (gipda)		
+2097	났어	nasseo	verb	to be born; to appear, arise, occur, take place		
+2098	물건	mulgeon	noun	item, article, thing, stuff; penis		
+2099	금지	geumji	noun	prohibition, ban		
+2100	살아있는	sarainneun		alive		
+2101	또는	ttoneun	adv	if not; alternatively		
+2102	찾으면	chajeumyeon		If you find it		
+2103	존나	jonna	adv	alternative spelling of 좆나 (jonna, “as fuck, fucking (vulgar intensifying adverb)”)		
+2104	떠나	tteona		leave		
+2105	가죠	gajyo		Let's go		
+2106	사람들도	saramdeuldo		People too		
+2107	않았습니다	anatseumnida		didn't		
+2108	파블로	pabeullo		Pablo		
+2109	선물을	seonmureul		a gift		
+2110	자격이	jagyeogi		qualified		
+2111	스스로를	seuseuroreul		yourself		
+2112	마을	maeul	noun	village, hamlet, usually in rural surroundings; the office of a local magistrate		
+2113	손으로	soneuro		by hand		
+2114	누나	nuna	noun	older sister of a male; somewhat older female friend or acquaintance		
+2115	놈들을	nomdeureul		Those guys		
+2116	때문이지	ttaemuniji		Because		
+2117	비슷한	biseuthan	adj	Attributive form of 비슷하다 (biseuthada) (“to be similar”).		
+2118	없이는	eopsineun		without		
+2119	갑니다	gamnida	verb	to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.		
+2120	계신	gyesin		are you there		
+2121	아가야	agaya		Baby		
+2122	시체를	sichereul		the body		
+2123	데려가	deryeoga		Take it away		
+2124	말해요	malhaeyo		tell me		
+2125	자가	jaga		self		
+2126	옳지	olchi		That's right		
+2127	어릴	eoril		young		
+2128	듯	deut	noun	as if; in a manner suggesting that; leaving it ambiguous whether or not		
+2129	된다는	doendaneun		It's said		
+2130	잘못이	jalmosi		It's my fault		
+2131	아시죠	asijyo		You know		
+2132	동시에	dongsie		at the same time		
+2133	형은	hyeongeun		My brother		
+2134	안다고	andago		I know		
+2135	이동	idong	noun	movement; migration		
+2136	음식을	eumsigeul		food		
+2137	아빠랑	apparang		With dad		
+2138	전까진	jeonkkajin		Until now		
+2139	고작	gojak	adv	at most; only		
+2140	만들지	mandeulji		I won't make it		
+2141	해야할	haeyahal		to do		
+2142	준비를	junbireul		get ready		
+2143	못했어요	motaesseoyo		I couldn't do it		
+2144	번역	beonyeok	noun	translation		
+2145	범인이	beomini		The culprit		
+2146	죽이려고	jugiryeogo		to kill		
+2147	수술은	susureun		Surgery		
+2148	뿐	ppun	noun	only, just; used with -을, the "verbal irrealis adnominal suffix".; Used in -다 뿐이지 (-da ppuniji).		
+2149	싶을	sipeul	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+2150	누구나	nuguna		anyone		
+2151	우리랑	urirang		with us		
+2152	너희들은	neohuideureun		You guys		
+2153	언제부터	eonjebuteo		Since when		
+2154	누구든	nugudeun		anyone		
+2155	관심을	gwansimeul		interest		
+2156	관련된	gwallyeondoen		related		
+2157	음식	eumsik	noun	food, including drink		
+2158	걸릴	geollil		take		
+2159	소릴	soril		noise		
+2160	왕이	wangi		king		
+2161	찾지	chatji		I can't find it		
+2162	약속	yaksok	noun	promise; appointment; engagement		
+2163	들려요	deullyeoyo		I can hear you		
+2164	온다	onda		coming		
+2165	어떤지	eotteonji		What is it like?		
+2166	보여줘	boyeojwo		show me		
+2167	생각이야	saenggagiya		It's a thought		
+2168	무척	mucheok	adv	very, extremely, extraordinarily, exceedingly		
+2169	치프	chipeu		Chief		
+2170	인간이	ingani		human		
+2171	선생	seonsaeng	noun	teacher		
+2172	알겠죠	algetjyo		You understand		
+2173	대해선	daehaeseon		About		
+2174	않네요	anneyo		It doesn't work		
+2175	개인	gaein	noun	an individual or individuals; a private person; personal, individual		
+2176	전부터	jeonbuteo		From before		
+2177	데이비드	deibideu		david		
+2178	잘됐네	jaldwaenne		That's good		
+2179	내려놔	naeryeonwa		Put it down		
+2180	놀라운	nollaun	adj	realis adnominal of 놀랍다 (nollapda)		
+2181	엄청나게	eomcheongnage		incredibly		
+2182	똑똑한	ttokttokan		smart		
+2183	행동을	haengdongeul		action		
+2184	위험을	wiheomeul		risk		
+2185	연락	yeollak	noun	contact, connection, liaison		
+2186	도	do		degrees		
+2187	화장실	hwajangsil	noun	bathroom; restroom; toilet		
+2188	1년	1nyeon		1 year		
+2189	사랑은	sarangeun		love is		
+2190	부르는	bureuneun		calling		
+2191	생기면	saenggimyeon		If it happens		
+2192	부모님이	bumonimi		my parents		
+2193	부인이	buini		The wife		
+2194	하겠습니다	hagetseumnida	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+2195	넣어	neoeo		put it		
+2196	힘들어	himdeureo		It's hard		
+2197	감정을	gamjeongeul		feelings		
+2198	커다란	keodaran		big		
+2199	빠진	ppajin		missing		
+2200	위에서	wieseo		from above		
+2201	진정해요	jinjeonghaeyo		Calm down		
+2202	세상의	sesangui		of the world		
+2203	싶진	sipjin		I don't want to		
+2204	형님	hyeongnim	noun	honorific of 형(兄) (hyeong, “older brother of a male”); wife's older brother (a type of brother-in-law)		
+2205	돌아오지	doraoji		I won't come back		
+2206	방을	bangeul		the room		
+2207	결과를	gyeolgwareul		the result		
+2208	있으세요	isseuseyo		Do you have		
+2209	않았지	anatji		It wasn't		
+2210	소식이	sosigi		There is news		
+2211	임무를	immureul		mission		
+2212	사장님	sajangnim		boss		
+2213	하긴	hagin	adv	honestly, in fact, really, indeed (used as a positive feedback for an aforementioned topic in a conversation)		
+2214	하나요	hanayo		Do you do it?		
+2215	남아	nama		remain		
+2216	듣지	deutji		listen		
+2217	신	sin		god		
+2218	오빠가	oppaga		My brother		
+2219	앨리슨	aelliseun		Allison		
+2220	아내는	anaeneun		my wife		
+2221	하자고	hajago		Let's do it		
+2222	보안	boan	noun	preservation of public security		
+2223	맞습니다	matseumnida		That's right		
+2224	아래로	araero		down		
+2225	버크	beokeu		burke		
+2226	이러면	ireomyeon	verb	to do this; to act in this way; to say this		
+2227	약간의	yakganui		a little		
+2228	모르겠는데	moreugenneunde		I don't know		
+2229	대부분	daebubun	noun	the majority, the better part		
+2230	없었죠	eopseotjyo		There wasn't		
+2231	원해요	wonhaeyo		I want it		
+2232	모르잖아	moreujana		You don't know		
+2233	미안합니다	mianhamnida	adj	to be ashamed of oneself; to be sorry		
+2234	누구요	nuguyo		Who is it		
+2235	싸우고	ssaugo	verb	to fight or struggle		
+2236	없군	eopgun		No		
+2237	줬어	jwosseo		I gave it to you		
+2238	저와	jeowa		With me		
+2239	할래	hallae		I want to do it		
+2240	같구나	gatguna		It's the same		
+2241	됐네	dwaenne		That's it		
+2242	왔을	wasseul		came		
+2243	대학	daehak	noun	college, university		
+2244	드릴	deuril		drill		
+2245	좀더	jomdeo	adv	a little more		
+2246	검사를	geomsareul		inspection		
+2247	예전	yejeon	noun	the old days, the old times, the past, long ago		
+2248	싶습니다	sipseumnida	adj	to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.		
+2249	스티븐스	seutibeunseu		stevens		
+2250	이거야	igeoya		This is it		
+2251	있겠어요	itgesseoyo		Is there one?		
+2252	않았을	anasseul		wouldn't have		
+2253	나가는	naganeun		going out		
+2254	반갑습니다	bangapseumnida	adj	to be glad, happy; pleasant; welcome		
+2255	아저씨가	ajeossiga		Uncle		
+2256	질	jil		vagina		
+2257	기억을	gieogeul		remember		
+2258	돕고	dopgo		helping		
+2259	죽기	jukgi		die		
+2260	봤을	bwasseul		saw it		
+2261	섹스	sekseu	noun	sex (act of sexual intercourse)		
+2262	올게요	olgeyo		I'll come		
+2263	떠난	tteonan		left		
+2264	하네요	haneyo		It does		
+2265	누구랑	nugurang		with whom		
+2266	앤	aen		Ann		
+2267	누군가는	nugunganeun		someone		
+2268	아들은	adeureun		The son		
+2269	바	ba		bar		
+2270	마음대로	maeumdaero	adv	as one pleases/likes		
+2271	만나게	mannage		meet		
+2272	않아서	anaseo		Because		
+2273	결혼을	gyeolhoneul		get married		
+2274	보니까	bonikka	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+2275	씨는	ssineun		Mr.		
+2276	잃은	ireun		lost		
+2277	그런게	geureonge		Something like that		
+2278	엄만	eomman	noun	topic-marked form of 엄마 (eomma)		
+2279	해봐요	haebwayo		Try it		
+2280	빨간	ppalgan	adj	realis adnominal of 빨갛다 (ppalgata, “red”)		
+2281	때문이죠	ttaemunijyo		Because		
+2282	강력한	gangnyeokan		powerful		
+2283	환자의	hwanjaui		patient's		
+2284	대통령님	daetongnyeongnim		Mr. President		
+2285	맥주	maekju	noun	beer		
+2286	아니거든	anigeodeun		No.		
+2287	얘기하는	yaegihaneun		talking		
+2288	중요하지	jungyohaji		It's not important		
+2289	늦었어	neujeosseo		It's late		
+2290	남편은	nampyeoneun		My husband		
+2291	크고	keugo		big and		
+2292	두번째	dubeonjjae		second		
+2293	해서요	haeseoyo		Because I did it		
+2294	연락을	yeollageul		contact me		
+2295	왜죠	waejyo		Why?		
+2296	나무	namu	noun	tree; wood		
+2297	만세	manse	intj	hurrah, hooray; long live		
+2298	쉐퍼드	swepeodeu		Shepherd		
+2299	자유	jayu	noun	freedom, liberty		
+2300	관계를	gwangyereul		relationship		
+2301	싸우는	ssauneun	verb	to fight or struggle		
+2302	거라는	georaneun		That's it		
+2303	경찰에	gyeongchare		to the police		
+2304	기다릴	gidaril	verb	to wait for, to await; to look forward to		
+2305	여행	yeohaeng	noun	travel; journey, trip, voyage		
+2306	이제야	ijeya		Now		
+2307	여자랑	yeojarang		With a woman		
+2308	그곳에	geugose		there		
+2309	치료를	chiryoreul		treatment		
+2310	자네에게	janeege		to you		
+2311	종류의	jongnyuui		kind of		
+2312	연락이	yeollagi		Contact me		
+2313	줄까	julkka		Should I give it to you?		
+2314	안했어	anhaesseo		I didn't do it		
+2315	고	go		Go		
+2316	만나는	mannaneun		meet		
+2317	달린	dallin		ran		
+2318	루시	rusi		lucy		
+2319	그렇군	geureokun		I see.		
+2320	않을까	aneulkka		Wouldn't it be		
+2321	안그래	angeurae		Isn't that right?		
+2322	전화해서	jeonhwahaeseo		By calling		
+2323	나와서	nawaseo		come out		
+2324	지금이	jigeumi		Now is the time		
+2325	괜찮을거야	gwaenchaneulgeoya		It'll be okay		
+2326	세게	sege		harder		
+2327	이것이	igeosi		This is		
+2328	신발	sinbal	noun	shoes, footwear, footgear		
+2329	답을	dabeul		answer		
+2330	팀이	timi		team		
+2331	괜히	gwaenhi	adv	for nothing		
+2332	헤일리	heilli		Hailey		
+2333	셰퍼드	syepeodeu		shepherd		
+2334	있을지도	isseuljido		maybe		
+2335	서서	seoseo	noun	gradually, slowly, steadily		
+2336	애야	aeya		Baby		
+2337	결과가	gyeolgwaga		the result		
+2338	해냈어	haenaesseo		I did it		
+2339	했나	haenna		did you do it		
+2340	별거	byeolgeo	noun	alternative form of 별것 (byeolgeot)		
+2341	러시아	reosia		Russia		
+2342	아빤	appan	noun	topic-marked form of 아빠 (appa)		
+2343	알겠다	algetda		I understand		
+2344	밤을	bameul		night		
+2345	루시퍼	rusipeo		lucifer		
+2346	전화해	jeonhwahae		call me		
+2347	달리	dalli	adv	differently, unlike		
+2348	이야기는	iyagineun		The story is		
+2349	친한	chinhan		friendly		
+2350	하겠어	hagesseo	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+2351	어떤가	eotteonga		What is it like?		
+2352	증거가	jeunggeoga		there is evidence		
+2353	사랑이	sarangi		love		
+2354	깜짝	kkamjjak	noun	while blinking one's eyes (especially in shock); with surprise, with a shock (often in a positive way)		
+2355	있었을	isseosseul		there was		
+2356	가봐야	gabwaya		I have to go		
+2357	행복해	haengbokae		I'm happy		
+2358	대부분의	daebubunui		most		
+2359	생각한	saenggakan		thought		
+2360	침대	chimdae	noun	bed (furniture)		
+2361	넣고	neoko		put it in		
+2362	밑에서	miteseo		from below		
+2363	않았죠	anatjyo		It wasn't		
+2364	걸고	geolgo		Put it on		
+2365	증거를	jeunggeoreul		evidence		
+2366	칼을	kareul		a knife		
+2367	게임을	geimeul		play the game		
+2368	침대에	chimdaee		in bed		
+2369	가족은	gajogeun		family		
+2370	봅시다	bopsida		Let's see		
+2371	타마오	tamao		tamao		
+2372	나왔어	nawasseo		came out		
+2373	거래	georae	noun	transaction; trade; give and take (more generally)		
+2374	행복하게	haengbokage		happily		
+2375	녀석은	nyeoseogeun		The guy		
+2376	영혼을	yeonghoneul		the soul		
+2377	삶은	salmeun		boiled		
+2378	위험에	wiheome		in danger		
+2379	끝날	kkeunnal		It will end		
+2380	두려워	duryeowo		afraid		
+2381	개인적인	gaeinjeogin		personal		
+2382	아버진	abeojin		father		
+2383	저들은	jeodeureun		They are		
+2384	뭡니까	mwomnikka		What is it		
+2385	즉	jeuk		That is		
+2386	2년	2nyeon		2 years		
+2387	미스	miseu	noun	mistake, error		
+2388	중국	jungguk		china		
+2389	속	sok	noun	the interior or inside, especially that which is underneath or within a covering; stomach; insides		
+2390	걱정마	geokjeongma		Don't worry		
+2391	여지가	yeojiga		There is room		
+2392	가라고	garago		Go		
+2393	가야지	gayaji		I have to go		
+2394	집은	jibeun		The house is		
+2395	봐서	bwaseo	verb	to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)		
+2396	결혼식	gyeolhonsik	noun	wedding ceremony		
+2397	자를	jareul		cut		
+2398	기꺼이	gikkeoi	adv	readily; gladly; willingly		
+2399	없으니	eopseuni		Because there is no		
+2400	여기야	yeogiya		It's here		
+2401	오게	oge		come		
+2402	싫어하는	sireohaneun		dislike		
+2403	하시는	hasineun	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+2404	몇몇	myeonmyeot	det	some, a few		
+2405	있다가	itdaga		later		
+2406	확실한	hwaksilhan		sure		
+2407	물어봐	mureobwa		ask		
+2408	필요하면	piryohamyeon	adj	to have a need; to be necessary, to be needed		
+2409	누구한테	nuguhante		To whom		
+2410	결과	gyeolgwa		result		
+2411	없었지	eopseotji		There wasn't		
+2412	말게	malge		Don't		
+2413	정신을	jeongsineul		spirit		
+2414	부르지	bureuji		I'll call you		
+2415	케빈	kebin		kevin		
+2416	제시	jesi	noun	presentation, showing		
+2417	그쪽	geujjok	pron	there, that way; your party, your side, you		
+2418	새끼야	saekkiya		You bastard		
+2419	불이	buri		fire		
+2420	영화를	yeonghwareul		movie		
+2421	맨	maen		top		
+2422	나한텐	nahanten		To me		
+2423	늦게	neutge		late		
+2424	간단한	gandanhan		simple		
+2425	상당히	sangdanghi	adv	suitably; to an appropriate degree; rather; quite		
+2426	너흰	neohuin		You guys		
+2427	발을	bareul		feet		
+2428	이후	ihu	noun	the time following a given point in time; thenceforth		
+2429	이리로	iriro	adv	alternative form of 이리 (iri, “here”)		
+2430	보입니다	boimnida		I see it		
+2431	줄래	jullae		Will you give it to me?		
+2432	돈도	dondo		Money too		
+2433	다르게	dareuge		differently		
+2434	삶이	salmi		life		
+2435	다치게	dachige		hurt		
+2436	뿐입니다	ppunimnida		It's just		
+2437	생각보다	saenggakboda		Than you think		
+2438	나에	nae		To me		
+2439	차는	chaneun		kicking		
+2440	살짝	saljjak	adv	subtly, slightly; discreetly, secretly		
+2441	못하면	motamyeon		If you can't do it		
+2442	상처	sangcheo	noun	wound; injury; scar		
+2443	필요도	piryodo		No need		
+2444	하셨어요	hasyeosseoyo	verb	to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:		
+2445	곳이야	gosiya		It's a place		
+2446	죽음의	jugeumui		of death		
+2447	빈	bin	verb	past determiner of 비다 (bida): empty		
+2448	필요없어	piryoeopseo		No need		
+2449	농담	nongdam	noun	joke, jest		
+2450	번만	beonman		Just once		
+2451	번이나	beonina		once		
+2452	있는건	inneungeon		What is there		
+2453	드세요	deuseyo		Enjoy		
+2454	어쩌다	eojjeoda		somehow		
+2455	잡았어	jabasseo		Got it		
+2456	동생이	dongsaengi		My younger brother		
+2457	뭐냐	mwonya		What is it		
+2458	미첼	michel		Mitchell		
+2459	건물	geonmul	noun	building, construction, edifice		
+2460	있대	itdae		They say there is		
+2461	여자야	yeojaya		It's a girl		
+2462	좋아할	joahal		like it		
+2463	인생은	insaengeun		Life is		
+2464	챙겨	chaenggyeo		Take care		
+2465	됐고	dwaetgo		It's done		
+2466	이상하게	isanghage		strangely		
+2467	잃을	ireul		lose		
+2468	모른다고	moreundago		I don't know		
+2469	생각하면	saenggakamyeon		If you think about it		
+2470	거라고요	georagoyo		I guess		
+2471	인생이	insaengi		life		
+2472	약속해	yaksokae		promise		
+2473	자동차	jadongcha	noun	automobile, car		
+2474	들어봐요	deureobwayo		Listen		
+2475	없을거야	eopseulgeoya		There won't be		
+2476	예를	yereul		For example		
+2477	돌아가서	doragaseo		go back		
+2478	편지를	pyeonjireul		a letter		
+2479	빌리	billi		Billy		
+2480	10분	10bun		10 minutes		
+2481	안다	anda	verb	to hug, to embrace; to take on (a debt, responsibility, etc.)		
+2482	일하러	ilhareo		to work		
+2483	걸린	geollin		caught		
+2484	질문에	jilmune		to the question		
+2485	뒤에서	dwieseo		from behind		
+2486	미	mi	noun	beauty		
+2487	주에	jue		in the week		
+2488	말했죠	malhaetjyo		I said		
+2489	너희는	neohuineun		you guys		
+2490	끝나고	kkeunnago		After finishing		
+2491	말에	mare		in words		
+2492	대통령	daetongnyeong	noun	president of a country		
+2493	보냈어	bonaesseo		Sent it		
+2494	안나	anna		Anna		
+2495	시간이야	siganiya		It's time		
+2496	춤을	chumeul		dance		
+2497	오늘이	oneuri		Today is		
+2498	행크	haengkeu		Hank		
+2499	달러	dalleo	noun	dollar		
+2500	끝이야	kkeuchiya		It's over		

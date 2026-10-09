@@ -10,213 +10,17503 @@
         "words": [
             {
                 "id": "ko-0001",
-                "w": "안녕하세요",
-                "p": "annyeonghaseyo",
-                "d": "hello",
-                "s": "안녕하세요, 잘 지내요? (Hello, how are you?)"
+                "w": "내가",
+                "p": "naega",
+                "d": "I (with subject marker -가)",
+                "s": ""
             },
             {
                 "id": "ko-0002",
-                "w": "감사합니다",
-                "p": "gamsahamnida",
-                "d": "thank you",
-                "s": "감사합니다. (Thank you.)"
+                "w": "그",
+                "p": "geu",
+                "d": "that",
+                "s": ""
             },
             {
                 "id": "ko-0003",
-                "w": "네",
-                "p": "ne",
-                "d": "yes",
-                "s": "네, 맞아요. (Yes, that is right.)"
+                "w": "난",
+                "p": "nan",
+                "d": "I",
+                "s": ""
             },
             {
                 "id": "ko-0004",
-                "w": "아니요",
-                "p": "aniyo",
-                "d": "no",
-                "s": "아니요, 괜찮아요. (No, it is okay.)"
+                "w": "내",
+                "p": "nae",
+                "d": "my",
+                "s": ""
             },
             {
                 "id": "ko-0005",
-                "w": "물",
-                "p": "mul",
-                "d": "water",
-                "s": "물 주세요. (Please give me water.)"
+                "w": "안",
+                "p": "an",
+                "d": "not",
+                "s": ""
             },
             {
                 "id": "ko-0006",
-                "w": "밥",
-                "p": "bap",
-                "d": "rice; meal",
-                "s": "밥을 먹어요. (I eat a meal.)"
+                "w": "수",
+                "p": "su",
+                "d": "way; means; ability (bound noun)",
+                "s": ""
             },
             {
                 "id": "ko-0007",
-                "w": "집",
-                "p": "jip",
-                "d": "house",
-                "s": "집이 커요. (The house is big.)"
+                "w": "이",
+                "p": "i",
+                "d": "This",
+                "s": ""
             },
             {
                 "id": "ko-0008",
-                "w": "친구",
-                "p": "chingu",
-                "d": "friend",
-                "s": "친구를 만나요. (I meet a friend.)"
+                "w": "네",
+                "p": "ne",
+                "d": "yes",
+                "s": ""
             },
             {
                 "id": "ko-0009",
-                "w": "가족",
-                "p": "gajok",
-                "d": "family",
-                "s": "가족이 많아요. (I have a big family.)"
+                "w": "거야",
+                "p": "geoya",
+                "d": "it is; that’s (거 + 이야)",
+                "s": ""
             },
             {
                 "id": "ko-0010",
-                "w": "시간",
-                "p": "sigan",
-                "d": "time",
-                "s": "시간이 없어요. (I do not have time.)"
+                "w": "좀",
+                "p": "jom",
+                "d": "kinda",
+                "s": ""
             },
             {
                 "id": "ko-0011",
-                "w": "오늘",
-                "p": "oneul",
-                "d": "today",
-                "s": "오늘 일해요. (Today I work.)"
+                "w": "그래",
+                "p": "geurae",
+                "d": "yes; that’s right; like that",
+                "s": ""
             },
             {
                 "id": "ko-0012",
-                "w": "내일",
-                "p": "naeil",
-                "d": "tomorrow",
-                "s": "내일 만나요. (See you tomorrow.)"
+                "w": "있어",
+                "p": "isseo",
+                "d": "to exist; to have (informal)",
+                "s": ""
             },
             {
                 "id": "ko-0013",
-                "w": "좋다",
-                "p": "jota",
-                "d": "good",
-                "s": "날씨가 좋아요. (The weather is good.)"
+                "w": "왜",
+                "p": "wae",
+                "d": "why",
+                "s": ""
             },
             {
                 "id": "ko-0014",
-                "w": "나쁘다",
-                "p": "nappeuda",
-                "d": "bad",
-                "s": "날씨가 나빠요. (The weather is bad.)"
+                "w": "더",
+                "p": "deo",
+                "d": "more, -er (to a greater extent)",
+                "s": ""
             },
             {
                 "id": "ko-0015",
-                "w": "크다",
-                "p": "keuda",
-                "d": "big",
-                "s": "집이 커요. (The house is big.)"
+                "w": "그리고",
+                "p": "geurigo",
+                "d": "and, also, in addition (often used at the beginning of a sentence)",
+                "s": ""
             },
             {
                 "id": "ko-0016",
-                "w": "작다",
-                "p": "jakda",
-                "d": "small",
-                "s": "컵이 작아요. (The cup is small.)"
+                "w": "우리",
+                "p": "uri",
+                "d": "us",
+                "s": ""
             },
             {
                 "id": "ko-0017",
-                "w": "나",
-                "p": "na",
-                "d": "I",
-                "s": "나는 학생이에요. (I am a student.)"
+                "w": "다",
+                "p": "da",
+                "d": "all; everything",
+                "s": ""
             },
             {
                 "id": "ko-0018",
-                "w": "너",
-                "p": "neo",
-                "d": "you",
-                "s": "너는 어때? (How about you?)"
+                "w": "무슨",
+                "p": "museun",
+                "d": "what, what kind of; a certain, some; some kind of",
+                "s": ""
             },
             {
                 "id": "ko-0019",
-                "w": "그",
-                "p": "geu",
-                "d": "he; that",
-                "s": "그는 내 친구예요. (He is my friend.)"
+                "w": "한",
+                "p": "han",
+                "d": "one",
+                "s": ""
             },
             {
                 "id": "ko-0020",
-                "w": "그녀",
-                "p": "geunyeo",
-                "d": "she",
-                "s": "그녀는 선생님이에요. (She is a teacher.)"
+                "w": "하지만",
+                "p": "hajiman",
+                "d": "But",
+                "s": ""
             },
             {
                 "id": "ko-0021",
-                "w": "하다",
-                "p": "hada",
-                "d": "to do",
-                "s": "뭐 해요? (What are you doing?)"
+                "w": "잘",
+                "p": "jal",
+                "d": "well",
+                "s": ""
             },
             {
                 "id": "ko-0022",
-                "w": "있다",
-                "p": "itda",
-                "d": "to have; to exist",
-                "s": "시간이 있어요. (I have time.)"
+                "w": "어떻게",
+                "p": "eotteoke",
+                "d": "how; adverbial form of 어떻다 (eotteota); what is … ?",
+                "s": ""
             },
             {
                 "id": "ko-0023",
-                "w": "가다",
-                "p": "gada",
-                "d": "to go",
-                "s": "집에 가요. (I go home.)"
+                "w": "할",
+                "p": "hal",
+                "d": "do",
+                "s": ""
             },
             {
                 "id": "ko-0024",
-                "w": "오다",
-                "p": "oda",
-                "d": "to come",
-                "s": "여기로 오세요. (Come here.)"
+                "w": "그냥",
+                "p": "geunyang",
+                "d": "simply; just like that; just as it is.; for no particular reason",
+                "s": ""
             },
             {
                 "id": "ko-0025",
-                "w": "먹다",
-                "p": "meokda",
-                "d": "to eat",
-                "s": "밥을 먹어요. (I eat.)"
+                "w": "정말",
+                "p": "jeongmal",
+                "d": "really",
+                "s": ""
             },
             {
                 "id": "ko-0026",
-                "w": "마시다",
-                "p": "masida",
-                "d": "to drink",
-                "s": "물을 마셔요. (I drink water.)"
+                "w": "그럼",
+                "p": "geureom",
+                "d": "Then",
+                "s": ""
             },
             {
                 "id": "ko-0027",
-                "w": "말하다",
-                "p": "malhada",
-                "d": "to speak",
-                "s": "한국어를 말해요. (I speak Korean.)"
+                "w": "것",
+                "p": "geot",
+                "d": "thing; that which",
+                "s": ""
             },
             {
                 "id": "ko-0028",
-                "w": "보다",
-                "p": "boda",
-                "d": "to see; to watch",
-                "s": "영화를 봐요. (I watch a movie.)"
+                "w": "게",
+                "p": "ge",
+                "d": "crab",
+                "s": ""
             },
             {
                 "id": "ko-0029",
-                "w": "사랑",
-                "p": "sarang",
-                "d": "love",
-                "s": "사랑해요. (I love you.)"
+                "w": "있어요",
+                "p": "isseoyo",
+                "d": "to exist; to have (polite)",
+                "s": ""
             },
             {
                 "id": "ko-0030",
+                "w": "있는",
+                "p": "inneun",
+                "d": "existing; that exists",
+                "s": ""
+            },
+            {
+                "id": "ko-0031",
+                "w": "해",
+                "p": "hae",
+                "d": "to do (informal)",
+                "s": ""
+            },
+            {
+                "id": "ko-0032",
+                "w": "여기",
+                "p": "yeogi",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "ko-0033",
+                "w": "넌",
+                "p": "neon",
+                "d": "you (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0034",
+                "w": "제가",
+                "p": "jega",
+                "d": "I (polite, subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0035",
+                "w": "날",
+                "p": "nal",
+                "d": "me (object); day",
+                "s": ""
+            },
+            {
+                "id": "ko-0036",
+                "w": "우리가",
+                "p": "uriga",
+                "d": "we (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0037",
+                "w": "건",
+                "p": "geon",
+                "d": "that thing (topic); it is (거 + 는)",
+                "s": ""
+            },
+            {
+                "id": "ko-0038",
+                "w": "전",
+                "p": "jeon",
+                "d": "before; I (polite, topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0039",
+                "w": "이제",
+                "p": "ije",
+                "d": "now, and now",
+                "s": ""
+            },
+            {
+                "id": "ko-0040",
+                "w": "지금",
+                "p": "jigeum",
+                "d": "now",
+                "s": ""
+            },
+            {
+                "id": "ko-0041",
+                "w": "그게",
+                "p": "geuge",
+                "d": "that thing (as the subject of the sentence or clause)",
+                "s": ""
+            },
+            {
+                "id": "ko-0042",
+                "w": "걸",
+                "p": "geol",
+                "d": "that thing (object); will (future)",
+                "s": ""
+            },
+            {
+                "id": "ko-0043",
+                "w": "거",
+                "p": "geo",
+                "d": "thing; that",
+                "s": ""
+            },
+            {
+                "id": "ko-0044",
+                "w": "아니",
+                "p": "ani",
+                "d": "no",
+                "s": ""
+            },
+            {
+                "id": "ko-0045",
+                "w": "네가",
+                "p": "nega",
+                "d": "allomorph of 너 (neo, “(informal) you”) before -가 (-ga, “nominative case marker”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0046",
+                "w": "없어",
+                "p": "eopseo",
+                "d": "to not exist; to not have (informal)",
+                "s": ""
+            },
+            {
+                "id": "ko-0047",
+                "w": "돼",
+                "p": "dwae",
+                "d": "infinitive of 되다 (doeda)",
+                "s": ""
+            },
+            {
+                "id": "ko-0048",
+                "w": "저",
+                "p": "jeo",
+                "d": "that (distal); I (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0049",
+                "w": "우린",
+                "p": "urin",
+                "d": "we (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0050",
+                "w": "제",
+                "p": "je",
+                "d": "my (polite); I (polite, subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0051",
+                "w": "못",
+                "p": "mot",
+                "d": "cannot; not",
+                "s": ""
+            },
+            {
+                "id": "ko-0052",
+                "w": "좋아",
+                "p": "joa",
+                "d": "infinitive of 좋다 (jota, “to be good”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0053",
+                "w": "당신이",
+                "p": "dangsini",
+                "d": "you (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0054",
+                "w": "다른",
+                "p": "dareun",
+                "d": "different, other",
+                "s": ""
+            },
+            {
+                "id": "ko-0055",
+                "w": "나",
+                "p": "na",
+                "d": "me",
+                "s": ""
+            },
+            {
+                "id": "ko-0056",
+                "w": "그런",
+                "p": "geureon",
+                "d": "like that",
+                "s": ""
+            },
+            {
+                "id": "ko-0057",
+                "w": "그건",
+                "p": "geugeon",
+                "d": "that is; that thing (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0058",
+                "w": "너무",
+                "p": "neomu",
+                "d": "too, excessively; so, very, extremely",
+                "s": ""
+            },
+            {
+                "id": "ko-0059",
+                "w": "그래서",
+                "p": "geuraeseo",
+                "d": "So",
+                "s": ""
+            },
+            {
+                "id": "ko-0060",
+                "w": "그렇게",
+                "p": "geureoke",
+                "d": "so, so much; in that way, to that extent",
+                "s": ""
+            },
+            {
+                "id": "ko-0061",
+                "w": "다시",
+                "p": "dasi",
+                "d": "again",
+                "s": ""
+            },
+            {
+                "id": "ko-0062",
+                "w": "이건",
+                "p": "igeon",
+                "d": "this is; this thing (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0063",
+                "w": "이런",
+                "p": "ireon",
+                "d": "like this; such",
+                "s": ""
+            },
+            {
+                "id": "ko-0064",
+                "w": "나도",
+                "p": "nado",
+                "d": "me too",
+                "s": ""
+            },
+            {
+                "id": "ko-0065",
+                "w": "모든",
+                "p": "modeun",
+                "d": "all, every, each",
+                "s": ""
+            },
+            {
+                "id": "ko-0066",
+                "w": "당신",
+                "p": "dangsin",
+                "d": "second person singular plain pronoun; you",
+                "s": ""
+            },
+            {
+                "id": "ko-0067",
+                "w": "거예요",
+                "p": "geoyeyo",
+                "d": "it is (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0068",
+                "w": "당신은",
+                "p": "dangsineun",
+                "d": "you (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0069",
+                "w": "아",
+                "p": "a",
+                "d": "Ah",
+                "s": ""
+            },
+            {
+                "id": "ko-0070",
+                "w": "좋은",
+                "p": "joeun",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-0071",
+                "w": "오",
+                "p": "o",
+                "d": "oh",
+                "s": ""
+            },
+            {
+                "id": "ko-0072",
+                "w": "때",
+                "p": "ttae",
+                "d": "time; occasion; opportunity",
+                "s": ""
+            },
+            {
+                "id": "ko-0073",
+                "w": "너",
+                "p": "neo",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-0074",
+                "w": "하는",
+                "p": "haneun",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0075",
+                "w": "하고",
+                "p": "hago",
+                "d": "a conjunctive form of 하다 (hada)",
+                "s": ""
+            },
+            {
+                "id": "ko-0076",
+                "w": "아냐",
+                "p": "anya",
+                "d": "contraction of 아니야 (aniya, “no”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0077",
+                "w": "나는",
+                "p": "naneun",
+                "d": "I (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0078",
+                "w": "아니야",
+                "p": "aniya",
+                "d": "it is not (informal)",
+                "s": ""
+            },
+            {
+                "id": "ko-0079",
+                "w": "알아",
+                "p": "ara",
+                "d": "to know (informal)",
+                "s": ""
+            },
+            {
+                "id": "ko-0080",
+                "w": "같이",
+                "p": "gachi",
+                "d": "together",
+                "s": ""
+            },
+            {
+                "id": "ko-0081",
+                "w": "응",
+                "p": "eung",
+                "d": "yes",
+                "s": ""
+            },
+            {
+                "id": "ko-0082",
+                "w": "이게",
+                "p": "ige",
+                "d": "this thing (as the subject of the sentence or clause)",
+                "s": ""
+            },
+            {
+                "id": "ko-0083",
+                "w": "없어요",
+                "p": "eopseoyo",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0084",
+                "w": "괜찮아",
+                "p": "gwaenchana",
+                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
+                "s": ""
+            },
+            {
+                "id": "ko-0085",
+                "w": "오늘",
+                "p": "oneul",
+                "d": "today",
+                "s": ""
+            },
+            {
+                "id": "ko-0086",
+                "w": "말이야",
+                "p": "mariya",
+                "d": "I mean; you see",
+                "s": ""
+            },
+            {
+                "id": "ko-0087",
+                "w": "줄",
+                "p": "jul",
+                "d": "line; way; method (bound noun)",
+                "s": ""
+            },
+            {
+                "id": "ko-0088",
+                "w": "또",
+                "p": "tto",
+                "d": "also; again",
+                "s": ""
+            },
+            {
+                "id": "ko-0089",
+                "w": "널",
+                "p": "neol",
+                "d": "you (object)",
+                "s": ""
+            },
+            {
+                "id": "ko-0090",
+                "w": "누가",
+                "p": "nuga",
+                "d": "who (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0091",
+                "w": "어떤",
+                "p": "eotteon",
+                "d": "what kind of; some, any",
+                "s": ""
+            },
+            {
+                "id": "ko-0092",
+                "w": "아주",
+                "p": "aju",
+                "d": "very",
+                "s": ""
+            },
+            {
+                "id": "ko-0093",
+                "w": "말",
+                "p": "mal",
+                "d": "word; speech; horse",
+                "s": ""
+            },
+            {
+                "id": "ko-0094",
+                "w": "아직",
+                "p": "ajik",
+                "d": "still; yet, not yet",
+                "s": ""
+            },
+            {
+                "id": "ko-0095",
+                "w": "안돼",
+                "p": "andwae",
+                "d": "it is not allowed; no",
+                "s": ""
+            },
+            {
+                "id": "ko-0096",
+                "w": "진짜",
+                "p": "jinjja",
+                "d": "really",
+                "s": ""
+            },
+            {
+                "id": "ko-0097",
+                "w": "모두",
+                "p": "modu",
+                "d": "all",
+                "s": ""
+            },
+            {
+                "id": "ko-0098",
+                "w": "마",
+                "p": "ma",
+                "d": "Do",
+                "s": ""
+            },
+            {
+                "id": "ko-0099",
+                "w": "같은",
+                "p": "gateun",
+                "d": "same",
+                "s": ""
+            },
+            {
+                "id": "ko-0100",
+                "w": "여기서",
+                "p": "yeogiseo",
+                "d": "from here",
+                "s": ""
+            },
+            {
+                "id": "ko-0101",
+                "w": "어서",
+                "p": "eoseo",
+                "d": "quickly; an expression hard to translate in English; usually used with 오다 (oda) and its compounds to show one is welcome somewhere.",
+                "s": ""
+            },
+            {
+                "id": "ko-0102",
+                "w": "그는",
+                "p": "geuneun",
+                "d": "he (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0103",
+                "w": "위해",
+                "p": "wihae",
+                "d": "for; for the sake of",
+                "s": ""
+            },
+            {
+                "id": "ko-0104",
+                "w": "해요",
+                "p": "haeyo",
+                "d": "informal polite present indicative form of 하다 (hada, “to do”); informal polite present interrogative form of 하다 (hada, “to do”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0105",
+                "w": "일이",
+                "p": "iri",
+                "d": "work (subject); matter (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0106",
+                "w": "하지",
+                "p": "haji",
+                "d": "do not (with -지 마); do",
+                "s": ""
+            },
+            {
+                "id": "ko-0107",
+                "w": "엄마",
+                "p": "eomma",
+                "d": "mum, mummy",
+                "s": ""
+            },
+            {
+                "id": "ko-0108",
+                "w": "바로",
+                "p": "baro",
+                "d": "truly, without lie or deception; straight, without curvature",
+                "s": ""
+            },
+            {
+                "id": "ko-0109",
+                "w": "가",
+                "p": "ga",
+                "d": "go",
+                "s": ""
+            },
+            {
+                "id": "ko-0110",
+                "w": "근데",
+                "p": "geunde",
+                "d": "however; but; by the way",
+                "s": ""
+            },
+            {
+                "id": "ko-0111",
+                "w": "알고",
+                "p": "algo",
+                "d": "knowing; to know and",
+                "s": ""
+            },
+            {
+                "id": "ko-0112",
+                "w": "이렇게",
+                "p": "ireoke",
+                "d": "like this, this way",
+                "s": ""
+            },
+            {
+                "id": "ko-0113",
+                "w": "빨리",
+                "p": "ppalli",
+                "d": "quickly, without delay; often used when urging someone to hurry",
+                "s": ""
+            },
+            {
+                "id": "ko-0114",
+                "w": "있습니다",
+                "p": "itseumnida",
+                "d": "to exist; to have (formal polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0115",
+                "w": "이거",
+                "p": "igeo",
+                "d": "this; this thing",
+                "s": ""
+            },
+            {
+                "id": "ko-0116",
+                "w": "전에",
+                "p": "jeone",
+                "d": "before; ago",
+                "s": ""
+            },
+            {
+                "id": "ko-0117",
+                "w": "어",
+                "p": "eo",
+                "d": "uh",
+                "s": ""
+            },
+            {
+                "id": "ko-0118",
+                "w": "아뇨",
+                "p": "anyo",
+                "d": "contraction of 아니요 (aniyo, “no”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0119",
+                "w": "계속",
+                "p": "gyesok",
+                "d": "continue",
+                "s": ""
+            },
+            {
+                "id": "ko-0120",
+                "w": "닥터",
+                "p": "dakteo",
+                "d": "doctor",
+                "s": ""
+            },
+            {
+                "id": "ko-0121",
+                "w": "얼마나",
+                "p": "eolmana",
+                "d": "how long, how much, how many",
+                "s": ""
+            },
+            {
+                "id": "ko-0122",
+                "w": "될",
+                "p": "doel",
+                "d": "be",
+                "s": ""
+            },
+            {
+                "id": "ko-0123",
+                "w": "알았어",
+                "p": "arasseo",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-0124",
+                "w": "않아",
+                "p": "ana",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-0125",
+                "w": "제발",
+                "p": "jebal",
+                "d": "please",
+                "s": ""
+            },
+            {
+                "id": "ko-0126",
+                "w": "있지",
+                "p": "itji",
+                "d": "you know; right?",
+                "s": ""
+            },
+            {
+                "id": "ko-0127",
+                "w": "겁니다",
+                "p": "geomnida",
+                "d": "it is (formal polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0128",
+                "w": "어디",
+                "p": "eodi",
+                "d": "where",
+                "s": ""
+            },
+            {
+                "id": "ko-0129",
+                "w": "사람이",
+                "p": "sarami",
+                "d": "person (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0130",
+                "w": "그가",
+                "p": "geuga",
+                "d": "he (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0131",
+                "w": "안녕",
+                "p": "annyeong",
+                "d": "hello",
+                "s": ""
+            },
+            {
+                "id": "ko-0132",
+                "w": "좋아요",
+                "p": "joayo",
+                "d": "it is good; okay (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0133",
+                "w": "같아",
+                "p": "gata",
+                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
+                "s": ""
+            },
+            {
+                "id": "ko-0134",
+                "w": "우리는",
+                "p": "urineun",
+                "d": "we (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0135",
+                "w": "그래요",
+                "p": "geuraeyo",
+                "d": "yes; that is right (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0136",
+                "w": "당신을",
+                "p": "dangsineul",
+                "d": "you (object)",
+                "s": ""
+            },
+            {
+                "id": "ko-0137",
+                "w": "자",
+                "p": "ja",
+                "d": "Now",
+                "s": ""
+            },
+            {
+                "id": "ko-0138",
+                "w": "그걸",
+                "p": "geugeol",
+                "d": "that (object)",
+                "s": ""
+            },
+            {
+                "id": "ko-0139",
+                "w": "두",
+                "p": "du",
+                "d": "two",
+                "s": ""
+            },
+            {
+                "id": "ko-0140",
+                "w": "아니에요",
+                "p": "anieyo",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0141",
+                "w": "있을",
+                "p": "isseul",
+                "d": "that will exist; will have",
+                "s": ""
+            },
+            {
+                "id": "ko-0142",
+                "w": "때문에",
+                "p": "ttaemune",
+                "d": "because of this, because of the aforementioned",
+                "s": ""
+            },
+            {
+                "id": "ko-0143",
+                "w": "대해",
+                "p": "daehae",
+                "d": "about; regarding",
+                "s": ""
+            },
+            {
+                "id": "ko-0144",
+                "w": "아빠",
+                "p": "appa",
+                "d": "dad, papa",
+                "s": ""
+            },
+            {
+                "id": "ko-0145",
+                "w": "몇",
+                "p": "myeot",
+                "d": "how many; which number",
+                "s": ""
+            },
+            {
+                "id": "ko-0146",
+                "w": "사람",
+                "p": "saram",
+                "d": "person",
+                "s": ""
+            },
+            {
+                "id": "ko-0147",
+                "w": "했어",
+                "p": "haesseo",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0148",
+                "w": "뭐야",
+                "p": "mwoya",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-0149",
+                "w": "수도",
+                "p": "sudo",
+                "d": "capital; (it) can also",
+                "s": ""
+            },
+            {
+                "id": "ko-0150",
+                "w": "많이",
+                "p": "mani",
+                "d": "many, much, a lot, plenty, in abundance",
+                "s": ""
+            },
+            {
+                "id": "ko-0151",
+                "w": "집에",
+                "p": "jibe",
+                "d": "at home; to home",
+                "s": ""
+            },
+            {
+                "id": "ko-0152",
+                "w": "거지",
+                "p": "geoji",
+                "d": "right?; of course",
+                "s": ""
+            },
+            {
+                "id": "ko-0153",
+                "w": "일을",
+                "p": "ireul",
+                "d": "work (object)",
+                "s": ""
+            },
+            {
+                "id": "ko-0154",
+                "w": "저는",
+                "p": "jeoneun",
+                "d": "I (polite, topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0155",
+                "w": "음",
+                "p": "eum",
+                "d": "um",
+                "s": ""
+            },
+            {
+                "id": "ko-0156",
+                "w": "그렇지",
+                "p": "geureochi",
+                "d": "yes; isn't it? aren't you?, etc. (seeking confirmation)",
+                "s": ""
+            },
+            {
+                "id": "ko-0157",
+                "w": "함께",
+                "p": "hamkke",
+                "d": "together",
+                "s": ""
+            },
+            {
+                "id": "ko-0158",
+                "w": "만약",
+                "p": "manyak",
+                "d": "if, in the event that.",
+                "s": ""
+            },
+            {
+                "id": "ko-0159",
+                "w": "하나",
+                "p": "hana",
+                "d": "one",
+                "s": ""
+            },
+            {
+                "id": "ko-0160",
+                "w": "저기",
+                "p": "jeogi",
+                "d": "over there; excuse me",
+                "s": ""
+            },
+            {
+                "id": "ko-0161",
+                "w": "고마워요",
+                "p": "gomawoyo",
+                "d": "thank you (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0162",
+                "w": "항상",
+                "p": "hangsang",
+                "d": "always",
+                "s": ""
+            },
+            {
+                "id": "ko-0163",
+                "w": "나한테",
+                "p": "nahante",
+                "d": "to me",
+                "s": ""
+            },
+            {
+                "id": "ko-0164",
+                "w": "잠깐",
+                "p": "jamkkan",
+                "d": "a moment; wait",
+                "s": ""
+            },
+            {
+                "id": "ko-0165",
+                "w": "가서",
+                "p": "gaseo",
+                "d": "go and; having gone",
+                "s": ""
+            },
+            {
+                "id": "ko-0166",
+                "w": "가장",
+                "p": "gajang",
+                "d": "most",
+                "s": ""
+            },
+            {
+                "id": "ko-0167",
+                "w": "돼요",
+                "p": "dwaeyo",
+                "d": "it is okay; it works",
+                "s": ""
+            },
+            {
+                "id": "ko-0168",
+                "w": "거죠",
+                "p": "geojyo",
+                "d": "right?; that is",
+                "s": ""
+            },
+            {
+                "id": "ko-0169",
+                "w": "가자",
+                "p": "gaja",
+                "d": "let us go",
+                "s": ""
+            },
+            {
+                "id": "ko-0170",
+                "w": "맞아",
+                "p": "maja",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0171",
+                "w": "보고",
+                "p": "bogo",
+                "d": "seeing; see and",
+                "s": ""
+            },
+            {
+                "id": "ko-0172",
+                "w": "와",
+                "p": "wa",
+                "d": "Wow",
+                "s": ""
+            },
+            {
+                "id": "ko-0173",
+                "w": "그거",
+                "p": "geugeo",
+                "d": "it, that thing",
+                "s": ""
+            },
+            {
+                "id": "ko-0174",
+                "w": "말을",
+                "p": "mareul",
+                "d": "words; speech (object)",
+                "s": ""
+            },
+            {
+                "id": "ko-0175",
+                "w": "괜찮아요",
+                "p": "gwaenchanayo",
+                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
+                "s": ""
+            },
+            {
+                "id": "ko-0176",
+                "w": "아무도",
+                "p": "amudo",
+                "d": "anything; nothing (in a negative sentence)",
+                "s": ""
+            },
+            {
+                "id": "ko-0177",
+                "w": "없는",
+                "p": "eomneun",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0178",
+                "w": "안녕하세요",
+                "p": "annyeonghaseyo",
+                "d": "How are you?; Hello",
+                "s": ""
+            },
+            {
+                "id": "ko-0179",
+                "w": "몰라",
+                "p": "molla",
+                "d": "informal present form of 모르다 (moreuda, “not to know”); informal interrogative form of 모르다 (moreuda, “not to know”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0180",
+                "w": "일",
+                "p": "il",
+                "d": "work",
+                "s": ""
+            },
+            {
+                "id": "ko-0181",
+                "w": "많은",
+                "p": "maneun",
+                "d": "present determiner of 많다 (manta)",
+                "s": ""
+            },
+            {
+                "id": "ko-0182",
+                "w": "당신의",
+                "p": "dangsinui",
+                "d": "your",
+                "s": ""
+            },
+            {
+                "id": "ko-0183",
+                "w": "아무것도",
+                "p": "amugeotdo",
+                "d": "nothing",
+                "s": ""
+            },
+            {
+                "id": "ko-0184",
+                "w": "그러니까",
+                "p": "geureonikka",
+                "d": "So",
+                "s": ""
+            },
+            {
+                "id": "ko-0185",
+                "w": "큰",
+                "p": "keun",
+                "d": "big",
+                "s": ""
+            },
+            {
+                "id": "ko-0186",
+                "w": "알아요",
+                "p": "arayo",
+                "d": "to know (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0187",
+                "w": "그의",
+                "p": "geuui",
+                "d": "his",
+                "s": ""
+            },
+            {
+                "id": "ko-0188",
+                "w": "뭐가",
+                "p": "mwoga",
+                "d": "what (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0189",
+                "w": "고마워",
+                "p": "gomawo",
+                "d": "thank you",
+                "s": ""
+            },
+            {
+                "id": "ko-0190",
+                "w": "그만",
+                "p": "geuman",
+                "d": "this much only; no more. often used in imperatives.",
+                "s": ""
+            },
+            {
+                "id": "ko-0191",
+                "w": "했어요",
+                "p": "haesseoyo",
+                "d": "did (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0192",
+                "w": "젠장",
+                "p": "jenjang",
+                "d": "damn it!",
+                "s": ""
+            },
+            {
+                "id": "ko-0193",
+                "w": "사람들이",
+                "p": "saramdeuri",
+                "d": "people",
+                "s": ""
+            },
+            {
+                "id": "ko-0194",
+                "w": "거에요",
+                "p": "geoeyo",
+                "d": "it is; it will be",
+                "s": ""
+            },
+            {
+                "id": "ko-0195",
+                "w": "이걸",
+                "p": "igeol",
+                "d": "this (object)",
+                "s": ""
+            },
+            {
+                "id": "ko-0196",
+                "w": "그럴",
+                "p": "geureol",
+                "d": "will do so; such",
+                "s": ""
+            },
+            {
+                "id": "ko-0197",
+                "w": "것도",
+                "p": "geotdo",
+                "d": "thing too; even",
+                "s": ""
+            },
+            {
+                "id": "ko-0198",
+                "w": "말이",
+                "p": "mari",
+                "d": "words (subject); speech (subject)",
+                "s": ""
+            },
+            {
+                "id": "ko-0199",
+                "w": "이미",
+                "p": "imi",
+                "d": "already",
+                "s": ""
+            },
+            {
+                "id": "ko-0200",
+                "w": "야",
+                "p": "ya",
+                "d": "Hey",
+                "s": ""
+            },
+            {
+                "id": "ko-0201",
+                "w": "그를",
+                "p": "geureul",
+                "d": "him",
+                "s": ""
+            },
+            {
+                "id": "ko-0202",
+                "w": "뭔가",
+                "p": "mwonga",
+                "d": "something",
+                "s": ""
+            },
+            {
+                "id": "ko-0203",
+                "w": "온",
+                "p": "on",
+                "d": "came; whole",
+                "s": ""
+            },
+            {
+                "id": "ko-0204",
+                "w": "이봐",
+                "p": "ibwa",
+                "d": "Hey",
+                "s": ""
+            },
+            {
+                "id": "ko-0205",
+                "w": "아니면",
+                "p": "animyeon",
+                "d": "Or",
+                "s": ""
+            },
+            {
+                "id": "ko-0206",
+                "w": "같아요",
+                "p": "gatayo",
+                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
+                "s": ""
+            },
+            {
+                "id": "ko-0207",
+                "w": "그런데",
+                "p": "geureonde",
+                "d": "But",
+                "s": ""
+            },
+            {
+                "id": "ko-0208",
+                "w": "아니라",
+                "p": "anira",
+                "d": "is not […] , but rather; Used other than figuratively or idiomatically: see 아니다 (anida), -라 (-ra).",
+                "s": ""
+            },
+            {
+                "id": "ko-0209",
+                "w": "세상에",
+                "p": "sesange",
+                "d": "oh my; in the world",
+                "s": ""
+            },
+            {
+                "id": "ko-0210",
+                "w": "있다고",
+                "p": "itdago",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-0211",
+                "w": "있고",
+                "p": "itgo",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-0212",
+                "w": "뭐라고",
+                "p": "mworago",
+                "d": "What",
+                "s": ""
+            },
+            {
+                "id": "ko-0213",
+                "w": "예",
+                "p": "ye",
+                "d": "yes",
+                "s": ""
+            },
+            {
+                "id": "ko-0214",
+                "w": "절대",
+                "p": "jeoldae",
+                "d": "absolutely, totally, never",
+                "s": ""
+            },
+            {
+                "id": "ko-0215",
+                "w": "말야",
+                "p": "marya",
+                "d": "I mean",
+                "s": ""
+            },
+            {
+                "id": "ko-0216",
+                "w": "당장",
+                "p": "dangjang",
+                "d": "Right now",
+                "s": ""
+            },
+            {
+                "id": "ko-0217",
+                "w": "그래도",
+                "p": "geuraedo",
+                "d": "nevertheless",
+                "s": ""
+            },
+            {
+                "id": "ko-0218",
+                "w": "대한",
+                "p": "daehan",
+                "d": "about; regarding",
+                "s": ""
+            },
+            {
+                "id": "ko-0219",
+                "w": "말은",
+                "p": "mareun",
+                "d": "I mean",
+                "s": ""
+            },
+            {
+                "id": "ko-0220",
+                "w": "거기",
+                "p": "geogi",
+                "d": "there",
+                "s": ""
+            },
+            {
+                "id": "ko-0221",
+                "w": "전부",
+                "p": "jeonbu",
+                "d": "everything, all",
+                "s": ""
+            },
+            {
+                "id": "ko-0222",
+                "w": "둘",
+                "p": "dul",
+                "d": "two",
+                "s": ""
+            },
+            {
+                "id": "ko-0223",
+                "w": "그녀는",
+                "p": "geunyeoneun",
+                "d": "she",
+                "s": ""
+            },
+            {
+                "id": "ko-0224",
+                "w": "니가",
+                "p": "niga",
+                "d": "You",
+                "s": ""
+            },
+            {
+                "id": "ko-0225",
+                "w": "갈",
+                "p": "gal",
+                "d": "will go",
+                "s": ""
+            },
+            {
+                "id": "ko-0226",
+                "w": "않아요",
+                "p": "anayo",
+                "d": "does not; is not (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0227",
+                "w": "자기",
+                "p": "jagi",
+                "d": "oneself; the self; the ego",
+                "s": ""
+            },
+            {
+                "id": "ko-0228",
+                "w": "있죠",
+                "p": "itjyo",
+                "d": "right?; there is (polite)",
+                "s": ""
+            },
+            {
+                "id": "ko-0229",
+                "w": "하면",
+                "p": "hamyeon",
+                "d": "If you do",
+                "s": ""
+            },
+            {
+                "id": "ko-0230",
+                "w": "가지고",
+                "p": "gajigo",
+                "d": "with; by; by means of",
+                "s": ""
+            },
+            {
+                "id": "ko-0231",
+                "w": "그들이",
+                "p": "geudeuri",
+                "d": "they",
+                "s": ""
+            },
+            {
+                "id": "ko-0232",
+                "w": "참",
+                "p": "cham",
+                "d": "True",
+                "s": ""
+            },
+            {
+                "id": "ko-0233",
+                "w": "너도",
+                "p": "neodo",
+                "d": "You too",
+                "s": ""
+            },
+            {
+                "id": "ko-0234",
+                "w": "됐어",
+                "p": "dwaesseo",
+                "d": "That's enough",
+                "s": ""
+            },
+            {
+                "id": "ko-0235",
+                "w": "미안해",
+                "p": "mianhae",
+                "d": "to be ashamed of oneself; to be sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-0236",
+                "w": "것을",
+                "p": "geoseul",
+                "d": "that",
+                "s": ""
+            },
+            {
+                "id": "ko-0237",
+                "w": "여긴",
+                "p": "yeogin",
+                "d": "here (topic)",
+                "s": ""
+            },
+            {
+                "id": "ko-0238",
+                "w": "아무",
+                "p": "amu",
+                "d": "Any",
+                "s": ""
+            },
+            {
+                "id": "ko-0239",
+                "w": "사람은",
+                "p": "sarameun",
+                "d": "People",
+                "s": ""
+            },
+            {
+                "id": "ko-0240",
+                "w": "감사합니다",
+                "p": "gamsahamnida",
+                "d": "thank you",
+                "s": ""
+            },
+            {
+                "id": "ko-0241",
+                "w": "다들",
+                "p": "dadeul",
+                "d": "everyone",
+                "s": ""
+            },
+            {
+                "id": "ko-0242",
+                "w": "어때",
+                "p": "eottae",
+                "d": "How about",
+                "s": ""
+            },
+            {
+                "id": "ko-0243",
+                "w": "씨",
+                "p": "ssi",
+                "d": "Mr.",
+                "s": ""
+            },
+            {
+                "id": "ko-0244",
+                "w": "곧",
+                "p": "got",
+                "d": "soon, at once, immediately, shortly, straightway; easily, readily",
+                "s": ""
+            },
+            {
+                "id": "ko-0245",
+                "w": "엄마가",
+                "p": "eommaga",
+                "d": "Mom",
+                "s": ""
+            },
+            {
+                "id": "ko-0246",
+                "w": "나를",
+                "p": "nareul",
+                "d": "me",
+                "s": ""
+            },
+            {
+                "id": "ko-0247",
+                "w": "이젠",
+                "p": "ijen",
+                "d": "now (as the topic of the sentence)",
+                "s": ""
+            },
+            {
+                "id": "ko-0248",
+                "w": "아마",
+                "p": "ama",
+                "d": "maybe",
+                "s": ""
+            },
+            {
+                "id": "ko-0249",
+                "w": "그들은",
+                "p": "geudeureun",
+                "d": "they are",
+                "s": ""
+            },
+            {
+                "id": "ko-0250",
+                "w": "얘기",
+                "p": "yaegi",
+                "d": "contraction of 이야기 (iyagi): talk; story",
+                "s": ""
+            },
+            {
+                "id": "ko-0251",
+                "w": "꼭",
+                "p": "kkok",
+                "d": "absolutely; surely; regardless; unreservedly",
+                "s": ""
+            },
+            {
+                "id": "ko-0252",
+                "w": "있잖아",
+                "p": "itjana",
+                "d": "You know,",
+                "s": ""
+            },
+            {
+                "id": "ko-0253",
+                "w": "저도",
+                "p": "jeodo",
+                "d": "Me too",
+                "s": ""
+            },
+            {
+                "id": "ko-0254",
+                "w": "지금은",
+                "p": "jigeumeun",
+                "d": "For now",
+                "s": ""
+            },
+            {
+                "id": "ko-0255",
+                "w": "그녀가",
+                "p": "geunyeoga",
+                "d": "she",
+                "s": ""
+            },
+            {
+                "id": "ko-0256",
+                "w": "중",
+                "p": "jung",
+                "d": "middle; among",
+                "s": ""
+            },
+            {
+                "id": "ko-0257",
+                "w": "있다",
+                "p": "itda",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-0258",
+                "w": "시간",
+                "p": "sigan",
+                "d": "time",
+                "s": ""
+            },
+            {
+                "id": "ko-0259",
+                "w": "먼저",
+                "p": "meonjeo",
+                "d": "first in time or sequence",
+                "s": ""
+            },
+            {
+                "id": "ko-0260",
+                "w": "우릴",
+                "p": "uril",
+                "d": "us",
+                "s": ""
+            },
+            {
+                "id": "ko-0261",
+                "w": "말고",
+                "p": "malgo",
+                "d": "not ... but; instead of",
+                "s": ""
+            },
+            {
+                "id": "ko-0262",
+                "w": "사람을",
+                "p": "sarameul",
+                "d": "people",
+                "s": ""
+            },
+            {
+                "id": "ko-0263",
+                "w": "수가",
+                "p": "suga",
+                "d": "way; ability (with subject marker)",
+                "s": ""
+            },
+            {
+                "id": "ko-0264",
+                "w": "봐요",
+                "p": "bwayo",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-0265",
+                "w": "있는데",
+                "p": "inneunde",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-0266",
+                "w": "알았어요",
+                "p": "arasseoyo",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-0267",
+                "w": "해야",
+                "p": "haeya",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0268",
+                "w": "있었어",
+                "p": "isseosseo",
+                "d": "there was",
+                "s": ""
+            },
+            {
+                "id": "ko-0269",
+                "w": "우리의",
+                "p": "uriui",
+                "d": "our",
+                "s": ""
+            },
+            {
+                "id": "ko-0270",
+                "w": "않을",
+                "p": "aneul",
+                "d": "won't",
+                "s": ""
+            },
+            {
+                "id": "ko-0271",
+                "w": "방금",
+                "p": "banggeum",
+                "d": "just a moment ago; just now",
+                "s": ""
+            },
+            {
+                "id": "ko-0272",
+                "w": "완전",
+                "p": "wanjeon",
+                "d": "completely",
+                "s": ""
+            },
+            {
+                "id": "ko-0273",
+                "w": "된",
+                "p": "doen",
+                "d": "that became",
+                "s": ""
+            },
+            {
+                "id": "ko-0274",
+                "w": "동안",
+                "p": "dongan",
+                "d": "interval, period of time",
+                "s": ""
+            },
+            {
+                "id": "ko-0275",
+                "w": "시간이",
+                "p": "sigani",
+                "d": "time",
+                "s": ""
+            },
+            {
+                "id": "ko-0276",
+                "w": "싶어",
+                "p": "sipeo",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-0277",
+                "w": "본",
+                "p": "bon",
+                "d": "seen; main",
+                "s": ""
+            },
+            {
+                "id": "ko-0278",
+                "w": "일은",
+                "p": "ireun",
+                "d": "work",
+                "s": ""
+            },
+            {
+                "id": "ko-0279",
+                "w": "친구",
+                "p": "chingu",
+                "d": "friend; fellow, chap, guy",
+                "s": ""
+            },
+            {
+                "id": "ko-0280",
+                "w": "들어",
+                "p": "deureo",
+                "d": "listen",
+                "s": ""
+            },
+            {
+                "id": "ko-0281",
+                "w": "안에",
+                "p": "ane",
+                "d": "inside",
+                "s": ""
+            },
+            {
+                "id": "ko-0282",
+                "w": "번",
+                "p": "beon",
+                "d": "number",
+                "s": ""
+            },
+            {
+                "id": "ko-0283",
+                "w": "자네",
+                "p": "jane",
+                "d": "you, second person pronoun, used generally in addressing a person of distinctly lower status.",
+                "s": ""
+            },
+            {
+                "id": "ko-0284",
+                "w": "합니다",
+                "p": "hamnida",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0285",
+                "w": "사실",
+                "p": "sasil",
+                "d": "fact",
+                "s": ""
+            },
+            {
+                "id": "ko-0286",
+                "w": "한번",
+                "p": "hanbeon",
+                "d": "once",
+                "s": ""
+            },
+            {
+                "id": "ko-0287",
+                "w": "대체",
+                "p": "daeche",
+                "d": "how on earth; instead",
+                "s": ""
+            },
+            {
+                "id": "ko-0288",
+                "w": "같은데",
+                "p": "gateunde",
+                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
+                "s": ""
+            },
+            {
+                "id": "ko-0289",
+                "w": "생각해",
+                "p": "saenggakae",
+                "d": "think about it",
+                "s": ""
+            },
+            {
+                "id": "ko-0290",
+                "w": "맞아요",
+                "p": "majayo",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0291",
+                "w": "볼",
+                "p": "bol",
+                "d": "will see; cheek",
+                "s": ""
+            },
+            {
+                "id": "ko-0292",
+                "w": "혼자",
+                "p": "honja",
+                "d": "solitude; alone, (all) by oneself, (all) on one's own",
+                "s": ""
+            },
+            {
+                "id": "ko-0293",
+                "w": "자네가",
+                "p": "janega",
+                "d": "You",
+                "s": ""
+            },
+            {
+                "id": "ko-0294",
+                "w": "절",
+                "p": "jeol",
+                "d": "bow; I (polite, object)",
+                "s": ""
+            },
+            {
+                "id": "ko-0295",
+                "w": "그러니",
+                "p": "geureoni",
+                "d": "So",
+                "s": ""
+            },
+            {
+                "id": "ko-0296",
+                "w": "선생님",
+                "p": "seonsaengnim",
+                "d": "teacher; sir, mister, Ms (polite term of address for an elder male or female)",
+                "s": ""
+            },
+            {
+                "id": "ko-0297",
+                "w": "사람들은",
+                "p": "saramdeureun",
+                "d": "people",
+                "s": ""
+            },
+            {
+                "id": "ko-0298",
+                "w": "문제가",
+                "p": "munjega",
+                "d": "problem",
+                "s": ""
+            },
+            {
+                "id": "ko-0299",
+                "w": "다음",
+                "p": "daeum",
+                "d": "the next, the following",
+                "s": ""
+            },
+            {
+                "id": "ko-0300",
+                "w": "물론",
+                "p": "mullon",
+                "d": "of course, certainly, naturally",
+                "s": ""
+            },
+            {
+                "id": "ko-0301",
+                "w": "거의",
+                "p": "geoui",
+                "d": "almost",
+                "s": ""
+            },
+            {
+                "id": "ko-0302",
+                "w": "일이야",
+                "p": "iriya",
+                "d": "It's work",
+                "s": ""
+            },
+            {
+                "id": "ko-0303",
+                "w": "없습니다",
+                "p": "eopseumnida",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0304",
+                "w": "아빠가",
+                "p": "appaga",
+                "d": "Dad",
+                "s": ""
+            },
+            {
+                "id": "ko-0305",
+                "w": "되는",
+                "p": "doeneun",
+                "d": "become",
+                "s": ""
+            },
+            {
+                "id": "ko-0306",
+                "w": "그러면",
+                "p": "geureomyeon",
+                "d": "Then",
+                "s": ""
+            },
+            {
+                "id": "ko-0307",
+                "w": "순",
+                "p": "sun",
+                "d": "net",
+                "s": ""
+            },
+            {
+                "id": "ko-0308",
+                "w": "가는",
+                "p": "ganeun",
+                "d": "going",
+                "s": ""
+            },
+            {
+                "id": "ko-0309",
+                "w": "말도",
+                "p": "maldo",
+                "d": "nonsense",
+                "s": ""
+            },
+            {
+                "id": "ko-0310",
+                "w": "이리",
+                "p": "iri",
+                "d": "Here",
+                "s": ""
+            },
+            {
+                "id": "ko-0311",
+                "w": "있었어요",
+                "p": "isseosseoyo",
+                "d": "There was",
+                "s": ""
+            },
+            {
+                "id": "ko-0312",
+                "w": "맙소사",
+                "p": "mapsosa",
+                "d": "oh my God!, good heavens!",
+                "s": ""
+            },
+            {
+                "id": "ko-0313",
+                "w": "내일",
+                "p": "naeil",
+                "d": "tomorrow",
+                "s": ""
+            },
+            {
+                "id": "ko-0314",
+                "w": "있으면",
+                "p": "isseumyeon",
+                "d": "If there is",
+                "s": ""
+            },
+            {
+                "id": "ko-0315",
+                "w": "잠깐만",
+                "p": "jamkkanman",
+                "d": "just a minute, just a moment",
+                "s": ""
+            },
+            {
+                "id": "ko-0316",
+                "w": "싫어",
+                "p": "sireo",
+                "d": "to be disagreeable; to disapprove; to be hateful",
+                "s": ""
+            },
+            {
+                "id": "ko-0317",
+                "w": "중요한",
+                "p": "jungyohan",
+                "d": "important",
+                "s": ""
+            },
+            {
+                "id": "ko-0318",
+                "w": "내게",
+                "p": "naege",
+                "d": "dative form of 나 (na); 내 (nae) + -게 (-ge)",
+                "s": ""
+            },
+            {
+                "id": "ko-0319",
+                "w": "말해",
+                "p": "malhae",
+                "d": "tell me",
+                "s": ""
+            },
+            {
+                "id": "ko-0320",
+                "w": "이상",
+                "p": "isang",
+                "d": "an amount more than; an amount greater than or equal to",
+                "s": ""
+            },
+            {
+                "id": "ko-0321",
+                "w": "거라고",
+                "p": "georago",
+                "d": "I guess",
+                "s": ""
+            },
+            {
+                "id": "ko-0322",
+                "w": "아는",
+                "p": "aneun",
+                "d": "know",
+                "s": ""
+            },
+            {
+                "id": "ko-0323",
+                "w": "너는",
+                "p": "neoneun",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-0324",
+                "w": "새",
+                "p": "sae",
+                "d": "bird",
+                "s": ""
+            },
+            {
+                "id": "ko-0325",
+                "w": "적",
+                "p": "jeok",
+                "d": "enemy",
+                "s": ""
+            },
+            {
+                "id": "ko-0326",
+                "w": "전혀",
+                "p": "jeonhyeo",
+                "d": "at all, absolutely, completely",
+                "s": ""
+            },
+            {
+                "id": "ko-0327",
+                "w": "여자",
+                "p": "yeoja",
+                "d": "woman",
+                "s": ""
+            },
+            {
+                "id": "ko-0328",
+                "w": "새로운",
+                "p": "saeroun",
+                "d": "new",
+                "s": ""
+            },
+            {
+                "id": "ko-0329",
+                "w": "너희",
+                "p": "neohui",
+                "d": "you; you guys; you all",
+                "s": ""
+            },
+            {
+                "id": "ko-0330",
+                "w": "왔어",
+                "p": "wasseo",
+                "d": "came",
+                "s": ""
+            },
+            {
+                "id": "ko-0331",
+                "w": "아직도",
+                "p": "ajikdo",
+                "d": "yet, still",
+                "s": ""
+            },
+            {
+                "id": "ko-0332",
+                "w": "가지",
+                "p": "gaji",
+                "d": "eggplant",
+                "s": ""
+            },
+            {
+                "id": "ko-0333",
+                "w": "나와",
+                "p": "nawa",
+                "d": "come out",
+                "s": ""
+            },
+            {
+                "id": "ko-0334",
+                "w": "알",
+                "p": "al",
+                "d": "Al",
+                "s": ""
+            },
+            {
+                "id": "ko-0335",
+                "w": "싶지",
+                "p": "sipji",
+                "d": "I don't want to",
+                "s": ""
+            },
+            {
+                "id": "ko-0336",
+                "w": "여기에",
+                "p": "yeogie",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "ko-0337",
+                "w": "원하는",
+                "p": "wonhaneun",
+                "d": "want",
+                "s": ""
+            },
+            {
+                "id": "ko-0338",
+                "w": "돈",
+                "p": "don",
+                "d": "money; a don, a Korean unit of weight equivalent to about 4 g",
+                "s": ""
+            },
+            {
+                "id": "ko-0339",
+                "w": "필요",
+                "p": "piryo",
+                "d": "need; necessity",
+                "s": ""
+            },
+            {
+                "id": "ko-0340",
+                "w": "도움이",
+                "p": "doumi",
+                "d": "helpful",
+                "s": ""
+            },
+            {
+                "id": "ko-0341",
+                "w": "그녀를",
+                "p": "geunyeoreul",
+                "d": "her",
+                "s": ""
+            },
+            {
+                "id": "ko-0342",
+                "w": "몰라요",
+                "p": "mollayo",
+                "d": "informal polite declarative of 모르다 (moreuda)",
+                "s": ""
+            },
+            {
+                "id": "ko-0343",
+                "w": "작은",
+                "p": "jageun",
+                "d": "small",
+                "s": ""
+            },
+            {
+                "id": "ko-0344",
+                "w": "혹시",
+                "p": "hoksi",
+                "d": "by chance",
+                "s": ""
+            },
+            {
+                "id": "ko-0345",
+                "w": "미안해요",
+                "p": "mianhaeyo",
+                "d": "to be ashamed of oneself; to be sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-0346",
+                "w": "나쁜",
+                "p": "nappeun",
+                "d": "bad",
+                "s": ""
+            },
+            {
+                "id": "ko-0347",
+                "w": "죄송해요",
+                "p": "joesonghaeyo",
+                "d": "I'm sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-0348",
+                "w": "모르겠어",
+                "p": "moreugesseo",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-0349",
+                "w": "가요",
+                "p": "gayo",
+                "d": "Let's go",
+                "s": ""
+            },
+            {
+                "id": "ko-0350",
+                "w": "알지",
+                "p": "alji",
+                "d": "You know",
+                "s": ""
+            },
+            {
+                "id": "ko-0351",
+                "w": "밖에",
+                "p": "bakke",
+                "d": "outside",
+                "s": ""
+            },
+            {
+                "id": "ko-0352",
+                "w": "직접",
+                "p": "jikjeop",
+                "d": "directly",
+                "s": ""
+            },
+            {
+                "id": "ko-0353",
+                "w": "있나",
+                "p": "inna",
+                "d": "Is there",
+                "s": ""
+            },
+            {
+                "id": "ko-0354",
+                "w": "니",
+                "p": "ni",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-0355",
+                "w": "해도",
+                "p": "haedo",
+                "d": "chart (of the sea)",
+                "s": ""
+            },
+            {
+                "id": "ko-0356",
+                "w": "하죠",
+                "p": "hajyo",
+                "d": "Let's do it",
+                "s": ""
+            },
+            {
+                "id": "ko-0357",
+                "w": "했는데",
+                "p": "haenneunde",
+                "d": "I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-0358",
+                "w": "필요해",
+                "p": "piryohae",
+                "d": "to have a need; to be necessary, to be needed",
+                "s": ""
+            },
+            {
+                "id": "ko-0359",
+                "w": "아니요",
+                "p": "aniyo",
+                "d": "no",
+                "s": ""
+            },
+            {
+                "id": "ko-0360",
+                "w": "적이",
+                "p": "jeogi",
+                "d": "enemy",
+                "s": ""
+            },
+            {
+                "id": "ko-0361",
+                "w": "있나요",
+                "p": "innayo",
+                "d": "Do you have it?",
+                "s": ""
+            },
+            {
+                "id": "ko-0362",
+                "w": "갖고",
+                "p": "gatgo",
+                "d": "have",
+                "s": ""
+            },
+            {
+                "id": "ko-0363",
+                "w": "돈을",
+                "p": "doneul",
+                "d": "money",
+                "s": ""
+            },
+            {
+                "id": "ko-0364",
+                "w": "주세요",
+                "p": "juseyo",
+                "d": "Please",
+                "s": ""
+            },
+            {
+                "id": "ko-0365",
+                "w": "어디서",
+                "p": "eodiseo",
+                "d": "where",
+                "s": ""
+            },
+            {
+                "id": "ko-0366",
+                "w": "것이",
+                "p": "geosi",
+                "d": "It is",
+                "s": ""
+            },
+            {
+                "id": "ko-0367",
+                "w": "거요",
+                "p": "geoyo",
+                "d": "Yes",
+                "s": ""
+            },
+            {
+                "id": "ko-0368",
+                "w": "위한",
+                "p": "wihan",
+                "d": "for",
+                "s": ""
+            },
+            {
+                "id": "ko-0369",
+                "w": "것은",
+                "p": "geoseun",
+                "d": "The thing is",
+                "s": ""
+            },
+            {
+                "id": "ko-0370",
+                "w": "없이",
+                "p": "eopsi",
+                "d": "without, lacking",
+                "s": ""
+            },
+            {
+                "id": "ko-0371",
+                "w": "나중에",
+                "p": "najunge",
+                "d": "later",
+                "s": ""
+            },
+            {
+                "id": "ko-0372",
+                "w": "아버지",
+                "p": "abeoji",
+                "d": "father (parent)",
+                "s": ""
+            },
+            {
+                "id": "ko-0373",
+                "w": "나랑",
+                "p": "narang",
+                "d": "country, nation, kingdom",
+                "s": ""
+            },
+            {
+                "id": "ko-0374",
+                "w": "됐어요",
+                "p": "dwaesseoyo",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-0375",
+                "w": "마세요",
+                "p": "maseyo",
+                "d": "to smash",
+                "s": ""
+            },
+            {
+                "id": "ko-0376",
+                "w": "차",
+                "p": "cha",
+                "d": "tea",
+                "s": ""
+            },
+            {
+                "id": "ko-0377",
+                "w": "언제",
+                "p": "eonje",
+                "d": "when",
+                "s": ""
+            },
+            {
+                "id": "ko-0378",
+                "w": "그저",
+                "p": "geujeo",
+                "d": "just (only); constantly",
+                "s": ""
+            },
+            {
+                "id": "ko-0379",
+                "w": "생각",
+                "p": "saenggak",
+                "d": "thought; idea",
+                "s": ""
+            },
+            {
+                "id": "ko-0380",
+                "w": "했지",
+                "p": "haetji",
+                "d": "I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-0381",
+                "w": "봤어",
+                "p": "bwasseo",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-0382",
+                "w": "해서",
+                "p": "haeseo",
+                "d": "So",
+                "s": ""
+            },
+            {
+                "id": "ko-0383",
+                "w": "시간을",
+                "p": "siganeul",
+                "d": "time",
+                "s": ""
+            },
+            {
+                "id": "ko-0384",
+                "w": "마지막",
+                "p": "majimak",
+                "d": "the end; the last thing",
+                "s": ""
+            },
+            {
+                "id": "ko-0385",
+                "w": "알겠어",
+                "p": "algesseo",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-0386",
+                "w": "왜냐면",
+                "p": "waenyamyeon",
+                "d": "alternative form of 왜냐하면 (waenyahamyeon)",
+                "s": ""
+            },
+            {
+                "id": "ko-0387",
+                "w": "위해서",
+                "p": "wihaeseo",
+                "d": "for the sake of",
+                "s": ""
+            },
+            {
+                "id": "ko-0388",
+                "w": "엄청",
+                "p": "eomcheong",
+                "d": "very, really, awful",
+                "s": ""
+            },
+            {
+                "id": "ko-0389",
+                "w": "알겠습니다",
+                "p": "algetseumnida",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-0390",
+                "w": "오래",
+                "p": "orae",
+                "d": "long",
+                "s": ""
+            },
+            {
+                "id": "ko-0391",
+                "w": "기다려",
+                "p": "gidaryeo",
+                "d": "to wait for, to await; to look forward to",
+                "s": ""
+            },
+            {
+                "id": "ko-0392",
+                "w": "아닙니다",
+                "p": "animnida",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0393",
+                "w": "있는지",
+                "p": "inneunji",
+                "d": "Is there",
+                "s": ""
+            },
+            {
+                "id": "ko-0394",
+                "w": "알겠어요",
+                "p": "algesseoyo",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-0395",
+                "w": "제일",
+                "p": "jeil",
+                "d": "The best",
+                "s": ""
+            },
+            {
+                "id": "ko-0396",
+                "w": "지난",
+                "p": "jinan",
+                "d": "past determiner of 지나다 (jinada): last, past",
+                "s": ""
+            },
+            {
+                "id": "ko-0397",
+                "w": "그렇죠",
+                "p": "geureochyo",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0398",
+                "w": "죽은",
+                "p": "jugeun",
+                "d": "dead",
+                "s": ""
+            },
+            {
+                "id": "ko-0399",
+                "w": "제대로",
+                "p": "jedaero",
+                "d": "properly, in the appropriate manner; sufficiently",
+                "s": ""
+            },
+            {
+                "id": "ko-0400",
+                "w": "아니지",
+                "p": "aniji",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-0401",
+                "w": "있다면",
+                "p": "itdamyeon",
+                "d": "If there is",
+                "s": ""
+            },
+            {
+                "id": "ko-0402",
+                "w": "보면",
+                "p": "bomyeon",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-0403",
+                "w": "우리를",
+                "p": "urireul",
+                "d": "us",
+                "s": ""
+            },
+            {
+                "id": "ko-0404",
+                "w": "짓을",
+                "p": "jiseul",
+                "d": "do",
+                "s": ""
+            },
+            {
+                "id": "ko-0405",
+                "w": "남자",
+                "p": "namja",
+                "d": "man",
+                "s": ""
+            },
+            {
+                "id": "ko-0406",
+                "w": "너가",
+                "p": "neoga",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-0407",
+                "w": "있다는",
+                "p": "itdaneun",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-0408",
+                "w": "누구",
+                "p": "nugu",
+                "d": "who; someone",
+                "s": ""
+            },
+            {
+                "id": "ko-0409",
+                "w": "보여",
+                "p": "boyeo",
+                "d": "I see it",
+                "s": ""
+            },
+            {
+                "id": "ko-0410",
+                "w": "왔어요",
+                "p": "wasseoyo",
+                "d": "I came",
+                "s": ""
+            },
+            {
+                "id": "ko-0411",
+                "w": "너한테",
+                "p": "neohante",
+                "d": "To you",
+                "s": ""
+            },
+            {
+                "id": "ko-0412",
+                "w": "여러분",
+                "p": "yeoreobun",
+                "d": "ladies and gentlemen; everyone (present); you; everyone",
+                "s": ""
+            },
+            {
+                "id": "ko-0413",
+                "w": "완전히",
+                "p": "wanjeonhi",
+                "d": "completely, totally",
+                "s": ""
+            },
+            {
+                "id": "ko-0414",
+                "w": "너의",
+                "p": "neoui",
+                "d": "your",
+                "s": ""
+            },
+            {
+                "id": "ko-0415",
+                "w": "것이다",
+                "p": "geosida",
+                "d": "will",
+                "s": ""
+            },
+            {
+                "id": "ko-0416",
+                "w": "밤",
+                "p": "bam",
+                "d": "night",
+                "s": ""
+            },
+            {
+                "id": "ko-0417",
+                "w": "소리",
+                "p": "sori",
+                "d": "sound; voice",
+                "s": ""
+            },
+            {
+                "id": "ko-0418",
+                "w": "없지",
+                "p": "eopji",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-0419",
+                "w": "벌써",
+                "p": "beolsseo",
+                "d": "already",
+                "s": ""
+            },
+            {
+                "id": "ko-0420",
+                "w": "모르겠어요",
+                "p": "moreugesseoyo",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-0421",
+                "w": "말이지",
+                "p": "mariji",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0422",
+                "w": "올",
+                "p": "ol",
+                "d": "come",
+                "s": ""
+            },
+            {
+                "id": "ko-0423",
+                "w": "사람들을",
+                "p": "saramdeureul",
+                "d": "people",
+                "s": ""
+            },
+            {
+                "id": "ko-0424",
+                "w": "처음",
+                "p": "cheoeum",
+                "d": "first time",
+                "s": ""
+            },
+            {
+                "id": "ko-0425",
+                "w": "말이죠",
+                "p": "marijyo",
+                "d": "I mean",
+                "s": ""
+            },
+            {
+                "id": "ko-0426",
+                "w": "사람들",
+                "p": "saramdeul",
+                "d": "plural of 사람 (saram): people, persons",
+                "s": ""
+            },
+            {
+                "id": "ko-0427",
+                "w": "그녀의",
+                "p": "geunyeoui",
+                "d": "her",
+                "s": ""
+            },
+            {
+                "id": "ko-0428",
+                "w": "멋진",
+                "p": "meotjin",
+                "d": "to be cool, splendid",
+                "s": ""
+            },
+            {
+                "id": "ko-0429",
+                "w": "왜요",
+                "p": "waeyo",
+                "d": "Why",
+                "s": ""
+            },
+            {
+                "id": "ko-0430",
+                "w": "정말로",
+                "p": "jeongmallo",
+                "d": "really; truly",
+                "s": ""
+            },
+            {
+                "id": "ko-0431",
+                "w": "이름은",
+                "p": "ireumeun",
+                "d": "The name is",
+                "s": ""
+            },
+            {
+                "id": "ko-0432",
+                "w": "와서",
+                "p": "waseo",
+                "d": "informal non-polite cause/reason form of 오다 (oda, “to come”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0433",
+                "w": "대해서",
+                "p": "daehaeseo",
+                "d": "About",
+                "s": ""
+            },
+            {
+                "id": "ko-0434",
+                "w": "여보",
+                "p": "yeobo",
+                "d": "darling, honey, sweetheart",
+                "s": ""
+            },
+            {
+                "id": "ko-0435",
+                "w": "조금",
+                "p": "jogeum",
+                "d": "a little",
+                "s": ""
+            },
+            {
+                "id": "ko-0436",
+                "w": "않았어",
+                "p": "anasseo",
+                "d": "I didn't",
+                "s": ""
+            },
+            {
+                "id": "ko-0437",
+                "w": "말이에요",
+                "p": "marieyo",
+                "d": "I mean",
+                "s": ""
+            },
+            {
+                "id": "ko-0438",
+                "w": "이름이",
+                "p": "ireumi",
+                "d": "The name is",
+                "s": ""
+            },
+            {
+                "id": "ko-0439",
+                "w": "여보세요",
+                "p": "yeoboseyo",
+                "d": "hello (when asking or answering the telephone); hello (when trying to get the attention of someone who does not appear to be listening)",
+                "s": ""
+            },
+            {
+                "id": "ko-0440",
+                "w": "서로",
+                "p": "seoro",
+                "d": "each other",
+                "s": ""
+            },
+            {
+                "id": "ko-0441",
+                "w": "안돼요",
+                "p": "andwaeyo",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-0442",
+                "w": "죽을",
+                "p": "jugeul",
+                "d": "die",
+                "s": ""
+            },
+            {
+                "id": "ko-0443",
+                "w": "첫",
+                "p": "cheot",
+                "d": "first; initial",
+                "s": ""
+            },
+            {
+                "id": "ko-0444",
+                "w": "매우",
+                "p": "maeu",
+                "d": "very, extremely",
+                "s": ""
+            },
+            {
+                "id": "ko-0445",
+                "w": "사랑해",
+                "p": "saranghae",
+                "d": "I love you",
+                "s": ""
+            },
+            {
+                "id": "ko-0446",
+                "w": "오늘은",
+                "p": "oneureun",
+                "d": "Today",
+                "s": ""
+            },
+            {
+                "id": "ko-0447",
+                "w": "싶은",
+                "p": "sipeun",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-0448",
+                "w": "어디로",
+                "p": "eodiro",
+                "d": "where",
+                "s": ""
+            },
+            {
+                "id": "ko-0449",
+                "w": "단지",
+                "p": "danji",
+                "d": "just",
+                "s": ""
+            },
+            {
+                "id": "ko-0450",
+                "w": "아닌",
+                "p": "anin",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0451",
+                "w": "나가",
+                "p": "naga",
+                "d": "get out",
+                "s": ""
+            },
+            {
+                "id": "ko-0452",
+                "w": "뿐이야",
+                "p": "ppuniya",
+                "d": "It's just",
+                "s": ""
+            },
+            {
+                "id": "ko-0453",
+                "w": "미안",
+                "p": "mian",
+                "d": "sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-0454",
+                "w": "확실히",
+                "p": "hwaksilhi",
+                "d": "surely, certainly, definitely, unquestionably, for certain, for sure, without doubt",
+                "s": ""
+            },
+            {
+                "id": "ko-0455",
+                "w": "싶어요",
+                "p": "sipeoyo",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-0456",
+                "w": "죄송합니다",
+                "p": "joesonghamnida",
+                "d": "sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-0457",
+                "w": "때까지",
+                "p": "ttaekkaji",
+                "d": "until",
+                "s": ""
+            },
+            {
+                "id": "ko-0458",
+                "w": "없고",
+                "p": "eopgo",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0459",
+                "w": "어때요",
+                "p": "eottaeyo",
+                "d": "How are you?",
+                "s": ""
+            },
+            {
+                "id": "ko-0460",
+                "w": "살",
+                "p": "sal",
+                "d": "flesh",
+                "s": ""
+            },
+            {
+                "id": "ko-0461",
+                "w": "당연히",
+                "p": "dangyeonhi",
+                "d": "naturally, of course",
+                "s": ""
+            },
+            {
+                "id": "ko-0462",
+                "w": "데리고",
+                "p": "derigo",
+                "d": "take it with you",
+                "s": ""
+            },
+            {
+                "id": "ko-0463",
+                "w": "필요한",
+                "p": "piryohan",
+                "d": "to have a need; to be necessary, to be needed",
+                "s": ""
+            },
+            {
+                "id": "ko-0464",
+                "w": "없다",
+                "p": "eopda",
+                "d": "None",
+                "s": ""
+            },
+            {
+                "id": "ko-0465",
+                "w": "후",
+                "p": "hu",
+                "d": "after",
+                "s": ""
+            },
+            {
+                "id": "ko-0466",
+                "w": "가고",
+                "p": "gago",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-0467",
+                "w": "글쎄",
+                "p": "geulsse",
+                "d": "well; I'm not sure",
+                "s": ""
+            },
+            {
+                "id": "ko-0468",
+                "w": "않는",
+                "p": "anneun",
+                "d": "auxiliary verb used to negate the clause to which the main verb belongs; to not do something",
+                "s": ""
+            },
+            {
+                "id": "ko-0469",
+                "w": "했죠",
+                "p": "haetjyo",
+                "d": "I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-0470",
+                "w": "나의",
+                "p": "naui",
+                "d": "my",
+                "s": ""
+            },
+            {
+                "id": "ko-0471",
+                "w": "별로",
+                "p": "byeollo",
+                "d": "Not really",
+                "s": ""
+            },
+            {
+                "id": "ko-0472",
+                "w": "않은",
+                "p": "aneun",
+                "d": "not",
+                "s": ""
+            },
+            {
+                "id": "ko-0473",
+                "w": "라고",
+                "p": "rago",
+                "d": "says",
+                "s": ""
+            },
+            {
+                "id": "ko-0474",
+                "w": "집",
+                "p": "jip",
+                "d": "house",
+                "s": ""
+            },
+            {
+                "id": "ko-0475",
+                "w": "여전히",
+                "p": "yeojeonhi",
+                "d": "still, just as before",
+                "s": ""
+            },
+            {
+                "id": "ko-0476",
+                "w": "없을",
+                "p": "eopseul",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0477",
+                "w": "딱",
+                "p": "ttak",
+                "d": "while colliding together; while stopping suddenly, decisively",
+                "s": ""
+            },
+            {
+                "id": "ko-0478",
+                "w": "있어서",
+                "p": "isseoseo",
+                "d": "Because",
+                "s": ""
+            },
+            {
+                "id": "ko-0479",
+                "w": "이야기",
+                "p": "iyagi",
+                "d": "talk; story; anecdote",
+                "s": ""
+            },
+            {
+                "id": "ko-0480",
+                "w": "엄마는",
+                "p": "eommaneun",
+                "d": "Mom is",
+                "s": ""
+            },
+            {
+                "id": "ko-0481",
+                "w": "부인",
+                "p": "buin",
+                "d": "(another person's) wife; Lady (honorary title bestowed on ladies of the high aristocracy in the Goryeo and Joseon dynasties)",
+                "s": ""
+            },
+            {
+                "id": "ko-0482",
+                "w": "하는데",
+                "p": "haneunde",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0483",
+                "w": "않고",
+                "p": "anko",
+                "d": "Without",
+                "s": ""
+            },
+            {
+                "id": "ko-0484",
+                "w": "알았지",
+                "p": "aratji",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-0485",
+                "w": "아니고",
+                "p": "anigo",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0486",
+                "w": "여자가",
+                "p": "yeojaga",
+                "d": "the woman",
+                "s": ""
+            },
+            {
+                "id": "ko-0487",
+                "w": "문",
+                "p": "mun",
+                "d": "door; phylum",
+                "s": ""
+            },
+            {
+                "id": "ko-0488",
+                "w": "되지",
+                "p": "doeji",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-0489",
+                "w": "거기서",
+                "p": "geogiseo",
+                "d": "there",
+                "s": ""
+            },
+            {
+                "id": "ko-0490",
+                "w": "훨씬",
+                "p": "hwolssin",
+                "d": "much more or less (than normal); a lot; long (before or after); far more",
+                "s": ""
+            },
+            {
+                "id": "ko-0491",
+                "w": "아버지가",
+                "p": "abeojiga",
+                "d": "my father",
+                "s": ""
+            },
+            {
+                "id": "ko-0492",
+                "w": "망할",
+                "p": "manghal",
+                "d": "damn",
+                "s": ""
+            },
+            {
+                "id": "ko-0493",
+                "w": "뭔지",
+                "p": "mwonji",
+                "d": "what it is",
+                "s": ""
+            },
+            {
+                "id": "ko-0494",
+                "w": "손",
+                "p": "son",
+                "d": "hand (organ of humans and humanoid animals); free hand",
+                "s": ""
+            },
+            {
+                "id": "ko-0495",
+                "w": "수술",
+                "p": "susul",
+                "d": "surgery",
+                "s": ""
+            },
+            {
+                "id": "ko-0496",
+                "w": "듣고",
+                "p": "deutgo",
+                "d": "listen",
+                "s": ""
+            },
+            {
+                "id": "ko-0497",
+                "w": "어쩌면",
+                "p": "eojjeomyeon",
+                "d": "maybe",
+                "s": ""
+            },
+            {
+                "id": "ko-0498",
+                "w": "보세요",
+                "p": "boseyo",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-0499",
+                "w": "생각이",
+                "p": "saenggagi",
+                "d": "thought",
+                "s": ""
+            },
+            {
+                "id": "ko-0500",
+                "w": "어느",
+                "p": "eoneu",
+                "d": "which; a certain, one, some",
+                "s": ""
+            },
+            {
+                "id": "ko-0501",
+                "w": "그러지",
+                "p": "geureoji",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0502",
+                "w": "되면",
+                "p": "doemyeon",
+                "d": "If it happens",
+                "s": ""
+            },
+            {
+                "id": "ko-0503",
+                "w": "아마도",
+                "p": "amado",
+                "d": "maybe",
+                "s": ""
+            },
+            {
+                "id": "ko-0504",
+                "w": "준비",
+                "p": "junbi",
+                "d": "readiness, preparation",
+                "s": ""
+            },
+            {
+                "id": "ko-0505",
+                "w": "전화",
+                "p": "jeonhwa",
+                "d": "telephone, phone",
+                "s": ""
+            },
+            {
+                "id": "ko-0506",
+                "w": "뒤에",
+                "p": "dwie",
+                "d": "behind",
+                "s": ""
+            },
+            {
+                "id": "ko-0507",
+                "w": "도대체",
+                "p": "dodaeche",
+                "d": "on earth; the hell; not at all, unfortunately",
+                "s": ""
+            },
+            {
+                "id": "ko-0508",
+                "w": "너를",
+                "p": "neoreul",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-0509",
+                "w": "당신도",
+                "p": "dangsindo",
+                "d": "You too",
+                "s": ""
+            },
+            {
+                "id": "ko-0510",
+                "w": "것처럼",
+                "p": "geotcheoreom",
+                "d": "As if",
+                "s": ""
+            },
+            {
+                "id": "ko-0511",
+                "w": "않으면",
+                "p": "aneumyeon",
+                "d": "If not",
+                "s": ""
+            },
+            {
+                "id": "ko-0512",
+                "w": "말하는",
+                "p": "malhaneun",
+                "d": "talking",
+                "s": ""
+            },
+            {
+                "id": "ko-0513",
+                "w": "최고의",
+                "p": "choegoui",
+                "d": "best",
+                "s": ""
+            },
+            {
+                "id": "ko-0514",
+                "w": "말하지",
+                "p": "malhaji",
+                "d": "tell me",
+                "s": ""
+            },
+            {
+                "id": "ko-0515",
+                "w": "세",
+                "p": "se",
+                "d": "three",
+                "s": ""
+            },
+            {
+                "id": "ko-0516",
+                "w": "모르는",
+                "p": "moreuneun",
+                "d": "don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-0517",
+                "w": "유일한",
+                "p": "yuilhan",
+                "d": "only",
+                "s": ""
+            },
+            {
+                "id": "ko-0518",
+                "w": "갑자기",
+                "p": "gapjagi",
+                "d": "suddenly, all of a sudden",
+                "s": ""
+            },
+            {
+                "id": "ko-0519",
+                "w": "이봐요",
+                "p": "ibwayo",
+                "d": "hi, hey, hello",
+                "s": ""
+            },
+            {
+                "id": "ko-0520",
+                "w": "건가요",
+                "p": "geongayo",
+                "d": "Are you sure",
+                "s": ""
+            },
+            {
+                "id": "ko-0521",
+                "w": "없다고",
+                "p": "eopdago",
+                "d": "There is no",
+                "s": ""
+            },
+            {
+                "id": "ko-0522",
+                "w": "것입니다",
+                "p": "geosimnida",
+                "d": "will",
+                "s": ""
+            },
+            {
+                "id": "ko-0523",
+                "w": "있잖아요",
+                "p": "itjanayo",
+                "d": "You know,",
+                "s": ""
+            },
+            {
+                "id": "ko-0524",
+                "w": "되고",
+                "p": "doego",
+                "d": "become",
+                "s": ""
+            },
+            {
+                "id": "ko-0525",
+                "w": "어쨌든",
+                "p": "eojjaetdeun",
+                "d": "anyway; after all",
+                "s": ""
+            },
+            {
+                "id": "ko-0526",
+                "w": "가진",
+                "p": "gajin",
+                "d": "with",
+                "s": ""
+            },
+            {
+                "id": "ko-0527",
+                "w": "이번",
+                "p": "ibeon",
+                "d": "this time; this occasion",
+                "s": ""
+            },
+            {
+                "id": "ko-0528",
+                "w": "뭐하는",
+                "p": "mwohaneun",
+                "d": "What are you doing",
+                "s": ""
+            },
+            {
+                "id": "ko-0529",
+                "w": "후에",
+                "p": "hue",
+                "d": "after",
+                "s": ""
+            },
+            {
+                "id": "ko-0530",
+                "w": "친구가",
+                "p": "chinguga",
+                "d": "friend",
+                "s": ""
+            },
+            {
+                "id": "ko-0531",
+                "w": "지",
+                "p": "ji",
+                "d": "Ji",
+                "s": ""
+            },
+            {
+                "id": "ko-0532",
+                "w": "신경",
+                "p": "singyeong",
+                "d": "nerves; one's feelings on a subject",
+                "s": ""
+            },
+            {
+                "id": "ko-0533",
+                "w": "그만해",
+                "p": "geumanhae",
+                "d": "Stop it",
+                "s": ""
+            },
+            {
+                "id": "ko-0534",
+                "w": "누구야",
+                "p": "nuguya",
+                "d": "who is it",
+                "s": ""
+            },
+            {
+                "id": "ko-0535",
+                "w": "당신에게",
+                "p": "dangsinege",
+                "d": "to you",
+                "s": ""
+            },
+            {
+                "id": "ko-0536",
+                "w": "늘",
+                "p": "neul",
+                "d": "always",
+                "s": ""
+            },
+            {
+                "id": "ko-0537",
+                "w": "없었어",
+                "p": "eopseosseo",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0538",
+                "w": "그들을",
+                "p": "geudeureul",
+                "d": "them",
+                "s": ""
+            },
+            {
+                "id": "ko-0539",
+                "w": "있게",
+                "p": "itge",
+                "d": "have",
+                "s": ""
+            },
+            {
+                "id": "ko-0540",
+                "w": "알잖아",
+                "p": "aljana",
+                "d": "You know",
+                "s": ""
+            },
+            {
+                "id": "ko-0541",
+                "w": "누군가",
+                "p": "nugunga",
+                "d": "somebody; someone",
+                "s": ""
+            },
+            {
+                "id": "ko-0542",
+                "w": "분명히",
+                "p": "bunmyeonghi",
+                "d": "In an obvious manner.",
+                "s": ""
+            },
+            {
+                "id": "ko-0543",
+                "w": "생각을",
+                "p": "saenggageul",
+                "d": "think",
+                "s": ""
+            },
+            {
+                "id": "ko-0544",
+                "w": "존",
+                "p": "jon",
+                "d": "zone",
+                "s": ""
+            },
+            {
+                "id": "ko-0545",
+                "w": "일단",
+                "p": "ildan",
+                "d": "first and foremost; first, for a moment; just for starters",
+                "s": ""
+            },
+            {
+                "id": "ko-0546",
+                "w": "가야",
+                "p": "gaya",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-0547",
+                "w": "걱정",
+                "p": "geokjeong",
+                "d": "anxiety; worry",
+                "s": ""
+            },
+            {
+                "id": "ko-0548",
+                "w": "보자",
+                "p": "boja",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-0549",
+                "w": "매일",
+                "p": "maeil",
+                "d": "every day",
+                "s": ""
+            },
+            {
+                "id": "ko-0550",
+                "w": "수는",
+                "p": "suneun",
+                "d": "The number is",
+                "s": ""
+            },
+            {
+                "id": "ko-0551",
+                "w": "아침",
+                "p": "achim",
+                "d": "morning; breakfast",
+                "s": ""
+            },
+            {
+                "id": "ko-0552",
+                "w": "말할",
+                "p": "malhal",
+                "d": "say",
+                "s": ""
+            },
+            {
+                "id": "ko-0553",
+                "w": "말아요",
+                "p": "marayo",
+                "d": "Roll it up",
+                "s": ""
+            },
+            {
+                "id": "ko-0554",
+                "w": "모두가",
+                "p": "moduga",
+                "d": "everyone",
+                "s": ""
+            },
+            {
+                "id": "ko-0555",
+                "w": "않았어요",
+                "p": "anasseoyo",
+                "d": "I didn't",
+                "s": ""
+            },
+            {
+                "id": "ko-0556",
+                "w": "얘기를",
+                "p": "yaegireul",
+                "d": "talk",
+                "s": ""
+            },
+            {
+                "id": "ko-0557",
+                "w": "봤어요",
+                "p": "bwasseoyo",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-0558",
+                "w": "대신",
+                "p": "daesin",
+                "d": "instead",
+                "s": ""
+            },
+            {
+                "id": "ko-0559",
+                "w": "마치",
+                "p": "machi",
+                "d": "As if",
+                "s": ""
+            },
+            {
+                "id": "ko-0560",
+                "w": "건데",
+                "p": "geonde",
+                "d": "It's going to be",
+                "s": ""
+            },
+            {
+                "id": "ko-0561",
+                "w": "자넨",
+                "p": "janen",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-0562",
+                "w": "했잖아",
+                "p": "haetjana",
+                "d": "You did it",
+                "s": ""
+            },
+            {
+                "id": "ko-0563",
+                "w": "둘이",
+                "p": "duri",
+                "d": "Two of us",
+                "s": ""
+            },
+            {
+                "id": "ko-0564",
+                "w": "당신과",
+                "p": "dangsingwa",
+                "d": "with you",
+                "s": ""
+            },
+            {
+                "id": "ko-0565",
+                "w": "집으로",
+                "p": "jibeuro",
+                "d": "home",
+                "s": ""
+            },
+            {
+                "id": "ko-0566",
+                "w": "한다",
+                "p": "handa",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0567",
+                "w": "두고",
+                "p": "dugo",
+                "d": "Leave it",
+                "s": ""
+            },
+            {
+                "id": "ko-0568",
+                "w": "이름을",
+                "p": "ireumeul",
+                "d": "name",
+                "s": ""
+            },
+            {
+                "id": "ko-0569",
+                "w": "있네",
+                "p": "inne",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-0570",
+                "w": "그들의",
+                "p": "geudeurui",
+                "d": "their",
+                "s": ""
+            },
+            {
+                "id": "ko-0571",
+                "w": "뭔데",
+                "p": "mwonde",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-0572",
+                "w": "금방",
+                "p": "geumbang",
+                "d": "soon, shortly; just now, just",
+                "s": ""
+            },
+            {
+                "id": "ko-0573",
+                "w": "사는",
+                "p": "saneun",
+                "d": "living",
+                "s": ""
+            },
+            {
+                "id": "ko-0574",
+                "w": "좋아하는",
+                "p": "joahaneun",
+                "d": "favorite",
+                "s": ""
+            },
+            {
+                "id": "ko-0575",
+                "w": "찾을",
+                "p": "chajeul",
+                "d": "find",
+                "s": ""
+            },
+            {
+                "id": "ko-0576",
+                "w": "맘에",
+                "p": "mame",
+                "d": "I like it",
+                "s": ""
+            },
+            {
+                "id": "ko-0577",
+                "w": "결국",
+                "p": "gyeolguk",
+                "d": "in the end, ultimately",
+                "s": ""
+            },
+            {
+                "id": "ko-0578",
+                "w": "이유가",
+                "p": "iyuga",
+                "d": "the reason",
+                "s": ""
+            },
+            {
+                "id": "ko-0579",
+                "w": "필요해요",
+                "p": "piryohaeyo",
+                "d": "to have a need; to be necessary, to be needed",
+                "s": ""
+            },
+            {
+                "id": "ko-0580",
+                "w": "중에",
+                "p": "junge",
+                "d": "During",
+                "s": ""
+            },
+            {
+                "id": "ko-0581",
+                "w": "그때",
+                "p": "geuttae",
+                "d": "that time, the given time",
+                "s": ""
+            },
+            {
+                "id": "ko-0582",
+                "w": "보는",
+                "p": "boneun",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-0583",
+                "w": "너랑",
+                "p": "neorang",
+                "d": "With you",
+                "s": ""
+            },
+            {
+                "id": "ko-0584",
+                "w": "아이를",
+                "p": "aireul",
+                "d": "child",
+                "s": ""
+            },
+            {
+                "id": "ko-0585",
+                "w": "없잖아",
+                "p": "eopjana",
+                "d": "There isn't any",
+                "s": ""
+            },
+            {
+                "id": "ko-0586",
+                "w": "한다고",
+                "p": "handago",
+                "d": "I do it",
+                "s": ""
+            },
+            {
+                "id": "ko-0587",
+                "w": "기분",
+                "p": "gibun",
+                "d": "feeling, mood",
+                "s": ""
+            },
+            {
+                "id": "ko-0588",
+                "w": "하게",
+                "p": "hage",
+                "d": "do",
+                "s": ""
+            },
+            {
+                "id": "ko-0589",
+                "w": "놈이",
+                "p": "nomi",
+                "d": "This guy",
+                "s": ""
+            },
+            {
+                "id": "ko-0590",
+                "w": "못해",
+                "p": "motae",
+                "d": "I can't",
+                "s": ""
+            },
+            {
+                "id": "ko-0591",
+                "w": "우리에게",
+                "p": "uriege",
+                "d": "to us",
+                "s": ""
+            },
+            {
+                "id": "ko-0592",
+                "w": "가면",
+                "p": "gamyeon",
+                "d": "mask",
+                "s": ""
+            },
+            {
+                "id": "ko-0593",
+                "w": "저를",
+                "p": "jeoreul",
+                "d": "me",
+                "s": ""
+            },
+            {
+                "id": "ko-0594",
+                "w": "잡아",
+                "p": "jaba",
+                "d": "catch",
+                "s": ""
+            },
+            {
+                "id": "ko-0595",
+                "w": "집에서",
+                "p": "jibeseo",
+                "d": "at home",
+                "s": ""
+            },
+            {
+                "id": "ko-0596",
+                "w": "우리도",
+                "p": "urido",
+                "d": "We too",
+                "s": ""
+            },
+            {
+                "id": "ko-0597",
+                "w": "기분이",
+                "p": "gibuni",
+                "d": "I feel like",
+                "s": ""
+            },
+            {
+                "id": "ko-0598",
+                "w": "저희",
+                "p": "jeohui",
+                "d": "the first person plural polite pronoun; we",
+                "s": ""
+            },
+            {
+                "id": "ko-0599",
+                "w": "찾고",
+                "p": "chatgo",
+                "d": "looking for",
+                "s": ""
+            },
+            {
+                "id": "ko-0600",
+                "w": "손을",
+                "p": "soneul",
+                "d": "hand",
+                "s": ""
+            },
+            {
+                "id": "ko-0601",
+                "w": "거다",
+                "p": "geoda",
+                "d": "It's going to happen",
+                "s": ""
+            },
+            {
+                "id": "ko-0602",
+                "w": "어제",
+                "p": "eoje",
+                "d": "yesterday",
+                "s": ""
+            },
+            {
+                "id": "ko-0603",
+                "w": "남자가",
+                "p": "namjaga",
+                "d": "the man",
+                "s": ""
+            },
+            {
+                "id": "ko-0604",
+                "w": "뭐지",
+                "p": "mwoji",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-0605",
+                "w": "앞으로",
+                "p": "apeuro",
+                "d": "Used other than figuratively or idiomatically: see 앞 (ap), -으로 (-euro).; from now on; hereafter",
+                "s": ""
+            },
+            {
+                "id": "ko-0606",
+                "w": "잠깐만요",
+                "p": "jamkkanmanyo",
+                "d": "Wait a minute",
+                "s": ""
+            },
+            {
+                "id": "ko-0607",
+                "w": "자신의",
+                "p": "jasinui",
+                "d": "own",
+                "s": ""
+            },
+            {
+                "id": "ko-0608",
+                "w": "애가",
+                "p": "aega",
+                "d": "mournful song, elegy",
+                "s": ""
+            },
+            {
+                "id": "ko-0609",
+                "w": "이상한",
+                "p": "isanghan",
+                "d": "strange",
+                "s": ""
+            },
+            {
+                "id": "ko-0610",
+                "w": "막",
+                "p": "mak",
+                "d": "Just",
+                "s": ""
+            },
+            {
+                "id": "ko-0611",
+                "w": "먹고",
+                "p": "meokgo",
+                "d": "eat",
+                "s": ""
+            },
+            {
+                "id": "ko-0612",
+                "w": "아이",
+                "p": "ai",
+                "d": "child",
+                "s": ""
+            },
+            {
+                "id": "ko-0613",
+                "w": "언제나",
+                "p": "eonjena",
+                "d": "always; at some point; eventually",
+                "s": ""
+            },
+            {
+                "id": "ko-0614",
+                "w": "여기가",
+                "p": "yeogiga",
+                "d": "Here",
+                "s": ""
+            },
+            {
+                "id": "ko-0615",
+                "w": "아들",
+                "p": "adeul",
+                "d": "son",
+                "s": ""
+            },
+            {
+                "id": "ko-0616",
+                "w": "알게",
+                "p": "alge",
+                "d": "get to know",
+                "s": ""
+            },
+            {
+                "id": "ko-0617",
+                "w": "하세요",
+                "p": "haseyo",
+                "d": "informal polite present indicative form of 하시다 (hasida, “to do (polite)”); informal polite present interrogative form of 하시다 (hasida, “to do (polite)”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0618",
+                "w": "총",
+                "p": "chong",
+                "d": "gun; rifle; machine gun",
+                "s": ""
+            },
+            {
+                "id": "ko-0619",
+                "w": "스스로",
+                "p": "seuseuro",
+                "d": "yourself",
+                "s": ""
+            },
+            {
+                "id": "ko-0620",
+                "w": "방법이",
+                "p": "bangbeobi",
+                "d": "There is a way",
+                "s": ""
+            },
+            {
+                "id": "ko-0621",
+                "w": "있던",
+                "p": "itdeon",
+                "d": "there was",
+                "s": ""
+            },
+            {
+                "id": "ko-0622",
+                "w": "해봐",
+                "p": "haebwa",
+                "d": "Try it",
+                "s": ""
+            },
+            {
+                "id": "ko-0623",
+                "w": "아님",
+                "p": "anim",
+                "d": "Not",
+                "s": ""
+            },
+            {
+                "id": "ko-0624",
+                "w": "때가",
+                "p": "ttaega",
+                "d": "It's time",
+                "s": ""
+            },
+            {
+                "id": "ko-0625",
+                "w": "아니죠",
+                "p": "anijyo",
+                "d": "Nope",
+                "s": ""
+            },
+            {
+                "id": "ko-0626",
+                "w": "했던",
+                "p": "haetdeon",
+                "d": "did",
+                "s": ""
+            },
+            {
+                "id": "ko-0627",
+                "w": "조용히",
+                "p": "joyonghi",
+                "d": "silently, quietly",
+                "s": ""
+            },
+            {
+                "id": "ko-0628",
+                "w": "밤에",
+                "p": "bame",
+                "d": "at night",
+                "s": ""
+            },
+            {
+                "id": "ko-0629",
+                "w": "미친",
+                "p": "michin",
+                "d": "crazy",
+                "s": ""
+            },
+            {
+                "id": "ko-0630",
+                "w": "텐데",
+                "p": "tende",
+                "d": "It would be",
+                "s": ""
+            },
+            {
+                "id": "ko-0631",
+                "w": "머리",
+                "p": "meori",
+                "d": "head; intelligence",
+                "s": ""
+            },
+            {
+                "id": "ko-0632",
+                "w": "않습니다",
+                "p": "anseumnida",
+                "d": "does not",
+                "s": ""
+            },
+            {
+                "id": "ko-0633",
+                "w": "잘못",
+                "p": "jalmot",
+                "d": "wrong",
+                "s": ""
+            },
+            {
+                "id": "ko-0634",
+                "w": "고맙습니다",
+                "p": "gomapseumnida",
+                "d": "thank you",
+                "s": ""
+            },
+            {
+                "id": "ko-0635",
+                "w": "있어야",
+                "p": "isseoya",
+                "d": "Must be",
+                "s": ""
+            },
+            {
+                "id": "ko-0636",
+                "w": "왜냐하면",
+                "p": "waenyahamyeon",
+                "d": "because; for the following reason.",
+                "s": ""
+            },
+            {
+                "id": "ko-0637",
+                "w": "앉아",
+                "p": "anja",
+                "d": "sit",
+                "s": ""
+            },
+            {
+                "id": "ko-0638",
+                "w": "아침에",
+                "p": "achime",
+                "d": "in the morning",
+                "s": ""
+            },
+            {
+                "id": "ko-0639",
+                "w": "죽일",
+                "p": "jugil",
+                "d": "kill",
+                "s": ""
+            },
+            {
+                "id": "ko-0640",
+                "w": "환자",
+                "p": "hwanja",
+                "d": "a medical patient",
+                "s": ""
+            },
+            {
+                "id": "ko-0641",
+                "w": "양",
+                "p": "yang",
+                "d": "sheep",
+                "s": ""
+            },
+            {
+                "id": "ko-0642",
+                "w": "없죠",
+                "p": "eopjyo",
+                "d": "There is no",
+                "s": ""
+            },
+            {
+                "id": "ko-0643",
+                "w": "일어나",
+                "p": "ireona",
+                "d": "wake up",
+                "s": ""
+            },
+            {
+                "id": "ko-0644",
+                "w": "믿을",
+                "p": "mideul",
+                "d": "trustworthy",
+                "s": ""
+            },
+            {
+                "id": "ko-0645",
+                "w": "같네요",
+                "p": "ganneyo",
+                "d": "Looks like",
+                "s": ""
+            },
+            {
+                "id": "ko-0646",
+                "w": "건가",
+                "p": "geonga",
+                "d": "Is it dry?",
+                "s": ""
+            },
+            {
+                "id": "ko-0647",
+                "w": "게다가",
+                "p": "gedaga",
+                "d": "moreover; there; thereat",
+                "s": ""
+            },
+            {
+                "id": "ko-0648",
+                "w": "알렉스",
+                "p": "allekseu",
+                "d": "alex",
+                "s": ""
+            },
+            {
+                "id": "ko-0649",
+                "w": "타고",
+                "p": "tago",
+                "d": "riding",
+                "s": ""
+            },
+            {
+                "id": "ko-0650",
+                "w": "데",
+                "p": "de",
+                "d": "having",
+                "s": ""
+            },
+            {
+                "id": "ko-0651",
+                "w": "들었어",
+                "p": "deureosseo",
+                "d": "I heard",
+                "s": ""
+            },
+            {
+                "id": "ko-0652",
+                "w": "눈을",
+                "p": "nuneul",
+                "d": "eyes",
+                "s": ""
+            },
+            {
+                "id": "ko-0653",
+                "w": "나에게",
+                "p": "naege",
+                "d": "to me",
+                "s": ""
+            },
+            {
+                "id": "ko-0654",
+                "w": "없었어요",
+                "p": "eopseosseoyo",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0655",
+                "w": "만나서",
+                "p": "mannaseo",
+                "d": "meet up",
+                "s": ""
+            },
+            {
+                "id": "ko-0656",
+                "w": "진정해",
+                "p": "jinjeonghae",
+                "d": "Calm down",
+                "s": ""
+            },
+            {
+                "id": "ko-0657",
+                "w": "이것",
+                "p": "igeot",
+                "d": "this",
+                "s": ""
+            },
+            {
+                "id": "ko-0658",
+                "w": "더이상",
+                "p": "deoisang",
+                "d": "anymore",
+                "s": ""
+            },
+            {
+                "id": "ko-0659",
+                "w": "보지",
+                "p": "boji",
+                "d": "pussy, vulva, vagina",
+                "s": ""
+            },
+            {
+                "id": "ko-0660",
+                "w": "방법을",
+                "p": "bangbeobeul",
+                "d": "way",
+                "s": ""
+            },
+            {
+                "id": "ko-0661",
+                "w": "원래",
+                "p": "wollae",
+                "d": "original",
+                "s": ""
+            },
+            {
+                "id": "ko-0662",
+                "w": "솔직히",
+                "p": "soljikhi",
+                "d": "honestly",
+                "s": ""
+            },
+            {
+                "id": "ko-0663",
+                "w": "좋지",
+                "p": "jochi",
+                "d": "Good",
+                "s": ""
+            },
+            {
+                "id": "ko-0664",
+                "w": "하려고",
+                "p": "haryeogo",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0665",
+                "w": "빌어먹을",
+                "p": "bireomeogeul",
+                "d": "Damn it",
+                "s": ""
+            },
+            {
+                "id": "ko-0666",
+                "w": "총을",
+                "p": "chongeul",
+                "d": "gun",
+                "s": ""
+            },
+            {
+                "id": "ko-0667",
+                "w": "길을",
+                "p": "gireul",
+                "d": "the road",
+                "s": ""
+            },
+            {
+                "id": "ko-0668",
+                "w": "누군지",
+                "p": "nugunji",
+                "d": "who is",
+                "s": ""
+            },
+            {
+                "id": "ko-0669",
+                "w": "아니라고",
+                "p": "anirago",
+                "d": "no",
+                "s": ""
+            },
+            {
+                "id": "ko-0670",
+                "w": "자신을",
+                "p": "jasineul",
+                "d": "yourself",
+                "s": ""
+            },
+            {
+                "id": "ko-0671",
+                "w": "여길",
+                "p": "yeogil",
+                "d": "to consider (as)",
+                "s": ""
+            },
+            {
+                "id": "ko-0672",
+                "w": "있지만",
+                "p": "itjiman",
+                "d": "Although there is",
+                "s": ""
+            },
+            {
+                "id": "ko-0673",
+                "w": "얼른",
+                "p": "eolleun",
+                "d": "quickly, at once, without delay",
+                "s": ""
+            },
+            {
+                "id": "ko-0674",
+                "w": "얘들아",
+                "p": "yaedeura",
+                "d": "Guys",
+                "s": ""
+            },
+            {
+                "id": "ko-0675",
+                "w": "대로",
+                "p": "daero",
+                "d": "the same way as, the manner of; the same time as, as soon as",
+                "s": ""
+            },
+            {
+                "id": "ko-0676",
+                "w": "만든",
+                "p": "mandeun",
+                "d": "made",
+                "s": ""
+            },
+            {
+                "id": "ko-0677",
+                "w": "놈",
+                "p": "nom",
+                "d": "bastard; kid, boy (from an older perspective)",
+                "s": ""
+            },
+            {
+                "id": "ko-0678",
+                "w": "조심해",
+                "p": "josimhae",
+                "d": "be careful",
+                "s": ""
+            },
+            {
+                "id": "ko-0679",
+                "w": "일에",
+                "p": "ire",
+                "d": "at work",
+                "s": ""
+            },
+            {
+                "id": "ko-0680",
+                "w": "따라",
+                "p": "ttara",
+                "d": "follow",
+                "s": ""
+            },
+            {
+                "id": "ko-0681",
+                "w": "술",
+                "p": "sul",
+                "d": "alcohol",
+                "s": ""
+            },
+            {
+                "id": "ko-0682",
+                "w": "정확히",
+                "p": "jeonghwakhi",
+                "d": "exactly, accurately, correctly, precisely",
+                "s": ""
+            },
+            {
+                "id": "ko-0683",
+                "w": "자기가",
+                "p": "jagiga",
+                "d": "Baby",
+                "s": ""
+            },
+            {
+                "id": "ko-0684",
+                "w": "충분히",
+                "p": "chungbunhi",
+                "d": "sufficiently",
+                "s": ""
+            },
+            {
+                "id": "ko-0685",
+                "w": "힘을",
+                "p": "himeul",
+                "d": "strength",
+                "s": ""
+            },
+            {
+                "id": "ko-0686",
+                "w": "아저씨",
+                "p": "ajeossi",
+                "d": "middle-aged elder male; uncle",
+                "s": ""
+            },
+            {
+                "id": "ko-0687",
+                "w": "알겠지",
+                "p": "algetji",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-0688",
+                "w": "있었는데",
+                "p": "isseonneunde",
+                "d": "There was",
+                "s": ""
+            },
+            {
+                "id": "ko-0689",
+                "w": "사랑하는",
+                "p": "saranghaneun",
+                "d": "loving",
+                "s": ""
+            },
+            {
+                "id": "ko-0690",
+                "w": "기다리고",
+                "p": "gidarigo",
+                "d": "to wait for, to await; to look forward to",
+                "s": ""
+            },
+            {
+                "id": "ko-0691",
+                "w": "될거야",
+                "p": "doelgeoya",
+                "d": "It will be",
+                "s": ""
+            },
+            {
+                "id": "ko-0692",
+                "w": "살아",
+                "p": "sara",
+                "d": "to live; to dwell",
+                "s": ""
+            },
+            {
+                "id": "ko-0693",
+                "w": "평생",
+                "p": "pyeongsaeng",
+                "d": "one's entire life, lifetime",
+                "s": ""
+            },
+            {
+                "id": "ko-0694",
+                "w": "아까",
+                "p": "akka",
+                "d": "Earlier",
+                "s": ""
+            },
+            {
+                "id": "ko-0695",
+                "w": "얘야",
+                "p": "yaeya",
+                "d": "Honey",
+                "s": ""
+            },
+            {
+                "id": "ko-0696",
+                "w": "눈",
+                "p": "nun",
+                "d": "eye (organ allowing animals to see); appreciative eye (for), discerning eye (for)",
+                "s": ""
+            },
+            {
+                "id": "ko-0697",
+                "w": "거기에",
+                "p": "geogie",
+                "d": "there",
+                "s": ""
+            },
+            {
+                "id": "ko-0698",
+                "w": "애",
+                "p": "ae",
+                "d": "kid",
+                "s": ""
+            },
+            {
+                "id": "ko-0699",
+                "w": "분명",
+                "p": "bunmyeong",
+                "d": "clearly, certainly",
+                "s": ""
+            },
+            {
+                "id": "ko-0700",
+                "w": "말하고",
+                "p": "malhago",
+                "d": "speaking",
+                "s": ""
+            },
+            {
+                "id": "ko-0701",
+                "w": "역시",
+                "p": "yeoksi",
+                "d": "too, also; just as expected",
+                "s": ""
+            },
+            {
+                "id": "ko-0702",
+                "w": "저희가",
+                "p": "jeohuiga",
+                "d": "We",
+                "s": ""
+            },
+            {
+                "id": "ko-0703",
+                "w": "찾아",
+                "p": "chaja",
+                "d": "find",
+                "s": ""
+            },
+            {
+                "id": "ko-0704",
+                "w": "걔가",
+                "p": "gyaega",
+                "d": "He",
+                "s": ""
+            },
+            {
+                "id": "ko-0705",
+                "w": "이럴",
+                "p": "ireol",
+                "d": "to do this; to act in this way; to say this",
+                "s": ""
+            },
+            {
+                "id": "ko-0706",
+                "w": "저기요",
+                "p": "jeogiyo",
+                "d": "Hey there",
+                "s": ""
+            },
+            {
+                "id": "ko-0707",
+                "w": "너와",
+                "p": "neowa",
+                "d": "with you",
+                "s": ""
+            },
+            {
+                "id": "ko-0708",
+                "w": "될까요",
+                "p": "doelkkayo",
+                "d": "Will it happen?",
+                "s": ""
+            },
+            {
+                "id": "ko-0709",
+                "w": "천천히",
+                "p": "cheoncheonhi",
+                "d": "slowly",
+                "s": ""
+            },
+            {
+                "id": "ko-0710",
+                "w": "문제",
+                "p": "munje",
+                "d": "problem, issue, question",
+                "s": ""
+            },
+            {
+                "id": "ko-0711",
+                "w": "수술을",
+                "p": "susureul",
+                "d": "surgery",
+                "s": ""
+            },
+            {
+                "id": "ko-0712",
+                "w": "좋았어",
+                "p": "joasseo",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-0713",
+                "w": "어디에",
+                "p": "eodie",
+                "d": "where",
+                "s": ""
+            },
+            {
+                "id": "ko-0714",
+                "w": "문을",
+                "p": "muneul",
+                "d": "open the door",
+                "s": ""
+            },
+            {
+                "id": "ko-0715",
+                "w": "맞지",
+                "p": "matji",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0716",
+                "w": "어딨어",
+                "p": "eodisseo",
+                "d": "Where are you?",
+                "s": ""
+            },
+            {
+                "id": "ko-0717",
+                "w": "조지",
+                "p": "joji",
+                "d": "george",
+                "s": ""
+            },
+            {
+                "id": "ko-0718",
+                "w": "아녜요",
+                "p": "anyeyo",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-0719",
+                "w": "저녁",
+                "p": "jeonyeok",
+                "d": "evening; evening meal; supper; dinner",
+                "s": ""
+            },
+            {
+                "id": "ko-0720",
+                "w": "됩니다",
+                "p": "doemnida",
+                "d": "It will be done",
+                "s": ""
+            },
+            {
+                "id": "ko-0721",
+                "w": "마요",
+                "p": "mayo",
+                "d": "to smash",
+                "s": ""
+            },
+            {
+                "id": "ko-0722",
+                "w": "생각엔",
+                "p": "saenggagen",
+                "d": "I think",
+                "s": ""
+            },
+            {
+                "id": "ko-0723",
+                "w": "만들어",
+                "p": "mandeureo",
+                "d": "make it",
+                "s": ""
+            },
+            {
+                "id": "ko-0724",
+                "w": "적어도",
+                "p": "jeogeodo",
+                "d": "at least; to say the least",
+                "s": ""
+            },
+            {
+                "id": "ko-0725",
+                "w": "애들",
+                "p": "aedeul",
+                "d": "kids",
+                "s": ""
+            },
+            {
+                "id": "ko-0726",
+                "w": "개",
+                "p": "gae",
+                "d": "dog",
+                "s": ""
+            },
+            {
+                "id": "ko-0727",
+                "w": "잘했어",
+                "p": "jalhaesseo",
+                "d": "Well done",
+                "s": ""
+            },
+            {
+                "id": "ko-0728",
+                "w": "그러나",
+                "p": "geureona",
+                "d": "but, however; \"like that, but;\" contraction of 그러하나 (geureohana)",
+                "s": ""
+            },
+            {
+                "id": "ko-0729",
+                "w": "주",
+                "p": "ju",
+                "d": "state",
+                "s": ""
+            },
+            {
+                "id": "ko-0730",
+                "w": "괜찮은",
+                "p": "gwaenchaneun",
+                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
+                "s": ""
+            },
+            {
+                "id": "ko-0731",
+                "w": "생각은",
+                "p": "saenggageun",
+                "d": "Thought",
+                "s": ""
+            },
+            {
+                "id": "ko-0732",
+                "w": "위에",
+                "p": "wie",
+                "d": "above",
+                "s": ""
+            },
+            {
+                "id": "ko-0733",
+                "w": "가끔",
+                "p": "gakkeum",
+                "d": "occasionally, from time to time, not frequently or regularly",
+                "s": ""
+            },
+            {
+                "id": "ko-0734",
+                "w": "있었던",
+                "p": "isseotdeon",
+                "d": "there was",
+                "s": ""
+            },
+            {
+                "id": "ko-0735",
+                "w": "간",
+                "p": "gan",
+                "d": "Liver",
+                "s": ""
+            },
+            {
+                "id": "ko-0736",
+                "w": "잠시",
+                "p": "jamsi",
+                "d": "for a moment",
+                "s": ""
+            },
+            {
+                "id": "ko-0737",
+                "w": "알아서",
+                "p": "araseo",
+                "d": "Take care of it",
+                "s": ""
+            },
+            {
+                "id": "ko-0738",
+                "w": "곳에",
+                "p": "gose",
+                "d": "where",
+                "s": ""
+            },
+            {
+                "id": "ko-0739",
+                "w": "집을",
+                "p": "jibeul",
+                "d": "house",
+                "s": ""
+            },
+            {
+                "id": "ko-0740",
+                "w": "그렇지만",
+                "p": "geureochiman",
+                "d": "But",
+                "s": ""
+            },
+            {
+                "id": "ko-0741",
+                "w": "그레이",
+                "p": "geurei",
+                "d": "gray",
+                "s": ""
+            },
+            {
+                "id": "ko-0742",
+                "w": "그럼요",
+                "p": "geureomyo",
+                "d": "Sure",
+                "s": ""
+            },
+            {
+                "id": "ko-0743",
+                "w": "삶을",
+                "p": "salmeul",
+                "d": "life",
+                "s": ""
+            },
+            {
+                "id": "ko-0744",
+                "w": "마음에",
+                "p": "maeume",
+                "d": "in my heart",
+                "s": ""
+            },
+            {
+                "id": "ko-0745",
+                "w": "살고",
+                "p": "salgo",
+                "d": "to live; to dwell",
+                "s": ""
+            },
+            {
+                "id": "ko-0746",
+                "w": "들고",
+                "p": "deulgo",
+                "d": "carrying",
+                "s": ""
+            },
+            {
+                "id": "ko-0747",
+                "w": "분",
+                "p": "bun",
+                "d": "minutes",
+                "s": ""
+            },
+            {
+                "id": "ko-0748",
+                "w": "그랬어",
+                "p": "geuraesseo",
+                "d": "I did",
+                "s": ""
+            },
+            {
+                "id": "ko-0749",
+                "w": "차를",
+                "p": "chareul",
+                "d": "tea",
+                "s": ""
+            },
+            {
+                "id": "ko-0750",
+                "w": "옆에",
+                "p": "yeope",
+                "d": "next to",
+                "s": ""
+            },
+            {
+                "id": "ko-0751",
+                "w": "아이가",
+                "p": "aiga",
+                "d": "The child",
+                "s": ""
+            },
+            {
+                "id": "ko-0752",
+                "w": "이번엔",
+                "p": "ibeonen",
+                "d": "This time",
+                "s": ""
+            },
+            {
+                "id": "ko-0753",
+                "w": "저게",
+                "p": "jeoge",
+                "d": "that thing (as the subject of the sentence or clause)",
+                "s": ""
+            },
+            {
+                "id": "ko-0754",
+                "w": "아빠는",
+                "p": "appaneun",
+                "d": "Dad is",
+                "s": ""
+            },
+            {
+                "id": "ko-0755",
+                "w": "괜찮을",
+                "p": "gwaenchaneul",
+                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
+                "s": ""
+            },
+            {
+                "id": "ko-0756",
+                "w": "하자",
+                "p": "haja",
+                "d": "Let's do it",
+                "s": ""
+            },
+            {
+                "id": "ko-0757",
+                "w": "알았는데",
+                "p": "aranneunde",
+                "d": "I thought",
+                "s": ""
+            },
+            {
+                "id": "ko-0758",
+                "w": "생각해요",
+                "p": "saenggakaeyo",
+                "d": "I think",
+                "s": ""
+            },
+            {
+                "id": "ko-0759",
+                "w": "없는데",
+                "p": "eomneunde",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-0760",
+                "w": "생각하는",
+                "p": "saenggakaneun",
+                "d": "thinking",
+                "s": ""
+            },
+            {
+                "id": "ko-0761",
+                "w": "아니잖아",
+                "p": "anijana",
+                "d": "Nope",
+                "s": ""
+            },
+            {
+                "id": "ko-0762",
+                "w": "마지막으로",
+                "p": "majimageuro",
+                "d": "finally",
+                "s": ""
+            },
+            {
+                "id": "ko-0763",
+                "w": "여자를",
+                "p": "yeojareul",
+                "d": "woman",
+                "s": ""
+            },
+            {
+                "id": "ko-0764",
+                "w": "죽었어",
+                "p": "jugeosseo",
+                "d": "dead",
+                "s": ""
+            },
+            {
+                "id": "ko-0765",
+                "w": "멍청한",
+                "p": "meongcheonghan",
+                "d": "stupid",
+                "s": ""
+            },
+            {
+                "id": "ko-0766",
+                "w": "훌륭한",
+                "p": "hullyunghan",
+                "d": "great",
+                "s": ""
+            },
+            {
+                "id": "ko-0767",
+                "w": "있었지",
+                "p": "isseotji",
+                "d": "There was",
+                "s": ""
+            },
+            {
+                "id": "ko-0768",
+                "w": "정도",
+                "p": "jeongdo",
+                "d": "degree, extent; an approximate amount",
+                "s": ""
+            },
+            {
+                "id": "ko-0769",
+                "w": "베일리",
+                "p": "beilli",
+                "d": "bailey",
+                "s": ""
+            },
+            {
+                "id": "ko-0770",
+                "w": "준비가",
+                "p": "junbiga",
+                "d": "ready",
+                "s": ""
+            },
+            {
+                "id": "ko-0771",
+                "w": "남은",
+                "p": "nameun",
+                "d": "leftover",
+                "s": ""
+            },
+            {
+                "id": "ko-0772",
+                "w": "있으니까",
+                "p": "isseunikka",
+                "d": "Because there is",
+                "s": ""
+            },
+            {
+                "id": "ko-0773",
+                "w": "싫어요",
+                "p": "sireoyo",
+                "d": "I don't like it",
+                "s": ""
+            },
+            {
+                "id": "ko-0774",
+                "w": "입니다",
+                "p": "imnida",
+                "d": "to carry on the head",
+                "s": ""
+            },
+            {
+                "id": "ko-0775",
+                "w": "영원히",
+                "p": "yeongwonhi",
+                "d": "forever, eternally",
+                "s": ""
+            },
+            {
+                "id": "ko-0776",
+                "w": "엄청난",
+                "p": "eomcheongnan",
+                "d": "enormous",
+                "s": ""
+            },
+            {
+                "id": "ko-0777",
+                "w": "정신",
+                "p": "jeongsin",
+                "d": "mind; consciousness; pneuma; psyche; mindset",
+                "s": ""
+            },
+            {
+                "id": "ko-0778",
+                "w": "는",
+                "p": "neun",
+                "d": "is",
+                "s": ""
+            },
+            {
+                "id": "ko-0779",
+                "w": "계세요",
+                "p": "gyeseyo",
+                "d": "Are you there?",
+                "s": ""
+            },
+            {
+                "id": "ko-0780",
+                "w": "하는지",
+                "p": "haneunji",
+                "d": "Do you do it?",
+                "s": ""
+            },
+            {
+                "id": "ko-0781",
+                "w": "좋을",
+                "p": "joeul",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-0782",
+                "w": "있었죠",
+                "p": "isseotjyo",
+                "d": "There was",
+                "s": ""
+            },
+            {
+                "id": "ko-0783",
+                "w": "간다",
+                "p": "ganda",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-0784",
+                "w": "기회를",
+                "p": "gihoereul",
+                "d": "opportunity",
+                "s": ""
+            },
+            {
+                "id": "ko-0785",
+                "w": "그대로",
+                "p": "geudaero",
+                "d": "just, exactly; just the way something is, without change",
+                "s": ""
+            },
+            {
+                "id": "ko-0786",
+                "w": "하나도",
+                "p": "hanado",
+                "d": "Not even one",
+                "s": ""
+            },
+            {
+                "id": "ko-0787",
+                "w": "멈춰",
+                "p": "meomchwo",
+                "d": "stop",
+                "s": ""
+            },
+            {
+                "id": "ko-0788",
+                "w": "필요가",
+                "p": "piryoga",
+                "d": "need",
+                "s": ""
+            },
+            {
+                "id": "ko-0789",
+                "w": "도와줘",
+                "p": "dowajwo",
+                "d": "help me",
+                "s": ""
+            },
+            {
+                "id": "ko-0790",
+                "w": "다음에",
+                "p": "daeume",
+                "d": "next time",
+                "s": ""
+            },
+            {
+                "id": "ko-0791",
+                "w": "앞에서",
+                "p": "apeseo",
+                "d": "Used other than figuratively or idiomatically: see 앞 (ap), 에서 (eseo).; previously",
+                "s": ""
+            },
+            {
+                "id": "ko-0792",
+                "w": "뭐든",
+                "p": "mwodeun",
+                "d": "whatever",
+                "s": ""
+            },
+            {
+                "id": "ko-0793",
+                "w": "물",
+                "p": "mul",
+                "d": "water",
+                "s": ""
+            },
+            {
+                "id": "ko-0794",
+                "w": "밖으로",
+                "p": "bakkeuro",
+                "d": "out",
+                "s": ""
+            },
+            {
+                "id": "ko-0795",
+                "w": "오는",
+                "p": "oneun",
+                "d": "coming",
+                "s": ""
+            },
+            {
+                "id": "ko-0796",
+                "w": "그렇다면",
+                "p": "geureotamyeon",
+                "d": "If so",
+                "s": ""
+            },
+            {
+                "id": "ko-0797",
+                "w": "미국",
+                "p": "miguk",
+                "d": "united states",
+                "s": ""
+            },
+            {
+                "id": "ko-0798",
+                "w": "말라고",
+                "p": "mallago",
+                "d": "Don't tell me",
+                "s": ""
+            },
+            {
+                "id": "ko-0799",
+                "w": "하지마",
+                "p": "hajima",
+                "d": "informal present negative hortative form of 하다 (hada, “to do”); informal present negative imperative form of 하다 (hada, “to do”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0800",
+                "w": "서",
+                "p": "seo",
+                "d": "standing",
+                "s": ""
+            },
+            {
+                "id": "ko-0801",
+                "w": "말한",
+                "p": "malhan",
+                "d": "said",
+                "s": ""
+            },
+            {
+                "id": "ko-0802",
+                "w": "테니까",
+                "p": "tenikka",
+                "d": "Because",
+                "s": ""
+            },
+            {
+                "id": "ko-0803",
+                "w": "앞에",
+                "p": "ape",
+                "d": "in front",
+                "s": ""
+            },
+            {
+                "id": "ko-0804",
+                "w": "를",
+                "p": "reul",
+                "d": "to",
+                "s": ""
+            },
+            {
+                "id": "ko-0805",
+                "w": "처럼",
+                "p": "cheoreom",
+                "d": "like",
+                "s": ""
+            },
+            {
+                "id": "ko-0806",
+                "w": "저한테",
+                "p": "jeohante",
+                "d": "To me",
+                "s": ""
+            },
+            {
+                "id": "ko-0807",
+                "w": "거고",
+                "p": "geogo",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-0808",
+                "w": "받아",
+                "p": "bada",
+                "d": "take it",
+                "s": ""
+            },
+            {
+                "id": "ko-0809",
+                "w": "그것도",
+                "p": "geugeotdo",
+                "d": "That too",
+                "s": ""
+            },
+            {
+                "id": "ko-0810",
+                "w": "요즘",
+                "p": "yojeum",
+                "d": "recent times; recently",
+                "s": ""
+            },
+            {
+                "id": "ko-0811",
+                "w": "믿어",
+                "p": "mideo",
+                "d": "believe it",
+                "s": ""
+            },
+            {
+                "id": "ko-0812",
+                "w": "뒤로",
+                "p": "dwiro",
+                "d": "back",
+                "s": ""
+            },
+            {
+                "id": "ko-0813",
+                "w": "놈들이",
+                "p": "nomdeuri",
+                "d": "They",
+                "s": ""
+            },
+            {
+                "id": "ko-0814",
+                "w": "입고",
+                "p": "ipgo",
+                "d": "wearing",
+                "s": ""
+            },
+            {
+                "id": "ko-0815",
+                "w": "보니",
+                "p": "boni",
+                "d": "Bonnie",
+                "s": ""
+            },
+            {
+                "id": "ko-0816",
+                "w": "속에",
+                "p": "soge",
+                "d": "Inside",
+                "s": ""
+            },
+            {
+                "id": "ko-0817",
+                "w": "잠시만요",
+                "p": "jamsimanyo",
+                "d": "Wait a minute",
+                "s": ""
+            },
+            {
+                "id": "ko-0818",
+                "w": "소리야",
+                "p": "soriya",
+                "d": "It's a sound",
+                "s": ""
+            },
+            {
+                "id": "ko-0819",
+                "w": "들어봐",
+                "p": "deureobwa",
+                "d": "Listen",
+                "s": ""
+            },
+            {
+                "id": "ko-0820",
+                "w": "자기야",
+                "p": "jagiya",
+                "d": "Baby",
+                "s": ""
+            },
+            {
+                "id": "ko-0821",
+                "w": "헤이",
+                "p": "hei",
+                "d": "hey",
+                "s": ""
+            },
+            {
+                "id": "ko-0822",
+                "w": "에",
+                "p": "e",
+                "d": "to",
+                "s": ""
+            },
+            {
+                "id": "ko-0823",
+                "w": "이해가",
+                "p": "ihaega",
+                "d": "I understand",
+                "s": ""
+            },
+            {
+                "id": "ko-0824",
+                "w": "옷",
+                "p": "ot",
+                "d": "clothing; clothes",
+                "s": ""
+            },
+            {
+                "id": "ko-0825",
+                "w": "들어가",
+                "p": "deureoga",
+                "d": "Go in",
+                "s": ""
+            },
+            {
+                "id": "ko-0826",
+                "w": "아버지는",
+                "p": "abeojineun",
+                "d": "my father",
+                "s": ""
+            },
+            {
+                "id": "ko-0827",
+                "w": "않을거야",
+                "p": "aneulgeoya",
+                "d": "won't",
+                "s": ""
+            },
+            {
+                "id": "ko-0828",
+                "w": "있소",
+                "p": "itso",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-0829",
+                "w": "자네는",
+                "p": "janeneun",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-0830",
+                "w": "모르겠지만",
+                "p": "moreugetjiman",
+                "d": "I don't know, but",
+                "s": ""
+            },
+            {
+                "id": "ko-0831",
+                "w": "누구도",
+                "p": "nugudo",
+                "d": "no one",
+                "s": ""
+            },
+            {
+                "id": "ko-0832",
+                "w": "입",
+                "p": "ip",
+                "d": "mouth",
+                "s": ""
+            },
+            {
+                "id": "ko-0833",
+                "w": "어머니",
+                "p": "eomeoni",
+                "d": "mother",
+                "s": ""
+            },
+            {
+                "id": "ko-0834",
+                "w": "특별한",
+                "p": "teukbyeolhan",
+                "d": "special",
+                "s": ""
+            },
+            {
+                "id": "ko-0835",
+                "w": "좋겠어",
+                "p": "jokesseo",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-0836",
+                "w": "준",
+                "p": "jun",
+                "d": "given: Past determiner form of 주다 (juda, “to give”).; reduced: Past determiner form of 줄다 (julda, “decrease”).",
+                "s": ""
+            },
+            {
+                "id": "ko-0837",
+                "w": "그것은",
+                "p": "geugeoseun",
+                "d": "it is",
+                "s": ""
+            },
+            {
+                "id": "ko-0838",
+                "w": "관한",
+                "p": "gwanhan",
+                "d": "about",
+                "s": ""
+            },
+            {
+                "id": "ko-0839",
+                "w": "할게",
+                "p": "halge",
+                "d": "I'll do it",
+                "s": ""
+            },
+            {
+                "id": "ko-0840",
+                "w": "여기는",
+                "p": "yeogineun",
+                "d": "to consider (as)",
+                "s": ""
+            },
+            {
+                "id": "ko-0841",
+                "w": "언니",
+                "p": "eonni",
+                "d": "older sister of a female; somewhat older female",
+                "s": ""
+            },
+            {
+                "id": "ko-0842",
+                "w": "환자가",
+                "p": "hwanjaga",
+                "d": "the patient",
+                "s": ""
+            },
+            {
+                "id": "ko-0843",
+                "w": "갈게",
+                "p": "galge",
+                "d": "I'll go",
+                "s": ""
+            },
+            {
+                "id": "ko-0844",
+                "w": "나야",
+                "p": "naya",
+                "d": "to be born; to appear, arise, occur, take place",
+                "s": ""
+            },
+            {
+                "id": "ko-0845",
+                "w": "제게",
+                "p": "jege",
+                "d": "dative form of 저 (jeo); 제 (je) + -게 (-ge)",
+                "s": ""
+            },
+            {
+                "id": "ko-0846",
+                "w": "하루",
+                "p": "haru",
+                "d": "a day, 24 hours; daytime",
+                "s": ""
+            },
+            {
+                "id": "ko-0847",
+                "w": "단",
+                "p": "dan",
+                "d": "sweet",
+                "s": ""
+            },
+            {
+                "id": "ko-0848",
+                "w": "필",
+                "p": "pil",
+                "d": "Phil",
+                "s": ""
+            },
+            {
+                "id": "ko-0849",
+                "w": "가세요",
+                "p": "gaseyo",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-0850",
+                "w": "끔찍한",
+                "p": "kkeumjjikan",
+                "d": "terrible",
+                "s": ""
+            },
+            {
+                "id": "ko-0851",
+                "w": "걸로",
+                "p": "geollo",
+                "d": "form of 거 (geo), alternative form of 것으로 (geos-euro)",
+                "s": ""
+            },
+            {
+                "id": "ko-0852",
+                "w": "사랑",
+                "p": "sarang",
+                "d": "love; affection (emotion); love; beloved (object of one's love)",
+                "s": ""
+            },
+            {
+                "id": "ko-0853",
+                "w": "일도",
+                "p": "ildo",
+                "d": "work",
+                "s": ""
+            },
+            {
+                "id": "ko-0854",
+                "w": "아름다운",
+                "p": "areumdaun",
+                "d": "beautiful",
+                "s": ""
+            },
+            {
+                "id": "ko-0855",
+                "w": "년",
+                "p": "nyeon",
+                "d": "year",
+                "s": ""
+            },
+            {
+                "id": "ko-0856",
+                "w": "형",
+                "p": "hyeong",
+                "d": "brother",
+                "s": ""
+            },
+            {
+                "id": "ko-0857",
+                "w": "뭐요",
+                "p": "mwoyo",
+                "d": "What",
+                "s": ""
+            },
+            {
+                "id": "ko-0858",
+                "w": "저런",
+                "p": "jeoreon",
+                "d": "Like that",
+                "s": ""
+            },
+            {
+                "id": "ko-0859",
+                "w": "별",
+                "p": "byeol",
+                "d": "star",
+                "s": ""
+            },
+            {
+                "id": "ko-0860",
+                "w": "아니다",
+                "p": "anida",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0861",
+                "w": "받고",
+                "p": "batgo",
+                "d": "receive",
+                "s": ""
+            },
+            {
+                "id": "ko-0862",
+                "w": "할거야",
+                "p": "halgeoya",
+                "d": "I will do it",
+                "s": ""
+            },
+            {
+                "id": "ko-0863",
+                "w": "쓸",
+                "p": "sseul",
+                "d": "write",
+                "s": ""
+            },
+            {
+                "id": "ko-0864",
+                "w": "씨발",
+                "p": "ssibal",
+                "d": "fuck! shit!",
+                "s": ""
+            },
+            {
+                "id": "ko-0865",
+                "w": "돈이",
+                "p": "doni",
+                "d": "money",
+                "s": ""
+            },
+            {
+                "id": "ko-0866",
+                "w": "그에게",
+                "p": "geuege",
+                "d": "to him",
+                "s": ""
+            },
+            {
+                "id": "ko-0867",
+                "w": "뭔가를",
+                "p": "mwongareul",
+                "d": "something",
+                "s": ""
+            },
+            {
+                "id": "ko-0868",
+                "w": "마음을",
+                "p": "maeumeul",
+                "d": "heart",
+                "s": ""
+            },
+            {
+                "id": "ko-0869",
+                "w": "문제는",
+                "p": "munjeneun",
+                "d": "The problem is",
+                "s": ""
+            },
+            {
+                "id": "ko-0870",
+                "w": "의",
+                "p": "ui",
+                "d": "righteousness; righteous conduct",
+                "s": ""
+            },
+            {
+                "id": "ko-0871",
+                "w": "서둘러",
+                "p": "seodulleo",
+                "d": "hurry up",
+                "s": ""
+            },
+            {
+                "id": "ko-0872",
+                "w": "못할",
+                "p": "motal",
+                "d": "can't",
+                "s": ""
+            },
+            {
+                "id": "ko-0873",
+                "w": "없네",
+                "p": "eomne",
+                "d": "There is none",
+                "s": ""
+            },
+            {
+                "id": "ko-0874",
+                "w": "끝났어",
+                "p": "kkeunnasseo",
+                "d": "It's over",
+                "s": ""
+            },
+            {
+                "id": "ko-0875",
+                "w": "있을거야",
+                "p": "isseulgeoya",
+                "d": "There will be",
+                "s": ""
+            },
+            {
+                "id": "ko-0876",
+                "w": "머리를",
+                "p": "meorireul",
+                "d": "head",
+                "s": ""
+            },
+            {
+                "id": "ko-0877",
+                "w": "생각하지",
+                "p": "saenggakaji",
+                "d": "don't think",
+                "s": ""
+            },
+            {
+                "id": "ko-0878",
+                "w": "뭐라고요",
+                "p": "mworagoyo",
+                "d": "What?",
+                "s": ""
+            },
+            {
+                "id": "ko-0879",
+                "w": "힘든",
+                "p": "himdeun",
+                "d": "tough",
+                "s": ""
+            },
+            {
+                "id": "ko-0880",
+                "w": "보게",
+                "p": "boge",
+                "d": "see",
+                "s": ""
+            },
+            {
+                "id": "ko-0881",
+                "w": "가게",
+                "p": "gage",
+                "d": "store, shop",
+                "s": ""
+            },
+            {
+                "id": "ko-0882",
+                "w": "말해봐",
+                "p": "malhaebwa",
+                "d": "tell me",
+                "s": ""
+            },
+            {
+                "id": "ko-0883",
+                "w": "밥",
+                "p": "bap",
+                "d": "cooked rice; meal",
+                "s": ""
+            },
+            {
+                "id": "ko-0884",
+                "w": "상황이",
+                "p": "sanghwangi",
+                "d": "situation",
+                "s": ""
+            },
+            {
+                "id": "ko-0885",
+                "w": "줘요",
+                "p": "jwoyo",
+                "d": "Give it to me",
+                "s": ""
+            },
+            {
+                "id": "ko-0886",
+                "w": "만큼",
+                "p": "mankeum",
+                "d": "the degree or extent to which",
+                "s": ""
+            },
+            {
+                "id": "ko-0887",
+                "w": "했지만",
+                "p": "haetjiman",
+                "d": "I did it but",
+                "s": ""
+            },
+            {
+                "id": "ko-0888",
+                "w": "같은데요",
+                "p": "gateundeyo",
+                "d": "I think so",
+                "s": ""
+            },
+            {
+                "id": "ko-0889",
                 "w": "이름",
                 "p": "ireum",
-                "d": "name",
-                "s": "이름이 뭐예요? (What is your name?)"
+                "d": "name; full name; given name (in opposition to a surname)",
+                "s": ""
+            },
+            {
+                "id": "ko-0890",
+                "w": "엄마를",
+                "p": "eommareul",
+                "d": "Mom",
+                "s": ""
+            },
+            {
+                "id": "ko-0891",
+                "w": "전화를",
+                "p": "jeonhwareul",
+                "d": "call",
+                "s": ""
+            },
+            {
+                "id": "ko-0892",
+                "w": "어쩔",
+                "p": "eojjeol",
+                "d": "to be inevitable; to be in a certain way",
+                "s": ""
+            },
+            {
+                "id": "ko-0893",
+                "w": "있니",
+                "p": "inni",
+                "d": "Are you there?",
+                "s": ""
+            },
+            {
+                "id": "ko-0894",
+                "w": "번째",
+                "p": "beonjjae",
+                "d": "a dependent noun used to express the order or relative position of an object; a construction equivalent to ordinal numbers.",
+                "s": ""
+            },
+            {
+                "id": "ko-0895",
+                "w": "할까",
+                "p": "halkka",
+                "d": "Should I do it?",
+                "s": ""
+            },
+            {
+                "id": "ko-0896",
+                "w": "얘길",
+                "p": "yaegil",
+                "d": "story",
+                "s": ""
+            },
+            {
+                "id": "ko-0897",
+                "w": "찾는",
+                "p": "channeun",
+                "d": "looking for",
+                "s": ""
+            },
+            {
+                "id": "ko-0898",
+                "w": "선생님이",
+                "p": "seonsaengnimi",
+                "d": "teacher",
+                "s": ""
+            },
+            {
+                "id": "ko-0899",
+                "w": "진짜로",
+                "p": "jinjjaro",
+                "d": "really",
+                "s": ""
+            },
+            {
+                "id": "ko-0900",
+                "w": "일이에요",
+                "p": "irieyo",
+                "d": "It's work",
+                "s": ""
+            },
+            {
+                "id": "ko-0901",
+                "w": "건지",
+                "p": "geonji",
+                "d": "Guernsey",
+                "s": ""
+            },
+            {
+                "id": "ko-0902",
+                "w": "가족을",
+                "p": "gajogeul",
+                "d": "family",
+                "s": ""
+            },
+            {
+                "id": "ko-0903",
+                "w": "할지",
+                "p": "halji",
+                "d": "Do you do it?",
+                "s": ""
+            },
+            {
+                "id": "ko-0904",
+                "w": "중이야",
+                "p": "jungiya",
+                "d": "I'm in the middle of it",
+                "s": ""
+            },
+            {
+                "id": "ko-0905",
+                "w": "믿지",
+                "p": "mitji",
+                "d": "believe it",
+                "s": ""
+            },
+            {
+                "id": "ko-0906",
+                "w": "닥쳐",
+                "p": "dakchyeo",
+                "d": "Shut up",
+                "s": ""
+            },
+            {
+                "id": "ko-0907",
+                "w": "여기로",
+                "p": "yeogiro",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "ko-0908",
+                "w": "저건",
+                "p": "jeogeon",
+                "d": "That is",
+                "s": ""
+            },
+            {
+                "id": "ko-0909",
+                "w": "주고",
+                "p": "jugo",
+                "d": "give",
+                "s": ""
+            },
+            {
+                "id": "ko-0910",
+                "w": "멀리",
+                "p": "meolli",
+                "d": "far away",
+                "s": ""
+            },
+            {
+                "id": "ko-0911",
+                "w": "어이",
+                "p": "eoi",
+                "d": "Hey",
+                "s": ""
+            },
+            {
+                "id": "ko-0912",
+                "w": "거짓말",
+                "p": "geojinmal",
+                "d": "a lie; a false statement",
+                "s": ""
+            },
+            {
+                "id": "ko-0913",
+                "w": "약",
+                "p": "yak",
+                "d": "About",
+                "s": ""
+            },
+            {
+                "id": "ko-0914",
+                "w": "잭",
+                "p": "jaek",
+                "d": "a jack (surface mounted connector); a jack",
+                "s": ""
+            },
+            {
+                "id": "ko-0915",
+                "w": "사실은",
+                "p": "sasireun",
+                "d": "as a matter of fact; actually",
+                "s": ""
+            },
+            {
+                "id": "ko-0916",
+                "w": "받을",
+                "p": "badeul",
+                "d": "receive",
+                "s": ""
+            },
+            {
+                "id": "ko-0917",
+                "w": "그러고",
+                "p": "geureogo",
+                "d": "to do so; to do it; to say so",
+                "s": ""
+            },
+            {
+                "id": "ko-0918",
+                "w": "겁니까",
+                "p": "geomnikka",
+                "d": "Are you afraid?",
+                "s": ""
+            },
+            {
+                "id": "ko-0919",
+                "w": "먹을",
+                "p": "meogeul",
+                "d": "eat",
+                "s": ""
+            },
+            {
+                "id": "ko-0920",
+                "w": "그치만",
+                "p": "geuchiman",
+                "d": "contraction of 그렇지만 (geureochiman, “nonetheless; however; but”)",
+                "s": ""
+            },
+            {
+                "id": "ko-0921",
+                "w": "너에게",
+                "p": "neoege",
+                "d": "to you",
+                "s": ""
+            },
+            {
+                "id": "ko-0922",
+                "w": "들었어요",
+                "p": "deureosseoyo",
+                "d": "I heard",
+                "s": ""
+            },
+            {
+                "id": "ko-0923",
+                "w": "하기",
+                "p": "hagi",
+                "d": "doing",
+                "s": ""
+            },
+            {
+                "id": "ko-0924",
+                "w": "오빠",
+                "p": "oppa",
+                "d": "elder brother of a female; somewhat older male",
+                "s": ""
+            },
+            {
+                "id": "ko-0925",
+                "w": "오고",
+                "p": "ogo",
+                "d": "Coming",
+                "s": ""
+            },
+            {
+                "id": "ko-0926",
+                "w": "있을까",
+                "p": "isseulkka",
+                "d": "Is it",
+                "s": ""
+            },
+            {
+                "id": "ko-0927",
+                "w": "어린",
+                "p": "eorin",
+                "d": "young",
+                "s": ""
+            },
+            {
+                "id": "ko-0928",
+                "w": "통해",
+                "p": "tonghae",
+                "d": "through",
+                "s": ""
+            },
+            {
+                "id": "ko-0929",
+                "w": "아닌데",
+                "p": "aninde",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0930",
+                "w": "조금만",
+                "p": "jogeumman",
+                "d": "just a little bit",
+                "s": ""
+            },
+            {
+                "id": "ko-0931",
+                "w": "맞는",
+                "p": "manneun",
+                "d": "to be correct, right; to suit (one's liking), to meet (one's wishes)",
+                "s": ""
+            },
+            {
+                "id": "ko-0932",
+                "w": "차에",
+                "p": "chae",
+                "d": "in the car",
+                "s": ""
+            },
+            {
+                "id": "ko-0933",
+                "w": "여자는",
+                "p": "yeojaneun",
+                "d": "The woman",
+                "s": ""
+            },
+            {
+                "id": "ko-0934",
+                "w": "보러",
+                "p": "boreo",
+                "d": "to see",
+                "s": ""
+            },
+            {
+                "id": "ko-0935",
+                "w": "손에",
+                "p": "sone",
+                "d": "in hand",
+                "s": ""
+            },
+            {
+                "id": "ko-0936",
+                "w": "모르지",
+                "p": "moreuji",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-0937",
+                "w": "가까이",
+                "p": "gakkai",
+                "d": "close",
+                "s": ""
+            },
+            {
+                "id": "ko-0938",
+                "w": "테니",
+                "p": "teni",
+                "d": "Teni",
+                "s": ""
+            },
+            {
+                "id": "ko-0939",
+                "w": "되죠",
+                "p": "doejyo",
+                "d": "It works",
+                "s": ""
+            },
+            {
+                "id": "ko-0940",
+                "w": "점점",
+                "p": "jeomjeom",
+                "d": "gradually, bit by bit",
+                "s": ""
+            },
+            {
+                "id": "ko-0941",
+                "w": "잔",
+                "p": "jan",
+                "d": "cup",
+                "s": ""
+            },
+            {
+                "id": "ko-0942",
+                "w": "이야기를",
+                "p": "iyagireul",
+                "d": "tell a story",
+                "s": ""
+            },
+            {
+                "id": "ko-0943",
+                "w": "물론이죠",
+                "p": "mullonijyo",
+                "d": "Of course",
+                "s": ""
+            },
+            {
+                "id": "ko-0944",
+                "w": "학교",
+                "p": "hakgyo",
+                "d": "school",
+                "s": ""
+            },
+            {
+                "id": "ko-0945",
+                "w": "주는",
+                "p": "juneun",
+                "d": "giving",
+                "s": ""
+            },
+            {
+                "id": "ko-0946",
+                "w": "아가씨",
+                "p": "agassi",
+                "d": "Miss, girl, young lady; a younger sister of one's husband",
+                "s": ""
+            },
+            {
+                "id": "ko-0947",
+                "w": "먹어",
+                "p": "meogeo",
+                "d": "eat",
+                "s": ""
+            },
+            {
+                "id": "ko-0948",
+                "w": "것에",
+                "p": "geose",
+                "d": "to",
+                "s": ""
+            },
+            {
+                "id": "ko-0949",
+                "w": "크게",
+                "p": "keuge",
+                "d": "adverbial form of 크다 (keuda, “to be big, to be great”): greatly",
+                "s": ""
+            },
+            {
+                "id": "ko-0950",
+                "w": "이유는",
+                "p": "iyuneun",
+                "d": "The reason is",
+                "s": ""
+            },
+            {
+                "id": "ko-0951",
+                "w": "군",
+                "p": "gun",
+                "d": "military",
+                "s": ""
+            },
+            {
+                "id": "ko-0952",
+                "w": "모두들",
+                "p": "modudeul",
+                "d": "everybody",
+                "s": ""
+            },
+            {
+                "id": "ko-0953",
+                "w": "죽인",
+                "p": "jugin",
+                "d": "killed",
+                "s": ""
+            },
+            {
+                "id": "ko-0954",
+                "w": "셋",
+                "p": "set",
+                "d": "three (independently, without a classifier)",
+                "s": ""
+            },
+            {
+                "id": "ko-0955",
+                "w": "알죠",
+                "p": "aljyo",
+                "d": "I know",
+                "s": ""
+            },
+            {
+                "id": "ko-0956",
+                "w": "기억",
+                "p": "gieok",
+                "d": "recall; the faculty of memory",
+                "s": ""
+            },
+            {
+                "id": "ko-0957",
+                "w": "경찰",
+                "p": "gyeongchal",
+                "d": "police; policing; a police officer",
+                "s": ""
+            },
+            {
+                "id": "ko-0958",
+                "w": "제이",
+                "p": "jei",
+                "d": "The name of the Latin script letter J/j.",
+                "s": ""
+            },
+            {
+                "id": "ko-0959",
+                "w": "그래야",
+                "p": "geuraeya",
+                "d": "so that",
+                "s": ""
+            },
+            {
+                "id": "ko-0960",
+                "w": "목숨을",
+                "p": "moksumeul",
+                "d": "life",
+                "s": ""
+            },
+            {
+                "id": "ko-0961",
+                "w": "있을까요",
+                "p": "isseulkkayo",
+                "d": "Is it there?",
+                "s": ""
+            },
+            {
+                "id": "ko-0962",
+                "w": "아니지만",
+                "p": "anijiman",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0963",
+                "w": "했다",
+                "p": "haetda",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-0964",
+                "w": "딸",
+                "p": "ttal",
+                "d": "daughter (female child)",
+                "s": ""
+            },
+            {
+                "id": "ko-0965",
+                "w": "많아",
+                "p": "mana",
+                "d": "many, much, a lot, plentiful",
+                "s": ""
+            },
+            {
+                "id": "ko-0966",
+                "w": "떨어져",
+                "p": "tteoreojyeo",
+                "d": "away",
+                "s": ""
+            },
+            {
+                "id": "ko-0967",
+                "w": "사람이야",
+                "p": "saramiya",
+                "d": "It's a person",
+                "s": ""
+            },
+            {
+                "id": "ko-0968",
+                "w": "다시는",
+                "p": "dasineun",
+                "d": "never again",
+                "s": ""
+            },
+            {
+                "id": "ko-0969",
+                "w": "거잖아",
+                "p": "geojana",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0970",
+                "w": "애들이",
+                "p": "aedeuri",
+                "d": "kids",
+                "s": ""
+            },
+            {
+                "id": "ko-0971",
+                "w": "애를",
+                "p": "aereul",
+                "d": "I'm struggling",
+                "s": ""
+            },
+            {
+                "id": "ko-0972",
+                "w": "을",
+                "p": "eul",
+                "d": "B; used to enumerate the second of a group of unnamed people or objects; the weaker or disadvantaged party in a relationship between two sides",
+                "s": ""
+            },
+            {
+                "id": "ko-0973",
+                "w": "말이다",
+                "p": "marida",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-0974",
+                "w": "없다는",
+                "p": "eopdaneun",
+                "d": "There is no",
+                "s": ""
+            },
+            {
+                "id": "ko-0975",
+                "w": "만들",
+                "p": "mandeul",
+                "d": "make",
+                "s": ""
+            },
+            {
+                "id": "ko-0976",
+                "w": "오면",
+                "p": "omyeon",
+                "d": "When you come",
+                "s": ""
+            },
+            {
+                "id": "ko-0977",
+                "w": "할게요",
+                "p": "halgeyo",
+                "d": "I will do it",
+                "s": ""
+            },
+            {
+                "id": "ko-0978",
+                "w": "아기",
+                "p": "agi",
+                "d": "unweaned baby, child; animal baby",
+                "s": ""
+            },
+            {
+                "id": "ko-0979",
+                "w": "영화",
+                "p": "yeonghwa",
+                "d": "movie, film",
+                "s": ""
+            },
+            {
+                "id": "ko-0980",
+                "w": "가족",
+                "p": "gajok",
+                "d": "household; family",
+                "s": ""
+            },
+            {
+                "id": "ko-0981",
+                "w": "찾았어",
+                "p": "chajasseo",
+                "d": "I found it",
+                "s": ""
+            },
+            {
+                "id": "ko-0982",
+                "w": "특히",
+                "p": "teukhi",
+                "d": "in particular, notably",
+                "s": ""
+            },
+            {
+                "id": "ko-0983",
+                "w": "아들을",
+                "p": "adeureul",
+                "d": "son",
+                "s": ""
+            },
+            {
+                "id": "ko-0984",
+                "w": "제발요",
+                "p": "jebaryo",
+                "d": "Please",
+                "s": ""
+            },
+            {
+                "id": "ko-0985",
+                "w": "꿈을",
+                "p": "kkumeul",
+                "d": "dream",
+                "s": ""
+            },
+            {
+                "id": "ko-0986",
+                "w": "세상을",
+                "p": "sesangeul",
+                "d": "the world",
+                "s": ""
+            },
+            {
+                "id": "ko-0987",
+                "w": "놈을",
+                "p": "nomeul",
+                "d": "The guy",
+                "s": ""
+            },
+            {
+                "id": "ko-0988",
+                "w": "아니었어",
+                "p": "anieosseo",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-0989",
+                "w": "마이크",
+                "p": "maikeu",
+                "d": "mike; microphone",
+                "s": ""
+            },
+            {
+                "id": "ko-0990",
+                "w": "그리",
+                "p": "geuri",
+                "d": "so much; like that; so",
+                "s": ""
+            },
+            {
+                "id": "ko-0991",
+                "w": "무엇을",
+                "p": "mueoseul",
+                "d": "what",
+                "s": ""
+            },
+            {
+                "id": "ko-0992",
+                "w": "만드는",
+                "p": "mandeuneun",
+                "d": "making",
+                "s": ""
+            },
+            {
+                "id": "ko-0993",
+                "w": "얼마",
+                "p": "eolma",
+                "d": "how much, how many; some amount or quantity",
+                "s": ""
+            },
+            {
+                "id": "ko-0994",
+                "w": "보여요",
+                "p": "boyeoyo",
+                "d": "I can see it",
+                "s": ""
+            },
+            {
+                "id": "ko-0995",
+                "w": "사진",
+                "p": "sajin",
+                "d": "photograph, picture",
+                "s": ""
+            },
+            {
+                "id": "ko-0996",
+                "w": "칼",
+                "p": "kal",
+                "d": "knife, sword",
+                "s": ""
+            },
+            {
+                "id": "ko-0997",
+                "w": "잠시만",
+                "p": "jamsiman",
+                "d": "Just a moment",
+                "s": ""
+            },
+            {
+                "id": "ko-0998",
+                "w": "병원에",
+                "p": "byeongwone",
+                "d": "to the hospital",
+                "s": ""
+            },
+            {
+                "id": "ko-0999",
+                "w": "같습니다",
+                "p": "gatseumnida",
+                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
+                "s": ""
+            },
+            {
+                "id": "ko-1000",
+                "w": "바보",
+                "p": "babo",
+                "d": "fool, moron, idiot; The Fool (Tarot card)",
+                "s": ""
+            },
+            {
+                "id": "ko-1001",
+                "w": "열어",
+                "p": "yeoreo",
+                "d": "open it",
+                "s": ""
+            },
+            {
+                "id": "ko-1002",
+                "w": "현재",
+                "p": "hyeonjae",
+                "d": "present",
+                "s": ""
+            },
+            {
+                "id": "ko-1003",
+                "w": "해줘",
+                "p": "haejwo",
+                "d": "Do it",
+                "s": ""
+            },
+            {
+                "id": "ko-1004",
+                "w": "주지",
+                "p": "juji",
+                "d": "being generally known; especially in the collocation 주지의 사실 (juji-ui sasil, “well-known fact; common knowledge”).",
+                "s": ""
+            },
+            {
+                "id": "ko-1005",
+                "w": "했습니다",
+                "p": "haetseumnida",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-1006",
+                "w": "자주",
+                "p": "jaju",
+                "d": "often",
+                "s": ""
+            },
+            {
+                "id": "ko-1007",
+                "w": "있겠지",
+                "p": "itgetji",
+                "d": "There must be",
+                "s": ""
+            },
+            {
+                "id": "ko-1008",
+                "w": "하는거야",
+                "p": "haneungeoya",
+                "d": "Are you doing it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1009",
+                "w": "샘",
+                "p": "saem",
+                "d": "spring, fountain (source of water); gland",
+                "s": ""
+            },
+            {
+                "id": "ko-1010",
+                "w": "꺼져",
+                "p": "kkeojyeo",
+                "d": "Go away",
+                "s": ""
+            },
+            {
+                "id": "ko-1011",
+                "w": "가만히",
+                "p": "gamanhi",
+                "d": "still; not moving; quietly",
+                "s": ""
+            },
+            {
+                "id": "ko-1012",
+                "w": "그랬지",
+                "p": "geuraetji",
+                "d": "It was like that",
+                "s": ""
+            },
+            {
+                "id": "ko-1013",
+                "w": "지금까지",
+                "p": "jigeumkkaji",
+                "d": "Until now",
+                "s": ""
+            },
+            {
+                "id": "ko-1014",
+                "w": "저거",
+                "p": "jeogeo",
+                "d": "that thing",
+                "s": ""
+            },
+            {
+                "id": "ko-1015",
+                "w": "당연하지",
+                "p": "dangyeonhaji",
+                "d": "Of course",
+                "s": ""
+            },
+            {
+                "id": "ko-1016",
+                "w": "나서",
+                "p": "naseo",
+                "d": "to be born; to appear, arise, occur, take place",
+                "s": ""
+            },
+            {
+                "id": "ko-1017",
+                "w": "그것",
+                "p": "geugeot",
+                "d": "that (thing near the listener); that (thing that has already been mentioned)",
+                "s": ""
+            },
+            {
+                "id": "ko-1018",
+                "w": "또한",
+                "p": "ttohan",
+                "d": "also, too, furthermore",
+                "s": ""
+            },
+            {
+                "id": "ko-1019",
+                "w": "보이지",
+                "p": "boiji",
+                "d": "I can't see it",
+                "s": ""
+            },
+            {
+                "id": "ko-1020",
+                "w": "노래",
+                "p": "norae",
+                "d": "song; an incessant request, repeated like the refrain of a song",
+                "s": ""
+            },
+            {
+                "id": "ko-1021",
+                "w": "위험한",
+                "p": "wiheomhan",
+                "d": "dangerous",
+                "s": ""
+            },
+            {
+                "id": "ko-1022",
+                "w": "클레어",
+                "p": "keulleeo",
+                "d": "claire",
+                "s": ""
+            },
+            {
+                "id": "ko-1023",
+                "w": "쉽게",
+                "p": "swipge",
+                "d": "adverbial form of 쉽다 (swipda, “to be easy”): easily",
+                "s": ""
+            },
+            {
+                "id": "ko-1024",
+                "w": "오지",
+                "p": "oji",
+                "d": "Ozzy",
+                "s": ""
+            },
+            {
+                "id": "ko-1025",
+                "w": "정말요",
+                "p": "jeongmaryo",
+                "d": "Really",
+                "s": ""
+            },
+            {
+                "id": "ko-1026",
+                "w": "계획이",
+                "p": "gyehoegi",
+                "d": "plan",
+                "s": ""
+            },
+            {
+                "id": "ko-1027",
+                "w": "잡고",
+                "p": "japgo",
+                "d": "hold on",
+                "s": ""
+            },
+            {
+                "id": "ko-1028",
+                "w": "열심히",
+                "p": "yeolsimhi",
+                "d": "enthusiastically, fervently, with dedication",
+                "s": ""
+            },
+            {
+                "id": "ko-1029",
+                "w": "마라",
+                "p": "mara",
+                "d": "to smash",
+                "s": ""
+            },
+            {
+                "id": "ko-1030",
+                "w": "경찰이",
+                "p": "gyeongchari",
+                "d": "the police",
+                "s": ""
+            },
+            {
+                "id": "ko-1031",
+                "w": "말하면",
+                "p": "malhamyeon",
+                "d": "If you say",
+                "s": ""
+            },
+            {
+                "id": "ko-1032",
+                "w": "방에",
+                "p": "bange",
+                "d": "in the room",
+                "s": ""
+            },
+            {
+                "id": "ko-1033",
+                "w": "됐다",
+                "p": "dwaetda",
+                "d": "Done",
+                "s": ""
+            },
+            {
+                "id": "ko-1034",
+                "w": "마음이",
+                "p": "maeumi",
+                "d": "heart",
+                "s": ""
+            },
+            {
+                "id": "ko-1035",
+                "w": "메러디스",
+                "p": "mereodiseu",
+                "d": "meredith",
+                "s": ""
+            },
+            {
+                "id": "ko-1036",
+                "w": "운이",
+                "p": "uni",
+                "d": "lucky",
+                "s": ""
+            },
+            {
+                "id": "ko-1037",
+                "w": "드디어",
+                "p": "deudieo",
+                "d": "finally, at last",
+                "s": ""
+            },
+            {
+                "id": "ko-1038",
+                "w": "정보를",
+                "p": "jeongboreul",
+                "d": "information",
+                "s": ""
+            },
+            {
+                "id": "ko-1039",
+                "w": "말입니다",
+                "p": "marimnida",
+                "d": "I mean",
+                "s": ""
+            },
+            {
+                "id": "ko-1040",
+                "w": "때는",
+                "p": "ttaeneun",
+                "d": "When",
+                "s": ""
+            },
+            {
+                "id": "ko-1041",
+                "w": "얼굴을",
+                "p": "eolgureul",
+                "d": "face",
+                "s": ""
+            },
+            {
+                "id": "ko-1042",
+                "w": "만난",
+                "p": "mannan",
+                "d": "met",
+                "s": ""
+            },
+            {
+                "id": "ko-1043",
+                "w": "있거든",
+                "p": "itgeodeun",
+                "d": "Because there is",
+                "s": ""
+            },
+            {
+                "id": "ko-1044",
+                "w": "달",
+                "p": "dal",
+                "d": "moon; the Moon; month",
+                "s": ""
+            },
+            {
+                "id": "ko-1045",
+                "w": "약간",
+                "p": "yakgan",
+                "d": "slightly",
+                "s": ""
+            },
+            {
+                "id": "ko-1046",
+                "w": "했다고",
+                "p": "haetdago",
+                "d": "I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-1047",
+                "w": "일찍",
+                "p": "iljjik",
+                "d": "early",
+                "s": ""
+            },
+            {
+                "id": "ko-1048",
+                "w": "굉장히",
+                "p": "goengjanghi",
+                "d": "very, greatly",
+                "s": ""
+            },
+            {
+                "id": "ko-1049",
+                "w": "못해요",
+                "p": "motaeyo",
+                "d": "I can't",
+                "s": ""
+            },
+            {
+                "id": "ko-1050",
+                "w": "진실을",
+                "p": "jinsireul",
+                "d": "the truth",
+                "s": ""
+            },
+            {
+                "id": "ko-1051",
+                "w": "줄게",
+                "p": "julge",
+                "d": "I'll give it to you",
+                "s": ""
+            },
+            {
+                "id": "ko-1052",
+                "w": "아세요",
+                "p": "aseyo",
+                "d": "Do you know",
+                "s": ""
+            },
+            {
+                "id": "ko-1053",
+                "w": "누굴",
+                "p": "nugul",
+                "d": "who",
+                "s": ""
+            },
+            {
+                "id": "ko-1054",
+                "w": "거라",
+                "p": "geora",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-1055",
+                "w": "가족이",
+                "p": "gajogi",
+                "d": "family",
+                "s": ""
+            },
+            {
+                "id": "ko-1056",
+                "w": "새로",
+                "p": "saero",
+                "d": "anew, newly, for the first time",
+                "s": ""
+            },
+            {
+                "id": "ko-1057",
+                "w": "절대로",
+                "p": "jeoldaero",
+                "d": "absolutely, never",
+                "s": ""
+            },
+            {
+                "id": "ko-1058",
+                "w": "와요",
+                "p": "wayo",
+                "d": "Come",
+                "s": ""
+            },
+            {
+                "id": "ko-1059",
+                "w": "알지만",
+                "p": "aljiman",
+                "d": "I know but",
+                "s": ""
+            },
+            {
+                "id": "ko-1060",
+                "w": "되어",
+                "p": "doeeo",
+                "d": "infinitive of 되다 (doeda)",
+                "s": ""
+            },
+            {
+                "id": "ko-1061",
+                "w": "내려",
+                "p": "naeryeo",
+                "d": "get down",
+                "s": ""
+            },
+            {
+                "id": "ko-1062",
+                "w": "같네",
+                "p": "ganne",
+                "d": "It's the same",
+                "s": ""
+            },
+            {
+                "id": "ko-1063",
+                "w": "그거야",
+                "p": "geugeoya",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-1064",
+                "w": "크리스티나",
+                "p": "keuriseutina",
+                "d": "Christina",
+                "s": ""
+            },
+            {
+                "id": "ko-1065",
+                "w": "사이에",
+                "p": "saie",
+                "d": "between",
+                "s": ""
+            },
+            {
+                "id": "ko-1066",
+                "w": "자꾸",
+                "p": "jakku",
+                "d": "over and over again",
+                "s": ""
+            },
+            {
+                "id": "ko-1067",
+                "w": "저리",
+                "p": "jeori",
+                "d": "Go away",
+                "s": ""
+            },
+            {
+                "id": "ko-1068",
+                "w": "사실을",
+                "p": "sasireul",
+                "d": "fact",
+                "s": ""
+            },
+            {
+                "id": "ko-1069",
+                "w": "프랭크",
+                "p": "peuraengkeu",
+                "d": "frank",
+                "s": ""
+            },
+            {
+                "id": "ko-1070",
+                "w": "와우",
+                "p": "wau",
+                "d": "wow",
+                "s": ""
+            },
+            {
+                "id": "ko-1071",
+                "w": "뛰어",
+                "p": "ttwieo",
+                "d": "jump",
+                "s": ""
+            },
+            {
+                "id": "ko-1072",
+                "w": "갔어",
+                "p": "gasseo",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-1073",
+                "w": "죽게",
+                "p": "jukge",
+                "d": "to die",
+                "s": ""
+            },
+            {
+                "id": "ko-1074",
+                "w": "네게",
+                "p": "nege",
+                "d": "dative form of 너 (neo); 네 (ne) + -게 (-ge)",
+                "s": ""
+            },
+            {
+                "id": "ko-1075",
+                "w": "심지어",
+                "p": "simjieo",
+                "d": "even, what is worse/what was worse",
+                "s": ""
+            },
+            {
+                "id": "ko-1076",
+                "w": "글쎄요",
+                "p": "geulsseyo",
+                "d": "well, let me see",
+                "s": ""
+            },
+            {
+                "id": "ko-1077",
+                "w": "사람의",
+                "p": "saramui",
+                "d": "human",
+                "s": ""
+            },
+            {
+                "id": "ko-1078",
+                "w": "오랫동안",
+                "p": "oraetdongan",
+                "d": "A long time.",
+                "s": ""
+            },
+            {
+                "id": "ko-1079",
+                "w": "모습을",
+                "p": "moseubeul",
+                "d": "appearance",
+                "s": ""
+            },
+            {
+                "id": "ko-1080",
+                "w": "얘기가",
+                "p": "yaegiga",
+                "d": "The story",
+                "s": ""
+            },
+            {
+                "id": "ko-1081",
+                "w": "아이고",
+                "p": "aigo",
+                "d": "expression of surprise; oh, ouch",
+                "s": ""
+            },
+            {
+                "id": "ko-1082",
+                "w": "상관",
+                "p": "sanggwan",
+                "d": "correlation",
+                "s": ""
+            },
+            {
+                "id": "ko-1083",
+                "w": "일하는",
+                "p": "ilhaneun",
+                "d": "working",
+                "s": ""
+            },
+            {
+                "id": "ko-1084",
+                "w": "짐",
+                "p": "jim",
+                "d": "luggage",
+                "s": ""
+            },
+            {
+                "id": "ko-1085",
+                "w": "길",
+                "p": "gil",
+                "d": "road",
+                "s": ""
+            },
+            {
+                "id": "ko-1086",
+                "w": "사건",
+                "p": "sageon",
+                "d": "a noteworthy or remarkable incident",
+                "s": ""
+            },
+            {
+                "id": "ko-1087",
+                "w": "그렇다고",
+                "p": "geureotago",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-1088",
+                "w": "들어요",
+                "p": "deureoyo",
+                "d": "listen",
+                "s": ""
+            },
+            {
+                "id": "ko-1089",
+                "w": "상황을",
+                "p": "sanghwangeul",
+                "d": "the situation",
+                "s": ""
+            },
+            {
+                "id": "ko-1090",
+                "w": "옷을",
+                "p": "oseul",
+                "d": "clothes",
+                "s": ""
+            },
+            {
+                "id": "ko-1091",
+                "w": "일이죠",
+                "p": "irijyo",
+                "d": "It's work",
+                "s": ""
+            },
+            {
+                "id": "ko-1092",
+                "w": "아니예요",
+                "p": "aniyeyo",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-1093",
+                "w": "죽어",
+                "p": "jugeo",
+                "d": "die",
+                "s": ""
+            },
+            {
+                "id": "ko-1094",
+                "w": "뿐이에요",
+                "p": "ppunieyo",
+                "d": "It's just that",
+                "s": ""
+            },
+            {
+                "id": "ko-1095",
+                "w": "필요는",
+                "p": "piryoneun",
+                "d": "need",
+                "s": ""
+            },
+            {
+                "id": "ko-1096",
+                "w": "여기요",
+                "p": "yeogiyo",
+                "d": "Here",
+                "s": ""
+            },
+            {
+                "id": "ko-1097",
+                "w": "사랑해요",
+                "p": "saranghaeyo",
+                "d": "I love you",
+                "s": ""
+            },
+            {
+                "id": "ko-1098",
+                "w": "죽는",
+                "p": "jungneun",
+                "d": "dying",
+                "s": ""
+            },
+            {
+                "id": "ko-1099",
+                "w": "누군가가",
+                "p": "nugungaga",
+                "d": "someone",
+                "s": ""
+            },
+            {
+                "id": "ko-1100",
+                "w": "얘기해",
+                "p": "yaegihae",
+                "d": "Talk to me",
+                "s": ""
+            },
+            {
+                "id": "ko-1101",
+                "w": "모두를",
+                "p": "modureul",
+                "d": "everyone",
+                "s": ""
+            },
+            {
+                "id": "ko-1102",
+                "w": "커피",
+                "p": "keopi",
+                "d": "coffee, especially the beverage",
+                "s": ""
+            },
+            {
+                "id": "ko-1103",
+                "w": "있는거야",
+                "p": "inneungeoya",
+                "d": "Is it there?",
+                "s": ""
+            },
+            {
+                "id": "ko-1104",
+                "w": "있으니",
+                "p": "isseuni",
+                "d": "Because",
+                "s": ""
+            },
+            {
+                "id": "ko-1105",
+                "w": "없지만",
+                "p": "eopjiman",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-1106",
+                "w": "열",
+                "p": "yeol",
+                "d": "heat",
+                "s": ""
+            },
+            {
+                "id": "ko-1107",
+                "w": "다신",
+                "p": "dasin",
+                "d": "never again",
+                "s": ""
+            },
+            {
+                "id": "ko-1108",
+                "w": "만날",
+                "p": "mannal",
+                "d": "every day; always; all the time",
+                "s": ""
+            },
+            {
+                "id": "ko-1109",
+                "w": "남자는",
+                "p": "namjaneun",
+                "d": "The man",
+                "s": ""
+            },
+            {
+                "id": "ko-1110",
+                "w": "저희는",
+                "p": "jeohuineun",
+                "d": "We are",
+                "s": ""
+            },
+            {
+                "id": "ko-1111",
+                "w": "떠날",
+                "p": "tteonal",
+                "d": "leave",
+                "s": ""
+            },
+            {
+                "id": "ko-1112",
+                "w": "맞죠",
+                "p": "matjyo",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-1113",
+                "w": "아들이",
+                "p": "adeuri",
+                "d": "my son",
+                "s": ""
+            },
+            {
+                "id": "ko-1114",
+                "w": "놈은",
+                "p": "nomeun",
+                "d": "The guy",
+                "s": ""
+            },
+            {
+                "id": "ko-1115",
+                "w": "하나가",
+                "p": "hanaga",
+                "d": "There is one",
+                "s": ""
+            },
+            {
+                "id": "ko-1116",
+                "w": "의사",
+                "p": "uisa",
+                "d": "doctor",
+                "s": ""
+            },
+            {
+                "id": "ko-1117",
+                "w": "박사님",
+                "p": "baksanim",
+                "d": "Doctor",
+                "s": ""
+            },
+            {
+                "id": "ko-1118",
+                "w": "나오는",
+                "p": "naoneun",
+                "d": "coming out",
+                "s": ""
+            },
+            {
+                "id": "ko-1119",
+                "w": "딸이",
+                "p": "ttari",
+                "d": "daughter",
+                "s": ""
+            },
+            {
+                "id": "ko-1120",
+                "w": "거짓말을",
+                "p": "geojinmareul",
+                "d": "lie",
+                "s": ""
+            },
+            {
+                "id": "ko-1121",
+                "w": "했고",
+                "p": "haetgo",
+                "d": "I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-1122",
+                "w": "얼굴",
+                "p": "eolgul",
+                "d": "face; visage",
+                "s": ""
+            },
+            {
+                "id": "ko-1123",
+                "w": "보내",
+                "p": "bonae",
+                "d": "send",
+                "s": ""
+            },
+            {
+                "id": "ko-1124",
+                "w": "받은",
+                "p": "badeun",
+                "d": "received",
+                "s": ""
+            },
+            {
+                "id": "ko-1125",
+                "w": "쓰고",
+                "p": "sseugo",
+                "d": "write",
+                "s": ""
+            },
+            {
+                "id": "ko-1126",
+                "w": "곳이",
+                "p": "gosi",
+                "d": "The place is",
+                "s": ""
+            },
+            {
+                "id": "ko-1127",
+                "w": "된다고",
+                "p": "doendago",
+                "d": "It's okay",
+                "s": ""
+            },
+            {
+                "id": "ko-1128",
+                "w": "설마",
+                "p": "seolma",
+                "d": "No way",
+                "s": ""
+            },
+            {
+                "id": "ko-1129",
+                "w": "우리한테",
+                "p": "urihante",
+                "d": "to us",
+                "s": ""
+            },
+            {
+                "id": "ko-1130",
+                "w": "방법은",
+                "p": "bangbeobeun",
+                "d": "The method is",
+                "s": ""
+            },
+            {
+                "id": "ko-1131",
+                "w": "인생을",
+                "p": "insaengeul",
+                "d": "life",
+                "s": ""
+            },
+            {
+                "id": "ko-1132",
+                "w": "보이는",
+                "p": "boineun",
+                "d": "visible",
+                "s": ""
+            },
+            {
+                "id": "ko-1133",
+                "w": "정도로",
+                "p": "jeongdoro",
+                "d": "to the extent",
+                "s": ""
+            },
+            {
+                "id": "ko-1134",
+                "w": "아니오",
+                "p": "anio",
+                "d": "misspelling of 아니요 (aniyo)",
+                "s": ""
+            },
+            {
+                "id": "ko-1135",
+                "w": "여러",
+                "p": "yeoreo",
+                "d": "several, various",
+                "s": ""
+            },
+            {
+                "id": "ko-1136",
+                "w": "자고",
+                "p": "jago",
+                "d": "sleeping",
+                "s": ""
+            },
+            {
+                "id": "ko-1137",
+                "w": "한다면",
+                "p": "handamyeon",
+                "d": "If you do",
+                "s": ""
+            },
+            {
+                "id": "ko-1138",
+                "w": "실례합니다",
+                "p": "sillyehamnida",
+                "d": "Excuse me",
+                "s": ""
+            },
+            {
+                "id": "ko-1139",
+                "w": "기회가",
+                "p": "gihoega",
+                "d": "there is a chance",
+                "s": ""
+            },
+            {
+                "id": "ko-1140",
+                "w": "했을",
+                "p": "haesseul",
+                "d": "would have done",
+                "s": ""
+            },
+            {
+                "id": "ko-1141",
+                "w": "결혼",
+                "p": "gyeolhon",
+                "d": "marriage",
+                "s": ""
+            },
+            {
+                "id": "ko-1142",
+                "w": "소리를",
+                "p": "sorireul",
+                "d": "sound",
+                "s": ""
+            },
+            {
+                "id": "ko-1143",
+                "w": "알았다",
+                "p": "aratda",
+                "d": "Got it",
+                "s": ""
+            },
+            {
+                "id": "ko-1144",
+                "w": "해야지",
+                "p": "haeyaji",
+                "d": "I have to do it",
+                "s": ""
+            },
+            {
+                "id": "ko-1145",
+                "w": "완벽한",
+                "p": "wanbyeokan",
+                "d": "perfect",
+                "s": ""
+            },
+            {
+                "id": "ko-1146",
+                "w": "있었다",
+                "p": "isseotda",
+                "d": "there was",
+                "s": ""
+            },
+            {
+                "id": "ko-1147",
+                "w": "곳을",
+                "p": "goseul",
+                "d": "place",
+                "s": ""
+            },
+            {
+                "id": "ko-1148",
+                "w": "겨우",
+                "p": "gyeou",
+                "d": "barely; with difficulty",
+                "s": ""
+            },
+            {
+                "id": "ko-1149",
+                "w": "없으면",
+                "p": "eopseumyeon",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-1150",
+                "w": "아내가",
+                "p": "anaega",
+                "d": "my wife",
+                "s": ""
+            },
+            {
+                "id": "ko-1151",
+                "w": "있습니까",
+                "p": "itseumnikka",
+                "d": "Are there any",
+                "s": ""
+            },
+            {
+                "id": "ko-1152",
+                "w": "만들고",
+                "p": "mandeulgo",
+                "d": "create",
+                "s": ""
+            },
+            {
+                "id": "ko-1153",
+                "w": "비켜",
+                "p": "bikyeo",
+                "d": "Get out of the way",
+                "s": ""
+            },
+            {
+                "id": "ko-1154",
+                "w": "그것을",
+                "p": "geugeoseul",
+                "d": "it",
+                "s": ""
+            },
+            {
+                "id": "ko-1155",
+                "w": "피를",
+                "p": "pireul",
+                "d": "blood",
+                "s": ""
+            },
+            {
+                "id": "ko-1156",
+                "w": "못한",
+                "p": "motan",
+                "d": "couldn't",
+                "s": ""
+            },
+            {
+                "id": "ko-1157",
+                "w": "말씀",
+                "p": "malsseum",
+                "d": "word or speech",
+                "s": ""
+            },
+            {
+                "id": "ko-1158",
+                "w": "자식",
+                "p": "jasik",
+                "d": "one's children, offspring; a somewhat rude term referring to male people, sometimes expressing friendliness when used between friends",
+                "s": ""
+            },
+            {
+                "id": "ko-1159",
+                "w": "만약에",
+                "p": "manyage",
+                "d": "if",
+                "s": ""
+            },
+            {
+                "id": "ko-1160",
+                "w": "위대한",
+                "p": "widaehan",
+                "d": "great",
+                "s": ""
+            },
+            {
+                "id": "ko-1161",
+                "w": "써",
+                "p": "sseo",
+                "d": "write",
+                "s": ""
+            },
+            {
+                "id": "ko-1162",
+                "w": "이리와",
+                "p": "iriwa",
+                "d": "Come here",
+                "s": ""
+            },
+            {
+                "id": "ko-1163",
+                "w": "눈이",
+                "p": "nuni",
+                "d": "snow",
+                "s": ""
+            },
+            {
+                "id": "ko-1164",
+                "w": "사람도",
+                "p": "saramdo",
+                "d": "People too",
+                "s": ""
+            },
+            {
+                "id": "ko-1165",
+                "w": "요",
+                "p": "yo",
+                "d": "Yo",
+                "s": ""
+            },
+            {
+                "id": "ko-1166",
+                "w": "자신이",
+                "p": "jasini",
+                "d": "myself",
+                "s": ""
+            },
+            {
+                "id": "ko-1167",
+                "w": "당신한테",
+                "p": "dangsinhante",
+                "d": "To you",
+                "s": ""
+            },
+            {
+                "id": "ko-1168",
+                "w": "보통",
+                "p": "botong",
+                "d": "Normal",
+                "s": ""
+            },
+            {
+                "id": "ko-1169",
+                "w": "나갈",
+                "p": "nagal",
+                "d": "go out",
+                "s": ""
+            },
+            {
+                "id": "ko-1170",
+                "w": "문제를",
+                "p": "munjereul",
+                "d": "problem",
+                "s": ""
+            },
+            {
+                "id": "ko-1171",
+                "w": "보다",
+                "p": "boda",
+                "d": "see",
+                "s": ""
+            },
+            {
+                "id": "ko-1172",
+                "w": "앉아서",
+                "p": "anjaseo",
+                "d": "sit down",
+                "s": ""
+            },
+            {
+                "id": "ko-1173",
+                "w": "도와줘요",
+                "p": "dowajwoyo",
+                "d": "Help me",
+                "s": ""
+            },
+            {
+                "id": "ko-1174",
+                "w": "원하지",
+                "p": "wonhaji",
+                "d": "want",
+                "s": ""
+            },
+            {
+                "id": "ko-1175",
+                "w": "이쪽으로",
+                "p": "ijjogeuro",
+                "d": "this way",
+                "s": ""
+            },
+            {
+                "id": "ko-1176",
+                "w": "생각하고",
+                "p": "saenggakago",
+                "d": "thinking",
+                "s": ""
+            },
+            {
+                "id": "ko-1177",
+                "w": "갑시다",
+                "p": "gapsida",
+                "d": "Let's go",
+                "s": ""
+            },
+            {
+                "id": "ko-1178",
+                "w": "사랑을",
+                "p": "sarangeul",
+                "d": "love",
+                "s": ""
+            },
+            {
+                "id": "ko-1179",
+                "w": "너네",
+                "p": "neone",
+                "d": "alternative form of 너희 (neohui, “you (plural)”); alternative form of 너의 (neoui, “your; yours (singular)”)",
+                "s": ""
+            },
+            {
+                "id": "ko-1180",
+                "w": "조",
+                "p": "jo",
+                "d": "Joe",
+                "s": ""
+            },
+            {
+                "id": "ko-1181",
+                "w": "밖에서",
+                "p": "bakkeseo",
+                "d": "outside",
+                "s": ""
+            },
+            {
+                "id": "ko-1182",
+                "w": "들어와",
+                "p": "deureowa",
+                "d": "Come in",
+                "s": ""
+            },
+            {
+                "id": "ko-1183",
+                "w": "그렇군요",
+                "p": "geureokunyo",
+                "d": "I see.",
+                "s": ""
+            },
+            {
+                "id": "ko-1184",
+                "w": "척",
+                "p": "cheok",
+                "d": "pretense; as if",
+                "s": ""
+            },
+            {
+                "id": "ko-1185",
+                "w": "같군",
+                "p": "gatgun",
+                "d": "Same",
+                "s": ""
+            },
+            {
+                "id": "ko-1186",
+                "w": "나온",
+                "p": "naon",
+                "d": "came out",
+                "s": ""
+            },
+            {
+                "id": "ko-1187",
+                "w": "같지",
+                "p": "gatji",
+                "d": "Same",
+                "s": ""
+            },
+            {
+                "id": "ko-1188",
+                "w": "불러",
+                "p": "bulleo",
+                "d": "call me",
+                "s": ""
+            },
+            {
+                "id": "ko-1189",
+                "w": "도움을",
+                "p": "doumeul",
+                "d": "help",
+                "s": ""
+            },
+            {
+                "id": "ko-1190",
+                "w": "마음",
+                "p": "maeum",
+                "d": "mind, heart (i.e. one's emotions); intention, will",
+                "s": ""
+            },
+            {
+                "id": "ko-1191",
+                "w": "최선을",
+                "p": "choeseoneul",
+                "d": "Do your best",
+                "s": ""
+            },
+            {
+                "id": "ko-1192",
+                "w": "된다",
+                "p": "doenda",
+                "d": "It becomes",
+                "s": ""
+            },
+            {
+                "id": "ko-1193",
+                "w": "곳으로",
+                "p": "goseuro",
+                "d": "to the place",
+                "s": ""
+            },
+            {
+                "id": "ko-1194",
+                "w": "아기를",
+                "p": "agireul",
+                "d": "baby",
+                "s": ""
+            },
+            {
+                "id": "ko-1195",
+                "w": "죽이고",
+                "p": "jugigo",
+                "d": "kill",
+                "s": ""
+            },
+            {
+                "id": "ko-1196",
+                "w": "대단한",
+                "p": "daedanhan",
+                "d": "to be great, huge, immense, enormous, tremendous; to be great, outstanding, incredible, awesome",
+                "s": ""
+            },
+            {
+                "id": "ko-1197",
+                "w": "뭐예요",
+                "p": "mwoyeyo",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-1198",
+                "w": "환자를",
+                "p": "hwanjareul",
+                "d": "the patient",
+                "s": ""
+            },
+            {
+                "id": "ko-1199",
+                "w": "똑같은",
+                "p": "ttokgateun",
+                "d": "same",
+                "s": ""
+            },
+            {
+                "id": "ko-1200",
+                "w": "가능한",
+                "p": "ganeunghan",
+                "d": "possible",
+                "s": ""
+            },
+            {
+                "id": "ko-1201",
+                "w": "친구들",
+                "p": "chingudeul",
+                "d": "friends",
+                "s": ""
+            },
+            {
+                "id": "ko-1202",
+                "w": "원해",
+                "p": "wonhae",
+                "d": "want",
+                "s": ""
+            },
+            {
+                "id": "ko-1203",
+                "w": "좋아해",
+                "p": "joahae",
+                "d": "I like it",
+                "s": ""
+            },
+            {
+                "id": "ko-1204",
+                "w": "될까",
+                "p": "doelkka",
+                "d": "Will it work?",
+                "s": ""
+            },
+            {
+                "id": "ko-1205",
+                "w": "봤지",
+                "p": "bwatji",
+                "d": "I saw it",
+                "s": ""
+            },
+            {
+                "id": "ko-1206",
+                "w": "방",
+                "p": "bang",
+                "d": "room",
+                "s": ""
+            },
+            {
+                "id": "ko-1207",
+                "w": "몰라도",
+                "p": "mollado",
+                "d": "I don't know but",
+                "s": ""
+            },
+            {
+                "id": "ko-1208",
+                "w": "갈게요",
+                "p": "galgeyo",
+                "d": "I'll go",
+                "s": ""
+            },
+            {
+                "id": "ko-1209",
+                "w": "때도",
+                "p": "ttaedo",
+                "d": "Even when",
+                "s": ""
+            },
+            {
+                "id": "ko-1210",
+                "w": "움직여",
+                "p": "umjigyeo",
+                "d": "move",
+                "s": ""
+            },
+            {
+                "id": "ko-1211",
+                "w": "눈에",
+                "p": "nune",
+                "d": "in the eyes",
+                "s": ""
+            },
+            {
+                "id": "ko-1212",
+                "w": "숨을",
+                "p": "sumeul",
+                "d": "breathe",
+                "s": ""
+            },
+            {
+                "id": "ko-1213",
+                "w": "음악",
+                "p": "eumak",
+                "d": "music",
+                "s": ""
+            },
+            {
+                "id": "ko-1214",
+                "w": "자는",
+                "p": "janeun",
+                "d": "sleeping",
+                "s": ""
+            },
+            {
+                "id": "ko-1215",
+                "w": "딸을",
+                "p": "ttareul",
+                "d": "daughter",
+                "s": ""
+            },
+            {
+                "id": "ko-1216",
+                "w": "모르겠네요",
+                "p": "moreugenneyo",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1217",
+                "w": "의사가",
+                "p": "uisaga",
+                "d": "doctor",
+                "s": ""
+            },
+            {
+                "id": "ko-1218",
+                "w": "셜록",
+                "p": "syeollok",
+                "d": "sherlock",
+                "s": ""
+            },
+            {
+                "id": "ko-1219",
+                "w": "딴",
+                "p": "ttan",
+                "d": "another, other; different",
+                "s": ""
+            },
+            {
+                "id": "ko-1220",
+                "w": "가져와",
+                "p": "gajyeowa",
+                "d": "Bring it",
+                "s": ""
+            },
+            {
+                "id": "ko-1221",
+                "w": "세상에서",
+                "p": "sesangeseo",
+                "d": "in the world",
+                "s": ""
+            },
+            {
+                "id": "ko-1222",
+                "w": "소리가",
+                "p": "soriga",
+                "d": "the sound",
+                "s": ""
+            },
+            {
+                "id": "ko-1223",
+                "w": "시간은",
+                "p": "siganeun",
+                "d": "time is",
+                "s": ""
+            },
+            {
+                "id": "ko-1224",
+                "w": "도울",
+                "p": "doul",
+                "d": "help",
+                "s": ""
+            },
+            {
+                "id": "ko-1225",
+                "w": "만한",
+                "p": "manhan",
+                "d": "worthy",
+                "s": ""
+            },
+            {
+                "id": "ko-1226",
+                "w": "남편이",
+                "p": "nampyeoni",
+                "d": "My husband",
+                "s": ""
+            },
+            {
+                "id": "ko-1227",
+                "w": "한다는",
+                "p": "handaneun",
+                "d": "to say",
+                "s": ""
+            },
+            {
+                "id": "ko-1228",
+                "w": "아버지를",
+                "p": "abeojireul",
+                "d": "my father",
+                "s": ""
+            },
+            {
+                "id": "ko-1229",
+                "w": "일로",
+                "p": "illo",
+                "d": "over in this direction, hither",
+                "s": ""
+            },
+            {
+                "id": "ko-1230",
+                "w": "감옥에",
+                "p": "gamoge",
+                "d": "in jail",
+                "s": ""
+            },
+            {
+                "id": "ko-1231",
+                "w": "됐지",
+                "p": "dwaetji",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-1232",
+                "w": "짓",
+                "p": "jit",
+                "d": "a physical act or movement",
+                "s": ""
+            },
+            {
+                "id": "ko-1233",
+                "w": "순간",
+                "p": "sungan",
+                "d": "an instant; a moment",
+                "s": ""
+            },
+            {
+                "id": "ko-1234",
+                "w": "도와줄",
+                "p": "dowajul",
+                "d": "help me",
+                "s": ""
+            },
+            {
+                "id": "ko-1235",
+                "w": "있도록",
+                "p": "itdorok",
+                "d": "so that",
+                "s": ""
+            },
+            {
+                "id": "ko-1236",
+                "w": "할머니",
+                "p": "halmeoni",
+                "d": "grandmother; (by extension) elderly female",
+                "s": ""
+            },
+            {
+                "id": "ko-1237",
+                "w": "짓이야",
+                "p": "jisiya",
+                "d": "It's a joke",
+                "s": ""
+            },
+            {
+                "id": "ko-1238",
+                "w": "쓰는",
+                "p": "sseuneun",
+                "d": "writing",
+                "s": ""
+            },
+            {
+                "id": "ko-1239",
+                "w": "했잖아요",
+                "p": "haetjanayo",
+                "d": "You did it",
+                "s": ""
+            },
+            {
+                "id": "ko-1240",
+                "w": "너희들",
+                "p": "neohuideul",
+                "d": "you all, you people, you folks, you guys",
+                "s": ""
+            },
+            {
+                "id": "ko-1241",
+                "w": "피터",
+                "p": "piteo",
+                "d": "peter",
+                "s": ""
+            },
+            {
+                "id": "ko-1242",
+                "w": "당신들",
+                "p": "dangsindeul",
+                "d": "you (plural)",
+                "s": ""
+            },
+            {
+                "id": "ko-1243",
+                "w": "그날",
+                "p": "geunal",
+                "d": "that day; the day in question; (menstrual) period",
+                "s": ""
+            },
+            {
+                "id": "ko-1244",
+                "w": "화가",
+                "p": "hwaga",
+                "d": "artist (painter)",
+                "s": ""
+            },
+            {
+                "id": "ko-1245",
+                "w": "새끼",
+                "p": "saekki",
+                "d": "young animal; a contemptible person, usually male; a son of a bitch",
+                "s": ""
+            },
+            {
+                "id": "ko-1246",
+                "w": "쓴",
+                "p": "sseun",
+                "d": "bitter",
+                "s": ""
+            },
+            {
+                "id": "ko-1247",
+                "w": "안에서",
+                "p": "aneseo",
+                "d": "inside",
+                "s": ""
+            },
+            {
+                "id": "ko-1248",
+                "w": "최대한",
+                "p": "choedaehan",
+                "d": "as much as possible",
+                "s": ""
+            },
+            {
+                "id": "ko-1249",
+                "w": "하네",
+                "p": "hane",
+                "d": "Yes",
+                "s": ""
+            },
+            {
+                "id": "ko-1250",
+                "w": "팀",
+                "p": "tim",
+                "d": "team",
+                "s": ""
+            },
+            {
+                "id": "ko-1251",
+                "w": "이후로",
+                "p": "ihuro",
+                "d": "Since then",
+                "s": ""
+            },
+            {
+                "id": "ko-1252",
+                "w": "그들",
+                "p": "geudeul",
+                "d": "they",
+                "s": ""
+            },
+            {
+                "id": "ko-1253",
+                "w": "이지",
+                "p": "iji",
+                "d": "Easy",
+                "s": ""
+            },
+            {
+                "id": "ko-1254",
+                "w": "그치",
+                "p": "geuchi",
+                "d": "contraction of 그렇지 (geureochi)",
+                "s": ""
+            },
+            {
+                "id": "ko-1255",
+                "w": "죽었어요",
+                "p": "jugeosseoyo",
+                "d": "dead",
+                "s": ""
+            },
+            {
+                "id": "ko-1256",
+                "w": "곳에서",
+                "p": "goseseo",
+                "d": "in a place",
+                "s": ""
+            },
+            {
+                "id": "ko-1257",
+                "w": "때마다",
+                "p": "ttaemada",
+                "d": "every time",
+                "s": ""
+            },
+            {
+                "id": "ko-1258",
+                "w": "몸이",
+                "p": "momi",
+                "d": "body",
+                "s": ""
+            },
+            {
+                "id": "ko-1259",
+                "w": "모든게",
+                "p": "modeunge",
+                "d": "Everything",
+                "s": ""
+            },
+            {
+                "id": "ko-1260",
+                "w": "캠",
+                "p": "kaem",
+                "d": "cam (rotating or sliding piece in a mechanical linkage); abbreviation of 카메라 (kamera, “camera”)",
+                "s": ""
+            },
+            {
+                "id": "ko-1261",
+                "w": "어차피",
+                "p": "eochapi",
+                "d": "anyway, after all",
+                "s": ""
+            },
+            {
+                "id": "ko-1262",
+                "w": "압니다",
+                "p": "amnida",
+                "d": "I know",
+                "s": ""
+            },
+            {
+                "id": "ko-1263",
+                "w": "기억이",
+                "p": "gieogi",
+                "d": "I remember",
+                "s": ""
+            },
+            {
+                "id": "ko-1264",
+                "w": "어딜",
+                "p": "eodil",
+                "d": "where",
+                "s": ""
+            },
+            {
+                "id": "ko-1265",
+                "w": "산",
+                "p": "san",
+                "d": "mountain",
+                "s": ""
+            },
+            {
+                "id": "ko-1266",
+                "w": "들려",
+                "p": "deullyeo",
+                "d": "I hear it",
+                "s": ""
+            },
+            {
+                "id": "ko-1267",
+                "w": "있네요",
+                "p": "inneyo",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1268",
+                "w": "분이",
+                "p": "buni",
+                "d": "The person",
+                "s": ""
+            },
+            {
+                "id": "ko-1269",
+                "w": "없어서",
+                "p": "eopseoseo",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-1270",
+                "w": "이곳에",
+                "p": "igose",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "ko-1271",
+                "w": "미안하지만",
+                "p": "mianhajiman",
+                "d": "to be ashamed of oneself; to be sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-1272",
+                "w": "일어난",
+                "p": "ireonan",
+                "d": "happened",
+                "s": ""
+            },
+            {
+                "id": "ko-1273",
+                "w": "왔습니다",
+                "p": "watseumnida",
+                "d": "came",
+                "s": ""
+            },
+            {
+                "id": "ko-1274",
+                "w": "로스",
+                "p": "roseu",
+                "d": "ross",
+                "s": ""
+            },
+            {
+                "id": "ko-1275",
+                "w": "속에서",
+                "p": "sogeseo",
+                "d": "in",
+                "s": ""
+            },
+            {
+                "id": "ko-1276",
+                "w": "친구를",
+                "p": "chingureul",
+                "d": "friends",
+                "s": ""
+            },
+            {
+                "id": "ko-1277",
+                "w": "모르지만",
+                "p": "moreujiman",
+                "d": "I don't know but",
+                "s": ""
+            },
+            {
+                "id": "ko-1278",
+                "w": "예쁜",
+                "p": "yeppeun",
+                "d": "Attributive form of 예쁘다 (yeppeuda) (“to be pretty, beautiful”).",
+                "s": ""
+            },
+            {
+                "id": "ko-1279",
+                "w": "몸을",
+                "p": "momeul",
+                "d": "body",
+                "s": ""
+            },
+            {
+                "id": "ko-1280",
+                "w": "잊지",
+                "p": "itji",
+                "d": "forget",
+                "s": ""
+            },
+            {
+                "id": "ko-1281",
+                "w": "엄마한테",
+                "p": "eommahante",
+                "d": "To mom",
+                "s": ""
+            },
+            {
+                "id": "ko-1282",
+                "w": "왔다",
+                "p": "watda",
+                "d": "came",
+                "s": ""
+            },
+            {
+                "id": "ko-1283",
+                "w": "했는지",
+                "p": "haenneunji",
+                "d": "Did you do it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1284",
+                "w": "타",
+                "p": "ta",
+                "d": "ride",
+                "s": ""
+            },
+            {
+                "id": "ko-1285",
+                "w": "같군요",
+                "p": "gatgunyo",
+                "d": "It seems like",
+                "s": ""
+            },
+            {
+                "id": "ko-1286",
+                "w": "명",
+                "p": "myeong",
+                "d": "person",
+                "s": ""
+            },
+            {
+                "id": "ko-1287",
+                "w": "모든걸",
+                "p": "modeungeol",
+                "d": "Everything",
+                "s": ""
+            },
+            {
+                "id": "ko-1288",
+                "w": "하라고",
+                "p": "harago",
+                "d": "Do it",
+                "s": ""
+            },
+            {
+                "id": "ko-1289",
+                "w": "그렇습니다",
+                "p": "geureoseumnida",
+                "d": "to be thus, in that way; to be correct",
+                "s": ""
+            },
+            {
+                "id": "ko-1290",
+                "w": "때문이야",
+                "p": "ttaemuniya",
+                "d": "It's because",
+                "s": ""
+            },
+            {
+                "id": "ko-1291",
+                "w": "있겠어",
+                "p": "itgesseo",
+                "d": "There must be",
+                "s": ""
+            },
+            {
+                "id": "ko-1292",
+                "w": "덕분에",
+                "p": "deokbune",
+                "d": "thanks",
+                "s": ""
+            },
+            {
+                "id": "ko-1293",
+                "w": "싶으면",
+                "p": "sipeumyeon",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-1294",
+                "w": "나가서",
+                "p": "nagaseo",
+                "d": "go out",
+                "s": ""
+            },
+            {
+                "id": "ko-1295",
+                "w": "비밀",
+                "p": "bimil",
+                "d": "secret",
+                "s": ""
+            },
+            {
+                "id": "ko-1296",
+                "w": "달라",
+                "p": "dalla",
+                "d": "It's different",
+                "s": ""
+            },
+            {
+                "id": "ko-1297",
+                "w": "것보다",
+                "p": "geotboda",
+                "d": "than",
+                "s": ""
+            },
+            {
+                "id": "ko-1298",
+                "w": "찾았어요",
+                "p": "chajasseoyo",
+                "d": "I found it",
+                "s": ""
+            },
+            {
+                "id": "ko-1299",
+                "w": "대",
+                "p": "dae",
+                "d": "stand",
+                "s": ""
+            },
+            {
+                "id": "ko-1300",
+                "w": "데릭",
+                "p": "derik",
+                "d": "derrick",
+                "s": ""
+            },
+            {
+                "id": "ko-1301",
+                "w": "고통을",
+                "p": "gotongeul",
+                "d": "pain",
+                "s": ""
+            },
+            {
+                "id": "ko-1302",
+                "w": "환자는",
+                "p": "hwanjaneun",
+                "d": "The patient",
+                "s": ""
+            },
+            {
+                "id": "ko-1303",
+                "w": "엄마랑",
+                "p": "eommarang",
+                "d": "With mom",
+                "s": ""
+            },
+            {
+                "id": "ko-1304",
+                "w": "진정한",
+                "p": "jinjeonghan",
+                "d": "true",
+                "s": ""
+            },
+            {
+                "id": "ko-1305",
+                "w": "같다",
+                "p": "gatda",
+                "d": "Same",
+                "s": ""
+            },
+            {
+                "id": "ko-1306",
+                "w": "생긴",
+                "p": "saenggin",
+                "d": "made",
+                "s": ""
+            },
+            {
+                "id": "ko-1307",
+                "w": "병원",
+                "p": "byeongwon",
+                "d": "hospital; any facility for healing or treatment of people, animals, or things",
+                "s": ""
+            },
+            {
+                "id": "ko-1308",
+                "w": "반가워요",
+                "p": "bangawoyo",
+                "d": "to be glad, happy; pleasant; welcome",
+                "s": ""
+            },
+            {
+                "id": "ko-1309",
+                "w": "내내",
+                "p": "naenae",
+                "d": "throughout, through, all the time",
+                "s": ""
+            },
+            {
+                "id": "ko-1310",
+                "w": "가도",
+                "p": "gado",
+                "d": "highway",
+                "s": ""
+            },
+            {
+                "id": "ko-1311",
+                "w": "생각에",
+                "p": "saenggage",
+                "d": "in thoughts",
+                "s": ""
+            },
+            {
+                "id": "ko-1312",
+                "w": "오세요",
+                "p": "oseyo",
+                "d": "Come",
+                "s": ""
+            },
+            {
+                "id": "ko-1313",
+                "w": "이러지",
+                "p": "ireoji",
+                "d": "Like this",
+                "s": ""
+            },
+            {
+                "id": "ko-1314",
+                "w": "따르면",
+                "p": "ttareumyeon",
+                "d": "According to",
+                "s": ""
+            },
+            {
+                "id": "ko-1315",
+                "w": "고맙네",
+                "p": "gomamne",
+                "d": "Thank you",
+                "s": ""
+            },
+            {
+                "id": "ko-1316",
+                "w": "할까요",
+                "p": "halkkayo",
+                "d": "Should I do it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1317",
+                "w": "사진을",
+                "p": "sajineul",
+                "d": "take a picture",
+                "s": ""
+            },
+            {
+                "id": "ko-1318",
+                "w": "않게",
+                "p": "anke",
+                "d": "without",
+                "s": ""
+            },
+            {
+                "id": "ko-1319",
+                "w": "한잔",
+                "p": "hanjan",
+                "d": "one drink (of liquor); one glass",
+                "s": ""
+            },
+            {
+                "id": "ko-1320",
+                "w": "않는다",
+                "p": "anneunda",
+                "d": "auxiliary verb used to negate the clause to which the main verb belongs; to not do something",
+                "s": ""
+            },
+            {
+                "id": "ko-1321",
+                "w": "있었고",
+                "p": "isseotgo",
+                "d": "There was",
+                "s": ""
+            },
+            {
+                "id": "ko-1322",
+                "w": "되는데",
+                "p": "doeneunde",
+                "d": "It works",
+                "s": ""
+            },
+            {
+                "id": "ko-1323",
+                "w": "남자를",
+                "p": "namjareul",
+                "d": "a man",
+                "s": ""
+            },
+            {
+                "id": "ko-1324",
+                "w": "안으로",
+                "p": "aneuro",
+                "d": "in",
+                "s": ""
+            },
+            {
+                "id": "ko-1325",
+                "w": "알았죠",
+                "p": "aratjyo",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-1326",
+                "w": "물론이지",
+                "p": "mulloniji",
+                "d": "Of course",
+                "s": ""
+            },
+            {
+                "id": "ko-1327",
+                "w": "보낸",
+                "p": "bonaen",
+                "d": "sent",
+                "s": ""
+            },
+            {
+                "id": "ko-1328",
+                "w": "피가",
+                "p": "piga",
+                "d": "blood",
+                "s": ""
+            },
+            {
+                "id": "ko-1329",
+                "w": "하니까",
+                "p": "hanikka",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-1330",
+                "w": "아가",
+                "p": "aga",
+                "d": "Vocative of 아기 (agi, “baby”); hey, baby",
+                "s": ""
+            },
+            {
+                "id": "ko-1331",
+                "w": "반드시",
+                "p": "bandeusi",
+                "d": "surely; certainly; without fail",
+                "s": ""
+            },
+            {
+                "id": "ko-1332",
+                "w": "아무리",
+                "p": "amuri",
+                "d": "however much/many; no matter how much/many",
+                "s": ""
+            },
+            {
+                "id": "ko-1333",
+                "w": "얘기는",
+                "p": "yaegineun",
+                "d": "The story is",
+                "s": ""
+            },
+            {
+                "id": "ko-1334",
+                "w": "잘못된",
+                "p": "jalmotdoen",
+                "d": "wrong",
+                "s": ""
+            },
+            {
+                "id": "ko-1335",
+                "w": "오케이",
+                "p": "okei",
+                "d": "Okay",
+                "s": ""
+            },
+            {
+                "id": "ko-1336",
+                "w": "알아야",
+                "p": "araya",
+                "d": "I need to know",
+                "s": ""
+            },
+            {
+                "id": "ko-1337",
+                "w": "걸요",
+                "p": "georyo",
+                "d": "Girl",
+                "s": ""
+            },
+            {
+                "id": "ko-1338",
+                "w": "해줄",
+                "p": "haejul",
+                "d": "Do it",
+                "s": ""
+            },
+            {
+                "id": "ko-1339",
+                "w": "자리를",
+                "p": "jarireul",
+                "d": "place",
+                "s": ""
+            },
+            {
+                "id": "ko-1340",
+                "w": "문제야",
+                "p": "munjeya",
+                "d": "It's a problem",
+                "s": ""
+            },
+            {
+                "id": "ko-1341",
+                "w": "이유를",
+                "p": "iyureul",
+                "d": "the reason",
+                "s": ""
+            },
+            {
+                "id": "ko-1342",
+                "w": "그러다",
+                "p": "geureoda",
+                "d": "to do so; to do it; to say so",
+                "s": ""
+            },
+            {
+                "id": "ko-1343",
+                "w": "약을",
+                "p": "yageul",
+                "d": "medicine",
+                "s": ""
+            },
+            {
+                "id": "ko-1344",
+                "w": "싶었어",
+                "p": "sipeosseo",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-1345",
+                "w": "높은",
+                "p": "nopeun",
+                "d": "high",
+                "s": ""
+            },
+            {
+                "id": "ko-1346",
+                "w": "같아서",
+                "p": "gataseo",
+                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
+                "s": ""
+            },
+            {
+                "id": "ko-1347",
+                "w": "이해",
+                "p": "ihae",
+                "d": "understanding, comprehension of something",
+                "s": ""
+            },
+            {
+                "id": "ko-1348",
+                "w": "하나만",
+                "p": "hanaman",
+                "d": "Just one",
+                "s": ""
+            },
+            {
+                "id": "ko-1349",
+                "w": "돌아올",
+                "p": "doraol",
+                "d": "come back",
+                "s": ""
+            },
+            {
+                "id": "ko-1350",
+                "w": "있는게",
+                "p": "inneunge",
+                "d": "There is something",
+                "s": ""
+            },
+            {
+                "id": "ko-1351",
+                "w": "좋습니다",
+                "p": "joseumnida",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-1352",
+                "w": "좋다",
+                "p": "jota",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-1353",
+                "w": "배를",
+                "p": "baereul",
+                "d": "ship",
+                "s": ""
+            },
+            {
+                "id": "ko-1354",
+                "w": "찾아야",
+                "p": "chajaya",
+                "d": "find it",
+                "s": ""
+            },
+            {
+                "id": "ko-1355",
+                "w": "못하게",
+                "p": "motage",
+                "d": "Don't let me",
+                "s": ""
+            },
+            {
+                "id": "ko-1356",
+                "w": "막을",
+                "p": "mageul",
+                "d": "stop it",
+                "s": ""
+            },
+            {
+                "id": "ko-1357",
+                "w": "계획을",
+                "p": "gyehoegeul",
+                "d": "plan",
+                "s": ""
+            },
+            {
+                "id": "ko-1358",
+                "w": "루크",
+                "p": "rukeu",
+                "d": "Luke",
+                "s": ""
+            },
+            {
+                "id": "ko-1359",
+                "w": "이래",
+                "p": "irae",
+                "d": "Like this",
+                "s": ""
+            },
+            {
+                "id": "ko-1360",
+                "w": "모르고",
+                "p": "moreugo",
+                "d": "without knowing",
+                "s": ""
+            },
+            {
+                "id": "ko-1361",
+                "w": "없잖아요",
+                "p": "eopjanayo",
+                "d": "There isn't any",
+                "s": ""
+            },
+            {
+                "id": "ko-1362",
+                "w": "그녀",
+                "p": "geunyeo",
+                "d": "she",
+                "s": ""
+            },
+            {
+                "id": "ko-1363",
+                "w": "그동안",
+                "p": "geudongan",
+                "d": "since our last meeting or conversation; the period of time just mentioned (= 그 동안)",
+                "s": ""
+            },
+            {
+                "id": "ko-1364",
+                "w": "거니",
+                "p": "geoni",
+                "d": "Gurney",
+                "s": ""
+            },
+            {
+                "id": "ko-1365",
+                "w": "빼고",
+                "p": "ppaego",
+                "d": "Except",
+                "s": ""
+            },
+            {
+                "id": "ko-1366",
+                "w": "거긴",
+                "p": "geogin",
+                "d": "There",
+                "s": ""
+            },
+            {
+                "id": "ko-1367",
+                "w": "이라고",
+                "p": "irago",
+                "d": "I said",
+                "s": ""
+            },
+            {
+                "id": "ko-1368",
+                "w": "그랬어요",
+                "p": "geuraesseoyo",
+                "d": "I did",
+                "s": ""
+            },
+            {
+                "id": "ko-1369",
+                "w": "더는",
+                "p": "deoneun",
+                "d": "no more",
+                "s": ""
+            },
+            {
+                "id": "ko-1370",
+                "w": "죽지",
+                "p": "jukji",
+                "d": "shoulder blade; scapula",
+                "s": ""
+            },
+            {
+                "id": "ko-1371",
+                "w": "녀석",
+                "p": "nyeoseok",
+                "d": "dude, fellow; endearing term for usually young boys, similar to squirt or scamp",
+                "s": ""
+            },
+            {
+                "id": "ko-1372",
+                "w": "몰랐어",
+                "p": "mollasseo",
+                "d": "I didn't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1373",
+                "w": "리",
+                "p": "ri",
+                "d": "Lee",
+                "s": ""
+            },
+            {
+                "id": "ko-1374",
+                "w": "뭐라",
+                "p": "mwora",
+                "d": "What",
+                "s": ""
+            },
+            {
+                "id": "ko-1375",
+                "w": "박사",
+                "p": "baksa",
+                "d": "doctorate, Ph.D. (Doctor of Philosophy); doctor (recipient of a doctorate)",
+                "s": ""
+            },
+            {
+                "id": "ko-1376",
+                "w": "죽였어",
+                "p": "jugyeosseo",
+                "d": "I killed it",
+                "s": ""
+            },
+            {
+                "id": "ko-1377",
+                "w": "믿고",
+                "p": "mitgo",
+                "d": "believe it",
+                "s": ""
+            },
+            {
+                "id": "ko-1378",
+                "w": "좋네요",
+                "p": "jonneyo",
+                "d": "It's good",
+                "s": ""
+            },
+            {
+                "id": "ko-1379",
+                "w": "여기까지",
+                "p": "yeogikkaji",
+                "d": "Until here",
+                "s": ""
+            },
+            {
+                "id": "ko-1380",
+                "w": "이쪽은",
+                "p": "ijjogeun",
+                "d": "This is",
+                "s": ""
+            },
+            {
+                "id": "ko-1381",
+                "w": "사람들에게",
+                "p": "saramdeurege",
+                "d": "to people",
+                "s": ""
+            },
+            {
+                "id": "ko-1382",
+                "w": "아빠를",
+                "p": "appareul",
+                "d": "Dad",
+                "s": ""
+            },
+            {
+                "id": "ko-1383",
+                "w": "어려운",
+                "p": "eoryeoun",
+                "d": "to be difficult, to be hard; to be difficult, to be awkward, to be particular (e.g. a person's taste in food)",
+                "s": ""
+            },
+            {
+                "id": "ko-1384",
+                "w": "봤는데",
+                "p": "bwanneunde",
+                "d": "I saw it",
+                "s": ""
+            },
+            {
+                "id": "ko-1385",
+                "w": "적은",
+                "p": "jeogeun",
+                "d": "present determiner of 적다 (jeokda)",
+                "s": ""
+            },
+            {
+                "id": "ko-1386",
+                "w": "법을",
+                "p": "beobeul",
+                "d": "the law",
+                "s": ""
+            },
+            {
+                "id": "ko-1387",
+                "w": "모르겠다",
+                "p": "moreugetda",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1388",
+                "w": "신이",
+                "p": "sini",
+                "d": "god",
+                "s": ""
+            },
+            {
+                "id": "ko-1389",
+                "w": "그렇고",
+                "p": "geureoko",
+                "d": "to be thus, in that way; to be correct",
+                "s": ""
+            },
+            {
+                "id": "ko-1390",
+                "w": "관심",
+                "p": "gwansim",
+                "d": "interest in, or inclination to, a topic or activity",
+                "s": ""
+            },
+            {
+                "id": "ko-1391",
+                "w": "집이",
+                "p": "jibi",
+                "d": "The house",
+                "s": ""
+            },
+            {
+                "id": "ko-1392",
+                "w": "오직",
+                "p": "ojik",
+                "d": "only, solely, alone, exclusively, but",
+                "s": ""
+            },
+            {
+                "id": "ko-1393",
+                "w": "좋아해요",
+                "p": "joahaeyo",
+                "d": "I like it",
+                "s": ""
+            },
+            {
+                "id": "ko-1394",
+                "w": "있었습니다",
+                "p": "isseotseumnida",
+                "d": "There was",
+                "s": ""
+            },
+            {
+                "id": "ko-1395",
+                "w": "나은",
+                "p": "naeun",
+                "d": "better",
+                "s": ""
+            },
+            {
+                "id": "ko-1396",
+                "w": "않아도",
+                "p": "anado",
+                "d": "Even if you don't have to",
+                "s": ""
+            },
+            {
+                "id": "ko-1397",
+                "w": "나면",
+                "p": "namyeon",
+                "d": "to be born; to appear, arise, occur, take place",
+                "s": ""
+            },
+            {
+                "id": "ko-1398",
+                "w": "옛날",
+                "p": "yennal",
+                "d": "the past; long ago; once upon a time",
+                "s": ""
+            },
+            {
+                "id": "ko-1399",
+                "w": "얘가",
+                "p": "yaega",
+                "d": "This guy",
+                "s": ""
+            },
+            {
+                "id": "ko-1400",
+                "w": "식으로",
+                "p": "sigeuro",
+                "d": "in this way",
+                "s": ""
+            },
+            {
+                "id": "ko-1401",
+                "w": "그걸로",
+                "p": "geugeollo",
+                "d": "With that",
+                "s": ""
+            },
+            {
+                "id": "ko-1402",
+                "w": "냄새가",
+                "p": "naemsaega",
+                "d": "it smells",
+                "s": ""
+            },
+            {
+                "id": "ko-1403",
+                "w": "못하는",
+                "p": "motaneun",
+                "d": "can't",
+                "s": ""
+            },
+            {
+                "id": "ko-1404",
+                "w": "인간",
+                "p": "ingan",
+                "d": "human, human being; fellow, guy",
+                "s": ""
+            },
+            {
+                "id": "ko-1405",
+                "w": "세상이",
+                "p": "sesangi",
+                "d": "the world",
+                "s": ""
+            },
+            {
+                "id": "ko-1406",
+                "w": "책",
+                "p": "chaek",
+                "d": "book",
+                "s": ""
+            },
+            {
+                "id": "ko-1407",
+                "w": "모두에게",
+                "p": "moduege",
+                "d": "to everyone",
+                "s": ""
+            },
+            {
+                "id": "ko-1408",
+                "w": "말해줘",
+                "p": "malhaejwo",
+                "d": "tell me",
+                "s": ""
+            },
+            {
+                "id": "ko-1409",
+                "w": "처음으로",
+                "p": "cheoeumeuro",
+                "d": "for the first time",
+                "s": ""
+            },
+            {
+                "id": "ko-1410",
+                "w": "그러게",
+                "p": "geureoge",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-1411",
+                "w": "실제로",
+                "p": "siljero",
+                "d": "in fact, in practice",
+                "s": ""
+            },
+            {
+                "id": "ko-1412",
+                "w": "제임스",
+                "p": "jeimseu",
+                "d": "james",
+                "s": ""
+            },
+            {
+                "id": "ko-1413",
+                "w": "데려다",
+                "p": "deryeoda",
+                "d": "take me",
+                "s": ""
+            },
+            {
+                "id": "ko-1414",
+                "w": "크리스마스",
+                "p": "keuriseumaseu",
+                "d": "christmas",
+                "s": ""
+            },
+            {
+                "id": "ko-1415",
+                "w": "보기",
+                "p": "bogi",
+                "d": "view",
+                "s": ""
+            },
+            {
+                "id": "ko-1416",
+                "w": "신의",
+                "p": "sinui",
+                "d": "God's",
+                "s": ""
+            },
+            {
+                "id": "ko-1417",
+                "w": "말했잖아",
+                "p": "malhaetjana",
+                "d": "I told you",
+                "s": ""
+            },
+            {
+                "id": "ko-1418",
+                "w": "말했어",
+                "p": "malhaesseo",
+                "d": "I said",
+                "s": ""
+            },
+            {
+                "id": "ko-1419",
+                "w": "돌아갈",
+                "p": "doragal",
+                "d": "go back",
+                "s": ""
+            },
+            {
+                "id": "ko-1420",
+                "w": "한번도",
+                "p": "hanbeondo",
+                "d": "never once",
+                "s": ""
+            },
+            {
+                "id": "ko-1421",
+                "w": "긴",
+                "p": "gin",
+                "d": "attributive form of 길다 (gilda, “long”)",
+                "s": ""
+            },
+            {
+                "id": "ko-1422",
+                "w": "움직이지",
+                "p": "umjigiji",
+                "d": "Don't move",
+                "s": ""
+            },
+            {
+                "id": "ko-1423",
+                "w": "착한",
+                "p": "chakhan",
+                "d": "to be good-hearted, to be kind, to be nice; to be good, to be pleasing",
+                "s": ""
+            },
+            {
+                "id": "ko-1424",
+                "w": "일이지",
+                "p": "iriji",
+                "d": "It's work",
+                "s": ""
+            },
+            {
+                "id": "ko-1425",
+                "w": "쓰지",
+                "p": "sseuji",
+                "d": "Write it",
+                "s": ""
+            },
+            {
+                "id": "ko-1426",
+                "w": "곳",
+                "p": "got",
+                "d": "place",
+                "s": ""
+            },
+            {
+                "id": "ko-1427",
+                "w": "도와주세요",
+                "p": "dowajuseyo",
+                "d": "please help",
+                "s": ""
+            },
+            {
+                "id": "ko-1428",
+                "w": "그러죠",
+                "p": "geureojyo",
+                "d": "Of course",
+                "s": ""
+            },
+            {
+                "id": "ko-1429",
+                "w": "거니까",
+                "p": "geonikka",
+                "d": "Because it is",
+                "s": ""
+            },
+            {
+                "id": "ko-1430",
+                "w": "곁에",
+                "p": "gyeote",
+                "d": "next to",
+                "s": ""
+            },
+            {
+                "id": "ko-1431",
+                "w": "그녀에게",
+                "p": "geunyeoege",
+                "d": "to her",
+                "s": ""
+            },
+            {
+                "id": "ko-1432",
+                "w": "그러는",
+                "p": "geureoneun",
+                "d": "to do so; to do it; to say so",
+                "s": ""
+            },
+            {
+                "id": "ko-1433",
+                "w": "머리에",
+                "p": "meorie",
+                "d": "on the head",
+                "s": ""
+            },
+            {
+                "id": "ko-1434",
+                "w": "확인해",
+                "p": "hwaginhae",
+                "d": "Check it out",
+                "s": ""
+            },
+            {
+                "id": "ko-1435",
+                "w": "싶어서",
+                "p": "sipeoseo",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-1436",
+                "w": "것들을",
+                "p": "geotdeureul",
+                "d": "things",
+                "s": ""
+            },
+            {
+                "id": "ko-1437",
+                "w": "데이트",
+                "p": "deiteu",
+                "d": "date (pre-arranged social meeting, meeting with a lover or a potential lover)",
+                "s": ""
+            },
+            {
+                "id": "ko-1438",
+                "w": "사고",
+                "p": "sago",
+                "d": "accident",
+                "s": ""
+            },
+            {
+                "id": "ko-1439",
+                "w": "한거야",
+                "p": "hangeoya",
+                "d": "I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-1440",
+                "w": "세상",
+                "p": "sesang",
+                "d": "world",
+                "s": ""
+            },
+            {
+                "id": "ko-1441",
+                "w": "감사해요",
+                "p": "gamsahaeyo",
+                "d": "Thank you",
+                "s": ""
+            },
+            {
+                "id": "ko-1442",
+                "w": "책을",
+                "p": "chaegeul",
+                "d": "a book",
+                "s": ""
+            },
+            {
+                "id": "ko-1443",
+                "w": "배",
+                "p": "bae",
+                "d": "abdomen, belly (of a human or animal); abdomen (of an arthropod)",
+                "s": ""
+            },
+            {
+                "id": "ko-1444",
+                "w": "젊은",
+                "p": "jeolmeun",
+                "d": "young",
+                "s": ""
+            },
+            {
+                "id": "ko-1445",
+                "w": "가자고",
+                "p": "gajago",
+                "d": "Let's go",
+                "s": ""
+            },
+            {
+                "id": "ko-1446",
+                "w": "아닌가",
+                "p": "aninga",
+                "d": "Isn't it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1447",
+                "w": "좋겠어요",
+                "p": "jokesseoyo",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-1448",
+                "w": "비행기",
+                "p": "bihaenggi",
+                "d": "airplane",
+                "s": ""
+            },
+            {
+                "id": "ko-1449",
+                "w": "맥스",
+                "p": "maekseu",
+                "d": "max",
+                "s": ""
+            },
+            {
+                "id": "ko-1450",
+                "w": "하잖아",
+                "p": "hajana",
+                "d": "You say it",
+                "s": ""
+            },
+            {
+                "id": "ko-1451",
+                "w": "없소",
+                "p": "eopso",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-1452",
+                "w": "애들은",
+                "p": "aedeureun",
+                "d": "The kids",
+                "s": ""
+            },
+            {
+                "id": "ko-1453",
+                "w": "오늘밤",
+                "p": "oneulbam",
+                "d": "tonight",
+                "s": ""
+            },
+            {
+                "id": "ko-1454",
+                "w": "고맙다",
+                "p": "gomapda",
+                "d": "thankful",
+                "s": ""
+            },
+            {
+                "id": "ko-1455",
+                "w": "라는",
+                "p": "raneun",
+                "d": "called",
+                "s": ""
+            },
+            {
+                "id": "ko-1456",
+                "w": "언젠가",
+                "p": "eonjenga",
+                "d": "at some time (in the past or future); at any time",
+                "s": ""
+            },
+            {
+                "id": "ko-1457",
+                "w": "필요할",
+                "p": "piryohal",
+                "d": "to have a need; to be necessary, to be needed",
+                "s": ""
+            },
+            {
+                "id": "ko-1458",
+                "w": "아이들을",
+                "p": "aideureul",
+                "d": "children",
+                "s": ""
+            },
+            {
+                "id": "ko-1459",
+                "w": "우리와",
+                "p": "uriwa",
+                "d": "with us",
+                "s": ""
+            },
+            {
+                "id": "ko-1460",
+                "w": "머리가",
+                "p": "meoriga",
+                "d": "head",
+                "s": ""
+            },
+            {
+                "id": "ko-1461",
+                "w": "그것이",
+                "p": "geugeosi",
+                "d": "that is",
+                "s": ""
+            },
+            {
+                "id": "ko-1462",
+                "w": "세계",
+                "p": "segye",
+                "d": "the world, the Earth; The World (Tarot card)",
+                "s": ""
+            },
+            {
+                "id": "ko-1463",
+                "w": "애는",
+                "p": "aeneun",
+                "d": "The kid",
+                "s": ""
+            },
+            {
+                "id": "ko-1464",
+                "w": "죽여",
+                "p": "jugyeo",
+                "d": "kill it",
+                "s": ""
+            },
+            {
+                "id": "ko-1465",
+                "w": "차가",
+                "p": "chaga",
+                "d": "The car",
+                "s": ""
+            },
+            {
+                "id": "ko-1466",
+                "w": "죽고",
+                "p": "jukgo",
+                "d": "die",
+                "s": ""
+            },
+            {
+                "id": "ko-1467",
+                "w": "따라와",
+                "p": "ttarawa",
+                "d": "Follow me",
+                "s": ""
+            },
+            {
+                "id": "ko-1468",
+                "w": "힘이",
+                "p": "himi",
+                "d": "strength",
+                "s": ""
+            },
+            {
+                "id": "ko-1469",
+                "w": "확실해",
+                "p": "hwaksilhae",
+                "d": "I'm sure",
+                "s": ""
+            },
+            {
+                "id": "ko-1470",
+                "w": "기억해",
+                "p": "gieokae",
+                "d": "remember",
+                "s": ""
+            },
+            {
+                "id": "ko-1471",
+                "w": "있어도",
+                "p": "isseodo",
+                "d": "Even if",
+                "s": ""
+            },
+            {
+                "id": "ko-1472",
+                "w": "자네를",
+                "p": "janereul",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-1473",
+                "w": "오래된",
+                "p": "oraedoen",
+                "d": "old",
+                "s": ""
+            },
+            {
+                "id": "ko-1474",
+                "w": "기억나",
+                "p": "gieongna",
+                "d": "I remember",
+                "s": ""
+            },
+            {
+                "id": "ko-1475",
+                "w": "루시어스",
+                "p": "rusieoseu",
+                "d": "Lucius",
+                "s": ""
+            },
+            {
+                "id": "ko-1476",
+                "w": "분은",
+                "p": "buneun",
+                "d": "The person",
+                "s": ""
+            },
+            {
+                "id": "ko-1477",
+                "w": "얘기하고",
+                "p": "yaegihago",
+                "d": "talking",
+                "s": ""
+            },
+            {
+                "id": "ko-1478",
+                "w": "상관없어",
+                "p": "sanggwaneopseo",
+                "d": "to have nothing to do with something; to be OK, not to matter",
+                "s": ""
+            },
+            {
+                "id": "ko-1479",
+                "w": "다섯",
+                "p": "daseot",
+                "d": "five",
+                "s": ""
+            },
+            {
+                "id": "ko-1480",
+                "w": "이제는",
+                "p": "ijeneun",
+                "d": "now",
+                "s": ""
+            },
+            {
+                "id": "ko-1481",
+                "w": "없네요",
+                "p": "eomneyo",
+                "d": "There isn't any",
+                "s": ""
+            },
+            {
+                "id": "ko-1482",
+                "w": "돌아가",
+                "p": "doraga",
+                "d": "go back",
+                "s": ""
+            },
+            {
+                "id": "ko-1483",
+                "w": "자리에",
+                "p": "jarie",
+                "d": "in place",
+                "s": ""
+            },
+            {
+                "id": "ko-1484",
+                "w": "이만",
+                "p": "iman",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-1485",
+                "w": "바랍니다",
+                "p": "baramnida",
+                "d": "please",
+                "s": ""
+            },
+            {
+                "id": "ko-1486",
+                "w": "느낌이",
+                "p": "neukkimi",
+                "d": "feeling",
+                "s": ""
+            },
+            {
+                "id": "ko-1487",
+                "w": "어머",
+                "p": "eomeo",
+                "d": "oh, my goodness",
+                "s": ""
+            },
+            {
+                "id": "ko-1488",
+                "w": "뭐든지",
+                "p": "mwodeunji",
+                "d": "whatever",
+                "s": ""
+            },
+            {
+                "id": "ko-1489",
+                "w": "되요",
+                "p": "doeyo",
+                "d": "It works",
+                "s": ""
+            },
+            {
+                "id": "ko-1490",
+                "w": "마약",
+                "p": "mayak",
+                "d": "drug, narcotic",
+                "s": ""
+            },
+            {
+                "id": "ko-1491",
+                "w": "행운을",
+                "p": "haenguneul",
+                "d": "good luck",
+                "s": ""
+            },
+            {
+                "id": "ko-1492",
+                "w": "봐야",
+                "p": "bwaya",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-1493",
+                "w": "선생님은",
+                "p": "seonsaengnimeun",
+                "d": "The teacher",
+                "s": ""
+            },
+            {
+                "id": "ko-1494",
+                "w": "줄은",
+                "p": "jureun",
+                "d": "The line is",
+                "s": ""
+            },
+            {
+                "id": "ko-1495",
+                "w": "몰래",
+                "p": "mollae",
+                "d": "secretly, in secret",
+                "s": ""
+            },
+            {
+                "id": "ko-1496",
+                "w": "불쌍한",
+                "p": "bulssanghan",
+                "d": "poor",
+                "s": ""
+            },
+            {
+                "id": "ko-1497",
+                "w": "아니잖아요",
+                "p": "anijanayo",
+                "d": "That's not true",
+                "s": ""
+            },
+            {
+                "id": "ko-1498",
+                "w": "있거든요",
+                "p": "itgeodeunyo",
+                "d": "Because there is",
+                "s": ""
+            },
+            {
+                "id": "ko-1499",
+                "w": "며칠",
+                "p": "myeochil",
+                "d": "how many days?; which day?, what date?",
+                "s": ""
+            },
+            {
+                "id": "ko-1500",
+                "w": "저랑",
+                "p": "jeorang",
+                "d": "With me",
+                "s": ""
+            },
+            {
+                "id": "ko-1501",
+                "w": "결코",
+                "p": "gyeolko",
+                "d": "at all",
+                "s": ""
+            },
+            {
+                "id": "ko-1502",
+                "w": "이걸로",
+                "p": "igeollo",
+                "d": "With this",
+                "s": ""
+            },
+            {
+                "id": "ko-1503",
+                "w": "안녕히",
+                "p": "annyeonghi",
+                "d": "Goodbye",
+                "s": ""
+            },
+            {
+                "id": "ko-1504",
+                "w": "아이는",
+                "p": "aineun",
+                "d": "The child",
+                "s": ""
+            },
+            {
+                "id": "ko-1505",
+                "w": "자네의",
+                "p": "janeui",
+                "d": "your",
+                "s": ""
+            },
+            {
+                "id": "ko-1506",
+                "w": "입을",
+                "p": "ibeul",
+                "d": "mouth",
+                "s": ""
+            },
+            {
+                "id": "ko-1507",
+                "w": "근처에",
+                "p": "geuncheoe",
+                "d": "nearby",
+                "s": ""
+            },
+            {
+                "id": "ko-1508",
+                "w": "들은",
+                "p": "deureun",
+                "d": "heard",
+                "s": ""
+            },
+            {
+                "id": "ko-1509",
+                "w": "뭐하는거야",
+                "p": "mwohaneungeoya",
+                "d": "what are you doing",
+                "s": ""
+            },
+            {
+                "id": "ko-1510",
+                "w": "기다려요",
+                "p": "gidaryeoyo",
+                "d": "to wait for, to await; to look forward to",
+                "s": ""
+            },
+            {
+                "id": "ko-1511",
+                "w": "뭐라도",
+                "p": "mworado",
+                "d": "Anything",
+                "s": ""
+            },
+            {
+                "id": "ko-1512",
+                "w": "않지만",
+                "p": "anchiman",
+                "d": "But",
+                "s": ""
+            },
+            {
+                "id": "ko-1513",
+                "w": "배가",
+                "p": "baega",
+                "d": "hungry",
+                "s": ""
+            },
+            {
+                "id": "ko-1514",
+                "w": "뒤",
+                "p": "dwi",
+                "d": "back, latter, rear; afterwards, future, next",
+                "s": ""
+            },
+            {
+                "id": "ko-1515",
+                "w": "어떡해",
+                "p": "eotteokae",
+                "d": "What should I do?",
+                "s": ""
+            },
+            {
+                "id": "ko-1516",
+                "w": "몸",
+                "p": "mom",
+                "d": "body (of a human or animal)",
+                "s": ""
+            },
+            {
+                "id": "ko-1517",
+                "w": "죽이지",
+                "p": "jugiji",
+                "d": "Kill me",
+                "s": ""
+            },
+            {
+                "id": "ko-1518",
+                "w": "가질",
+                "p": "gajil",
+                "d": "have",
+                "s": ""
+            },
+            {
+                "id": "ko-1519",
+                "w": "해주세요",
+                "p": "haejuseyo",
+                "d": "Please do it",
+                "s": ""
+            },
+            {
+                "id": "ko-1520",
+                "w": "봐라",
+                "p": "bwara",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-1521",
+                "w": "어서요",
+                "p": "eoseoyo",
+                "d": "Come on",
+                "s": ""
+            },
+            {
+                "id": "ko-1522",
+                "w": "어째서",
+                "p": "eojjaeseo",
+                "d": "why",
+                "s": ""
+            },
+            {
+                "id": "ko-1523",
+                "w": "놓고",
+                "p": "noko",
+                "d": "let go",
+                "s": ""
+            },
+            {
+                "id": "ko-1524",
+                "w": "지금도",
+                "p": "jigeumdo",
+                "d": "Even now",
+                "s": ""
+            },
+            {
+                "id": "ko-1525",
+                "w": "아나",
+                "p": "ana",
+                "d": "Ana",
+                "s": ""
+            },
+            {
+                "id": "ko-1526",
+                "w": "맞다",
+                "p": "matda",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-1527",
+                "w": "좋네",
+                "p": "jonne",
+                "d": "Good",
+                "s": ""
+            },
+            {
+                "id": "ko-1528",
+                "w": "의해",
+                "p": "uihae",
+                "d": "by",
+                "s": ""
+            },
+            {
+                "id": "ko-1529",
+                "w": "시간에",
+                "p": "sigane",
+                "d": "in time",
+                "s": ""
+            },
+            {
+                "id": "ko-1530",
+                "w": "차라리",
+                "p": "charari",
+                "d": "preferably; rather (instead)",
+                "s": ""
+            },
+            {
+                "id": "ko-1531",
+                "w": "헨리",
+                "p": "helli",
+                "d": "henry",
+                "s": ""
+            },
+            {
+                "id": "ko-1532",
+                "w": "가끔은",
+                "p": "gakkeumeun",
+                "d": "Sometimes",
+                "s": ""
+            },
+            {
+                "id": "ko-1533",
+                "w": "생각했어",
+                "p": "saenggakaesseo",
+                "d": "I thought",
+                "s": ""
+            },
+            {
+                "id": "ko-1534",
+                "w": "할아버지",
+                "p": "harabeoji",
+                "d": "grandfather; elderly male",
+                "s": ""
+            },
+            {
+                "id": "ko-1535",
+                "w": "덜",
+                "p": "deol",
+                "d": "less",
+                "s": ""
+            },
+            {
+                "id": "ko-1536",
+                "w": "곳은",
+                "p": "goseun",
+                "d": "The place is",
+                "s": ""
+            },
+            {
+                "id": "ko-1537",
+                "w": "남편",
+                "p": "nampyeon",
+                "d": "husband",
+                "s": ""
+            },
+            {
+                "id": "ko-1538",
+                "w": "애들을",
+                "p": "aedeureul",
+                "d": "The kids",
+                "s": ""
+            },
+            {
+                "id": "ko-1539",
+                "w": "구할",
+                "p": "guhal",
+                "d": "save",
+                "s": ""
+            },
+            {
+                "id": "ko-1540",
+                "w": "싶은데",
+                "p": "sipeunde",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-1541",
+                "w": "불",
+                "p": "bul",
+                "d": "fire",
+                "s": ""
+            },
+            {
+                "id": "ko-1542",
+                "w": "생일",
+                "p": "saengil",
+                "d": "birthday",
+                "s": ""
+            },
+            {
+                "id": "ko-1543",
+                "w": "저렇게",
+                "p": "jeoreoke",
+                "d": "like that",
+                "s": ""
+            },
+            {
+                "id": "ko-1544",
+                "w": "돈은",
+                "p": "doneun",
+                "d": "money",
+                "s": ""
+            },
+            {
+                "id": "ko-1545",
+                "w": "아직은",
+                "p": "ajigeun",
+                "d": "Not yet",
+                "s": ""
+            },
+            {
+                "id": "ko-1546",
+                "w": "상태가",
+                "p": "sangtaega",
+                "d": "status",
+                "s": ""
+            },
+            {
+                "id": "ko-1547",
+                "w": "위로",
+                "p": "wiro",
+                "d": "consolation, comfort, solace",
+                "s": ""
+            },
+            {
+                "id": "ko-1548",
+                "w": "가져",
+                "p": "gajyeo",
+                "d": "contraction of 가지다 (gajida)",
+                "s": ""
+            },
+            {
+                "id": "ko-1549",
+                "w": "얘긴",
+                "p": "yaegin",
+                "d": "The story",
+                "s": ""
+            },
+            {
+                "id": "ko-1550",
+                "w": "안전한",
+                "p": "anjeonhan",
+                "d": "to be safe",
+                "s": ""
+            },
+            {
+                "id": "ko-1551",
+                "w": "실수를",
+                "p": "silsureul",
+                "d": "make a mistake",
+                "s": ""
+            },
+            {
+                "id": "ko-1552",
+                "w": "미리",
+                "p": "miri",
+                "d": "in advance",
+                "s": ""
+            },
+            {
+                "id": "ko-1553",
+                "w": "모를",
+                "p": "moreul",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1554",
+                "w": "명이",
+                "p": "myeongi",
+                "d": "Myeongseong",
+                "s": ""
+            },
+            {
+                "id": "ko-1555",
+                "w": "사랑에",
+                "p": "sarange",
+                "d": "in love",
+                "s": ""
+            },
+            {
+                "id": "ko-1556",
+                "w": "전엔",
+                "p": "jeonen",
+                "d": "Before",
+                "s": ""
+            },
+            {
+                "id": "ko-1557",
+                "w": "갔어요",
+                "p": "gasseoyo",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-1558",
+                "w": "갖다",
+                "p": "gatda",
+                "d": "contraction of 가지다 (gajida)",
+                "s": ""
+            },
+            {
+                "id": "ko-1559",
+                "w": "대화를",
+                "p": "daehwareul",
+                "d": "conversation",
+                "s": ""
+            },
+            {
+                "id": "ko-1560",
+                "w": "하나는",
+                "p": "hananeun",
+                "d": "one is",
+                "s": ""
+            },
+            {
+                "id": "ko-1561",
+                "w": "벤",
+                "p": "ben",
+                "d": "ben",
+                "s": ""
+            },
+            {
+                "id": "ko-1562",
+                "w": "지도",
+                "p": "jido",
+                "d": "map",
+                "s": ""
+            },
+            {
+                "id": "ko-1563",
+                "w": "가능성이",
+                "p": "ganeungseongi",
+                "d": "likely",
+                "s": ""
+            },
+            {
+                "id": "ko-1564",
+                "w": "하는게",
+                "p": "haneunge",
+                "d": "Doing it",
+                "s": ""
+            },
+            {
+                "id": "ko-1565",
+                "w": "있는데요",
+                "p": "inneundeyo",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1566",
+                "w": "실은",
+                "p": "sireun",
+                "d": "actually, in fact",
+                "s": ""
+            },
+            {
+                "id": "ko-1567",
+                "w": "먹는",
+                "p": "meongneun",
+                "d": "eating",
+                "s": ""
+            },
+            {
+                "id": "ko-1568",
+                "w": "확인",
+                "p": "hwagin",
+                "d": "check; confirmation; verification; affirmation",
+                "s": ""
+            },
+            {
+                "id": "ko-1569",
+                "w": "심각한",
+                "p": "simgakan",
+                "d": "serious",
+                "s": ""
+            },
+            {
+                "id": "ko-1570",
+                "w": "달라고",
+                "p": "dallago",
+                "d": "ask for it",
+                "s": ""
+            },
+            {
+                "id": "ko-1571",
+                "w": "것만",
+                "p": "geonman",
+                "d": "only",
+                "s": ""
+            },
+            {
+                "id": "ko-1572",
+                "w": "있기",
+                "p": "itgi",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1573",
+                "w": "그와",
+                "p": "geuwa",
+                "d": "with him",
+                "s": ""
+            },
+            {
+                "id": "ko-1574",
+                "w": "형사님",
+                "p": "hyeongsanim",
+                "d": "Detective",
+                "s": ""
+            },
+            {
+                "id": "ko-1575",
+                "w": "모르죠",
+                "p": "moreujyo",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1576",
+                "w": "몰랐어요",
+                "p": "mollasseoyo",
+                "d": "I didn't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1577",
+                "w": "결정을",
+                "p": "gyeoljeongeul",
+                "d": "make a decision",
+                "s": ""
+            },
+            {
+                "id": "ko-1578",
+                "w": "파티",
+                "p": "pati",
+                "d": "party (social gathering)",
+                "s": ""
+            },
+            {
+                "id": "ko-1579",
+                "w": "날이",
+                "p": "nari",
+                "d": "the day",
+                "s": ""
+            },
+            {
+                "id": "ko-1580",
+                "w": "최악의",
+                "p": "choeagui",
+                "d": "worst",
+                "s": ""
+            },
+            {
+                "id": "ko-1581",
+                "w": "많아요",
+                "p": "manayo",
+                "d": "many, much, a lot, plentiful",
+                "s": ""
+            },
+            {
+                "id": "ko-1582",
+                "w": "죄송하지만",
+                "p": "joesonghajiman",
+                "d": "Sorry but",
+                "s": ""
+            },
+            {
+                "id": "ko-1583",
+                "w": "있었는지",
+                "p": "isseonneunji",
+                "d": "Was there",
+                "s": ""
+            },
+            {
+                "id": "ko-1584",
+                "w": "미스터",
+                "p": "miseuteo",
+                "d": "Mr, mister (title)",
+                "s": ""
+            },
+            {
+                "id": "ko-1585",
+                "w": "평범한",
+                "p": "pyeongbeomhan",
+                "d": "ordinary",
+                "s": ""
+            },
+            {
+                "id": "ko-1586",
+                "w": "뜻이야",
+                "p": "tteusiya",
+                "d": "It means",
+                "s": ""
+            },
+            {
+                "id": "ko-1587",
+                "w": "올게",
+                "p": "olge",
+                "d": "I'll come",
+                "s": ""
+            },
+            {
+                "id": "ko-1588",
+                "w": "살인",
+                "p": "sarin",
+                "d": "murder, homicide",
+                "s": ""
+            },
+            {
+                "id": "ko-1589",
+                "w": "있겠죠",
+                "p": "itgetjyo",
+                "d": "There must be",
+                "s": ""
+            },
+            {
+                "id": "ko-1590",
+                "w": "들을",
+                "p": "deureul",
+                "d": "hear",
+                "s": ""
+            },
+            {
+                "id": "ko-1591",
+                "w": "믿어요",
+                "p": "mideoyo",
+                "d": "I believe it",
+                "s": ""
+            },
+            {
+                "id": "ko-1592",
+                "w": "우선",
+                "p": "useon",
+                "d": "First of all",
+                "s": ""
+            },
+            {
+                "id": "ko-1593",
+                "w": "마시고",
+                "p": "masigo",
+                "d": "to smash",
+                "s": ""
+            },
+            {
+                "id": "ko-1594",
+                "w": "당신들이",
+                "p": "dangsindeuri",
+                "d": "you guys",
+                "s": ""
+            },
+            {
+                "id": "ko-1595",
+                "w": "자네도",
+                "p": "janedo",
+                "d": "You too",
+                "s": ""
+            },
+            {
+                "id": "ko-1596",
+                "w": "혼자서",
+                "p": "honjaseo",
+                "d": "alone",
+                "s": ""
+            },
+            {
+                "id": "ko-1597",
+                "w": "심장",
+                "p": "simjang",
+                "d": "heart (an organ)",
+                "s": ""
+            },
+            {
+                "id": "ko-1598",
+                "w": "좋은데",
+                "p": "joeunde",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-1599",
+                "w": "그런거",
+                "p": "geureongeo",
+                "d": "Something like that",
+                "s": ""
+            },
+            {
+                "id": "ko-1600",
+                "w": "그들에게",
+                "p": "geudeurege",
+                "d": "to them",
+                "s": ""
+            },
+            {
+                "id": "ko-1601",
+                "w": "녀석이",
+                "p": "nyeoseogi",
+                "d": "This guy",
+                "s": ""
+            },
+            {
+                "id": "ko-1602",
+                "w": "하면서",
+                "p": "hamyeonseo",
+                "d": "While",
+                "s": ""
+            },
+            {
+                "id": "ko-1603",
+                "w": "좋아하지",
+                "p": "joahaji",
+                "d": "I don't like it",
+                "s": ""
+            },
+            {
+                "id": "ko-1604",
+                "w": "너희가",
+                "p": "neohuiga",
+                "d": "you guys",
+                "s": ""
+            },
+            {
+                "id": "ko-1605",
+                "w": "처음부터",
+                "p": "cheoeumbuteo",
+                "d": "from the beginning",
+                "s": ""
+            },
+            {
+                "id": "ko-1606",
+                "w": "심장이",
+                "p": "simjangi",
+                "d": "heart",
+                "s": ""
+            },
+            {
+                "id": "ko-1607",
+                "w": "보낼",
+                "p": "bonael",
+                "d": "send",
+                "s": ""
+            },
+            {
+                "id": "ko-1608",
+                "w": "가만",
+                "p": "gaman",
+                "d": "Still",
+                "s": ""
+            },
+            {
+                "id": "ko-1609",
+                "w": "않는다면",
+                "p": "anneundamyeon",
+                "d": "If not",
+                "s": ""
+            },
+            {
+                "id": "ko-1610",
+                "w": "심장을",
+                "p": "simjangeul",
+                "d": "heart",
+                "s": ""
+            },
+            {
+                "id": "ko-1611",
+                "w": "자넬",
+                "p": "janel",
+                "d": "Janelle",
+                "s": ""
+            },
+            {
+                "id": "ko-1612",
+                "w": "뭐라구요",
+                "p": "mworaguyo",
+                "d": "What?",
+                "s": ""
+            },
+            {
+                "id": "ko-1613",
+                "w": "갔다",
+                "p": "gatda",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-1614",
+                "w": "고양이",
+                "p": "goyangi",
+                "d": "cat",
+                "s": ""
+            },
+            {
+                "id": "ko-1615",
+                "w": "위치를",
+                "p": "wichireul",
+                "d": "location",
+                "s": ""
+            },
+            {
+                "id": "ko-1616",
+                "w": "첫번째",
+                "p": "cheotbeonjjae",
+                "d": "first",
+                "s": ""
+            },
+            {
+                "id": "ko-1617",
+                "w": "생각도",
+                "p": "saenggakdo",
+                "d": "Even thinking",
+                "s": ""
+            },
+            {
+                "id": "ko-1618",
+                "w": "동생",
+                "p": "dongsaeng",
+                "d": "younger sibling; friend who is somewhat younger",
+                "s": ""
+            },
+            {
+                "id": "ko-1619",
+                "w": "못했어",
+                "p": "motaesseo",
+                "d": "I couldn't do it",
+                "s": ""
+            },
+            {
+                "id": "ko-1620",
+                "w": "않았다",
+                "p": "anatda",
+                "d": "did",
+                "s": ""
+            },
+            {
+                "id": "ko-1621",
+                "w": "내버려",
+                "p": "naebeoryeo",
+                "d": "Leave it alone",
+                "s": ""
+            },
+            {
+                "id": "ko-1622",
+                "w": "진심으로",
+                "p": "jinsimeuro",
+                "d": "Sincerely",
+                "s": ""
+            },
+            {
+                "id": "ko-1623",
+                "w": "당연하죠",
+                "p": "dangyeonhajyo",
+                "d": "Of course",
+                "s": ""
+            },
+            {
+                "id": "ko-1624",
+                "w": "번도",
+                "p": "beondo",
+                "d": "Even",
+                "s": ""
+            },
+            {
+                "id": "ko-1625",
+                "w": "둘다",
+                "p": "dulda",
+                "d": "both",
+                "s": ""
+            },
+            {
+                "id": "ko-1626",
+                "w": "과장님",
+                "p": "gwajangnim",
+                "d": "Manager",
+                "s": ""
+            },
+            {
+                "id": "ko-1627",
+                "w": "중입니다",
+                "p": "jungimnida",
+                "d": "In progress",
+                "s": ""
+            },
+            {
+                "id": "ko-1628",
+                "w": "마침내",
+                "p": "machimnae",
+                "d": "finally; in the end.",
+                "s": ""
+            },
+            {
+                "id": "ko-1629",
+                "w": "씨가",
+                "p": "ssiga",
+                "d": "Mr.",
+                "s": ""
+            },
+            {
+                "id": "ko-1630",
+                "w": "검은",
+                "p": "geomeun",
+                "d": "black",
+                "s": ""
+            },
+            {
+                "id": "ko-1631",
+                "w": "오말리",
+                "p": "omalli",
+                "d": "O'Malley",
+                "s": ""
+            },
+            {
+                "id": "ko-1632",
+                "w": "봐도",
+                "p": "bwado",
+                "d": "Even if you look at it",
+                "s": ""
+            },
+            {
+                "id": "ko-1633",
+                "w": "적도",
+                "p": "jeokdo",
+                "d": "equator (circle around the earth)",
+                "s": ""
+            },
+            {
+                "id": "ko-1634",
+                "w": "아닐",
+                "p": "anil",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-1635",
+                "w": "다리",
+                "p": "dari",
+                "d": "bridge",
+                "s": ""
+            },
+            {
+                "id": "ko-1636",
+                "w": "무기를",
+                "p": "mugireul",
+                "d": "weapons",
+                "s": ""
+            },
+            {
+                "id": "ko-1637",
+                "w": "주면",
+                "p": "jumyeon",
+                "d": "If you give it",
+                "s": ""
+            },
+            {
+                "id": "ko-1638",
+                "w": "돌아",
+                "p": "dora",
+                "d": "turn around",
+                "s": ""
+            },
+            {
+                "id": "ko-1639",
+                "w": "릴리",
+                "p": "rilli",
+                "d": "lily",
+                "s": ""
+            },
+            {
+                "id": "ko-1640",
+                "w": "뭔가가",
+                "p": "mwongaga",
+                "d": "something",
+                "s": ""
+            },
+            {
+                "id": "ko-1641",
+                "w": "따로",
+                "p": "ttaro",
+                "d": "differently; separately",
+                "s": ""
+            },
+            {
+                "id": "ko-1642",
+                "w": "없으니까",
+                "p": "eopseunikka",
+                "d": "to have none; (to be) lacking; (to be) nonexistent",
+                "s": ""
+            },
+            {
+                "id": "ko-1643",
+                "w": "어디야",
+                "p": "eodiya",
+                "d": "Where are you",
+                "s": ""
+            },
+            {
+                "id": "ko-1644",
+                "w": "끝까지",
+                "p": "kkeutkkaji",
+                "d": "till the end",
+                "s": ""
+            },
+            {
+                "id": "ko-1645",
+                "w": "준비해",
+                "p": "junbihae",
+                "d": "get ready",
+                "s": ""
+            },
+            {
+                "id": "ko-1646",
+                "w": "카메라",
+                "p": "kamera",
+                "d": "camera (a device for taking still or moving pictures)",
+                "s": ""
+            },
+            {
+                "id": "ko-1647",
+                "w": "아무튼",
+                "p": "amuteun",
+                "d": "in any case, anyway, anyhow, at any rate",
+                "s": ""
+            },
+            {
+                "id": "ko-1648",
+                "w": "알다시피",
+                "p": "aldasipi",
+                "d": "As you know",
+                "s": ""
+            },
+            {
+                "id": "ko-1649",
+                "w": "죽으면",
+                "p": "jugeumyeon",
+                "d": "If I die",
+                "s": ""
+            },
+            {
+                "id": "ko-1650",
+                "w": "않죠",
+                "p": "anchyo",
+                "d": "Isn't it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1651",
+                "w": "만나",
+                "p": "manna",
+                "d": "meet",
+                "s": ""
+            },
+            {
+                "id": "ko-1652",
+                "w": "않나",
+                "p": "anna",
+                "d": "Isn’t it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1653",
+                "w": "아니라면",
+                "p": "aniramyeon",
+                "d": "If not",
+                "s": ""
+            },
+            {
+                "id": "ko-1654",
+                "w": "임마",
+                "p": "imma",
+                "d": "Dude",
+                "s": ""
+            },
+            {
+                "id": "ko-1655",
+                "w": "중이에요",
+                "p": "jungieyo",
+                "d": "I'm in the middle of it",
+                "s": ""
+            },
+            {
+                "id": "ko-1656",
+                "w": "누군가를",
+                "p": "nugungareul",
+                "d": "someone",
+                "s": ""
+            },
+            {
+                "id": "ko-1657",
+                "w": "있을지",
+                "p": "isseulji",
+                "d": "Will there be",
+                "s": ""
+            },
+            {
+                "id": "ko-1658",
+                "w": "있단",
+                "p": "itdan",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1659",
+                "w": "돌아와",
+                "p": "dorawa",
+                "d": "Come back",
+                "s": ""
+            },
+            {
+                "id": "ko-1660",
+                "w": "메리",
+                "p": "meri",
+                "d": "mary",
+                "s": ""
+            },
+            {
+                "id": "ko-1661",
+                "w": "보자고",
+                "p": "bojago",
+                "d": "Let's see",
+                "s": ""
+            },
+            {
+                "id": "ko-1662",
+                "w": "돼서",
+                "p": "dwaeseo",
+                "d": "It's done",
+                "s": ""
+            },
+            {
+                "id": "ko-1663",
+                "w": "들어갈",
+                "p": "deureogal",
+                "d": "go in",
+                "s": ""
+            },
+            {
+                "id": "ko-1664",
+                "w": "않지",
+                "p": "anchi",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-1665",
+                "w": "목을",
+                "p": "mogeul",
+                "d": "neck",
+                "s": ""
+            },
+            {
+                "id": "ko-1666",
+                "w": "마크",
+                "p": "makeu",
+                "d": "mark",
+                "s": ""
+            },
+            {
+                "id": "ko-1667",
+                "w": "정도는",
+                "p": "jeongdoneun",
+                "d": "To some extent",
+                "s": ""
+            },
+            {
+                "id": "ko-1668",
+                "w": "아는데",
+                "p": "aneunde",
+                "d": "I know",
+                "s": ""
+            },
+            {
+                "id": "ko-1669",
+                "w": "게임",
+                "p": "geim",
+                "d": "game, especially computer games.",
+                "s": ""
+            },
+            {
+                "id": "ko-1670",
+                "w": "강한",
+                "p": "ganghan",
+                "d": "realis adnominal of 강하다 (ganghada, “strong, powerful”)",
+                "s": ""
+            },
+            {
+                "id": "ko-1671",
+                "w": "정말이야",
+                "p": "jeongmariya",
+                "d": "Really",
+                "s": ""
+            },
+            {
+                "id": "ko-1672",
+                "w": "받는",
+                "p": "banneun",
+                "d": "receiving",
+                "s": ""
+            },
+            {
+                "id": "ko-1673",
+                "w": "물건을",
+                "p": "mulgeoneul",
+                "d": "stuff",
+                "s": ""
+            },
+            {
+                "id": "ko-1674",
+                "w": "무서워",
+                "p": "museowo",
+                "d": "I'm scared",
+                "s": ""
+            },
+            {
+                "id": "ko-1675",
+                "w": "것으로",
+                "p": "geoseuro",
+                "d": "as",
+                "s": ""
+            },
+            {
+                "id": "ko-1676",
+                "w": "얘기할",
+                "p": "yaegihal",
+                "d": "to talk about",
+                "s": ""
+            },
+            {
+                "id": "ko-1677",
+                "w": "싶었어요",
+                "p": "sipeosseoyo",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-1678",
+                "w": "수정",
+                "p": "sujeong",
+                "d": "crystal",
+                "s": ""
+            },
+            {
+                "id": "ko-1679",
+                "w": "걱정하지",
+                "p": "geokjeonghaji",
+                "d": "Don't worry",
+                "s": ""
+            },
+            {
+                "id": "ko-1680",
+                "w": "뭐에요",
+                "p": "mwoeyo",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-1681",
+                "w": "제길",
+                "p": "jegil",
+                "d": "Damn it",
+                "s": ""
+            },
+            {
+                "id": "ko-1682",
+                "w": "가치가",
+                "p": "gachiga",
+                "d": "worth it",
+                "s": ""
+            },
+            {
+                "id": "ko-1683",
+                "w": "말인지",
+                "p": "marinji",
+                "d": "Is it true?",
+                "s": ""
+            },
+            {
+                "id": "ko-1684",
+                "w": "수술이",
+                "p": "susuri",
+                "d": "surgery",
+                "s": ""
+            },
+            {
+                "id": "ko-1685",
+                "w": "없다면",
+                "p": "eopdamyeon",
+                "d": "If not",
+                "s": ""
+            },
+            {
+                "id": "ko-1686",
+                "w": "톰",
+                "p": "tom",
+                "d": "tom",
+                "s": ""
+            },
+            {
+                "id": "ko-1687",
+                "w": "클라라",
+                "p": "keullara",
+                "d": "Clara",
+                "s": ""
+            },
+            {
+                "id": "ko-1688",
+                "w": "삼촌",
+                "p": "samchon",
+                "d": "uncle; male sibling of a parent",
+                "s": ""
+            },
+            {
+                "id": "ko-1689",
+                "w": "찾은",
+                "p": "chajeun",
+                "d": "found",
+                "s": ""
+            },
+            {
+                "id": "ko-1690",
+                "w": "질문",
+                "p": "jilmun",
+                "d": "a question",
+                "s": ""
+            },
+            {
+                "id": "ko-1691",
+                "w": "저들이",
+                "p": "jeodeuri",
+                "d": "They",
+                "s": ""
+            },
+            {
+                "id": "ko-1692",
+                "w": "서로를",
+                "p": "seororeul",
+                "d": "each other",
+                "s": ""
+            },
+            {
+                "id": "ko-1693",
+                "w": "얼굴이",
+                "p": "eolguri",
+                "d": "The face",
+                "s": ""
+            },
+            {
+                "id": "ko-1694",
+                "w": "아무래도",
+                "p": "amuraedo",
+                "d": "no matter what; anyway; never",
+                "s": ""
+            },
+            {
+                "id": "ko-1695",
+                "w": "당신들은",
+                "p": "dangsindeureun",
+                "d": "You guys",
+                "s": ""
+            },
+            {
+                "id": "ko-1696",
+                "w": "사건을",
+                "p": "sageoneul",
+                "d": "incident",
+                "s": ""
+            },
+            {
+                "id": "ko-1697",
+                "w": "됐죠",
+                "p": "dwaetjyo",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-1698",
+                "w": "꿈",
+                "p": "kkum",
+                "d": "dream",
+                "s": ""
+            },
+            {
+                "id": "ko-1699",
+                "w": "입은",
+                "p": "ibeun",
+                "d": "dressed",
+                "s": ""
+            },
+            {
+                "id": "ko-1700",
+                "w": "받았어",
+                "p": "badasseo",
+                "d": "I got it",
+                "s": ""
+            },
+            {
+                "id": "ko-1701",
+                "w": "할수",
+                "p": "halsu",
+                "d": "can do",
+                "s": ""
+            },
+            {
+                "id": "ko-1702",
+                "w": "빠져",
+                "p": "ppajyeo",
+                "d": "Fall in love",
+                "s": ""
+            },
+            {
+                "id": "ko-1703",
+                "w": "물을",
+                "p": "mureul",
+                "d": "water",
+                "s": ""
+            },
+            {
+                "id": "ko-1704",
+                "w": "아기가",
+                "p": "agiga",
+                "d": "baby",
+                "s": ""
+            },
+            {
+                "id": "ko-1705",
+                "w": "닉",
+                "p": "nik",
+                "d": "a shortening of 닉네임 (ningneim).",
+                "s": ""
+            },
+            {
+                "id": "ko-1706",
+                "w": "것과",
+                "p": "geotgwa",
+                "d": "and",
+                "s": ""
+            },
+            {
+                "id": "ko-1707",
+                "w": "명령을",
+                "p": "myeongnyeongeul",
+                "d": "command",
+                "s": ""
+            },
+            {
+                "id": "ko-1708",
+                "w": "부터",
+                "p": "buteo",
+                "d": "from",
+                "s": ""
+            },
+            {
+                "id": "ko-1709",
+                "w": "거라면",
+                "p": "georamyeon",
+                "d": "If it is",
+                "s": ""
+            },
+            {
+                "id": "ko-1710",
+                "w": "죽이는",
+                "p": "jugineun",
+                "d": "killing",
+                "s": ""
+            },
+            {
+                "id": "ko-1711",
+                "w": "정신이",
+                "p": "jeongsini",
+                "d": "out of mind",
+                "s": ""
+            },
+            {
+                "id": "ko-1712",
+                "w": "아파",
+                "p": "apa",
+                "d": "to be painful, to hurt",
+                "s": ""
+            },
+            {
+                "id": "ko-1713",
+                "w": "모르겠네",
+                "p": "moreugenne",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1714",
+                "w": "똑같이",
+                "p": "ttokgachi",
+                "d": "equally, evenly; impartially",
+                "s": ""
+            },
+            {
+                "id": "ko-1715",
+                "w": "꽤나",
+                "p": "kkwaena",
+                "d": "Quite a bit",
+                "s": ""
+            },
+            {
+                "id": "ko-1716",
+                "w": "되잖아",
+                "p": "doejana",
+                "d": "It works",
+                "s": ""
+            },
+            {
+                "id": "ko-1717",
+                "w": "형이",
+                "p": "hyeongi",
+                "d": "My brother",
+                "s": ""
+            },
+            {
+                "id": "ko-1718",
+                "w": "밑에",
+                "p": "mite",
+                "d": "under",
+                "s": ""
+            },
+            {
+                "id": "ko-1719",
+                "w": "아니었어요",
+                "p": "anieosseoyo",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-1720",
+                "w": "어렸을",
+                "p": "eoryeosseul",
+                "d": "I was young",
+                "s": ""
+            },
+            {
+                "id": "ko-1721",
+                "w": "말했어요",
+                "p": "malhaesseoyo",
+                "d": "I said",
+                "s": ""
+            },
+            {
+                "id": "ko-1722",
+                "w": "그만해요",
+                "p": "geumanhaeyo",
+                "d": "Stop it",
+                "s": ""
+            },
+            {
+                "id": "ko-1723",
+                "w": "에서",
+                "p": "eseo",
+                "d": "in",
+                "s": ""
+            },
+            {
+                "id": "ko-1724",
+                "w": "학교에",
+                "p": "hakgyoe",
+                "d": "to school",
+                "s": ""
+            },
+            {
+                "id": "ko-1725",
+                "w": "아무런",
+                "p": "amureon",
+                "d": "of any sort whatsoever; any",
+                "s": ""
+            },
+            {
+                "id": "ko-1726",
+                "w": "글로리아",
+                "p": "geulloria",
+                "d": "Gloria",
+                "s": ""
+            },
+            {
+                "id": "ko-1727",
+                "w": "반",
+                "p": "ban",
+                "d": "half",
+                "s": ""
+            },
+            {
+                "id": "ko-1728",
+                "w": "아이들이",
+                "p": "aideuri",
+                "d": "children",
+                "s": ""
+            },
+            {
+                "id": "ko-1729",
+                "w": "그리곤",
+                "p": "geurigon",
+                "d": "And then",
+                "s": ""
+            },
+            {
+                "id": "ko-1730",
+                "w": "거냐",
+                "p": "geonya",
+                "d": "Are you going?",
+                "s": ""
+            },
+            {
+                "id": "ko-1731",
+                "w": "한데",
+                "p": "hande",
+                "d": "But",
+                "s": ""
+            },
+            {
+                "id": "ko-1732",
+                "w": "아버지의",
+                "p": "abeojiui",
+                "d": "father's",
+                "s": ""
+            },
+            {
+                "id": "ko-1733",
+                "w": "받지",
+                "p": "batji",
+                "d": "I don't get it",
+                "s": ""
+            },
+            {
+                "id": "ko-1734",
+                "w": "일하고",
+                "p": "ilhago",
+                "d": "working",
+                "s": ""
+            },
+            {
+                "id": "ko-1735",
+                "w": "말이오",
+                "p": "mario",
+                "d": "I mean",
+                "s": ""
+            },
+            {
+                "id": "ko-1736",
+                "w": "없나요",
+                "p": "eomnayo",
+                "d": "Isn't there",
+                "s": ""
+            },
+            {
+                "id": "ko-1737",
+                "w": "원한다면",
+                "p": "wonhandamyeon",
+                "d": "if you want",
+                "s": ""
+            },
+            {
+                "id": "ko-1738",
+                "w": "생각할",
+                "p": "saenggakal",
+                "d": "think about",
+                "s": ""
+            },
+            {
+                "id": "ko-1739",
+                "w": "버려",
+                "p": "beoryeo",
+                "d": "Throw it away",
+                "s": ""
+            },
+            {
+                "id": "ko-1740",
+                "w": "즉시",
+                "p": "jeuksi",
+                "d": "immediately, promptly",
+                "s": ""
+            },
+            {
+                "id": "ko-1741",
+                "w": "거대한",
+                "p": "geodaehan",
+                "d": "huge",
+                "s": ""
+            },
+            {
+                "id": "ko-1742",
+                "w": "가봐",
+                "p": "gabwa",
+                "d": "Go",
+                "s": ""
+            },
+            {
+                "id": "ko-1743",
+                "w": "발",
+                "p": "bal",
+                "d": "foot",
+                "s": ""
+            },
+            {
+                "id": "ko-1744",
+                "w": "들어가서",
+                "p": "deureogaseo",
+                "d": "go in",
+                "s": ""
+            },
+            {
+                "id": "ko-1745",
+                "w": "시작",
+                "p": "sijak",
+                "d": "start, beginning",
+                "s": ""
+            },
+            {
+                "id": "ko-1746",
+                "w": "사람에게",
+                "p": "saramege",
+                "d": "to people",
+                "s": ""
+            },
+            {
+                "id": "ko-1747",
+                "w": "내놔",
+                "p": "naenwa",
+                "d": "Give it to me",
+                "s": ""
+            },
+            {
+                "id": "ko-1748",
+                "w": "행복한",
+                "p": "haengbokan",
+                "d": "happy",
+                "s": ""
+            },
+            {
+                "id": "ko-1749",
+                "w": "나머지",
+                "p": "nameoji",
+                "d": "the rest, remainder, what is left over; so... that (typically for verbs and adjectives of emotion)",
+                "s": ""
+            },
+            {
+                "id": "ko-1750",
+                "w": "윌",
+                "p": "wil",
+                "d": "Will",
+                "s": ""
+            },
+            {
+                "id": "ko-1751",
+                "w": "도와",
+                "p": "dowa",
+                "d": "help",
+                "s": ""
+            },
+            {
+                "id": "ko-1752",
+                "w": "노래를",
+                "p": "noraereul",
+                "d": "sing a song",
+                "s": ""
+            },
+            {
+                "id": "ko-1753",
+                "w": "왔는데",
+                "p": "wanneunde",
+                "d": "I came",
+                "s": ""
+            },
+            {
+                "id": "ko-1754",
+                "w": "요원",
+                "p": "yowon",
+                "d": "personnel",
+                "s": ""
+            },
+            {
+                "id": "ko-1755",
+                "w": "되게",
+                "p": "doege",
+                "d": "very, extremely, terribly, awfully",
+                "s": ""
+            },
+            {
+                "id": "ko-1756",
+                "w": "누구죠",
+                "p": "nugujyo",
+                "d": "who is it",
+                "s": ""
+            },
+            {
+                "id": "ko-1757",
+                "w": "얼굴에",
+                "p": "eolgure",
+                "d": "on the face",
+                "s": ""
+            },
+            {
+                "id": "ko-1758",
+                "w": "하실",
+                "p": "hasil",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-1759",
+                "w": "환영합니다",
+                "p": "hwanyeonghamnida",
+                "d": "welcome",
+                "s": ""
+            },
+            {
+                "id": "ko-1760",
+                "w": "걸까",
+                "p": "geolkka",
+                "d": "Is it",
+                "s": ""
+            },
+            {
+                "id": "ko-1761",
+                "w": "되겠지",
+                "p": "doegetji",
+                "d": "It will work",
+                "s": ""
+            },
+            {
+                "id": "ko-1762",
+                "w": "괜찮지",
+                "p": "gwaenchanchi",
+                "d": "It's okay",
+                "s": ""
+            },
+            {
+                "id": "ko-1763",
+                "w": "하던",
+                "p": "hadeon",
+                "d": "used to",
+                "s": ""
+            },
+            {
+                "id": "ko-1764",
+                "w": "아내를",
+                "p": "anaereul",
+                "d": "wife",
+                "s": ""
+            },
+            {
+                "id": "ko-1765",
+                "w": "놈의",
+                "p": "nomui",
+                "d": "bastard",
+                "s": ""
+            },
+            {
+                "id": "ko-1766",
+                "w": "미쳤어",
+                "p": "michyeosseo",
+                "d": "I'm crazy",
+                "s": ""
+            },
+            {
+                "id": "ko-1767",
+                "w": "이것도",
+                "p": "igeotdo",
+                "d": "This too",
+                "s": ""
+            },
+            {
+                "id": "ko-1768",
+                "w": "일부러",
+                "p": "ilbureo",
+                "d": "deliberately, intentionally, on purpose",
+                "s": ""
+            },
+            {
+                "id": "ko-1769",
+                "w": "혹은",
+                "p": "hogeun",
+                "d": "or (if not); or else",
+                "s": ""
+            },
+            {
+                "id": "ko-1770",
+                "w": "나올",
+                "p": "naol",
+                "d": "come out",
+                "s": ""
+            },
+            {
+                "id": "ko-1771",
+                "w": "찾으러",
+                "p": "chajeureo",
+                "d": "To find it",
+                "s": ""
+            },
+            {
+                "id": "ko-1772",
+                "w": "걔는",
+                "p": "gyaeneun",
+                "d": "He is",
+                "s": ""
+            },
+            {
+                "id": "ko-1773",
+                "w": "잡을",
+                "p": "jabeul",
+                "d": "catch",
+                "s": ""
+            },
+            {
+                "id": "ko-1774",
+                "w": "똑바로",
+                "p": "ttokbaro",
+                "d": "straight, upright, even; correctly, properly",
+                "s": ""
+            },
+            {
+                "id": "ko-1775",
+                "w": "얻을",
+                "p": "eodeul",
+                "d": "get",
+                "s": ""
+            },
+            {
+                "id": "ko-1776",
+                "w": "이해해",
+                "p": "ihaehae",
+                "d": "I understand",
+                "s": ""
+            },
+            {
+                "id": "ko-1777",
+                "w": "무지",
+                "p": "muji",
+                "d": "ignorance",
+                "s": ""
+            },
+            {
+                "id": "ko-1778",
+                "w": "쪽으로",
+                "p": "jjogeuro",
+                "d": "toward",
+                "s": ""
+            },
+            {
+                "id": "ko-1779",
+                "w": "무슨일이",
+                "p": "museuniri",
+                "d": "what happened",
+                "s": ""
+            },
+            {
+                "id": "ko-1780",
+                "w": "이해할",
+                "p": "ihaehal",
+                "d": "understand",
+                "s": ""
+            },
+            {
+                "id": "ko-1781",
+                "w": "친구야",
+                "p": "chinguya",
+                "d": "Hey friend",
+                "s": ""
+            },
+            {
+                "id": "ko-1782",
+                "w": "어머니가",
+                "p": "eomeoniga",
+                "d": "mother",
+                "s": ""
+            },
+            {
+                "id": "ko-1783",
+                "w": "질문을",
+                "p": "jilmuneul",
+                "d": "ask a question",
+                "s": ""
+            },
+            {
+                "id": "ko-1784",
+                "w": "워",
+                "p": "wo",
+                "d": "Whoa",
+                "s": ""
+            },
+            {
+                "id": "ko-1785",
+                "w": "엎드려",
+                "p": "eopdeuryeo",
+                "d": "Lie down",
+                "s": ""
+            },
+            {
+                "id": "ko-1786",
+                "w": "있단다",
+                "p": "itdanda",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1787",
+                "w": "너희들이",
+                "p": "neohuideuri",
+                "d": "You guys",
+                "s": ""
+            },
+            {
+                "id": "ko-1788",
+                "w": "놈들",
+                "p": "nomdeul",
+                "d": "bastards",
+                "s": ""
+            },
+            {
+                "id": "ko-1789",
+                "w": "병원에서",
+                "p": "byeongwoneseo",
+                "d": "at the hospital",
+                "s": ""
+            },
+            {
+                "id": "ko-1790",
+                "w": "친구는",
+                "p": "chinguneun",
+                "d": "Friends are",
+                "s": ""
+            },
+            {
+                "id": "ko-1791",
+                "w": "믿는",
+                "p": "minneun",
+                "d": "believe",
+                "s": ""
+            },
+            {
+                "id": "ko-1792",
+                "w": "회사",
+                "p": "hoesa",
+                "d": "a company",
+                "s": ""
+            },
+            {
+                "id": "ko-1793",
+                "w": "떨어진",
+                "p": "tteoreojin",
+                "d": "fell",
+                "s": ""
+            },
+            {
+                "id": "ko-1794",
+                "w": "간에",
+                "p": "gane",
+                "d": "Between",
+                "s": ""
+            },
+            {
+                "id": "ko-1795",
+                "w": "쪽",
+                "p": "jjok",
+                "d": "side; direction of approach or movement",
+                "s": ""
+            },
+            {
+                "id": "ko-1796",
+                "w": "다야",
+                "p": "daya",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-1797",
+                "w": "선물",
+                "p": "seonmul",
+                "d": "gift; present",
+                "s": ""
+            },
+            {
+                "id": "ko-1798",
+                "w": "안되는",
+                "p": "andoeneun",
+                "d": "It doesn't work",
+                "s": ""
+            },
+            {
+                "id": "ko-1799",
+                "w": "찾아서",
+                "p": "chajaseo",
+                "d": "find",
+                "s": ""
+            },
+            {
+                "id": "ko-1800",
+                "w": "전쟁을",
+                "p": "jeonjaengeul",
+                "d": "war",
+                "s": ""
+            },
+            {
+                "id": "ko-1801",
+                "w": "친구들이",
+                "p": "chingudeuri",
+                "d": "friends",
+                "s": ""
+            },
+            {
+                "id": "ko-1802",
+                "w": "마이클",
+                "p": "maikeul",
+                "d": "michael",
+                "s": ""
+            },
+            {
+                "id": "ko-1803",
+                "w": "싸울",
+                "p": "ssaul",
+                "d": "to fight or struggle",
+                "s": ""
+            },
+            {
+                "id": "ko-1804",
+                "w": "만나고",
+                "p": "mannago",
+                "d": "meet",
+                "s": ""
+            },
+            {
+                "id": "ko-1805",
+                "w": "기다리는",
+                "p": "gidarineun",
+                "d": "to wait for, to await; to look forward to",
+                "s": ""
+            },
+            {
+                "id": "ko-1806",
+                "w": "쉬운",
+                "p": "swiun",
+                "d": "easy",
+                "s": ""
+            },
+            {
+                "id": "ko-1807",
+                "w": "매니",
+                "p": "maeni",
+                "d": "Manny",
+                "s": ""
+            },
+            {
+                "id": "ko-1808",
+                "w": "말로는",
+                "p": "malloneun",
+                "d": "In words",
+                "s": ""
+            },
+            {
+                "id": "ko-1809",
+                "w": "관심이",
+                "p": "gwansimi",
+                "d": "interested",
+                "s": ""
+            },
+            {
+                "id": "ko-1810",
+                "w": "에이미",
+                "p": "eimi",
+                "d": "Amy",
+                "s": ""
+            },
+            {
+                "id": "ko-1811",
+                "w": "사람이에요",
+                "p": "saramieyo",
+                "d": "It's a person",
+                "s": ""
+            },
+            {
+                "id": "ko-1812",
+                "w": "끝난",
+                "p": "kkeunnan",
+                "d": "finished",
+                "s": ""
+            },
+            {
+                "id": "ko-1813",
+                "w": "원치",
+                "p": "wonchi",
+                "d": "winch (machine)",
+                "s": ""
+            },
+            {
+                "id": "ko-1814",
+                "w": "재밌는",
+                "p": "jaeminneun",
+                "d": "contraction of 재미있다 (jaemiitda)",
+                "s": ""
+            },
+            {
+                "id": "ko-1815",
+                "w": "말인데",
+                "p": "marinde",
+                "d": "Speaking of which",
+                "s": ""
+            },
+            {
+                "id": "ko-1816",
+                "w": "그렇겠지",
+                "p": "geureoketji",
+                "d": "I guess so",
+                "s": ""
+            },
+            {
+                "id": "ko-1817",
+                "w": "피",
+                "p": "pi",
+                "d": "blood",
+                "s": ""
+            },
+            {
+                "id": "ko-1818",
+                "w": "예전에",
+                "p": "yejeone",
+                "d": "In the past",
+                "s": ""
+            },
+            {
+                "id": "ko-1819",
+                "w": "건배",
+                "p": "geonbae",
+                "d": "cheers!; bottoms up!",
+                "s": ""
+            },
+            {
+                "id": "ko-1820",
+                "w": "뭔데요",
+                "p": "mwondeyo",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-1821",
+                "w": "알면",
+                "p": "almyeon",
+                "d": "If you know",
+                "s": ""
+            },
+            {
+                "id": "ko-1822",
+                "w": "엄마도",
+                "p": "eommado",
+                "d": "Mom too",
+                "s": ""
+            },
+            {
+                "id": "ko-1823",
+                "w": "것들이",
+                "p": "geotdeuri",
+                "d": "things",
+                "s": ""
+            },
+            {
+                "id": "ko-1824",
+                "w": "하려는",
+                "p": "haryeoneun",
+                "d": "want to",
+                "s": ""
+            },
+            {
+                "id": "ko-1825",
+                "w": "맨날",
+                "p": "maennal",
+                "d": "daily, every day",
+                "s": ""
+            },
+            {
+                "id": "ko-1826",
+                "w": "있군",
+                "p": "itgun",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1827",
+                "w": "물러서",
+                "p": "mulleoseo",
+                "d": "Step back",
+                "s": ""
+            },
+            {
+                "id": "ko-1828",
+                "w": "숨",
+                "p": "sum",
+                "d": "breath, breathing; liveliness, spirit, vigor",
+                "s": ""
+            },
+            {
+                "id": "ko-1829",
+                "w": "팔",
+                "p": "pal",
+                "d": "arm",
+                "s": ""
+            },
+            {
+                "id": "ko-1830",
+                "w": "더러운",
+                "p": "deoreoun",
+                "d": "dirty",
+                "s": ""
+            },
+            {
+                "id": "ko-1831",
+                "w": "옳은",
+                "p": "oreun",
+                "d": "correct",
+                "s": ""
+            },
+            {
+                "id": "ko-1832",
+                "w": "출혈이",
+                "p": "chulhyeori",
+                "d": "bleeding",
+                "s": ""
+            },
+            {
+                "id": "ko-1833",
+                "w": "즐거운",
+                "p": "jeulgeoun",
+                "d": "enjoyable",
+                "s": ""
+            },
+            {
+                "id": "ko-1834",
+                "w": "다음엔",
+                "p": "daeumen",
+                "d": "Next time",
+                "s": ""
+            },
+            {
+                "id": "ko-1835",
+                "w": "뭐해",
+                "p": "mwohae",
+                "d": "What are you doing",
+                "s": ""
+            },
+            {
+                "id": "ko-1836",
+                "w": "준비됐어",
+                "p": "junbidwaesseo",
+                "d": "I'm ready",
+                "s": ""
+            },
+            {
+                "id": "ko-1837",
+                "w": "검사",
+                "p": "geomsa",
+                "d": "examination",
+                "s": ""
+            },
+            {
+                "id": "ko-1838",
+                "w": "제기랄",
+                "p": "jegiral",
+                "d": "damn it!; shoot!",
+                "s": ""
+            },
+            {
+                "id": "ko-1839",
+                "w": "길이",
+                "p": "giri",
+                "d": "length",
+                "s": ""
+            },
+            {
+                "id": "ko-1840",
+                "w": "나만",
+                "p": "naman",
+                "d": "Just me",
+                "s": ""
+            },
+            {
+                "id": "ko-1841",
+                "w": "있고요",
+                "p": "itgoyo",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1842",
+                "w": "이것은",
+                "p": "igeoseun",
+                "d": "This is",
+                "s": ""
+            },
+            {
+                "id": "ko-1843",
+                "w": "좋겠다",
+                "p": "joketda",
+                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
+                "s": ""
+            },
+            {
+                "id": "ko-1844",
+                "w": "전에도",
+                "p": "jeonedo",
+                "d": "Even before",
+                "s": ""
+            },
+            {
+                "id": "ko-1845",
+                "w": "함장님",
+                "p": "hamjangnim",
+                "d": "Captain",
+                "s": ""
+            },
+            {
+                "id": "ko-1846",
+                "w": "나쁘지",
+                "p": "nappeuji",
+                "d": "bad",
+                "s": ""
+            },
+            {
+                "id": "ko-1847",
+                "w": "관해",
+                "p": "gwanhae",
+                "d": "About",
+                "s": ""
+            },
+            {
+                "id": "ko-1848",
+                "w": "원",
+                "p": "won",
+                "d": "won; the official currency of South Korea, sign = ₩ (KRW); won; the official currency of North Korea, sign = ₩ (KPW)",
+                "s": ""
+            },
+            {
+                "id": "ko-1849",
+                "w": "죽음을",
+                "p": "jugeumeul",
+                "d": "death",
+                "s": ""
+            },
+            {
+                "id": "ko-1850",
+                "w": "사람들의",
+                "p": "saramdeurui",
+                "d": "of people",
+                "s": ""
+            },
+            {
+                "id": "ko-1851",
+                "w": "해라",
+                "p": "haera",
+                "d": "do, make, act",
+                "s": ""
+            },
+            {
+                "id": "ko-1852",
+                "w": "알잖아요",
+                "p": "aljanayo",
+                "d": "You know",
+                "s": ""
+            },
+            {
+                "id": "ko-1853",
+                "w": "거란",
+                "p": "georan",
+                "d": "Khitan",
+                "s": ""
+            },
+            {
+                "id": "ko-1854",
+                "w": "다리를",
+                "p": "darireul",
+                "d": "legs",
+                "s": ""
+            },
+            {
+                "id": "ko-1855",
+                "w": "어젯밤에",
+                "p": "eojetbame",
+                "d": "last night",
+                "s": ""
+            },
+            {
+                "id": "ko-1856",
+                "w": "보내고",
+                "p": "bonaego",
+                "d": "send",
+                "s": ""
+            },
+            {
+                "id": "ko-1857",
+                "w": "쟤가",
+                "p": "jyaega",
+                "d": "He is",
+                "s": ""
+            },
+            {
+                "id": "ko-1858",
+                "w": "오후",
+                "p": "ohu",
+                "d": "p.m.; afternoon",
+                "s": ""
+            },
+            {
+                "id": "ko-1859",
+                "w": "영향을",
+                "p": "yeonghyangeul",
+                "d": "influence",
+                "s": ""
+            },
+            {
+                "id": "ko-1860",
+                "w": "바라는",
+                "p": "baraneun",
+                "d": "wishing",
+                "s": ""
+            },
+            {
+                "id": "ko-1861",
+                "w": "만나러",
+                "p": "mannareo",
+                "d": "to meet",
+                "s": ""
+            },
+            {
+                "id": "ko-1862",
+                "w": "이러는",
+                "p": "ireoneun",
+                "d": "to do this; to act in this way; to say this",
+                "s": ""
+            },
+            {
+                "id": "ko-1863",
+                "w": "다음은",
+                "p": "daeumeun",
+                "d": "Next is",
+                "s": ""
+            },
+            {
+                "id": "ko-1864",
+                "w": "보죠",
+                "p": "bojyo",
+                "d": "Let's see",
+                "s": ""
+            },
+            {
+                "id": "ko-1865",
+                "w": "말해야",
+                "p": "malhaeya",
+                "d": "I have to say",
+                "s": ""
+            },
+            {
+                "id": "ko-1866",
+                "w": "몸에",
+                "p": "mome",
+                "d": "on the body",
+                "s": ""
+            },
+            {
+                "id": "ko-1867",
+                "w": "아빠한테",
+                "p": "appahante",
+                "d": "To dad",
+                "s": ""
+            },
+            {
+                "id": "ko-1868",
+                "w": "약속을",
+                "p": "yaksogeul",
+                "d": "promise",
+                "s": ""
+            },
+            {
+                "id": "ko-1869",
+                "w": "드릴게요",
+                "p": "deurilgeyo",
+                "d": "I'll give it to you",
+                "s": ""
+            },
+            {
+                "id": "ko-1870",
+                "w": "미안하다",
+                "p": "mianhada",
+                "d": "I'm sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-1871",
+                "w": "바람",
+                "p": "baram",
+                "d": "wind, air, draft; fad; vogue",
+                "s": ""
+            },
+            {
+                "id": "ko-1872",
+                "w": "있다고요",
+                "p": "itdagoyo",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-1873",
+                "w": "은",
+                "p": "eun",
+                "d": "silver",
+                "s": ""
+            },
+            {
+                "id": "ko-1874",
+                "w": "하나를",
+                "p": "hanareul",
+                "d": "one",
+                "s": ""
+            },
+            {
+                "id": "ko-1875",
+                "w": "최소한",
+                "p": "choesohan",
+                "d": "at least",
+                "s": ""
+            },
+            {
+                "id": "ko-1876",
+                "w": "전하",
+                "p": "jeonha",
+                "d": "Highness (form of address)",
+                "s": ""
+            },
+            {
+                "id": "ko-1877",
+                "w": "조니",
+                "p": "joni",
+                "d": "Johnny",
+                "s": ""
+            },
+            {
+                "id": "ko-1878",
+                "w": "발사",
+                "p": "balsa",
+                "d": "launch, discharge, fire, shoot",
+                "s": ""
+            },
+            {
+                "id": "ko-1879",
+                "w": "무서운",
+                "p": "museoun",
+                "d": "scary",
+                "s": ""
+            },
+            {
+                "id": "ko-1880",
+                "w": "못하고",
+                "p": "motago",
+                "d": "I can't",
+                "s": ""
+            },
+            {
+                "id": "ko-1881",
+                "w": "이길",
+                "p": "igil",
+                "d": "beat",
+                "s": ""
+            },
+            {
+                "id": "ko-1882",
+                "w": "일어날",
+                "p": "ireonal",
+                "d": "wake up",
+                "s": ""
+            },
+            {
+                "id": "ko-1883",
+                "w": "말하자면",
+                "p": "malhajamyeon",
+                "d": "So to speak",
+                "s": ""
+            },
+            {
+                "id": "ko-1884",
+                "w": "까지",
+                "p": "kkaji",
+                "d": "until",
+                "s": ""
+            },
+            {
+                "id": "ko-1885",
+                "w": "나보다",
+                "p": "naboda",
+                "d": "than me",
+                "s": ""
+            },
+            {
+                "id": "ko-1886",
+                "w": "둘은",
+                "p": "dureun",
+                "d": "The two",
+                "s": ""
+            },
+            {
+                "id": "ko-1887",
+                "w": "놈들은",
+                "p": "nomdeureun",
+                "d": "They are",
+                "s": ""
+            },
+            {
+                "id": "ko-1888",
+                "w": "능력을",
+                "p": "neungnyeogeul",
+                "d": "ability",
+                "s": ""
+            },
+            {
+                "id": "ko-1889",
+                "w": "차에서",
+                "p": "chaeseo",
+                "d": "in the car",
+                "s": ""
+            },
+            {
+                "id": "ko-1890",
+                "w": "않네",
+                "p": "anne",
+                "d": "It's not",
+                "s": ""
+            },
+            {
+                "id": "ko-1891",
+                "w": "생각했어요",
+                "p": "saenggakaesseoyo",
+                "d": "I thought",
+                "s": ""
+            },
+            {
+                "id": "ko-1892",
+                "w": "그랬죠",
+                "p": "geuraetjyo",
+                "d": "It was like that",
+                "s": ""
+            },
+            {
+                "id": "ko-1893",
+                "w": "상처를",
+                "p": "sangcheoreul",
+                "d": "hurt",
+                "s": ""
+            },
+            {
+                "id": "ko-1894",
+                "w": "생겼어",
+                "p": "saenggyeosseo",
+                "d": "It looks like",
+                "s": ""
+            },
+            {
+                "id": "ko-1895",
+                "w": "물이",
+                "p": "muri",
+                "d": "water",
+                "s": ""
+            },
+            {
+                "id": "ko-1896",
+                "w": "가까운",
+                "p": "gakkaun",
+                "d": "close",
+                "s": ""
+            },
+            {
+                "id": "ko-1897",
+                "w": "켄",
+                "p": "ken",
+                "d": "ken",
+                "s": ""
+            },
+            {
+                "id": "ko-1898",
+                "w": "없나",
+                "p": "eomna",
+                "d": "Is there any?",
+                "s": ""
+            },
+            {
+                "id": "ko-1899",
+                "w": "보라고",
+                "p": "borago",
+                "d": "Look",
+                "s": ""
+            },
+            {
+                "id": "ko-1900",
+                "w": "불을",
+                "p": "bureul",
+                "d": "light up",
+                "s": ""
+            },
+            {
+                "id": "ko-1901",
+                "w": "종일",
+                "p": "jongil",
+                "d": "all day",
+                "s": ""
+            },
+            {
+                "id": "ko-1902",
+                "w": "레이",
+                "p": "rei",
+                "d": "Ray",
+                "s": ""
+            },
+            {
+                "id": "ko-1903",
+                "w": "아이구",
+                "p": "aigu",
+                "d": "expression of surprise; oh, ouch",
+                "s": ""
+            },
+            {
+                "id": "ko-1904",
+                "w": "미래를",
+                "p": "miraereul",
+                "d": "the future",
+                "s": ""
+            },
+            {
+                "id": "ko-1905",
+                "w": "하나의",
+                "p": "hanaui",
+                "d": "one",
+                "s": ""
+            },
+            {
+                "id": "ko-1906",
+                "w": "점심",
+                "p": "jeomsim",
+                "d": "lunch, luncheon; midday",
+                "s": ""
+            },
+            {
+                "id": "ko-1907",
+                "w": "나가요",
+                "p": "nagayo",
+                "d": "I'm going out",
+                "s": ""
+            },
+            {
+                "id": "ko-1908",
+                "w": "최근에",
+                "p": "choegeune",
+                "d": "recently",
+                "s": ""
+            },
+            {
+                "id": "ko-1909",
+                "w": "있었다고",
+                "p": "isseotdago",
+                "d": "There was",
+                "s": ""
+            },
+            {
+                "id": "ko-1910",
+                "w": "최고",
+                "p": "choego",
+                "d": "the peak, the pinnacle, the topmost point; the best",
+                "s": ""
+            },
+            {
+                "id": "ko-1911",
+                "w": "가라",
+                "p": "gara",
+                "d": "go",
+                "s": ""
+            },
+            {
+                "id": "ko-1912",
+                "w": "파티에",
+                "p": "patie",
+                "d": "to the party",
+                "s": ""
+            },
+            {
+                "id": "ko-1913",
+                "w": "진짜야",
+                "p": "jinjjaya",
+                "d": "It's true",
+                "s": ""
+            },
+            {
+                "id": "ko-1914",
+                "w": "아픈",
+                "p": "apeun",
+                "d": "to be painful, to hurt",
+                "s": ""
+            },
+            {
+                "id": "ko-1915",
+                "w": "리가",
+                "p": "riga",
+                "d": "riga",
+                "s": ""
+            },
+            {
+                "id": "ko-1916",
+                "w": "것들",
+                "p": "geotdeul",
+                "d": "things",
+                "s": ""
+            },
+            {
+                "id": "ko-1917",
+                "w": "전에는",
+                "p": "jeoneneun",
+                "d": "before",
+                "s": ""
+            },
+            {
+                "id": "ko-1918",
+                "w": "맞았어",
+                "p": "majasseo",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-1919",
+                "w": "걸어",
+                "p": "georeo",
+                "d": "infinitive of 걷다 (geotda, “to walk”); infinitive of 걸다 (geolda, “to hang”)",
+                "s": ""
+            },
+            {
+                "id": "ko-1920",
+                "w": "않나요",
+                "p": "annayo",
+                "d": "Isn’t it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1921",
+                "w": "효과가",
+                "p": "hyogwaga",
+                "d": "It works",
+                "s": ""
+            },
+            {
+                "id": "ko-1922",
+                "w": "때부터",
+                "p": "ttaebuteo",
+                "d": "From when",
+                "s": ""
+            },
+            {
+                "id": "ko-1923",
+                "w": "수술에",
+                "p": "susure",
+                "d": "to surgery",
+                "s": ""
+            },
+            {
+                "id": "ko-1924",
+                "w": "되나요",
+                "p": "doenayo",
+                "d": "Does it work?",
+                "s": ""
+            },
+            {
+                "id": "ko-1925",
+                "w": "도시",
+                "p": "dosi",
+                "d": "city",
+                "s": ""
+            },
+            {
+                "id": "ko-1926",
+                "w": "아래",
+                "p": "arae",
+                "d": "below, bottom, lower, underneath",
+                "s": ""
+            },
+            {
+                "id": "ko-1927",
+                "w": "모릅니다",
+                "p": "moreumnida",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-1928",
+                "w": "자리",
+                "p": "jari",
+                "d": "space, place, site (occupied by something or someone); seat, position, role, job, post, -ship",
+                "s": ""
+            },
+            {
+                "id": "ko-1929",
+                "w": "죄를",
+                "p": "joereul",
+                "d": "sin",
+                "s": ""
+            },
+            {
+                "id": "ko-1930",
+                "w": "가져다",
+                "p": "gajyeoda",
+                "d": "bring it",
+                "s": ""
+            },
+            {
+                "id": "ko-1931",
+                "w": "감히",
+                "p": "gamhi",
+                "d": "boldly, fearlessly, daringly",
+                "s": ""
+            },
+            {
+                "id": "ko-1932",
+                "w": "진심이야",
+                "p": "jinsimiya",
+                "d": "I'm serious",
+                "s": ""
+            },
+            {
+                "id": "ko-1933",
+                "w": "돌려",
+                "p": "dollyeo",
+                "d": "turn",
+                "s": ""
+            },
+            {
+                "id": "ko-1934",
+                "w": "뭐하고",
+                "p": "mwohago",
+                "d": "What are you doing",
+                "s": ""
+            },
+            {
+                "id": "ko-1935",
+                "w": "누구지",
+                "p": "nuguji",
+                "d": "who is it",
+                "s": ""
+            },
+            {
+                "id": "ko-1936",
+                "w": "아닌가요",
+                "p": "aningayo",
+                "d": "Isn't it?",
+                "s": ""
+            },
+            {
+                "id": "ko-1937",
+                "w": "저흰",
+                "p": "jeohuin",
+                "d": "We",
+                "s": ""
+            },
+            {
+                "id": "ko-1938",
+                "w": "일인지",
+                "p": "irinji",
+                "d": "Is it work?",
+                "s": ""
+            },
+            {
+                "id": "ko-1939",
+                "w": "인간의",
+                "p": "inganui",
+                "d": "human",
+                "s": ""
+            },
+            {
+                "id": "ko-1940",
+                "w": "저의",
+                "p": "jeoui",
+                "d": "my",
+                "s": ""
+            },
+            {
+                "id": "ko-1941",
+                "w": "그땐",
+                "p": "geuttaen",
+                "d": "At that time",
+                "s": ""
+            },
+            {
+                "id": "ko-1942",
+                "w": "명의",
+                "p": "myeongui",
+                "d": "name, title",
+                "s": ""
+            },
+            {
+                "id": "ko-1943",
+                "w": "남았어",
+                "p": "namasseo",
+                "d": "There's left",
+                "s": ""
+            },
+            {
+                "id": "ko-1944",
+                "w": "하루종일",
+                "p": "harujongil",
+                "d": "all day",
+                "s": ""
+            },
+            {
+                "id": "ko-1945",
+                "w": "자막",
+                "p": "jamak",
+                "d": "subtitle",
+                "s": ""
+            },
+            {
+                "id": "ko-1946",
+                "w": "쉽지",
+                "p": "swipji",
+                "d": "It's easy",
+                "s": ""
+            },
+            {
+                "id": "ko-1947",
+                "w": "하러",
+                "p": "hareo",
+                "d": "to do",
+                "s": ""
+            },
+            {
+                "id": "ko-1948",
+                "w": "전까지",
+                "p": "jeonkkaji",
+                "d": "Until",
+                "s": ""
+            },
+            {
+                "id": "ko-1949",
+                "w": "냄새",
+                "p": "naemsae",
+                "d": "a smell, whether fragrant or offensive; odour; scent",
+                "s": ""
+            },
+            {
+                "id": "ko-1950",
+                "w": "갈래",
+                "p": "gallae",
+                "d": "division, separation, split, strand, thread, fork",
+                "s": ""
+            },
+            {
+                "id": "ko-1951",
+                "w": "여기선",
+                "p": "yeogiseon",
+                "d": "Here",
+                "s": ""
+            },
+            {
+                "id": "ko-1952",
+                "w": "생명을",
+                "p": "saengmyeongeul",
+                "d": "life",
+                "s": ""
+            },
+            {
+                "id": "ko-1953",
+                "w": "바꿀",
+                "p": "bakkul",
+                "d": "change",
+                "s": ""
+            },
+            {
+                "id": "ko-1954",
+                "w": "아내",
+                "p": "anae",
+                "d": "wife, especially one's own",
+                "s": ""
+            },
+            {
+                "id": "ko-1955",
+                "w": "어떻게든",
+                "p": "eotteokedeun",
+                "d": "somehow",
+                "s": ""
+            },
+            {
+                "id": "ko-1956",
+                "w": "필요로",
+                "p": "piryoro",
+                "d": "need",
+                "s": ""
+            },
+            {
+                "id": "ko-1957",
+                "w": "문이",
+                "p": "muni",
+                "d": "the door",
+                "s": ""
+            },
+            {
+                "id": "ko-1958",
+                "w": "술을",
+                "p": "sureul",
+                "d": "drink",
+                "s": ""
+            },
+            {
+                "id": "ko-1959",
+                "w": "끝나면",
+                "p": "kkeunnamyeon",
+                "d": "When it's over",
+                "s": ""
+            },
+            {
+                "id": "ko-1960",
+                "w": "왔지",
+                "p": "watji",
+                "d": "came",
+                "s": ""
+            },
+            {
+                "id": "ko-1961",
+                "w": "무기",
+                "p": "mugi",
+                "d": "weapon, arms",
+                "s": ""
+            },
+            {
+                "id": "ko-1962",
+                "w": "버리고",
+                "p": "beorigo",
+                "d": "Throw away",
+                "s": ""
+            },
+            {
+                "id": "ko-1963",
+                "w": "지역",
+                "p": "jiyeok",
+                "d": "area, district, particular geographic region",
+                "s": ""
+            },
+            {
+                "id": "ko-1964",
+                "w": "해줘요",
+                "p": "haejwoyo",
+                "d": "Please do it",
+                "s": ""
+            },
+            {
+                "id": "ko-1965",
+                "w": "어젯밤",
+                "p": "eojetbam",
+                "d": "last night",
+                "s": ""
+            },
+            {
+                "id": "ko-1966",
+                "w": "된다면",
+                "p": "doendamyeon",
+                "d": "If I could",
+                "s": ""
+            },
+            {
+                "id": "ko-1967",
+                "w": "올려",
+                "p": "ollyeo",
+                "d": "Put it up",
+                "s": ""
+            },
+            {
+                "id": "ko-1968",
+                "w": "싶다면",
+                "p": "sipdamyeon",
+                "d": "If you want",
+                "s": ""
+            },
+            {
+                "id": "ko-1969",
+                "w": "좋게",
+                "p": "joke",
+                "d": "well",
+                "s": ""
+            },
+            {
+                "id": "ko-1970",
+                "w": "될지",
+                "p": "doelji",
+                "d": "Will it happen?",
+                "s": ""
+            },
+            {
+                "id": "ko-1971",
+                "w": "끌고",
+                "p": "kkeulgo",
+                "d": "drag",
+                "s": ""
+            },
+            {
+                "id": "ko-1972",
+                "w": "거래를",
+                "p": "georaereul",
+                "d": "make a deal",
+                "s": ""
+            },
+            {
+                "id": "ko-1973",
+                "w": "볼까",
+                "p": "bolkka",
+                "d": "Let's see",
+                "s": ""
+            },
+            {
+                "id": "ko-1974",
+                "w": "조심해요",
+                "p": "josimhaeyo",
+                "d": "Be careful",
+                "s": ""
+            },
+            {
+                "id": "ko-1975",
+                "w": "지금부터",
+                "p": "jigeumbuteo",
+                "d": "From now on",
+                "s": ""
+            },
+            {
+                "id": "ko-1976",
+                "w": "폐하",
+                "p": "pyeha",
+                "d": "His Majesty, Your Majesty",
+                "s": ""
+            },
+            {
+                "id": "ko-1977",
+                "w": "만",
+                "p": "man",
+                "d": "only",
+                "s": ""
+            },
+            {
+                "id": "ko-1978",
+                "w": "미안한데",
+                "p": "mianhande",
+                "d": "to be ashamed of oneself; to be sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-1979",
+                "w": "축하해",
+                "p": "chukahae",
+                "d": "congratulations",
+                "s": ""
+            },
+            {
+                "id": "ko-1980",
+                "w": "하",
+                "p": "ha",
+                "d": "ha",
+                "s": ""
+            },
+            {
+                "id": "ko-1981",
+                "w": "인생",
+                "p": "insaeng",
+                "d": "one's life; human life generally",
+                "s": ""
+            },
+            {
+                "id": "ko-1982",
+                "w": "안전하게",
+                "p": "anjeonhage",
+                "d": "safely",
+                "s": ""
+            },
+            {
+                "id": "ko-1983",
+                "w": "말하길",
+                "p": "malhagil",
+                "d": "said",
+                "s": ""
+            },
+            {
+                "id": "ko-1984",
+                "w": "언니가",
+                "p": "eonniga",
+                "d": "My sister",
+                "s": ""
+            },
+            {
+                "id": "ko-1985",
+                "w": "유명한",
+                "p": "yumyeonghan",
+                "d": "famous",
+                "s": ""
+            },
+            {
+                "id": "ko-1986",
+                "w": "숨어",
+                "p": "sumeo",
+                "d": "hiding",
+                "s": ""
+            },
+            {
+                "id": "ko-1987",
+                "w": "로",
+                "p": "ro",
+                "d": "by",
+                "s": ""
+            },
+            {
+                "id": "ko-1988",
+                "w": "밤새",
+                "p": "bamsae",
+                "d": "contraction of 밤사이 (bamsai, “all night long; throughout the night”)",
+                "s": ""
+            },
+            {
+                "id": "ko-1989",
+                "w": "처음엔",
+                "p": "cheoeumen",
+                "d": "At first",
+                "s": ""
+            },
+            {
+                "id": "ko-1990",
+                "w": "나요",
+                "p": "nayo",
+                "d": "to be born; to appear, arise, occur, take place",
+                "s": ""
+            },
+            {
+                "id": "ko-1991",
+                "w": "잠을",
+                "p": "jameul",
+                "d": "sleep",
+                "s": ""
+            },
+            {
+                "id": "ko-1992",
+                "w": "세상은",
+                "p": "sesangeun",
+                "d": "The world",
+                "s": ""
+            },
+            {
+                "id": "ko-1993",
+                "w": "얘는",
+                "p": "yaeneun",
+                "d": "This is",
+                "s": ""
+            },
+            {
+                "id": "ko-1994",
+                "w": "오랜",
+                "p": "oraen",
+                "d": "longstanding; of long duration (of past time); long-time, old",
+                "s": ""
+            },
+            {
+                "id": "ko-1995",
+                "w": "최근",
+                "p": "choegeun",
+                "d": "the latest, the most recent; a close distance",
+                "s": ""
+            },
+            {
+                "id": "ko-1996",
+                "w": "좋죠",
+                "p": "jochyo",
+                "d": "It's good",
+                "s": ""
+            },
+            {
+                "id": "ko-1997",
+                "w": "카레브",
+                "p": "karebeu",
+                "d": "Karev",
+                "s": ""
+            },
+            {
+                "id": "ko-1998",
+                "w": "내말은",
+                "p": "naemareun",
+                "d": "I mean",
+                "s": ""
+            },
+            {
+                "id": "ko-1999",
+                "w": "리처드",
+                "p": "richeodeu",
+                "d": "richard",
+                "s": ""
+            },
+            {
+                "id": "ko-2000",
+                "w": "사람한테",
+                "p": "saramhante",
+                "d": "To people",
+                "s": ""
+            },
+            {
+                "id": "ko-2001",
+                "w": "학교에서",
+                "p": "hakgyoeseo",
+                "d": "at school",
+                "s": ""
+            },
+            {
+                "id": "ko-2002",
+                "w": "달려",
+                "p": "dallyeo",
+                "d": "run",
+                "s": ""
+            },
+            {
+                "id": "ko-2003",
+                "w": "갈거야",
+                "p": "galgeoya",
+                "d": "I'm going",
+                "s": ""
+            },
+            {
+                "id": "ko-2004",
+                "w": "왼쪽",
+                "p": "oenjjok",
+                "d": "left side",
+                "s": ""
+            },
+            {
+                "id": "ko-2005",
+                "w": "사실이",
+                "p": "sasiri",
+                "d": "It's true",
+                "s": ""
+            },
+            {
+                "id": "ko-2006",
+                "w": "경우",
+                "p": "gyeongu",
+                "d": "conditions, circumstances; case, event",
+                "s": ""
+            },
+            {
+                "id": "ko-2007",
+                "w": "안해",
+                "p": "anhae",
+                "d": "wife",
+                "s": ""
+            },
+            {
+                "id": "ko-2008",
+                "w": "수많은",
+                "p": "sumaneun",
+                "d": "countless",
+                "s": ""
+            },
+            {
+                "id": "ko-2009",
+                "w": "가기",
+                "p": "gagi",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-2010",
+                "w": "귀여운",
+                "p": "gwiyeoun",
+                "d": "Attributive form of 귀엽다 (gwiyeopda).",
+                "s": ""
+            },
+            {
+                "id": "ko-2011",
+                "w": "채",
+                "p": "chae",
+                "d": "Chae",
+                "s": ""
+            },
+            {
+                "id": "ko-2012",
+                "w": "크리스",
+                "p": "keuriseu",
+                "d": "chris",
+                "s": ""
+            },
+            {
+                "id": "ko-2013",
+                "w": "하니",
+                "p": "hani",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-2014",
+                "w": "소식을",
+                "p": "sosigeul",
+                "d": "news",
+                "s": ""
+            },
+            {
+                "id": "ko-2015",
+                "w": "의미가",
+                "p": "uimiga",
+                "d": "meaning",
+                "s": ""
+            },
+            {
+                "id": "ko-2016",
+                "w": "사람과",
+                "p": "saramgwa",
+                "d": "with people",
+                "s": ""
+            },
+            {
+                "id": "ko-2017",
+                "w": "받았어요",
+                "p": "badasseoyo",
+                "d": "I received it",
+                "s": ""
+            },
+            {
+                "id": "ko-2018",
+                "w": "됐습니다",
+                "p": "dwaetseumnida",
+                "d": "Done",
+                "s": ""
+            },
+            {
+                "id": "ko-2019",
+                "w": "전쟁",
+                "p": "jeonjaeng",
+                "d": "war",
+                "s": ""
+            },
+            {
+                "id": "ko-2020",
+                "w": "손이",
+                "p": "soni",
+                "d": "hand",
+                "s": ""
+            },
+            {
+                "id": "ko-2021",
+                "w": "장난",
+                "p": "jangnan",
+                "d": "mischief, fun, practical joke",
+                "s": ""
+            },
+            {
+                "id": "ko-2022",
+                "w": "괜찮니",
+                "p": "gwaenchanni",
+                "d": "Are you okay?",
+                "s": ""
+            },
+            {
+                "id": "ko-2023",
+                "w": "시작해",
+                "p": "sijakae",
+                "d": "start",
+                "s": ""
+            },
+            {
+                "id": "ko-2024",
+                "w": "아니니까",
+                "p": "aninikka",
+                "d": "to not be (something)",
+                "s": ""
+            },
+            {
+                "id": "ko-2025",
+                "w": "스콧",
+                "p": "seukot",
+                "d": "scott",
+                "s": ""
+            },
+            {
+                "id": "ko-2026",
+                "w": "드릴까요",
+                "p": "deurilkkayo",
+                "d": "Shall I give it to you?",
+                "s": ""
+            },
+            {
+                "id": "ko-2027",
+                "w": "마셔",
+                "p": "masyeo",
+                "d": "to smash",
+                "s": ""
+            },
+            {
+                "id": "ko-2028",
+                "w": "쿠키",
+                "p": "kuki",
+                "d": "cookie (baked good); HTTP cookie",
+                "s": ""
+            },
+            {
+                "id": "ko-2029",
+                "w": "보이는데",
+                "p": "boineunde",
+                "d": "I can see it",
+                "s": ""
+            },
+            {
+                "id": "ko-2030",
+                "w": "끝났어요",
+                "p": "kkeunnasseoyo",
+                "d": "It's over",
+                "s": ""
+            },
+            {
+                "id": "ko-2031",
+                "w": "방에서",
+                "p": "bangeseo",
+                "d": "in the room",
+                "s": ""
+            },
+            {
+                "id": "ko-2032",
+                "w": "카라",
+                "p": "kara",
+                "d": "collar",
+                "s": ""
+            },
+            {
+                "id": "ko-2033",
+                "w": "담배",
+                "p": "dambae",
+                "d": "tobacco; cigarette",
+                "s": ""
+            },
+            {
+                "id": "ko-2034",
+                "w": "잘하고",
+                "p": "jalhago",
+                "d": "Doing well",
+                "s": ""
+            },
+            {
+                "id": "ko-2035",
+                "w": "내겐",
+                "p": "naegen",
+                "d": "To me",
+                "s": ""
+            },
+            {
+                "id": "ko-2036",
+                "w": "저에게",
+                "p": "jeoege",
+                "d": "to me",
+                "s": ""
+            },
+            {
+                "id": "ko-2037",
+                "w": "파티를",
+                "p": "patireul",
+                "d": "party",
+                "s": ""
+            },
+            {
+                "id": "ko-2038",
+                "w": "폴",
+                "p": "pol",
+                "d": "Gyeongsang, Hamgyong, and Jeolla dialect form of 팔 (pal, “arm”)",
+                "s": ""
+            },
+            {
+                "id": "ko-2039",
+                "w": "뿐이지",
+                "p": "ppuniji",
+                "d": "It's just",
+                "s": ""
+            },
+            {
+                "id": "ko-2040",
+                "w": "맘대로",
+                "p": "mamdaero",
+                "d": "contraction of 마음대로 (ma'eumdaero): as one pleases/likes",
+                "s": ""
+            },
+            {
+                "id": "ko-2041",
+                "w": "전해",
+                "p": "jeonhae",
+                "d": "conveyed",
+                "s": ""
+            },
+            {
+                "id": "ko-2042",
+                "w": "데리러",
+                "p": "derireo",
+                "d": "pick up",
+                "s": ""
+            },
+            {
+                "id": "ko-2043",
+                "w": "장",
+                "p": "jang",
+                "d": "chapter",
+                "s": ""
+            },
+            {
+                "id": "ko-2044",
+                "w": "삶의",
+                "p": "salmui",
+                "d": "of life",
+                "s": ""
+            },
+            {
+                "id": "ko-2045",
+                "w": "괜찮습니다",
+                "p": "gwaenchanseumnida",
+                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
+                "s": ""
+            },
+            {
+                "id": "ko-2046",
+                "w": "찰리",
+                "p": "challi",
+                "d": "charlie",
+                "s": ""
+            },
+            {
+                "id": "ko-2047",
+                "w": "없었다",
+                "p": "eopseotda",
+                "d": "There wasn't",
+                "s": ""
+            },
+            {
+                "id": "ko-2048",
+                "w": "영국",
+                "p": "yeongguk",
+                "d": "england",
+                "s": ""
+            },
+            {
+                "id": "ko-2049",
+                "w": "왔네",
+                "p": "wanne",
+                "d": "You came",
+                "s": ""
+            },
+            {
+                "id": "ko-2050",
+                "w": "필요합니다",
+                "p": "piryohamnida",
+                "d": "to have a need; to be necessary, to be needed",
+                "s": ""
+            },
+            {
+                "id": "ko-2051",
+                "w": "라",
+                "p": "ra",
+                "d": "la (musical note)",
+                "s": ""
+            },
+            {
+                "id": "ko-2052",
+                "w": "대니",
+                "p": "daeni",
+                "d": "Danny",
+                "s": ""
+            },
+            {
+                "id": "ko-2053",
+                "w": "이상해",
+                "p": "isanghae",
+                "d": "to be strange, to be unusual",
+                "s": ""
+            },
+            {
+                "id": "ko-2054",
+                "w": "사건이",
+                "p": "sageoni",
+                "d": "the incident",
+                "s": ""
+            },
+            {
+                "id": "ko-2055",
+                "w": "매번",
+                "p": "maebeon",
+                "d": "all the time",
+                "s": ""
+            },
+            {
+                "id": "ko-2056",
+                "w": "거잖아요",
+                "p": "geojanayo",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-2057",
+                "w": "보스",
+                "p": "boseu",
+                "d": "boss (criminal organization); boss (enemy)",
+                "s": ""
+            },
+            {
+                "id": "ko-2058",
+                "w": "걸세",
+                "p": "geolse",
+                "d": "Girl",
+                "s": ""
+            },
+            {
+                "id": "ko-2059",
+                "w": "생각해봐",
+                "p": "saenggakaebwa",
+                "d": "Think about it",
+                "s": ""
+            },
+            {
+                "id": "ko-2060",
+                "w": "오신",
+                "p": "osin",
+                "d": "Welcome",
+                "s": ""
+            },
+            {
+                "id": "ko-2061",
+                "w": "비밀을",
+                "p": "bimireul",
+                "d": "secret",
+                "s": ""
+            },
+            {
+                "id": "ko-2062",
+                "w": "있긴",
+                "p": "itgin",
+                "d": "There is",
+                "s": ""
+            },
+            {
+                "id": "ko-2063",
+                "w": "개를",
+                "p": "gaereul",
+                "d": "dog",
+                "s": ""
+            },
+            {
+                "id": "ko-2064",
+                "w": "간다고",
+                "p": "gandago",
+                "d": "I'm going",
+                "s": ""
+            },
+            {
+                "id": "ko-2065",
+                "w": "빠르게",
+                "p": "ppareuge",
+                "d": "quickly",
+                "s": ""
+            },
+            {
+                "id": "ko-2066",
+                "w": "생각합니다",
+                "p": "saenggakamnida",
+                "d": "I think",
+                "s": ""
+            },
+            {
+                "id": "ko-2067",
+                "w": "괜찮으세요",
+                "p": "gwaenchaneuseyo",
+                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
+                "s": ""
+            },
+            {
+                "id": "ko-2068",
+                "w": "어찌",
+                "p": "eojji",
+                "d": "How, in what way or for what purpose.",
+                "s": ""
+            },
+            {
+                "id": "ko-2069",
+                "w": "오른쪽",
+                "p": "oreunjjok",
+                "d": "right-hand; the right side",
+                "s": ""
+            },
+            {
+                "id": "ko-2070",
+                "w": "말로",
+                "p": "mallo",
+                "d": "in words",
+                "s": ""
+            },
+            {
+                "id": "ko-2071",
+                "w": "위험해",
+                "p": "wiheomhae",
+                "d": "dangerous",
+                "s": ""
+            },
+            {
+                "id": "ko-2072",
+                "w": "범인은",
+                "p": "beomineun",
+                "d": "The culprit is",
+                "s": ""
+            },
+            {
+                "id": "ko-2073",
+                "w": "가방",
+                "p": "gabang",
+                "d": "bag; briefcase",
+                "s": ""
+            },
+            {
+                "id": "ko-2074",
+                "w": "떠나지",
+                "p": "tteonaji",
+                "d": "leave",
+                "s": ""
+            },
+            {
+                "id": "ko-2075",
+                "w": "만들었어",
+                "p": "mandeureosseo",
+                "d": "I made it",
+                "s": ""
+            },
+            {
+                "id": "ko-2076",
+                "w": "싶다고",
+                "p": "sipdago",
+                "d": "I want to",
+                "s": ""
+            },
+            {
+                "id": "ko-2077",
+                "w": "개가",
+                "p": "gaega",
+                "d": "remarriage (by a woman)",
+                "s": ""
+            },
+            {
+                "id": "ko-2078",
+                "w": "뉴욕",
+                "p": "nyuyok",
+                "d": "new york",
+                "s": ""
+            },
+            {
+                "id": "ko-2079",
+                "w": "그러세요",
+                "p": "geureoseyo",
+                "d": "Please do so",
+                "s": ""
+            },
+            {
+                "id": "ko-2080",
+                "w": "먼",
+                "p": "meon",
+                "d": "realis adnominal of 멀다 (meolda, “to be far, distant”)",
+                "s": ""
+            },
+            {
+                "id": "ko-2081",
+                "w": "있는거",
+                "p": "inneungeo",
+                "d": "There is something",
+                "s": ""
+            },
+            {
+                "id": "ko-2082",
+                "w": "이따",
+                "p": "itta",
+                "d": "alternative form of 이따가 (ittaga)",
+                "s": ""
+            },
+            {
+                "id": "ko-2083",
+                "w": "느낄",
+                "p": "neukkil",
+                "d": "feel",
+                "s": ""
+            },
+            {
+                "id": "ko-2084",
+                "w": "우와",
+                "p": "uwa",
+                "d": "Wow",
+                "s": ""
+            },
+            {
+                "id": "ko-2085",
+                "w": "위하여",
+                "p": "wihayeo",
+                "d": "for",
+                "s": ""
+            },
+            {
+                "id": "ko-2086",
+                "w": "열쇠",
+                "p": "yeolsoe",
+                "d": "key; means",
+                "s": ""
+            },
+            {
+                "id": "ko-2087",
+                "w": "도시를",
+                "p": "dosireul",
+                "d": "the city",
+                "s": ""
+            },
+            {
+                "id": "ko-2088",
+                "w": "낼",
+                "p": "nael",
+                "d": "tomorrow",
+                "s": ""
+            },
+            {
+                "id": "ko-2089",
+                "w": "바닥에",
+                "p": "badage",
+                "d": "on the floor",
+                "s": ""
+            },
+            {
+                "id": "ko-2090",
+                "w": "든",
+                "p": "deun",
+                "d": "past adnominal of 들다 (deulda, “to enter, etc.”); past adnominal of 들다 (deulda, “to hold, etc.”)",
+                "s": ""
+            },
+            {
+                "id": "ko-2091",
+                "w": "생각했는데",
+                "p": "saenggakaenneunde",
+                "d": "I thought",
+                "s": ""
+            },
+            {
+                "id": "ko-2092",
+                "w": "진",
+                "p": "jin",
+                "d": "Jin",
+                "s": ""
+            },
+            {
+                "id": "ko-2093",
+                "w": "말했지",
+                "p": "malhaetji",
+                "d": "I said",
+                "s": ""
+            },
+            {
+                "id": "ko-2094",
+                "w": "가르쳐",
+                "p": "gareuchyeo",
+                "d": "teach",
+                "s": ""
+            },
+            {
+                "id": "ko-2095",
+                "w": "마찬가지야",
+                "p": "machangajiya",
+                "d": "Same thing",
+                "s": ""
+            },
+            {
+                "id": "ko-2096",
+                "w": "깊은",
+                "p": "gipeun",
+                "d": "present determiner form of 깊다 (gipda)",
+                "s": ""
+            },
+            {
+                "id": "ko-2097",
+                "w": "났어",
+                "p": "nasseo",
+                "d": "to be born; to appear, arise, occur, take place",
+                "s": ""
+            },
+            {
+                "id": "ko-2098",
+                "w": "물건",
+                "p": "mulgeon",
+                "d": "item, article, thing, stuff; penis",
+                "s": ""
+            },
+            {
+                "id": "ko-2099",
+                "w": "금지",
+                "p": "geumji",
+                "d": "prohibition, ban",
+                "s": ""
+            },
+            {
+                "id": "ko-2100",
+                "w": "살아있는",
+                "p": "sarainneun",
+                "d": "alive",
+                "s": ""
+            },
+            {
+                "id": "ko-2101",
+                "w": "또는",
+                "p": "ttoneun",
+                "d": "if not; alternatively",
+                "s": ""
+            },
+            {
+                "id": "ko-2102",
+                "w": "찾으면",
+                "p": "chajeumyeon",
+                "d": "If you find it",
+                "s": ""
+            },
+            {
+                "id": "ko-2103",
+                "w": "존나",
+                "p": "jonna",
+                "d": "alternative spelling of 좆나 (jonna, “as fuck, fucking (vulgar intensifying adverb)”)",
+                "s": ""
+            },
+            {
+                "id": "ko-2104",
+                "w": "떠나",
+                "p": "tteona",
+                "d": "leave",
+                "s": ""
+            },
+            {
+                "id": "ko-2105",
+                "w": "가죠",
+                "p": "gajyo",
+                "d": "Let's go",
+                "s": ""
+            },
+            {
+                "id": "ko-2106",
+                "w": "사람들도",
+                "p": "saramdeuldo",
+                "d": "People too",
+                "s": ""
+            },
+            {
+                "id": "ko-2107",
+                "w": "않았습니다",
+                "p": "anatseumnida",
+                "d": "didn't",
+                "s": ""
+            },
+            {
+                "id": "ko-2108",
+                "w": "파블로",
+                "p": "pabeullo",
+                "d": "Pablo",
+                "s": ""
+            },
+            {
+                "id": "ko-2109",
+                "w": "선물을",
+                "p": "seonmureul",
+                "d": "a gift",
+                "s": ""
+            },
+            {
+                "id": "ko-2110",
+                "w": "자격이",
+                "p": "jagyeogi",
+                "d": "qualified",
+                "s": ""
+            },
+            {
+                "id": "ko-2111",
+                "w": "스스로를",
+                "p": "seuseuroreul",
+                "d": "yourself",
+                "s": ""
+            },
+            {
+                "id": "ko-2112",
+                "w": "마을",
+                "p": "maeul",
+                "d": "village, hamlet, usually in rural surroundings; the office of a local magistrate",
+                "s": ""
+            },
+            {
+                "id": "ko-2113",
+                "w": "손으로",
+                "p": "soneuro",
+                "d": "by hand",
+                "s": ""
+            },
+            {
+                "id": "ko-2114",
+                "w": "누나",
+                "p": "nuna",
+                "d": "older sister of a male; somewhat older female friend or acquaintance",
+                "s": ""
+            },
+            {
+                "id": "ko-2115",
+                "w": "놈들을",
+                "p": "nomdeureul",
+                "d": "Those guys",
+                "s": ""
+            },
+            {
+                "id": "ko-2116",
+                "w": "때문이지",
+                "p": "ttaemuniji",
+                "d": "Because",
+                "s": ""
+            },
+            {
+                "id": "ko-2117",
+                "w": "비슷한",
+                "p": "biseuthan",
+                "d": "Attributive form of 비슷하다 (biseuthada) (“to be similar”).",
+                "s": ""
+            },
+            {
+                "id": "ko-2118",
+                "w": "없이는",
+                "p": "eopsineun",
+                "d": "without",
+                "s": ""
+            },
+            {
+                "id": "ko-2119",
+                "w": "갑니다",
+                "p": "gamnida",
+                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
+                "s": ""
+            },
+            {
+                "id": "ko-2120",
+                "w": "계신",
+                "p": "gyesin",
+                "d": "are you there",
+                "s": ""
+            },
+            {
+                "id": "ko-2121",
+                "w": "아가야",
+                "p": "agaya",
+                "d": "Baby",
+                "s": ""
+            },
+            {
+                "id": "ko-2122",
+                "w": "시체를",
+                "p": "sichereul",
+                "d": "the body",
+                "s": ""
+            },
+            {
+                "id": "ko-2123",
+                "w": "데려가",
+                "p": "deryeoga",
+                "d": "Take it away",
+                "s": ""
+            },
+            {
+                "id": "ko-2124",
+                "w": "말해요",
+                "p": "malhaeyo",
+                "d": "tell me",
+                "s": ""
+            },
+            {
+                "id": "ko-2125",
+                "w": "자가",
+                "p": "jaga",
+                "d": "self",
+                "s": ""
+            },
+            {
+                "id": "ko-2126",
+                "w": "옳지",
+                "p": "olchi",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-2127",
+                "w": "어릴",
+                "p": "eoril",
+                "d": "young",
+                "s": ""
+            },
+            {
+                "id": "ko-2128",
+                "w": "듯",
+                "p": "deut",
+                "d": "as if; in a manner suggesting that; leaving it ambiguous whether or not",
+                "s": ""
+            },
+            {
+                "id": "ko-2129",
+                "w": "된다는",
+                "p": "doendaneun",
+                "d": "It's said",
+                "s": ""
+            },
+            {
+                "id": "ko-2130",
+                "w": "잘못이",
+                "p": "jalmosi",
+                "d": "It's my fault",
+                "s": ""
+            },
+            {
+                "id": "ko-2131",
+                "w": "아시죠",
+                "p": "asijyo",
+                "d": "You know",
+                "s": ""
+            },
+            {
+                "id": "ko-2132",
+                "w": "동시에",
+                "p": "dongsie",
+                "d": "at the same time",
+                "s": ""
+            },
+            {
+                "id": "ko-2133",
+                "w": "형은",
+                "p": "hyeongeun",
+                "d": "My brother",
+                "s": ""
+            },
+            {
+                "id": "ko-2134",
+                "w": "안다고",
+                "p": "andago",
+                "d": "I know",
+                "s": ""
+            },
+            {
+                "id": "ko-2135",
+                "w": "이동",
+                "p": "idong",
+                "d": "movement; migration",
+                "s": ""
+            },
+            {
+                "id": "ko-2136",
+                "w": "음식을",
+                "p": "eumsigeul",
+                "d": "food",
+                "s": ""
+            },
+            {
+                "id": "ko-2137",
+                "w": "아빠랑",
+                "p": "apparang",
+                "d": "With dad",
+                "s": ""
+            },
+            {
+                "id": "ko-2138",
+                "w": "전까진",
+                "p": "jeonkkajin",
+                "d": "Until now",
+                "s": ""
+            },
+            {
+                "id": "ko-2139",
+                "w": "고작",
+                "p": "gojak",
+                "d": "at most; only",
+                "s": ""
+            },
+            {
+                "id": "ko-2140",
+                "w": "만들지",
+                "p": "mandeulji",
+                "d": "I won't make it",
+                "s": ""
+            },
+            {
+                "id": "ko-2141",
+                "w": "해야할",
+                "p": "haeyahal",
+                "d": "to do",
+                "s": ""
+            },
+            {
+                "id": "ko-2142",
+                "w": "준비를",
+                "p": "junbireul",
+                "d": "get ready",
+                "s": ""
+            },
+            {
+                "id": "ko-2143",
+                "w": "못했어요",
+                "p": "motaesseoyo",
+                "d": "I couldn't do it",
+                "s": ""
+            },
+            {
+                "id": "ko-2144",
+                "w": "번역",
+                "p": "beonyeok",
+                "d": "translation",
+                "s": ""
+            },
+            {
+                "id": "ko-2145",
+                "w": "범인이",
+                "p": "beomini",
+                "d": "The culprit",
+                "s": ""
+            },
+            {
+                "id": "ko-2146",
+                "w": "죽이려고",
+                "p": "jugiryeogo",
+                "d": "to kill",
+                "s": ""
+            },
+            {
+                "id": "ko-2147",
+                "w": "수술은",
+                "p": "susureun",
+                "d": "Surgery",
+                "s": ""
+            },
+            {
+                "id": "ko-2148",
+                "w": "뿐",
+                "p": "ppun",
+                "d": "only, just; used with -을, the \"verbal irrealis adnominal suffix\".; Used in -다 뿐이지 (-da ppuniji).",
+                "s": ""
+            },
+            {
+                "id": "ko-2149",
+                "w": "싶을",
+                "p": "sipeul",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-2150",
+                "w": "누구나",
+                "p": "nuguna",
+                "d": "anyone",
+                "s": ""
+            },
+            {
+                "id": "ko-2151",
+                "w": "우리랑",
+                "p": "urirang",
+                "d": "with us",
+                "s": ""
+            },
+            {
+                "id": "ko-2152",
+                "w": "너희들은",
+                "p": "neohuideureun",
+                "d": "You guys",
+                "s": ""
+            },
+            {
+                "id": "ko-2153",
+                "w": "언제부터",
+                "p": "eonjebuteo",
+                "d": "Since when",
+                "s": ""
+            },
+            {
+                "id": "ko-2154",
+                "w": "누구든",
+                "p": "nugudeun",
+                "d": "anyone",
+                "s": ""
+            },
+            {
+                "id": "ko-2155",
+                "w": "관심을",
+                "p": "gwansimeul",
+                "d": "interest",
+                "s": ""
+            },
+            {
+                "id": "ko-2156",
+                "w": "관련된",
+                "p": "gwallyeondoen",
+                "d": "related",
+                "s": ""
+            },
+            {
+                "id": "ko-2157",
+                "w": "음식",
+                "p": "eumsik",
+                "d": "food, including drink",
+                "s": ""
+            },
+            {
+                "id": "ko-2158",
+                "w": "걸릴",
+                "p": "geollil",
+                "d": "take",
+                "s": ""
+            },
+            {
+                "id": "ko-2159",
+                "w": "소릴",
+                "p": "soril",
+                "d": "noise",
+                "s": ""
+            },
+            {
+                "id": "ko-2160",
+                "w": "왕이",
+                "p": "wangi",
+                "d": "king",
+                "s": ""
+            },
+            {
+                "id": "ko-2161",
+                "w": "찾지",
+                "p": "chatji",
+                "d": "I can't find it",
+                "s": ""
+            },
+            {
+                "id": "ko-2162",
+                "w": "약속",
+                "p": "yaksok",
+                "d": "promise; appointment; engagement",
+                "s": ""
+            },
+            {
+                "id": "ko-2163",
+                "w": "들려요",
+                "p": "deullyeoyo",
+                "d": "I can hear you",
+                "s": ""
+            },
+            {
+                "id": "ko-2164",
+                "w": "온다",
+                "p": "onda",
+                "d": "coming",
+                "s": ""
+            },
+            {
+                "id": "ko-2165",
+                "w": "어떤지",
+                "p": "eotteonji",
+                "d": "What is it like?",
+                "s": ""
+            },
+            {
+                "id": "ko-2166",
+                "w": "보여줘",
+                "p": "boyeojwo",
+                "d": "show me",
+                "s": ""
+            },
+            {
+                "id": "ko-2167",
+                "w": "생각이야",
+                "p": "saenggagiya",
+                "d": "It's a thought",
+                "s": ""
+            },
+            {
+                "id": "ko-2168",
+                "w": "무척",
+                "p": "mucheok",
+                "d": "very, extremely, extraordinarily, exceedingly",
+                "s": ""
+            },
+            {
+                "id": "ko-2169",
+                "w": "치프",
+                "p": "chipeu",
+                "d": "Chief",
+                "s": ""
+            },
+            {
+                "id": "ko-2170",
+                "w": "인간이",
+                "p": "ingani",
+                "d": "human",
+                "s": ""
+            },
+            {
+                "id": "ko-2171",
+                "w": "선생",
+                "p": "seonsaeng",
+                "d": "teacher",
+                "s": ""
+            },
+            {
+                "id": "ko-2172",
+                "w": "알겠죠",
+                "p": "algetjyo",
+                "d": "You understand",
+                "s": ""
+            },
+            {
+                "id": "ko-2173",
+                "w": "대해선",
+                "p": "daehaeseon",
+                "d": "About",
+                "s": ""
+            },
+            {
+                "id": "ko-2174",
+                "w": "않네요",
+                "p": "anneyo",
+                "d": "It doesn't work",
+                "s": ""
+            },
+            {
+                "id": "ko-2175",
+                "w": "개인",
+                "p": "gaein",
+                "d": "an individual or individuals; a private person; personal, individual",
+                "s": ""
+            },
+            {
+                "id": "ko-2176",
+                "w": "전부터",
+                "p": "jeonbuteo",
+                "d": "From before",
+                "s": ""
+            },
+            {
+                "id": "ko-2177",
+                "w": "데이비드",
+                "p": "deibideu",
+                "d": "david",
+                "s": ""
+            },
+            {
+                "id": "ko-2178",
+                "w": "잘됐네",
+                "p": "jaldwaenne",
+                "d": "That's good",
+                "s": ""
+            },
+            {
+                "id": "ko-2179",
+                "w": "내려놔",
+                "p": "naeryeonwa",
+                "d": "Put it down",
+                "s": ""
+            },
+            {
+                "id": "ko-2180",
+                "w": "놀라운",
+                "p": "nollaun",
+                "d": "realis adnominal of 놀랍다 (nollapda)",
+                "s": ""
+            },
+            {
+                "id": "ko-2181",
+                "w": "엄청나게",
+                "p": "eomcheongnage",
+                "d": "incredibly",
+                "s": ""
+            },
+            {
+                "id": "ko-2182",
+                "w": "똑똑한",
+                "p": "ttokttokan",
+                "d": "smart",
+                "s": ""
+            },
+            {
+                "id": "ko-2183",
+                "w": "행동을",
+                "p": "haengdongeul",
+                "d": "action",
+                "s": ""
+            },
+            {
+                "id": "ko-2184",
+                "w": "위험을",
+                "p": "wiheomeul",
+                "d": "risk",
+                "s": ""
+            },
+            {
+                "id": "ko-2185",
+                "w": "연락",
+                "p": "yeollak",
+                "d": "contact, connection, liaison",
+                "s": ""
+            },
+            {
+                "id": "ko-2186",
+                "w": "도",
+                "p": "do",
+                "d": "degrees",
+                "s": ""
+            },
+            {
+                "id": "ko-2187",
+                "w": "화장실",
+                "p": "hwajangsil",
+                "d": "bathroom; restroom; toilet",
+                "s": ""
+            },
+            {
+                "id": "ko-2188",
+                "w": "1년",
+                "p": "1nyeon",
+                "d": "1 year",
+                "s": ""
+            },
+            {
+                "id": "ko-2189",
+                "w": "사랑은",
+                "p": "sarangeun",
+                "d": "love is",
+                "s": ""
+            },
+            {
+                "id": "ko-2190",
+                "w": "부르는",
+                "p": "bureuneun",
+                "d": "calling",
+                "s": ""
+            },
+            {
+                "id": "ko-2191",
+                "w": "생기면",
+                "p": "saenggimyeon",
+                "d": "If it happens",
+                "s": ""
+            },
+            {
+                "id": "ko-2192",
+                "w": "부모님이",
+                "p": "bumonimi",
+                "d": "my parents",
+                "s": ""
+            },
+            {
+                "id": "ko-2193",
+                "w": "부인이",
+                "p": "buini",
+                "d": "The wife",
+                "s": ""
+            },
+            {
+                "id": "ko-2194",
+                "w": "하겠습니다",
+                "p": "hagetseumnida",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-2195",
+                "w": "넣어",
+                "p": "neoeo",
+                "d": "put it",
+                "s": ""
+            },
+            {
+                "id": "ko-2196",
+                "w": "힘들어",
+                "p": "himdeureo",
+                "d": "It's hard",
+                "s": ""
+            },
+            {
+                "id": "ko-2197",
+                "w": "감정을",
+                "p": "gamjeongeul",
+                "d": "feelings",
+                "s": ""
+            },
+            {
+                "id": "ko-2198",
+                "w": "커다란",
+                "p": "keodaran",
+                "d": "big",
+                "s": ""
+            },
+            {
+                "id": "ko-2199",
+                "w": "빠진",
+                "p": "ppajin",
+                "d": "missing",
+                "s": ""
+            },
+            {
+                "id": "ko-2200",
+                "w": "위에서",
+                "p": "wieseo",
+                "d": "from above",
+                "s": ""
+            },
+            {
+                "id": "ko-2201",
+                "w": "진정해요",
+                "p": "jinjeonghaeyo",
+                "d": "Calm down",
+                "s": ""
+            },
+            {
+                "id": "ko-2202",
+                "w": "세상의",
+                "p": "sesangui",
+                "d": "of the world",
+                "s": ""
+            },
+            {
+                "id": "ko-2203",
+                "w": "싶진",
+                "p": "sipjin",
+                "d": "I don't want to",
+                "s": ""
+            },
+            {
+                "id": "ko-2204",
+                "w": "형님",
+                "p": "hyeongnim",
+                "d": "honorific of 형(兄) (hyeong, “older brother of a male”); wife's older brother (a type of brother-in-law)",
+                "s": ""
+            },
+            {
+                "id": "ko-2205",
+                "w": "돌아오지",
+                "p": "doraoji",
+                "d": "I won't come back",
+                "s": ""
+            },
+            {
+                "id": "ko-2206",
+                "w": "방을",
+                "p": "bangeul",
+                "d": "the room",
+                "s": ""
+            },
+            {
+                "id": "ko-2207",
+                "w": "결과를",
+                "p": "gyeolgwareul",
+                "d": "the result",
+                "s": ""
+            },
+            {
+                "id": "ko-2208",
+                "w": "있으세요",
+                "p": "isseuseyo",
+                "d": "Do you have",
+                "s": ""
+            },
+            {
+                "id": "ko-2209",
+                "w": "않았지",
+                "p": "anatji",
+                "d": "It wasn't",
+                "s": ""
+            },
+            {
+                "id": "ko-2210",
+                "w": "소식이",
+                "p": "sosigi",
+                "d": "There is news",
+                "s": ""
+            },
+            {
+                "id": "ko-2211",
+                "w": "임무를",
+                "p": "immureul",
+                "d": "mission",
+                "s": ""
+            },
+            {
+                "id": "ko-2212",
+                "w": "사장님",
+                "p": "sajangnim",
+                "d": "boss",
+                "s": ""
+            },
+            {
+                "id": "ko-2213",
+                "w": "하긴",
+                "p": "hagin",
+                "d": "honestly, in fact, really, indeed (used as a positive feedback for an aforementioned topic in a conversation)",
+                "s": ""
+            },
+            {
+                "id": "ko-2214",
+                "w": "하나요",
+                "p": "hanayo",
+                "d": "Do you do it?",
+                "s": ""
+            },
+            {
+                "id": "ko-2215",
+                "w": "남아",
+                "p": "nama",
+                "d": "remain",
+                "s": ""
+            },
+            {
+                "id": "ko-2216",
+                "w": "듣지",
+                "p": "deutji",
+                "d": "listen",
+                "s": ""
+            },
+            {
+                "id": "ko-2217",
+                "w": "신",
+                "p": "sin",
+                "d": "god",
+                "s": ""
+            },
+            {
+                "id": "ko-2218",
+                "w": "오빠가",
+                "p": "oppaga",
+                "d": "My brother",
+                "s": ""
+            },
+            {
+                "id": "ko-2219",
+                "w": "앨리슨",
+                "p": "aelliseun",
+                "d": "Allison",
+                "s": ""
+            },
+            {
+                "id": "ko-2220",
+                "w": "아내는",
+                "p": "anaeneun",
+                "d": "my wife",
+                "s": ""
+            },
+            {
+                "id": "ko-2221",
+                "w": "하자고",
+                "p": "hajago",
+                "d": "Let's do it",
+                "s": ""
+            },
+            {
+                "id": "ko-2222",
+                "w": "보안",
+                "p": "boan",
+                "d": "preservation of public security",
+                "s": ""
+            },
+            {
+                "id": "ko-2223",
+                "w": "맞습니다",
+                "p": "matseumnida",
+                "d": "That's right",
+                "s": ""
+            },
+            {
+                "id": "ko-2224",
+                "w": "아래로",
+                "p": "araero",
+                "d": "down",
+                "s": ""
+            },
+            {
+                "id": "ko-2225",
+                "w": "버크",
+                "p": "beokeu",
+                "d": "burke",
+                "s": ""
+            },
+            {
+                "id": "ko-2226",
+                "w": "이러면",
+                "p": "ireomyeon",
+                "d": "to do this; to act in this way; to say this",
+                "s": ""
+            },
+            {
+                "id": "ko-2227",
+                "w": "약간의",
+                "p": "yakganui",
+                "d": "a little",
+                "s": ""
+            },
+            {
+                "id": "ko-2228",
+                "w": "모르겠는데",
+                "p": "moreugenneunde",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-2229",
+                "w": "대부분",
+                "p": "daebubun",
+                "d": "the majority, the better part",
+                "s": ""
+            },
+            {
+                "id": "ko-2230",
+                "w": "없었죠",
+                "p": "eopseotjyo",
+                "d": "There wasn't",
+                "s": ""
+            },
+            {
+                "id": "ko-2231",
+                "w": "원해요",
+                "p": "wonhaeyo",
+                "d": "I want it",
+                "s": ""
+            },
+            {
+                "id": "ko-2232",
+                "w": "모르잖아",
+                "p": "moreujana",
+                "d": "You don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-2233",
+                "w": "미안합니다",
+                "p": "mianhamnida",
+                "d": "to be ashamed of oneself; to be sorry",
+                "s": ""
+            },
+            {
+                "id": "ko-2234",
+                "w": "누구요",
+                "p": "nuguyo",
+                "d": "Who is it",
+                "s": ""
+            },
+            {
+                "id": "ko-2235",
+                "w": "싸우고",
+                "p": "ssaugo",
+                "d": "to fight or struggle",
+                "s": ""
+            },
+            {
+                "id": "ko-2236",
+                "w": "없군",
+                "p": "eopgun",
+                "d": "No",
+                "s": ""
+            },
+            {
+                "id": "ko-2237",
+                "w": "줬어",
+                "p": "jwosseo",
+                "d": "I gave it to you",
+                "s": ""
+            },
+            {
+                "id": "ko-2238",
+                "w": "저와",
+                "p": "jeowa",
+                "d": "With me",
+                "s": ""
+            },
+            {
+                "id": "ko-2239",
+                "w": "할래",
+                "p": "hallae",
+                "d": "I want to do it",
+                "s": ""
+            },
+            {
+                "id": "ko-2240",
+                "w": "같구나",
+                "p": "gatguna",
+                "d": "It's the same",
+                "s": ""
+            },
+            {
+                "id": "ko-2241",
+                "w": "됐네",
+                "p": "dwaenne",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-2242",
+                "w": "왔을",
+                "p": "wasseul",
+                "d": "came",
+                "s": ""
+            },
+            {
+                "id": "ko-2243",
+                "w": "대학",
+                "p": "daehak",
+                "d": "college, university",
+                "s": ""
+            },
+            {
+                "id": "ko-2244",
+                "w": "드릴",
+                "p": "deuril",
+                "d": "drill",
+                "s": ""
+            },
+            {
+                "id": "ko-2245",
+                "w": "좀더",
+                "p": "jomdeo",
+                "d": "a little more",
+                "s": ""
+            },
+            {
+                "id": "ko-2246",
+                "w": "검사를",
+                "p": "geomsareul",
+                "d": "inspection",
+                "s": ""
+            },
+            {
+                "id": "ko-2247",
+                "w": "예전",
+                "p": "yejeon",
+                "d": "the old days, the old times, the past, long ago",
+                "s": ""
+            },
+            {
+                "id": "ko-2248",
+                "w": "싶습니다",
+                "p": "sipseumnida",
+                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
+                "s": ""
+            },
+            {
+                "id": "ko-2249",
+                "w": "스티븐스",
+                "p": "seutibeunseu",
+                "d": "stevens",
+                "s": ""
+            },
+            {
+                "id": "ko-2250",
+                "w": "이거야",
+                "p": "igeoya",
+                "d": "This is it",
+                "s": ""
+            },
+            {
+                "id": "ko-2251",
+                "w": "있겠어요",
+                "p": "itgesseoyo",
+                "d": "Is there one?",
+                "s": ""
+            },
+            {
+                "id": "ko-2252",
+                "w": "않았을",
+                "p": "anasseul",
+                "d": "wouldn't have",
+                "s": ""
+            },
+            {
+                "id": "ko-2253",
+                "w": "나가는",
+                "p": "naganeun",
+                "d": "going out",
+                "s": ""
+            },
+            {
+                "id": "ko-2254",
+                "w": "반갑습니다",
+                "p": "bangapseumnida",
+                "d": "to be glad, happy; pleasant; welcome",
+                "s": ""
+            },
+            {
+                "id": "ko-2255",
+                "w": "아저씨가",
+                "p": "ajeossiga",
+                "d": "Uncle",
+                "s": ""
+            },
+            {
+                "id": "ko-2256",
+                "w": "질",
+                "p": "jil",
+                "d": "vagina",
+                "s": ""
+            },
+            {
+                "id": "ko-2257",
+                "w": "기억을",
+                "p": "gieogeul",
+                "d": "remember",
+                "s": ""
+            },
+            {
+                "id": "ko-2258",
+                "w": "돕고",
+                "p": "dopgo",
+                "d": "helping",
+                "s": ""
+            },
+            {
+                "id": "ko-2259",
+                "w": "죽기",
+                "p": "jukgi",
+                "d": "die",
+                "s": ""
+            },
+            {
+                "id": "ko-2260",
+                "w": "봤을",
+                "p": "bwasseul",
+                "d": "saw it",
+                "s": ""
+            },
+            {
+                "id": "ko-2261",
+                "w": "섹스",
+                "p": "sekseu",
+                "d": "sex (act of sexual intercourse)",
+                "s": ""
+            },
+            {
+                "id": "ko-2262",
+                "w": "올게요",
+                "p": "olgeyo",
+                "d": "I'll come",
+                "s": ""
+            },
+            {
+                "id": "ko-2263",
+                "w": "떠난",
+                "p": "tteonan",
+                "d": "left",
+                "s": ""
+            },
+            {
+                "id": "ko-2264",
+                "w": "하네요",
+                "p": "haneyo",
+                "d": "It does",
+                "s": ""
+            },
+            {
+                "id": "ko-2265",
+                "w": "누구랑",
+                "p": "nugurang",
+                "d": "with whom",
+                "s": ""
+            },
+            {
+                "id": "ko-2266",
+                "w": "앤",
+                "p": "aen",
+                "d": "Ann",
+                "s": ""
+            },
+            {
+                "id": "ko-2267",
+                "w": "누군가는",
+                "p": "nugunganeun",
+                "d": "someone",
+                "s": ""
+            },
+            {
+                "id": "ko-2268",
+                "w": "아들은",
+                "p": "adeureun",
+                "d": "The son",
+                "s": ""
+            },
+            {
+                "id": "ko-2269",
+                "w": "바",
+                "p": "ba",
+                "d": "bar",
+                "s": ""
+            },
+            {
+                "id": "ko-2270",
+                "w": "마음대로",
+                "p": "maeumdaero",
+                "d": "as one pleases/likes",
+                "s": ""
+            },
+            {
+                "id": "ko-2271",
+                "w": "만나게",
+                "p": "mannage",
+                "d": "meet",
+                "s": ""
+            },
+            {
+                "id": "ko-2272",
+                "w": "않아서",
+                "p": "anaseo",
+                "d": "Because",
+                "s": ""
+            },
+            {
+                "id": "ko-2273",
+                "w": "결혼을",
+                "p": "gyeolhoneul",
+                "d": "get married",
+                "s": ""
+            },
+            {
+                "id": "ko-2274",
+                "w": "보니까",
+                "p": "bonikka",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-2275",
+                "w": "씨는",
+                "p": "ssineun",
+                "d": "Mr.",
+                "s": ""
+            },
+            {
+                "id": "ko-2276",
+                "w": "잃은",
+                "p": "ireun",
+                "d": "lost",
+                "s": ""
+            },
+            {
+                "id": "ko-2277",
+                "w": "그런게",
+                "p": "geureonge",
+                "d": "Something like that",
+                "s": ""
+            },
+            {
+                "id": "ko-2278",
+                "w": "엄만",
+                "p": "eomman",
+                "d": "topic-marked form of 엄마 (eomma)",
+                "s": ""
+            },
+            {
+                "id": "ko-2279",
+                "w": "해봐요",
+                "p": "haebwayo",
+                "d": "Try it",
+                "s": ""
+            },
+            {
+                "id": "ko-2280",
+                "w": "빨간",
+                "p": "ppalgan",
+                "d": "realis adnominal of 빨갛다 (ppalgata, “red”)",
+                "s": ""
+            },
+            {
+                "id": "ko-2281",
+                "w": "때문이죠",
+                "p": "ttaemunijyo",
+                "d": "Because",
+                "s": ""
+            },
+            {
+                "id": "ko-2282",
+                "w": "강력한",
+                "p": "gangnyeokan",
+                "d": "powerful",
+                "s": ""
+            },
+            {
+                "id": "ko-2283",
+                "w": "환자의",
+                "p": "hwanjaui",
+                "d": "patient's",
+                "s": ""
+            },
+            {
+                "id": "ko-2284",
+                "w": "대통령님",
+                "p": "daetongnyeongnim",
+                "d": "Mr. President",
+                "s": ""
+            },
+            {
+                "id": "ko-2285",
+                "w": "맥주",
+                "p": "maekju",
+                "d": "beer",
+                "s": ""
+            },
+            {
+                "id": "ko-2286",
+                "w": "아니거든",
+                "p": "anigeodeun",
+                "d": "No.",
+                "s": ""
+            },
+            {
+                "id": "ko-2287",
+                "w": "얘기하는",
+                "p": "yaegihaneun",
+                "d": "talking",
+                "s": ""
+            },
+            {
+                "id": "ko-2288",
+                "w": "중요하지",
+                "p": "jungyohaji",
+                "d": "It's not important",
+                "s": ""
+            },
+            {
+                "id": "ko-2289",
+                "w": "늦었어",
+                "p": "neujeosseo",
+                "d": "It's late",
+                "s": ""
+            },
+            {
+                "id": "ko-2290",
+                "w": "남편은",
+                "p": "nampyeoneun",
+                "d": "My husband",
+                "s": ""
+            },
+            {
+                "id": "ko-2291",
+                "w": "크고",
+                "p": "keugo",
+                "d": "big and",
+                "s": ""
+            },
+            {
+                "id": "ko-2292",
+                "w": "두번째",
+                "p": "dubeonjjae",
+                "d": "second",
+                "s": ""
+            },
+            {
+                "id": "ko-2293",
+                "w": "해서요",
+                "p": "haeseoyo",
+                "d": "Because I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-2294",
+                "w": "연락을",
+                "p": "yeollageul",
+                "d": "contact me",
+                "s": ""
+            },
+            {
+                "id": "ko-2295",
+                "w": "왜죠",
+                "p": "waejyo",
+                "d": "Why?",
+                "s": ""
+            },
+            {
+                "id": "ko-2296",
+                "w": "나무",
+                "p": "namu",
+                "d": "tree; wood",
+                "s": ""
+            },
+            {
+                "id": "ko-2297",
+                "w": "만세",
+                "p": "manse",
+                "d": "hurrah, hooray; long live",
+                "s": ""
+            },
+            {
+                "id": "ko-2298",
+                "w": "쉐퍼드",
+                "p": "swepeodeu",
+                "d": "Shepherd",
+                "s": ""
+            },
+            {
+                "id": "ko-2299",
+                "w": "자유",
+                "p": "jayu",
+                "d": "freedom, liberty",
+                "s": ""
+            },
+            {
+                "id": "ko-2300",
+                "w": "관계를",
+                "p": "gwangyereul",
+                "d": "relationship",
+                "s": ""
+            },
+            {
+                "id": "ko-2301",
+                "w": "싸우는",
+                "p": "ssauneun",
+                "d": "to fight or struggle",
+                "s": ""
+            },
+            {
+                "id": "ko-2302",
+                "w": "거라는",
+                "p": "georaneun",
+                "d": "That's it",
+                "s": ""
+            },
+            {
+                "id": "ko-2303",
+                "w": "경찰에",
+                "p": "gyeongchare",
+                "d": "to the police",
+                "s": ""
+            },
+            {
+                "id": "ko-2304",
+                "w": "기다릴",
+                "p": "gidaril",
+                "d": "to wait for, to await; to look forward to",
+                "s": ""
+            },
+            {
+                "id": "ko-2305",
+                "w": "여행",
+                "p": "yeohaeng",
+                "d": "travel; journey, trip, voyage",
+                "s": ""
+            },
+            {
+                "id": "ko-2306",
+                "w": "이제야",
+                "p": "ijeya",
+                "d": "Now",
+                "s": ""
+            },
+            {
+                "id": "ko-2307",
+                "w": "여자랑",
+                "p": "yeojarang",
+                "d": "With a woman",
+                "s": ""
+            },
+            {
+                "id": "ko-2308",
+                "w": "그곳에",
+                "p": "geugose",
+                "d": "there",
+                "s": ""
+            },
+            {
+                "id": "ko-2309",
+                "w": "치료를",
+                "p": "chiryoreul",
+                "d": "treatment",
+                "s": ""
+            },
+            {
+                "id": "ko-2310",
+                "w": "자네에게",
+                "p": "janeege",
+                "d": "to you",
+                "s": ""
+            },
+            {
+                "id": "ko-2311",
+                "w": "종류의",
+                "p": "jongnyuui",
+                "d": "kind of",
+                "s": ""
+            },
+            {
+                "id": "ko-2312",
+                "w": "연락이",
+                "p": "yeollagi",
+                "d": "Contact me",
+                "s": ""
+            },
+            {
+                "id": "ko-2313",
+                "w": "줄까",
+                "p": "julkka",
+                "d": "Should I give it to you?",
+                "s": ""
+            },
+            {
+                "id": "ko-2314",
+                "w": "안했어",
+                "p": "anhaesseo",
+                "d": "I didn't do it",
+                "s": ""
+            },
+            {
+                "id": "ko-2315",
+                "w": "고",
+                "p": "go",
+                "d": "Go",
+                "s": ""
+            },
+            {
+                "id": "ko-2316",
+                "w": "만나는",
+                "p": "mannaneun",
+                "d": "meet",
+                "s": ""
+            },
+            {
+                "id": "ko-2317",
+                "w": "달린",
+                "p": "dallin",
+                "d": "ran",
+                "s": ""
+            },
+            {
+                "id": "ko-2318",
+                "w": "루시",
+                "p": "rusi",
+                "d": "lucy",
+                "s": ""
+            },
+            {
+                "id": "ko-2319",
+                "w": "그렇군",
+                "p": "geureokun",
+                "d": "I see.",
+                "s": ""
+            },
+            {
+                "id": "ko-2320",
+                "w": "않을까",
+                "p": "aneulkka",
+                "d": "Wouldn't it be",
+                "s": ""
+            },
+            {
+                "id": "ko-2321",
+                "w": "안그래",
+                "p": "angeurae",
+                "d": "Isn't that right?",
+                "s": ""
+            },
+            {
+                "id": "ko-2322",
+                "w": "전화해서",
+                "p": "jeonhwahaeseo",
+                "d": "By calling",
+                "s": ""
+            },
+            {
+                "id": "ko-2323",
+                "w": "나와서",
+                "p": "nawaseo",
+                "d": "come out",
+                "s": ""
+            },
+            {
+                "id": "ko-2324",
+                "w": "지금이",
+                "p": "jigeumi",
+                "d": "Now is the time",
+                "s": ""
+            },
+            {
+                "id": "ko-2325",
+                "w": "괜찮을거야",
+                "p": "gwaenchaneulgeoya",
+                "d": "It'll be okay",
+                "s": ""
+            },
+            {
+                "id": "ko-2326",
+                "w": "세게",
+                "p": "sege",
+                "d": "harder",
+                "s": ""
+            },
+            {
+                "id": "ko-2327",
+                "w": "이것이",
+                "p": "igeosi",
+                "d": "This is",
+                "s": ""
+            },
+            {
+                "id": "ko-2328",
+                "w": "신발",
+                "p": "sinbal",
+                "d": "shoes, footwear, footgear",
+                "s": ""
+            },
+            {
+                "id": "ko-2329",
+                "w": "답을",
+                "p": "dabeul",
+                "d": "answer",
+                "s": ""
+            },
+            {
+                "id": "ko-2330",
+                "w": "팀이",
+                "p": "timi",
+                "d": "team",
+                "s": ""
+            },
+            {
+                "id": "ko-2331",
+                "w": "괜히",
+                "p": "gwaenhi",
+                "d": "for nothing",
+                "s": ""
+            },
+            {
+                "id": "ko-2332",
+                "w": "헤일리",
+                "p": "heilli",
+                "d": "Hailey",
+                "s": ""
+            },
+            {
+                "id": "ko-2333",
+                "w": "셰퍼드",
+                "p": "syepeodeu",
+                "d": "shepherd",
+                "s": ""
+            },
+            {
+                "id": "ko-2334",
+                "w": "있을지도",
+                "p": "isseuljido",
+                "d": "maybe",
+                "s": ""
+            },
+            {
+                "id": "ko-2335",
+                "w": "서서",
+                "p": "seoseo",
+                "d": "gradually, slowly, steadily",
+                "s": ""
+            },
+            {
+                "id": "ko-2336",
+                "w": "애야",
+                "p": "aeya",
+                "d": "Baby",
+                "s": ""
+            },
+            {
+                "id": "ko-2337",
+                "w": "결과가",
+                "p": "gyeolgwaga",
+                "d": "the result",
+                "s": ""
+            },
+            {
+                "id": "ko-2338",
+                "w": "해냈어",
+                "p": "haenaesseo",
+                "d": "I did it",
+                "s": ""
+            },
+            {
+                "id": "ko-2339",
+                "w": "했나",
+                "p": "haenna",
+                "d": "did you do it",
+                "s": ""
+            },
+            {
+                "id": "ko-2340",
+                "w": "별거",
+                "p": "byeolgeo",
+                "d": "alternative form of 별것 (byeolgeot)",
+                "s": ""
+            },
+            {
+                "id": "ko-2341",
+                "w": "러시아",
+                "p": "reosia",
+                "d": "Russia",
+                "s": ""
+            },
+            {
+                "id": "ko-2342",
+                "w": "아빤",
+                "p": "appan",
+                "d": "topic-marked form of 아빠 (appa)",
+                "s": ""
+            },
+            {
+                "id": "ko-2343",
+                "w": "알겠다",
+                "p": "algetda",
+                "d": "I understand",
+                "s": ""
+            },
+            {
+                "id": "ko-2344",
+                "w": "밤을",
+                "p": "bameul",
+                "d": "night",
+                "s": ""
+            },
+            {
+                "id": "ko-2345",
+                "w": "루시퍼",
+                "p": "rusipeo",
+                "d": "lucifer",
+                "s": ""
+            },
+            {
+                "id": "ko-2346",
+                "w": "전화해",
+                "p": "jeonhwahae",
+                "d": "call me",
+                "s": ""
+            },
+            {
+                "id": "ko-2347",
+                "w": "달리",
+                "p": "dalli",
+                "d": "differently, unlike",
+                "s": ""
+            },
+            {
+                "id": "ko-2348",
+                "w": "이야기는",
+                "p": "iyagineun",
+                "d": "The story is",
+                "s": ""
+            },
+            {
+                "id": "ko-2349",
+                "w": "친한",
+                "p": "chinhan",
+                "d": "friendly",
+                "s": ""
+            },
+            {
+                "id": "ko-2350",
+                "w": "하겠어",
+                "p": "hagesseo",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-2351",
+                "w": "어떤가",
+                "p": "eotteonga",
+                "d": "What is it like?",
+                "s": ""
+            },
+            {
+                "id": "ko-2352",
+                "w": "증거가",
+                "p": "jeunggeoga",
+                "d": "there is evidence",
+                "s": ""
+            },
+            {
+                "id": "ko-2353",
+                "w": "사랑이",
+                "p": "sarangi",
+                "d": "love",
+                "s": ""
+            },
+            {
+                "id": "ko-2354",
+                "w": "깜짝",
+                "p": "kkamjjak",
+                "d": "while blinking one's eyes (especially in shock); with surprise, with a shock (often in a positive way)",
+                "s": ""
+            },
+            {
+                "id": "ko-2355",
+                "w": "있었을",
+                "p": "isseosseul",
+                "d": "there was",
+                "s": ""
+            },
+            {
+                "id": "ko-2356",
+                "w": "가봐야",
+                "p": "gabwaya",
+                "d": "I have to go",
+                "s": ""
+            },
+            {
+                "id": "ko-2357",
+                "w": "행복해",
+                "p": "haengbokae",
+                "d": "I'm happy",
+                "s": ""
+            },
+            {
+                "id": "ko-2358",
+                "w": "대부분의",
+                "p": "daebubunui",
+                "d": "most",
+                "s": ""
+            },
+            {
+                "id": "ko-2359",
+                "w": "생각한",
+                "p": "saenggakan",
+                "d": "thought",
+                "s": ""
+            },
+            {
+                "id": "ko-2360",
+                "w": "침대",
+                "p": "chimdae",
+                "d": "bed (furniture)",
+                "s": ""
+            },
+            {
+                "id": "ko-2361",
+                "w": "넣고",
+                "p": "neoko",
+                "d": "put it in",
+                "s": ""
+            },
+            {
+                "id": "ko-2362",
+                "w": "밑에서",
+                "p": "miteseo",
+                "d": "from below",
+                "s": ""
+            },
+            {
+                "id": "ko-2363",
+                "w": "않았죠",
+                "p": "anatjyo",
+                "d": "It wasn't",
+                "s": ""
+            },
+            {
+                "id": "ko-2364",
+                "w": "걸고",
+                "p": "geolgo",
+                "d": "Put it on",
+                "s": ""
+            },
+            {
+                "id": "ko-2365",
+                "w": "증거를",
+                "p": "jeunggeoreul",
+                "d": "evidence",
+                "s": ""
+            },
+            {
+                "id": "ko-2366",
+                "w": "칼을",
+                "p": "kareul",
+                "d": "a knife",
+                "s": ""
+            },
+            {
+                "id": "ko-2367",
+                "w": "게임을",
+                "p": "geimeul",
+                "d": "play the game",
+                "s": ""
+            },
+            {
+                "id": "ko-2368",
+                "w": "침대에",
+                "p": "chimdaee",
+                "d": "in bed",
+                "s": ""
+            },
+            {
+                "id": "ko-2369",
+                "w": "가족은",
+                "p": "gajogeun",
+                "d": "family",
+                "s": ""
+            },
+            {
+                "id": "ko-2370",
+                "w": "봅시다",
+                "p": "bopsida",
+                "d": "Let's see",
+                "s": ""
+            },
+            {
+                "id": "ko-2371",
+                "w": "타마오",
+                "p": "tamao",
+                "d": "tamao",
+                "s": ""
+            },
+            {
+                "id": "ko-2372",
+                "w": "나왔어",
+                "p": "nawasseo",
+                "d": "came out",
+                "s": ""
+            },
+            {
+                "id": "ko-2373",
+                "w": "거래",
+                "p": "georae",
+                "d": "transaction; trade; give and take (more generally)",
+                "s": ""
+            },
+            {
+                "id": "ko-2374",
+                "w": "행복하게",
+                "p": "haengbokage",
+                "d": "happily",
+                "s": ""
+            },
+            {
+                "id": "ko-2375",
+                "w": "녀석은",
+                "p": "nyeoseogeun",
+                "d": "The guy",
+                "s": ""
+            },
+            {
+                "id": "ko-2376",
+                "w": "영혼을",
+                "p": "yeonghoneul",
+                "d": "the soul",
+                "s": ""
+            },
+            {
+                "id": "ko-2377",
+                "w": "삶은",
+                "p": "salmeun",
+                "d": "boiled",
+                "s": ""
+            },
+            {
+                "id": "ko-2378",
+                "w": "위험에",
+                "p": "wiheome",
+                "d": "in danger",
+                "s": ""
+            },
+            {
+                "id": "ko-2379",
+                "w": "끝날",
+                "p": "kkeunnal",
+                "d": "It will end",
+                "s": ""
+            },
+            {
+                "id": "ko-2380",
+                "w": "두려워",
+                "p": "duryeowo",
+                "d": "afraid",
+                "s": ""
+            },
+            {
+                "id": "ko-2381",
+                "w": "개인적인",
+                "p": "gaeinjeogin",
+                "d": "personal",
+                "s": ""
+            },
+            {
+                "id": "ko-2382",
+                "w": "아버진",
+                "p": "abeojin",
+                "d": "father",
+                "s": ""
+            },
+            {
+                "id": "ko-2383",
+                "w": "저들은",
+                "p": "jeodeureun",
+                "d": "They are",
+                "s": ""
+            },
+            {
+                "id": "ko-2384",
+                "w": "뭡니까",
+                "p": "mwomnikka",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-2385",
+                "w": "즉",
+                "p": "jeuk",
+                "d": "That is",
+                "s": ""
+            },
+            {
+                "id": "ko-2386",
+                "w": "2년",
+                "p": "2nyeon",
+                "d": "2 years",
+                "s": ""
+            },
+            {
+                "id": "ko-2387",
+                "w": "미스",
+                "p": "miseu",
+                "d": "mistake, error",
+                "s": ""
+            },
+            {
+                "id": "ko-2388",
+                "w": "중국",
+                "p": "jungguk",
+                "d": "china",
+                "s": ""
+            },
+            {
+                "id": "ko-2389",
+                "w": "속",
+                "p": "sok",
+                "d": "the interior or inside, especially that which is underneath or within a covering; stomach; insides",
+                "s": ""
+            },
+            {
+                "id": "ko-2390",
+                "w": "걱정마",
+                "p": "geokjeongma",
+                "d": "Don't worry",
+                "s": ""
+            },
+            {
+                "id": "ko-2391",
+                "w": "여지가",
+                "p": "yeojiga",
+                "d": "There is room",
+                "s": ""
+            },
+            {
+                "id": "ko-2392",
+                "w": "가라고",
+                "p": "garago",
+                "d": "Go",
+                "s": ""
+            },
+            {
+                "id": "ko-2393",
+                "w": "가야지",
+                "p": "gayaji",
+                "d": "I have to go",
+                "s": ""
+            },
+            {
+                "id": "ko-2394",
+                "w": "집은",
+                "p": "jibeun",
+                "d": "The house is",
+                "s": ""
+            },
+            {
+                "id": "ko-2395",
+                "w": "봐서",
+                "p": "bwaseo",
+                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-2396",
+                "w": "결혼식",
+                "p": "gyeolhonsik",
+                "d": "wedding ceremony",
+                "s": ""
+            },
+            {
+                "id": "ko-2397",
+                "w": "자를",
+                "p": "jareul",
+                "d": "cut",
+                "s": ""
+            },
+            {
+                "id": "ko-2398",
+                "w": "기꺼이",
+                "p": "gikkeoi",
+                "d": "readily; gladly; willingly",
+                "s": ""
+            },
+            {
+                "id": "ko-2399",
+                "w": "없으니",
+                "p": "eopseuni",
+                "d": "Because there is no",
+                "s": ""
+            },
+            {
+                "id": "ko-2400",
+                "w": "여기야",
+                "p": "yeogiya",
+                "d": "It's here",
+                "s": ""
+            },
+            {
+                "id": "ko-2401",
+                "w": "오게",
+                "p": "oge",
+                "d": "come",
+                "s": ""
+            },
+            {
+                "id": "ko-2402",
+                "w": "싫어하는",
+                "p": "sireohaneun",
+                "d": "dislike",
+                "s": ""
+            },
+            {
+                "id": "ko-2403",
+                "w": "하시는",
+                "p": "hasineun",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-2404",
+                "w": "몇몇",
+                "p": "myeonmyeot",
+                "d": "some, a few",
+                "s": ""
+            },
+            {
+                "id": "ko-2405",
+                "w": "있다가",
+                "p": "itdaga",
+                "d": "later",
+                "s": ""
+            },
+            {
+                "id": "ko-2406",
+                "w": "확실한",
+                "p": "hwaksilhan",
+                "d": "sure",
+                "s": ""
+            },
+            {
+                "id": "ko-2407",
+                "w": "물어봐",
+                "p": "mureobwa",
+                "d": "ask",
+                "s": ""
+            },
+            {
+                "id": "ko-2408",
+                "w": "필요하면",
+                "p": "piryohamyeon",
+                "d": "to have a need; to be necessary, to be needed",
+                "s": ""
+            },
+            {
+                "id": "ko-2409",
+                "w": "누구한테",
+                "p": "nuguhante",
+                "d": "To whom",
+                "s": ""
+            },
+            {
+                "id": "ko-2410",
+                "w": "결과",
+                "p": "gyeolgwa",
+                "d": "result",
+                "s": ""
+            },
+            {
+                "id": "ko-2411",
+                "w": "없었지",
+                "p": "eopseotji",
+                "d": "There wasn't",
+                "s": ""
+            },
+            {
+                "id": "ko-2412",
+                "w": "말게",
+                "p": "malge",
+                "d": "Don't",
+                "s": ""
+            },
+            {
+                "id": "ko-2413",
+                "w": "정신을",
+                "p": "jeongsineul",
+                "d": "spirit",
+                "s": ""
+            },
+            {
+                "id": "ko-2414",
+                "w": "부르지",
+                "p": "bureuji",
+                "d": "I'll call you",
+                "s": ""
+            },
+            {
+                "id": "ko-2415",
+                "w": "케빈",
+                "p": "kebin",
+                "d": "kevin",
+                "s": ""
+            },
+            {
+                "id": "ko-2416",
+                "w": "제시",
+                "p": "jesi",
+                "d": "presentation, showing",
+                "s": ""
+            },
+            {
+                "id": "ko-2417",
+                "w": "그쪽",
+                "p": "geujjok",
+                "d": "there, that way; your party, your side, you",
+                "s": ""
+            },
+            {
+                "id": "ko-2418",
+                "w": "새끼야",
+                "p": "saekkiya",
+                "d": "You bastard",
+                "s": ""
+            },
+            {
+                "id": "ko-2419",
+                "w": "불이",
+                "p": "buri",
+                "d": "fire",
+                "s": ""
+            },
+            {
+                "id": "ko-2420",
+                "w": "영화를",
+                "p": "yeonghwareul",
+                "d": "movie",
+                "s": ""
+            },
+            {
+                "id": "ko-2421",
+                "w": "맨",
+                "p": "maen",
+                "d": "top",
+                "s": ""
+            },
+            {
+                "id": "ko-2422",
+                "w": "나한텐",
+                "p": "nahanten",
+                "d": "To me",
+                "s": ""
+            },
+            {
+                "id": "ko-2423",
+                "w": "늦게",
+                "p": "neutge",
+                "d": "late",
+                "s": ""
+            },
+            {
+                "id": "ko-2424",
+                "w": "간단한",
+                "p": "gandanhan",
+                "d": "simple",
+                "s": ""
+            },
+            {
+                "id": "ko-2425",
+                "w": "상당히",
+                "p": "sangdanghi",
+                "d": "suitably; to an appropriate degree; rather; quite",
+                "s": ""
+            },
+            {
+                "id": "ko-2426",
+                "w": "너흰",
+                "p": "neohuin",
+                "d": "You guys",
+                "s": ""
+            },
+            {
+                "id": "ko-2427",
+                "w": "발을",
+                "p": "bareul",
+                "d": "feet",
+                "s": ""
+            },
+            {
+                "id": "ko-2428",
+                "w": "이후",
+                "p": "ihu",
+                "d": "the time following a given point in time; thenceforth",
+                "s": ""
+            },
+            {
+                "id": "ko-2429",
+                "w": "이리로",
+                "p": "iriro",
+                "d": "alternative form of 이리 (iri, “here”)",
+                "s": ""
+            },
+            {
+                "id": "ko-2430",
+                "w": "보입니다",
+                "p": "boimnida",
+                "d": "I see it",
+                "s": ""
+            },
+            {
+                "id": "ko-2431",
+                "w": "줄래",
+                "p": "jullae",
+                "d": "Will you give it to me?",
+                "s": ""
+            },
+            {
+                "id": "ko-2432",
+                "w": "돈도",
+                "p": "dondo",
+                "d": "Money too",
+                "s": ""
+            },
+            {
+                "id": "ko-2433",
+                "w": "다르게",
+                "p": "dareuge",
+                "d": "differently",
+                "s": ""
+            },
+            {
+                "id": "ko-2434",
+                "w": "삶이",
+                "p": "salmi",
+                "d": "life",
+                "s": ""
+            },
+            {
+                "id": "ko-2435",
+                "w": "다치게",
+                "p": "dachige",
+                "d": "hurt",
+                "s": ""
+            },
+            {
+                "id": "ko-2436",
+                "w": "뿐입니다",
+                "p": "ppunimnida",
+                "d": "It's just",
+                "s": ""
+            },
+            {
+                "id": "ko-2437",
+                "w": "생각보다",
+                "p": "saenggakboda",
+                "d": "Than you think",
+                "s": ""
+            },
+            {
+                "id": "ko-2438",
+                "w": "나에",
+                "p": "nae",
+                "d": "To me",
+                "s": ""
+            },
+            {
+                "id": "ko-2439",
+                "w": "차는",
+                "p": "chaneun",
+                "d": "kicking",
+                "s": ""
+            },
+            {
+                "id": "ko-2440",
+                "w": "살짝",
+                "p": "saljjak",
+                "d": "subtly, slightly; discreetly, secretly",
+                "s": ""
+            },
+            {
+                "id": "ko-2441",
+                "w": "못하면",
+                "p": "motamyeon",
+                "d": "If you can't do it",
+                "s": ""
+            },
+            {
+                "id": "ko-2442",
+                "w": "상처",
+                "p": "sangcheo",
+                "d": "wound; injury; scar",
+                "s": ""
+            },
+            {
+                "id": "ko-2443",
+                "w": "필요도",
+                "p": "piryodo",
+                "d": "No need",
+                "s": ""
+            },
+            {
+                "id": "ko-2444",
+                "w": "하셨어요",
+                "p": "hasyeosseoyo",
+                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
+                "s": ""
+            },
+            {
+                "id": "ko-2445",
+                "w": "곳이야",
+                "p": "gosiya",
+                "d": "It's a place",
+                "s": ""
+            },
+            {
+                "id": "ko-2446",
+                "w": "죽음의",
+                "p": "jugeumui",
+                "d": "of death",
+                "s": ""
+            },
+            {
+                "id": "ko-2447",
+                "w": "빈",
+                "p": "bin",
+                "d": "past determiner of 비다 (bida): empty",
+                "s": ""
+            },
+            {
+                "id": "ko-2448",
+                "w": "필요없어",
+                "p": "piryoeopseo",
+                "d": "No need",
+                "s": ""
+            },
+            {
+                "id": "ko-2449",
+                "w": "농담",
+                "p": "nongdam",
+                "d": "joke, jest",
+                "s": ""
+            },
+            {
+                "id": "ko-2450",
+                "w": "번만",
+                "p": "beonman",
+                "d": "Just once",
+                "s": ""
+            },
+            {
+                "id": "ko-2451",
+                "w": "번이나",
+                "p": "beonina",
+                "d": "once",
+                "s": ""
+            },
+            {
+                "id": "ko-2452",
+                "w": "있는건",
+                "p": "inneungeon",
+                "d": "What is there",
+                "s": ""
+            },
+            {
+                "id": "ko-2453",
+                "w": "드세요",
+                "p": "deuseyo",
+                "d": "Enjoy",
+                "s": ""
+            },
+            {
+                "id": "ko-2454",
+                "w": "어쩌다",
+                "p": "eojjeoda",
+                "d": "somehow",
+                "s": ""
+            },
+            {
+                "id": "ko-2455",
+                "w": "잡았어",
+                "p": "jabasseo",
+                "d": "Got it",
+                "s": ""
+            },
+            {
+                "id": "ko-2456",
+                "w": "동생이",
+                "p": "dongsaengi",
+                "d": "My younger brother",
+                "s": ""
+            },
+            {
+                "id": "ko-2457",
+                "w": "뭐냐",
+                "p": "mwonya",
+                "d": "What is it",
+                "s": ""
+            },
+            {
+                "id": "ko-2458",
+                "w": "미첼",
+                "p": "michel",
+                "d": "Mitchell",
+                "s": ""
+            },
+            {
+                "id": "ko-2459",
+                "w": "건물",
+                "p": "geonmul",
+                "d": "building, construction, edifice",
+                "s": ""
+            },
+            {
+                "id": "ko-2460",
+                "w": "있대",
+                "p": "itdae",
+                "d": "They say there is",
+                "s": ""
+            },
+            {
+                "id": "ko-2461",
+                "w": "여자야",
+                "p": "yeojaya",
+                "d": "It's a girl",
+                "s": ""
+            },
+            {
+                "id": "ko-2462",
+                "w": "좋아할",
+                "p": "joahal",
+                "d": "like it",
+                "s": ""
+            },
+            {
+                "id": "ko-2463",
+                "w": "인생은",
+                "p": "insaengeun",
+                "d": "Life is",
+                "s": ""
+            },
+            {
+                "id": "ko-2464",
+                "w": "챙겨",
+                "p": "chaenggyeo",
+                "d": "Take care",
+                "s": ""
+            },
+            {
+                "id": "ko-2465",
+                "w": "됐고",
+                "p": "dwaetgo",
+                "d": "It's done",
+                "s": ""
+            },
+            {
+                "id": "ko-2466",
+                "w": "이상하게",
+                "p": "isanghage",
+                "d": "strangely",
+                "s": ""
+            },
+            {
+                "id": "ko-2467",
+                "w": "잃을",
+                "p": "ireul",
+                "d": "lose",
+                "s": ""
+            },
+            {
+                "id": "ko-2468",
+                "w": "모른다고",
+                "p": "moreundago",
+                "d": "I don't know",
+                "s": ""
+            },
+            {
+                "id": "ko-2469",
+                "w": "생각하면",
+                "p": "saenggakamyeon",
+                "d": "If you think about it",
+                "s": ""
+            },
+            {
+                "id": "ko-2470",
+                "w": "거라고요",
+                "p": "georagoyo",
+                "d": "I guess",
+                "s": ""
+            },
+            {
+                "id": "ko-2471",
+                "w": "인생이",
+                "p": "insaengi",
+                "d": "life",
+                "s": ""
+            },
+            {
+                "id": "ko-2472",
+                "w": "약속해",
+                "p": "yaksokae",
+                "d": "promise",
+                "s": ""
+            },
+            {
+                "id": "ko-2473",
+                "w": "자동차",
+                "p": "jadongcha",
+                "d": "automobile, car",
+                "s": ""
+            },
+            {
+                "id": "ko-2474",
+                "w": "들어봐요",
+                "p": "deureobwayo",
+                "d": "Listen",
+                "s": ""
+            },
+            {
+                "id": "ko-2475",
+                "w": "없을거야",
+                "p": "eopseulgeoya",
+                "d": "There won't be",
+                "s": ""
+            },
+            {
+                "id": "ko-2476",
+                "w": "예를",
+                "p": "yereul",
+                "d": "For example",
+                "s": ""
+            },
+            {
+                "id": "ko-2477",
+                "w": "돌아가서",
+                "p": "doragaseo",
+                "d": "go back",
+                "s": ""
+            },
+            {
+                "id": "ko-2478",
+                "w": "편지를",
+                "p": "pyeonjireul",
+                "d": "a letter",
+                "s": ""
+            },
+            {
+                "id": "ko-2479",
+                "w": "빌리",
+                "p": "billi",
+                "d": "Billy",
+                "s": ""
+            },
+            {
+                "id": "ko-2480",
+                "w": "10분",
+                "p": "10bun",
+                "d": "10 minutes",
+                "s": ""
+            },
+            {
+                "id": "ko-2481",
+                "w": "안다",
+                "p": "anda",
+                "d": "to hug, to embrace; to take on (a debt, responsibility, etc.)",
+                "s": ""
+            },
+            {
+                "id": "ko-2482",
+                "w": "일하러",
+                "p": "ilhareo",
+                "d": "to work",
+                "s": ""
+            },
+            {
+                "id": "ko-2483",
+                "w": "걸린",
+                "p": "geollin",
+                "d": "caught",
+                "s": ""
+            },
+            {
+                "id": "ko-2484",
+                "w": "질문에",
+                "p": "jilmune",
+                "d": "to the question",
+                "s": ""
+            },
+            {
+                "id": "ko-2485",
+                "w": "뒤에서",
+                "p": "dwieseo",
+                "d": "from behind",
+                "s": ""
+            },
+            {
+                "id": "ko-2486",
+                "w": "미",
+                "p": "mi",
+                "d": "beauty",
+                "s": ""
+            },
+            {
+                "id": "ko-2487",
+                "w": "주에",
+                "p": "jue",
+                "d": "in the week",
+                "s": ""
+            },
+            {
+                "id": "ko-2488",
+                "w": "말했죠",
+                "p": "malhaetjyo",
+                "d": "I said",
+                "s": ""
+            },
+            {
+                "id": "ko-2489",
+                "w": "너희는",
+                "p": "neohuineun",
+                "d": "you guys",
+                "s": ""
+            },
+            {
+                "id": "ko-2490",
+                "w": "끝나고",
+                "p": "kkeunnago",
+                "d": "After finishing",
+                "s": ""
+            },
+            {
+                "id": "ko-2491",
+                "w": "말에",
+                "p": "mare",
+                "d": "in words",
+                "s": ""
+            },
+            {
+                "id": "ko-2492",
+                "w": "대통령",
+                "p": "daetongnyeong",
+                "d": "president of a country",
+                "s": ""
+            },
+            {
+                "id": "ko-2493",
+                "w": "보냈어",
+                "p": "bonaesseo",
+                "d": "Sent it",
+                "s": ""
+            },
+            {
+                "id": "ko-2494",
+                "w": "안나",
+                "p": "anna",
+                "d": "Anna",
+                "s": ""
+            },
+            {
+                "id": "ko-2495",
+                "w": "시간이야",
+                "p": "siganiya",
+                "d": "It's time",
+                "s": ""
+            },
+            {
+                "id": "ko-2496",
+                "w": "춤을",
+                "p": "chumeul",
+                "d": "dance",
+                "s": ""
+            },
+            {
+                "id": "ko-2497",
+                "w": "오늘이",
+                "p": "oneuri",
+                "d": "Today is",
+                "s": ""
+            },
+            {
+                "id": "ko-2498",
+                "w": "행크",
+                "p": "haengkeu",
+                "d": "Hank",
+                "s": ""
+            },
+            {
+                "id": "ko-2499",
+                "w": "달러",
+                "p": "dalleo",
+                "d": "dollar",
+                "s": ""
+            },
+            {
+                "id": "ko-2500",
+                "w": "끝이야",
+                "p": "kkeuchiya",
+                "d": "It's over",
+                "s": ""
             }
         ]
     };
