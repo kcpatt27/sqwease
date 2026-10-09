@@ -1,6 +1,6 @@
 # SQWease Ticket Backlog
 
-Maintainer view. 103 tickets. Regenerate with `node scripts/build-ticket-index.js`.
+Maintainer view. 106 tickets. Regenerate with `node scripts/build-ticket-index.js`.
 
 Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`nit` cleanup. Priority: `P0` immediate · `P1` next · `P2` scheduled · `P3` opportunistic.
 
@@ -38,7 +38,7 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-086](./T-086.md) | Menu flashcards hint advertises \"1,500 words\" for 30-word starter decks | index | ui, i18n | ui-review-static |
 | [T-096](./T-096.md) | Adopt FSRS-6 scheduling (self-contained or vendored) behind a scheduler interface | srs | feature, srs | research-2026-10-09 |
 
-## Medium (39)
+## Medium (41)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -81,8 +81,10 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-101](./T-101.md) | Multimodal comprehensible input: images + audio beside example sentences | content | feature, content | research-2026-10-09 |
 | [T-102](./T-102.md) | Native-speaker review of the four 2,500-word decks before release | content | data, docs | language-data-expansion |
 | [T-103](./T-103.md) | Replace machine-translated glosses (Korean, Spanish) with a licensed bilingual source | content | data, legal | language-data-expansion |
+| [T-105](./T-105.md) | Commit a reproducible enrichment script for the Korean (and Spanish) decks | content | data, reproducibility | session-audit-ko-2026-10-09 |
+| [T-106](./T-106.md) | Extend the gate to validate every data/<lang>/vocab.js deck | build | test, data-integrity | session-audit-ko-2026-10-09 |
 
-## Low (31)
+## Low (32)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -117,6 +119,7 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-099](./T-099.md) | Spike: Duolingo HLR vs FSRS for language-specific scheduling | srs | research | research-2026-10-09 |
 | [T-100](./T-100.md) | Add the FSRS parameter optimizer once review-log volume exists | srs | feature, ml | research-2026-10-09 |
 | [T-104](./T-104.md) | Lemma/normalization pass for inflected surface forms and accent variants | content | data | language-data-expansion |
+| [T-107](./T-107.md) | Rebase the *-2500 dataset branches onto current main (or document the merge) | repo | process | session-audit-ko-2026-10-09 |
 
 ## Nit (9)
 
