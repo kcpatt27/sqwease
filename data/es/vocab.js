@@ -10,213 +10,17503 @@
         "words": [
             {
                 "id": "es-0001",
-                "w": "hola",
-                "p": "OH-lah",
-                "d": "hello",
-                "s": "¡Hola! ¿Cómo estás? (Hi! How are you?)"
+                "w": "de",
+                "p": "de",
+                "d": "of",
+                "s": "Soy una ciudadana de los Estados Unidos. (I'm a US citizen.)"
             },
             {
                 "id": "es-0002",
-                "w": "sí",
-                "p": "see",
-                "d": "yes",
-                "s": "Sí, quiero. (Yes, I want it.)"
+                "w": "que",
+                "p": "ke",
+                "d": "that",
+                "s": "Lo que más me gusta son las matemáticas. (I like math best.)"
             },
             {
                 "id": "es-0003",
                 "w": "no",
-                "p": "no",
-                "d": "no",
-                "s": "No, gracias. (No, thank you.)"
+                "p": "ˈno",
+                "d": "not",
+                "s": "No pondría la mano en el fuego por ello. (I wouldn't bet on it.)"
             },
             {
                 "id": "es-0004",
-                "w": "gracias",
-                "p": "GRAH-see-as",
-                "d": "thank you",
-                "s": "Muchas gracias. (Thank you very much.)"
+                "w": "la",
+                "p": "la",
+                "d": "the",
+                "s": "La gramática de ésa mujer es deficiente. (Her grammar is bad.)"
             },
             {
                 "id": "es-0005",
-                "w": "por favor",
-                "p": "por fah-VOR",
-                "d": "please",
-                "s": "Un café, por favor. (A coffee, please.)"
+                "w": "el",
+                "p": "el",
+                "d": "the",
+                "s": "Mi habitación está en el piso de arriba. (My room is upstairs.)"
             },
             {
                 "id": "es-0006",
-                "w": "agua",
-                "p": "AH-gwah",
-                "d": "water",
-                "s": "Quiero agua, por favor. (I want water, please.)"
+                "w": "es",
+                "p": "ˈes",
+                "d": "to be",
+                "s": "La gramática de ésa mujer es deficiente. (Her grammar is bad.)"
             },
             {
                 "id": "es-0007",
-                "w": "comida",
-                "p": "ko-MEE-dah",
-                "d": "food",
-                "s": "La comida está lista. (The food is ready.)"
+                "w": "en",
+                "p": "en",
+                "d": "in",
+                "s": "Mi habitación está en el piso de arriba. (My room is upstairs.)"
             },
             {
                 "id": "es-0008",
-                "w": "casa",
-                "p": "KAH-sah",
-                "d": "house",
-                "s": "Mi casa es pequeña. (My house is small.)"
+                "w": "lo",
+                "p": "lo",
+                "d": "him",
+                "s": "Lo necesito tan pronto como sea posible. (I need it ASAP.)"
             },
             {
                 "id": "es-0009",
-                "w": "amigo",
-                "p": "ah-MEE-goh",
-                "d": "friend",
-                "s": "Mi amigo es simpático. (My friend is friendly.)"
+                "w": "un",
+                "p": "un",
+                "d": "an",
+                "s": "Este neumático necesita un poco de aire. (This tire needs some air.)"
             },
             {
                 "id": "es-0010",
-                "w": "familia",
-                "p": "fah-MEE-lee-ah",
-                "d": "family",
-                "s": "Mi familia es grande. (My family is big.)"
+                "w": "por",
+                "p": "poɾ",
+                "d": "by",
+                "s": "No pondría la mano en el fuego por ello. (I wouldn't bet on it.)"
             },
             {
                 "id": "es-0011",
-                "w": "tiempo",
-                "p": "TYEM-poh",
-                "d": "time; weather",
-                "s": "No tengo tiempo. (I do not have time.)"
+                "w": "qué",
+                "p": "ˈke",
+                "d": "what",
+                "s": "¿Por qué detestan ustedes a las mujeres? (Why do you hate women?)"
             },
             {
                 "id": "es-0012",
-                "w": "día",
-                "p": "DEE-ah",
-                "d": "day",
-                "s": "Buen día. (Good day.)"
+                "w": "me",
+                "p": "me",
+                "d": "me",
+                "s": "Lo que más me gusta son las matemáticas. (I like math best.)"
             },
             {
                 "id": "es-0013",
-                "w": "noche",
-                "p": "NOH-cheh",
-                "d": "night",
-                "s": "Buenas noches. (Good night.)"
+                "w": "una",
+                "p": "ˈuna",
+                "d": "an",
+                "s": "Soy una ciudadana de los Estados Unidos. (I'm a US citizen.)"
             },
             {
                 "id": "es-0014",
-                "w": "hoy",
-                "p": "oy",
-                "d": "today",
-                "s": "Hoy trabajo. (Today I work.)"
+                "w": "los",
+                "p": "los",
+                "d": "the",
+                "s": "Soy una ciudadana de los Estados Unidos. (I'm a US citizen.)"
             },
             {
                 "id": "es-0015",
-                "w": "mañana",
-                "p": "mah-NYAH-nah",
-                "d": "tomorrow; morning",
-                "s": "Hasta mañana. (See you tomorrow.)"
+                "w": "se",
+                "p": "se",
+                "d": "oneself",
+                "s": "Usted se puede retirar ahora, caballero. (You can go now, sir.)"
             },
             {
                 "id": "es-0016",
-                "w": "bueno",
-                "p": "BWEH-noh",
-                "d": "good",
-                "s": "Es un buen día. (It is a good day.)"
+                "w": "te",
+                "p": "te",
+                "d": "to you",
+                "s": "Te acabas de saltar el semáforo en rojo. (You just ran a red light.)"
             },
             {
                 "id": "es-0017",
-                "w": "malo",
-                "p": "MAH-loh",
-                "d": "bad",
-                "s": "El tiempo es malo. (The weather is bad.)"
+                "w": "con",
+                "p": "kon",
+                "d": "with",
+                "s": "Me encontré con Tom después del trabajo. (I met Tom after work.)"
             },
             {
                 "id": "es-0018",
-                "w": "grande",
-                "p": "GRAN-deh",
-                "d": "big",
-                "s": "Es una casa grande. (It is a big house.)"
+                "w": "para",
+                "p": "paɾa",
+                "d": "for",
+                "s": "No voy a echar de menos a Tom para nada. (I won't miss Tom at all.)"
             },
             {
                 "id": "es-0019",
-                "w": "pequeño",
-                "p": "peh-KEH-nyoh",
-                "d": "small",
-                "s": "Un café pequeño. (A small coffee.)"
+                "w": "está",
+                "p": "esˈta",
+                "d": "to be",
+                "s": "Mi habitación está en el piso de arriba. (My room is upstairs.)"
             },
             {
                 "id": "es-0020",
-                "w": "yo",
-                "p": "yoh",
-                "d": "I",
-                "s": "Yo soy estudiante. (I am a student.)"
+                "w": "mi",
+                "p": "mi",
+                "d": "my",
+                "s": "Mi habitación está en el piso de arriba. (My room is upstairs.)"
             },
             {
                 "id": "es-0021",
-                "w": "tú",
-                "p": "too",
-                "d": "you",
-                "s": "¿Tú quieres? (Do you want it?)"
+                "w": "pero",
+                "p": "ˈpeɾo",
+                "d": "but",
+                "s": "Dispénseme, pero está usted en un error. (Excuse me, but you're mistaken.)"
             },
             {
                 "id": "es-0022",
-                "w": "él",
-                "p": "el",
-                "d": "he",
-                "s": "Él es mi amigo. (He is my friend.)"
+                "w": "sí",
+                "p": "ˈsi",
+                "d": "yes",
+                "s": "Tom siempre se está culpando a sí mismo. (Tom is always blaming himself.)"
             },
             {
                 "id": "es-0023",
-                "w": "ella",
-                "p": "EH-yah",
-                "d": "she",
-                "s": "Ella es mi hermana. (She is my sister.)"
+                "w": "si",
+                "p": "si",
+                "d": "if",
+                "s": "Si no hay noticias, son buenas noticias. (No news is good news.)"
             },
             {
                 "id": "es-0024",
-                "w": "querer",
-                "p": "keh-RER",
-                "d": "to want",
-                "s": "Quiero aprender. (I want to learn.)"
+                "w": "bien",
+                "p": "ˈbjen",
+                "d": "well",
+                "s": "A Tom no se le dan bien las matemáticas. (Tom isn't good at math.)"
             },
             {
                 "id": "es-0025",
-                "w": "tener",
-                "p": "teh-NER",
-                "d": "to have",
-                "s": "Tengo un perro. (I have a dog.)"
+                "w": "eso",
+                "p": "ˈeso",
+                "d": "that",
+                "s": "No me puedo imaginar que eso sea cierto. (I can't imagine that's true.)"
             },
             {
                 "id": "es-0026",
-                "w": "hacer",
-                "p": "ah-SER",
-                "d": "to do; to make",
-                "s": "¿Qué haces? (What are you doing?)"
+                "w": "su",
+                "p": "su",
+                "d": "his",
+                "s": "Tomás trabajó la mayor parte de su vida. (Tom worked most of his life.)"
             },
             {
                 "id": "es-0027",
-                "w": "ir",
-                "p": "eer",
-                "d": "to go",
-                "s": "Voy a casa. (I am going home.)"
+                "w": "las",
+                "p": "las",
+                "d": "the",
+                "s": "Lo que más me gusta son las matemáticas. (I like math best.)"
             },
             {
                 "id": "es-0028",
-                "w": "comer",
-                "p": "ko-MER",
-                "d": "to eat",
-                "s": "Como fruta. (I eat fruit.)"
+                "w": "yo",
+                "p": "ˈʝo",
+                "d": "I",
+                "s": "La verdad es que yo también tengo sueño. (I'm kind of sleepy, too.)"
             },
             {
                 "id": "es-0029",
-                "w": "beber",
-                "p": "beh-BER",
-                "d": "to drink",
-                "s": "Bebo agua. (I drink water.)"
+                "w": "del",
+                "p": "del",
+                "d": "of the",
+                "s": "Me encontré con Tom después del trabajo. (I met Tom after work.)"
             },
             {
                 "id": "es-0030",
+                "w": "como",
+                "p": "komo",
+                "d": "as",
+                "s": "Lo necesito tan pronto como sea posible. (I need it ASAP.)"
+            },
+            {
+                "id": "es-0031",
+                "w": "aquí",
+                "p": "aˈki",
+                "d": "here",
+                "s": "Comí antes de que ustedes llegaran aquí. (I ate before you got here.)"
+            },
+            {
+                "id": "es-0032",
+                "w": "tu",
+                "p": "tu",
+                "d": "your",
+                "s": "Qué Dios te bendiga a ti y a tu familia. (God bless you and your family.)"
+            },
+            {
+                "id": "es-0033",
+                "w": "al",
+                "p": "al",
+                "d": "at the",
+                "s": "No tengas vergüenza al entrar a mi casa. (Make yourself at home.)"
+            },
+            {
+                "id": "es-0034",
+                "w": "más",
+                "p": "ˈmas",
+                "d": "more",
+                "s": "Lo que más me gusta son las matemáticas. (I like math best.)"
+            },
+            {
+                "id": "es-0035",
+                "w": "le",
+                "p": "le",
+                "d": "to him",
+                "s": "A ella le gustan mucho las antigüedades. (She loves antiques.)"
+            },
+            {
+                "id": "es-0036",
+                "w": "esto",
+                "p": "ˈesto",
+                "d": "this one",
+                "s": "Esto es todo lo que tiene que hacer Tom. (This is all Tom has to do.)"
+            },
+            {
+                "id": "es-0037",
+                "w": "todo",
+                "p": "ˈtodo",
+                "d": "all",
+                "s": "El transcurso del tiempo lo cambia todo. (Time changes everything.)"
+            },
+            {
+                "id": "es-0038",
+                "w": "ya",
+                "p": "ˈʝa",
+                "d": "now",
+                "s": "Tom dijo que ya había tenido suficiente. (Tom said he's had enough of that.)"
+            },
+            {
+                "id": "es-0039",
+                "w": "estoy",
+                "p": "esˈtoi",
+                "d": "am",
+                "s": "Estoy en contra de este proyecto de ley. (I'm against the bill.)"
+            },
+            {
+                "id": "es-0040",
+                "w": "ahora",
+                "p": "aˈoɾa",
+                "d": "now",
+                "s": "Usted se puede retirar ahora, caballero. (You can go now, sir.)"
+            },
+            {
+                "id": "es-0041",
+                "w": "muy",
+                "p": "ˈmwi",
+                "d": "very",
+                "s": "Muy pocas veces voy en coche al trabajo. (I rarely drive to work.)"
+            },
+            {
+                "id": "es-0042",
+                "w": "ha",
+                "p": "ˈa",
+                "d": "to have",
+                "s": "El trabajo duro nunca ha herido a nadie. (Hard work never hurt anyone.)"
+            },
+            {
+                "id": "es-0043",
+                "w": "esta",
+                "p": "ˈesta",
+                "d": "this",
+                "s": "En esta habitación hace demasiado calor. (This room is too hot.)"
+            },
+            {
+                "id": "es-0044",
+                "w": "así",
+                "p": "aˈsi",
+                "d": "like this",
+                "s": "Tom obtuvo el primer premio, ¿no es así? (Tom got first prize, didn't he?)"
+            },
+            {
+                "id": "es-0045",
+                "w": "vamos",
+                "p": "ˈbamos",
+                "d": "to go",
+                "s": "Vamos a visitar a mi abuelo esta semana. (We'll visit my grandfather this week.)"
+            },
+            {
+                "id": "es-0046",
+                "w": "algo",
+                "p": "ˈalɡo",
+                "d": "something",
+                "s": "Nuestros hijos necesitan algo que hacer. (Our kids need something to do.)"
+            },
+            {
+                "id": "es-0047",
+                "w": "hay",
+                "p": "ˈai",
+                "d": "there is",
+                "s": "Si no hay noticias, son buenas noticias. (No news is good news.)"
+            },
+            {
+                "id": "es-0048",
+                "w": "bueno",
+                "p": "ˈbweno",
+                "d": "good",
+                "s": "Parecía demasiado bueno para ser verdad. (It seemed too good to be true.)"
+            },
+            {
+                "id": "es-0049",
+                "w": "tengo",
+                "p": "ˈtenɡo",
+                "d": "to have",
+                "s": "Tengo que comprarme unos esquíes nuevos. (I need to buy new skis.)"
+            },
+            {
+                "id": "es-0050",
+                "w": "él",
+                "p": "ˈel",
+                "d": "he",
+                "s": "Él estaba demasiado enojado para hablar. (He was too angry to speak.)"
+            },
+            {
+                "id": "es-0051",
+                "w": "cuando",
+                "p": "kwando",
+                "d": "when",
+                "s": "Los gatos pueden ver cuando está oscuro. (Cats can see in the dark.)"
+            },
+            {
+                "id": "es-0052",
+                "w": "estás",
+                "p": "esˈtas",
+                "d": "to be",
+                "s": "Yo no puedo decir si tú estás bromeando. (I can't tell if you're joking.)"
+            },
+            {
+                "id": "es-0053",
+                "w": "sé",
+                "p": "ˈse",
+                "d": "to know",
+                "s": "Sé que ustedes hicieron todo el trabajo. (I know you did all the work.)"
+            },
+            {
+                "id": "es-0054",
+                "w": "tú",
+                "p": "ˈtu",
+                "d": "you",
+                "s": "Esto demuestra que tú eres un mentiroso. (This proves you're a liar.)"
+            },
+            {
+                "id": "es-0055",
+                "w": "nos",
+                "p": "nos",
+                "d": "to us",
+                "s": "Nos encontramos con ella por casualidad. (We met her by accident.)"
+            },
+            {
+                "id": "es-0056",
+                "w": "nada",
+                "p": "ˈnada",
+                "d": "nothing",
+                "s": "No voy a echar de menos a Tom para nada. (I won't miss Tom at all.)"
+            },
+            {
+                "id": "es-0057",
+                "w": "cómo",
+                "p": "ˈkomo",
+                "d": "how?",
+                "s": "¿Sabe cómo hacer el nudo de una corbata? (Do you know how to tie a tie?)"
+            },
+            {
+                "id": "es-0058",
+                "w": "este",
+                "p": "ˈeste",
+                "d": "this",
+                "s": "¿Quién es el propietario de este camión? (Who owns this truck?)"
+            },
+            {
+                "id": "es-0059",
+                "w": "he",
+                "p": "ˈe",
+                "d": "to have",
+                "s": "Siento mucho en lo que me he convertido. (I hate what I've become.)"
+            },
+            {
+                "id": "es-0060",
+                "w": "ser",
+                "p": "ˈseɾ",
+                "d": "to be",
+                "s": "¿Por qué suelen ser amarillos los taxis? (Why are taxis usually yellow?)"
+            },
+            {
+                "id": "es-0061",
+                "w": "tiene",
+                "p": "ˈtjene",
+                "d": "to have",
+                "s": "¿Por qué no tiene usted confianza en mí? (Why don't you trust me?)"
+            },
+            {
+                "id": "es-0062",
+                "w": "puedo",
+                "p": "ˈpwedo",
+                "d": "to be able to",
+                "s": "Puedo distinguir entre el bien y el mal. (I know right from wrong.)"
+            },
+            {
+                "id": "es-0063",
+                "w": "ella",
+                "p": "ˈeʝa",
+                "d": "she",
+                "s": "A ella le gustan mucho las antigüedades. (She loves antiques.)"
+            },
+            {
+                "id": "es-0064",
+                "w": "quiero",
+                "p": "ˈkjeɾo",
+                "d": "to desire",
+                "s": "No soy capaz de encontrar lo que quiero. (I can't find what I want.)"
+            },
+            {
+                "id": "es-0065",
+                "w": "hacer",
+                "p": "aˈθeɾ",
+                "d": "to do",
+                "s": "Esto es todo lo que tiene que hacer Tom. (This is all Tom has to do.)"
+            },
+            {
+                "id": "es-0066",
+                "w": "fue",
+                "p": "ˈfwe",
+                "d": "to go",
+                "s": "Fue mi primer viaje a bordo de un barco. (It was my first trip aboard.)"
+            },
+            {
+                "id": "es-0067",
+                "w": "gracias",
+                "p": "ˈɡɾaθjas/ [ˈɡɾa.θjas]",
+                "d": "thank you",
+                "s": "Muchísimas gracias por pasarte por aquí. (Thank you so much for coming by.)"
+            },
+            {
+                "id": "es-0068",
+                "w": "vez",
+                "p": "ˈbeθ",
+                "d": "time",
+                "s": "¿Has estado alguna vez en el extranjero? (Have you ever been abroad?)"
+            },
+            {
+                "id": "es-0069",
+                "w": "era",
+                "p": "ˈeɾa",
+                "d": "to be",
+                "s": "Era consciente de estar siendo vigilado. (I was aware of being watched.)"
+            },
+            {
+                "id": "es-0070",
+                "w": "soy",
+                "p": "ˈsoi",
+                "d": "to be",
+                "s": "Soy una ciudadana de los Estados Unidos. (I'm a US citizen.)"
+            },
+            {
+                "id": "es-0071",
+                "w": "sólo",
+                "p": "ˈsolo",
+                "d": "only",
+                "s": "Sólo he venido para decir que lo siento. (I only came to say I'm sorry.)"
+            },
+            {
+                "id": "es-0072",
+                "w": "todos",
+                "p": "ˈtodos",
+                "d": "all",
+                "s": "Eres el mejor papá de todos los tiempos. (You're the best dad ever.)"
+            },
+            {
+                "id": "es-0073",
+                "w": "porque",
+                "p": "ˈpoɾke",
+                "d": "because",
+                "s": "No puedo esperar porque estoy con prisa. (I can't wait because I'm in a hurry.)"
+            },
+            {
+                "id": "es-0074",
+                "w": "son",
+                "p": "ˈson",
+                "d": "to be",
+                "s": "Lo que más me gusta son las matemáticas. (I like math best.)"
+            },
+            {
+                "id": "es-0075",
+                "w": "tienes",
+                "p": "ˈtjenes",
+                "d": "to have",
+                "s": "Todo lo que tienes que hacer es esperar. (All you have to do is wait.)"
+            },
+            {
+                "id": "es-0076",
+                "w": "creo",
+                "p": "ˈkɾeo",
+                "d": "to create",
+                "s": "Creo que me he encontrado contigo antes. (I think I've met you before.)"
+            },
+            {
+                "id": "es-0077",
+                "w": "voy",
+                "p": "ˈboi",
+                "d": "to go",
+                "s": "Muy pocas veces voy en coche al trabajo. (I rarely drive to work.)"
+            },
+            {
+                "id": "es-0078",
+                "w": "sabes",
+                "p": "ˈsabes",
+                "d": "to know",
+                "s": "Sabes perfectamente lo que quiero decir. (You know very well what I mean.)"
+            },
+            {
+                "id": "es-0079",
+                "w": "estaba",
+                "p": "esˈtaba",
+                "d": "to be",
+                "s": "Él estaba demasiado enojado para hablar. (He was too angry to speak.)"
+            },
+            {
+                "id": "es-0080",
+                "w": "puede",
+                "p": "ˈpwede",
+                "d": "to be able to",
+                "s": "Usted se puede retirar ahora, caballero. (You can go now, sir.)"
+            },
+            {
+                "id": "es-0081",
+                "w": "eres",
+                "p": "ˈeɾes",
+                "d": "you are",
+                "s": "Eres el mejor papá de todos los tiempos. (You're the best dad ever.)"
+            },
+            {
+                "id": "es-0082",
+                "w": "ese",
+                "p": "ˈese",
+                "d": "that",
+                "s": "Tom no está capacitado para ese trabajo. (Tom is unfit for that job.)"
+            },
+            {
+                "id": "es-0083",
+                "w": "usted",
+                "p": "usˈted",
+                "d": "second person formal",
+                "s": "Usted se puede retirar ahora, caballero. (You can go now, sir.)"
+            },
+            {
+                "id": "es-0084",
+                "w": "entonces",
+                "p": "enˈtonθes",
+                "d": "then",
+                "s": "Desearía haber estado con ella entonces. (I wish I had been with her then.)"
+            },
+            {
+                "id": "es-0085",
+                "w": "hola",
+                "p": "ˈola",
+                "d": "hello",
+                "s": "Pensé que Tom le diría hola a María. (I thought Tom would say hello to Mary.)"
+            },
+            {
+                "id": "es-0086",
+                "w": "solo",
+                "p": "ˈsolo",
+                "d": "only",
+                "s": "Tom estaba solo el viernes por la noche. (Tom was alone on Friday night.)"
+            },
+            {
+                "id": "es-0087",
+                "w": "verdad",
+                "p": "beɾˈda",
+                "d": "truth",
+                "s": "La verdad es que yo también tengo sueño. (I'm kind of sleepy, too.)"
+            },
+            {
+                "id": "es-0088",
+                "w": "casa",
+                "p": "ˈkasa",
+                "d": "house",
+                "s": "No tengas vergüenza al entrar a mi casa. (Make yourself at home.)"
+            },
+            {
+                "id": "es-0089",
+                "w": "tan",
+                "p": "tan",
+                "d": "so",
+                "s": "Lo necesito tan pronto como sea posible. (I need it ASAP.)"
+            },
+            {
+                "id": "es-0090",
+                "w": "quién",
+                "p": "ˈkjen",
+                "d": "who?",
+                "s": "¿Quién es el propietario de este camión? (Who owns this truck?)"
+            },
+            {
+                "id": "es-0091",
+                "w": "sus",
+                "p": "sus",
+                "d": "one's",
+                "s": "Sus bromas nos hacían partirnos de risa. (His jokes had us in stitches.)"
+            },
+            {
+                "id": "es-0092",
+                "w": "tiempo",
+                "p": "ˈtjempo",
+                "d": "time",
+                "s": "El transcurso del tiempo lo cambia todo. (Time changes everything.)"
+            },
+            {
+                "id": "es-0093",
+                "w": "dos",
+                "p": "ˈdos",
+                "d": "two",
+                "s": "Por favor, ven antes de las dos y media. (Please come before 2:30.)"
+            },
+            {
+                "id": "es-0094",
+                "w": "esa",
+                "p": "ˈesa",
+                "d": "that",
+                "s": "¿Cuánto cuesta esa bicicleta de montaña? (How much is that mountain bike?)"
+            },
+            {
+                "id": "es-0095",
+                "w": "nunca",
+                "p": "ˈnunka",
+                "d": "never",
+                "s": "Él trabajó con más entusiasmo que nunca. (He worked harder than ever.)"
+            },
+            {
+                "id": "es-0096",
+                "w": "dónde",
+                "p": "ˈdonde",
+                "d": "where?",
+                "s": "No estoy segura exactamente dónde estoy. (I'm not sure where I am.)"
+            },
+            {
+                "id": "es-0097",
+                "w": "va",
+                "p": "ˈba",
+                "d": "to go",
+                "s": "No estoy segura cuándo va a aparecer él. (I'm not sure when he'll turn up.)"
+            },
+            {
+                "id": "es-0098",
+                "w": "oh",
+                "p": "ˈo",
+                "d": "oh",
+                "s": "Oh, por cierto, tengo algo que mostrarte. (Oh, by the way, I have something to show you.)"
+            },
+            {
+                "id": "es-0099",
+                "w": "favor",
+                "p": "faˈboɾ",
+                "d": "favor/favour",
+                "s": "Por favor, ven antes de las dos y media. (Please come before 2:30.)"
+            },
+            {
+                "id": "es-0100",
+                "w": "mucho",
+                "p": "ˈmut͡ʃo",
+                "d": "much",
+                "s": "A ella le gustan mucho las antigüedades. (She loves antiques.)"
+            },
+            {
+                "id": "es-0101",
+                "w": "mí",
+                "p": "ˈmi",
+                "d": "me",
+                "s": "¿Por qué no tiene usted confianza en mí? (Why don't you trust me?)"
+            },
+            {
+                "id": "es-0102",
+                "w": "quieres",
+                "p": "kjeɾes",
+                "d": "to desire",
+                "s": "¿Cuándo quieres que esté de vuelta aquí? (When do you want me back here?)"
+            },
+            {
+                "id": "es-0103",
+                "w": "siento",
+                "p": "ˈsjento",
+                "d": "to seat",
+                "s": "Siento mucho en lo que me he convertido. (I hate what I've become.)"
+            },
+            {
+                "id": "es-0104",
+                "w": "señor",
+                "p": "seˈɲoɾ",
+                "d": "mister",
+                "s": "Tenemos algo especial para usted, señor. (We have something special for you, sir.)"
+            },
+            {
+                "id": "es-0105",
+                "w": "mejor",
+                "p": "meˈxoɾ",
+                "d": "better",
+                "s": "Eres el mejor papá de todos los tiempos. (You're the best dad ever.)"
+            },
+            {
+                "id": "es-0106",
+                "w": "hace",
+                "p": "ˈaθe",
+                "d": "to do",
+                "s": "En esta habitación hace demasiado calor. (This room is too hot.)"
+            },
+            {
+                "id": "es-0107",
+                "w": "has",
+                "p": "ˈas",
+                "d": "to have",
+                "s": "¿Has estado alguna vez en el extranjero? (Have you ever been abroad?)"
+            },
+            {
+                "id": "es-0108",
+                "w": "decir",
+                "p": "deˈθiɾ",
+                "d": "to say",
+                "s": "Sólo he venido para decir que lo siento. (I only came to say I'm sorry.)"
+            },
+            {
+                "id": "es-0109",
+                "w": "también",
+                "p": "tamˈbjen",
+                "d": "also",
+                "s": "La verdad es que yo también tengo sueño. (I'm kind of sleepy, too.)"
+            },
+            {
+                "id": "es-0110",
+                "w": "sobre",
+                "p": "ˈsobɾe",
+                "d": "over",
+                "s": "El diccionario está sobre el escritorio. (The dictionary is on the desk.)"
+            },
+            {
+                "id": "es-0111",
+                "w": "dios",
+                "p": "ˈdjos",
+                "d": "god",
+                "s": "Todos los hombres son iguales ante Dios. (All men are equal before God.)"
+            },
+            {
+                "id": "es-0112",
+                "w": "sin",
+                "p": "ˈsin",
+                "d": "without",
+                "s": "Tom viene aquí todos los días sin falta. (Tom comes here every single day.)"
+            },
+            {
+                "id": "es-0113",
+                "w": "tenemos",
+                "p": "teˈnemos",
+                "d": "to have",
+                "s": "Tenemos que nivelar nuestro presupuesto. (We must balance our budget.)"
+            },
+            {
+                "id": "es-0114",
+                "w": "están",
+                "p": "esˈtan",
+                "d": "to be",
+                "s": "Las capas de hielo se están derritiendo. (The ice sheets are melting.)"
+            },
+            {
+                "id": "es-0115",
+                "w": "ti",
+                "p": "ˈti",
+                "d": "you",
+                "s": "Imagino que soy demasiado viejo para ti. (I guess I'm too old for you.)"
+            },
+            {
+                "id": "es-0116",
+                "w": "puedes",
+                "p": "ˈpwedes",
+                "d": "to be able to",
+                "s": "¿Puedes aumentar el volumen del retorno? (Can you turn up the echo?)"
+            },
+            {
+                "id": "es-0117",
+                "w": "ver",
+                "p": "ˈbeɾ",
+                "d": "to see",
+                "s": "Los gatos pueden ver cuando está oscuro. (Cats can see in the dark.)"
+            },
+            {
+                "id": "es-0118",
+                "w": "hombre",
+                "p": "ˈombɾe",
+                "d": "man",
+                "s": "El hombre llevaba un arma en la cintura. (The man wore a gun on his hip.)"
+            },
+            {
+                "id": "es-0119",
+                "w": "vida",
+                "p": "ˈbida",
+                "d": "life",
+                "s": "Tomás trabajó la mayor parte de su vida. (Tom worked most of his life.)"
+            },
+            {
+                "id": "es-0120",
+                "w": "alguien",
+                "p": "ˈalɡjen",
+                "d": "someone",
+                "s": "Tom necesitaba a alguien que lo ayudara. (Tom needed someone to help him.)"
+            },
+            {
+                "id": "es-0121",
+                "w": "cosas",
+                "p": "ˈkosas",
+                "d": "thing",
+                "s": "Las cosas están a punto de ponerse feas. (Things are about to get ugly.)"
+            },
+            {
+                "id": "es-0122",
+                "w": "siempre",
+                "p": "ˈsjempɾe",
+                "d": "always",
+                "s": "Ella siempre presume de su buena suerte. (She always boasts of her luck.)"
+            },
+            {
+                "id": "es-0123",
+                "w": "hasta",
+                "p": "ˈasta",
+                "d": "until",
+                "s": "No puedo esperar hasta el próximo lunes. (I can't wait till next Monday.)"
+            },
+            {
+                "id": "es-0124",
+                "w": "ahí",
+                "p": "aˈi",
+                "d": "there",
+                "s": "Yo no tuve oportunidad de relajarme ahí. (I had no chance to relax there.)"
+            },
+            {
+                "id": "es-0125",
+                "w": "ir",
+                "p": "ˈiɾ",
+                "d": "to go",
+                "s": "Ahora de verdad que me quiero ir a casa. (I really want to go home now.)"
+            },
+            {
+                "id": "es-0126",
+                "w": "años",
+                "p": "ˈaɲos",
+                "d": "year",
+                "s": "Viví en el extranjero durante diez años. (I lived overseas for ten years.)"
+            },
+            {
+                "id": "es-0127",
+                "w": "antes",
+                "p": "ˈantes",
+                "d": "earlier",
+                "s": "Por favor, ven antes de las dos y media. (Please come before 2:30.)"
+            },
+            {
+                "id": "es-0128",
+                "w": "estar",
+                "p": "esˈtaɾ",
+                "d": "to be",
+                "s": "Debería estar allí para las dos y media. (I should be there by 2:30.)"
+            },
+            {
+                "id": "es-0129",
+                "w": "ni",
+                "p": "ˈni",
+                "d": "Used when negating two or more elements",
+                "s": "Ella intentó no derramar ni una lágrima. (She tried not to shed a tear.)"
+            },
+            {
+                "id": "es-0130",
+                "w": "poco",
+                "p": "ˈpoko",
+                "d": "little",
+                "s": "Este neumático necesita un poco de aire. (This tire needs some air.)"
+            },
+            {
+                "id": "es-0131",
+                "w": "día",
+                "p": "ˈdia",
+                "d": "day",
+                "s": "La tienda permanece abierta todo el día. (The shop stays open all day.)"
+            },
+            {
+                "id": "es-0132",
+                "w": "uno",
+                "p": "ˈuno",
+                "d": "one",
+                "s": "¿Acaso no eres uno de los amigos de Tom? (Aren't you one of Tom's friends?)"
+            },
+            {
+                "id": "es-0133",
+                "w": "noche",
+                "p": "ˈnot͡ʃe",
+                "d": "night",
+                "s": "Tom estaba solo el viernes por la noche. (Tom was alone on Friday night.)"
+            },
+            {
+                "id": "es-0134",
+                "w": "hecho",
+                "p": "ˈet͡ʃo",
+                "d": "act",
+                "s": "¿Ese anillo está hecho de oro auténtico? (Is that ring made of real gold?)"
+            },
+            {
+                "id": "es-0135",
+                "w": "mis",
+                "p": "mis",
+                "d": "my",
+                "s": "No daba crédito a lo que veían mis ojos. (I couldn't believe my eyes.)"
+            },
+            {
+                "id": "es-0136",
+                "w": "estamos",
+                "p": "esˈtamos",
+                "d": "to be",
+                "s": "Estamos seguros de que vas a estar bien. (We're sure you'll be fine.)"
+            },
+            {
+                "id": "es-0137",
+                "w": "otra",
+                "p": "ˈotɾa",
+                "d": "other",
+                "s": "Tenemos que hacer este informe otra vez. (We need to do this report again.)"
+            },
+            {
+                "id": "es-0138",
+                "w": "acuerdo",
+                "p": "aˈkweɾdo",
+                "d": "agreement",
+                "s": "No me acuerdo de la letra de la canción. (I can't remember the lyrics.)"
+            },
+            {
+                "id": "es-0139",
+                "w": "trabajo",
+                "p": "tɾaˈbaxo",
+                "d": "work",
+                "s": "Me encontré con Tom después del trabajo. (I met Tom after work.)"
+            },
+            {
+                "id": "es-0140",
+                "w": "nosotros",
+                "p": "noˈsotɾos",
+                "d": "we",
+                "s": "Nosotros salimos temprano por la mañana. (We got an early start.)"
+            },
+            {
+                "id": "es-0141",
+                "w": "parece",
+                "p": "paˈɾeθe",
+                "d": "to seem",
+                "s": "Parece que Tom está ligeramente confuso. (Tom looks a little confused.)"
+            },
+            {
+                "id": "es-0142",
+                "w": "gente",
+                "p": "ˈxente",
+                "d": "people",
+                "s": "Esta gente odia a todos los extranjeros. (These people hate all foreigners.)"
+            },
+            {
+                "id": "es-0143",
+                "w": "sea",
+                "p": "ˈsea",
+                "d": "to be",
+                "s": "Lo necesito tan pronto como sea posible. (I need it ASAP.)"
+            },
+            {
+                "id": "es-0144",
+                "w": "padre",
+                "p": "ˈpadɾe",
+                "d": "father",
+                "s": "Este es el lugar de trabajo de mi padre. (This is where my father works.)"
+            },
+            {
+                "id": "es-0145",
+                "w": "mira",
+                "p": "ˈmiɾa",
+                "d": "to look at",
+                "s": "No me gusta la forma en que Tom te mira. (I don't like the way Tom looks at you.)"
+            },
+            {
+                "id": "es-0146",
+                "w": "mismo",
+                "p": "ˈmismo",
+                "d": "same",
+                "s": "Tom siempre se está culpando a sí mismo. (Tom is always blaming himself.)"
+            },
+            {
+                "id": "es-0147",
+                "w": "dijo",
+                "p": "ˈdixo",
+                "d": "to say",
+                "s": "Tom le dijo a Mary que no se preocupara. (Tom told Mary not to worry.)"
+            },
+            {
+                "id": "es-0148",
+                "w": "nadie",
+                "p": "ˈnadje",
+                "d": "no one",
+                "s": "El trabajo duro nunca ha herido a nadie. (Hard work never hurt anyone.)"
+            },
+            {
+                "id": "es-0149",
+                "w": "quiere",
+                "p": "ˈkjeɾe",
+                "d": "to desire",
+                "s": "Ella quiere volver a encontrarse con él. (She wants to meet him again.)"
+            },
+            {
+                "id": "es-0150",
+                "w": "podría",
+                "p": "poˈðɾia",
+                "d": "to be able to",
+                "s": "Creo que Tom podría estar en la escuela. (I think Tom might be at school.)"
+            },
+            {
+                "id": "es-0151",
                 "w": "hablar",
-                "p": "ah-BLAR",
-                "d": "to speak",
-                "s": "Hablo español. (I speak Spanish.)"
+                "p": "aˈblaɾ",
+                "d": "to talk",
+                "s": "Él estaba demasiado enojado para hablar. (He was too angry to speak.)"
+            },
+            {
+                "id": "es-0152",
+                "w": "vas",
+                "p": "ˈbas",
+                "d": "to go",
+                "s": "Estamos seguros de que vas a estar bien. (We're sure you'll be fine.)"
+            },
+            {
+                "id": "es-0153",
+                "w": "ellos",
+                "p": "ˈeʝos",
+                "d": "they",
+                "s": "Ellos son igual de fuertes que nosotros. (They are as strong as us.)"
+            },
+            {
+                "id": "es-0154",
+                "w": "tal",
+                "p": "ˈtal",
+                "d": "such",
+                "s": "Tal vez ella se olvidó de mi cumpleaños. (Maybe she forgot my birthday.)"
+            },
+            {
+                "id": "es-0155",
+                "w": "pasa",
+                "p": "ˈpasa",
+                "d": "to pass",
+                "s": "La vida es corta y el tiempo pasa veloz. (Life is short and time is swift.)"
+            },
+            {
+                "id": "es-0156",
+                "w": "fuera",
+                "p": "ˈfweɾa",
+                "d": "outside",
+                "s": "Tom está fuera arrancando malas hierbas. (Tom is outside, pulling weeds.)"
+            },
+            {
+                "id": "es-0157",
+                "w": "después",
+                "p": "desˈpwes",
+                "d": "later",
+                "s": "Me encontré con Tom después del trabajo. (I met Tom after work.)"
+            },
+            {
+                "id": "es-0158",
+                "w": "han",
+                "p": "ˈan",
+                "d": "to have",
+                "s": "Las vacaciones se me han pasado volando. (My vacation went by quickly.)"
+            },
+            {
+                "id": "es-0159",
+                "w": "desde",
+                "p": "ˈdesde",
+                "d": "since",
+                "s": "Japón importa naranjas desde California. (Japan imports oranges from California.)"
+            },
+            {
+                "id": "es-0160",
+                "w": "dinero",
+                "p": "diˈneɾo",
+                "d": "money",
+                "s": "Mary escondió el dinero en el sujetador. (Mary hid the money in her bra.)"
+            },
+            {
+                "id": "es-0161",
+                "w": "mundo",
+                "p": "ˈmundo",
+                "d": "world",
+                "s": "Aquella medida afectaba a todo el mundo. (That rule applied to everybody.)"
+            },
+            {
+                "id": "es-0162",
+                "w": "claro",
+                "p": "ˈklaɾo",
+                "d": "certainly",
+                "s": "Está claro que os hago sentir incómodos. (Clearly, I make you uncomfortable.)"
+            },
+            {
+                "id": "es-0163",
+                "w": "momento",
+                "p": "moˈmento",
+                "d": "moment",
+                "s": "En este momento estoy ocupado cocinando. (I am busy cooking at the moment.)"
+            },
+            {
+                "id": "es-0164",
+                "w": "les",
+                "p": "les",
+                "d": "to them",
+                "s": "A los conejos les gustan las zanahorias. (Rabbits like carrots.)"
+            },
+            {
+                "id": "es-0165",
+                "w": "tener",
+                "p": "teˈneɾ",
+                "d": "to have",
+                "s": "No debería tener que hacer eso de nuevo. (I shouldn't have to do that again.)"
+            },
+            {
+                "id": "es-0166",
+                "w": "estado",
+                "p": "esˈtado",
+                "d": "country",
+                "s": "¿Has estado alguna vez en el extranjero? (Have you ever been abroad?)"
+            },
+            {
+                "id": "es-0167",
+                "w": "otro",
+                "p": "ˈotɾo",
+                "d": "other",
+                "s": "Ojalá me hubiera casado con otro hombre. (I wish I'd married another man.)"
+            },
+            {
+                "id": "es-0168",
+                "w": "había",
+                "p": "aˈbia",
+                "d": "to have",
+                "s": "La guerra se había acabado oficialmente. (The war was officially over.)"
+            },
+            {
+                "id": "es-0169",
+                "w": "mañana",
+                "p": "maˈɲana",
+                "d": "the morning",
+                "s": "Nosotros salimos temprano por la mañana. (We got an early start.)"
+            },
+            {
+                "id": "es-0170",
+                "w": "tenía",
+                "p": "teˈnia",
+                "d": "to have",
+                "s": "Tom tenía una buena razón para enojarse. (Tom had good reason to be angry.)"
+            },
+            {
+                "id": "es-0171",
+                "w": "madre",
+                "p": "ˈmadɾe",
+                "d": "mother",
+                "s": "Mi madre está ocupada cocinando la cena. (My mother is busy cooking dinner.)"
+            },
+            {
+                "id": "es-0172",
+                "w": "vale",
+                "p": "ˈbale",
+                "d": "okay",
+                "s": "No tienes que preocuparte de eso, ¿vale? (You don't have to worry about that, OK?)"
+            },
+            {
+                "id": "es-0173",
+                "w": "lugar",
+                "p": "luˈɡaɾ",
+                "d": "place",
+                "s": "El lugar de la basura está en la basura. (Trash belongs in the trash.)"
+            },
+            {
+                "id": "es-0174",
+                "w": "haciendo",
+                "p": "aˈθjendo",
+                "d": "to do",
+                "s": "Estoy haciendo la carrera de sociología. (I'm majoring in sociology.)"
+            },
+            {
+                "id": "es-0175",
+                "w": "donde",
+                "p": "ˈdonde",
+                "d": "where",
+                "s": "Solo necesitaba un lugar donde estudiar. (I just needed a place to study.)"
+            },
+            {
+                "id": "es-0176",
+                "w": "seguro",
+                "p": "seˈɡuɾo",
+                "d": "secure",
+                "s": "Estoy seguro que a usted le gustará Tom. (I'm sure you'll like Tom.)"
+            },
+            {
+                "id": "es-0177",
+                "w": "sabe",
+                "p": "ˈsabe",
+                "d": "to know",
+                "s": "Tom se sabe el nombre del perro de Mary. (Tom knows Mary's dog's name.)"
+            },
+            {
+                "id": "es-0178",
+                "w": "podemos",
+                "p": "poˈdemos",
+                "d": "to prune",
+                "s": "Yo pienso que ahora nos podemos relajar. (I think we can relax now.)"
+            },
+            {
+                "id": "es-0179",
+                "w": "tus",
+                "p": "tus",
+                "d": "your",
+                "s": "Espero que tus deseos se hagan realidad. (I hope your wish will come true.)"
+            },
+            {
+                "id": "es-0180",
+                "w": "espera",
+                "p": "esˈpeɾa",
+                "d": "to hope",
+                "s": "Espera hasta que tu padre llegue a casa. (Wait until your father gets home.)"
+            },
+            {
+                "id": "es-0181",
+                "w": "nuevo",
+                "p": "ˈnwebo",
+                "d": "new",
+                "s": "El nuevo libro de Tom es acerca de Mary. (Tom's new book is about Mary.)"
+            },
+            {
+                "id": "es-0182",
+                "w": "sido",
+                "p": "ˈsido",
+                "d": "to be",
+                "s": "Este año ha sido terriblemente caluroso. (This year has been terribly hot.)"
+            },
+            {
+                "id": "es-0183",
+                "w": "cosa",
+                "p": "ˈkosa",
+                "d": "thing",
+                "s": "Me alegro de no haber comprado tal cosa. (I am glad I did not buy such a thing.)"
+            },
+            {
+                "id": "es-0184",
+                "w": "hijo",
+                "p": "ˈixo",
+                "d": "son",
+                "s": "El hijo le hizo una pregunta a su madre. (The boy asked his mother a question.)"
+            },
+            {
+                "id": "es-0185",
+                "w": "allí",
+                "p": "aˈʝi",
+                "d": "there",
+                "s": "Debería estar allí para las dos y media. (I should be there by 2:30.)"
+            },
+            {
+                "id": "es-0186",
+                "w": "menos",
+                "p": "ˈmenos",
+                "d": "less",
+                "s": "No voy a echar de menos a Tom para nada. (I won't miss Tom at all.)"
+            },
+            {
+                "id": "es-0187",
+                "w": "tipo",
+                "p": "ˈtipo",
+                "d": "kind",
+                "s": "No estoy habituado a este tipo de cosas. (I'm not used to this sort of thing.)"
+            },
+            {
+                "id": "es-0188",
+                "w": "amigo",
+                "p": "aˈmiɡo",
+                "d": "friend",
+                "s": "Se puede comparar un libro con un amigo. (A book can be compared to a friend.)"
+            },
+            {
+                "id": "es-0189",
+                "w": "gran",
+                "p": "ˈɡɾan",
+                "d": "great",
+                "s": "Tom cree que está metido en un gran lío. (Tom thinks he's in big trouble.)"
+            },
+            {
+                "id": "es-0190",
+                "w": "nuestro",
+                "p": "ˈnwestɾo",
+                "d": "our",
+                "s": "Tenemos que nivelar nuestro presupuesto. (We must balance our budget.)"
+            },
+            {
+                "id": "es-0191",
+                "w": "mujer",
+                "p": "muˈxeɾ",
+                "d": "woman",
+                "s": "La gramática de ésa mujer es deficiente. (Her grammar is bad.)"
+            },
+            {
+                "id": "es-0192",
+                "w": "mamá",
+                "p": "maˈma",
+                "d": "a term of affection for a woman",
+                "s": "Mi mamá me dejó el pelo demasiado corto. (My mother cut my hair too short.)"
+            },
+            {
+                "id": "es-0193",
+                "w": "luego",
+                "p": "ˈlweɡo",
+                "d": "then",
+                "s": "Las manzanas van a estar maduras luego. (The apples will be ripe soon.)"
+            },
+            {
+                "id": "es-0194",
+                "w": "papá",
+                "p": "paˈpa",
+                "d": "team that usually defeats other team",
+                "s": "Eres el mejor papá de todos los tiempos. (You're the best dad ever.)"
+            },
+            {
+                "id": "es-0195",
+                "w": "días",
+                "p": "ˈdias",
+                "d": "day",
+                "s": "Voy andando a la escuela todos los días. (I walk to school every day.)"
+            },
+            {
+                "id": "es-0196",
+                "w": "dice",
+                "p": "ˈdiθe",
+                "d": "to say",
+                "s": "Tom dice que él no tiene nada que hacer. (Tom says he has nothing to do.)"
+            },
+            {
+                "id": "es-0197",
+                "w": "hoy",
+                "p": "ˈoi",
+                "d": "today",
+                "s": "La temperatura más baja de hoy fue 3 ºC. (Today's low was 3 degrees Celsius.)"
+            },
+            {
+                "id": "es-0198",
+                "w": "tres",
+                "p": "ˈtɾes",
+                "d": "three",
+                "s": "\"¿Qué hora es?\" \"Son las tres y veinte.\" (\"What time is it?\" \"It's 3:20.\")"
+            },
+            {
+                "id": "es-0199",
+                "w": "buena",
+                "p": "ˈbwena",
+                "d": "good",
+                "s": "He recibido una buena oferta de trabajo. (I received a good job offer.)"
+            },
+            {
+                "id": "es-0200",
+                "w": "necesito",
+                "p": "neθesito",
+                "d": "to need",
+                "s": "Lo necesito tan pronto como sea posible. (I need it ASAP.)"
+            },
+            {
+                "id": "es-0201",
+                "w": "dije",
+                "p": "ˈdixe",
+                "d": "to say",
+                "s": "Te dije que Tom podía echarnos una mano. (I told you Tom would help us out.)"
+            },
+            {
+                "id": "es-0202",
+                "w": "oye",
+                "p": "ˈoʝe",
+                "d": "to hear",
+                "s": "Tom llora cada vez que oye esta canción. (Tom cries every time he hears this song.)"
+            },
+            {
+                "id": "es-0203",
+                "w": "gusta",
+                "p": "ˈɡusta",
+                "d": "translated as",
+                "s": "Lo que más me gusta son las matemáticas. (I like math best.)"
+            },
+            {
+                "id": "es-0204",
+                "w": "quería",
+                "p": "keˈɾia",
+                "d": "to desire",
+                "s": "Yo tan solo quería dejarlo en el pasado. (I just wanted to get it over with.)"
+            },
+            {
+                "id": "es-0205",
+                "w": "será",
+                "p": "seˈɾa",
+                "d": "to be",
+                "s": "Él será mi suplente mientras esté fuera. (He will be my deputy while I am away.)"
+            },
+            {
+                "id": "es-0206",
+                "w": "haber",
+                "p": "aˈbeɾ",
+                "d": "to have",
+                "s": "No me arrepiento de haber llegado tarde. (I don't regret arriving late.)"
+            },
+            {
+                "id": "es-0207",
+                "w": "parte",
+                "p": "ˈpaɾte",
+                "d": "part",
+                "s": "No lo puedo encontrar por ninguna parte. (I can't find it anywhere.)"
+            },
+            {
+                "id": "es-0208",
+                "w": "todas",
+                "p": "ˈtodas",
+                "d": "all",
+                "s": "Por favor, responde todas las preguntas. (Please answer all the questions.)"
+            },
+            {
+                "id": "es-0209",
+                "w": "crees",
+                "p": "ˈkɾees",
+                "d": "to create",
+                "s": "¿Te crees que quiero hacerle daño a Tom? (Do you think I want to hurt Tom?)"
+            },
+            {
+                "id": "es-0210",
+                "w": "buen",
+                "p": "ˈbwen",
+                "d": "fine”",
+                "s": "Creo que estás haciendo un buen trabajo. (I think you're doing a great job.)"
+            },
+            {
+                "id": "es-0211",
+                "w": "conmigo",
+                "p": "komˈmiɡo",
+                "d": "with me",
+                "s": "Él se enojó conmigo por llamarlo petiso. (He got mad at me for calling him Shorty.)"
+            },
+            {
+                "id": "es-0212",
+                "w": "nombre",
+                "p": "ˈnombɾe",
+                "d": "name",
+                "s": "Tom se sabe el nombre del perro de Mary. (Tom knows Mary's dog's name.)"
+            },
+            {
+                "id": "es-0213",
+                "w": "mierda",
+                "p": "ˈmjeɾda",
+                "d": "shit",
+                "s": "¡Eres una mentirosa de mierda! (You're a filthy liar!)"
+            },
+            {
+                "id": "es-0214",
+                "w": "nuestra",
+                "p": "ˈnwestɾa",
+                "d": "our",
+                "s": "Nuestra maestra es una verdadera idiota. (Our teacher is a real idiot.)"
+            },
+            {
+                "id": "es-0215",
+                "w": "mal",
+                "p": "ˈmal",
+                "d": "badly",
+                "s": "Puedo distinguir entre el bien y el mal. (I know right from wrong.)"
+            },
+            {
+                "id": "es-0216",
+                "w": "debe",
+                "p": "ˈdebe",
+                "d": "to owe",
+                "s": "Tom debe de haberse gastado una fortuna. (Tom must have spent a fortune.)"
+            },
+            {
+                "id": "es-0217",
+                "w": "realmente",
+                "p": "reˌalˈmente",
+                "d": "really",
+                "s": "Las matemáticas son realmente difíciles. (Math is really hard.)"
+            },
+            {
+                "id": "es-0218",
+                "w": "estas",
+                "p": "ˈestas",
+                "d": "this",
+                "s": "De verdad que me gustan estas historias. (I really like these stories.)"
+            },
+            {
+                "id": "es-0219",
+                "w": "aún",
+                "p": "aˈun",
+                "d": "still",
+                "s": "Todo el mundo sabe que él está aún vivo. (Everyone knows that he's still alive.)"
+            },
+            {
+                "id": "es-0220",
+                "w": "mío",
+                "p": "ˈmio",
+                "d": "mine",
+                "s": "Llevo una hora esperando a un amigo mío. (I've been waiting for a friend of mine for an hour.)"
+            },
+            {
+                "id": "es-0221",
+                "w": "toda",
+                "p": "ˈtoda",
+                "d": "all",
+                "s": "No quiero estar levantado toda la noche. (I don't want to be up all night.)"
+            },
+            {
+                "id": "es-0222",
+                "w": "hacerlo",
+                "p": "aθeɾlo",
+                "d": "to do",
+                "s": "Ellos están dispuestos a hacerlo por ti. (They are willing to do it for you.)"
+            },
+            {
+                "id": "es-0223",
+                "w": "cada",
+                "p": "ˈkada",
+                "d": "each",
+                "s": "Cada estudiante tiene su propio pupitre. (Each student has his own desk.)"
+            },
+            {
+                "id": "es-0224",
+                "w": "visto",
+                "p": "ˈbisto",
+                "d": "seen",
+                "s": "Nunca había visto un elefante de verdad. (I'd never seen a real elephant.)"
+            },
+            {
+                "id": "es-0225",
+                "w": "importa",
+                "p": "impoɾta",
+                "d": "to matter",
+                "s": "A nadie le importa lo que le pase a Tom. (Nobody cares what happens to Tom.)"
+            },
+            {
+                "id": "es-0226",
+                "w": "contigo",
+                "p": "konˈtiɡo",
+                "d": "with you",
+                "s": "Creo que me he encontrado contigo antes. (I think I've met you before.)"
+            },
+            {
+                "id": "es-0227",
+                "w": "tienen",
+                "p": "ˈtjenen",
+                "d": "to have",
+                "s": "Los elfos tienen las orejas puntiagudas. (Elves have pointy ears.)"
+            },
+            {
+                "id": "es-0228",
+                "w": "hemos",
+                "p": "ˈemos",
+                "d": "to have",
+                "s": "Tom y yo no hemos discutido todavía eso. (Tom and I haven't discussed that yet.)"
+            },
+            {
+                "id": "es-0229",
+                "w": "razón",
+                "p": "raˈθon",
+                "d": "reason",
+                "s": "Tom tenía una buena razón para enojarse. (Tom had good reason to be angry.)"
+            },
+            {
+                "id": "es-0230",
+                "w": "alguna",
+                "p": "alˈɡuna",
+                "d": "some",
+                "s": "¿Has estado alguna vez en el extranjero? (Have you ever been abroad?)"
+            },
+            {
+                "id": "es-0231",
+                "w": "tanto",
+                "p": "ˈtanto",
+                "d": "so much",
+                "s": "Tanto Tom como Mary trabajan de modelos. (Both Tom and Mary work as models.)"
+            },
+            {
+                "id": "es-0232",
+                "w": "saber",
+                "p": "saˈbeɾ",
+                "d": "to know",
+                "s": "Necesito saber que puedo contar contigo. (I need to know I can count on you.)"
+            },
+            {
+                "id": "es-0233",
+                "w": "hizo",
+                "p": "ˈiθo",
+                "d": "to do",
+                "s": "Mi tío hizo un testamento el año pasado. (My uncle made a will last year.)"
+            },
+            {
+                "id": "es-0234",
+                "w": "veces",
+                "p": "ˈbeθes",
+                "d": "time",
+                "s": "Muy pocas veces voy en coche al trabajo. (I rarely drive to work.)"
+            },
+            {
+                "id": "es-0235",
+                "w": "serio",
+                "p": "ˈseɾjo",
+                "d": "serious",
+                "s": "En serio no le deberías dar ideas a Tom. (You really shouldn't give Tom ideas.)"
+            },
+            {
+                "id": "es-0236",
+                "w": "ven",
+                "p": "ˈben",
+                "d": "Senses relating to literal movement",
+                "s": "Por favor, ven antes de las dos y media. (Please come before 2:30.)"
+            },
+            {
+                "id": "es-0237",
+                "w": "idea",
+                "p": "iˈdea",
+                "d": "idea",
+                "s": "No tengo ni idea de lo que está pasando. (I've no idea what's happening.)"
+            },
+            {
+                "id": "es-0238",
+                "w": "eh",
+                "p": "ˈe",
+                "d": "hey!",
+                "s": "¡Eh! ¡Vosotros dos! ¿Qué estáis haciendo? (Hey, you two! What are you doing?)"
+            },
+            {
+                "id": "es-0239",
+                "w": "tarde",
+                "p": "ˈtaɾde",
+                "d": "late",
+                "s": "No me arrepiento de haber llegado tarde. (I don't regret arriving late.)"
+            },
+            {
+                "id": "es-0240",
+                "w": "problema",
+                "p": "pɾoˈblema",
+                "d": "problem",
+                "s": "Los suministros no eran ningún problema. (Supplies were no problem.)"
+            },
+            {
+                "id": "es-0241",
+                "w": "hora",
+                "p": "ˈoɾa",
+                "d": "hour",
+                "s": "\"¿Qué hora es?\" \"Son las tres y veinte.\" (\"What time is it?\" \"It's 3:20.\")"
+            },
+            {
+                "id": "es-0242",
+                "w": "cierto",
+                "p": "ˈθjeɾto",
+                "d": "true",
+                "s": "No me puedo imaginar que eso sea cierto. (I can't imagine that's true.)"
+            },
+            {
+                "id": "es-0243",
+                "w": "dicho",
+                "p": "ˈdit͡ʃo",
+                "d": "mentioned",
+                "s": "Espero no haber dicho ninguna estupidez. (I just hope I don't sound stupid.)"
+            },
+            {
+                "id": "es-0244",
+                "w": "quien",
+                "p": "ˈkjen",
+                "d": "who",
+                "s": "No tengo a nadie en quien pueda confiar. (I have no one to confide in.)"
+            },
+            {
+                "id": "es-0245",
+                "w": "demasiado",
+                "p": "demaˈsjado",
+                "d": "too much",
+                "s": "En esta habitación hace demasiado calor. (This room is too hot.)"
+            },
+            {
+                "id": "es-0246",
+                "w": "amor",
+                "p": "aˈmoɾ",
+                "d": "love",
+                "s": "Esta es una historia de amor y amistad. (This is a story of love and friendship.)"
+            },
+            {
+                "id": "es-0247",
+                "w": "entre",
+                "p": "ˈentɾe",
+                "d": "between",
+                "s": "Puedo distinguir entre el bien y el mal. (I know right from wrong.)"
+            },
+            {
+                "id": "es-0248",
+                "w": "ve",
+                "p": "ˈbe",
+                "d": "to see",
+                "s": "Ve a jugar afuera en vez de ver la tele. (Play outside instead of watching TV.)"
+            },
+            {
+                "id": "es-0249",
+                "w": "pasado",
+                "p": "paˈsado",
+                "d": "past",
+                "s": "Las vacaciones se me han pasado volando. (My vacation went by quickly.)"
+            },
+            {
+                "id": "es-0250",
+                "w": "familia",
+                "p": "faˈmilja",
+                "d": "family",
+                "s": "Qué Dios te bendiga a ti y a tu familia. (God bless you and your family.)"
+            },
+            {
+                "id": "es-0251",
+                "w": "estos",
+                "p": "ˈestos",
+                "d": "this",
+                "s": "Estos consejos podrían salvarte la vida. (These tips may save your life.)"
+            },
+            {
+                "id": "es-0252",
+                "w": "policía",
+                "p": "poliˈθia",
+                "d": "Civility",
+                "s": "La policía encontró la bicicleta de Tom. (The police found Tom's bicycle.)"
+            },
+            {
+                "id": "es-0253",
+                "w": "debería",
+                "p": "debeˈɾia",
+                "d": "to owe",
+                "s": "Debería estar allí para las dos y media. (I should be there by 2:30.)"
+            },
+            {
+                "id": "es-0254",
+                "w": "ustedes",
+                "p": "usˈtedes",
+                "d": "you",
+                "s": "¿Por qué detestan ustedes a las mujeres? (Why do you hate women?)"
+            },
+            {
+                "id": "es-0255",
+                "w": "chica",
+                "p": "ˈt͡ʃika",
+                "d": "girl",
+                "s": "Esta casa es demasiado chica para vivir. (This house is too small to live in.)"
+            },
+            {
+                "id": "es-0256",
+                "w": "esos",
+                "p": "ˈesos",
+                "d": "those",
+                "s": "Esos países solían pertenecer a Francia. (Those countries used to belong to France.)"
+            },
+            {
+                "id": "es-0257",
+                "w": "chicos",
+                "p": "tʃikos",
+                "d": "boy",
+                "s": "La mayoría de los chicos odia la escuela. (Most children hate school.)"
+            },
+            {
+                "id": "es-0258",
+                "w": "cuenta",
+                "p": "ˈkwenta",
+                "d": "count",
+                "s": "¿Te das cuenta de lo que esto significa? (Do you realize what this means?)"
+            },
+            {
+                "id": "es-0259",
+                "w": "haces",
+                "p": "ˈaθes",
+                "d": "to do",
+                "s": "¿Por qué me haces todas estas preguntas? (Why are you asking all these questions?)"
+            },
+            {
+                "id": "es-0260",
+                "w": "todavía",
+                "p": "todaˈbia",
+                "d": "still",
+                "s": "Tom todavía debería estar en el trabajo. (Tom should still be at work.)"
+            },
+            {
+                "id": "es-0261",
+                "w": "salir",
+                "p": "saˈliɾ",
+                "d": "to go out",
+                "s": "Tengo ganas de salir esta noche a cenar. (I feel like eating out tonight.)"
+            },
+            {
+                "id": "es-0262",
+                "w": "algún",
+                "p": "alˈɡun",
+                "d": "some",
+                "s": "Me gustaría visitar Australia algún día. (I'd like to visit Australia someday.)"
+            },
+            {
+                "id": "es-0263",
+                "w": "vaya",
+                "p": "ˈbaʝa",
+                "d": "expresses surprise: wow!",
+                "s": "Necesito un taxi que vaya al aeropuerto. (I need a taxi to the airport.)"
+            },
+            {
+                "id": "es-0264",
+                "w": "unos",
+                "p": "ˈunos",
+                "d": "some",
+                "s": "Tengo que comprarme unos esquíes nuevos. (I need to buy new skis.)"
+            },
+            {
+                "id": "es-0265",
+                "w": "veo",
+                "p": "ˈbeo",
+                "d": "to see",
+                "s": "Yo veo televisión dos veces a la semana. (I watch television twice a week.)"
+            },
+            {
+                "id": "es-0266",
+                "w": "amigos",
+                "p": "aˈmiɡos",
+                "d": "friend",
+                "s": "Amigos, estoy muy enfadado con vosotros. (I'm really mad at you guys.)"
+            },
+            {
+                "id": "es-0267",
+                "w": "hermano",
+                "p": "eɾˈmano",
+                "d": "brother",
+                "s": "Mi hermano es estudiante de universidad. (My brother is a college student.)"
+            },
+            {
+                "id": "es-0268",
+                "w": "pensé",
+                "p": "penˈse",
+                "d": "to think",
+                "s": "Pensé que Tom podría estar en la cárcel. (I thought Tom might be in jail.)"
+            },
+            {
+                "id": "es-0269",
+                "w": "sabía",
+                "p": "saˈβia",
+                "d": "to know",
+                "s": "Sabía que Tom tendría tiempo suficiente. (I knew Tom would have enough time.)"
+            },
+            {
+                "id": "es-0270",
+                "w": "cabeza",
+                "p": "kaˈbeθa",
+                "d": "head",
+                "s": "Tomas movió su cabeza para decir que no. (Tom shook his head to say no.)"
+            },
+            {
+                "id": "es-0271",
+                "w": "ah",
+                "p": "ˈa",
+                "d": "ah",
+                "s": "Ah, eso está mucho mejor. (Ah, that's much better.)"
+            },
+            {
+                "id": "es-0272",
+                "w": "cariño",
+                "p": "kaˈɾiɲo",
+                "d": "affection",
+                "s": "Tom siente un profundo cariño por Mary. (Tom has a deep affection for Mary.)"
+            },
+            {
+                "id": "es-0273",
+                "w": "digo",
+                "p": "ˈdiɡo",
+                "d": "to say",
+                "s": "Sólo digo que no podemos irnos todavía. (I'm just saying we can't leave yet.)"
+            },
+            {
+                "id": "es-0274",
+                "w": "van",
+                "p": "ˈban",
+                "d": "to go",
+                "s": "Ellos van a ver una obra una vez al mes. (They go to watch a play once every month.)"
+            },
+            {
+                "id": "es-0275",
+                "w": "hombres",
+                "p": "ˈombɾes",
+                "d": "man",
+                "s": "A los hombres les gusta lucir varoniles. (Men like to look masculine.)"
+            },
+            {
+                "id": "es-0276",
+                "w": "buenas",
+                "p": "ˈbwenas",
+                "d": "hello",
+                "s": "Si no hay noticias, son buenas noticias. (No news is good news.)"
+            },
+            {
+                "id": "es-0277",
+                "w": "somos",
+                "p": "ˈsomos",
+                "d": "to be",
+                "s": "Todos somos parte de la economía global. (We are all part of the global economy.)"
+            },
+            {
+                "id": "es-0278",
+                "w": "cualquier",
+                "p": "kwalˈkjeɾ",
+                "d": "any",
+                "s": "De niño podía dormir en cualquier sitio. (As a kid, I could sleep anywhere.)"
+            },
+            {
+                "id": "es-0279",
+                "w": "forma",
+                "p": "ˈfoɾma",
+                "d": "shape",
+                "s": "¿Está bien la forma en la que hago esto? (Is the way I'm doing this OK?)"
+            },
+            {
+                "id": "es-0280",
+                "w": "mientras",
+                "p": "ˈmjentɾas",
+                "d": "while",
+                "s": "Golpea el hierro mientras esté caliente. (Strike while the iron is hot.)"
+            },
+            {
+                "id": "es-0281",
+                "w": "lado",
+                "p": "ˈlado",
+                "d": "side",
+                "s": "Me aparté a un lado para dejarles pasar. (I stood aside to let them pass.)"
+            },
+            {
+                "id": "es-0282",
+                "w": "debo",
+                "p": "ˈdebo",
+                "d": "to owe",
+                "s": "Debo volver a casa dentro de una semana. (I must return home within a week.)"
+            },
+            {
+                "id": "es-0283",
+                "w": "sería",
+                "p": "seˈɾia",
+                "d": "to be",
+                "s": "Pensó que sería interesante y divertido. (He thought that it would be interesting and fun.)"
+            },
+            {
+                "id": "es-0284",
+                "w": "caso",
+                "p": "ˈkaso",
+                "d": "case",
+                "s": "En caso de incendio, rompa esta ventana. (In case of fire, break this window.)"
+            },
+            {
+                "id": "es-0285",
+                "w": "pueden",
+                "p": "ˈpweden",
+                "d": "to be able to",
+                "s": "Los gatos pueden ver cuando está oscuro. (Cats can see in the dark.)"
+            },
+            {
+                "id": "es-0286",
+                "w": "pasó",
+                "p": "paˈso",
+                "d": "to pass",
+                "s": "Todos nosotros sabemos lo que aquí pasó. (We all know what happened here.)"
+            },
+            {
+                "id": "es-0287",
+                "w": "primera",
+                "p": "pɾiˈmeɾa",
+                "d": "first",
+                "s": "Esta no es la primera vez que estoy acá. (This isn't my first time to be here.)"
+            },
+            {
+                "id": "es-0288",
+                "w": "genial",
+                "p": "xeˈnjal",
+                "d": "great",
+                "s": "Tom siempre está tratando de ser genial. (Tom is always trying to be cool.)"
+            },
+            {
+                "id": "es-0289",
+                "w": "chico",
+                "p": "ˈt͡ʃiko",
+                "d": "boy",
+                "s": "Acabo de conocer a un chico llamado Tom. (I just met a boy named Tom.)"
+            },
+            {
+                "id": "es-0290",
+                "w": "supuesto",
+                "p": "suˈpwesto",
+                "d": "supposed",
+                "s": "Por supuesto que Tomás está equivocado. (Of course, Tom is wrong.)"
+            },
+            {
+                "id": "es-0291",
+                "w": "hice",
+                "p": "ˈiθe",
+                "d": "to do",
+                "s": "No me arrepiento de nada de lo que hice. (I have no regrets about what I did.)"
+            },
+            {
+                "id": "es-0292",
+                "w": "pues",
+                "p": "ˈpwes",
+                "d": "so",
+                "s": "Voy a la piscina, pues hace buen tiempo. (The weather's nice, so I'm going to the pool.)"
+            },
+            {
+                "id": "es-0293",
+                "w": "adiós",
+                "p": "aˈdjos",
+                "d": "goodbye",
+                "s": "Él dijo: \"adiós, mis amigos\", y partió. (He said, \"So long, my friends,\" and left us.)"
+            },
+            {
+                "id": "es-0294",
+                "w": "muchas",
+                "p": "ˈmut͡ʃas",
+                "d": "much",
+                "s": "Él tiene muchas estampillas extranjeras. (He has a lot of foreign stamps.)"
+            },
+            {
+                "id": "es-0295",
+                "w": "personas",
+                "p": "peɾsonas",
+                "d": "person",
+                "s": "A algunas personas les gusta el peligro. (Some people like danger.)"
+            },
+            {
+                "id": "es-0296",
+                "w": "señora",
+                "p": "seˈɲoɾa",
+                "d": "Ms",
+                "s": "¿La señora Smith es profesora de inglés? (Is Mrs. Smith an English teacher?)"
+            },
+            {
+                "id": "es-0297",
+                "w": "volver",
+                "p": "bolˈbeɾ",
+                "d": "to return",
+                "s": "Creo que deberíamos volver a intentarlo. (I think we should try again.)"
+            },
+            {
+                "id": "es-0298",
+                "w": "esas",
+                "p": "ˈesas",
+                "d": "those",
+                "s": "Una de esas dos respuestas es correcta. (One of these two answers is right.)"
+            },
+            {
+                "id": "es-0299",
+                "w": "quizá",
+                "p": "kiˈθa",
+                "d": "perhaps",
+                "s": "Quizá deberíamos hacer algo al respecto. (Perhaps we should do something about it.)"
+            },
+            {
+                "id": "es-0300",
+                "w": "contra",
+                "p": "kontɾa",
+                "d": "against",
+                "s": "Estoy en contra de este proyecto de ley. (I'm against the bill.)"
+            },
+            {
+                "id": "es-0301",
+                "w": "camino",
+                "p": "kaˈmino",
+                "d": "way",
+                "s": "¿Podrías enseñarme el camino, por favor? (Will you please show me the way?)"
+            },
+            {
+                "id": "es-0302",
+                "w": "durante",
+                "p": "duˈɾante",
+                "d": "during",
+                "s": "Él había estado caminando durante horas. (He had been walking for hours.)"
+            },
+            {
+                "id": "es-0303",
+                "w": "hablando",
+                "p": "aˈblando",
+                "d": "to talk",
+                "s": "Tom escuchó a Mary hablando en el sueño. (Tom heard Mary talking in her sleep.)"
+            },
+            {
+                "id": "es-0304",
+                "w": "manera",
+                "p": "maˈneɾa",
+                "d": "way",
+                "s": "Este trabajo de ninguna manera es fácil. (This work is by no means easy.)"
+            },
+            {
+                "id": "es-0305",
+                "w": "muerto",
+                "p": "ˈmweɾto",
+                "d": "dead",
+                "s": "Tom fue hallado muerto en su habitación. (Tom was found dead in his room.)"
+            },
+            {
+                "id": "es-0306",
+                "w": "persona",
+                "p": "peɾˈsona",
+                "d": "person",
+                "s": "Me escribo con una persona de Australia. (I have a pen pal in Australia.)"
+            },
+            {
+                "id": "es-0307",
+                "w": "rápido",
+                "p": "ˈrapido",
+                "d": "rapidly",
+                "s": "El coche es más rápido que la bicicleta. (A car is faster than a bicycle.)"
+            },
+            {
+                "id": "es-0308",
+                "w": "cuál",
+                "p": "ˈkwal",
+                "d": "which one",
+                "s": "¿Cuál es la asignatura que más te gusta? (What subject do you like best?)"
+            },
+            {
+                "id": "es-0309",
+                "w": "ayuda",
+                "p": "aˈʝuda",
+                "d": "help",
+                "s": "Si usted me ayuda, intentaré nuevamente. (If you help me, I'll try it again.)"
+            },
+            {
+                "id": "es-0310",
+                "w": "historia",
+                "p": "isˈtoɾja",
+                "d": "history",
+                "s": "Ella nos contó una historia interesante. (She told us an interesting story.)"
+            },
+            {
+                "id": "es-0311",
+                "w": "iba",
+                "p": "ˈiba",
+                "d": "to go",
+                "s": "Él era bienvenido a dondequiera que iba. (He was welcome wherever he went.)"
+            },
+            {
+                "id": "es-0312",
+                "w": "supongo",
+                "p": "supoŋgo",
+                "d": "to suppose",
+                "s": "Supongo que no estoy de acuerdo contigo. (I guess I don't agree with you.)"
+            },
+            {
+                "id": "es-0313",
+                "w": "nueva",
+                "p": "ˈnweba",
+                "d": "new",
+                "s": "¿Por qué necesitas una televisión nueva? (Why do you need a new television?)"
+            },
+            {
+                "id": "es-0314",
+                "w": "entiendo",
+                "p": "entjendo",
+                "d": "to understand",
+                "s": "No entiendo por qué no quiere ayudarnos. (I can't see why you don't want to help us.)"
+            },
+            {
+                "id": "es-0315",
+                "w": "dentro",
+                "p": "ˈdentɾo",
+                "d": "inside",
+                "s": "Yo prefiero pasar tiempo dentro de casa. (I prefer spending time indoors.)"
+            },
+            {
+                "id": "es-0316",
+                "w": "casi",
+                "p": "ˈkasi",
+                "d": "almost",
+                "s": "Este pobre gato casi se murió de hambre. (This poor cat almost died of hunger.)"
+            },
+            {
+                "id": "es-0317",
+                "w": "puerta",
+                "p": "ˈpweɾta",
+                "d": "door",
+                "s": "Escuché un golpe de la puerta delantera. (I heard the front door slam.)"
+            },
+            {
+                "id": "es-0318",
+                "w": "ves",
+                "p": "ˈbes",
+                "d": "to see",
+                "s": "Te ves cansado, deberías dormir un poco. (You look tired. You should rest a little.)"
+            },
+            {
+                "id": "es-0319",
+                "w": "pasar",
+                "p": "paˈsaɾ",
+                "d": "to pass",
+                "s": "Yo prefiero pasar tiempo dentro de casa. (I prefer spending time indoors.)"
+            },
+            {
+                "id": "es-0320",
+                "w": "primero",
+                "p": "pɾiˈmeɾo",
+                "d": "first",
+                "s": "Tom fue el primero en terminar de comer. (Tom was the first one to finish eating.)"
+            },
+            {
+                "id": "es-0321",
+                "w": "significa",
+                "p": "siɡniˈfika",
+                "d": "to signify",
+                "s": "¿Te das cuenta de lo que esto significa? (Do you realize what this means?)"
+            },
+            {
+                "id": "es-0322",
+                "w": "semana",
+                "p": "seˈmana",
+                "d": "week",
+                "s": "Había estado nevando durante una semana. (It had been snowing for a week.)"
+            },
+            {
+                "id": "es-0323",
+                "w": "hacia",
+                "p": "ˈaθja",
+                "d": "toward",
+                "s": "Tomo el metro hacia la escuela cada día. (I take the subway to school every day.)"
+            },
+            {
+                "id": "es-0324",
+                "w": "quizás",
+                "p": "kiˈθas",
+                "d": "perhaps",
+                "s": "Quizás Tomás esté dispuesto a ayudarnos. (Maybe Tom would be willing to help.)"
+            },
+            {
+                "id": "es-0325",
+                "w": "espero",
+                "p": "esˈpeɾo",
+                "d": "to hope",
+                "s": "Espero estar de vuelta el próximo lunes. (I expect to be back next Monday.)"
+            },
+            {
+                "id": "es-0326",
+                "w": "juntos",
+                "p": "xuntos",
+                "d": "together",
+                "s": "Vi a los dos juntos en varias ocasiones. (I saw the two together on several occasions.)"
+            },
+            {
+                "id": "es-0327",
+                "w": "año",
+                "p": "ˈaɲo",
+                "d": "year",
+                "s": "Tom llevaba el pelo largo el año pasado. (Tom had long hair last year.)"
+            },
+            {
+                "id": "es-0328",
+                "w": "niños",
+                "p": "ˈniɲos",
+                "d": "child",
+                "s": "A los niños les gusta ver la televisión. (Children like to watch TV.)"
+            },
+            {
+                "id": "es-0329",
+                "w": "pronto",
+                "p": "ˈpɾonto",
+                "d": "soon",
+                "s": "Lo necesito tan pronto como sea posible. (I need it ASAP.)"
+            },
+            {
+                "id": "es-0330",
+                "w": "tío",
+                "p": "ˈtio",
+                "d": "uncle",
+                "s": "Mi tío hizo un testamento el año pasado. (My uncle made a will last year.)"
+            },
+            {
+                "id": "es-0331",
+                "w": "suerte",
+                "p": "ˈsweɾte",
+                "d": "luck",
+                "s": "Tom tuvo suerte de encontrar un trabajo. (Tom was lucky to find a job.)"
+            },
+            {
+                "id": "es-0332",
+                "w": "ciudad",
+                "p": "θjuˈdad",
+                "d": "city",
+                "s": "Yo estoy viviendo en una ciudad pequeña. (I'm living in a small town.)"
+            },
+            {
+                "id": "es-0333",
+                "w": "siquiera",
+                "p": "siˈkjeɾa",
+                "d": "at least",
+                "s": "No podemos perder ni siquiera un minuto. (We can't waste even a minute.)"
+            },
+            {
+                "id": "es-0334",
+                "w": "feliz",
+                "p": "feˈliθ",
+                "d": "happy",
+                "s": "¿No estás feliz de que Tom no esté aquí? (Aren't you glad Tom isn't here?)"
+            },
+            {
+                "id": "es-0335",
+                "w": "venir",
+                "p": "beˈniɾ",
+                "d": "Senses relating to literal movement",
+                "s": "Es una lástima que Tomás no pueda venir. (It's a pity that Tom can't come.)"
+            },
+            {
+                "id": "es-0336",
+                "w": "hija",
+                "p": "ˈixa",
+                "d": "daughter",
+                "s": "A mi hija le encanta saltar a la cuerda. (My daughter loves jumping rope.)"
+            },
+            {
+                "id": "es-0337",
+                "w": "gustaría",
+                "p": "gustaˈɾia",
+                "d": "translated as",
+                "s": "Nos gustaría una botella de vino rosado. (We'd like a bottle of rosé.)"
+            },
+            {
+                "id": "es-0338",
+                "w": "minutos",
+                "p": "minutos",
+                "d": "minute",
+                "s": "Tom tomó una siesta por treinta minutos. (Tom took a nap for thirty minutes.)"
+            },
+            {
+                "id": "es-0339",
+                "w": "cuánto",
+                "p": "ˈkwanto",
+                "d": "how much",
+                "s": "¿Cuánto tiempo pasaste en el extranjero? (How long did you stay abroad?)"
+            },
+            {
+                "id": "es-0340",
+                "w": "os",
+                "p": "os",
+                "d": "you",
+                "s": "¿Vuestro perro os ha mordido alguna vez? (Has your dog ever bitten you?)"
+            },
+            {
+                "id": "es-0341",
+                "w": "hey",
+                "p": "ˈei",
+                "d": "hey!",
+                "s": "Hey, esta pizza no está mal. Nada mal. (Hey, this pizza isn't bad. Not bad at all.)"
+            },
+            {
+                "id": "es-0342",
+                "w": "muerte",
+                "p": "ˈmweɾte",
+                "d": "death",
+                "s": "Tom culpa a María por la muerte de Juan. (Tom blames Mary for John's death.)"
+            },
+            {
+                "id": "es-0343",
+                "w": "dejar",
+                "p": "deˈxaɾ",
+                "d": "to leave",
+                "s": "Para empezar, tienes que dejar de fumar. (First, you have to stop smoking.)"
+            },
+            {
+                "id": "es-0344",
+                "w": "realidad",
+                "p": "realiˈdad",
+                "d": "reality",
+                "s": "Espero que tus deseos se hagan realidad. (I hope your wish will come true.)"
+            },
+            {
+                "id": "es-0345",
+                "w": "deja",
+                "p": "ˈdexa",
+                "d": "to leave",
+                "s": "Deja el motor andando. Vuelvo enseguida. (Keep the engine running. I'll be right back.)"
+            },
+            {
+                "id": "es-0346",
+                "w": "problemas",
+                "p": "pɾoˈblemas",
+                "d": "problem",
+                "s": "¿Significa eso que estamos en problemas? (Does that mean we're in trouble?)"
+            },
+            {
+                "id": "es-0347",
+                "w": "vi",
+                "p": "ˈbi",
+                "d": "to see",
+                "s": "Vi cómo una serpiente se comía un ratón. (I saw a snake eating a mouse.)"
+            },
+            {
+                "id": "es-0348",
+                "w": "da",
+                "p": "ˈda",
+                "d": "to give",
+                "s": "Tom da clases de psicología del deporte. (Tom teaches sport psychology.)"
+            },
+            {
+                "id": "es-0349",
+                "w": "importante",
+                "p": "impoɾˈtante",
+                "d": "important",
+                "s": "Por favor, dile a Tom que es importante. (Please tell Tom it's important.)"
+            },
+            {
+                "id": "es-0350",
+                "w": "dijiste",
+                "p": "diˈxiste",
+                "d": "to say",
+                "s": "Dijiste que estarías aquí para las 2:30. (You said you'd be here by 2:30.)"
+            },
+            {
+                "id": "es-0351",
+                "w": "corazón",
+                "p": "koɾaˈθon",
+                "d": "heart",
+                "s": "Tom no quiso romperle el corazón a Mary. (Tom didn't want to break Mary's heart.)"
+            },
+            {
+                "id": "es-0352",
+                "w": "miedo",
+                "p": "ˈmjedo",
+                "d": "fear",
+                "s": "A Tom le dan mucho miedo las serpientes. (Tom is very afraid of snakes.)"
+            },
+            {
+                "id": "es-0353",
+                "w": "jefe",
+                "p": "ˈxefe",
+                "d": "chief",
+                "s": "Ellos frecuentemente se burlan del jefe. (They often make fun of the boss.)"
+            },
+            {
+                "id": "es-0354",
+                "w": "agua",
+                "p": "ˈaɡwa",
+                "d": "water",
+                "s": "¿La gente de Boston bebe agua del grifo? (Do people in Boston drink tap water?)"
+            },
+            {
+                "id": "es-0355",
+                "w": "haré",
+                "p": "aˈɾe",
+                "d": "to do",
+                "s": "\"¿Alguien puede ayudarme?\" \"Yo lo haré\". (\"Can somebody help me?\" \"I will.\")"
+            },
+            {
+                "id": "es-0356",
+                "w": "justo",
+                "p": "ˈxusto",
+                "d": "just",
+                "s": "Justo en ese momento, el bus se detuvo. (Just then, the bus stopped.)"
+            },
+            {
+                "id": "es-0357",
+                "w": "horas",
+                "p": "oɾas",
+                "d": "hour",
+                "s": "Él había estado caminando durante horas. (He had been walking for hours.)"
+            },
+            {
+                "id": "es-0358",
+                "w": "poder",
+                "p": "poˈdeɾ",
+                "d": "to be able to",
+                "s": "Yo apresuré el paso para poder seguirla. (I quickened my steps to catch up with her.)"
+            },
+            {
+                "id": "es-0359",
+                "w": "buenos",
+                "p": "ˈbwenos",
+                "d": "good",
+                "s": "Me recuerda a los buenos viejos tiempos. (It reminds me of the good old times.)"
+            },
+            {
+                "id": "es-0360",
+                "w": "esposa",
+                "p": "esˈposa",
+                "d": "wife",
+                "s": "Yo estoy contento, Mary no es mi esposa. (I'm glad Mary isn't my wife.)"
+            },
+            {
+                "id": "es-0361",
+                "w": "manos",
+                "p": "manos",
+                "d": "hand",
+                "s": "Tom se dio un apretón de manos con Mary. (Tom shook hands with Mary.)"
+            },
+            {
+                "id": "es-0362",
+                "w": "debes",
+                "p": "ˈdebes",
+                "d": "to owe",
+                "s": "Todo lo que debes hacer es dar lo mejor. (All you have to do is do your best.)"
+            },
+            {
+                "id": "es-0363",
+                "w": "viene",
+                "p": "ˈbjene",
+                "d": "Senses relating to literal movement",
+                "s": "Después de una tormenta, viene la calma. (After a storm comes a calm.)"
+            },
+            {
+                "id": "es-0364",
+                "w": "venga",
+                "p": "ˈbenɡa",
+                "d": "A cheer or expression of support",
+                "s": "Tom espera que alguien más venga pronto. (Tom is expecting someone else to come soon.)"
+            },
+            {
+                "id": "es-0365",
+                "w": "nuestros",
+                "p": "ˈnwestɾos",
+                "d": "our",
+                "s": "Nuestros hijos necesitan algo que hacer. (Our kids need something to do.)"
+            },
+            {
+                "id": "es-0366",
+                "w": "ojos",
+                "p": "ˈoxos",
+                "d": "eye",
+                "s": "No daba crédito a lo que veían mis ojos. (I couldn't believe my eyes.)"
+            },
+            {
+                "id": "es-0367",
+                "w": "adelante",
+                "p": "adeˈlante",
+                "d": "forward",
+                "s": "\"¿Puedo usar este teléfono?\" \"Adelante.\" (\"May I use this telephone?\" \"Go ahead.\")"
+            },
+            {
+                "id": "es-0368",
+                "w": "encontrar",
+                "p": "enkonˈtɾaɾ",
+                "d": "to meet",
+                "s": "No lo puedo encontrar por ninguna parte. (I can't find it anywhere.)"
+            },
+            {
+                "id": "es-0369",
+                "w": "mano",
+                "p": "ˈmano",
+                "d": "hand",
+                "s": "No pondría la mano en el fuego por ello. (I wouldn't bet on it.)"
+            },
+            {
+                "id": "es-0370",
+                "w": "cinco",
+                "p": "ˈθinko",
+                "d": "five",
+                "s": "Ella vivió allí durante unos cinco años. (She lived there about five years.)"
+            },
+            {
+                "id": "es-0371",
+                "w": "niño",
+                "p": "ˈniɲo",
+                "d": "child",
+                "s": "De niño podía dormir en cualquier sitio. (As a kid, I could sleep anywhere.)"
+            },
+            {
+                "id": "es-0372",
+                "w": "ninguna",
+                "p": "ninˈɡuna",
+                "d": "no",
+                "s": "No lo puedo encontrar por ninguna parte. (I can't find it anywhere.)"
+            },
+            {
+                "id": "es-0373",
+                "w": "otros",
+                "p": "ˈotɾos",
+                "d": "other",
+                "s": "Ella siempre intenta ayudar a los otros. (She always tries to help others.)"
+            },
+            {
+                "id": "es-0374",
+                "w": "cara",
+                "p": "ˈkaɾa",
+                "d": "face",
+                "s": "Lavate la cara antes de ir a la escuela. (Wash your face before you go to school.)"
+            },
+            {
+                "id": "es-0375",
+                "w": "cuidado",
+                "p": "kwiˈdado",
+                "d": "care",
+                "s": "Ten cuidado con las escaleras mecánicas. (Be careful on escalators.)"
+            },
+            {
+                "id": "es-0376",
+                "w": "bajo",
+                "p": "ˈbaxo",
+                "d": "under",
+                "s": "Veo a una chica de pie bajo aquel árbol. (I see a girl standing under that tree.)"
+            },
+            {
+                "id": "es-0377",
+                "w": "cerca",
+                "p": "ˈθeɾka",
+                "d": "close",
+                "s": "Ella se sentó cerca de él en el autobús. (She sat next to him on the bus.)"
+            },
+            {
+                "id": "es-0378",
+                "w": "viejo",
+                "p": "ˈbjexo",
+                "d": "old",
+                "s": "Imagino que soy demasiado viejo para ti. (I guess I'm too old for you.)"
+            },
+            {
+                "id": "es-0379",
+                "w": "déjame",
+                "p": "",
+                "d": "to leave",
+                "s": "Déjame mostrarte cómo ordeñar una cabra. (Let me show you how to milk a goat.)"
+            },
+            {
+                "id": "es-0380",
+                "w": "noches",
+                "p": "notʃes",
+                "d": "night",
+                "s": "Tom se emborracha casi todas las noches. (Tom gets drunk almost every evening.)"
+            },
+            {
+                "id": "es-0381",
+                "w": "bastante",
+                "p": "basˈtante",
+                "d": "quite",
+                "s": "Mi trabajo me mantiene bastante ocupado. (My job keeps me pretty busy.)"
+            },
+            {
+                "id": "es-0382",
+                "w": "fin",
+                "p": "ˈfin",
+                "d": "end",
+                "s": "¿Qué has planeado para el fin de semana? (What do you have planned for the weekend?)"
+            },
+            {
+                "id": "es-0383",
+                "w": "tomar",
+                "p": "toˈmaɾ",
+                "d": "to take",
+                "s": "Necesitamos tomar una muestra de sangre. (We need to get a blood sample.)"
+            },
+            {
+                "id": "es-0384",
+                "w": "único",
+                "p": "ˈuniko",
+                "d": "only",
+                "s": "Él es el único superviviente del pueblo. (He's the only survivor in the village.)"
+            },
+            {
+                "id": "es-0385",
+                "w": "misma",
+                "p": "mizma",
+                "d": "same",
+                "s": "¿Por qué no le preguntas tú misma a Tom? (Why don't you ask Tom yourself?)"
+            },
+            {
+                "id": "es-0386",
+                "w": "escucha",
+                "p": "esˈkut͡ʃa",
+                "d": "to listen to",
+                "s": "Escucha atentamente y haz lo que te diga. (Listen carefully and do what I tell you to do.)"
+            },
+            {
+                "id": "es-0387",
+                "w": "ningún",
+                "p": "ninˈɡun",
+                "d": "no",
+                "s": "Los suministros no eran ningún problema. (Supplies were no problem.)"
+            },
+            {
+                "id": "es-0388",
+                "w": "suficiente",
+                "p": "sufiˈθjente",
+                "d": "sufficient",
+                "s": "Tom dijo que ya había tenido suficiente. (Tom said he's had enough of that.)"
+            },
+            {
+                "id": "es-0389",
+                "w": "punto",
+                "p": "ˈpunto",
+                "d": "point",
+                "s": "Las cosas están a punto de ponerse feas. (Things are about to get ugly.)"
+            },
+            {
+                "id": "es-0390",
+                "w": "cuándo",
+                "p": "ˈkwando",
+                "d": "when",
+                "s": "¿Cuándo quieres que esté de vuelta aquí? (When do you want me back here?)"
+            },
+            {
+                "id": "es-0391",
+                "w": "sigue",
+                "p": "ˈsiɡe",
+                "d": "to follow",
+                "s": "Mi perro me sigue adondequiera que vaya. (My dog follows me wherever I go.)"
+            },
+            {
+                "id": "es-0392",
+                "w": "haya",
+                "p": "ˈaʝa",
+                "d": "to have",
+                "s": "Tienes suerte de que Tom no haya venido. (You're lucky Tom didn't come.)"
+            },
+            {
+                "id": "es-0393",
+                "w": "equipo",
+                "p": "eˈkipo",
+                "d": "team",
+                "s": "Nuestro equipo de béisbol es muy fuerte. (Our baseball team is very strong.)"
+            },
+            {
+                "id": "es-0394",
+                "w": "grande",
+                "p": "ˈɡɾande",
+                "d": "big",
+                "s": "El agujero es lo suficientemente grande. (The hole is big enough.)"
+            },
+            {
+                "id": "es-0395",
+                "w": "necesita",
+                "p": "neθeˈsita",
+                "d": "to need",
+                "s": "Este neumático necesita un poco de aire. (This tire needs some air.)"
+            },
+            {
+                "id": "es-0396",
+                "w": "llegar",
+                "p": "ʝeˈɡaɾ",
+                "d": "to arrive",
+                "s": "Ellas deberían llegar a eso de las diez. (They should arrive by ten o'clock.)"
+            },
+            {
+                "id": "es-0397",
+                "w": "incluso",
+                "p": "inˈkluso",
+                "d": "even",
+                "s": "\"Todos están invitados.\" \"¿Incluso Tom?\" (\"Everybody is invited.\" \"Even Tom?\")"
+            },
+            {
+                "id": "es-0398",
+                "w": "algunos",
+                "p": "alˈɡunos",
+                "d": "some",
+                "s": "Deberías quedarte aquí por algunos días. (You should stay here a few days.)"
+            },
+            {
+                "id": "es-0399",
+                "w": "doctor",
+                "p": "doɡˈtoɾ",
+                "d": "doctor",
+                "s": "¿A qué hora tiene el doctor la consulta? (What are the doctor's office hours?)"
+            },
+            {
+                "id": "es-0400",
+                "w": "difícil",
+                "p": "diˈfiθil",
+                "d": "difficult",
+                "s": "El francés es bastante difícil, ¿verdad? (French is pretty hard, isn't it?)"
+            },
+            {
+                "id": "es-0401",
+                "w": "aunque",
+                "p": "ˈaunke",
+                "d": "though",
+                "s": "Aunque estaba ocupada, ayudé a mi madre. (I helped my mother even though I was busy.)"
+            },
+            {
+                "id": "es-0402",
+                "w": "hubiera",
+                "p": "uˈbjeɾa",
+                "d": "to have",
+                "s": "Ojalá me hubiera casado con otro hombre. (I wish I'd married another man.)"
+            },
+            {
+                "id": "es-0403",
+                "w": "primer",
+                "p": "pɾiˈmeɾ",
+                "d": "first",
+                "s": "Fue mi primer viaje a bordo de un barco. (It was my first trip aboard.)"
+            },
+            {
+                "id": "es-0404",
+                "w": "coche",
+                "p": "ˈkot͡ʃe",
+                "d": "car",
+                "s": "Muy pocas veces voy en coche al trabajo. (I rarely drive to work.)"
+            },
+            {
+                "id": "es-0405",
+                "w": "hago",
+                "p": "ˈaɡo",
+                "d": "to do",
+                "s": "¿Está bien la forma en la que hago esto? (Is the way I'm doing this OK?)"
+            },
+            {
+                "id": "es-0406",
+                "w": "clase",
+                "p": "ˈklase",
+                "d": "lecture",
+                "s": "No permito que duerman durante la clase. (I do not allow sleeping in class.)"
+            },
+            {
+                "id": "es-0407",
+                "w": "cuatro",
+                "p": "ˈkwatɾo",
+                "d": "four",
+                "s": "Generalmente me voy a casa a las cuatro. (I usually go home at four.)"
+            },
+            {
+                "id": "es-0408",
+                "w": "mas",
+                "p": "mas",
+                "d": "but",
+                "s": "Una vida sin amor no tiene el mas mínimo sentido. (Life without love has no meaning at all.)"
+            },
+            {
+                "id": "es-0409",
+                "w": "dices",
+                "p": "ˈdiθes",
+                "d": "to say",
+                "s": "Deberías tener cuidado con lo que dices. (You should be careful what you say.)"
+            },
+            {
+                "id": "es-0410",
+                "w": "pequeño",
+                "p": "peˈkeɲo",
+                "d": "small",
+                "s": "Acepta este pequeño obsequio, por favor. (Please accept this little gift.)"
+            },
+            {
+                "id": "es-0411",
+                "w": "llama",
+                "p": "ˈʝama",
+                "d": "to summon",
+                "s": "A un perro joven se lo llama \"cachorro\". (A young dog is called a \"puppy.\")"
+            },
+            {
+                "id": "es-0412",
+                "w": "toma",
+                "p": "ˈtoma",
+                "d": "to take",
+                "s": "Mi padre toma un café todas las mañanas. (My father drinks a cup of coffee every morning.)"
+            },
+            {
+                "id": "es-0413",
+                "w": "hiciste",
+                "p": "iˈθiste",
+                "d": "to do",
+                "s": "No puedo creer que hiciste llorar a Tom. (I can't believe that you made Tom cry.)"
+            },
+            {
+                "id": "es-0414",
+                "w": "allá",
+                "p": "aˈʝa",
+                "d": "there",
+                "s": "Él tiene sus razones para quedarse allá. (He has his reasons for staying there.)"
+            },
+            {
+                "id": "es-0415",
+                "w": "última",
+                "p": "ˈultima",
+                "d": "final",
+                "s": "¿Cuándo fue la última vez que nos vimos? (When was the last time we met?)"
+            },
+            {
+                "id": "es-0416",
+                "w": "arriba",
+                "p": "aˈriba",
+                "d": "above",
+                "s": "Mi habitación está en el piso de arriba. (My room is upstairs.)"
+            },
+            {
+                "id": "es-0417",
+                "w": "tierra",
+                "p": "ˈtjera",
+                "d": "Earth",
+                "s": "Yo era el hombre más feliz de la Tierra. (I was the happiest man on earth.)"
+            },
+            {
+                "id": "es-0418",
+                "w": "guerra",
+                "p": "ˈɡera",
+                "d": "war",
+                "s": "Estados Unidos estuvo en guerra en 1864. (America was at war in 1864.)"
+            },
+            {
+                "id": "es-0419",
+                "w": "pensar",
+                "p": "penˈsaɾ",
+                "d": "to think",
+                "s": "Necesito un lugar tranquilo para pensar. (I need a quiet place to think.)"
+            },
+            {
+                "id": "es-0420",
+                "w": "pueda",
+                "p": "ˈpweda",
+                "d": "to be able to",
+                "s": "No tengo a nadie en quien pueda confiar. (I have no one to confide in.)"
+            },
+            {
+                "id": "es-0421",
+                "w": "igual",
+                "p": "iˈɡwal",
+                "d": "equal",
+                "s": "Ellos son igual de fuertes que nosotros. (They are as strong as us.)"
+            },
+            {
+                "id": "es-0422",
+                "w": "loco",
+                "p": "ˈloko",
+                "d": "crazy",
+                "s": "Puede que sea viejo, pero no estoy loco. (I may be old, but I'm not crazy.)"
+            },
+            {
+                "id": "es-0423",
+                "w": "sangre",
+                "p": "ˈsanɡɾe",
+                "d": "blood",
+                "s": "Necesitamos tomar una muestra de sangre. (We need to get a blood sample.)"
+            },
+            {
+                "id": "es-0424",
+                "w": "mujeres",
+                "p": "muˈxeɾes",
+                "d": "women",
+                "s": "¿Por qué detestan ustedes a las mujeres? (Why do you hate women?)"
+            },
+            {
+                "id": "es-0425",
+                "w": "vuelta",
+                "p": "ˈbwelta",
+                "d": "turn",
+                "s": "Démonos prisa de vuelta a nuestro hotel. (Let's hurry back to our hotel.)"
+            },
+            {
+                "id": "es-0426",
+                "w": "fui",
+                "p": "ˈfwi",
+                "d": "to go",
+                "s": "Fui a ver a su hermana la semana pasada. (I went to see his sister last week.)"
+            },
+            {
+                "id": "es-0427",
+                "w": "trabajar",
+                "p": "tɾabaˈxaɾ",
+                "d": "to work",
+                "s": "Lo siento pero esta noche debo trabajar. (Sorry, but I have to work tonight.)"
+            },
+            {
+                "id": "es-0428",
+                "w": "tenido",
+                "p": "teˈnido",
+                "d": "to have",
+                "s": "Mary no siempre ha tenido el pelo largo. (Mary hasn't always had long hair.)"
+            },
+            {
+                "id": "es-0429",
+                "w": "juego",
+                "p": "ˈxweɡo",
+                "d": "play",
+                "s": "Todos ustedes acaban de perder el juego. (You all just lost the game.)"
+            },
+            {
+                "id": "es-0430",
+                "w": "deberías",
+                "p": "debeˈɾias",
+                "d": "to owe",
+                "s": "Deberías volver a presentarte al examen. (You should try the exam again.)"
+            },
+            {
+                "id": "es-0431",
+                "w": "cuerpo",
+                "p": "ˈkweɾpo",
+                "d": "body",
+                "s": "Quiero examinar el cuerpo de la víctima. (I want to examine the body of the victim.)"
+            },
+            {
+                "id": "es-0432",
+                "w": "algunas",
+                "p": "alˈɡunas",
+                "d": "some",
+                "s": "A algunas personas les gusta el peligro. (Some people like danger.)"
+            },
+            {
+                "id": "es-0433",
+                "w": "entrar",
+                "p": "enˈtɾaɾ",
+                "d": "to enter",
+                "s": "No tengas vergüenza al entrar a mi casa. (Make yourself at home.)"
+            },
+            {
+                "id": "es-0434",
+                "w": "cree",
+                "p": "ˈkɾee",
+                "d": "to create",
+                "s": "Tom cree que Mary tiene más de cuarenta. (Tom thinks Mary is over forty.)"
+            },
+            {
+                "id": "es-0435",
+                "w": "podía",
+                "p": "poˈdia",
+                "d": "to be able to",
+                "s": "No lo podía encontrar por ninguna parte. (I couldn't find it anywhere.)"
+            },
+            {
+                "id": "es-0436",
+                "w": "debemos",
+                "p": "deˈbemos",
+                "d": "to owe",
+                "s": "Debemos mantener limpias nuestras manos. (We must keep our hands clean.)"
+            },
+            {
+                "id": "es-0437",
+                "w": "oportunidad",
+                "p": "opoɾtuniˈdad",
+                "d": "opportunity",
+                "s": "Yo no tuve oportunidad de relajarme ahí. (I had no chance to relax there.)"
+            },
+            {
+                "id": "es-0438",
+                "w": "teléfono",
+                "p": "teˈlefono",
+                "d": "telephone",
+                "s": "Cuando la llamé por teléfono, no estaba. (She was out when I called.)"
+            },
+            {
+                "id": "es-0439",
+                "w": "necesitamos",
+                "p": "neθesitamos",
+                "d": "to need",
+                "s": "Lo que necesitamos ahora es un descanso. (What we need now is a rest.)"
+            },
+            {
+                "id": "es-0440",
+                "w": "final",
+                "p": "fiˈnal",
+                "d": "final",
+                "s": "El partido final no fue tan emocionante. (The final match was not so exciting.)"
+            },
+            {
+                "id": "es-0441",
+                "w": "listo",
+                "p": "ˈlisto",
+                "d": "clever",
+                "s": "Imagino que no soy tan listo como usted. (I guess I'm not as smart as you.)"
+            },
+            {
+                "id": "es-0442",
+                "w": "fiesta",
+                "p": "ˈfjesta",
+                "d": "party",
+                "s": "Necesito comprar alcohol para la fiesta. (I need to buy booze for the party.)"
+            },
+            {
+                "id": "es-0443",
+                "w": "muchos",
+                "p": "ˈmut͡ʃos",
+                "d": "much",
+                "s": "Él también necesita muchos trabajadores. (He also needs many workers.)"
+            },
+            {
+                "id": "es-0444",
+                "w": "estabas",
+                "p": "esˈtabas",
+                "d": "to be",
+                "s": "Pensé que habías dicho que estabas sola. (I thought you said you were alone.)"
+            },
+            {
+                "id": "es-0445",
+                "w": "quieren",
+                "p": "kjeɾen",
+                "d": "to desire",
+                "s": "Mis padres quieren que estudie medicina. (My parents want me to study medicine.)"
+            },
+            {
+                "id": "es-0446",
+                "w": "vete",
+                "p": "ˈbete",
+                "d": "to go",
+                "s": "¡Vete corriendo tan rápido como puedas! (Run away as fast as you can.)"
+            },
+            {
+                "id": "es-0447",
+                "w": "auto",
+                "p": "ˈauto",
+                "d": "car",
+                "s": "¿Acaso Tom dejó a Mary conducir su auto? (Did Tom let Mary drive his car?)"
+            },
+            {
+                "id": "es-0448",
+                "w": "dar",
+                "p": "ˈdaɾ",
+                "d": "to give",
+                "s": "No se puede dar de comer a los animales. (Visitors may not feed the animals.)"
+            },
+            {
+                "id": "es-0449",
+                "w": "vivir",
+                "p": "biˈbiɾ",
+                "d": "to live",
+                "s": "Tom está impaciente por vivir en Boston. (Tom is eager to live in Boston.)"
+            },
+            {
+                "id": "es-0450",
+                "w": "posible",
+                "p": "poˈsible",
+                "d": "possible",
+                "s": "Lo necesito tan pronto como sea posible. (I need it ASAP.)"
+            },
+            {
+                "id": "es-0451",
+                "w": "hermana",
+                "p": "eɾˈmana",
+                "d": "sister",
+                "s": "Ésa es la cámara de fotos de mi hermana. (That's my sister's camera.)"
+            },
+            {
+                "id": "es-0452",
+                "w": "número",
+                "p": "ˈnumeɾo",
+                "d": "number",
+                "s": "Tom olvidó el número telefónico de Mary. (Tom forgot Mary's phone number.)"
+            },
+            {
+                "id": "es-0453",
+                "w": "meses",
+                "p": "meses",
+                "d": "month",
+                "s": "Me reúno con él una vez cada seis meses. (I meet with him once every six months.)"
+            },
+            {
+                "id": "es-0454",
+                "w": "exactamente",
+                "p": "eɡˌsaɡtaˈmente",
+                "d": "exactly",
+                "s": "No estoy segura exactamente dónde estoy. (I'm not sure where I am.)"
+            },
+            {
+                "id": "es-0455",
+                "w": "culpa",
+                "p": "ˈkulpa",
+                "d": "fault",
+                "s": "Tom culpa a María por la muerte de Juan. (Tom blames Mary for John's death.)"
+            },
+            {
+                "id": "es-0456",
+                "w": "abajo",
+                "p": "aˈbaxo",
+                "d": "down",
+                "s": "Pon el libro en la estantería de abajo. (Put the book on the bottom shelf.)"
+            },
+            {
+                "id": "es-0457",
+                "w": "escuela",
+                "p": "esˈkwela",
+                "d": "school",
+                "s": "Estoy aprendiendo francés en la escuela. (I learn French at school.)"
+            },
+            {
+                "id": "es-0458",
+                "w": "ido",
+                "p": "ˈido",
+                "d": "to go",
+                "s": "Todos los estudiantes se han ido a casa. (All the students have gone home.)"
+            },
+            {
+                "id": "es-0459",
+                "w": "fuerte",
+                "p": "ˈfweɾte",
+                "d": "strong",
+                "s": "Nuestro equipo de béisbol es muy fuerte. (Our baseball team is very strong.)"
+            },
+            {
+                "id": "es-0460",
+                "w": "diciendo",
+                "p": "diˈθjendo",
+                "d": "to say",
+                "s": "Presta atención a lo que estoy diciendo. (Pay attention to what I'm saying.)"
+            },
+            {
+                "id": "es-0461",
+                "w": "habla",
+                "p": "ˈabla",
+                "d": "to talk",
+                "s": "Tom habla en francés con sus profesores. (Tom speaks French to his teachers.)"
+            },
+            {
+                "id": "es-0462",
+                "w": "esté",
+                "p": "esˈte",
+                "d": "to be",
+                "s": "Golpea el hierro mientras esté caliente. (Strike while the iron is hot.)"
+            },
+            {
+                "id": "es-0463",
+                "w": "ello",
+                "p": "ˈeʝo",
+                "d": "it",
+                "s": "No pondría la mano en el fuego por ello. (I wouldn't bet on it.)"
+            },
+            {
+                "id": "es-0464",
+                "w": "pregunta",
+                "p": "pɾeˈɡunta",
+                "d": "question",
+                "s": "Tom le quiere hacer una pregunta a Mary. (Tom wanted to ask Mary a question.)"
+            },
+            {
+                "id": "es-0465",
+                "w": "chicas",
+                "p": "tʃikas",
+                "d": "girl",
+                "s": "Algunas chicas estaban jugando al tenis. (Some girls were playing tennis.)"
+            },
+            {
+                "id": "es-0466",
+                "w": "eran",
+                "p": "ˈeɾan",
+                "d": "to be",
+                "s": "Los suministros no eran ningún problema. (Supplies were no problem.)"
+            },
+            {
+                "id": "es-0467",
+                "w": "unas",
+                "p": "ˈunas",
+                "d": "an",
+                "s": "Tiene unas hermosas mejillas sonrosadas. (She has beautiful rosy cheeks.)"
+            },
+            {
+                "id": "es-0468",
+                "w": "pasando",
+                "p": "pasando",
+                "d": "to pass",
+                "s": "No tengo ni idea de lo que está pasando. (I've no idea what's happening.)"
+            },
+            {
+                "id": "es-0469",
+                "w": "atrás",
+                "p": "aˈtɾas",
+                "d": "behind",
+                "s": "Preferiría sentarme en la fila de atrás. (I'd rather sit in the back row.)"
+            },
+            {
+                "id": "es-0470",
+                "w": "malo",
+                "p": "ˈmalo",
+                "d": "bad",
+                "s": "Él jamás había visto a un niño tan malo. (He had never seen such a bad boy.)"
+            },
+            {
+                "id": "es-0471",
+                "w": "capitán",
+                "p": "kapiˈtan",
+                "d": "captain",
+                "s": "Escogimos a Tom como capitán del equipo. (We elected Tom captain of the team.)"
+            },
+            {
+                "id": "es-0472",
+                "w": "bebé",
+                "p": "beˈbe",
+                "d": "baby",
+                "s": "La bebé estaba chapoteando en la bañera. (The baby was splashing in the bathtub.)"
+            },
+            {
+                "id": "es-0473",
+                "w": "segundo",
+                "p": "seˈɡundo",
+                "d": "second",
+                "s": "¿Puedo hablar contigo a solas un segundo? (Could I talk to you alone for a second?)"
+            },
+            {
+                "id": "es-0474",
+                "w": "sabemos",
+                "p": "saˈbemos",
+                "d": "to know",
+                "s": "Todos nosotros sabemos lo que aquí pasó. (We all know what happened here.)"
+            },
+            {
+                "id": "es-0475",
+                "w": "mayor",
+                "p": "maˈʝoɾ",
+                "d": "bigger",
+                "s": "Tomás trabajó la mayor parte de su vida. (Tom worked most of his life.)"
+            },
+            {
+                "id": "es-0476",
+                "w": "comida",
+                "p": "koˈmida",
+                "d": "food",
+                "s": "A Tom le gusta mucho la comida japonesa. (Tom likes Japanese food a lot.)"
+            },
+            {
+                "id": "es-0477",
+                "w": "morir",
+                "p": "moˈɾiɾ",
+                "d": "to die",
+                "s": "Pasó por su cabeza que ella iba a morir. (The thought flashed through her mind that she was going to die.)"
+            },
+            {
+                "id": "es-0478",
+                "w": "conozco",
+                "p": "koˈnoθko",
+                "d": "to know",
+                "s": "Soy la persona más perezosa que conozco. (I am the laziest person I know.)"
+            },
+            {
+                "id": "es-0479",
+                "w": "dame",
+                "p": "ˈdame",
+                "d": "to give",
+                "s": "Por favor, dame tu dirección permanente. (Please give me your permanent address.)"
+            },
+            {
+                "id": "es-0480",
+                "w": "fácil",
+                "p": "ˈfaθil",
+                "d": "easy",
+                "s": "Este trabajo de ninguna manera es fácil. (This work is by no means easy.)"
+            },
+            {
+                "id": "es-0481",
+                "w": "comer",
+                "p": "koˈmeɾ",
+                "d": "to eat",
+                "s": "¿Con qué frecuencia sueles comer caviar? (How often do you eat caviar?)"
+            },
+            {
+                "id": "es-0482",
+                "w": "vino",
+                "p": "ˈbino",
+                "d": "Senses relating to literal movement",
+                "s": "Nos gustaría una botella de vino rosado. (We'd like a bottle of rosé.)"
+            },
+            {
+                "id": "es-0483",
+                "w": "lista",
+                "p": "ˈlista",
+                "d": "clever",
+                "s": "Mi nombre estaba de tercero en la lista. (My name was third on the list.)"
+            },
+            {
+                "id": "es-0484",
+                "w": "haga",
+                "p": "ˈaɡa",
+                "d": "to do",
+                "s": "Dígale a la muchacha que haga las camas. (Tell the maid to make the beds.)"
+            },
+            {
+                "id": "es-0485",
+                "w": "necesitas",
+                "p": "neθesitas",
+                "d": "to need",
+                "s": "¿Por qué necesitas una televisión nueva? (Why do you need a new television?)"
+            },
+            {
+                "id": "es-0486",
+                "w": "hijos",
+                "p": "ˈixos",
+                "d": "sons",
+                "s": "Nuestros hijos necesitan algo que hacer. (Our kids need something to do.)"
+            },
+            {
+                "id": "es-0487",
+                "w": "probablemente",
+                "p": "pɾoˌbableˈmente",
+                "d": "probably",
+                "s": "Probablemente estaré ocupado esta tarde. (I'll probably be busy this afternoon.)"
+            },
+            {
+                "id": "es-0488",
+                "w": "padres",
+                "p": "ˈpadɾes",
+                "d": "parents",
+                "s": "Nuestros padres no nos castigaron nunca. (Our parents never punished us.)"
+            },
+            {
+                "id": "es-0489",
+                "w": "habitación",
+                "p": "abitaˈθjon",
+                "d": "room",
+                "s": "Mi habitación está en el piso de arriba. (My room is upstairs.)"
+            },
+            {
+                "id": "es-0490",
+                "w": "creer",
+                "p": "kɾeˈeɾ",
+                "d": "to believe",
+                "s": "No puedo creer que Tom se acuerde de mí. (I can't believe Tom remembers me.)"
+            },
+            {
+                "id": "es-0491",
+                "w": "pensando",
+                "p": "penˈsando",
+                "d": "to think",
+                "s": "¿Estás pensando lo que estamos pensando? (Are you thinking what we're thinking?)"
+            },
+            {
+                "id": "es-0492",
+                "w": "fueron",
+                "p": "ˈfweɾon",
+                "d": "to go",
+                "s": "Las fuerzas americanas fueron retiradas. (American forces were withdrawn.)"
+            },
+            {
+                "id": "es-0493",
+                "w": "dime",
+                "p": "ˈdime",
+                "d": "to say",
+                "s": "Dime lo que estás buscando y te ayudaré. (Tell me what you're looking for and I'll help.)"
+            },
+            {
+                "id": "es-0494",
+                "w": "trata",
+                "p": "ˈtɾata",
+                "d": "to treat",
+                "s": "Tom siempre trata de ayudar a los demás. (Tom always tries to help others.)"
+            },
+            {
+                "id": "es-0495",
+                "w": "buscando",
+                "p": "busˈkando",
+                "d": "to seek",
+                "s": "Este es el libro que he estado buscando. (This is the book I've been looking for.)"
+            },
+            {
+                "id": "es-0496",
+                "w": "tuve",
+                "p": "ˈtube",
+                "d": "to have",
+                "s": "Yo no tuve oportunidad de relajarme ahí. (I had no chance to relax there.)"
+            },
+            {
+                "id": "es-0497",
+                "w": "tampoco",
+                "p": "tamˈpoko",
+                "d": "neither",
+                "s": "Si tú no vas a esquiar, yo tampoco iré. (If you don't go skiing, I won't, either.)"
+            },
+            {
+                "id": "es-0498",
+                "w": "amo",
+                "p": "ˈamo",
+                "d": "master",
+                "s": "Yo amo escucharlos a ustedes muchachos. (I love listening to you guys.)"
+            },
+            {
+                "id": "es-0499",
+                "w": "joven",
+                "p": "ˈxoben",
+                "d": "young",
+                "s": "A un perro joven se lo llama \"cachorro\". (A young dog is called a \"puppy.\")"
+            },
+            {
+                "id": "es-0500",
+                "w": "podrías",
+                "p": "poˈðɾias",
+                "d": "to be able to",
+                "s": "¿Podrías enseñarme el camino, por favor? (Will you please show me the way?)"
+            },
+            {
+                "id": "es-0501",
+                "w": "sola",
+                "p": "ˈsola",
+                "d": "sole",
+                "s": "No dijo ni una sola palabra al respecto. (He didn't say a word about it.)"
+            },
+            {
+                "id": "es-0502",
+                "w": "par",
+                "p": "ˈpaɾ",
+                "d": "even",
+                "s": "Me voy a tomar un par de días de asueto. (I'll take two or three days off.)"
+            },
+            {
+                "id": "es-0503",
+                "w": "única",
+                "p": "ˈunika",
+                "d": "only",
+                "s": "Él vio al suicidio como la única salida. (He saw suicide as the only way out.)"
+            },
+            {
+                "id": "es-0504",
+                "w": "hacen",
+                "p": "ˈaθen",
+                "d": "to do",
+                "s": "Ellos hacen sonar la campana a las ocho. (They ring the bell at eight.)"
+            },
+            {
+                "id": "es-0505",
+                "w": "seguir",
+                "p": "seˈɡiɾ",
+                "d": "to follow",
+                "s": "Tom se negó a seguir el consejo de Mary. (Tom refused to follow Mary's advice.)"
+            },
+            {
+                "id": "es-0506",
+                "w": "simplemente",
+                "p": "ˌsimpleˈmente",
+                "d": "simply",
+                "s": "Simplemente supuse que no te importaría. (I just assumed you wouldn't mind.)"
+            },
+            {
+                "id": "es-0507",
+                "w": "dicen",
+                "p": "ˈdiθen",
+                "d": "to say",
+                "s": "Las acciones dicen más que las palabras. (Actions speak louder than words.)"
+            },
+            {
+                "id": "es-0508",
+                "w": "medio",
+                "p": "ˈmedjo",
+                "d": "half",
+                "s": "Tenemos que idear algún medio de escape. (We must devise some means of escape.)"
+            },
+            {
+                "id": "es-0509",
+                "w": "puta",
+                "p": "ˈputa",
+                "d": "whore",
+                "s": ""
+            },
+            {
+                "id": "es-0510",
+                "w": "saben",
+                "p": "ˈsaben",
+                "d": "to know",
+                "s": "No todas las manzanas rojas saben igual. (Not all red apples taste the same.)"
+            },
+            {
+                "id": "es-0511",
+                "w": "sentido",
+                "p": "senˈtido",
+                "d": "sense",
+                "s": "El niño tiene un agudo sentido del oído. (The kid has a keen sense of hearing.)"
+            },
+            {
+                "id": "es-0512",
+                "w": "hagas",
+                "p": "ˈaɡas",
+                "d": "to do",
+                "s": "Quiero que hagas lo que tenés que hacer. (I want you to do what you have to do.)"
+            },
+            {
+                "id": "es-0513",
+                "w": "segura",
+                "p": "seˈɡuɾa",
+                "d": "secure",
+                "s": "No estoy segura exactamente dónde estoy. (I'm not sure where I am.)"
+            },
+            {
+                "id": "es-0514",
+                "w": "esperar",
+                "p": "espeˈɾaɾ",
+                "d": "to hope",
+                "s": "Todo lo que tienes que hacer es esperar. (All you have to do is wait.)"
+            },
+            {
+                "id": "es-0515",
+                "w": "lejos",
+                "p": "ˈlexos",
+                "d": "far",
+                "s": "Tu respuesta está lejos de ser perfecta. (Your answer is far from perfect.)"
+            },
+            {
+                "id": "es-0516",
+                "w": "arma",
+                "p": "ˈaɾma",
+                "d": "weapon",
+                "s": "El hombre llevaba un arma en la cintura. (The man wore a gun on his hip.)"
+            },
+            {
+                "id": "es-0517",
+                "w": "alto",
+                "p": "ˈalto",
+                "d": "tall",
+                "s": "Ahora él es casi tan alto como su padre. (He is now almost as tall as his father.)"
+            },
+            {
+                "id": "es-0518",
+                "w": "pequeña",
+                "p": "peˈkeɲa",
+                "d": "small",
+                "s": "Yo estoy viviendo en una ciudad pequeña. (I'm living in a small town.)"
+            },
+            {
+                "id": "es-0519",
+                "w": "dólares",
+                "p": "ˈdolaɾes",
+                "d": "dollar",
+                "s": "Lo compré por alrededor de doce dólares. (I bought it for about twelve dollars.)"
+            },
+            {
+                "id": "es-0520",
+                "w": "seis",
+                "p": "ˈseis",
+                "d": "six",
+                "s": "Yo le levanto todos los días a las seis. (I wake him at six every morning.)"
+            },
+            {
+                "id": "es-0521",
+                "w": "estaban",
+                "p": "esˈtaban",
+                "d": "to be",
+                "s": "Todos los estudiantes estaban presentes. (All the students were there.)"
+            },
+            {
+                "id": "es-0522",
+                "w": "seguridad",
+                "p": "seɡuɾiˈdad",
+                "d": "safety",
+                "s": "Tom se disfrazó de guardia de seguridad. (Tom disguised himself as a security guard.)"
+            },
+            {
+                "id": "es-0523",
+                "w": "maldita",
+                "p": "malˈdita",
+                "d": "cursed",
+                "s": "La familia parecía estar maldita. (The family seemed to be under a curse.)"
+            },
+            {
+                "id": "es-0524",
+                "w": "estuvo",
+                "p": "esˈtubo",
+                "d": "to be",
+                "s": "Estados Unidos estuvo en guerra en 1864. (America was at war in 1864.)"
+            },
+            {
+                "id": "es-0525",
+                "w": "preocupes",
+                "p": "pɾeokupes",
+                "d": "to worry",
+                "s": "No te preocupes, pronto habrá terminado. (Don't worry. It'll be over soon.)"
+            },
+            {
+                "id": "es-0526",
+                "w": "palabra",
+                "p": "paˈlabɾa",
+                "d": "word",
+                "s": "No dijo ni una sola palabra al respecto. (He didn't say a word about it.)"
+            },
+            {
+                "id": "es-0527",
+                "w": "esperando",
+                "p": "espeˈɾando",
+                "d": "to hope",
+                "s": "Puede que esté esperando en la estación. (She may be waiting at the station now.)"
+            },
+            {
+                "id": "es-0528",
+                "w": "queda",
+                "p": "ˈkeda",
+                "d": "to be",
+                "s": "Mi casa queda al norte de la biblioteca. (My house is north of the library.)"
+            },
+            {
+                "id": "es-0529",
+                "w": "oficina",
+                "p": "ofiˈθina",
+                "d": "office",
+                "s": "Acabo de estar en la oficina de correos. (I've just been to the post office.)"
+            },
+            {
+                "id": "es-0530",
+                "w": "matar",
+                "p": "maˈtaɾ",
+                "d": "to kill",
+                "s": "Quiero matar a Tom antes que él me mate. (I want to kill Tom before he kills me.)"
+            },
+            {
+                "id": "es-0531",
+                "w": "iré",
+                "p": "iˈɾe",
+                "d": "to go",
+                "s": "Me iré tan pronto como suene la campana. (I will leave as soon as the bell rings.)"
+            },
+            {
+                "id": "es-0532",
+                "w": "cama",
+                "p": "ˈkama",
+                "d": "bed",
+                "s": "Usualmente me voy a la cama a las nueve. (I usually go to bed at nine.)"
+            },
+            {
+                "id": "es-0533",
+                "w": "además",
+                "p": "adeˈmas",
+                "d": "in addition",
+                "s": "Además de leer, ¿haces alguna otra cosa? (Don't you ever do anything other than read?)"
+            },
+            {
+                "id": "es-0534",
+                "w": "último",
+                "p": "ˈultimo",
+                "d": "final",
+                "s": "¿Cómo se denomina el último día del año? (What's the last day of the year called?)"
+            },
+            {
+                "id": "es-0535",
+                "w": "oído",
+                "p": "oˈido",
+                "d": "hearing",
+                "s": "Realmente tienes un oído para la música. (You really have an ear for music.)"
+            },
+            {
+                "id": "es-0536",
+                "w": "habría",
+                "p": "aˈbɾia",
+                "d": "to have",
+                "s": "Si lo hubiera sabido os lo habría dicho. (If I'd known it, I'd have told you.)"
+            },
+            {
+                "id": "es-0537",
+                "w": "estará",
+                "p": "estaˈɾa",
+                "d": "to be",
+                "s": "Me pregunto dónde se estará escondiendo. (I wonder where he is hiding.)"
+            },
+            {
+                "id": "es-0538",
+                "w": "dio",
+                "p": "ˈdjo",
+                "d": "to give",
+                "s": "Tom se dio un apretón de manos con Mary. (Tom shook hands with Mary.)"
+            },
+            {
+                "id": "es-0539",
+                "w": "recuerdo",
+                "p": "reˈkweɾdo",
+                "d": "memory",
+                "s": "¿Cuál es tu primer recuerdo de la niñez? (What is your earliest memory from childhood?)"
+            },
+            {
+                "id": "es-0540",
+                "w": "siendo",
+                "p": "ˈsjendo",
+                "d": "to be",
+                "s": "Era consciente de estar siendo vigilado. (I was aware of being watched.)"
+            },
+            {
+                "id": "es-0541",
+                "w": "acerca",
+                "p": "aˈθeɾka",
+                "d": "adjacent",
+                "s": "El nuevo libro de Tom es acerca de Mary. (Tom's new book is about Mary.)"
+            },
+            {
+                "id": "es-0542",
+                "w": "tenga",
+                "p": "ˈtenɡa",
+                "d": "to have",
+                "s": "Tenga cuidado, no deje caer la bandeja. (Be careful. Don't drop the tray.)"
+            },
+            {
+                "id": "es-0543",
+                "w": "luz",
+                "p": "ˈluθ",
+                "d": "light",
+                "s": "Desenchufa la televisión y apaga la luz. (Unplug the television and turn off the light.)"
+            },
+            {
+                "id": "es-0544",
+                "w": "correcto",
+                "p": "koˈreɡto",
+                "d": "correct",
+                "s": "Tom estaba completamente en lo correcto. (Tom was absolutely correct.)"
+            },
+            {
+                "id": "es-0545",
+                "w": "demonios",
+                "p": "deˈmonjos",
+                "d": "the hell",
+                "s": "¿Pero en qué demonios estabas pensando? (What on earth were you thinking?)"
+            },
+            {
+                "id": "es-0546",
+                "w": "nuestras",
+                "p": "ˈnwestɾas",
+                "d": "our",
+                "s": "No podemos encontrar nuestras chaquetas. (We can't find our jackets.)"
+            },
+            {
+                "id": "es-0547",
+                "w": "verte",
+                "p": "ˈbeɾte",
+                "d": "to see",
+                "s": "Por favor vení; estoy ansiosa por verte. (Please come. I'm anxious to see you.)"
+            },
+            {
+                "id": "es-0548",
+                "w": "dormir",
+                "p": "doɾˈmiɾ",
+                "d": "to sleep",
+                "s": "De niño podía dormir en cualquier sitio. (As a kid, I could sleep anywhere.)"
+            },
+            {
+                "id": "es-0549",
+                "w": "sitio",
+                "p": "ˈsitjo",
+                "d": "site",
+                "s": "De niño podía dormir en cualquier sitio. (As a kid, I could sleep anywhere.)"
+            },
+            {
+                "id": "es-0550",
+                "w": "ayudar",
+                "p": "aʝuˈdaɾ",
+                "d": "to help",
+                "s": "Me pregunto si alguien nos puede ayudar. (I wonder if anybody can help us.)"
+            },
+            {
+                "id": "es-0551",
+                "w": "conseguir",
+                "p": "konseˈɡiɾ",
+                "d": "to achieve",
+                "s": "Tendrás que conseguir uno por tu cuenta. (You'll have to get one of your own.)"
+            },
+            {
+                "id": "es-0552",
+                "w": "di",
+                "p": "ˈdi",
+                "d": "to give",
+                "s": "¿Quién ha roto la ventana? Di la verdad. (Who broke the window? Tell the truth.)"
+            },
+            {
+                "id": "es-0553",
+                "w": "marido",
+                "p": "maˈɾido",
+                "d": "husband",
+                "s": "El sacerdote los declaró marido y mujer. (The priest pronounced them man and wife.)"
+            },
+            {
+                "id": "es-0554",
+                "w": "paz",
+                "p": "ˈpaθ",
+                "d": "peace",
+                "s": "Por favor, dejame en paz. Estoy ocupada. (Please leave me alone. I'm busy.)"
+            },
+            {
+                "id": "es-0555",
+                "w": "idiota",
+                "p": "iˈdjota",
+                "d": "idiotic",
+                "s": "Nuestro profesor es un verdadero idiota. (Our teacher is a real idiot.)"
+            },
+            {
+                "id": "es-0556",
+                "w": "plan",
+                "p": "ˈplan",
+                "d": "plan",
+                "s": "Ella negó haber tomado parte en el plan. (She denied having taken part in the scheme.)"
+            },
+            {
+                "id": "es-0557",
+                "w": "dado",
+                "p": "ˈdado",
+                "d": "given",
+                "s": "¿Quién te ha dado permiso para hacerlo? (Who gave you permission to do this?)"
+            },
+            {
+                "id": "es-0558",
+                "w": "cuanto",
+                "p": "ˈkwanto",
+                "d": "as much",
+                "s": "Se fue a la cama en cuanto llegó a casa. (He went to bed the moment he arrived home.)"
+            },
+            {
+                "id": "es-0559",
+                "w": "peor",
+                "p": "peˈoɾ",
+                "d": "worse",
+                "s": "No pudo haber venido en un peor momento. (It couldn't have come at a worse time.)"
+            },
+            {
+                "id": "es-0560",
+                "w": "murió",
+                "p": "muˈɾjo",
+                "d": "to die",
+                "s": "Ella murió en un accidente de bicicleta. (She died in a bike accident.)"
+            },
+            {
+                "id": "es-0561",
+                "w": "pueblo",
+                "p": "ˈpweblo",
+                "d": "town",
+                "s": "Él es el único superviviente del pueblo. (He's the only survivor in the village.)"
+            },
+            {
+                "id": "es-0562",
+                "w": "vivo",
+                "p": "ˈbibo",
+                "d": "alive",
+                "s": "Todo el mundo sabe que él está aún vivo. (Everyone knows that he's still alive.)"
+            },
+            {
+                "id": "es-0563",
+                "w": "venido",
+                "p": "beˈnido",
+                "d": "Senses relating to literal movement",
+                "s": "Sólo he venido para decir que lo siento. (I only came to say I'm sorry.)"
+            },
+            {
+                "id": "es-0564",
+                "w": "basta",
+                "p": "ˈbasta",
+                "d": "stop!",
+                "s": "No basta con decirlo: hay que demostrarlo. (Actions speak louder than words.)"
+            },
+            {
+                "id": "es-0565",
+                "w": "paso",
+                "p": "ˈpaso",
+                "d": "step",
+                "s": "Ella se abrió paso entre la muchedumbre. (She pushed her way through the crowd.)"
+            },
+            {
+                "id": "es-0566",
+                "w": "deberíamos",
+                "p": "debeˈɾiamos",
+                "d": "to owe",
+                "s": "¿Por qué deberíamos confiar en vosotros? (Why should we trust you?)"
+            },
+            {
+                "id": "es-0567",
+                "w": "música",
+                "p": "ˈmusika",
+                "d": "music",
+                "s": "Ella se gana la vida escribiendo música. (She writes music for a living.)"
+            },
+            {
+                "id": "es-0568",
+                "w": "diga",
+                "p": "ˈdiɡa",
+                "d": "to say",
+                "s": "No importa quién lo diga, no me lo creo. (No matter who says so, I don't believe it.)"
+            },
+            {
+                "id": "es-0569",
+                "w": "minuto",
+                "p": "miˈnuto",
+                "d": "minute",
+                "s": "No podemos perder ni siquiera un minuto. (We can't waste even a minute.)"
+            },
+            {
+                "id": "es-0570",
+                "w": "anoche",
+                "p": "aˈnot͡ʃe",
+                "d": "last night",
+                "s": "Desearía que ella hubiera venido anoche. (I wish she had come last night.)"
+            },
+            {
+                "id": "es-0571",
+                "w": "llamar",
+                "p": "ʝaˈmaɾ",
+                "d": "to summon",
+                "s": "Creo que deberíamos llamar a la policía. (I think we should call the police.)"
+            },
+            {
+                "id": "es-0572",
+                "w": "piensa",
+                "p": "pjensa",
+                "d": "to think",
+                "s": "Tom piensa que Mary bebe demasiado café. (Tom thinks Mary drinks too much coffee.)"
+            },
+            {
+                "id": "es-0573",
+                "w": "país",
+                "p": "paˈis",
+                "d": "country",
+                "s": "Cada país cuenta con su propia historia. (Every country has its own history.)"
+            },
+            {
+                "id": "es-0574",
+                "w": "digas",
+                "p": "ˈdiɡas",
+                "d": "to say",
+                "s": "Quiero que me digas todo lo que sucedió. (I want you to tell me everything that happened.)"
+            },
+            {
+                "id": "es-0575",
+                "w": "rey",
+                "p": "ˈrei",
+                "d": "king",
+                "s": "Alguna vez el rey vivió en ese palacio. (The king once lived in that palace.)"
+            },
+            {
+                "id": "es-0576",
+                "w": "perdón",
+                "p": "peɾˈdon",
+                "d": "pardon",
+                "s": "Perdón por todos los errores ortográficos. (Sorry for all the typos.)"
+            },
+            {
+                "id": "es-0577",
+                "w": "mucha",
+                "p": "ˈmut͡ʃa",
+                "d": "much",
+                "s": "Las naranjas contienen mucha vitamina C. (Oranges contain a lot of vitamin C.)"
+            },
+            {
+                "id": "es-0578",
+                "w": "falta",
+                "p": "ˈfalta",
+                "d": "lack",
+                "s": "Tom viene aquí todos los días sin falta. (Tom comes here every single day.)"
+            },
+            {
+                "id": "es-0579",
+                "w": "pienso",
+                "p": "ˈpjenso",
+                "d": "to think",
+                "s": "Yo pienso que ahora nos podemos relajar. (I think we can relax now.)"
+            },
+            {
+                "id": "es-0580",
+                "w": "diablos",
+                "p": "ˈdjablos",
+                "d": "damn it",
+                "s": "¿Cómo diablos entraste a nuestro cuarto? (How on earth did you get into our room?)"
+            },
+            {
+                "id": "es-0581",
+                "w": "perdido",
+                "p": "peɾˈdido",
+                "d": "lost",
+                "s": "Tenemos que recuperar el tiempo perdido. (We must make up for lost time.)"
+            },
+            {
+                "id": "es-0582",
+                "w": "niña",
+                "p": "ˈniɲa",
+                "d": "girl",
+                "s": "La niña se arrulló con su propio llanto. (The baby cried herself to sleep.)"
+            },
+            {
+                "id": "es-0583",
+                "w": "señorita",
+                "p": "seɲoˈɾita",
+                "d": "young woman",
+                "s": "¿Quién es la señorita que está parada en la puerta? (Who's the lady waiting at the door?)"
+            },
+            {
+                "id": "es-0584",
+                "w": "diez",
+                "p": "ˈdjeθ",
+                "d": "ten",
+                "s": "Todavía tenemos diez millas por delante. (We still have ten miles to go.)"
+            },
+            {
+                "id": "es-0585",
+                "w": "lleva",
+                "p": "ˈʝeba",
+                "d": "to take somewhere",
+                "s": "Llegar allí lleva por lo menos una hora. (It takes an hour to get there, at least.)"
+            },
+            {
+                "id": "es-0586",
+                "w": "hospital",
+                "p": "ospiˈtal",
+                "d": "hospital",
+                "s": "La semana pasada estaba en el hospital. (I was in the hospital last week.)"
+            },
+            {
+                "id": "es-0587",
+                "w": "grandes",
+                "p": "ˈɡɾandes",
+                "d": "big",
+                "s": "Las orejas del elefante son muy grandes. (An elephant's ears are really big.)"
+            },
+            {
+                "id": "es-0588",
+                "w": "maldito",
+                "p": "malˈdito",
+                "d": "cursed",
+                "s": ""
+            },
+            {
+                "id": "es-0589",
+                "w": "otras",
+                "p": "ˈotɾas",
+                "d": "other",
+                "s": "Me quedan otras dos cartas por escribir. (I have another two letters to write.)"
+            },
+            {
+                "id": "es-0590",
+                "w": "llamado",
+                "p": "ʝaˈmado",
+                "d": "called",
+                "s": "Acabo de conocer a un chico llamado Tom. (I just met a boy named Tom.)"
+            },
+            {
+                "id": "es-0591",
+                "w": "hacemos",
+                "p": "aˈθemos",
+                "d": "to do",
+                "s": "¿Por qué no le hacemos una visita a Tom? (Why don't we pay Tom a visit?)"
+            },
+            {
+                "id": "es-0592",
+                "w": "llevar",
+                "p": "ʝeˈbaɾ",
+                "d": "to take somewhere",
+                "s": "Las apariencias pueden llevar a engaño. (Looks can be deceptive.)"
+            },
+            {
+                "id": "es-0593",
+                "w": "fuego",
+                "p": "ˈfweɡo",
+                "d": "fire",
+                "s": "No pondría la mano en el fuego por ello. (I wouldn't bet on it.)"
+            },
+            {
+                "id": "es-0594",
+                "w": "aqui",
+                "p": "",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "es-0595",
+                "w": "tuvo",
+                "p": "ˈtubo",
+                "d": "to have",
+                "s": "Tom tuvo suerte de encontrar un trabajo. (Tom was lucky to find a job.)"
+            },
+            {
+                "id": "es-0596",
+                "w": "poner",
+                "p": "poˈneɾ",
+                "d": "to put",
+                "s": "Al menos déjame ayudar a poner la mesa. (At least let me help set the table.)"
+            },
+            {
+                "id": "es-0597",
+                "w": "calle",
+                "p": "ˈkaʝe",
+                "d": "street",
+                "s": "Tres de las habitaciones dan a la calle. (Three of the rooms face the street.)"
+            },
+            {
+                "id": "es-0598",
+                "w": "acaba",
+                "p": "aˈkaba",
+                "d": "to finish",
+                "s": "Él me acaba de enviar un mensaje de texto. (He just texted me.)"
+            },
+            {
+                "id": "es-0599",
+                "w": "prueba",
+                "p": "ˈpɾweba",
+                "d": "proof",
+                "s": "No tengo ninguna prueba de lo contrario. (I have no proof to the contrary.)"
+            },
+            {
+                "id": "es-0600",
+                "w": "increíble",
+                "p": "inkɾeˈible",
+                "d": "incredible",
+                "s": "Fue una experiencia bastante increíble. (It was a pretty amazing experience.)"
+            },
+            {
+                "id": "es-0601",
+                "w": "real",
+                "p": "reˈal",
+                "d": "real",
+                "s": "\"¿Su historia es real?\" \"Me temo que no.\" (\"Is his story true?\" \"I'm afraid not.\")"
+            },
+            {
+                "id": "es-0602",
+                "w": "libro",
+                "p": "ˈlibɾo",
+                "d": "book",
+                "s": "El nuevo libro de Tom es acerca de Mary. (Tom's new book is about Mary.)"
+            },
+            {
+                "id": "es-0603",
+                "w": "orden",
+                "p": "ˈoɾden",
+                "d": "order",
+                "s": "Pedimos nuestra orden hace 40 minutos. (We ordered 40 minutes ago.)"
+            },
+            {
+                "id": "es-0604",
+                "w": "semanas",
+                "p": "seˈmanas",
+                "d": "week",
+                "s": "Hace tres semanas que ella está enferma. (She has been ill for three weeks.)"
+            },
+            {
+                "id": "es-0605",
+                "w": "especial",
+                "p": "espeˈθjal",
+                "d": "special",
+                "s": "Ella hace el pan de una manera especial. (She has a special way of making bread.)"
+            },
+            {
+                "id": "es-0606",
+                "w": "mía",
+                "p": "ˈmia",
+                "d": "mine",
+                "s": "Tu oficina no es tan grande como la mía. (Your office isn't as large as mine.)"
+            },
+            {
+                "id": "es-0607",
+                "w": "café",
+                "p": "kaˈfe",
+                "d": "coffee",
+                "s": "Este café está demasiado fuerte para mí. (This coffee is too strong for me.)"
+            },
+            {
+                "id": "es-0608",
+                "w": "duro",
+                "p": "ˈduɾo",
+                "d": "hard",
+                "s": "El trabajo duro nunca ha herido a nadie. (Hard work never hurt anyone.)"
+            },
+            {
+                "id": "es-0609",
+                "w": "empezar",
+                "p": "empeˈθaɾ",
+                "d": "to start",
+                "s": "Para empezar, tienes que dejar de fumar. (First, you have to stop smoking.)"
+            },
+            {
+                "id": "es-0610",
+                "w": "afuera",
+                "p": "aˈfweɾa",
+                "d": "out",
+                "s": "Ve a jugar afuera en vez de ver la tele. (Play outside instead of watching TV.)"
+            },
+            {
+                "id": "es-0611",
+                "w": "queremos",
+                "p": "keɾemos",
+                "d": "to desire",
+                "s": "Decile a Tom que queremos hablar con él. (Tell Tom we want to talk with him.)"
+            },
+            {
+                "id": "es-0612",
+                "w": "perro",
+                "p": "ˈpero",
+                "d": "dog",
+                "s": "Tom se sabe el nombre del perro de Mary. (Tom knows Mary's dog's name.)"
+            },
+            {
+                "id": "es-0613",
+                "w": "cielo",
+                "p": "ˈθjelo",
+                "d": "sky",
+                "s": "Puedes ver muchas estrellas en el cielo. (You can see a lot of stars in the sky.)"
+            },
+            {
+                "id": "es-0614",
+                "w": "puesto",
+                "p": "ˈpwesto",
+                "d": "position",
+                "s": "Un puesto junto a la ventana, por favor. (I'd like a window seat, please.)"
+            },
+            {
+                "id": "es-0615",
+                "w": "viaje",
+                "p": "biˈaxe",
+                "d": "voyage",
+                "s": "Fue mi primer viaje a bordo de un barco. (It was my first trip aboard.)"
+            },
+            {
+                "id": "es-0616",
+                "w": "detrás",
+                "p": "deˈtɾas",
+                "d": "behind",
+                "s": "Tom se estacionó detrás del auto de Mary. (Tom parked behind Mary's car.)"
+            },
+            {
+                "id": "es-0617",
+                "w": "cuarto",
+                "p": "ˈkwaɾto",
+                "d": "fourth",
+                "s": "Las ventanas de mi cuarto están rajadas. (The windows in my room are cracked.)"
+            },
+            {
+                "id": "es-0618",
+                "w": "querida",
+                "p": "keˈɾida",
+                "d": "dear",
+                "s": "Ella era querida por todos en la villa. (She was loved by everybody in the village.)"
+            },
+            {
+                "id": "es-0619",
+                "w": "haría",
+                "p": "aˈɾia",
+                "d": "to do",
+                "s": "Si tuviese tiempo para hacerlo, lo haría. (If I had time to do that, I would.)"
+            },
+            {
+                "id": "es-0620",
+                "w": "preguntas",
+                "p": "pɾeɣuntas",
+                "d": "question",
+                "s": "¿Por qué no le preguntas a Tom tú mismo? (Why don't you ask Tom yourself?)"
+            },
+            {
+                "id": "es-0621",
+                "w": "piensas",
+                "p": "pjensas",
+                "d": "to think",
+                "s": "Me pregunto si alguna vez piensas en mí. (I wonder if you ever think of me.)"
+            },
+            {
+                "id": "es-0622",
+                "w": "querido",
+                "p": "keˈɾido",
+                "d": "dear",
+                "s": "Querido, ¿irás a hacer las compras por mí? (Honey, will you go shopping for me?)"
+            },
+            {
+                "id": "es-0623",
+                "w": "libre",
+                "p": "ˈlibɾe",
+                "d": "free",
+                "s": "Esta mercadería está libre de impuestos. (This merchandise is tax free.)"
+            },
+            {
+                "id": "es-0624",
+                "w": "buscar",
+                "p": "busˈkaɾ",
+                "d": "to seek",
+                "s": "¿A qué hora querés que te pase a buscar? (What time do you want me to pick you up?)"
+            },
+            {
+                "id": "es-0625",
+                "w": "cual",
+                "p": "ˈkwal",
+                "d": "suchlike",
+                "s": "Él es el hombre en el cual podés confiar. (He is the man you can rely on.)"
+            },
+            {
+                "id": "es-0626",
+                "w": "diré",
+                "p": "diˈɾe",
+                "d": "to say",
+                "s": "Estoy pensando qué te diré cuando llegue. (I'm thinking about what I'll tell you when I get there.)"
+            },
+            {
+                "id": "es-0627",
+                "w": "suena",
+                "p": "swena",
+                "d": "to sound",
+                "s": "Parte de lo que dijiste suena ridículo. (Some of what you said sounded stupid.)"
+            },
+            {
+                "id": "es-0628",
+                "w": "jugar",
+                "p": "xuˈɡaɾ",
+                "d": "to play",
+                "s": "Ve a jugar afuera en vez de ver la tele. (Play outside instead of watching TV.)"
+            },
+            {
+                "id": "es-0629",
+                "w": "cambio",
+                "p": "ˈkambjo",
+                "d": "change",
+                "s": "Él me notificó del cambio en los planes. (He told me about the change in the plan.)"
+            },
+            {
+                "id": "es-0630",
+                "w": "película",
+                "p": "peˈlikula",
+                "d": "film",
+                "s": "Esta película está basada en una novela. (This film is based on a novel.)"
+            },
+            {
+                "id": "es-0631",
+                "w": "millones",
+                "p": "miʎones",
+                "d": "million",
+                "s": "Él recibió más de seis millones de votos. (He received more than six million votes.)"
+            },
+            {
+                "id": "es-0632",
+                "w": "habrá",
+                "p": "aˈbɾa",
+                "d": "to have",
+                "s": "No te preocupes, pronto habrá terminado. (Don't worry. It'll be over soon.)"
+            },
+            {
+                "id": "es-0633",
+                "w": "llamada",
+                "p": "ʝaˈmada",
+                "d": "call",
+                "s": "Tengo que hacer una llamada interurbana. (I have to make a long-distance phone call.)"
+            },
+            {
+                "id": "es-0634",
+                "w": "resto",
+                "p": "ˈresto",
+                "d": "rest",
+                "s": "¿Quién se comió el resto de las sobras? (Who ate the rest of the leftovers?)"
+            },
+            {
+                "id": "es-0635",
+                "w": "vemos",
+                "p": "ˈbemos",
+                "d": "to see",
+                "s": "¿Por qué no vemos lo que hay ahí dentro? (Why don't we see what's in there?)"
+            },
+            {
+                "id": "es-0636",
+                "w": "extraño",
+                "p": "e(ɡ)sˈtɾaɲo",
+                "d": "strange",
+                "s": "Él me trata como si yo fuera un extraño. (He treats me as if I am a stranger.)"
+            },
+            {
+                "id": "es-0637",
+                "w": "mala",
+                "p": "ˈmala",
+                "d": "bad",
+                "s": "Él culpa a la mala suerte de su fracaso. (He blames his failure on bad luck.)"
+            },
+            {
+                "id": "es-0638",
+                "w": "presidente",
+                "p": "pɾesiˈdente",
+                "d": "president",
+                "s": "El presidente nombró a un nuevo gerente. (The president appointed a new manager.)"
+            },
+            {
+                "id": "es-0639",
+                "w": "irme",
+                "p": "ˈiɾme",
+                "d": "to go",
+                "s": "Esta noche quiero irme pronto a la cama. (I want to go to bed early tonight.)"
+            },
+            {
+                "id": "es-0640",
+                "w": "ropa",
+                "p": "ˈropa",
+                "d": "garment",
+                "s": "María usa con frecuencia ropa sugerente. (Mary often wears revealing clothes.)"
+            },
+            {
+                "id": "es-0641",
+                "w": "perder",
+                "p": "peɾˈdeɾ",
+                "d": "to lose",
+                "s": "Todos ustedes acaban de perder el juego. (You all just lost the game.)"
+            },
+            {
+                "id": "es-0642",
+                "w": "vuelve",
+                "p": "ˈbwelbe",
+                "d": "to return",
+                "s": "La juventud se marcha y no vuelve nunca. (Youth goes away and never comes back.)"
+            },
+            {
+                "id": "es-0643",
+                "w": "agente",
+                "p": "aˈxente",
+                "d": "agent",
+                "s": "Tom es un conocido agente de narcóticos. (Tom is a known narcotics agent.)"
+            },
+            {
+                "id": "es-0644",
+                "w": "palabras",
+                "p": "paˈlabɾas",
+                "d": "words",
+                "s": "A ella le gustan los juegos de palabras. (She likes word games.)"
+            },
+            {
+                "id": "es-0645",
+                "w": "información",
+                "p": "infoɾmaˈθjon",
+                "d": "information",
+                "s": "¿Qué tipo de información estás buscando? (What kind of information are you looking for?)"
+            },
+            {
+                "id": "es-0646",
+                "w": "raro",
+                "p": "ˈraɾo",
+                "d": "rare",
+                "s": "La lavadora está haciendo un ruido raro. (The washing machine is making a strange sound.)"
+            },
+            {
+                "id": "es-0647",
+                "w": "hará",
+                "p": "aˈɾa",
+                "d": "to do",
+                "s": "¿Qué es lo que hará Tom en ese momento? (What will Tom do then?)"
+            },
+            {
+                "id": "es-0648",
+                "w": "entiendes",
+                "p": "entjendes",
+                "d": "to understand",
+                "s": "¿Entiendes lo que te está diciendo Tom ? (Do you understand what Tom is saying?)"
+            },
+            {
+                "id": "es-0649",
+                "w": "éste",
+                "p": "ˈeste",
+                "d": "this one",
+                "s": "Éste no es un buen momento para hacerlo. (This isn't a good time to do that.)"
+            },
+            {
+                "id": "es-0650",
+                "w": "trabajando",
+                "p": "tɾaβaxando",
+                "d": "to work",
+                "s": "Mañana me pasaré todo el día trabajando. (I'll be working all day tomorrow.)"
+            },
+            {
+                "id": "es-0651",
+                "w": "tratando",
+                "p": "tɾatando",
+                "d": "to treat",
+                "s": "Tom siempre está tratando de ser genial. (Tom is always trying to be cool.)"
+            },
+            {
+                "id": "es-0652",
+                "w": "general",
+                "p": "xeneˈɾal",
+                "d": "general",
+                "s": "El general les ordenó ponerse en marcha. (The general commanded them to move on.)"
+            },
+            {
+                "id": "es-0653",
+                "w": "trato",
+                "p": "ˈtɾato",
+                "d": "treatment",
+                "s": "No estoy acostumbrado a semejante trato. (I am not accustomed to such treatment.)"
+            },
+            {
+                "id": "es-0654",
+                "w": "usar",
+                "p": "uˈsaɾ",
+                "d": "to use",
+                "s": "Puedes usar mi bolígrafo cuando quieras. (You may use my pen at any time.)"
+            },
+            {
+                "id": "es-0655",
+                "w": "perfecto",
+                "p": "peɾˈfeɡto",
+                "d": "perfect",
+                "s": "El avión realizó un aterrizaje perfecto. (The plane made a perfect landing.)"
+            },
+            {
+                "id": "es-0656",
+                "w": "derecho",
+                "p": "deˈɾet͡ʃo",
+                "d": "right",
+                "s": "Él tiene derecho a un mejor tratamiento. (He is entitled to better treatment.)"
+            },
+            {
+                "id": "es-0657",
+                "w": "modo",
+                "p": "ˈmodo",
+                "d": "way",
+                "s": "No estoy de ningún modo molesto contigo. (I'm by no means angry with you.)"
+            },
+            {
+                "id": "es-0658",
+                "w": "ayer",
+                "p": "aˈʝeɾ",
+                "d": "yesterday",
+                "s": "¿Me llamaron ustedes ayer por la mañana? (Did you phone me yesterday morning?)"
+            },
+            {
+                "id": "es-0659",
+                "w": "conoces",
+                "p": "koˈnoθes",
+                "d": "to know",
+                "s": "¿Conoces a Tom desde hace mucho tiempo? (Have you known Tom long?)"
+            },
+            {
+                "id": "es-0660",
+                "w": "demás",
+                "p": "deˈmas",
+                "d": "other",
+                "s": "Tom siempre trata de ayudar a los demás. (Tom always tries to help others.)"
+            },
+            {
+                "id": "es-0661",
+                "w": "quieras",
+                "p": "kjeɾas",
+                "d": "to desire",
+                "s": "Puedes usar mi bolígrafo cuando quieras. (You may use my pen at any time.)"
+            },
+            {
+                "id": "es-0662",
+                "w": "podríamos",
+                "p": "poˈðɾiamos",
+                "d": "to be able to",
+                "s": "Supongo que es algo que podríamos hacer. (I guess that's something we could do.)"
+            },
+            {
+                "id": "es-0663",
+                "w": "noticias",
+                "p": "noˈtiθjas",
+                "d": "notice",
+                "s": "Si no hay noticias, son buenas noticias. (No news is good news.)"
+            },
+            {
+                "id": "es-0664",
+                "w": "asesino",
+                "p": "aseˈsino",
+                "d": "murderer",
+                "s": "El asesino se escondió en las montañas. (The murderer hid in the mountains.)"
+            },
+            {
+                "id": "es-0665",
+                "w": "encontrado",
+                "p": "enkonˈtɾado",
+                "d": "found",
+                "s": "Creo que me he encontrado contigo antes. (I think I've met you before.)"
+            },
+            {
+                "id": "es-0666",
+                "w": "control",
+                "p": "konˈtɾol",
+                "d": "control",
+                "s": "¿Dónde está el control remoto de la tele? (Where's the remote control for the TV?)"
+            },
+            {
+                "id": "es-0667",
+                "w": "odio",
+                "p": "ˈodjo",
+                "d": "hate",
+                "s": "Yo realmente odio los productos lácteos. (I really hate dairy products.)"
+            },
+            {
+                "id": "es-0668",
+                "w": "frente",
+                "p": "ˈfɾente",
+                "d": "forehead",
+                "s": "Ella no pudo hacer frente a la ansiedad. (She could not cope with anxiety.)"
+            },
+            {
+                "id": "es-0669",
+                "w": "sexo",
+                "p": "ˈseɡso",
+                "d": "sex",
+                "s": "Algunos peces pueden cambiar de sexo. (Some fish are able to change their gender.)"
+            },
+            {
+                "id": "es-0670",
+                "w": "decirle",
+                "p": "deθiɾle",
+                "d": "to say",
+                "s": "Pretendo decirle a Tom que no quiero ir. (I plan to tell Tom that I don't want to go.)"
+            },
+            {
+                "id": "es-0671",
+                "w": "estaré",
+                "p": "estaˈɾe",
+                "d": "to be",
+                "s": "Yo estaré desocupado mañana en la tarde. (I will be free tomorrow afternoon.)"
+            },
+            {
+                "id": "es-0672",
+                "w": "divertido",
+                "p": "dibeɾˈtido",
+                "d": "entertaining",
+                "s": "Fue divertido veros a vosotros bailando. (It was fun to watch you guys dancing.)"
+            },
+            {
+                "id": "es-0673",
+                "w": "armas",
+                "p": "ˈaɾmas",
+                "d": "weapon",
+                "s": "No me opongo a que la gente posea armas. (I'm not against people owning guns.)"
+            },
+            {
+                "id": "es-0674",
+                "w": "recuerdas",
+                "p": "rekweɾðas",
+                "d": "to remember",
+                "s": "¿Recuerdas la primera vez que vine aquí? (Do you remember the first time I came here?)"
+            },
+            {
+                "id": "es-0675",
+                "w": "amiga",
+                "p": "aˈmiɡa",
+                "d": "friend",
+                "s": "Ella se enamoró del hermano de su amiga. (She fell in love with her friend's brother.)"
+            },
+            {
+                "id": "es-0676",
+                "w": "grupo",
+                "p": "ˈɡɾupo",
+                "d": "group",
+                "s": "¿Por qué no hacemos un grupo de estudio? (Why don't we form a study group?)"
+            },
+            {
+                "id": "es-0677",
+                "w": "asunto",
+                "p": "aˈsunto",
+                "d": "matter",
+                "s": "En este asunto estoy de acuerdo contigo. (I agree with you on this issue.)"
+            },
+            {
+                "id": "es-0678",
+                "w": "acabo",
+                "p": "aˈkabo",
+                "d": "to finish",
+                "s": "Acabo de conocer a un chico llamado Tom. (I just met a boy named Tom.)"
+            },
+            {
+                "id": "es-0679",
+                "w": "mensaje",
+                "p": "menˈsaxe",
+                "d": "message",
+                "s": "Me pidieron que te entregara un mensaje. (I've been asked to give you a message.)"
+            },
+            {
+                "id": "es-0680",
+                "w": "encima",
+                "p": "enˈθima",
+                "d": "on top of something",
+                "s": "No hay bolígrafos encima del escritorio. (There are no pens on the desk.)"
+            },
+            {
+                "id": "es-0681",
+                "w": "atención",
+                "p": "atenˈθjon",
+                "d": "attention",
+                "s": "Presta atención a lo que estoy diciendo. (Pay attention to what I'm saying.)"
+            },
+            {
+                "id": "es-0682",
+                "w": "diferente",
+                "p": "difeˈɾente",
+                "d": "different",
+                "s": "Tengo ganas de hacer algo diferente hoy. (I feel like doing something different today.)"
+            },
+            {
+                "id": "es-0683",
+                "w": "cállate",
+                "p": "ˈkaʝate",
+                "d": "to calm",
+                "s": "Por favor cállate y déjame terminar. (Please be quiet and let me finish.)"
+            },
+            {
+                "id": "es-0684",
+                "w": "daño",
+                "p": "ˈdaɲo",
+                "d": "damage",
+                "s": "¿Te crees que quiero hacerle daño a Tom? (Do you think I want to hurt Tom?)"
+            },
+            {
+                "id": "es-0685",
+                "w": "sucede",
+                "p": "suθeðe",
+                "d": "to happen",
+                "s": "Tom sabe lo que en realidad sucede. (Tom knows what's really going on.)"
+            },
+            {
+                "id": "es-0686",
+                "w": "cambiar",
+                "p": "kamˈbjaɾ",
+                "d": "to change",
+                "s": "Tuve que cambiar de colectivo dos veces. (I have to change buses two times.)"
+            },
+            {
+                "id": "es-0687",
+                "w": "siguiente",
+                "p": "siˈɡjente",
+                "d": "following",
+                "s": "Ellos se bajaron en la siguiente parada. (They got off at the next bus stop.)"
+            },
+            {
+                "id": "es-0688",
+                "w": "sino",
+                "p": "ˈsino",
+                "d": "but",
+                "s": "Tom no es el padre de Mary, sino su tío. (Tom isn't Mary's father, but her uncle.)"
+            },
+            {
+                "id": "es-0689",
+                "w": "seas",
+                "p": "ˈseas",
+                "d": "to be",
+                "s": "Queremos que seas el capitán del equipo. (We want you to be the team captain.)"
+            },
+            {
+                "id": "es-0690",
+                "w": "médico",
+                "p": "ˈmediko",
+                "d": "doctor",
+                "s": "El médico me hizo acostar sobre la cama. (The doctor had me lie down on the bed.)"
+            },
+            {
+                "id": "es-0691",
+                "w": "boca",
+                "p": "ˈboka",
+                "d": "mouth",
+                "s": "Usted debería mantener la boca cerrada. (You should keep your mouth shut.)"
+            },
+            {
+                "id": "es-0692",
+                "w": "dejó",
+                "p": "deˈxo",
+                "d": "to leave",
+                "s": "¿Acaso Tom dejó a Mary conducir su auto? (Did Tom let Mary drive his car?)"
+            },
+            {
+                "id": "es-0693",
+                "w": "error",
+                "p": "eˈroɾ",
+                "d": "error",
+                "s": "Dispénseme, pero está usted en un error. (Excuse me, but you're mistaken.)"
+            },
+            {
+                "id": "es-0694",
+                "w": "jamás",
+                "p": "xaˈmas",
+                "d": "never",
+                "s": "Vosotros jamás cedisteis a la tentación. (You never gave in to temptation.)"
+            },
+            {
+                "id": "es-0695",
+                "w": "largo",
+                "p": "ˈlaɾɡo",
+                "d": "long",
+                "s": "Ella estuvo enferma por un largo tiempo. (She was ill for a long time.)"
+            },
+            {
+                "id": "es-0696",
+                "w": "pena",
+                "p": "ˈpena",
+                "d": "punishment",
+                "s": "Seguimos creyendo que no merece la pena. (We kept thinking it wasn't worth it.)"
+            },
+            {
+                "id": "es-0697",
+                "w": "voz",
+                "p": "ˈboθ",
+                "d": "voice",
+                "s": "El loro puede imitar la voz de la gente. (A parrot can mimic a person's voice.)"
+            },
+            {
+                "id": "es-0698",
+                "w": "futuro",
+                "p": "fuˈtuɾo",
+                "d": "future",
+                "s": "Procure usted hacerlo mejor en el futuro. (Try to do better in the future.)"
+            },
+            {
+                "id": "es-0699",
+                "w": "siente",
+                "p": "ˈsjente",
+                "d": "to seat",
+                "s": "¿Cómo se siente el paciente esta mañana? (How's the patient feeling this morning?)"
+            },
+            {
+                "id": "es-0700",
+                "w": "secreto",
+                "p": "seˈkɾeto",
+                "d": "a secret",
+                "s": "Ese es un secreto que no te puedo decir. (That's a secret I can't tell you.)"
+            },
+            {
+                "id": "es-0701",
+                "w": "baño",
+                "p": "ˈbaɲo",
+                "d": "bath",
+                "s": "¿Por qué llevas puesto un traje de baño? (Why are you wearing a bathing suit?)"
+            },
+            {
+                "id": "es-0702",
+                "w": "mil",
+                "p": "ˈmil",
+                "d": "thousand",
+                "s": "En Estambul hay unas tres mil mezquitas. (There are around three thousand mosques in Istanbul.)"
+            },
+            {
+                "id": "es-0703",
+                "w": "decirte",
+                "p": "deθiɾte",
+                "d": "to say",
+                "s": "No puedo decirte por qué Tom se retrasa. (I can't tell you why Tom is late.)"
+            },
+            {
+                "id": "es-0704",
+                "w": "pensaba",
+                "p": "pensaβa",
+                "d": "to think",
+                "s": "Yo pensaba que se enorgullecerían de mí. (I thought you'd be proud of me.)"
+            },
+            {
+                "id": "es-0705",
+                "w": "novia",
+                "p": "ˈnobja",
+                "d": "girlfriend",
+                "s": "María quería saber si Tomás tenía novia. (Mary wanted to know if Tom had a girlfriend.)"
+            },
+            {
+                "id": "es-0706",
+                "w": "propia",
+                "p": "ˈpɾopja",
+                "d": "own",
+                "s": "Cada país cuenta con su propia historia. (Every country has its own history.)"
+            },
+            {
+                "id": "es-0707",
+                "w": "sueño",
+                "p": "ˈsweɲo",
+                "d": "sleep",
+                "s": "La verdad es que yo también tengo sueño. (I'm kind of sleepy, too.)"
+            },
+            {
+                "id": "es-0708",
+                "w": "haz",
+                "p": "ˈaθ",
+                "d": "to do",
+                "s": "Haz sonar el timbre cuando me requieras. (Ring the bell when you want me.)"
+            },
+            {
+                "id": "es-0709",
+                "w": "fuerza",
+                "p": "ˈfweɾθa",
+                "d": "force",
+                "s": "Le pusieron a Tom una camisa de fuerza. (They put Tom in a straitjacket.)"
+            },
+            {
+                "id": "es-0710",
+                "w": "deben",
+                "p": "ˈdeben",
+                "d": "to owe",
+                "s": "Ellos deben trabajar ocho horas al día. (They must work 8 hours a day.)"
+            },
+            {
+                "id": "es-0711",
+                "w": "supone",
+                "p": "supone",
+                "d": "to suppose",
+                "s": "¿Qué se supone que tengo que hacer ahora? (What am I supposed to do now?)"
+            },
+            {
+                "id": "es-0712",
+                "w": "estábamos",
+                "p": "esˈtabamos",
+                "d": "to be",
+                "s": "Ayer a estas horas estábamos en el cine. (Yesterday at this time, we were at the movie theater.)"
+            },
+            {
+                "id": "es-0713",
+                "w": "ambos",
+                "p": "ˈambos",
+                "d": "both",
+                "s": "A Tom le disgustaban ambos, Mary y John. (Tom disliked both Mary and John.)"
+            },
+            {
+                "id": "es-0714",
+                "w": "ay",
+                "p": "ˈai",
+                "d": "ah!",
+                "s": "Ay si pudiera hablar francés. (If only I could speak French.)"
+            },
+            {
+                "id": "es-0715",
+                "w": "estuve",
+                "p": "esˈtube",
+                "d": "to be",
+                "s": "Admito que no estuve prestando atención. (I admit I wasn't paying attention.)"
+            },
+            {
+                "id": "es-0716",
+                "w": "encontré",
+                "p": "eŋkonˈtɾe",
+                "d": "to meet",
+                "s": "Me encontré con Tom después del trabajo. (I met Tom after work.)"
+            },
+            {
+                "id": "es-0717",
+                "w": "vuelto",
+                "p": "ˈbwelto",
+                "d": "to return",
+                "s": "Supongo que me he vuelto más perezoso. (I guess I've gotten lazy.)"
+            },
+            {
+                "id": "es-0718",
+                "w": "dolor",
+                "p": "doˈloɾ",
+                "d": "pain",
+                "s": "Una bolsa con hielo disminuirá el dolor. (An ice pack will numb the pain.)"
+            },
+            {
+                "id": "es-0719",
+                "w": "dile",
+                "p": "ˈdile",
+                "d": "to say",
+                "s": "Por favor, dile a Tom que es importante. (Please tell Tom it's important.)"
+            },
+            {
+                "id": "es-0720",
+                "w": "encanta",
+                "p": "enˈkanta",
+                "d": "to charm",
+                "s": "A mi hija le encanta saltar a la cuerda. (My daughter loves jumping rope.)"
+            },
+            {
+                "id": "es-0721",
+                "w": "edad",
+                "p": "eˈdad",
+                "d": "age",
+                "s": "Ellos tienen más o menos la misma edad. (They are about the same age.)"
+            },
+            {
+                "id": "es-0722",
+                "w": "darle",
+                "p": "ˈdaɾle",
+                "d": "to give",
+                "s": "Puedes darle el libro a quien lo quiera. (You may give the book to whoever wants it.)"
+            },
+            {
+                "id": "es-0723",
+                "w": "pie",
+                "p": "ˈpje",
+                "d": "foot",
+                "s": "Veo a una chica de pie bajo aquel árbol. (I see a girl standing under that tree.)"
+            },
+            {
+                "id": "es-0724",
+                "w": "negro",
+                "p": "ˈneɡɾo",
+                "d": "black",
+                "s": "Tengo un gato blanco y un perro negro. (I have a white cat and a black dog.)"
+            },
+            {
+                "id": "es-0725",
+                "w": "ganar",
+                "p": "ɡaˈnaɾ",
+                "d": "to gain",
+                "s": "¿Has dicho que yo no podría ganar nunca? (Did you say that I could never win?)"
+            },
+            {
+                "id": "es-0726",
+                "w": "aire",
+                "p": "ˈaiɾe",
+                "d": "air",
+                "s": "Este neumático necesita un poco de aire. (This tire needs some air.)"
+            },
+            {
+                "id": "es-0727",
+                "w": "lamento",
+                "p": "laˈmento",
+                "d": "lament",
+                "s": "Lamento que usted no pueda acompañarnos. (I'm sorry that you can't join us.)"
+            },
+            {
+                "id": "es-0728",
+                "w": "verlo",
+                "p": "ˈbeɾlo",
+                "d": "to see",
+                "s": "Por favor, no olvides ir a verlo mañana. (Please don't forget to see him tomorrow.)"
+            },
+            {
+                "id": "es-0729",
+                "w": "asesinato",
+                "p": "asesiˈnato",
+                "d": "assassination",
+                "s": "El gran jurado acusó a Tom de asesinato. (The grand jury indicted Tom for murder.)"
+            },
+            {
+                "id": "es-0730",
+                "w": "vio",
+                "p": "ˈbjo",
+                "d": "to see",
+                "s": "El chico se fue corriendo cuando me vio. (The boy ran away when he saw me.)"
+            },
+            {
+                "id": "es-0731",
+                "w": "adónde",
+                "p": "aˈdonde",
+                "d": "to where",
+                "s": "Tom no tenía ni idea de adónde iba Mary. (Tom had no idea where Mary went.)"
+            },
+            {
+                "id": "es-0732",
+                "w": "llegado",
+                "p": "ʝeˈɡado",
+                "d": "to arrive",
+                "s": "No me arrepiento de haber llegado tarde. (I don't regret arriving late.)"
+            },
+            {
+                "id": "es-0733",
+                "w": "disculpe",
+                "p": "disˈkulpe",
+                "d": "to excuse",
+                "s": "Disculpe por haber demorado en contestar. (I'm sorry for the late response.)"
+            },
+            {
+                "id": "es-0734",
+                "w": "cita",
+                "p": "ˈθita",
+                "d": "date",
+                "s": "Tom tiene una cita con María esta tarde. (Tom has a date with Mary this afternoon.)"
+            },
+            {
+                "id": "es-0735",
+                "w": "estaría",
+                "p": "estaˈɾia",
+                "d": "to be",
+                "s": "Estaría muy disgustado si eso sucediera. (I'd be very upset if that happened.)"
+            },
+            {
+                "id": "es-0736",
+                "w": "fuiste",
+                "p": "ˈfwiste",
+                "d": "to go",
+                "s": "¿Fuiste tú el que hizo sonar la campana? (Were you the one who rung the bell?)"
+            },
+            {
+                "id": "es-0737",
+                "w": "sistema",
+                "p": "sisˈtema",
+                "d": "system",
+                "s": "Este sistema de calefacción quema aceite. (This heating system burns oil.)"
+            },
+            {
+                "id": "es-0738",
+                "w": "gusto",
+                "p": "ˈɡusto",
+                "d": "taste",
+                "s": "No se puede dar gusto a todo el mundo. (You can't please everyone.)"
+            },
+            {
+                "id": "es-0739",
+                "w": "pobre",
+                "p": "ˈpobɾe",
+                "d": "poor",
+                "s": "Este pobre gato casi se murió de hambre. (This poor cat almost died of hunger.)"
+            },
+            {
+                "id": "es-0740",
+                "w": "negocio",
+                "p": "neˈɡoθjo",
+                "d": "business",
+                "s": "Mi negocio se está levantando de nuevo. (My business is picking up again.)"
+            },
+            {
+                "id": "es-0741",
+                "w": "mente",
+                "p": "ˈmente",
+                "d": "mind",
+                "s": "Ella tenía en mente ir a la universidad. (She made up her mind to go to college.)"
+            },
+            {
+                "id": "es-0742",
+                "w": "tuyo",
+                "p": "ˈtuʝo",
+                "d": "yours",
+                "s": "Este vestido es más barato que el tuyo. (This dress is cheaper than yours.)"
+            },
+            {
+                "id": "es-0743",
+                "w": "campo",
+                "p": "ˈkampo",
+                "d": "countryside",
+                "s": "El agricultor sembró el campo con trigo. (The farmer seeded the field with wheat.)"
+            },
+            {
+                "id": "es-0744",
+                "w": "mire",
+                "p": "ˈmiɾe",
+                "d": "to look at",
+                "s": "A mi madre no le gusta que yo mire televisión. (My mother doesn't like my watching TV.)"
+            },
+            {
+                "id": "es-0745",
+                "w": "situación",
+                "p": "sitwaˈθjon",
+                "d": "situation",
+                "s": "Él se está acostumbrando a la situación. (He's getting used to the situation.)"
+            },
+            {
+                "id": "es-0746",
+                "w": "tras",
+                "p": "ˈtɾas",
+                "d": "after",
+                "s": "Tras la tormenta, el mar estaba en calma. (After the storm, the sea was calm.)"
+            },
+            {
+                "id": "es-0747",
+                "w": "hotel",
+                "p": "oˈtel",
+                "d": "hotel",
+                "s": "Démonos prisa de vuelta a nuestro hotel. (Let's hurry back to our hotel.)"
+            },
+            {
+                "id": "es-0748",
+                "w": "vosotros",
+                "p": "boˈsotɾos",
+                "d": "you",
+                "s": "¿Por qué deberíamos confiar en vosotros? (Why should we trust you?)"
+            },
+            {
+                "id": "es-0749",
+                "w": "funciona",
+                "p": "funθjona",
+                "d": "to work",
+                "s": "La cortadora de césped funciona con gas. (The lawn mower needs gas to operate.)"
+            },
+            {
+                "id": "es-0750",
+                "w": "foto",
+                "p": "ˈfoto",
+                "d": "photo",
+                "s": "Todas las personas sonríen para la foto. (Everyone is smiling in the picture.)"
+            },
+            {
+                "id": "es-0751",
+                "w": "abogado",
+                "p": "aboˈɡado",
+                "d": "lawyer",
+                "s": "Ella le aconsejó que viera a un abogado. (She advised him to see a lawyer.)"
+            },
+            {
+                "id": "es-0752",
+                "w": "loca",
+                "p": "ˈloka",
+                "d": "crazy",
+                "s": "¿Cómo te vino esa idea loca a la mente? (How did you come up with this crazy idea?)"
+            },
+            {
+                "id": "es-0753",
+                "w": "propio",
+                "p": "ˈpɾopjo",
+                "d": "own",
+                "s": "Cada estudiante tiene su propio pupitre. (Each student has his own desk.)"
+            },
+            {
+                "id": "es-0754",
+                "w": "alrededor",
+                "p": "alredeˈdoɾ",
+                "d": "around",
+                "s": "Tom ha viajado alrededor de toda Europa. (Tom has traveled all over Europe.)"
+            },
+            {
+                "id": "es-0755",
+                "w": "próxima",
+                "p": "ˈpɾoɡsima",
+                "d": "near",
+                "s": "Regresaremos a Boston la próxima semana. (We'll go back to Boston next week.)"
+            },
+            {
+                "id": "es-0756",
+                "w": "terminado",
+                "p": "teɾmiˈnado",
+                "d": "finished",
+                "s": "No te preocupes, pronto habrá terminado. (Don't worry. It'll be over soon.)"
+            },
+            {
+                "id": "es-0757",
+                "w": "hablas",
+                "p": "ˈablas",
+                "d": "to talk",
+                "s": "Me alegra oír que hablas escocés gaélico. (I am very glad to hear that you speak Scottish Gaelic.)"
+            },
+            {
+                "id": "es-0758",
+                "w": "pagar",
+                "p": "paˈɡaɾ",
+                "d": "to pay",
+                "s": "Me olvidé de pagar el alquiler este mes. (I forgot to pay my rent this month.)"
+            },
+            {
+                "id": "es-0759",
+                "w": "mató",
+                "p": "maˈto",
+                "d": "to kill",
+                "s": "La gran explosión mató a seis personas. (The huge explosion killed six people.)"
+            },
+            {
+                "id": "es-0760",
+                "w": "llamo",
+                "p": "ˈʝamo",
+                "d": "to summon",
+                "s": "Te llamo en cuanto llegue a la estación. (I'll call you as soon as I get to the station.)"
+            },
+            {
+                "id": "es-0761",
+                "w": "personal",
+                "p": "peɾsoˈnal",
+                "d": "personal",
+                "s": "Ella siempre tiene un interés personal. (She always has some axe to grind.)"
+            },
+            {
+                "id": "es-0762",
+                "w": "sientes",
+                "p": "sjentes",
+                "d": "to seat",
+                "s": "Tom sabe exactamente como tú te sientes. (Tom knows just how you feel.)"
+            },
+            {
+                "id": "es-0763",
+                "w": "ocurre",
+                "p": "okure",
+                "d": "to happen",
+                "s": "Eso ocurre todos los días, ¿no es así? (That happens every day, doesn't it?)"
+            },
+            {
+                "id": "es-0764",
+                "w": "ésta",
+                "p": "ˈesta",
+                "d": "this one",
+                "s": "Ésta es la razón de que él lo hiciera. (This is the reason why he did it.)"
+            },
+            {
+                "id": "es-0765",
+                "w": "recuerda",
+                "p": "rekweɾða",
+                "d": "to remember",
+                "s": "Me recuerda a los buenos viejos tiempos. (It reminds me of the good old times.)"
+            },
+            {
+                "id": "es-0766",
+                "w": "mitad",
+                "p": "miˈtad",
+                "d": "half",
+                "s": "La mitad de las manzanas están podridas. (Half of the apples are rotten.)"
+            },
+            {
+                "id": "es-0767",
+                "w": "quiera",
+                "p": "kjeɾa",
+                "d": "to desire",
+                "s": "Puedes darle el libro a quien lo quiera. (You may give the book to whoever wants it.)"
+            },
+            {
+                "id": "es-0768",
+                "w": "pelo",
+                "p": "ˈpelo",
+                "d": "hair",
+                "s": "Tom llevaba el pelo largo el año pasado. (Tom had long hair last year.)"
+            },
+            {
+                "id": "es-0769",
+                "w": "tenías",
+                "p": "teˈnias",
+                "d": "to have",
+                "s": "Nunca me dijiste que tenías una hermana. (You never told me you had a sister.)"
+            },
+            {
+                "id": "es-0770",
+                "w": "viste",
+                "p": "ˈbiste",
+                "d": "to see",
+                "s": "¿Viste el partido de fútbol por la tele? (Did you watch the soccer game on television?)"
+            },
+            {
+                "id": "es-0771",
+                "w": "oficial",
+                "p": "ofiˈθjal",
+                "d": "official",
+                "s": "El oficial al mando dijo que se quedarían. (The commander said they would stay.)"
+            },
+            {
+                "id": "es-0772",
+                "w": "llegó",
+                "p": "ʎeˈɣo",
+                "d": "to arrive",
+                "s": "Él llegó después de que sonó la campana. (He arrived after the bell rang.)"
+            },
+            {
+                "id": "es-0773",
+                "w": "compañía",
+                "p": "kompaˈɲia",
+                "d": "company",
+                "s": "Estoy muy orgullosa de nuestra compañía. (I'm very proud of our company.)"
+            },
+            {
+                "id": "es-0774",
+                "w": "relación",
+                "p": "relaˈθjon",
+                "d": "relation",
+                "s": "Tiene cierta relación con este problema. (It has some bearing on this problem.)"
+            },
+            {
+                "id": "es-0775",
+                "w": "conoce",
+                "p": "koˈnoθe",
+                "d": "to know",
+                "s": "Mi novio todavía no conoce a mis padres. (My boyfriend still hasn't met my parents.)"
+            },
+            {
+                "id": "es-0776",
+                "w": "pase",
+                "p": "ˈpase",
+                "d": "to pass",
+                "s": "A nadie le importa lo que le pase a Tom. (Nobody cares what happens to Tom.)"
+            },
+            {
+                "id": "es-0777",
+                "w": "montón",
+                "p": "monˈton",
+                "d": "heap",
+                "s": "Un montón de gente asistió a su funeral. (A great many people attended his funeral.)"
+            },
+            {
+                "id": "es-0778",
+                "w": "mejores",
+                "p": "mexoɾes",
+                "d": "better",
+                "s": "Las mejores cosas en la vida son gratis. (The best things in life are free.)"
+            },
+            {
+                "id": "es-0779",
+                "w": "creí",
+                "p": "kɾeˈi",
+                "d": "to believe",
+                "s": "Mary dijo que me amaba, pero no le creí. (Mary said that she loved me, but I didn't believe her.)"
+            },
+            {
+                "id": "es-0780",
+                "w": "cena",
+                "p": "ˈθena",
+                "d": "supper",
+                "s": "Mi madre está ocupada cocinando la cena. (My mother is busy cooking dinner.)"
+            },
+            {
+                "id": "es-0781",
+                "w": "sentir",
+                "p": "senˈtiɾ",
+                "d": "to feel",
+                "s": "Me estoy empezando a sentir mucho mejor. (I'm starting to feel much better.)"
+            },
+            {
+                "id": "es-0782",
+                "w": "través",
+                "p": "tɾaˈbes",
+                "d": "bend",
+                "s": "Él se dio paso a través de la multitud. (He made his way through the crowd.)"
+            },
+            {
+                "id": "es-0783",
+                "w": "accidente",
+                "p": "aɡθiˈdente",
+                "d": "accident",
+                "s": "Ella murió en un accidente de bicicleta. (She died in a bike accident.)"
+            },
+            {
+                "id": "es-0784",
+                "w": "ellas",
+                "p": "ˈeʝas",
+                "d": "they",
+                "s": "Ellas deberían llegar a eso de las diez. (They should arrive by ten o'clock.)"
+            },
+            {
+                "id": "es-0785",
+                "w": "caja",
+                "p": "ˈkaxa",
+                "d": "box",
+                "s": "¿Cuánto tiempo ha estado aquí esta caja? (How long has this box been here?)"
+            },
+            {
+                "id": "es-0786",
+                "w": "tranquilo",
+                "p": "tɾanˈkilo",
+                "d": "calm",
+                "s": "Necesito un lugar tranquilo para pensar. (I need a quiet place to think.)"
+            },
+            {
+                "id": "es-0787",
+                "w": "bonito",
+                "p": "boˈnito",
+                "d": "pretty",
+                "s": "No pintemos demasiado bonito el cuadro. (Let's not paint too pretty a picture.)"
+            },
+            {
+                "id": "es-0788",
+                "w": "eras",
+                "p": "ˈeɾas",
+                "d": "to be",
+                "s": "¿Creías en Santa Claus cuando eras niño? (Did you believe in Santa Claus when you were a child?)"
+            },
+            {
+                "id": "es-0789",
+                "w": "asi",
+                "p": "",
+                "d": "like this",
+                "s": ""
+            },
+            {
+                "id": "es-0790",
+                "w": "pudo",
+                "p": "ˈpudo",
+                "d": "to be able to",
+                "s": "Ella no pudo hacer frente a la ansiedad. (She could not cope with anxiety.)"
+            },
+            {
+                "id": "es-0791",
+                "w": "vive",
+                "p": "ˈbibe",
+                "d": "to applaud",
+                "s": "Tom tiene un hermano que vive en Boston. (Tom has a brother who lives in Boston.)"
+            },
+            {
+                "id": "es-0792",
+                "w": "vista",
+                "p": "ˈbista",
+                "d": "sight",
+                "s": "Solo estoy exponiendo mi punto de vista. (I'm just giving my perspective.)"
+            },
+            {
+                "id": "es-0793",
+                "w": "estúpido",
+                "p": "esˈtupido",
+                "d": "stupid",
+                "s": "Tom es demasiado estúpido para asustarse. (Tom is too stupid to be scared.)"
+            },
+            {
+                "id": "es-0794",
+                "w": "línea",
+                "p": "ˈlinea",
+                "d": "line",
+                "s": "La llamé, pero la línea estaba ocupada. (I called her, but the line was busy.)"
+            },
+            {
+                "id": "es-0795",
+                "w": "caballeros",
+                "p": "kaβaʎeɾos",
+                "d": "horseman",
+                "s": "¿Dónde están los lavabos de caballeros? (Where's the men's toilet?)"
+            },
+            {
+                "id": "es-0796",
+                "w": "haremos",
+                "p": "aˈɾemos",
+                "d": "to do",
+                "s": "Un día haremos del mundo un lugar mejor. (We'll someday make the world a better place.)"
+            },
+            {
+                "id": "es-0797",
+                "w": "dan",
+                "p": "ˈdan",
+                "d": "to give",
+                "s": "A Tom no se le dan bien las matemáticas. (Tom isn't good at math.)"
+            },
+            {
+                "id": "es-0798",
+                "w": "quédate",
+                "p": "",
+                "d": "to be",
+                "s": "Quédate en cama hasta el próximo lunes. (Stay in bed until next Monday.)"
+            },
+            {
+                "id": "es-0799",
+                "w": "tienda",
+                "p": "ˈtjenda",
+                "d": "tent",
+                "s": "La tienda permanece abierta todo el día. (The shop stays open all day.)"
+            },
+            {
+                "id": "es-0800",
+                "w": "comprar",
+                "p": "komˈpɾaɾ",
+                "d": "to buy",
+                "s": "Él no tuvo dinero para comprar la finca. (He had no money to buy the farm.)"
+            },
+            {
+                "id": "es-0801",
+                "w": "entendido",
+                "p": "entenˈdido",
+                "d": "expert",
+                "s": "Perdone, no he entendido bien su nombre. (Excuse me, I didn't catch your name.)"
+            },
+            {
+                "id": "es-0802",
+                "w": "centro",
+                "p": "ˈθentɾo",
+                "d": "center",
+                "s": "¿Este autobús va al centro de la ciudad? (Does this bus go to the center of town?)"
+            },
+            {
+                "id": "es-0803",
+                "w": "salvo",
+                "p": "ˈsalbo",
+                "d": "safe",
+                "s": "Estarás a salvo mientras te quedes aquí. (You are safe so long as you stay here.)"
+            },
+            {
+                "id": "es-0804",
+                "w": "mes",
+                "p": "ˈmes",
+                "d": "month",
+                "s": "La reunión tiene lugar dos veces al mes. (The meeting is held twice a month.)"
+            },
+            {
+                "id": "es-0805",
+                "w": "sol",
+                "p": "ˈsol",
+                "d": "sun",
+                "s": "Vimos al sol hundirse bajo el horizonte. (We saw the sun sink below the horizon.)"
+            },
+            {
+                "id": "es-0806",
+                "w": "tonto",
+                "p": "ˈtonto",
+                "d": "stupid",
+                "s": "Fue tonto de tu parte aceptar su oferta. (It was foolish of you to accept his offer.)"
+            },
+            {
+                "id": "es-0807",
+                "w": "hambre",
+                "p": "ˈambɾe",
+                "d": "hunger",
+                "s": "Cuando llegué a casa tenía mucha hambre. (When I got home, I was very hungry.)"
+            },
+            {
+                "id": "es-0808",
+                "w": "mesa",
+                "p": "ˈmesa",
+                "d": "table",
+                "s": "Tom dejó una gran propina sobre la mesa. (Tom left a large tip on the table.)"
+            },
+            {
+                "id": "es-0809",
+                "w": "respuesta",
+                "p": "resˈpwesta",
+                "d": "reply",
+                "s": "Por favor, señale la respuesta correcta. (Please mark the correct answer.)"
+            },
+            {
+                "id": "es-0810",
+                "w": "completamente",
+                "p": "komˌpletaˈmente",
+                "d": "completely",
+                "s": "Tom estaba completamente en lo correcto. (Tom was absolutely correct.)"
+            },
+            {
+                "id": "es-0811",
+                "w": "carta",
+                "p": "ˈkaɾta",
+                "d": "letter",
+                "s": "Acabo de terminar de escribir una carta. (I've just finished writing a letter.)"
+            },
+            {
+                "id": "es-0812",
+                "w": "totalmente",
+                "p": "toˌtalˈmente",
+                "d": "totally",
+                "s": "La habitación está totalmente amueblada. (The room is fully furnished.)"
+            },
+            {
+                "id": "es-0813",
+                "w": "imposible",
+                "p": "impoˈsible",
+                "d": "impossible",
+                "s": "Tom está tratando de hacer lo imposible. (Tom is trying to do the impossible.)"
+            },
+            {
+                "id": "es-0814",
+                "w": "pruebas",
+                "p": "ˈpɾwebas",
+                "d": "proof",
+                "s": "Quisiera hacer unas cuantas pruebas más. (I'd like to run a few more tests.)"
+            },
+            {
+                "id": "es-0815",
+                "w": "novio",
+                "p": "ˈnobjo",
+                "d": "boyfriend",
+                "s": "Mi novio todavía no conoce a mis padres. (My boyfriend still hasn't met my parents.)"
+            },
+            {
+                "id": "es-0816",
+                "w": "normal",
+                "p": "noɾˈmal",
+                "d": "normal",
+                "s": "No parecía haber nada fuera de lo normal. (Nothing seemed out of the ordinary.)"
+            },
+            {
+                "id": "es-0817",
+                "w": "gustan",
+                "p": "ˈɡustan",
+                "d": "translated as",
+                "s": "A ella le gustan mucho las antigüedades. (She loves antiques.)"
+            },
+            {
+                "id": "es-0818",
+                "w": "pude",
+                "p": "puðe",
+                "d": "to be able to",
+                "s": "No pude resistir el impulso de aplaudir. (I couldn't resist the urge to applaud.)"
+            },
+            {
+                "id": "es-0819",
+                "w": "traje",
+                "p": "ˈtɾaxe",
+                "d": "suit",
+                "s": "¡Ojalá hubiera comprado un traje blanco! (I wish I'd bought a white dress!)"
+            },
+            {
+                "id": "es-0820",
+                "w": "dirección",
+                "p": "diɾeɡˈθjon",
+                "d": "direction",
+                "s": "Por favor, dame tu dirección permanente. (Please give me your permanent address.)"
+            },
+            {
+                "id": "es-0821",
+                "w": "siete",
+                "p": "ˈsjete",
+                "d": "seven",
+                "s": "El edificio tiene siete pisos de altura. (The building is seven stories high.)"
+            },
+            {
+                "id": "es-0822",
+                "w": "dijeron",
+                "p": "diˈxeɾon",
+                "d": "to say",
+                "s": "Me dijeron que permaneciera en el coche. (They told me to stay in the car.)"
+            },
+            {
+                "id": "es-0823",
+                "w": "placer",
+                "p": "plaˈθeɾ",
+                "d": "pleasure",
+                "s": "Las sonrisas no siempre indican placer. (Smiles do not always indicate pleasure.)"
+            },
+            {
+                "id": "es-0824",
+                "w": "sean",
+                "p": "ˈsean",
+                "d": "to be",
+                "s": "Cuidaré de mis padres cuando sean viejos. (I'll take care of my parents when they get old.)"
+            },
+            {
+                "id": "es-0825",
+                "w": "tendrá",
+                "p": "tenˈdɾa",
+                "d": "to have",
+                "s": "Él es quien probablemente tendrá éxito. (He's the most likely to succeed.)"
+            },
+            {
+                "id": "es-0826",
+                "w": "barco",
+                "p": "ˈbaɾko",
+                "d": "boat",
+                "s": "Fue mi primer viaje a bordo de un barco. (It was my first trip aboard.)"
+            },
+            {
+                "id": "es-0827",
+                "w": "blanco",
+                "p": "ˈblanko",
+                "d": "white",
+                "s": "Mary se puso un vestido blanco sencillo. (Mary wore a simple white dress.)"
+            },
+            {
+                "id": "es-0828",
+                "w": "profesor",
+                "p": "pɾofeˈsoɾ",
+                "d": "professor",
+                "s": "Nuestro profesor es un verdadero idiota. (Our teacher is a real idiot.)"
+            },
+            {
+                "id": "es-0829",
+                "w": "servicio",
+                "p": "seɾˈbiθjo",
+                "d": "service",
+                "s": "Quiero poner una queja sobre el servicio. (I want to complain about the service.)"
+            },
+            {
+                "id": "es-0830",
+                "w": "muchacho",
+                "p": "muˈt͡ʃat͡ʃo",
+                "d": "boy or young adult",
+                "s": "El muchacho talló su nombre en el árbol. (The boy carved his name in the tree.)"
+            },
+            {
+                "id": "es-0831",
+                "w": "reunión",
+                "p": "reuˈnjon",
+                "d": "meeting",
+                "s": "La reunión tiene lugar dos veces al mes. (The meeting is held twice a month.)"
+            },
+            {
+                "id": "es-0832",
+                "w": "dejado",
+                "p": "deˈxado",
+                "d": "to leave",
+                "s": "Por razones de salud he dejado de fumar. (I stopped smoking for the sake of my health.)"
+            },
+            {
+                "id": "es-0833",
+                "w": "ley",
+                "p": "ˈlei",
+                "d": "law",
+                "s": "Estoy en contra de este proyecto de ley. (I'm against the bill.)"
+            },
+            {
+                "id": "es-0834",
+                "w": "quisiera",
+                "p": "kiˈsjeɾa",
+                "d": "to desire",
+                "s": "Quisiera hacer unas cuantas pruebas más. (I'd like to run a few more tests.)"
+            },
+            {
+                "id": "es-0835",
+                "w": "hubo",
+                "p": "ˈubo",
+                "d": "to have",
+                "s": "Afortunadamente no hubo embotellamiento. (Luckily, there wasn't a traffic jam.)"
+            },
+            {
+                "id": "es-0836",
+                "w": "programa",
+                "p": "pɾoˈɡɾama",
+                "d": "programme",
+                "s": "Este programa de hecho es bien interesante. (This TV program is really quite interesting.)"
+            },
+            {
+                "id": "es-0837",
+                "w": "carrera",
+                "p": "kaˈreɾa",
+                "d": "race",
+                "s": "Cursé mi carrera con énfasis en química. (I majored in chemistry.)"
+            },
+            {
+                "id": "es-0838",
+                "w": "cumpleaños",
+                "p": "kumpleˈaɲos",
+                "d": "birthday",
+                "s": "Tal vez ella se olvidó de mi cumpleaños. (Maybe she forgot my birthday.)"
+            },
+            {
+                "id": "es-0839",
+                "w": "muchachos",
+                "p": "muˈt͡ʃat͡ʃos",
+                "d": "boy or young adult",
+                "s": "Yo amo escucharlos a ustedes muchachos. (I love listening to you guys.)"
+            },
+            {
+                "id": "es-0840",
+                "w": "culo",
+                "p": "ˈkulo",
+                "d": "ass",
+                "s": "Tom cabalgó el caballo a culo desnudo. (Tom rode the horse bareback.)"
+            },
+            {
+                "id": "es-0841",
+                "w": "canción",
+                "p": "kanˈθjon",
+                "d": "song",
+                "s": "No me acuerdo de la letra de la canción. (I can't remember the lyrics.)"
+            },
+            {
+                "id": "es-0842",
+                "w": "hermosa",
+                "p": "eɾˈmosa",
+                "d": "gorgeous",
+                "s": "Dicen que Venecia es una hermosa ciudad. (They say that Venice is a beautiful city.)"
+            },
+            {
+                "id": "es-0843",
+                "w": "universidad",
+                "p": "unibeɾsiˈdad",
+                "d": "university",
+                "s": "La universidad es una pérdida de tiempo. (College is a waste of time.)"
+            },
+            {
+                "id": "es-0844",
+                "w": "boda",
+                "p": "ˈboda",
+                "d": "wedding",
+                "s": "¿Quieres una boda reducida o una grande? (Do you want a small wedding or a large one?)"
+            },
+            {
+                "id": "es-0845",
+                "w": "decirme",
+                "p": "deθiɾme",
+                "d": "to say",
+                "s": "¿Podrías decirme dónde estoy en el mapa? (Could you show me where I am on this map?)"
+            },
+            {
+                "id": "es-0846",
+                "w": "cualquiera",
+                "p": "kwalˈkjeɾa",
+                "d": "any",
+                "s": "Podría haber sido cualquiera de nosotros. (It could've been any one of us.)"
+            },
+            {
+                "id": "es-0847",
+                "w": "tengas",
+                "p": "ˈtenɡas",
+                "d": "to have",
+                "s": "No tengas vergüenza al entrar a mi casa. (Make yourself at home.)"
+            },
+            {
+                "id": "es-0848",
+                "w": "hacía",
+                "p": "aˈθia",
+                "d": "to do",
+                "s": "Hacía calor, así es que abrí la ventana. (It was warm, so I opened the window.)"
+            },
+            {
+                "id": "es-0849",
+                "w": "estés",
+                "p": "esˈtes",
+                "d": "to be",
+                "s": "Espero que no estés cometiendo un error. (I hope you're not making a mistake.)"
+            },
+            {
+                "id": "es-0850",
+                "w": "sala",
+                "p": "ˈsala",
+                "d": "room",
+                "s": "Tom era la persona más vieja de la sala. (Tom was the oldest person in the room.)"
+            },
+            {
+                "id": "es-0851",
+                "w": "llevo",
+                "p": "ʎeβo",
+                "d": "to take somewhere",
+                "s": "Llevo mucho tiempo sin ver a mi familia. (It's been a long time since I've seen my family.)"
+            },
+            {
+                "id": "es-0852",
+                "w": "decisión",
+                "p": "deθiˈsjon",
+                "d": "decision",
+                "s": "Tom tuvo que tomar una difícil decisión. (Tom had to make a difficult decision.)"
+            },
+            {
+                "id": "es-0853",
+                "w": "espere",
+                "p": "esˈpeɾe",
+                "d": "to hope",
+                "s": "No cuelgue y espere un momento, por favor. (Hold the line, please.)"
+            },
+            {
+                "id": "es-0854",
+                "w": "don",
+                "p": "ˈdon",
+                "d": "gift",
+                "s": "Poderoso caballero es Don Dinero. (Money talks.)"
+            },
+            {
+                "id": "es-0855",
+                "w": "necesario",
+                "p": "neθeˈsaɾjo",
+                "d": "necessary",
+                "s": "Iré y me reuniré con él, si es necesario. (I'll go and meet him, if it's necessary.)"
+            },
+            {
+                "id": "es-0856",
+                "w": "sal",
+                "p": "ˈsal",
+                "d": "salt",
+                "s": "Pásenme la sal y la pimienta, por favor. (Pass me the salt and pepper, please.)"
+            },
+            {
+                "id": "es-0857",
+                "w": "entra",
+                "p": "entɾa",
+                "d": "to enter",
+                "s": "Te entra más por los ojos que por la boca. (The eye is bigger than the belly.)"
+            },
+            {
+                "id": "es-0858",
+                "w": "prisa",
+                "p": "ˈpɾisa",
+                "d": "hurry",
+                "s": "Démonos prisa de vuelta a nuestro hotel. (Let's hurry back to our hotel.)"
+            },
+            {
+                "id": "es-0859",
+                "w": "carajo",
+                "p": "kaˈɾaxo",
+                "d": "shit! fuck!",
+                "s": "¿Qué carajo estás haciendo acá? (What on earth are you doing here?)"
+            },
+            {
+                "id": "es-0860",
+                "w": "embargo",
+                "p": "emˈbaɾɡo",
+                "d": "embargo",
+                "s": "Él le disparó al pájaro, sin embargo falló. (He shot at the bird, but missed it.)"
+            },
+            {
+                "id": "es-0861",
+                "w": "interesante",
+                "p": "inteɾeˈsante",
+                "d": "interesting",
+                "s": "Ella nos contó una historia interesante. (She told us an interesting story.)"
+            },
+            {
+                "id": "es-0862",
+                "w": "tendrás",
+                "p": "tenˈdɾas",
+                "d": "to have",
+                "s": "Tendrás que conseguir uno por tu cuenta. (You'll have to get one of your own.)"
+            },
+            {
+                "id": "es-0863",
+                "w": "escuchar",
+                "p": "eskuˈt͡ʃaɾ",
+                "d": "to listen to",
+                "s": "Nos sorprendimos al escuchar la noticia. (We were surprised to hear the news.)"
+            },
+            {
+                "id": "es-0864",
+                "w": "abuela",
+                "p": "aˈbwela",
+                "d": "grandmother",
+                "s": "La enfermera de mi abuela es muy amable. (My grandmother's nurse is very kind.)"
+            },
+            {
+                "id": "es-0865",
+                "w": "hicieron",
+                "p": "iˈθjeɾon",
+                "d": "to do",
+                "s": "Sé que ustedes hicieron todo el trabajo. (I know you did all the work.)"
+            },
+            {
+                "id": "es-0866",
+                "w": "detective",
+                "p": "deteɡˈtibe",
+                "d": "detective",
+                "s": "Un detective llegó a la escena del crimen. (A detective arrived upon the scene of the crime.)"
+            },
+            {
+                "id": "es-0867",
+                "w": "horrible",
+                "p": "oˈrible",
+                "d": "horrible",
+                "s": "Nuestro equipo jugó un partido horrible. (Our team played a horrible match.)"
+            },
+            {
+                "id": "es-0868",
+                "w": "suelo",
+                "p": "ˈswelo",
+                "d": "dirt",
+                "s": "Ellos colocaron la alfombra en el suelo. (They laid the carpet on the floor.)"
+            },
+            {
+                "id": "es-0869",
+                "w": "fotos",
+                "p": "fotos",
+                "d": "photo",
+                "s": "Ésa es la cámara de fotos de mi hermana. (That's my sister's camera.)"
+            },
+            {
+                "id": "es-0870",
+                "w": "cárcel",
+                "p": "ˈkaɾθel",
+                "d": "prison",
+                "s": "Pensé que Tom podría estar en la cárcel. (I thought Tom might be in jail.)"
+            },
+            {
+                "id": "es-0871",
+                "w": "acá",
+                "p": "aˈka",
+                "d": "here",
+                "s": "La única persona que conozco acá es Tom. (The only person I know here is Tom.)"
+            },
+            {
+                "id": "es-0872",
+                "w": "siéntate",
+                "p": "ˈsjentate",
+                "d": "to seat",
+                "s": "Siéntate en el sofá y ponte cómodo. (Sit on the sofa and make yourself comfortable.)"
+            },
+            {
+                "id": "es-0873",
+                "w": "decía",
+                "p": "deˈθia",
+                "d": "to say",
+                "s": "Tom admitió que lo que decía estaba mal. (Tom admitted what he said was wrong.)"
+            },
+            {
+                "id": "es-0874",
+                "w": "intentando",
+                "p": "intentando",
+                "d": "to try",
+                "s": "No estoy intentando impresionar a nadie. (I'm not trying to impress anyone.)"
+            },
+            {
+                "id": "es-0875",
+                "w": "vámonos",
+                "p": "ˈbamonos",
+                "d": "to go",
+                "s": "Vámonos ya, que se está haciendo tarde. (Let's go, already. It's getting late.)"
+            },
+            {
+                "id": "es-0876",
+                "w": "maldición",
+                "p": "maldiˈθjon",
+                "d": "curse",
+                "s": "El masculló una maldición. (He muttered a curse.)"
+            },
+            {
+                "id": "es-0877",
+                "w": "silencio",
+                "p": "siˈlenθjo",
+                "d": "silence",
+                "s": "Ambos permanecieron un rato en silencio. (They were both silent for a while.)"
+            },
+            {
+                "id": "es-0878",
+                "w": "muerta",
+                "p": "mweɾta",
+                "d": "dead",
+                "s": "Tom no sabe si Mary está viva o muerta. (Tom doesn't know if Mary is dead or alive.)"
+            },
+            {
+                "id": "es-0879",
+                "w": "capaz",
+                "p": "kaˈpaθ",
+                "d": "able",
+                "s": "No soy capaz de encontrar lo que quiero. (I can't find what I want.)"
+            },
+            {
+                "id": "es-0880",
+                "w": "salió",
+                "p": "saˈljo",
+                "d": "to go out",
+                "s": "Ella salió a caminar antes de desayunar. (She took a walk before breakfast.)"
+            },
+            {
+                "id": "es-0881",
+                "w": "club",
+                "p": "ˈklub",
+                "d": "club",
+                "s": "Ella estaba en el club a las 8 en punto. (She was at the club at 8 o'clock.)"
+            },
+            {
+                "id": "es-0882",
+                "w": "terminar",
+                "p": "teɾmiˈnaɾ",
+                "d": "to finish",
+                "s": "Tengo una semana para terminar mi tarea. (I have a week to do my homework.)"
+            },
+            {
+                "id": "es-0883",
+                "w": "temo",
+                "p": "ˈtemo",
+                "d": "to have an obsession",
+                "s": "Me temo que no te puedes casar con ella. (I'm afraid you can't marry her.)"
+            },
+            {
+                "id": "es-0884",
+                "w": "broma",
+                "p": "ˈbɾoma",
+                "d": "joke",
+                "s": "Pensaba que dijiste que era una broma. (I thought you said it was a joke.)"
+            },
+            {
+                "id": "es-0885",
+                "w": "gobierno",
+                "p": "ɡoˈbjeɾno",
+                "d": "government",
+                "s": "La democracia es una forma de gobierno. (Democracy is one form of government.)"
+            },
+            {
+                "id": "es-0886",
+                "w": "prometo",
+                "p": "pɾometo",
+                "d": "to promise",
+                "s": "«¿Me lo prometes?» «Sí, te lo prometo.» (\"Promise?\" \"Yes, I promise.\")"
+            },
+            {
+                "id": "es-0887",
+                "w": "cámara",
+                "p": "ˈkamaɾa",
+                "d": "room",
+                "s": "Ésa es la cámara de fotos de mi hermana. (That's my sister's camera.)"
+            },
+            {
+                "id": "es-0888",
+                "w": "media",
+                "p": "ˈmedja",
+                "d": "half",
+                "s": "Por favor, ven antes de las dos y media. (Please come before 2:30.)"
+            },
+            {
+                "id": "es-0889",
+                "w": "terrible",
+                "p": "teˈrible",
+                "d": "terrible",
+                "s": "Tom es la víctima de un terrible crimen. (Tom is the victim of a terrible crime.)"
+            },
+            {
+                "id": "es-0890",
+                "w": "llamó",
+                "p": "ʝaˈmo",
+                "d": "to summon",
+                "s": "Alguien llamó mi nombre en la oscuridad. (Somebody called my name in the dark.)"
+            },
+            {
+                "id": "es-0891",
+                "w": "regalo",
+                "p": "reˈɡalo",
+                "d": "present",
+                "s": "¿Le importaría envolvérmelo para regalo? (Would you mind wrapping it up as a gift?)"
+            },
+            {
+                "id": "es-0892",
+                "w": "amable",
+                "p": "aˈmable",
+                "d": "kind",
+                "s": "Es muy amable de tu parte que me ayudes. (It is very kind of you to help me.)"
+            },
+            {
+                "id": "es-0893",
+                "w": "dulce",
+                "p": "ˈdulθe",
+                "d": "sweet",
+                "s": "El salmón pone sus huevos en agua dulce. (Salmon lay their eggs in fresh water.)"
+            },
+            {
+                "id": "es-0894",
+                "w": "muertos",
+                "p": "ˈmweɾtos",
+                "d": "dead",
+                "s": "Mañana podríamos estar todos muertos. (We could all be dead tomorrow.)"
+            },
+            {
+                "id": "es-0895",
+                "w": "querías",
+                "p": "keˈɾias",
+                "d": "to desire",
+                "s": "Pensé que no querías hablar con nosotros. (I thought you didn't want to talk to us.)"
+            },
+            {
+                "id": "es-0896",
+                "w": "ataque",
+                "p": "aˈtake",
+                "d": "attack",
+                "s": "Tom está teniendo un ataque de pánico. (Tom is having a panic attack.)"
+            },
+            {
+                "id": "es-0897",
+                "w": "das",
+                "p": "ˈdas",
+                "d": "to give",
+                "s": "¿Te das cuenta de lo que esto significa? (Do you realize what this means?)"
+            },
+            {
+                "id": "es-0898",
+                "w": "navidad",
+                "p": "naβiðað",
+                "d": "Christmas present",
+                "s": "¿Cuánto aguantan los árboles de Navidad? (How long do Christmas trees last?)"
+            },
+            {
+                "id": "es-0899",
+                "w": "negocios",
+                "p": "neˈɡoθjos",
+                "d": "business",
+                "s": "Uno tiene que ser cauto en los negocios. (You have to be careful in business.)"
+            },
+            {
+                "id": "es-0900",
+                "w": "pudiera",
+                "p": "puðjeɾa",
+                "d": "to be able to",
+                "s": "Siento que no pudiera ser de más ayuda. (I'm sorry I couldn't be more helpful.)"
+            },
+            {
+                "id": "es-0901",
+                "w": "ocho",
+                "p": "ˈot͡ʃo",
+                "d": "eight",
+                "s": "Ellos hacen sonar la campana a las ocho. (They ring the bell at eight.)"
+            },
+            {
+                "id": "es-0902",
+                "w": "avión",
+                "p": "aˈbjon",
+                "d": "aeroplane",
+                "s": "El avión volaba por encima de las nubes. (The plane flew above the clouds.)"
+            },
+            {
+                "id": "es-0903",
+                "w": "investigación",
+                "p": "imbestiɡaˈθjon",
+                "d": "investigation",
+                "s": "Ha dedicado su vida a la investigación. (He devoted his life to his study.)"
+            },
+            {
+                "id": "es-0904",
+                "w": "acabó",
+                "p": "akaˈbo",
+                "d": "to finish",
+                "s": "Al carro de Tom se le acabó la gasolina. (Tom's car ran out of gas.)"
+            },
+            {
+                "id": "es-0905",
+                "w": "juro",
+                "p": "ˈxuɾo",
+                "d": "to swear",
+                "s": "Te juro que te lo contaré todo algún día. (I swear I'll tell you everything someday.)"
+            },
+            {
+                "id": "es-0906",
+                "w": "mantener",
+                "p": "manteˈneɾ",
+                "d": "to keep",
+                "s": "Debemos mantener limpias nuestras manos. (We must keep our hands clean.)"
+            },
+            {
+                "id": "es-0907",
+                "w": "ejército",
+                "p": "eˈxeɾθito",
+                "d": "army",
+                "s": "Le dieron licencia absoluta del ejército. (He got his discharge from the army.)"
+            },
+            {
+                "id": "es-0908",
+                "w": "papel",
+                "p": "paˈpel",
+                "d": "paper",
+                "s": "Ella traspasó sus pensamientos al papel. (She put down her thoughts on paper.)"
+            },
+            {
+                "id": "es-0909",
+                "w": "partes",
+                "p": "ˈpaɾtes",
+                "d": "genitalia",
+                "s": "Encontramos problemas por todas partes. (We found trouble everywhere.)"
+            },
+            {
+                "id": "es-0910",
+                "w": "ten",
+                "p": "ˈten",
+                "d": "to have",
+                "s": "Ten cuidado con las escaleras mecánicas. (Be careful on escalators.)"
+            },
+            {
+                "id": "es-0911",
+                "w": "gracioso",
+                "p": "ɡɾaˈθjoso",
+                "d": "funny",
+                "s": "De veras no entiendo qué es tan gracioso. (I really don't understand what's so funny.)"
+            },
+            {
+                "id": "es-0912",
+                "w": "diría",
+                "p": "diˈɾia",
+                "d": "to say",
+                "s": "Un verdadero amigo no diría una cosa así. (A true friend would not say such a thing.)"
+            },
+            {
+                "id": "es-0913",
+                "w": "principio",
+                "p": "pɾinˈθipjo",
+                "d": "principle",
+                "s": "¿No podemos empezar desde el principio? (Can't we start over?)"
+            },
+            {
+                "id": "es-0914",
+                "w": "delante",
+                "p": "deˈlante",
+                "d": "in front of",
+                "s": "Todavía tenemos diez millas por delante. (We still have ten miles to go.)"
+            },
+            {
+                "id": "es-0915",
+                "w": "teniente",
+                "p": "teˈnjente",
+                "d": "lieutenant",
+                "s": ""
+            },
+            {
+                "id": "es-0916",
+                "w": "deseo",
+                "p": "deˈseo",
+                "d": "desire",
+                "s": "Te deseo lo mejor en tu próximo trabajo. (I wish you the best in your next job.)"
+            },
+            {
+                "id": "es-0917",
+                "w": "vayas",
+                "p": "ˈbaʝas",
+                "d": "to go",
+                "s": "Dondequiera que vayas, serás bienvenido. (Wherever you go, you'll be welcomed.)"
+            },
+            {
+                "id": "es-0918",
+                "w": "nave",
+                "p": "ˈnabe",
+                "d": "ship",
+                "s": "¿Crees que deberíamos abandonar la nave? (Do you think we should abandon ship?)"
+            },
+            {
+                "id": "es-0919",
+                "w": "sale",
+                "p": "ˈsale",
+                "d": "to go out",
+                "s": "¿A qué hora sale comúnmente del trabajo? (When do you usually get off work?)"
+            },
+            {
+                "id": "es-0920",
+                "w": "basura",
+                "p": "baˈsuɾa",
+                "d": "trash",
+                "s": "El lugar de la basura está en la basura. (Trash belongs in the trash.)"
+            },
+            {
+                "id": "es-0921",
+                "w": "vine",
+                "p": "ˈbine",
+                "d": "Senses relating to literal movement",
+                "s": "Ésa no es la razón por la que vine aquí. (That's not the reason that I came here.)"
+            },
+            {
+                "id": "es-0922",
+                "w": "contacto",
+                "p": "konˈtaɡto",
+                "d": "contact",
+                "s": "¿No puedes ponerte en contacto con Tom? (Can't you get in touch with Tom?)"
+            },
+            {
+                "id": "es-0923",
+                "w": "esposo",
+                "p": "esˈposo",
+                "d": "husband",
+                "s": "Tom es el mejor amigo del esposo de Mary. (Tom is Mary's husband's best friend.)"
+            },
+            {
+                "id": "es-0924",
+                "w": "tren",
+                "p": "ˈtɾen",
+                "d": "train",
+                "s": "Tom se subió al tren de las dos y media. (Tom got on the 2:30 train.)"
+            },
+            {
+                "id": "es-0925",
+                "w": "encontramos",
+                "p": "enkonˈtɾamos",
+                "d": "to meet",
+                "s": "Nos encontramos con ella por casualidad. (We met her by accident.)"
+            },
+            {
+                "id": "es-0926",
+                "w": "dale",
+                "p": "ˈdale",
+                "d": "to give",
+                "s": "Por favor, dale mis saludos a tu padre. (Please give my regards to your father.)"
+            },
+            {
+                "id": "es-0927",
+                "w": "verdadero",
+                "p": "beɾdaˈdeɾo",
+                "d": "true",
+                "s": "Nuestro profesor es un verdadero idiota. (Our teacher is a real idiot.)"
+            },
+            {
+                "id": "es-0928",
+                "w": "tuya",
+                "p": "ˈtuʝa",
+                "d": "yours",
+                "s": "Mi idea es bastante diferente de la tuya. (My idea is quite different from yours.)"
+            },
+            {
+                "id": "es-0929",
+                "w": "alma",
+                "p": "ˈalma",
+                "d": "soul",
+                "s": "¿Tú piensas que los animales tienen alma? (Do you think animals have a soul?)"
+            },
+            {
+                "id": "es-0930",
+                "w": "hazlo",
+                "p": "ˈaθlo",
+                "d": "to do",
+                "s": "Hazlo a tu manera si no te gusta la mía. (Do it your own way if you don't like my way.)"
+            },
+            {
+                "id": "es-0931",
+                "w": "disculpa",
+                "p": "disˈkulpa",
+                "d": "excuse",
+                "s": "Por favor, acepta mi sincera disculpa. (Please accept my heartfelt apology.)"
+            },
+            {
+                "id": "es-0932",
+                "w": "junto",
+                "p": "ˈxunto",
+                "d": "together",
+                "s": "Un puesto junto a la ventana, por favor. (I'd like a window seat, please.)"
+            },
+            {
+                "id": "es-0933",
+                "w": "anda",
+                "p": "ˈanda",
+                "d": "to walk",
+                "s": "Mi reloj anda cinco minutos adelantado. (My clock is five minutes fast.)"
+            },
+            {
+                "id": "es-0934",
+                "w": "tendré",
+                "p": "tenˈdɾe",
+                "d": "to have",
+                "s": "Tendré que realizar algunos ensayos más. (I'll need to run some more tests.)"
+            },
+            {
+                "id": "es-0935",
+                "w": "matrimonio",
+                "p": "matɾiˈmonjo",
+                "d": "matrimony",
+                "s": "El matrimonio asusta a algunas personas. (Marriage frightens some people.)"
+            },
+            {
+                "id": "es-0936",
+                "w": "saberlo",
+                "p": "saβeɾlo",
+                "d": "to know",
+                "s": "La verdad, no creo que quieras saberlo. (I don't think you really want to know.)"
+            },
+            {
+                "id": "es-0937",
+                "w": "locura",
+                "p": "loˈkuɾa",
+                "d": "madness",
+                "s": "Sería una locura volver a hacer eso. (It would be crazy to do that again.)"
+            },
+            {
+                "id": "es-0938",
+                "w": "oro",
+                "p": "ˈoɾo",
+                "d": "gold",
+                "s": "¿Quién enterró los lingotes de oro aquí? (Who buried the gold bars here?)"
+            },
+            {
+                "id": "es-0939",
+                "w": "permiso",
+                "p": "peɾˈmiso",
+                "d": "permission",
+                "s": "Nadie tiene permiso de ver a Tom ahora. (No one is allowed to see Tom now.)"
+            },
+            {
+                "id": "es-0940",
+                "w": "director",
+                "p": "diɾeɡˈtoɾ",
+                "d": "director",
+                "s": "¿Quién es tu director de cine preferido? (Who's your favorite movie director?)"
+            },
+            {
+                "id": "es-0941",
+                "w": "peligro",
+                "p": "peˈliɡɾo",
+                "d": "danger",
+                "s": "A algunas personas les gusta el peligro. (Some people like danger.)"
+            },
+            {
+                "id": "es-0942",
+                "w": "libertad",
+                "p": "libeɾˈta",
+                "d": "liberty",
+                "s": "Tenés la libertad de decir lo que pensás. (You are free to say what you think.)"
+            },
+            {
+                "id": "es-0943",
+                "w": "alegro",
+                "p": "aˈleɡɾo",
+                "d": "to make happy",
+                "s": "Me alegro mucho de no haber estado allí. (I'm very glad I wasn't there.)"
+            },
+            {
+                "id": "es-0944",
+                "w": "baja",
+                "p": "ˈbaxa",
+                "d": "short",
+                "s": "La temperatura más baja de hoy fue 3 ºC. (Today's low was 3 degrees Celsius.)"
+            },
+            {
+                "id": "es-0945",
+                "w": "tendremos",
+                "p": "tenˈdɾemos",
+                "d": "to have",
+                "s": "Pronto tendremos un concurso de música. (We'll have a music contest soon.)"
+            },
+            {
+                "id": "es-0946",
+                "w": "derecha",
+                "p": "deˈɾet͡ʃa",
+                "d": "right",
+                "s": "Gire a la derecha en el siguiente cruce. (Turn right at the next intersection.)"
+            },
+            {
+                "id": "es-0947",
+                "w": "encuentra",
+                "p": "eŋkwentɾa",
+                "d": "to meet",
+                "s": "Tu madre se encuentra en estado crítico. (Your mother is in critical condition.)"
+            },
+            {
+                "id": "es-0948",
+                "w": "pies",
+                "p": "ˈpjes",
+                "d": "foot",
+                "s": "Mis pies son más pequeños que los tuyos. (My feet are smaller than yours.)"
+            },
+            {
+                "id": "es-0949",
+                "w": "segunda",
+                "p": "seˈɡunda",
+                "d": "second",
+                "s": "Lo compré en una tienda de segunda mano. (I bought it at a thrift shop.)"
+            },
+            {
+                "id": "es-0950",
+                "w": "maravilloso",
+                "p": "maɾabiˈʝoso",
+                "d": "wonderful",
+                "s": "La lavadora es un invento maravilloso. (The washing machine is a wonderful invention.)"
+            },
+            {
+                "id": "es-0951",
+                "w": "espacio",
+                "p": "esˈpaθjo",
+                "d": "space",
+                "s": "Un astronauta puede flotar en el espacio. (An astronaut can float in space.)"
+            },
+            {
+                "id": "es-0952",
+                "w": "rato",
+                "p": "ˈrato",
+                "d": "a while",
+                "s": "Ambos permanecieron un rato en silencio. (They were both silent for a while.)"
+            },
+            {
+                "id": "es-0953",
+                "w": "abuelo",
+                "p": "aˈbwelo",
+                "d": "grandfather",
+                "s": "Me encantan las batallitas de mi abuelo. (I love my grandfather's anecdotes.)"
+            },
+            {
+                "id": "es-0954",
+                "w": "esperaba",
+                "p": "espeɾaβa",
+                "d": "to hope",
+                "s": "Eso llevó más tiempo de lo que esperaba. (That took longer than I expected.)"
+            },
+            {
+                "id": "es-0955",
+                "w": "mirando",
+                "p": "miˈɾando",
+                "d": "to look at",
+                "s": "¿Por qué me estás mirando de esa manera? (Why are you looking at me that way?)"
+            },
+            {
+                "id": "es-0956",
+                "w": "salud",
+                "p": "saˈlud",
+                "d": "health",
+                "s": "Ella valora más la salud que la riqueza. (She values health above wealth.)"
+            },
+            {
+                "id": "es-0957",
+                "w": "sorpresa",
+                "p": "soɾˈpɾesa",
+                "d": "surprise",
+                "s": "Para mi sorpresa, él se ganó el premio. (To my surprise, he won the prize.)"
+            },
+            {
+                "id": "es-0958",
+                "w": "ninguno",
+                "p": "ninˈɡuno",
+                "d": "no",
+                "s": "No conozco a ninguno de sus estudiantes. (I don't know any of her students.)"
+            },
+            {
+                "id": "es-0959",
+                "w": "miren",
+                "p": "miɾen",
+                "d": "to look at",
+                "s": "Miren a ver qué pueden encontrar. (See what you can find.)"
+            },
+            {
+                "id": "es-0960",
+                "w": "triste",
+                "p": "ˈtɾiste",
+                "d": "sad",
+                "s": "Nadie me consoló cuando yo estaba triste. (No one comforted me when I was sad.)"
+            },
+            {
+                "id": "es-0961",
+                "w": "aun",
+                "p": "aˈun",
+                "d": "even",
+                "s": "No me importaría aun si ella no viene. (I don't mind even if she doesn't come.)"
+            },
+            {
+                "id": "es-0962",
+                "w": "pensado",
+                "p": "penˈsado",
+                "d": "to think",
+                "s": "He pensado mucho en lo que ha dicho Tom. (I thought a lot about what Tom said.)"
+            },
+            {
+                "id": "es-0963",
+                "w": "maestro",
+                "p": "maˈestɾo",
+                "d": "master",
+                "s": "Planeaba ser maestro, pero nunca lo fui. (I planned to become a teacher, but I never did.)"
+            },
+            {
+                "id": "es-0964",
+                "w": "según",
+                "p": "seˈɡun",
+                "d": "according to",
+                "s": "Las cosas no salieron según lo planeado. (Things didn't go according to plan.)"
+            },
+            {
+                "id": "es-0965",
+                "w": "infierno",
+                "p": "inˈfjeɾno",
+                "d": "hell",
+                "s": "El pastor dijo que Tom iba a arder en el infierno. (The pastor said Tom's going to burn in hell.)"
+            },
+            {
+                "id": "es-0966",
+                "w": "podrían",
+                "p": "poˈðɾian",
+                "d": "to be able to",
+                "s": "Estos consejos podrían salvarte la vida. (These tips may save your life.)"
+            },
+            {
+                "id": "es-0967",
+                "w": "tipos",
+                "p": "tipos",
+                "d": "kind",
+                "s": "Hay varios tipos de dulces en ese cuenco. (There are various kinds of candy in that bowl.)"
+            },
+            {
+                "id": "es-0968",
+                "w": "tía",
+                "p": "ˈtia",
+                "d": "aunt",
+                "s": "Tom tiene una tía que está en la cárcel. (Tom has an aunt who is in prison.)"
+            },
+            {
+                "id": "es-0969",
+                "w": "crimen",
+                "p": "ˈkɾimen",
+                "d": "crime",
+                "s": "Yo no tengo nada que ver con ese crimen. (I have nothing to do with the crime.)"
+            },
+            {
+                "id": "es-0970",
+                "w": "conocido",
+                "p": "konoˈθido",
+                "d": "known",
+                "s": "Tom es un conocido agente de narcóticos. (Tom is a known narcotics agent.)"
+            },
+            {
+                "id": "es-0971",
+                "w": "consejo",
+                "p": "konˈsexo",
+                "d": "advice",
+                "s": "Tom se negó a seguir el consejo de Mary. (Tom refused to follow Mary's advice.)"
+            },
+            {
+                "id": "es-0972",
+                "w": "ante",
+                "p": "ˈante",
+                "d": "in front of",
+                "s": "Todos los hombres son iguales ante Dios. (All men are equal before God.)"
+            },
+            {
+                "id": "es-0973",
+                "w": "iglesia",
+                "p": "iˈɡlesja",
+                "d": "church",
+                "s": "¿Tom va a la iglesia todos los domingos? (Does Tom go to church every Sunday?)"
+            },
+            {
+                "id": "es-0974",
+                "w": "intento",
+                "p": "inˈtento",
+                "d": "attempt",
+                "s": "Últimamente intento pasar desapercibido. (I try to keep a low profile now.)"
+            },
+            {
+                "id": "es-0975",
+                "w": "mayoría",
+                "p": "maʝoˈɾia",
+                "d": "majority",
+                "s": "La mayoría de los chicos odia la escuela. (Most children hate school.)"
+            },
+            {
+                "id": "es-0976",
+                "w": "doy",
+                "p": "ˈdoi",
+                "d": "to give",
+                "s": "Si me compras un helado, te doy un beso. (If you buy me an ice cream, I'll kiss you.)"
+            },
+            {
+                "id": "es-0977",
+                "w": "hicimos",
+                "p": "iˈθimos",
+                "d": "to do",
+                "s": "Nosotros hicimos la hora jugando cartas. (We killed time by playing cards.)"
+            },
+            {
+                "id": "es-0978",
+                "w": "escena",
+                "p": "esˈθena",
+                "d": "scene",
+                "s": "La policía acordonó la escena del crimen. (Police cordoned off the crime scene.)"
+            },
+            {
+                "id": "es-0979",
+                "w": "piso",
+                "p": "ˈpiso",
+                "d": "floor",
+                "s": "Mi habitación está en el piso de arriba. (My room is upstairs.)"
+            },
+            {
+                "id": "es-0980",
+                "w": "señal",
+                "p": "seˈɲal",
+                "d": "sign",
+                "s": "Deje su mensaje después de oír la señal. (Leave your message after hearing the beep.)"
+            },
+            {
+                "id": "es-0981",
+                "w": "honor",
+                "p": "oˈnoɾ",
+                "d": "honor",
+                "s": "No puedo expresarte el honor que es éste. (I can't tell you what an honor this is.)"
+            },
+            {
+                "id": "es-0982",
+                "w": "llamas",
+                "p": "ˈʝamas",
+                "d": "to summon",
+                "s": "Tom sacó a Mary fuera del auto en llamas. (Tom pulled Mary out of the burning car.)"
+            },
+            {
+                "id": "es-0983",
+                "w": "abre",
+                "p": "ˈabɾe",
+                "d": "to open",
+                "s": "La temporada de caza con arco se abre hoy. (Bow hunting season opens today.)"
+            },
+            {
+                "id": "es-0984",
+                "w": "cerebro",
+                "p": "θeˈɾebɾo",
+                "d": "brain",
+                "s": "Trabaja el cerebro antes que la lengua. (Think before you speak.)"
+            },
+            {
+                "id": "es-0985",
+                "w": "veras",
+                "p": "ˈbeɾas",
+                "d": "truth",
+                "s": "Esa marca de tequila es fuerte de veras. (That brand of tequila really packs a wallop.)"
+            },
+            {
+                "id": "es-0986",
+                "w": "viendo",
+                "p": "ˈbjendo",
+                "d": "to see",
+                "s": "Ahora Tom no está viendo la televisión. (Tom isn't watching TV now.)"
+            },
+            {
+                "id": "es-0987",
+                "w": "pone",
+                "p": "pone",
+                "d": "to put",
+                "s": "El salmón pone sus huevos en agua dulce. (Salmon lay their eggs in fresh water.)"
+            },
+            {
+                "id": "es-0988",
+                "w": "pregunto",
+                "p": "pɾeɣunto",
+                "d": "to ask",
+                "s": "Me pregunto dónde se estará escondiendo. (I wonder where he is hiding.)"
+            },
+            {
+                "id": "es-0989",
+                "w": "cocina",
+                "p": "koˈθina",
+                "d": "kitchen",
+                "s": "Ella cocina el pollo como a mí me gusta. (She cooks chicken the way I like.)"
+            },
+            {
+                "id": "es-0990",
+                "w": "vestido",
+                "p": "besˈtido",
+                "d": "dress",
+                "s": "Mary se puso un vestido blanco sencillo. (Mary wore a simple white dress.)"
+            },
+            {
+                "id": "es-0991",
+                "w": "inteligente",
+                "p": "inteliˈxente/ [ĩn̪.t̪e.liˈxẽn̪.t̪e]",
+                "d": "intelligent",
+                "s": "Él era un hombre práctico e inteligente. (He was an intelligent and practical man.)"
+            },
+            {
+                "id": "es-0992",
+                "w": "vieja",
+                "p": "ˈbjexa",
+                "d": "old",
+                "s": "Tom era la persona más vieja de la sala. (Tom was the oldest person in the room.)"
+            },
+            {
+                "id": "es-0993",
+                "w": "caballo",
+                "p": "kaˈbaʝo",
+                "d": "horse",
+                "s": "Estoy entrenando un caballo de carreras. (I am training a horse for the race.)"
+            },
+            {
+                "id": "es-0994",
+                "w": "vienen",
+                "p": "bjenen",
+                "d": "Senses relating to literal movement",
+                "s": "Cosas buenas vienen en paquetes pequeños. (Good things come in small packages.)"
+            },
+            {
+                "id": "es-0995",
+                "w": "vidas",
+                "p": "ˈbidas",
+                "d": "life",
+                "s": "El automóvil ha cambiado nuestras vidas. (The automobile has changed our lives.)"
+            },
+            {
+                "id": "es-0996",
+                "w": "bar",
+                "p": "ˈbaɾ",
+                "d": "bar",
+                "s": "El camarero lo echó a Tom fuera del bar. (The bartender threw Tom out of the bar.)"
+            },
+            {
+                "id": "es-0997",
+                "w": "corte",
+                "p": "ˈkoɾte",
+                "d": "cut",
+                "s": "Creo que es hora de que corte el césped. (I think it's time for me to mow the lawn.)"
+            },
+            {
+                "id": "es-0998",
+                "w": "sucedió",
+                "p": "suθeˈðjo",
+                "d": "to happen",
+                "s": "Lo que sucedió después fue desagradable. (What followed was unpleasant.)"
+            },
+            {
+                "id": "es-0999",
+                "w": "adentro",
+                "p": "aˈdentɾo",
+                "d": "inside",
+                "s": "La puerta estaba cerrada desde adentro. (The door was locked from within.)"
+            },
+            {
+                "id": "es-1000",
+                "w": "drogas",
+                "p": "ˈdɾoɡas",
+                "d": "drug",
+                "s": "Tom murió de una sobredosis de drogas. (Tom died of a drug overdose.)"
+            },
+            {
+                "id": "es-1001",
+                "w": "enseguida",
+                "p": "enseˈɡida",
+                "d": "immediately",
+                "s": "Deja el motor andando. Vuelvo enseguida. (Keep the engine running. I'll be right back.)"
+            },
+            {
+                "id": "es-1002",
+                "w": "busca",
+                "p": "ˈbuska",
+                "d": "to seek",
+                "s": "Él se fue de viaje en busca de aventuras. (He went traveling in search of adventure.)"
+            },
+            {
+                "id": "es-1003",
+                "w": "agradable",
+                "p": "aɡɾaˈdable",
+                "d": "agreeable",
+                "s": "Tuve un sueño agradable la pasada noche. (I had a pleasant dream last night.)"
+            },
+            {
+                "id": "es-1004",
+                "w": "carne",
+                "p": "ˈkaɾne",
+                "d": "flesh",
+                "s": "¿Alguna vez has comido carne de ballena? (Have you ever eaten whale meat?)"
+            },
+            {
+                "id": "es-1005",
+                "w": "parecía",
+                "p": "paɾeˈθia",
+                "d": "to seem",
+                "s": "Tom dijo que yo parecía muy contrariado. (Tom said I looked very upset.)"
+            },
+            {
+                "id": "es-1006",
+                "w": "departamento",
+                "p": "depaɾtaˈmento",
+                "d": "department",
+                "s": "Mi departamento no queda lejos de aquí. (My apartment isn't far from here.)"
+            },
+            {
+                "id": "es-1007",
+                "w": "lindo",
+                "p": "ˈlindo",
+                "d": "pretty",
+                "s": "Tom era bastante lindo cuando era joven. (Tom was quite good-looking when he was young.)"
+            },
+            {
+                "id": "es-1008",
+                "w": "mar",
+                "p": "ˈmaɾ",
+                "d": "sea",
+                "s": "Quiero un apartamento con vistas al mar. (I want an apartment with a view of the ocean.)"
+            },
+            {
+                "id": "es-1009",
+                "w": "duda",
+                "p": "ˈduda",
+                "d": "doubt",
+                "s": "Tom es bueno para el tenis, no hay duda. (Tom is good at tennis, no question about it.)"
+            },
+            {
+                "id": "es-1010",
+                "w": "edificio",
+                "p": "ediˈfiθjo",
+                "d": "building",
+                "s": "No dejes entrar a nadie a este edificio. (Don't let anyone in this building.)"
+            },
+            {
+                "id": "es-1011",
+                "w": "conocer",
+                "p": "konoˈθeɾ",
+                "d": "to know",
+                "s": "Acabo de conocer a un chico llamado Tom. (I just met a boy named Tom.)"
+            },
+            {
+                "id": "es-1012",
+                "w": "cargo",
+                "p": "ˈkaɾɡo",
+                "d": "charge",
+                "s": "No tienes para qué hacerte cargo de eso. (You won't have to take charge of that.)"
+            },
+            {
+                "id": "es-1013",
+                "w": "víctima",
+                "p": "ˈbiɡtima",
+                "d": "victim",
+                "s": "Tom es la víctima de un terrible crimen. (Tom is the victim of a terrible crime.)"
+            },
+            {
+                "id": "es-1014",
+                "w": "luna",
+                "p": "ˈluna",
+                "d": "moon",
+                "s": "Todavía estamos en nuestra luna de miel. (We're still on our honeymoon.)"
+            },
+            {
+                "id": "es-1015",
+                "w": "energía",
+                "p": "eneɾˈxia",
+                "d": "energy",
+                "s": "No podemos trabajar sin energía eléctrica. (We can't work without electricity.)"
+            },
+            {
+                "id": "es-1016",
+                "w": "frío",
+                "p": "ˈfɾio",
+                "d": "cold",
+                "s": "La gente aquí está acostumbrada al frío. (The people here are used to the cold.)"
+            },
+            {
+                "id": "es-1017",
+                "w": "hablo",
+                "p": "ˈablo",
+                "d": "to talk",
+                "s": "Por desgracia no hablo muy bien francés. (Unfortunately, my French isn't very good.)"
+            },
+            {
+                "id": "es-1018",
+                "w": "baile",
+                "p": "ˈbaile",
+                "d": "dance",
+                "s": "El viernes pasado nos fuimos a un baile. (We went to a dance last Friday.)"
+            },
+            {
+                "id": "es-1019",
+                "w": "trabaja",
+                "p": "tɾaβaxa",
+                "d": "to work",
+                "s": "Tengo un amigo que trabaja para la NASA. (I have a friend who works for NASA.)"
+            },
+            {
+                "id": "es-1020",
+                "w": "misión",
+                "p": "miˈsjon",
+                "d": "mission",
+                "s": "Mi misión es fotografiar los documentos. (My mission is to photograph the documents.)"
+            },
+            {
+                "id": "es-1021",
+                "w": "listos",
+                "p": "listos",
+                "d": "clever",
+                "s": "Debemos estar listos para cualquier cosa. (We must be ready for anything.)"
+            },
+            {
+                "id": "es-1022",
+                "w": "ayudarte",
+                "p": "aʝuðaɾte",
+                "d": "to help",
+                "s": "Estoy seguro de que Tom querrá ayudarte. (I'm sure Tom will agree to help.)"
+            },
+            {
+                "id": "es-1023",
+                "w": "izquierda",
+                "p": "iθˈkjeɾda",
+                "d": "left",
+                "s": "El taxi giró bruscamente a la izquierda. (The taxi abruptly turned left.)"
+            },
+            {
+                "id": "es-1024",
+                "w": "beber",
+                "p": "beˈbeɾ",
+                "d": "to drink",
+                "s": "Puedes comer y beber tanto como quieras. (You can eat and drink as much as you want.)"
+            },
+            {
+                "id": "es-1025",
+                "w": "deje",
+                "p": "ˈdexe",
+                "d": "to leave",
+                "s": "El médico me ha dicho que deje de fumar. (The doctor told me to give up smoking.)"
+            },
+            {
+                "id": "es-1026",
+                "w": "finalmente",
+                "p": "fiˌnalˈmente",
+                "d": "lastly",
+                "s": "El deseo de Tom finalmente se concedió. (Tom finally got his wish.)"
+            },
+            {
+                "id": "es-1027",
+                "w": "simple",
+                "p": "ˈsimple",
+                "d": "simple",
+                "s": "Conducir un auto es realmente muy simple. (Driving a car is really very simple.)"
+            },
+            {
+                "id": "es-1028",
+                "w": "daré",
+                "p": "daˈɾe",
+                "d": "to give",
+                "s": "Te daré una bicicleta por tu cumpleaños. (I will give you a bicycle for your birthday.)"
+            },
+            {
+                "id": "es-1029",
+                "w": "sabías",
+                "p": "saˈβias",
+                "d": "to know",
+                "s": "¿Sabías que Tom y Mary estaban saliendo? (Did you know that Tom and Mary were dating?)"
+            },
+            {
+                "id": "es-1030",
+                "w": "puedas",
+                "p": "ˈpwedas",
+                "d": "to be able to",
+                "s": "Debes vivir tu vida lo mejor que puedas. (You must live your life the best you can.)"
+            },
+            {
+                "id": "es-1031",
+                "w": "puso",
+                "p": "ˈpuso",
+                "d": "to put",
+                "s": "Mary se puso un vestido blanco sencillo. (Mary wore a simple white dress.)"
+            },
+            {
+                "id": "es-1032",
+                "w": "creía",
+                "p": "kɾeˈia",
+                "d": "to believe",
+                "s": "Creía que jugábamos verdaderamente bien. (I thought we played really well.)"
+            },
+            {
+                "id": "es-1033",
+                "w": "regresar",
+                "p": "reɡɾeˈsaɾ",
+                "d": "to return",
+                "s": "Hoy por hoy no pienso regresar a mi país. (Under present circumstances, I don't intend to return to my country.)"
+            },
+            {
+                "id": "es-1034",
+                "w": "llega",
+                "p": "ʎeɣa",
+                "d": "to arrive",
+                "s": "Si eso llega a suceder me alegraré mucho. (If that happens, I'll be very glad.)"
+            },
+            {
+                "id": "es-1035",
+                "w": "entender",
+                "p": "entenˈdeɾ",
+                "d": "to understand",
+                "s": "No logro entender su verdadero objetivo. (I fail to understand his true aim.)"
+            },
+            {
+                "id": "es-1036",
+                "w": "mirar",
+                "p": "miˈɾaɾ",
+                "d": "to look at",
+                "s": "No tuve el coraje de mirar para atrás. (I didn't dare look behind me.)"
+            },
+            {
+                "id": "es-1037",
+                "w": "sacar",
+                "p": "saˈkaɾ",
+                "d": "to put out",
+                "s": "Esta es la cola para sacar los billetes. (This is the ticket line.)"
+            },
+            {
+                "id": "es-1038",
+                "w": "cambiado",
+                "p": "kamˈbjado",
+                "d": "changed",
+                "s": "El automóvil ha cambiado nuestras vidas. (The automobile has changed our lives.)"
+            },
+            {
+                "id": "es-1039",
+                "w": "trae",
+                "p": "tɾae",
+                "d": "to bring",
+                "s": "Tom trae regalos cada vez que nos visita. (Tom brings us gifts whenever he visits.)"
+            },
+            {
+                "id": "es-1040",
+                "w": "hermoso",
+                "p": "eɾˈmoso",
+                "d": "gorgeous",
+                "s": "Este hermoso vestido está hecho de seda. (This beautiful dress is made of silk.)"
+            },
+            {
+                "id": "es-1041",
+                "w": "opinión",
+                "p": "opiˈnjon",
+                "d": "opinion",
+                "s": "Él no es el único que tiene esa opinión. (He isn't the only one with this opinion.)"
+            },
+            {
+                "id": "es-1042",
+                "w": "verás",
+                "p": "beˈɾas",
+                "d": "to see",
+                "s": "Compara ambos atentamente y verás la diferencia. (Compare the two carefully, and you will see the difference.)"
+            },
+            {
+                "id": "es-1043",
+                "w": "linda",
+                "p": "linda",
+                "d": "pretty",
+                "s": "¡Qué linda bebé! ¿Puedo tomarla en brazo? (What a cute baby! May I hold her?)"
+            },
+            {
+                "id": "es-1044",
+                "w": "apenas",
+                "p": "aˈpenas",
+                "d": "barely",
+                "s": "Tom apenas podía contener su excitación. (Tom could hardly contain his excitement.)"
+            },
+            {
+                "id": "es-1045",
+                "w": "segundos",
+                "p": "seˈɡundos",
+                "d": "second",
+                "s": "Tom corrió cien metros en doce segundos. (Tom ran a hundred meters in twelve seconds.)"
+            },
+            {
+                "id": "es-1046",
+                "w": "cerveza",
+                "p": "θeɾˈbeθa",
+                "d": "beer",
+                "s": "Acabamos de comer sushi y tomar cerveza. (We just ate sushi and drank beer.)"
+            },
+            {
+                "id": "es-1047",
+                "w": "harás",
+                "p": "aˈɾas",
+                "d": "to do",
+                "s": "Lo harás por las malas o por las buenas. (You will do it whether you like it or not.)"
+            },
+            {
+                "id": "es-1048",
+                "w": "estuviera",
+                "p": "estuˈbjeɾa",
+                "d": "to be",
+                "s": "Me siento como si estuviera en un sueño. (I felt as if I were in a dream.)"
+            },
+            {
+                "id": "es-1049",
+                "w": "creen",
+                "p": "ˈkɾeen",
+                "d": "to create",
+                "s": "Algunas personas creen en los fantasmas. (Some people believe in ghosts.)"
+            },
+            {
+                "id": "es-1050",
+                "w": "oír",
+                "p": "oˈiɾ",
+                "d": "to hear",
+                "s": "Puedo oír a un gato arañando la ventana. (I can hear a cat scratching at the window.)"
+            },
+            {
+                "id": "es-1051",
+                "w": "tendría",
+                "p": "tenˈdɾia",
+                "d": "to have",
+                "s": "Sabía que Tom tendría tiempo suficiente. (I knew Tom would have enough time.)"
+            },
+            {
+                "id": "es-1052",
+                "w": "cuántos",
+                "p": "ˈkwantos",
+                "d": "how many",
+                "s": "¿Cuántos días te vas a quedar en Boston? (How many days will you stay in Boston?)"
+            },
+            {
+                "id": "es-1053",
+                "w": "hablado",
+                "p": "aˈblado",
+                "d": "to talk",
+                "s": "He visto ángeles y he hablado con ellos. (I have seen angels and talked with them.)"
+            },
+            {
+                "id": "es-1054",
+                "w": "hablamos",
+                "p": "aˈblamos",
+                "d": "to talk",
+                "s": "Hablamos sin descanso hasta el amanecer. (We talked and talked until the day broke.)"
+            },
+            {
+                "id": "es-1055",
+                "w": "reina",
+                "p": "ˈreina",
+                "d": "queen",
+                "s": "La reina vive en el Palacio Buckingham. (The Queen lives in Buckingham Palace.)"
+            },
+            {
+                "id": "es-1056",
+                "w": "temprano",
+                "p": "temˈpɾano",
+                "d": "early",
+                "s": "Nosotros salimos temprano por la mañana. (We got an early start.)"
+            },
+            {
+                "id": "es-1057",
+                "w": "tema",
+                "p": "ˈtema",
+                "d": "theme",
+                "s": "No me atrevo a abordar el tema con ella. (I hesitate to broach the subject with her.)"
+            },
+            {
+                "id": "es-1058",
+                "w": "prisión",
+                "p": "pɾiˈsjon",
+                "d": "prison",
+                "s": "Tom estuvo en prisión durante tres años. (Tom has been in prison for three years.)"
+            },
+            {
+                "id": "es-1059",
+                "w": "porqué",
+                "p": "poɾˈke",
+                "d": "a reason",
+                "s": "Aún no se sabe la razón del porqué no va. (His reason for not going is still unclear.)"
+            },
+            {
+                "id": "es-1060",
+                "w": "vuelva",
+                "p": "ˈbwelba",
+                "d": "to return",
+                "s": "Creo que es hora de que vuelva a Boston. (I think it's time for me to return to Boston.)"
+            },
+            {
+                "id": "es-1061",
+                "w": "público",
+                "p": "ˈpubliko",
+                "d": "public",
+                "s": "Ha decaído mucho el interés del público. (Public interest has fallen off a lot.)"
+            },
+            {
+                "id": "es-1062",
+                "w": "ocurrió",
+                "p": "okuˈrjo",
+                "d": "to happen",
+                "s": "A ella se le ocurrió una buena solución. (She thought of a good solution.)"
+            },
+            {
+                "id": "es-1063",
+                "w": "veré",
+                "p": "beˈɾe",
+                "d": "to see",
+                "s": "Te veré mañana en la mañana a las nueve. (I'll see you at nine tomorrow morning.)"
+            },
+            {
+                "id": "es-1064",
+                "w": "salvar",
+                "p": "salˈbaɾ",
+                "d": "to save",
+                "s": "Tom arriesgó su vida para salvar a Mary. (Tom risked his life to save Mary.)"
+            },
+            {
+                "id": "es-1065",
+                "w": "partido",
+                "p": "paɾˈtido",
+                "d": "party",
+                "s": "Nuestro equipo jugó un partido horrible. (Our team played a horrible match.)"
+            },
+            {
+                "id": "es-1066",
+                "w": "bonita",
+                "p": "bonita",
+                "d": "pretty",
+                "s": "La mesa de esa habitación es muy bonita. (The table in that room is very nice.)"
+            },
+            {
+                "id": "es-1067",
+                "w": "joder",
+                "p": "xoˈdeɾ",
+                "d": "fuck!",
+                "s": "Dejate de joder. (Stop bothering me.)"
+            },
+            {
+                "id": "es-1068",
+                "w": "causa",
+                "p": "ˈkausa",
+                "d": "cause",
+                "s": "La velocidad al volante causa accidentes. (Speeding causes accidents.)"
+            },
+            {
+                "id": "es-1069",
+                "w": "caliente",
+                "p": "kaˈljente",
+                "d": "hot",
+                "s": "Golpea el hierro mientras esté caliente. (Strike while the iron is hot.)"
+            },
+            {
+                "id": "es-1070",
+                "w": "sargento",
+                "p": "saɾˈxento",
+                "d": "sergeant",
+                "s": "Un capitán está por sobre un sargento. (A captain is above a sergeant.)"
+            },
+            {
+                "id": "es-1071",
+                "w": "cenar",
+                "p": "θeˈnaɾ",
+                "d": "to dine",
+                "s": "Tengo ganas de salir esta noche a cenar. (I feel like eating out tonight.)"
+            },
+            {
+                "id": "es-1072",
+                "w": "compañero",
+                "p": "kompaˈɲeɾo",
+                "d": "companion",
+                "s": "Tom era el compañero de cuarto de John. (Tom was John's roommate.)"
+            },
+            {
+                "id": "es-1073",
+                "w": "llevó",
+                "p": "ʝeˈbo",
+                "d": "to take somewhere",
+                "s": "Eso llevó más tiempo de lo que esperaba. (That took longer than I expected.)"
+            },
+            {
+                "id": "es-1074",
+                "w": "banco",
+                "p": "ˈbanko",
+                "d": "bank",
+                "s": "Él guarda todos sus ahorros en el banco. (He keeps all his savings in the bank.)"
+            },
+            {
+                "id": "es-1075",
+                "w": "existe",
+                "p": "eɡˈsiste",
+                "d": "to exist",
+                "s": "¿Existe alguna forma de vida en Marte? (Is there any life on Mars?)"
+            },
+            {
+                "id": "es-1076",
+                "w": "zona",
+                "p": "ˈθona",
+                "d": "zone",
+                "s": "Conoce la zona como la palma de su mano. (He knows the area like the back of his hand.)"
+            },
+            {
+                "id": "es-1077",
+                "w": "destino",
+                "p": "desˈtino",
+                "d": "destiny",
+                "s": "Tom abordó un tren con destino a Tokio. (Tom boarded a train bound for Tokyo.)"
+            },
+            {
+                "id": "es-1078",
+                "w": "base",
+                "p": "ˈbase",
+                "d": "base",
+                "s": "Las columnas confieren una base sólida. (Columns provide a solid foundation.)"
+            },
+            {
+                "id": "es-1079",
+                "w": "solía",
+                "p": "soˈlia",
+                "d": "to be accustomed to doing something",
+                "s": "Mi padre solía ir a trabajar en autobús. (My father used to go to work by bus.)"
+            },
+            {
+                "id": "es-1080",
+                "w": "cliente",
+                "p": "ˈkljente",
+                "d": "client",
+                "s": "Tom está ocupado atendiendo a un cliente. (Tom is busy assisting a customer.)"
+            },
+            {
+                "id": "es-1081",
+                "w": "irse",
+                "p": "ˈiɾse",
+                "d": "to go",
+                "s": "Tom le dejo irse a casa temprano a Mary. (Tom allowed Mary to go home early.)"
+            },
+            {
+                "id": "es-1082",
+                "w": "perra",
+                "p": "ˈpera",
+                "d": "bitch",
+                "s": "Nuestra perra rara vez muerde. (Our dog seldom bites.)"
+            },
+            {
+                "id": "es-1083",
+                "w": "encuentro",
+                "p": "enˈkwentɾo",
+                "d": "encounter",
+                "s": "¿Te acordás de nuestro primer encuentro? (Do you remember our first date?)"
+            },
+            {
+                "id": "es-1084",
+                "w": "encontró",
+                "p": "eŋkonˈtɾo",
+                "d": "to meet",
+                "s": "Tom se encontró con Mary en el desayuno. (Tom met Mary for breakfast.)"
+            },
+            {
+                "id": "es-1085",
+                "w": "pelea",
+                "p": "peˈlea",
+                "d": "fight",
+                "s": "Un americano fue asesinado en la pelea. (One American was killed in the fight.)"
+            },
+            {
+                "id": "es-1086",
+                "w": "san",
+                "p": "ˈsan",
+                "d": "holy",
+                "s": "Odio pasar el día de San Valentín solo. (I hate being alone on Valentine's Day.)"
+            },
+            {
+                "id": "es-1087",
+                "w": "norte",
+                "p": "ˈnoɾte",
+                "d": "north",
+                "s": "Mi casa queda al norte de la biblioteca. (My house is north of the library.)"
+            },
+            {
+                "id": "es-1088",
+                "w": "quise",
+                "p": "ˈkise",
+                "d": "to desire",
+                "s": "Eso no es realmente lo que quise decir. (That really isn't what I meant.)"
+            },
+            {
+                "id": "es-1089",
+                "w": "coronel",
+                "p": "koɾoˈnel",
+                "d": "colonel",
+                "s": "Lo ascendieron a coronel hace dos años. (He was promoted to colonel two years ago.)"
+            },
+            {
+                "id": "es-1090",
+                "w": "apuesto",
+                "p": "aˈpwesto",
+                "d": "to bet",
+                "s": "Él no era tan apuesto como ella me dijo. (He wasn't as handsome as she told me.)"
+            },
+            {
+                "id": "es-1091",
+                "w": "peligroso",
+                "p": "peliˈɡɾoso",
+                "d": "perilous",
+                "s": "¿Qué deporte te parece el más peligroso? (What sport do you think is the most dangerous?)"
+            },
+            {
+                "id": "es-1092",
+                "w": "viva",
+                "p": "ˈbiba",
+                "d": "alive",
+                "s": "Tom no sabe si Mary está viva o muerta. (Tom doesn't know if Mary is dead or alive.)"
+            },
+            {
+                "id": "es-1093",
+                "w": "vienes",
+                "p": "ˈbjenes",
+                "d": "Senses relating to literal movement",
+                "s": "¿Por qué no vienes a la fiesta con nosotros? (Why don't you come to the party with us?)"
+            },
+            {
+                "id": "es-1094",
+                "w": "necesitan",
+                "p": "neθesitan",
+                "d": "to need",
+                "s": "Nuestros hijos necesitan algo que hacer. (Our kids need something to do.)"
+            },
+            {
+                "id": "es-1095",
+                "w": "té",
+                "p": "ˈte",
+                "d": "tea",
+                "s": "Ella dejó de coser y tomó un poco de té. (She stopped sewing and had some tea.)"
+            },
+            {
+                "id": "es-1096",
+                "w": "excepto",
+                "p": "e(ɡ)ˈθebto",
+                "d": "except",
+                "s": "Tom me dio todo excepto lo que yo quería. (Tom gave me everything except what I wanted.)"
+            },
+            {
+                "id": "es-1097",
+                "w": "juicio",
+                "p": "ˈxwiθjo",
+                "d": "good judgement",
+                "s": "Me están saliendo las muelas del juicio. (My wisdom teeth are coming in.)"
+            },
+            {
+                "id": "es-1098",
+                "w": "podamos",
+                "p": "poˈdamos",
+                "d": "to prune",
+                "s": "Ayudaremos a tanta gente como podamos. (We'll help as many people as we can.)"
+            },
+            {
+                "id": "es-1099",
+                "w": "llave",
+                "p": "ˈʝabe",
+                "d": "key",
+                "s": "¿Por qué está con llave esta habitación? (Why is this room locked?)"
+            },
+            {
+                "id": "es-1100",
+                "w": "equivocado",
+                "p": "ekiboˈkado",
+                "d": "mistaken",
+                "s": "Él debe haber tomado el tren equivocado. (He may have taken the wrong train.)"
+            },
+            {
+                "id": "es-1101",
+                "w": "posición",
+                "p": "posiˈθjon",
+                "d": "position",
+                "s": "No estoy en una posición para contestar. (I'm not in a position to answer.)"
+            },
+            {
+                "id": "es-1102",
+                "w": "trasero",
+                "p": "tɾaˈseɾo",
+                "d": "behind",
+                "s": "No conduzcas desde el asiento trasero. (Don't be a backseat driver.)"
+            },
+            {
+                "id": "es-1103",
+                "w": "irnos",
+                "p": "ˈiɾnos",
+                "d": "to go",
+                "s": "Sólo digo que no podemos irnos todavía. (I'm just saying we can't leave yet.)"
+            },
+            {
+                "id": "es-1104",
+                "w": "espalda",
+                "p": "esˈpalda",
+                "d": "back",
+                "s": "Tom se merece una palmada en la espalda. (Tom deserves a pat on the back.)"
+            },
+            {
+                "id": "es-1105",
+                "w": "excelente",
+                "p": "eɡsθeˈlente",
+                "d": "excellent",
+                "s": "Apuesto a que eres un excelente profesor. (I bet you're a great teacher.)"
+            },
+            {
+                "id": "es-1106",
+                "w": "éxito",
+                "p": "ˈeɡsito",
+                "d": "success",
+                "s": "Intenté persuadirle sin demasiado éxito. (I tried in vain to persuade them.)"
+            },
+            {
+                "id": "es-1107",
+                "w": "modos",
+                "p": "moðos",
+                "d": "way",
+                "s": "De todos modos, estás totalmente perdonado. (In any case, I've already entirely forgiven you.)"
+            },
+            {
+                "id": "es-1108",
+                "w": "ventana",
+                "p": "benˈtana",
+                "d": "window",
+                "s": "Un puesto junto a la ventana, por favor. (I'd like a window seat, please.)"
+            },
+            {
+                "id": "es-1109",
+                "w": "veamos",
+                "p": "beˈamos",
+                "d": "to see",
+                "s": "Encienda usted el farol para que veamos. (Light the lantern so we can see.)"
+            },
+            {
+                "id": "es-1110",
+                "w": "especie",
+                "p": "esˈpeθje",
+                "d": "species",
+                "s": "Es una especie en peligro de extinción. (It is an endangered species.)"
+            },
+            {
+                "id": "es-1111",
+                "w": "teníamos",
+                "p": "teˈniamos",
+                "d": "to have",
+                "s": "No teníamos televisor en aquellos días. (We didn't have TV in those days.)"
+            },
+            {
+                "id": "es-1112",
+                "w": "diferencia",
+                "p": "difeˈɾenθja",
+                "d": "difference",
+                "s": "A diferencia de mi hermano, no sé nadar. (Unlike my brother, I can't swim.)"
+            },
+            {
+                "id": "es-1113",
+                "w": "formas",
+                "p": "ˈfoɾmas",
+                "d": "shape",
+                "s": "Ella era parecida a mí en muchas formas. (She was similar to me in many ways.)"
+            },
+            {
+                "id": "es-1114",
+                "w": "pedir",
+                "p": "peˈdiɾ",
+                "d": "to ask for something",
+                "s": "No podía moverse y tuvo que pedir ayuda. (He couldn't move and had to call for help.)"
+            },
+            {
+                "id": "es-1115",
+                "w": "últimos",
+                "p": "ˈultimos",
+                "d": "final",
+                "s": "¿Qué tal se llevan estos últimos días? (How are you getting along these days?)"
+            },
+            {
+                "id": "es-1116",
+                "w": "escúchame",
+                "p": "esˈkut͡ʃame",
+                "d": "to listen to",
+                "s": "¡Tenemos muy poco tiempo, así que escúchame bien! (We have very little time, so listen carefully.)"
+            },
+            {
+                "id": "es-1117",
+                "w": "ejemplo",
+                "p": "eˈxemplo",
+                "d": "example",
+                "s": "Déme usted un ejemplo porque no entiendo. (Give me an example. I don't understand.)"
+            },
+            {
+                "id": "es-1118",
+                "w": "ése",
+                "p": "ˈese",
+                "d": "that one",
+                "s": "Este otro ascensor va más rápido que ése. (This elevator is faster than that one.)"
+            },
+            {
+                "id": "es-1119",
+                "w": "radio",
+                "p": "ˈradjo",
+                "d": "radio",
+                "s": "Creo que arreglarán la radio esta tarde. (I think they'll fix the radio this afternoon.)"
+            },
+            {
+                "id": "es-1120",
+                "w": "lee",
+                "p": "ˈlee",
+                "d": "to read",
+                "s": "El árabe se lee de derecha a izquierda. (Arabic is read from right to left.)"
+            },
+            {
+                "id": "es-1121",
+                "w": "calma",
+                "p": "ˈkalma",
+                "d": "calm",
+                "s": "Después de una tormenta, viene la calma. (After a storm comes a calm.)"
+            },
+            {
+                "id": "es-1122",
+                "w": "hogar",
+                "p": "oˈɡaɾ",
+                "d": "home",
+                "s": "No me importa hacer las tareas del hogar. (I don't mind doing the housework.)"
+            },
+            {
+                "id": "es-1123",
+                "w": "volveré",
+                "p": "bolbeˈɾe",
+                "d": "to return",
+                "s": "Volveré otra vez cuando estés desocupado. (I'll come again when you're free.)"
+            },
+            {
+                "id": "es-1124",
+                "w": "fondo",
+                "p": "ˈfondo",
+                "d": "bottom",
+                "s": "Te quiero desde el fondo de mi corazón. (I love you with all my heart.)"
+            },
+            {
+                "id": "es-1125",
+                "w": "humano",
+                "p": "uˈmano",
+                "d": "human",
+                "s": "La migración es un derecho humano básico. (Migration is a basic human right.)"
+            },
+            {
+                "id": "es-1126",
+                "w": "tí",
+                "p": "",
+                "d": "you",
+                "s": "¿Quién te dijo que estaba hablando de tí? (Who told you I was talking about you?)"
+            },
+            {
+                "id": "es-1127",
+                "w": "iremos",
+                "p": "iˈɾemos",
+                "d": "to go",
+                "s": "De aquí en adelante iremos en vehículo. (From this point, we'll go on by car.)"
+            },
+            {
+                "id": "es-1128",
+                "w": "unidos",
+                "p": "uˈnidos",
+                "d": "united",
+                "s": "Soy una ciudadana de los Estados Unidos. (I'm a US citizen.)"
+            },
+            {
+                "id": "es-1129",
+                "w": "habían",
+                "p": "aˈbian",
+                "d": "to have",
+                "s": "Ellos habían sido derrotados en batalla. (They had been defeated in battle.)"
+            },
+            {
+                "id": "es-1130",
+                "w": "planeta",
+                "p": "plaˈneta",
+                "d": "planet",
+                "s": "¿Cuál es el planeta más cercano al sol? (What's the nearest planet to the sun?)"
+            },
+            {
+                "id": "es-1131",
+                "w": "verme",
+                "p": "ˈbeɾme",
+                "d": "to see",
+                "s": "Gracias por venir hasta aquí para verme. (Thank you for coming all the way to see me.)"
+            },
+            {
+                "id": "es-1132",
+                "w": "respecto",
+                "p": "resˈpeɡto",
+                "d": "respect",
+                "s": "No dijo ni una sola palabra al respecto. (He didn't say a word about it.)"
+            },
+            {
+                "id": "es-1133",
+                "w": "regreso",
+                "p": "reˈɡɾeso",
+                "d": "return",
+                "s": "Tom tomó un autobús de regreso a Boston. (Tom took a bus back to Boston.)"
+            },
+            {
+                "id": "es-1134",
+                "w": "debido",
+                "p": "deˈbido",
+                "d": "owed",
+                "s": "Se retrasó el partido debido a la nieve. (The game was delayed on account of snow.)"
+            },
+            {
+                "id": "es-1135",
+                "w": "seré",
+                "p": "seˈɾe",
+                "d": "to be",
+                "s": "Pienso que seré capaz de lidiar con eso. (I think I'll be able to deal with that.)"
+            },
+            {
+                "id": "es-1136",
+                "w": "tenían",
+                "p": "teˈnian",
+                "d": "to have",
+                "s": "Aquellas sospechas no tenían fundamento. (Those suspicions were unfounded.)"
+            },
+            {
+                "id": "es-1137",
+                "w": "leer",
+                "p": "leˈeɾ",
+                "d": "to read",
+                "s": "¿Por qué necesitas leer semejante libro? (Why do you need to read such a book?)"
+            },
+            {
+                "id": "es-1138",
+                "w": "parar",
+                "p": "paˈɾaɾ",
+                "d": "to stop",
+                "s": "Él levantó la mano para parar a un taxi. (He raised his hand to stop a taxi.)"
+            },
+            {
+                "id": "es-1139",
+                "w": "lleno",
+                "p": "ˈʝeno",
+                "d": "full",
+                "s": "El colectivo está muy lleno esta mañana. (The bus is very crowded this morning.)"
+            },
+            {
+                "id": "es-1140",
+                "w": "dejé",
+                "p": "deˈxe",
+                "d": "to leave",
+                "s": "Me dejé mi raqueta de tenis en el club. (I left my tennis racket at the club.)"
+            },
+            {
+                "id": "es-1141",
+                "w": "respeto",
+                "p": "resˈpeto",
+                "d": "respect",
+                "s": "Su valiente hazaña le otorgó el respeto. (His brave deed earned him respect.)"
+            },
+            {
+                "id": "es-1142",
+                "w": "debajo",
+                "p": "deˈbaxo",
+                "d": "underneath",
+                "s": "Encontré la llave debajo de la alfombra. (I found the key underneath the mat.)"
+            },
+            {
+                "id": "es-1143",
+                "w": "escribir",
+                "p": "eskɾiˈbiɾ",
+                "d": "to write",
+                "s": "Me quedan otras dos cartas por escribir. (I have another two letters to write.)"
+            },
+            {
+                "id": "es-1144",
+                "w": "estación",
+                "p": "estaˈθjon",
+                "d": "station",
+                "s": "La estación de lluvias empieza en junio. (The rainy season begins in June.)"
+            },
+            {
+                "id": "es-1145",
+                "w": "pidió",
+                "p": "piˈðjo",
+                "d": "to ask for something",
+                "s": "Tom le pidió a Mary que dejara de fumar. (Tom asked Mary to quit smoking.)"
+            },
+            {
+                "id": "es-1146",
+                "w": "alta",
+                "p": "ˈalta",
+                "d": "tall",
+                "s": "Tú eres un poco más alta que yo ¿verdad? (You're a bit taller than I am, aren't you?)"
+            },
+            {
+                "id": "es-1147",
+                "w": "pista",
+                "p": "ˈpista",
+                "d": "track",
+                "s": "Has pasado por alto una pista importante. (You've missed an important clue.)"
+            },
+            {
+                "id": "es-1148",
+                "w": "estrella",
+                "p": "esˈtɾeʝa",
+                "d": "star",
+                "s": "Estas galletas tienen forma de estrella. (These cookies are star-shaped.)"
+            },
+            {
+                "id": "es-1149",
+                "w": "enfermo",
+                "p": "enˈfeɾmo",
+                "d": "sick",
+                "s": "Él lucía como si hubiera estado enfermo. (He looked as if he had been ill.)"
+            },
+            {
+                "id": "es-1150",
+                "w": "duele",
+                "p": "ˈdwele",
+                "d": "to plane",
+                "s": "Está claro por qué le duele el estómago. (It's obvious why his stomach hurts.)"
+            },
+            {
+                "id": "es-1151",
+                "w": "sueños",
+                "p": "ˈsweɲos",
+                "d": "sleep",
+                "s": "Los sueños de Tom se hicieron realidad. (Tom's dreams came true.)"
+            },
+            {
+                "id": "es-1152",
+                "w": "veremos",
+                "p": "beˈɾemos",
+                "d": "to see",
+                "s": "Mañana le veremos delante de la estación. (We are going to see her in front of the station tomorrow.)"
+            },
+            {
+                "id": "es-1153",
+                "w": "miles",
+                "p": "ˈmiles",
+                "d": "thousands",
+                "s": "Miles de personas fueron arrestadas ahí. (Thousands of people there were arrested.)"
+            },
+            {
+                "id": "es-1154",
+                "w": "darme",
+                "p": "ˈdaɾme",
+                "d": "to give",
+                "s": "¿Podría darme otra copia de este folleto? (May I have another brochure?)"
+            },
+            {
+                "id": "es-1155",
+                "w": "órdenes",
+                "p": "ˈoɾdenes",
+                "d": "order",
+                "s": "Los soldados deben cumplir sus órdenes. (Soldiers must carry out their orders.)"
+            },
+            {
+                "id": "es-1156",
+                "w": "ocupado",
+                "p": "okuˈpado",
+                "d": "occupied",
+                "s": "Mi trabajo me mantiene bastante ocupado. (My job keeps me pretty busy.)"
+            },
+            {
+                "id": "es-1157",
+                "w": "sigues",
+                "p": "ˈsiɡes",
+                "d": "to follow",
+                "s": "¿Sigues teniendo problemas con la física? (Are you still having trouble with physics?)"
+            },
+            {
+                "id": "es-1158",
+                "w": "corre",
+                "p": "ˈkore",
+                "d": "to run",
+                "s": "La vida de este paciente corre peligro. (This patient's life is in danger.)"
+            },
+            {
+                "id": "es-1159",
+                "w": "podido",
+                "p": "poˈdido",
+                "d": "to be able to",
+                "s": "Desearía haber podido hablar en español. (I wish I could have spoken Spanish.)"
+            },
+            {
+                "id": "es-1160",
+                "w": "dejes",
+                "p": "dexes",
+                "d": "to leave",
+                "s": "No te dejes engañar por las apariencias. (Don't be deceived by appearances.)"
+            },
+            {
+                "id": "es-1161",
+                "w": "nivel",
+                "p": "niˈbel",
+                "d": "level",
+                "s": "Su nivel de inglés mejoró rápidamente. (Her proficiency in English rapidly improved.)"
+            },
+            {
+                "id": "es-1162",
+                "w": "habéis",
+                "p": "aˈbeis",
+                "d": "to have",
+                "s": "Os arrepentiréis de lo que habéis hecho. (You'll regret what you've done.)"
+            },
+            {
+                "id": "es-1163",
+                "w": "experiencia",
+                "p": "eɡspeˈɾjenθja",
+                "d": "experience",
+                "s": "Muchos carecían de experiencia política. (Many lacked political experience.)"
+            },
+            {
+                "id": "es-1164",
+                "w": "darte",
+                "p": "ˈdaɾte",
+                "d": "to give",
+                "s": "No puedo darte una respuesta inmediata. (I can't give you an immediate answer.)"
+            },
+            {
+                "id": "es-1165",
+                "w": "salida",
+                "p": "saˈlida",
+                "d": "exit",
+                "s": "Él vio al suicidio como la única salida. (He saw suicide as the only way out.)"
+            },
+            {
+                "id": "es-1166",
+                "w": "decirlo",
+                "p": "deθiɾlo",
+                "d": "to say",
+                "s": "Todavía es demasiado pronto para decirlo. (It's still too soon to say.)"
+            },
+            {
+                "id": "es-1167",
+                "w": "confiar",
+                "p": "konˈfjaɾ",
+                "d": "to reassure",
+                "s": "¿Por qué deberíamos confiar en vosotros? (Why should we trust you?)"
+            },
+            {
+                "id": "es-1168",
+                "w": "hacerte",
+                "p": "aθeɾte",
+                "d": "to do",
+                "s": "No tienes para qué hacerte cargo de eso. (You won't have to take charge of that.)"
+            },
+            {
+                "id": "es-1169",
+                "w": "necesitaba",
+                "p": "neθesitaβa",
+                "d": "to need",
+                "s": "Solo necesitaba un lugar donde estudiar. (I just needed a place to study.)"
+            },
+            {
+                "id": "es-1170",
+                "w": "hermanos",
+                "p": "eɾmanos",
+                "d": "brothers",
+                "s": "Todos mis hermanos son más altos que yo. (All my siblings are taller than me.)"
+            },
+            {
+                "id": "es-1171",
+                "w": "zapatos",
+                "p": "θapatos",
+                "d": "shoe",
+                "s": "Necesito suelas nuevas en estos zapatos. (I need new soles on these shoes.)"
+            },
+            {
+                "id": "es-1172",
+                "w": "color",
+                "p": "koˈloɾ",
+                "d": "color / colour",
+                "s": "¿De qué color son los ojos de tu esposa? (What color are your wife's eyes?)"
+            },
+            {
+                "id": "es-1173",
+                "w": "vistazo",
+                "p": "bisˈtaθo",
+                "d": "look",
+                "s": "Necesito que le eches un vistazo a esto. (I need you to take a look at this.)"
+            },
+            {
+                "id": "es-1174",
+                "w": "nena",
+                "p": "ˈnena",
+                "d": "baby girl",
+                "s": "Ven acá, nena. (Come here, kid.)"
+            },
+            {
+                "id": "es-1175",
+                "w": "tratar",
+                "p": "tɾaˈtaɾ",
+                "d": "to treat",
+                "s": "Pensé que íbamos a tratar de ser amigos. (I thought we were going to try to be friends.)"
+            },
+            {
+                "id": "es-1176",
+                "w": "parecer",
+                "p": "paɾeˈθeɾ",
+                "d": "to seem",
+                "s": "Puedo parecer un adulto, pero no lo soy. (I may look like an adult, but I'm not.)"
+            },
+            {
+                "id": "es-1177",
+                "w": "juez",
+                "p": "ˈxweθ",
+                "d": "judge",
+                "s": "El juez golpeó con su martillo de nuevo. (The judge banged his gavel again.)"
+            },
+            {
+                "id": "es-1178",
+                "w": "próximo",
+                "p": "ˈpɾoɡsimo",
+                "d": "near",
+                "s": "No puedo esperar hasta el próximo lunes. (I can't wait till next Monday.)"
+            },
+            {
+                "id": "es-1179",
+                "w": "paciente",
+                "p": "paˈθjente",
+                "d": "patient",
+                "s": "El paciente está ahora fuera de peligro. (The patient is now out of danger.)"
+            },
+            {
+                "id": "es-1180",
+                "w": "hayas",
+                "p": "ˈaʝas",
+                "d": "to have",
+                "s": "Me alegro mucho de que te hayas pasado. (I'm so glad you showed up.)"
+            },
+            {
+                "id": "es-1181",
+                "w": "bolsa",
+                "p": "ˈbolsa",
+                "d": "bag",
+                "s": "Una bolsa con hielo disminuirá el dolor. (An ice pack will numb the pain.)"
+            },
+            {
+                "id": "es-1182",
+                "w": "arte",
+                "p": "ˈaɾte",
+                "d": "art",
+                "s": "Mi tío tiene un gran interés por el arte. (My uncle has a deep interest in art.)"
+            },
+            {
+                "id": "es-1183",
+                "w": "jugando",
+                "p": "xuˈɡando",
+                "d": "to play",
+                "s": "Algunas chicas estaban jugando al tenis. (Some girls were playing tennis.)"
+            },
+            {
+                "id": "es-1184",
+                "w": "llevas",
+                "p": "ʎeβas",
+                "d": "to take somewhere",
+                "s": "Me encanta el vestido que llevas puesto. (I love the outfit you're wearing.)"
+            },
+            {
+                "id": "es-1185",
+                "w": "alegra",
+                "p": "aleɣɾa",
+                "d": "to make happy",
+                "s": "Me alegra que estemos de acuerdo en algo. (I'm glad we agree on something.)"
+            },
+            {
+                "id": "es-1186",
+                "w": "bailar",
+                "p": "baiˈlaɾ",
+                "d": "to dance",
+                "s": "¿Dónde has aprendido a bailar tan bien? (Where did you learn to dance so well?)"
+            },
+            {
+                "id": "es-1187",
+                "w": "diablo",
+                "p": "ˈdjablo",
+                "d": "devil",
+                "s": "Hasta el diablo llora. (Even the hard-hearted can be moved to tears.)"
+            },
+            {
+                "id": "es-1188",
+                "w": "oí",
+                "p": "oˈi",
+                "d": "to hear",
+                "s": "Oí un sonido extraño venir de la cocina. (I heard a strange noise coming from the kitchen.)"
+            },
+            {
+                "id": "es-1189",
+                "w": "sepa",
+                "p": "ˈsepa",
+                "d": "to know",
+                "s": "No quiero que nadie sepa que estoy aquí. (I don't want anyone to know I'm here.)"
+            },
+            {
+                "id": "es-1190",
+                "w": "estarás",
+                "p": "estaˈɾas",
+                "d": "to be",
+                "s": "Estarás a salvo mientras te quedes aquí. (You are safe so long as you stay here.)"
+            },
+            {
+                "id": "es-1191",
+                "w": "sur",
+                "p": "ˈsuɾ",
+                "d": "south",
+                "s": "Él vive en el distrito sur de la ciudad. (He lives in the southern part of the city.)"
+            },
+            {
+                "id": "es-1192",
+                "w": "banda",
+                "p": "ˈbanda",
+                "d": "band",
+                "s": "Esa banda de rock me da dolor de cabeza. (That rock band gives me a headache.)"
+            },
+            {
+                "id": "es-1193",
+                "w": "aprender",
+                "p": "apɾenˈdeɾ",
+                "d": "to learn",
+                "s": "Yo quiero aprender chino el próximo año. (I want to learn Chinese next year.)"
+            },
+            {
+                "id": "es-1194",
+                "w": "precio",
+                "p": "ˈpɾeθjo",
+                "d": "price",
+                "s": "El precio de los huevos está en aumento. (The price of eggs is going up.)"
+            },
+            {
+                "id": "es-1195",
+                "w": "completo",
+                "p": "komˈpleto",
+                "d": "full",
+                "s": "La nieve cubrió la ciudad por completo. (Snow completely covered the town.)"
+            },
+            {
+                "id": "es-1196",
+                "w": "santo",
+                "p": "ˈsanto",
+                "d": "holy",
+                "s": "San Patricio es el santo patrono de Irlanda. (St. Patrick is the patron saint of Ireland.)"
+            },
+            {
+                "id": "es-1197",
+                "w": "culpable",
+                "p": "kulˈpable",
+                "d": "guilty",
+                "s": "Él fue encontrado culpable de homicidio. (He was found guilty of murder.)"
+            },
+            {
+                "id": "es-1198",
+                "w": "ganas",
+                "p": "ˈɡanas",
+                "d": "desire",
+                "s": "Tom se muere de ganas de conocer a Mary. (Tom can't wait to meet Mary.)"
+            },
+            {
+                "id": "es-1199",
+                "w": "tuvimos",
+                "p": "tuˈbimos",
+                "d": "to have",
+                "s": "Tuvimos pocos días soleados este verano. (We had few sunny days this summer.)"
+            },
+            {
+                "id": "es-1200",
+                "w": "verla",
+                "p": "ˈbeɾla",
+                "d": "to see",
+                "s": "Él iba a verla al hospital cada dos días. (He went to see her in the hospital every other day.)"
+            },
+            {
+                "id": "es-1201",
+                "w": "volvió",
+                "p": "boˈlβjo",
+                "d": "to return",
+                "s": "Tom no volvió hasta después de las 2:30. (Tom didn't come back until after 2:30.)"
+            },
+            {
+                "id": "es-1202",
+                "w": "libros",
+                "p": "liβɾos",
+                "d": "book",
+                "s": "Me leí todos estos libros en tres meses. (I read all these books in three months.)"
+            },
+            {
+                "id": "es-1203",
+                "w": "ojo",
+                "p": "ˈoxo",
+                "d": "eye",
+                "s": "Voy a echarle un ojo a Tom en un ratico. (I'll check on Tom a little later.)"
+            },
+            {
+                "id": "es-1204",
+                "w": "serán",
+                "p": "seˈɾan",
+                "d": "to be",
+                "s": "Dondequiera que vayan, serán bienvenidos. (Wherever you go, you'll be welcomed.)"
+            },
+            {
+                "id": "es-1205",
+                "w": "cielos",
+                "p": "ˈθjelos",
+                "d": "heavens!",
+                "s": "Golondrinas vuelan por los cielos. (Swallows are flying in the sky.)"
+            },
+            {
+                "id": "es-1206",
+                "w": "matado",
+                "p": "maˈtado",
+                "d": "to kill",
+                "s": "Tienes suerte de que no te hayan matado. (You're lucky you weren't killed.)"
+            },
+            {
+                "id": "es-1207",
+                "w": "azul",
+                "p": "aˈθul",
+                "d": "blue",
+                "s": "Tengo un ojo de color verde y otro azul. (I have one green eye and one blue one.)"
+            },
+            {
+                "id": "es-1208",
+                "w": "diferentes",
+                "p": "difeˈɾentes",
+                "d": "different",
+                "s": "Esta y esa son dos historias diferentes. (This and that are two different stories.)"
+            },
+            {
+                "id": "es-1209",
+                "w": "irte",
+                "p": "ˈiɾte",
+                "d": "to go",
+                "s": "Acaba los deberes antes de irte a la cama. (Finish your homework before you go to bed.)"
+            },
+            {
+                "id": "es-1210",
+                "w": "comandante",
+                "p": "komanˈdante",
+                "d": "commander",
+                "s": "El comandante se rehusó a negociar. (The commander refused to negotiate.)"
+            },
+            {
+                "id": "es-1211",
+                "w": "acción",
+                "p": "aɡˈθjon",
+                "d": "action",
+                "s": "A Tom le gustan las películas de acción. (Tom likes action movies.)"
+            },
+            {
+                "id": "es-1212",
+                "w": "reglas",
+                "p": "reɣlas",
+                "d": "rule",
+                "s": "Siempre tenemos que obedecer las reglas. (We always have to obey the rules.)"
+            },
+            {
+                "id": "es-1213",
+                "w": "obra",
+                "p": "ˈobɾa",
+                "d": "work",
+                "s": "La obra estaba basada en sucesos reales. (The play was based on real events.)"
+            },
+            {
+                "id": "es-1214",
+                "w": "esperanza",
+                "p": "espeˈɾanθa",
+                "d": "hope",
+                "s": "Tenía la esperanza de ahorrar más dinero. (I had hoped to save more money.)"
+            },
+            {
+                "id": "es-1215",
+                "w": "cuestión",
+                "p": "kwesˈtjon",
+                "d": "matter",
+                "s": "Discutí con ellos acerca de la cuestión. (I argued with them about the matter.)"
+            },
+            {
+                "id": "es-1216",
+                "w": "molesta",
+                "p": "moˈlesta",
+                "d": "to bother",
+                "s": "No me molesta si se pone un poco helado. (I don't mind if it gets a little cold.)"
+            },
+            {
+                "id": "es-1217",
+                "w": "teniendo",
+                "p": "teˈnjendo",
+                "d": "to have",
+                "s": "¿Sigues teniendo problemas con la física? (Are you still having trouble with physics?)"
+            },
+            {
+                "id": "es-1218",
+                "w": "informe",
+                "p": "inˈfoɾme",
+                "d": "report",
+                "s": "Tenemos que hacer este informe otra vez. (We need to do this report again.)"
+            },
+            {
+                "id": "es-1219",
+                "w": "río",
+                "p": "ˈrio",
+                "d": "river",
+                "s": "Tom atravesó el río en un bote de remos. (Tom crossed the river in a rowboat.)"
+            },
+            {
+                "id": "es-1220",
+                "w": "bienvenido",
+                "p": "bjembeˈnido",
+                "d": "welcome",
+                "s": "Él era bienvenido a dondequiera que iba. (He was welcome wherever he went.)"
+            },
+            {
+                "id": "es-1221",
+                "w": "abrir",
+                "p": "aˈbɾiɾ",
+                "d": "to open",
+                "s": "Me gustaría abrir una cuenta de ahorros. (I'd like to open a savings account.)"
+            },
+            {
+                "id": "es-1222",
+                "w": "tocar",
+                "p": "toˈkaɾ",
+                "d": "to touch",
+                "s": "¿Las has oído tocar el piano alguna vez? (Have you ever heard her play the piano?)"
+            },
+            {
+                "id": "es-1223",
+                "w": "bob",
+                "p": "ˈbob",
+                "d": "bob",
+                "s": "¿Cuál es tu canción favorita de Bob Dylan? (What's your favorite Bob Dylan song?)"
+            },
+            {
+                "id": "es-1224",
+                "w": "contar",
+                "p": "konˈtaɾ",
+                "d": "to count",
+                "s": "Necesito saber que puedo contar contigo. (I need to know I can count on you.)"
+            },
+            {
+                "id": "es-1225",
+                "w": "sigo",
+                "p": "ˈsiɡo",
+                "d": "to follow",
+                "s": "Yo no siempre sigo las instrucciones. (I don't always follow instructions.)"
+            },
+            {
+                "id": "es-1226",
+                "w": "interior",
+                "p": "inteˈɾjoɾ",
+                "d": "inner",
+                "s": "Estoy empapado hasta la ropa interior. (I got soaked to the skin.)"
+            },
+            {
+                "id": "es-1227",
+                "w": "apartamento",
+                "p": "apaɾtaˈmento",
+                "d": "flat",
+                "s": "Quiero un apartamento con vistas al mar. (I want an apartment with a view of the ocean.)"
+            },
+            {
+                "id": "es-1228",
+                "w": "vea",
+                "p": "ˈbea",
+                "d": "to see",
+                "s": "Es posible que esta noche no vea la tele. (I probably won't watch TV tonight.)"
+            },
+            {
+                "id": "es-1229",
+                "w": "estados",
+                "p": "esˈtados",
+                "d": "country",
+                "s": "Soy una ciudadana de los Estados Unidos. (I'm a US citizen.)"
+            },
+            {
+                "id": "es-1230",
+                "w": "estáis",
+                "p": "esˈtais",
+                "d": "to be",
+                "s": "¿Por qué no estáis ya a bordo del barco? (Why aren't you already on board the ship?)"
+            },
+            {
+                "id": "es-1231",
+                "w": "preocupa",
+                "p": "pɾeokupa",
+                "d": "to worry",
+                "s": "Tom se preocupa mucho por su reputación. (Tom cares a lot about his reputation.)"
+            },
+            {
+                "id": "es-1232",
+                "w": "tomó",
+                "p": "toˈmo",
+                "d": "to take",
+                "s": "Tom tomó un autobús de regreso a Boston. (Tom took a bus back to Boston.)"
+            },
+            {
+                "id": "es-1233",
+                "w": "principal",
+                "p": "pɾinθiˈpal",
+                "d": "main",
+                "s": "Tom está golpeando la puerta principal. (Tom is banging on the front door.)"
+            },
+            {
+                "id": "es-1234",
+                "w": "empieza",
+                "p": "emˈpjeθa",
+                "d": "to start",
+                "s": "La estación de lluvias empieza en junio. (The rainy season begins in June.)"
+            },
+            {
+                "id": "es-1235",
+                "w": "empezó",
+                "p": "empeˈθo",
+                "d": "to start",
+                "s": "A Tom le empezó a gustar más y más Mary. (Tom began to like Mary more and more.)"
+            },
+            {
+                "id": "es-1236",
+                "w": "vayan",
+                "p": "ˈbaʝan",
+                "d": "to go",
+                "s": "¡Vayan al médico a que les dé la receta! (Go to the doctor to get your prescription!)"
+            },
+            {
+                "id": "es-1237",
+                "w": "llaman",
+                "p": "ˈʝaman",
+                "d": "to summon",
+                "s": "Los dientes de delante se llaman incisivos. (The teeth in front are called the incisors.)"
+            },
+            {
+                "id": "es-1238",
+                "w": "ojalá",
+                "p": "oxaˈla",
+                "d": "I wish",
+                "s": "Ojalá me hubiera casado con otro hombre. (I wish I'd married another man.)"
+            },
+            {
+                "id": "es-1239",
+                "w": "perdona",
+                "p": "peɾðona",
+                "d": "to pardon",
+                "s": "Perdona, pero ¿puedo pedirte una cosa? (Excuse me, but may I ask you something?)"
+            },
+            {
+                "id": "es-1240",
+                "w": "vuelvo",
+                "p": "ˈbwelbo",
+                "d": "to return",
+                "s": "Deja el motor andando. Vuelvo enseguida. (Keep the engine running. I'll be right back.)"
+            },
+            {
+                "id": "es-1241",
+                "w": "golpe",
+                "p": "ˈɡolpe",
+                "d": "hit",
+                "s": "Escuché un golpe de la puerta delantera. (I heard the front door slam.)"
+            },
+            {
+                "id": "es-1242",
+                "w": "quedarme",
+                "p": "keðaɾme",
+                "d": "to be",
+                "s": "Desearía tener razones para no quedarme. (I wish I had a reason not to stay.)"
+            },
+            {
+                "id": "es-1243",
+                "w": "llamaré",
+                "p": "ʝamaˈɾe",
+                "d": "to summon",
+                "s": "Llamaré de vuelta tan pronto como pueda. (I'll call back as soon as I can.)"
+            },
+            {
+                "id": "es-1244",
+                "w": "acabado",
+                "p": "akaˈbado",
+                "d": "worn-out",
+                "s": "Las vacaciones de verano se han acabado. (The summer vacation is over.)"
+            },
+            {
+                "id": "es-1245",
+                "w": "estilo",
+                "p": "esˈtilo",
+                "d": "style",
+                "s": "Tom tiene un estilo de vida extravagante. (Tom has an extravagant lifestyle.)"
+            },
+            {
+                "id": "es-1246",
+                "w": "nueve",
+                "p": "ˈnwebe",
+                "d": "nine",
+                "s": "Usualmente me voy a la cama a las nueve. (I usually go to bed at nine.)"
+            },
+            {
+                "id": "es-1247",
+                "w": "definitivamente",
+                "p": "definiˌtibaˈmente",
+                "d": "definitely",
+                "s": "Esta definitivamente es la mejor manera. (This is definitely the best way.)"
+            },
+            {
+                "id": "es-1248",
+                "w": "quedar",
+                "p": "keˈdaɾ",
+                "d": "to be",
+                "s": "¿Te vas a quedar en la cama todo el día? (Are you going to stay in bed all day?)"
+            },
+            {
+                "id": "es-1249",
+                "w": "cartas",
+                "p": "kaɾtas",
+                "d": "letter",
+                "s": "Nosotros hicimos la hora jugando cartas. (We killed time by playing cards.)"
+            },
+            {
+                "id": "es-1250",
+                "w": "bomba",
+                "p": "ˈbomba",
+                "d": "bomb",
+                "s": "Al estallar la bomba causó muchos daños. (The bomb caused a lot of damage when it exploded.)"
+            },
+            {
+                "id": "es-1251",
+                "w": "guardia",
+                "p": "ˈɡwaɾdja",
+                "d": "custodian",
+                "s": "Tom se disfrazó de guardia de seguridad. (Tom disguised himself as a security guard.)"
+            },
+            {
+                "id": "es-1252",
+                "w": "pistola",
+                "p": "pisˈtola",
+                "d": "pistol",
+                "s": "Tom puso su pistola abajo de la almohada. (Tom put his pistol under his pillow.)"
+            },
+            {
+                "id": "es-1253",
+                "w": "probar",
+                "p": "pɾoˈbaɾ",
+                "d": "to prove",
+                "s": "Gracias por el consejo. Lo voy a probar. (Thanks for the advice. I'll give it a try.)"
+            },
+            {
+                "id": "es-1254",
+                "w": "majestad",
+                "p": "maxesˈtad",
+                "d": "majesty",
+                "s": ""
+            },
+            {
+                "id": "es-1255",
+                "w": "traer",
+                "p": "tɾaˈeɾ",
+                "d": "to bring",
+                "s": "He olvidado traer algo con que escribir. (I have forgotten to bring something to write with.)"
+            },
+            {
+                "id": "es-1256",
+                "w": "marcha",
+                "p": "ˈmaɾt͡ʃa",
+                "d": "march",
+                "s": "La juventud se marcha y no vuelve nunca. (Youth goes away and never comes back.)"
+            },
+            {
+                "id": "es-1257",
+                "w": "pareces",
+                "p": "paɾeθes",
+                "d": "to seem",
+                "s": "Puede que no seas tan tonto como pareces. (Maybe you're not as stupid as you sound.)"
+            },
+            {
+                "id": "es-1258",
+                "w": "común",
+                "p": "koˈmun",
+                "d": "common",
+                "s": "Tenemos más en común de lo que esperaba. (We have more in common than I expected.)"
+            },
+            {
+                "id": "es-1259",
+                "w": "aquel",
+                "p": "aˈkel",
+                "d": "that",
+                "s": "Este automóvil es tan grande como aquel. (This car is as big as that car.)"
+            },
+            {
+                "id": "es-1260",
+                "w": "hacerle",
+                "p": "aθeɾle",
+                "d": "to do",
+                "s": "¿Te crees que quiero hacerle daño a Tom? (Do you think I want to hurt Tom?)"
+            },
+            {
+                "id": "es-1261",
+                "w": "vuelo",
+                "p": "ˈbwelo",
+                "d": "flight",
+                "s": "¿Cuándo es el próximo vuelo a Boston? (When is the next flight to Boston?)"
+            },
+            {
+                "id": "es-1262",
+                "w": "nota",
+                "p": "ˈnota",
+                "d": "note",
+                "s": "Le pusieron una buena nota en matemáticas. (He got a good grade in mathematics.)"
+            },
+            {
+                "id": "es-1263",
+                "w": "humanos",
+                "p": "uˈmanos",
+                "d": "human",
+                "s": "Es uno de los instintos humanos básicos. (It's one of the basic human instincts.)"
+            },
+            {
+                "id": "es-1264",
+                "w": "estaremos",
+                "p": "estaˈɾemos",
+                "d": "to be",
+                "s": "Si te pago un dólar, estaremos en paz. (If I pay you a dollar, we'll be even.)"
+            },
+            {
+                "id": "es-1265",
+                "w": "valor",
+                "p": "baˈloɾ",
+                "d": "value",
+                "s": "Tom realmente admiraba el valor de Mary. (Tom really admired Mary's courage.)"
+            },
+            {
+                "id": "es-1266",
+                "w": "suyo",
+                "p": "ˈsuʝo",
+                "d": "his",
+                "s": "Ella pasó por el lado suyo sin notarlo. (She walked past him without even noticing him.)"
+            },
+            {
+                "id": "es-1267",
+                "w": "objetivo",
+                "p": "obxeˈtibo",
+                "d": "objective",
+                "s": "No logro entender su verdadero objetivo. (I fail to understand his true aim.)"
+            },
+            {
+                "id": "es-1268",
+                "w": "repente",
+                "p": "reˈpente",
+                "d": "attack",
+                "s": "De repente, todas las luces se apagaron. (Suddenly all the lights went out.)"
+            },
+            {
+                "id": "es-1269",
+                "w": "debía",
+                "p": "deˈbia",
+                "d": "to owe",
+                "s": "Tom no debía haber hecho lo que él hizo. (Tom shouldn't have done what he did.)"
+            },
+            {
+                "id": "es-1270",
+                "w": "rojo",
+                "p": "ˈroxo",
+                "d": "red",
+                "s": "Te acabas de saltar el semáforo en rojo. (You just ran a red light.)"
+            },
+            {
+                "id": "es-1271",
+                "w": "bromeando",
+                "p": "bɾomeando",
+                "d": "to joke",
+                "s": "Yo no puedo decir si tú estás bromeando. (I can't tell if you're joking.)"
+            },
+            {
+                "id": "es-1272",
+                "w": "irá",
+                "p": "iˈɾa",
+                "d": "to go",
+                "s": "Él irá a Nueva York la semana que viene. (He is leaving for New York next week.)"
+            },
+            {
+                "id": "es-1273",
+                "w": "entrada",
+                "p": "enˈtɾada",
+                "d": "entrance",
+                "s": "Los manifestantes bloquearon la entrada. (The protesters barricaded the entrance.)"
+            },
+            {
+                "id": "es-1274",
+                "w": "doble",
+                "p": "ˈdoble",
+                "d": "double",
+                "s": "Esta caja es el doble de grande que ésa. (This box is twice as large as that one.)"
+            },
+            {
+                "id": "es-1275",
+                "w": "dejaré",
+                "p": "dexaˈɾe",
+                "d": "to leave",
+                "s": "No dejaré que Tom se case con mi hermana. (I won't let Tom marry my sister.)"
+            },
+            {
+                "id": "es-1276",
+                "w": "evitar",
+                "p": "ebiˈtaɾ",
+                "d": "to avoid",
+                "s": "Tom no pudo evitar preocuparse por Mary. (Tom couldn't help worrying about Mary.)"
+            },
+            {
+                "id": "es-1277",
+                "w": "máquina",
+                "p": "ˈmakina",
+                "d": "machine",
+                "s": "Mi madre me regaló una máquina de coser. (My mother gave me a sewing machine.)"
+            },
+            {
+                "id": "es-1278",
+                "w": "cuello",
+                "p": "ˈkweʝo",
+                "d": "neck",
+                "s": "Me gustaría retorcerle el cuello a Tom. (I'd like to wring Tom's neck.)"
+            },
+            {
+                "id": "es-1279",
+                "w": "conocí",
+                "p": "konoˈθi",
+                "d": "to know",
+                "s": "La conocí durante mi estancia en México. (I met her during my stay in Mexico.)"
+            },
+            {
+                "id": "es-1280",
+                "w": "tiempos",
+                "p": "tjempos",
+                "d": "time",
+                "s": "Eres el mejor papá de todos los tiempos. (You're the best dad ever.)"
+            },
+            {
+                "id": "es-1281",
+                "w": "tome",
+                "p": "tome",
+                "d": "to take",
+                "s": "Tome lo que necesite y dé lo que pueda. (Take what you need and give what you can.)"
+            },
+            {
+                "id": "es-1282",
+                "w": "animales",
+                "p": "animales",
+                "d": "animal",
+                "s": "No se puede dar de comer a los animales. (Visitors may not feed the animals.)"
+            },
+            {
+                "id": "es-1283",
+                "w": "acaso",
+                "p": "aˈkaso",
+                "d": "even",
+                "s": "¿Acaso Tom dejó a Mary conducir su auto? (Did Tom let Mary drive his car?)"
+            },
+            {
+                "id": "es-1284",
+                "w": "tuviera",
+                "p": "tuˈbjeɾa",
+                "d": "to have",
+                "s": "Ojalá tuviera mejores noticias para ti. (I wish I had better news for you.)"
+            },
+            {
+                "id": "es-1285",
+                "w": "pareja",
+                "p": "paˈɾexa",
+                "d": "couple",
+                "s": "La pareja decidió adoptar a un huérfano. (The couple decided to adopt an orphan.)"
+            },
+            {
+                "id": "es-1286",
+                "w": "verano",
+                "p": "beˈɾano",
+                "d": "summer",
+                "s": "Las vacaciones de verano se han acabado. (The summer vacation is over.)"
+            },
+            {
+                "id": "es-1287",
+                "w": "escuché",
+                "p": "eskuˈtʃe",
+                "d": "to listen to",
+                "s": "Escuché un golpe de la puerta delantera. (I heard the front door slam.)"
+            },
+            {
+                "id": "es-1288",
+                "w": "ama",
+                "p": "ˈama",
+                "d": "to love",
+                "s": "Tom no tiene idea de cuanto Mary lo ama. (Tom doesn't have any idea how much Mary loves him.)"
+            },
+            {
+                "id": "es-1289",
+                "w": "serás",
+                "p": "seˈɾas",
+                "d": "to be",
+                "s": "Dondequiera que vayas, serás bienvenido. (Wherever you go, you'll be welcomed.)"
+            },
+            {
+                "id": "es-1290",
+                "w": "mentira",
+                "p": "menˈtiɾa",
+                "d": "lie",
+                "s": "¿Cuál es el motivo para aquella mentira? (What is the reason for that lie?)"
+            },
+            {
+                "id": "es-1291",
+                "w": "tarjeta",
+                "p": "taɾˈxeta",
+                "d": "card",
+                "s": "Me olvidé mi tarjeta de crédito en casa. (I forgot my credit card at home.)"
+            },
+            {
+                "id": "es-1292",
+                "w": "hagan",
+                "p": "ˈaɡan",
+                "d": "to do",
+                "s": "Espero que tus deseos se hagan realidad. (I hope your wish will come true.)"
+            },
+            {
+                "id": "es-1293",
+                "w": "perdí",
+                "p": "peˈɾði",
+                "d": "to lose",
+                "s": "Me perdí la primera parte del concierto. (I missed the first part of the concert.)"
+            },
+            {
+                "id": "es-1294",
+                "w": "correr",
+                "p": "koˈreɾ",
+                "d": "to run",
+                "s": "Puedes correr, pero no puedes ocultarte. (You can run, but you can't hide.)"
+            },
+            {
+                "id": "es-1295",
+                "w": "traído",
+                "p": "tɾaˈido",
+                "d": "to bring",
+                "s": "La revolución ha traído muchos cambios. (The revolution has brought about many changes.)"
+            },
+            {
+                "id": "es-1296",
+                "w": "llegue",
+                "p": "ˈʝeɡe",
+                "d": "to arrive",
+                "s": "Estoy deseando que llegue mi cumpleaños. (I look forward to my birthday.)"
+            },
+            {
+                "id": "es-1297",
+                "w": "preparado",
+                "p": "pɾepaˈɾado",
+                "d": "prepared",
+                "s": "Nunca me comería algo preparado por Tom. (I would never eat anything that Tom makes.)"
+            },
+            {
+                "id": "es-1298",
+                "w": "haberlo",
+                "p": "aˈbeɾlo",
+                "d": "to have",
+                "s": "Deberías haberlo ayudado con su trabajo. (You should have helped him with his work.)"
+            },
+            {
+                "id": "es-1299",
+                "w": "tony",
+                "p": "ˈtoni",
+                "d": "circus clown",
+                "s": ""
+            },
+            {
+                "id": "es-1300",
+                "w": "usa",
+                "p": "ˈusa",
+                "d": "to use",
+                "s": "María usa con frecuencia ropa sugerente. (Mary often wears revealing clothes.)"
+            },
+            {
+                "id": "es-1301",
+                "w": "intentar",
+                "p": "intenˈtaɾ",
+                "d": "to try",
+                "s": "No puedes culpar a alguien por intentar. (You can't blame a guy for trying.)"
+            },
+            {
+                "id": "es-1302",
+                "w": "ayudarme",
+                "p": "aʝuðaɾme",
+                "d": "to help",
+                "s": "\"¿Alguien puede ayudarme?\" \"Yo lo haré\". (\"Can somebody help me?\" \"I will.\")"
+            },
+            {
+                "id": "es-1303",
+                "w": "flores",
+                "p": "ˈfloɾes",
+                "d": "flower",
+                "s": "Me gusta estudiar las flores silvestres. (I like studying wild flowers.)"
+            },
+            {
+                "id": "es-1304",
+                "w": "dando",
+                "p": "ˈdando",
+                "d": "to give",
+                "s": "Le está dando dos manzanas a cada niño. (She's giving each child two apples.)"
+            },
+            {
+                "id": "es-1305",
+                "w": "vos",
+                "p": "ˈbos",
+                "d": "you",
+                "s": "Nunca más voy a volver a confiar en vos. (I'm never going to trust you again.)"
+            },
+            {
+                "id": "es-1306",
+                "w": "opción",
+                "p": "obˈθjon",
+                "d": "option",
+                "s": "Por desgracia no nos queda otra opción. (I'm afraid we have no choice.)"
+            },
+            {
+                "id": "es-1307",
+                "w": "isla",
+                "p": "ˈisla",
+                "d": "island",
+                "s": "Por aquel tiempo nadie vivía en la isla. (No one lived on the island at that time.)"
+            },
+            {
+                "id": "es-1308",
+                "w": "cierra",
+                "p": "ˈθjera",
+                "d": "to close",
+                "s": "Cierra los ojos e inspira profundamente. (Close your eyes and take a deep breath.)"
+            },
+            {
+                "id": "es-1309",
+                "w": "piel",
+                "p": "ˈpjel",
+                "d": "skin",
+                "s": "La psoriasis es una enfermedad de la piel. (Psoriasis is a skin disease.)"
+            },
+            {
+                "id": "es-1310",
+                "w": "enemigo",
+                "p": "eneˈmiɡo",
+                "d": "foe",
+                "s": "Pensé que el enemigo había matado a Tom. (I thought the enemy had killed Tom.)"
+            },
+            {
+                "id": "es-1311",
+                "w": "dejo",
+                "p": "ˈdexo",
+                "d": "accent",
+                "s": "Tom le dejo irse a casa temprano a Mary. (Tom allowed Mary to go home early.)"
+            },
+            {
+                "id": "es-1312",
+                "w": "exacto",
+                "p": "eɡˈsaɡto",
+                "d": "exact",
+                "s": "Mi cumpleaños es dentro de un mes exacto. (My birthday is one month from today.)"
+            },
+            {
+                "id": "es-1313",
+                "w": "imbécil",
+                "p": "imˈbeθil",
+                "d": "dumb",
+                "s": "No te comportes como un imbécil. (Don't act like a jerk.)"
+            },
+            {
+                "id": "es-1314",
+                "w": "jóvenes",
+                "p": "ˈxobenes",
+                "d": "young",
+                "s": "La tienda estaba abarrotada de jóvenes. (The shop was crowded with young people.)"
+            },
+            {
+                "id": "es-1315",
+                "w": "pedido",
+                "p": "peˈdido",
+                "d": "order",
+                "s": "Tom debería haberle pedido ayuda a Mary. (Tom should've asked Mary for help.)"
+            },
+            {
+                "id": "es-1316",
+                "w": "larga",
+                "p": "ˈlaɾɡa",
+                "d": "long",
+                "s": "¡Brindemos por una larga y dichosa vida! (Here's to a long and happy life!)"
+            },
+            {
+                "id": "es-1317",
+                "w": "entiende",
+                "p": "entjende",
+                "d": "to understand",
+                "s": "Tom no entiende lo que quieres que haga. (Tom doesn't understand what you want him to do.)"
+            },
+            {
+                "id": "es-1318",
+                "w": "justicia",
+                "p": "xusˈtiθja",
+                "d": "justice",
+                "s": "La justicia se encuentra en la corte. (Justice is found in a courtroom.)"
+            },
+            {
+                "id": "es-1319",
+                "w": "nuevos",
+                "p": "ˈnwebos",
+                "d": "new",
+                "s": "Tengo que comprarme unos esquíes nuevos. (I need to buy new skis.)"
+            },
+            {
+                "id": "es-1320",
+                "w": "obviamente",
+                "p": "ˌobbjaˈmente",
+                "d": "obviously",
+                "s": "Tom obviamente está enamorado de María. (Tom is obviously in love with Mary.)"
+            },
+            {
+                "id": "es-1321",
+                "w": "despierta",
+                "p": "desˈpjeɾta",
+                "d": "to wake",
+                "s": "Mary estuvo despierta hasta tarde anoche. (Mary stayed up late last night.)"
+            },
+            {
+                "id": "es-1322",
+                "w": "pido",
+                "p": "ˈpido",
+                "d": "to ask for something",
+                "s": "Pido disculpas por haberte molestado así. (I apologize for disturbing you like this.)"
+            },
+            {
+                "id": "es-1323",
+                "w": "calor",
+                "p": "kaˈloɾ",
+                "d": "heat",
+                "s": "En esta habitación hace demasiado calor. (This room is too hot.)"
+            },
+            {
+                "id": "es-1324",
+                "w": "luces",
+                "p": "ˈluθes",
+                "d": "light",
+                "s": "¿Quieres las luces prendidas o apagadas? (Do you want the lights on or off?)"
+            },
+            {
+                "id": "es-1325",
+                "w": "refiero",
+                "p": "refjeɾo",
+                "d": "to report",
+                "s": "Ahora ella entiende a qué me refiero. (Now she understands what I mean.)"
+            },
+            {
+                "id": "es-1326",
+                "w": "fuimos",
+                "p": "ˈfwimos",
+                "d": "to go",
+                "s": "El viernes pasado nos fuimos a un baile. (We went to a dance last Friday.)"
+            },
+            {
+                "id": "es-1327",
+                "w": "batalla",
+                "p": "baˈtaʝa",
+                "d": "battle",
+                "s": "Ellos habían sido derrotados en batalla. (They had been defeated in battle.)"
+            },
+            {
+                "id": "es-1328",
+                "w": "déjalo",
+                "p": "",
+                "d": "to leave",
+                "s": "Déjalo. Estás haciendo el ridículo. (Stop it. You're being ridiculous.)"
+            },
+            {
+                "id": "es-1329",
+                "w": "intenta",
+                "p": "intenta",
+                "d": "to try",
+                "s": "Ella siempre intenta ayudar a los otros. (She always tries to help others.)"
+            },
+            {
+                "id": "es-1330",
+                "w": "fantástico",
+                "p": "fanˈtastiko",
+                "d": "fantastic",
+                "s": "Su interpretación en el piano sonó fantástico. (His piano playing sounded fantastic.)"
+            },
+            {
+                "id": "es-1331",
+                "w": "brazo",
+                "p": "ˈbɾaθo",
+                "d": "arm",
+                "s": "El policía cogió al hombre por el brazo. (The policeman caught the man by the arm.)"
+            },
+            {
+                "id": "es-1332",
+                "w": "absolutamente",
+                "p": "absoˌlutaˈmente",
+                "d": "absolutely",
+                "s": "Tu conducta es absolutamente vergonzosa. (Your conduct is absolutely shameful.)"
+            },
+            {
+                "id": "es-1333",
+                "w": "llena",
+                "p": "ˈʝena",
+                "d": "full",
+                "s": "Él tiene una gran cesta llena de flores. (He has a large basket full of flowers.)"
+            },
+            {
+                "id": "es-1334",
+                "w": "hacerme",
+                "p": "aθeɾme",
+                "d": "to do",
+                "s": "Voy a ir al hospital a hacerme un chequeo. (I'm going to the hospital to get a check-up.)"
+            },
+            {
+                "id": "es-1335",
+                "w": "salga",
+                "p": "ˈsalɡa",
+                "d": "to go out",
+                "s": "Salga de aquí antes de que Tom le pegue. (Get out of here before Tom hits you.)"
+            },
+            {
+                "id": "es-1336",
+                "w": "recordar",
+                "p": "rekoɾˈdaɾ",
+                "d": "to remember",
+                "s": "No puedo recordar jamás haber hecho eso. (I can't remember ever doing that.)"
+            },
+            {
+                "id": "es-1337",
+                "w": "escapar",
+                "p": "eskaˈpaɾ",
+                "d": "to escape",
+                "s": "Tom ayudó a Mary a escapar de la prisión. (Tom helped Mary escape from prison.)"
+            },
+            {
+                "id": "es-1338",
+                "w": "bosque",
+                "p": "ˈboske",
+                "d": "forest",
+                "s": "El príncipe estaba perdido en el bosque. (The prince was lost in the woods.)"
+            },
+            {
+                "id": "es-1339",
+                "w": "gay",
+                "p": "ˈɡei",
+                "d": "gay",
+                "s": "El matrimonio gay es legal acá. (Gay marriage is legal here.)"
+            },
+            {
+                "id": "es-1340",
+                "w": "señores",
+                "p": "seɲoɾes",
+                "d": "mister",
+                "s": "Vayan con estos señores. (Go with these men.)"
+            },
+            {
+                "id": "es-1341",
+                "w": "quedan",
+                "p": "keðan",
+                "d": "to be",
+                "s": "Me quedan otras dos cartas por escribir. (I have another two letters to write.)"
+            },
+            {
+                "id": "es-1342",
+                "w": "piernas",
+                "p": "ˈpjeɾnas",
+                "d": "leg",
+                "s": "Sufro del síndrome de piernas inquietas. (I suffer from restless leg syndrome.)"
+            },
+            {
+                "id": "es-1343",
+                "w": "visita",
+                "p": "biˈsita",
+                "d": "visit",
+                "s": "¿Por qué no le hacemos una visita a Tom? (Why don't we pay Tom a visit?)"
+            },
+            {
+                "id": "es-1344",
+                "w": "parís",
+                "p": "paˈɾis",
+                "d": "to explain",
+                "s": "Todavía quedan 50 kilómetros hasta París. (It's fifty kilometers to Paris.)"
+            },
+            {
+                "id": "es-1345",
+                "w": "usando",
+                "p": "uˈsando",
+                "d": "to use",
+                "s": "Mary está usando un hermoso vestido rojo. (Mary is wearing a beautiful red dress.)"
+            },
+            {
+                "id": "es-1346",
+                "w": "ganado",
+                "p": "ɡaˈnado",
+                "d": "livestock",
+                "s": "Un centavo ahorrado es un centavo ganado. (A penny saved is a penny earned.)"
+            },
+            {
+                "id": "es-1347",
+                "w": "movimiento",
+                "p": "mobiˈmjento",
+                "d": "movement",
+                "s": "La primera escena tiene mucho movimiento. (The first scene has a lot of action.)"
+            },
+            {
+                "id": "es-1348",
+                "w": "blanca",
+                "p": "ˈblanka",
+                "d": "white",
+                "s": "La blanca nieve cubrió los rojos techos. (The white snow covered the red roofs.)"
+            },
+            {
+                "id": "es-1349",
+                "w": "rico",
+                "p": "ˈriko",
+                "d": "rich",
+                "s": "Ella le ignoraba hasta que se hizo rico. (She ignored him until he became rich.)"
+            },
+            {
+                "id": "es-1350",
+                "w": "inocente",
+                "p": "inoˈθente",
+                "d": "innocent",
+                "s": "Estoy convencido de que Tom es inocente. (I'm convinced Tom is innocent.)"
+            },
+            {
+                "id": "es-1351",
+                "w": "pesar",
+                "p": "peˈsaɾ",
+                "d": "grief",
+                "s": "No era feliz a pesar de toda su fortuna. (He wasn't happy in spite of all his wealth.)"
+            },
+            {
+                "id": "es-1352",
+                "w": "absoluto",
+                "p": "absoˈluto",
+                "d": "absolute",
+                "s": "Tom no conocía en absoluto a esa mujer. (Tom didn't know that woman at all.)"
+            },
+            {
+                "id": "es-1353",
+                "w": "vacaciones",
+                "p": "bakaˈθjones",
+                "d": "vacation",
+                "s": "Las vacaciones se me han pasado volando. (My vacation went by quickly.)"
+            },
+            {
+                "id": "es-1354",
+                "w": "mismos",
+                "p": "ˈmismos",
+                "d": "same",
+                "s": "Podíais haberlo hecho vosotros mismos. (You could do that yourself.)"
+            },
+            {
+                "id": "es-1355",
+                "w": "tomado",
+                "p": "toˈmado",
+                "d": "to take",
+                "s": "Él debe haber tomado el tren equivocado. (He may have taken the wrong train.)"
+            },
+            {
+                "id": "es-1356",
+                "w": "habías",
+                "p": "aˈbias",
+                "d": "to have",
+                "s": "Pensé que habías dicho que estabas sola. (I thought you said you were alone.)"
+            },
+            {
+                "id": "es-1357",
+                "w": "planes",
+                "p": "ˈplanes",
+                "d": "plan",
+                "s": "El mal tiempo desbarató nuestros planes. (The bad weather ruined our plans.)"
+            },
+            {
+                "id": "es-1358",
+                "w": "cine",
+                "p": "ˈθine",
+                "d": "cinema",
+                "s": "¿Quién es tu director de cine preferido? (Who's your favorite movie director?)"
+            },
+            {
+                "id": "es-1359",
+                "w": "toca",
+                "p": "ˈtoka",
+                "d": "to touch",
+                "s": "Mi hermana toca el piano todos los días. (My sister plays the piano every day.)"
+            },
+            {
+                "id": "es-1360",
+                "w": "brillante",
+                "p": "bɾiˈʝante",
+                "d": "bright",
+                "s": "No me gusta este papel; es muy brillante. (I don't like this paper. It's too shiny.)"
+            },
+            {
+                "id": "es-1361",
+                "w": "confianza",
+                "p": "konˈfjanθa",
+                "d": "confidence",
+                "s": "¿Por qué no tiene usted confianza en mí? (Why don't you trust me?)"
+            },
+            {
+                "id": "es-1362",
+                "w": "vuestra",
+                "p": "ˈbwestɾa",
+                "d": "yours",
+                "s": "Me gustaría hablar de vuestra situación. (I'd like to talk about your situation.)"
+            },
+            {
+                "id": "es-1363",
+                "w": "nombres",
+                "p": "ˈnombɾes",
+                "d": "name",
+                "s": "No me puedo acordar de todos sus nombres. (I can't remember all their names.)"
+            },
+            {
+                "id": "es-1364",
+                "w": "especialmente",
+                "p": "espeˌθjalˈmente",
+                "d": "specially",
+                "s": "Usted no parece especialmente complacido. (You don't seem particularly pleased.)"
+            },
+            {
+                "id": "es-1365",
+                "w": "embarazada",
+                "p": "embaɾaˈθada",
+                "d": "pregnant",
+                "s": "Escuché que María estaba embarazada. (I heard that Mary was pregnant.)"
+            },
+            {
+                "id": "es-1366",
+                "w": "esperen",
+                "p": "espeɾen",
+                "d": "to hope",
+                "s": "Esperen aquí mientras recojo sus chaquetas. (Wait here while I go get your jackets.)"
+            },
+            {
+                "id": "es-1367",
+                "w": "pantalones",
+                "p": "pantaˈlones",
+                "d": "pants",
+                "s": "A Tom le gusta usar pantalones ajustados. (Tom likes to wear tight pants.)"
+            },
+            {
+                "id": "es-1368",
+                "w": "defensa",
+                "p": "deˈfensa",
+                "d": "defense",
+                "s": "Tom alegó que mató a Mary en defensa propia. (Tom claimed he killed Mary in self-defense.)"
+            },
+            {
+                "id": "es-1369",
+                "w": "terminó",
+                "p": "teɾmiˈno",
+                "d": "to finish",
+                "s": "Él terminó tan rápido como el relámpago. (He finished it as quick as lightning.)"
+            },
+            {
+                "id": "es-1370",
+                "w": "salido",
+                "p": "saˈlido",
+                "d": "to go out",
+                "s": "Me ha salido una calentura en el labio. (I've got a cold sore on my lip.)"
+            },
+            {
+                "id": "es-1371",
+                "w": "estupendo",
+                "p": "estuˈpendo",
+                "d": "stupendous",
+                "s": "El toque de guitarra de Tom es estupendo. (Tom's guitar playing is amazing.)"
+            },
+            {
+                "id": "es-1372",
+                "w": "presión",
+                "p": "pɾeˈsjon",
+                "d": "pressure",
+                "s": "Me gustaría revisar tu presión de sangre. (I'd like to check your blood pressure.)"
+            },
+            {
+                "id": "es-1373",
+                "w": "inmediatamente",
+                "p": "immeˌdjataˈmente",
+                "d": "immediately",
+                "s": "Su atractivo no es inmediatamente obvio. (Her attractiveness is not immediately obvious.)"
+            },
+            {
+                "id": "es-1374",
+                "w": "testigo",
+                "p": "tesˈtiɡo",
+                "d": "witness",
+                "s": "¿Tú crees en la declaración del testigo? (Do you believe the witness's statement?)"
+            },
+            {
+                "id": "es-1375",
+                "w": "deberían",
+                "p": "debeˈɾian",
+                "d": "to owe",
+                "s": "Ustedes deberían hacer reparar su coche. (You should get his car fixed.)"
+            },
+            {
+                "id": "es-1376",
+                "w": "olvidado",
+                "p": "olbiˈdado",
+                "d": "forgotten",
+                "s": "¿Estás seguro de no haber olvidado nada? (Are you sure you haven't forgotten anything?)"
+            },
+            {
+                "id": "es-1377",
+                "w": "soldados",
+                "p": "solˈdados",
+                "d": "soldier",
+                "s": "Los soldados estaban marcando el tiempo. (The soldiers were marking time.)"
+            },
+            {
+                "id": "es-1378",
+                "w": "resulta",
+                "p": "resulta",
+                "d": "to result",
+                "s": "La historia me resulta muy interesante. (The story is very interesting to me.)"
+            },
+            {
+                "id": "es-1379",
+                "w": "depende",
+                "p": "depende",
+                "d": "to depend",
+                "s": "Él depende financieramente de su esposa. (He's financially dependent on his wife.)"
+            },
+            {
+                "id": "es-1380",
+                "w": "motivo",
+                "p": "moˈtibo",
+                "d": "reason",
+                "s": "¿Cuál es el motivo para aquella mentira? (What is the reason for that lie?)"
+            },
+            {
+                "id": "es-1381",
+                "w": "inglés",
+                "p": "inˈɡles",
+                "d": "English",
+                "s": "¿La señora Smith es profesora de inglés? (Is Mrs. Smith an English teacher?)"
+            },
+            {
+                "id": "es-1382",
+                "w": "suya",
+                "p": "ˈsuʝa",
+                "d": "his",
+                "s": "Nuestra escuela es más grande que la suya. (Our school is larger than theirs.)"
+            },
+            {
+                "id": "es-1383",
+                "w": "estudio",
+                "p": "esˈtudjo",
+                "d": "study",
+                "s": "¿Por qué no hacemos un grupo de estudio? (Why don't we form a study group?)"
+            },
+            {
+                "id": "es-1384",
+                "w": "acabar",
+                "p": "akaˈbaɾ",
+                "d": "to finish",
+                "s": "Se debería acabar con una costumbre así. (Such a custom should be done away with.)"
+            },
+            {
+                "id": "es-1385",
+                "w": "sentimientos",
+                "p": "sentiˈmjentos",
+                "d": "feeling",
+                "s": "No quiero herir los sentimientos de Tom. (I don't want to hurt Tom's feelings.)"
+            },
+            {
+                "id": "es-1386",
+                "w": "tomando",
+                "p": "tomando",
+                "d": "to take",
+                "s": "Tom está en la otra sala tomando vodka. (Tom is in the other room drinking vodka.)"
+            },
+            {
+                "id": "es-1387",
+                "w": "dieron",
+                "p": "ˈdjeɾon",
+                "d": "to give",
+                "s": "Tom y Mary se dieron un apretón de manos. (Tom shook hands with Mary.)"
+            },
+            {
+                "id": "es-1388",
+                "w": "parecen",
+                "p": "paɾeθen",
+                "d": "to seem",
+                "s": "Tom y Mary no parecen demasiado felices. (Tom and Mary don't seem too happy.)"
+            },
+            {
+                "id": "es-1389",
+                "w": "llaves",
+                "p": "ˈʝabes",
+                "d": "key",
+                "s": "Tom tuvo suerte de encontrar sus llaves. (Tom was lucky to find his keys.)"
+            },
+            {
+                "id": "es-1390",
+                "w": "perros",
+                "p": "peros",
+                "d": "dog",
+                "s": "Me gustan los perros más que los gatos. (I like dogs more than cats.)"
+            },
+            {
+                "id": "es-1391",
+                "w": "propósito",
+                "p": "pɾoˈposito",
+                "d": "purpose",
+                "s": "¿Por qué alguien haría eso a propósito? (Why would anyone do that on purpose?)"
+            },
+            {
+                "id": "es-1392",
+                "w": "noticia",
+                "p": "noˈtiθja",
+                "d": "notice",
+                "s": "Nos sorprendimos al escuchar la noticia. (We were surprised to hear the news.)"
+            },
+            {
+                "id": "es-1393",
+                "w": "partir",
+                "p": "paɾˈtiɾ",
+                "d": "to divide",
+                "s": "El queso es hecho a partir de la leche. (Cheese is made from milk.)"
+            },
+            {
+                "id": "es-1394",
+                "w": "vuestro",
+                "p": "ˈbwestɾo",
+                "d": "yours",
+                "s": "¿Vuestro perro os ha mordido alguna vez? (Has your dog ever bitten you?)"
+            },
+            {
+                "id": "es-1395",
+                "w": "metros",
+                "p": "ˈmetɾos",
+                "d": "meter",
+                "s": "La laguna tiene 3 metros de profundidad. (The pond is 3 meters deep.)"
+            },
+            {
+                "id": "es-1396",
+                "w": "santa",
+                "p": "ˈsanta",
+                "d": "holy",
+                "s": "¿Creías en Santa Claus cuando eras niño? (Did you believe in Santa Claus when you were a child?)"
+            },
+            {
+                "id": "es-1397",
+                "w": "quedarse",
+                "p": "keðaɾse",
+                "d": "to be",
+                "s": "Tomás está comenzando a quedarse pelado. (Tom's starting to go bald.)"
+            },
+            {
+                "id": "es-1398",
+                "w": "clientes",
+                "p": "kljentes",
+                "d": "client",
+                "s": "Tom es uno de nuestros antiguos clientes. (Tom is one of our former clients.)"
+            },
+            {
+                "id": "es-1399",
+                "w": "podrá",
+                "p": "poˈðɾa",
+                "d": "to be able to",
+                "s": "Estoy seguro de que Tom podrá hacer eso. (I'm sure Tom will be able to do that.)"
+            },
+            {
+                "id": "es-1400",
+                "w": "cuántas",
+                "p": "ˈkwantas",
+                "d": "how many",
+                "s": "Exactamente, ¿cuántas veces hiciste eso? (Exactly how many times did you do that?)"
+            },
+            {
+                "id": "es-1401",
+                "w": "ridículo",
+                "p": "riˈdikulo",
+                "d": "ridiculous",
+                "s": "Parte de lo que dijiste suena ridículo. (Some of what you said sounded stupid.)"
+            },
+            {
+                "id": "es-1402",
+                "w": "damas",
+                "p": "ˈdamas",
+                "d": "checkers",
+                "s": "En aquellos días me encantaba jugar damas. (Back in those days, I loved to play checkers.)"
+            },
+            {
+                "id": "es-1403",
+                "w": "estuviste",
+                "p": "estuˈbiste",
+                "d": "to be",
+                "s": "Por fin averigüé dónde estuviste anoche. (I finally found out where you were last night.)"
+            },
+            {
+                "id": "es-1404",
+                "w": "tranquila",
+                "p": "tɾanˈkila",
+                "d": "calm",
+                "s": "Déjame tranquila o llamaré a seguridad. (Leave me alone or I'm going to call security.)"
+            },
+            {
+                "id": "es-1405",
+                "w": "operación",
+                "p": "opeɾaˈθjon",
+                "d": "operation",
+                "s": "A la larga, Tom requerirá una operación. (Tom will eventually need an operation.)"
+            },
+            {
+                "id": "es-1406",
+                "w": "come",
+                "p": "ˈkome",
+                "d": "to eat",
+                "s": "Tom comúnmente se come su almuerzo solo. (Tom usually eats his lunch alone.)"
+            },
+            {
+                "id": "es-1407",
+                "w": "empresa",
+                "p": "emˈpɾesa",
+                "d": "company",
+                "s": "Él ha fundado una empresa recientemente. (He set up a company recently.)"
+            },
+            {
+                "id": "es-1408",
+                "w": "ayúdame",
+                "p": "",
+                "d": "to help",
+                "s": "Por favor, ayúdame a abrir esta puerta. (Please help me open this door.)"
+            },
+            {
+                "id": "es-1409",
+                "w": "laboratorio",
+                "p": "laboɾaˈtoɾjo",
+                "d": "laboratory",
+                "s": "Están en el laboratorio de ciencias. (They're in the science lab.)"
+            },
+            {
+                "id": "es-1410",
+                "w": "elección",
+                "p": "eleɡˈθjon",
+                "d": "election",
+                "s": "Tom tuvo que hacer una difícil elección. (Tom had to make a difficult decision.)"
+            },
+            {
+                "id": "es-1411",
+                "w": "menudo",
+                "p": "meˈnudo",
+                "d": "what",
+                "s": "Tom sufre a menudo de dolores de cabeza. (Tom often suffers from headaches.)"
+            },
+            {
+                "id": "es-1412",
+                "w": "beso",
+                "p": "ˈbeso",
+                "d": "kiss",
+                "s": "Tom le dio un beso en la mejilla a Mary. (Tom gave Mary a kiss on the cheek.)"
+            },
+            {
+                "id": "es-1413",
+                "w": "copa",
+                "p": "ˈkopa",
+                "d": "stemmed glass",
+                "s": "Tomás le ofreció una copa de vino a María. (Tom offered Mary a glass of wine.)"
+            },
+            {
+                "id": "es-1414",
+                "w": "conversación",
+                "p": "kombeɾsaˈθjon",
+                "d": "conversation",
+                "s": "¿Cuál es tema de conversación preferido? (What's your favorite topic of conversation?)"
+            },
+            {
+                "id": "es-1415",
+                "w": "brazos",
+                "p": "ˈbɾaθos",
+                "d": "arm",
+                "s": "Tus brazos son más largos que los míos. (Your arms are longer than mine.)"
+            },
+            {
+                "id": "es-1416",
+                "w": "espíritu",
+                "p": "esˈpiɾitu",
+                "d": "spirit",
+                "s": "Ella parece poseída por un espíritu maligno. (She seems to be possessed by an evil spirit.)"
+            },
+            {
+                "id": "es-1417",
+                "w": "dejas",
+                "p": "ˈdexas",
+                "d": "to leave",
+                "s": "Si me dejas hablar, podré explicar todo. (If you allow me to speak, I'll be able to explain everything.)"
+            },
+            {
+                "id": "es-1418",
+                "w": "cansado",
+                "p": "kanˈsado",
+                "d": "tired",
+                "s": "Estoy tan cansado que no puedo estudiar. (I am so tired that I can't study.)"
+            },
+            {
+                "id": "es-1419",
+                "w": "interesa",
+                "p": "inteɾesa",
+                "d": "to interest",
+                "s": "¿De verdad te interesa lo que yo pienso? (Do you really care what I think?)"
+            },
+            {
+                "id": "es-1420",
+                "w": "refieres",
+                "p": "refjeɾes",
+                "d": "to report",
+                "s": "Asumo que te refieres al problema de Tom. (I assume you're referring to Tom's problem.)"
+            },
+            {
+                "id": "es-1421",
+                "w": "casado",
+                "p": "kaˈsado",
+                "d": "married",
+                "s": "Ojalá me hubiera casado con otro hombre. (I wish I'd married another man.)"
+            },
+            {
+                "id": "es-1422",
+                "w": "enorme",
+                "p": "eˈnoɾme",
+                "d": "enormous",
+                "s": "La niña tenía una enorme caja de muñecas. (The girl had a huge box of dolls.)"
+            },
+            {
+                "id": "es-1423",
+                "w": "asuntos",
+                "p": "asuntos",
+                "d": "matter",
+                "s": "Ocúpate sólo de tus asuntos, por favor. (Just mind your own business, please.)"
+            },
+            {
+                "id": "es-1424",
+                "w": "fe",
+                "p": "ˈfe",
+                "d": "faith",
+                "s": "Tengo fe en que él mantendrá su promesa. (I am confident he will keep his promise.)"
+            },
+            {
+                "id": "es-1425",
+                "w": "muestra",
+                "p": "ˈmwestɾa",
+                "d": "sample",
+                "s": "Necesitamos tomar una muestra de sangre. (We need to get a blood sample.)"
+            },
+            {
+                "id": "es-1426",
+                "w": "trampa",
+                "p": "ˈtɾampa",
+                "d": "trap",
+                "s": "Tom hizo trampa en su prueba de historia. (Tom cheated on his history test.)"
+            },
+            {
+                "id": "es-1427",
+                "w": "memoria",
+                "p": "meˈmoɾja",
+                "d": "memory",
+                "s": "No deberías confiar tanto en tu memoria. (You shouldn't trust your memory so much.)"
+            },
+            {
+                "id": "es-1428",
+                "w": "contrario",
+                "p": "konˈtɾaɾjo",
+                "d": "contrary",
+                "s": "No tengo ninguna prueba de lo contrario. (I have no proof to the contrary.)"
+            },
+            {
+                "id": "es-1429",
+                "w": "soldado",
+                "p": "solˈdado",
+                "d": "soldier",
+                "s": "El soldado apuntó con su arma al hombre. (The soldier aimed his gun at the man.)"
+            },
+            {
+                "id": "es-1430",
+                "w": "subir",
+                "p": "suˈbiɾ",
+                "d": "to go up or come up",
+                "s": "He oído que nos iban a subir el alquiler. (I heard they're going to raise our rent.)"
+            },
+            {
+                "id": "es-1431",
+                "w": "turno",
+                "p": "ˈtuɾno",
+                "d": "turn shared in sequence with others",
+                "s": "Era mi turno para limpiar la habitación. (It was my turn to clean the room.)"
+            },
+            {
+                "id": "es-1432",
+                "w": "encantaría",
+                "p": "enkantaˈɾia",
+                "d": "to charm",
+                "s": "Me encantaría tenerte entre mis brazos. (I'd love to hold you in my arms.)"
+            },
+            {
+                "id": "es-1433",
+                "w": "preocupado",
+                "p": "pɾeokuˈpado",
+                "d": "worried",
+                "s": "Estaba preocupado por razones evidentes. (I was concerned for obvious reasons.)"
+            },
+            {
+                "id": "es-1434",
+                "w": "restaurante",
+                "p": "restauˈɾante",
+                "d": "restaurant",
+                "s": "Encontré este restaurante de casualidad. (I found this restaurant by chance.)"
+            },
+            {
+                "id": "es-1435",
+                "w": "saliendo",
+                "p": "saljendo",
+                "d": "to go out",
+                "s": "Me están saliendo las muelas del juicio. (My wisdom teeth are coming in.)"
+            },
+            {
+                "id": "es-1436",
+                "w": "escrito",
+                "p": "esˈkɾito",
+                "d": "written",
+                "s": "Él ha escrito cinco libros hasta ahora. (He has written five books so far.)"
+            },
+            {
+                "id": "es-1437",
+                "w": "cálmate",
+                "p": "",
+                "d": "to calm",
+                "s": "Respira profundo y cálmate. (Take a deep breath and calm down.)"
+            },
+            {
+                "id": "es-1438",
+                "w": "bienvenida",
+                "p": "bjembeˈnida",
+                "d": "welcome",
+                "s": "Me gustaría darles la bienvenida a bordo. (I'd like to welcome you all aboard.)"
+            },
+            {
+                "id": "es-1439",
+                "w": "caer",
+                "p": "kaˈeɾ",
+                "d": "to fall",
+                "s": "Tenga cuidado, no deje caer la bandeja. (Be careful. Don't drop the tray.)"
+            },
+            {
+                "id": "es-1440",
+                "w": "llevaré",
+                "p": "ʎeβaˈɾe",
+                "d": "to take somewhere",
+                "s": "Mañana llevaré los libros a la biblioteca. (Tomorrow, I'll take the books to the library.)"
+            },
+            {
+                "id": "es-1441",
+                "w": "leche",
+                "p": "ˈlet͡ʃe",
+                "d": "milk",
+                "s": "Bebo leche prácticamente todos los días. (I drink milk almost every day.)"
+            },
+            {
+                "id": "es-1442",
+                "w": "estrellas",
+                "p": "esˈtɾeʝas",
+                "d": "star",
+                "s": "Puedes ver muchas estrellas en el cielo. (You can see a lot of stars in the sky.)"
+            },
+            {
+                "id": "es-1443",
+                "w": "prefiero",
+                "p": "pɾefjeɾo",
+                "d": "to prefer",
+                "s": "Yo prefiero pasar tiempo dentro de casa. (I prefer spending time indoors.)"
+            },
+            {
+                "id": "es-1444",
+                "w": "red",
+                "p": "ˈred",
+                "d": "web",
+                "s": "¿Quiere ayudarme a bajar las maletas de la red? (Will you help me take the suitcases down from the rack?)"
+            },
+            {
+                "id": "es-1445",
+                "w": "viejos",
+                "p": "bjexos",
+                "d": "old",
+                "s": "Me recuerda a los buenos viejos tiempos. (It reminds me of the good old times.)"
+            },
+            {
+                "id": "es-1446",
+                "w": "solamente",
+                "p": "ˌsolaˈmente",
+                "d": "only",
+                "s": "Esa es solamente una solución temporal. (That's only a temporary solution.)"
+            },
+            {
+                "id": "es-1447",
+                "w": "oiga",
+                "p": "ˈoiɡa",
+                "d": "to hear",
+                "s": "No quiero que Tom oiga de esto. (I don't want Tom to hear about this.)"
+            },
+            {
+                "id": "es-1448",
+                "w": "estén",
+                "p": "esˈten",
+                "d": "to be",
+                "s": "Hay poca esperanza de que estén vivos. (There is little hope that they are alive.)"
+            },
+            {
+                "id": "es-1449",
+                "w": "cuentas",
+                "p": "ˈkwentas",
+                "d": "count",
+                "s": "¿Por qué no me cuentas qué recuerdas? (Why don't you tell me what you remember?)"
+            },
+            {
+                "id": "es-1450",
+                "w": "taxi",
+                "p": "ˈtaɡsi",
+                "d": "taxi",
+                "s": "Necesito un taxi que vaya al aeropuerto. (I need a taxi to the airport.)"
+            },
+            {
+                "id": "es-1451",
+                "w": "anillo",
+                "p": "aˈniʝo",
+                "d": "ring",
+                "s": "¿Ese anillo está hecho de oro auténtico? (Is that ring made of real gold?)"
+            },
+            {
+                "id": "es-1452",
+                "w": "preguntar",
+                "p": "pɾeɡunˈtaɾ",
+                "d": "to ask",
+                "s": "No dudéis en preguntar si no entendéis. (Don't hesitate to ask questions if you don't understand.)"
+            },
+            {
+                "id": "es-1453",
+                "w": "victoria",
+                "p": "biɡˈtoɾja",
+                "d": "victory",
+                "s": "Sin honor, la victoria pierde sentido. (Without honor, victory is hollow.)"
+            },
+            {
+                "id": "es-1454",
+                "w": "quiénes",
+                "p": "",
+                "d": "whom?",
+                "s": "Sabemos quiénes son nuestros enemigos. (We know who our enemies are.)"
+            },
+            {
+                "id": "es-1455",
+                "w": "héroe",
+                "p": "ˈeɾoe",
+                "d": "hero",
+                "s": "Aquiles era un héroe de la antigua Grecia. (Achilles was an ancient Greek hero.)"
+            },
+            {
+                "id": "es-1456",
+                "w": "pequeños",
+                "p": "peˈkeɲos",
+                "d": "small",
+                "s": "Mis pies son más pequeños que los tuyos. (My feet are smaller than yours.)"
+            },
+            {
+                "id": "es-1457",
+                "w": "decidido",
+                "p": "deθiˈdido",
+                "d": "decided",
+                "s": "¿Has decidido ya dónde ir de vacaciones? (Have you made up your mind where to go for the holidays?)"
+            },
+            {
+                "id": "es-1458",
+                "w": "películas",
+                "p": "peˈlikulas",
+                "d": "film",
+                "s": "A Tom le gustan las películas de acción. (Tom likes action movies.)"
+            },
+            {
+                "id": "es-1459",
+                "w": "responsable",
+                "p": "responˈsable",
+                "d": "responsible",
+                "s": "Soy responsable de mis propias acciones. (I'm responsible for my own actions.)"
+            },
+            {
+                "id": "es-1460",
+                "w": "trago",
+                "p": "ˈtɾaɡo",
+                "d": "gulp",
+                "s": "Nuestro anfitrión nos ofreció un trago. (Our host offered us a drink.)"
+            },
+            {
+                "id": "es-1461",
+                "w": "volverá",
+                "p": "bolbeˈɾa",
+                "d": "to return",
+                "s": "Estoy seguro de que ella volverá pronto. (I'm sure that she will come back soon.)"
+            },
+            {
+                "id": "es-1462",
+                "w": "árbol",
+                "p": "ˈaɾbol",
+                "d": "tree",
+                "s": "El muchacho talló su nombre en el árbol. (The boy carved his name in the tree.)"
+            },
+            {
+                "id": "es-1463",
+                "w": "ibas",
+                "p": "ˈibas",
+                "d": "to go",
+                "s": "Pensé que ibas a mantener a Tom ocupado. (I thought you were going to keep Tom busy.)"
+            },
+            {
+                "id": "es-1464",
+                "w": "dientes",
+                "p": "djentes",
+                "d": "tooth",
+                "s": "¿Dónde puedo encontrar pasta de dientes? (Where can I find toothpaste?)"
+            },
+            {
+                "id": "es-1465",
+                "w": "encantado",
+                "p": "enkanˈtado",
+                "d": "enchanted",
+                "s": "Estaría encantado de desayunar con usted. (I would be delighted to have breakfast with you.)"
+            },
+            {
+                "id": "es-1466",
+                "w": "camión",
+                "p": "kaˈmjon",
+                "d": "lorry",
+                "s": "¿Quién es el propietario de este camión? (Who owns this truck?)"
+            },
+            {
+                "id": "es-1467",
+                "w": "vender",
+                "p": "benˈdeɾ",
+                "d": "to sell",
+                "s": "¿Tiene usted licencia para vender licor? (Do you have a license to sell liquor?)"
+            },
+            {
+                "id": "es-1468",
+                "w": "llame",
+                "p": "ˈʝame",
+                "d": "to summon",
+                "s": "Si lo llegaras a ver, dile que me llame. (If you should meet him, tell him to call me up.)"
+            },
+            {
+                "id": "es-1469",
+                "w": "detente",
+                "p": "deˈtente",
+                "d": "to detain",
+                "s": "Detente. Estás actuando como un idiota. (Stop it. You're being ridiculous.)"
+            },
+            {
+                "id": "es-1470",
+                "w": "luchar",
+                "p": "luˈt͡ʃaɾ",
+                "d": "to fight",
+                "s": "Es algo por lo que vale la pena luchar. (It's something worth fighting for.)"
+            },
+            {
+                "id": "es-1471",
+                "w": "cabo",
+                "p": "ˈkabo",
+                "d": "end",
+                "s": "En seguida llevaron a cabo el proyecto. (They carried out the plan right away.)"
+            },
+            {
+                "id": "es-1472",
+                "w": "ruido",
+                "p": "ˈrwido",
+                "d": "noise",
+                "s": "Estoy hasta el gorro de todo este ruido. (I'm fed up with all this noise.)"
+            },
+            {
+                "id": "es-1473",
+                "w": "lucha",
+                "p": "ˈlut͡ʃa",
+                "d": "fight",
+                "s": "Estoy decidido a ganar esta lucha. (I'm determined to win this fight.)"
+            },
+            {
+                "id": "es-1474",
+                "w": "muere",
+                "p": "mweɾe",
+                "d": "to die",
+                "s": "Tom se muere de ganas de conocer a Mary. (Tom can't wait to meet Mary.)"
+            },
+            {
+                "id": "es-1475",
+                "w": "reloj",
+                "p": "reˈlox",
+                "d": "clock",
+                "s": "Me dio un reloj precioso, pero lo perdí. (She gave me a beautiful clock, but I lost it.)"
+            },
+            {
+                "id": "es-1476",
+                "w": "gato",
+                "p": "ˈɡato",
+                "d": "cat",
+                "s": "Tomás está jugando con el gato de María. (Tom is playing with Mary's cat.)"
+            },
+            {
+                "id": "es-1477",
+                "w": "averiguar",
+                "p": "abeɾiˈɡwaɾ",
+                "d": "to find out",
+                "s": "Quisiera averiguar más acerca de Boston. (I'd like to know more about Boston.)"
+            },
+            {
+                "id": "es-1478",
+                "w": "volar",
+                "p": "boˈlaɾ",
+                "d": "to fly",
+                "s": "Hay algunos pájaros que no pueden volar. (There are some birds that can't fly.)"
+            },
+            {
+                "id": "es-1479",
+                "w": "vayamos",
+                "p": "baˈʝamos",
+                "d": "to go",
+                "s": "Vayamos al grano y hablemos de negocios. (Let's get down to brass tacks and talk business.)"
+            },
+            {
+                "id": "es-1480",
+                "w": "tanta",
+                "p": "ˈtanta",
+                "d": "so much",
+                "s": "Ayudaremos a tanta gente como podamos. (We'll help as many people as we can.)"
+            },
+            {
+                "id": "es-1481",
+                "w": "vendrá",
+                "p": "benˈdɾa",
+                "d": "Senses relating to literal movement",
+                "s": "Tom duda si Mary vendrá al colegio hoy. (Tom doubts if Mary will come to school today.)"
+            },
+            {
+                "id": "es-1482",
+                "w": "corriendo",
+                "p": "korjendo",
+                "d": "to run",
+                "s": "El chico se fue corriendo cuando me vio. (The boy ran away when he saw me.)"
+            },
+            {
+                "id": "es-1483",
+                "w": "yendo",
+                "p": "ˈʝendo",
+                "d": "to go",
+                "s": "Pensaba que Tom estaba yendo a Harvard. (I thought Tom was going to Harvard.)"
+            },
+            {
+                "id": "es-1484",
+                "w": "colegio",
+                "p": "koˈlexjo",
+                "d": "school",
+                "s": "Fue el momento en que fuiste al colegio. (It is about time you went to school.)"
+            },
+            {
+                "id": "es-1485",
+                "w": "sonido",
+                "p": "soˈnido",
+                "d": "sound",
+                "s": "Tom oyó el sonido de vidrio quebrándose. (Tom heard the sound of breaking glass.)"
+            },
+            {
+                "id": "es-1486",
+                "w": "caballero",
+                "p": "kabaˈʝeɾo",
+                "d": "horseman",
+                "s": "Usted se puede retirar ahora, caballero. (You can go now, sir.)"
+            },
+            {
+                "id": "es-1487",
+                "w": "pasada",
+                "p": "paˈsada",
+                "d": "transit",
+                "s": "Tuve un sueño agradable la pasada noche. (I had a pleasant dream last night.)"
+            },
+            {
+                "id": "es-1488",
+                "w": "código",
+                "p": "ˈkodiɡo",
+                "d": "code",
+                "s": "El cajero escaneó el código de barras. (The cashier scanned the barcode.)"
+            },
+            {
+                "id": "es-1489",
+                "w": "hagamos",
+                "p": "aˈɡamos",
+                "d": "to do",
+                "s": "Hagamos por solucionar ese problema luego. (We'll deal with the problem later.)"
+            },
+            {
+                "id": "es-1490",
+                "w": "imagen",
+                "p": "iˈmaxen",
+                "d": "image",
+                "s": "No puedo averiguar cómo subir una imagen. (I can't figure out how to upload an image.)"
+            },
+            {
+                "id": "es-1491",
+                "w": "riesgo",
+                "p": "ˈrjesɡo",
+                "d": "risk",
+                "s": "La carga de riesgo es demasiado grande. (The risk is too great.)"
+            },
+            {
+                "id": "es-1492",
+                "w": "llegamos",
+                "p": "ʎeɣamos",
+                "d": "to arrive",
+                "s": "Nosotros llegamos al hotel hace una hora. (We arrived at the hotel an hour ago.)"
+            },
+            {
+                "id": "es-1493",
+                "w": "alguno",
+                "p": "alˈɡuno",
+                "d": "some",
+                "s": "Alguno de los pacientes están sufriendo. (Some of the patients are suffering.)"
+            },
+            {
+                "id": "es-1494",
+                "w": "pan",
+                "p": "ˈpan",
+                "d": "bread",
+                "s": "Él trajo a casa el pan y la mantequilla. (He brings home the bread and butter.)"
+            },
+            {
+                "id": "es-1495",
+                "w": "millón",
+                "p": "miˈʝon",
+                "d": "million",
+                "s": "¿Cómo te gastarías un millón de dólares? (How would you spend a million dollars?)"
+            },
+            {
+                "id": "es-1496",
+                "w": "malas",
+                "p": "malas",
+                "d": "bad",
+                "s": "Tom está en bastantes malas condiciones. (Tom is pretty beat up.)"
+            },
+            {
+                "id": "es-1497",
+                "w": "dama",
+                "p": "ˈdama",
+                "d": "lady",
+                "s": "Él le ayudó a la dama a entrar al auto. (He helped the lady into the car.)"
+            },
+            {
+                "id": "es-1498",
+                "w": "hielo",
+                "p": "ˈʝelo",
+                "d": "ice",
+                "s": "Las capas de hielo se están derritiendo. (The ice sheets are melting.)"
+            },
+            {
+                "id": "es-1499",
+                "w": "coño",
+                "p": "ˈkoɲo",
+                "d": "fuck!",
+                "s": ""
+            },
+            {
+                "id": "es-1500",
+                "w": "cayó",
+                "p": "kaˈʝo",
+                "d": "to fall",
+                "s": "La anciana se cayó y no pudo levantarse. (The old woman fell and could not get up.)"
+            },
+            {
+                "id": "es-1501",
+                "w": "prensa",
+                "p": "ˈpɾensa",
+                "d": "press",
+                "s": "La prensa bombardeó al ministro con preguntas. (The press besieged the minister with questions.)"
+            },
+            {
+                "id": "es-1502",
+                "w": "querer",
+                "p": "keˈɾeɾ",
+                "d": "to desire",
+                "s": "Nadie aquí parece querer nuestra ayuda. (No one here seems to want our help.)"
+            },
+            {
+                "id": "es-1503",
+                "w": "vengan",
+                "p": "beŋgan",
+                "d": "to avenge",
+                "s": "Quiero que vengan ustedes solos. (I want you to come alone.)"
+            },
+            {
+                "id": "es-1504",
+                "w": "caminar",
+                "p": "kamiˈnaɾ",
+                "d": "to walk",
+                "s": "Yo preferiría tomar un taxi que caminar. (I'd rather take a taxi than walk.)"
+            },
+            {
+                "id": "es-1505",
+                "w": "televisión",
+                "p": "telebiˈsjon",
+                "d": "television",
+                "s": "A los niños les gusta ver la televisión. (Children like to watch TV.)"
+            },
+            {
+                "id": "es-1506",
+                "w": "pasará",
+                "p": "pasaˈɾa",
+                "d": "to pass",
+                "s": "¿Qué pasará si hay un corte de luz ahora? (What will happen if there's a power failure now?)"
+            },
+            {
+                "id": "es-1507",
+                "w": "momentos",
+                "p": "moˈmentos",
+                "d": "moment",
+                "s": "Siempre fastidias los buenos momentos. (You always ruin a good moment.)"
+            },
+            {
+                "id": "es-1508",
+                "w": "coger",
+                "p": "koˈxeɾ",
+                "d": "to take",
+                "s": "Me hubiera gustado coger el primer tren. (I had wanted to catch the first train.)"
+            },
+            {
+                "id": "es-1509",
+                "w": "posibilidad",
+                "p": "posibiliˈdad",
+                "d": "possibility",
+                "s": "Esa es definitivamente una posibilidad. (That's certainly one possibility.)"
+            },
+            {
+                "id": "es-1510",
+                "w": "hubiese",
+                "p": "uˈbjese",
+                "d": "to have",
+                "s": "Parecía como si hubiese estado enferma. (She looked as if she had been ill.)"
+            },
+            {
+                "id": "es-1511",
+                "w": "asiento",
+                "p": "aˈsjento",
+                "d": "seat",
+                "s": "Ojalá que este asiento no esté ocupado. (I hope this seat is not occupied.)"
+            },
+            {
+                "id": "es-1512",
+                "w": "tuviste",
+                "p": "tuˈbiste",
+                "d": "to have",
+                "s": "¿Tuviste una lección de piano aquel día? (Did you have a piano lesson that day?)"
+            },
+            {
+                "id": "es-1513",
+                "w": "herido",
+                "p": "eˈɾido",
+                "d": "hurt",
+                "s": "El trabajo duro nunca ha herido a nadie. (Hard work never hurt anyone.)"
+            },
+            {
+                "id": "es-1514",
+                "w": "maría",
+                "p": "maˈɾia",
+                "d": "magpie",
+                "s": "Tomás está jugando con el gato de María. (Tom is playing with Mary's cat.)"
+            },
+            {
+                "id": "es-1515",
+                "w": "seguramente",
+                "p": "seˌɡuɾaˈmente",
+                "d": "surely",
+                "s": "Seguramente se trate de un malentendido. (That's surely a misunderstanding.)"
+            },
+            {
+                "id": "es-1516",
+                "w": "proyecto",
+                "p": "pɾoˈʝeɡto",
+                "d": "project",
+                "s": "Estoy en contra de este proyecto de ley. (I'm against the bill.)"
+            },
+            {
+                "id": "es-1517",
+                "w": "pared",
+                "p": "paˈɾed",
+                "d": "wall",
+                "s": "El cuadro está ahora colgado en la pared. (The picture is on the wall now.)"
+            },
+            {
+                "id": "es-1518",
+                "w": "sentí",
+                "p": "senˈti",
+                "d": "to feel",
+                "s": "Sentí que le debía a Tom una explicación. (I felt I owed Tom an explanation.)"
+            },
+            {
+                "id": "es-1519",
+                "w": "sospechoso",
+                "p": "sospeˈt͡ʃoso",
+                "d": "suspicious",
+                "s": "El sospechoso es un varón de raza negra. (The suspect is a black male.)"
+            },
+            {
+                "id": "es-1520",
+                "w": "naturaleza",
+                "p": "natuɾaˈleθa",
+                "d": "nature",
+                "s": "La naturaleza está llena de misterios. (Nature is full of mystery.)"
+            },
+            {
+                "id": "es-1521",
+                "w": "ésa",
+                "p": "ˈesa",
+                "d": "that one",
+                "s": "La gramática de ésa mujer es deficiente. (Her grammar is bad.)"
+            },
+            {
+                "id": "es-1522",
+                "w": "silla",
+                "p": "ˈsiʝa",
+                "d": "chair",
+                "s": "Tom montó el caballo sin silla de montar. (Tom rode the horse bareback.)"
+            },
+            {
+                "id": "es-1523",
+                "w": "perdió",
+                "p": "peˈɾðjo",
+                "d": "to lose",
+                "s": "Él perdió a sus padres a los siete años. (He lost his parents at the age of seven.)"
+            },
+            {
+                "id": "es-1524",
+                "w": "policías",
+                "p": "poliˈθias",
+                "d": "Civility",
+                "s": "Los policías están por todas partes. (Cops are everywhere.)"
+            },
+            {
+                "id": "es-1525",
+                "w": "arreglar",
+                "p": "areˈɡlaɾ",
+                "d": "to fix",
+                "s": "Mandé mi cámara a arreglar a esa tienda. (I had my camera repaired at that shop.)"
+            },
+            {
+                "id": "es-1526",
+                "w": "sentado",
+                "p": "senˈtado",
+                "d": "seated",
+                "s": "Doy por sentado que la gente es honesta. (I take it for granted that people are honest.)"
+            },
+            {
+                "id": "es-1527",
+                "w": "papi",
+                "p": "ˈpapi",
+                "d": "daddy",
+                "s": "Guácala, mami y papi se están besando. (Ugh, mommy and daddy are kissing.)"
+            },
+            {
+                "id": "es-1528",
+                "w": "ideas",
+                "p": "iˈdeas",
+                "d": "idea",
+                "s": "En serio no le deberías dar ideas a Tom. (You really shouldn't give Tom ideas.)"
+            },
+            {
+                "id": "es-1529",
+                "w": "obtener",
+                "p": "obteˈneɾ",
+                "d": "to obtain",
+                "s": "Tom no pudo obtener el empleo que quería. (Tom couldn't get the job he wanted.)"
+            },
+            {
+                "id": "es-1530",
+                "w": "felices",
+                "p": "feˈliθes",
+                "d": "happy",
+                "s": "Tom y Mary no parecen demasiado felices. (Tom and Mary don't seem too happy.)"
+            },
+            {
+                "id": "es-1531",
+                "w": "señoría",
+                "p": "seɲoˈɾia",
+                "d": "dominion",
+                "s": ""
+            },
+            {
+                "id": "es-1532",
+                "w": "cantidad",
+                "p": "kantiˈdad",
+                "d": "amount",
+                "s": "Tenemos una inmensa cantidad de comida. (We have a huge amount of food.)"
+            },
+            {
+                "id": "es-1533",
+                "w": "bebe",
+                "p": "ˈbebe",
+                "d": "to drink",
+                "s": "¿La gente de Boston bebe agua del grifo? (Do people in Boston drink tap water?)"
+            },
+            {
+                "id": "es-1534",
+                "w": "mírame",
+                "p": "",
+                "d": "to look at",
+                "s": "¡Mírame, que estoy hablando contigo! (Look at me when I'm speaking to you.)"
+            },
+            {
+                "id": "es-1535",
+                "w": "papa",
+                "p": "ˈpapa",
+                "d": "pope",
+                "s": "Carlomagno fue coronado por el Papa. (Charlemagne was crowned by the Pope.)"
+            },
+            {
+                "id": "es-1536",
+                "w": "llorar",
+                "p": "ʝoˈɾaɾ",
+                "d": "to cry",
+                "s": "Él sabe cómo hacer llorar a las mujeres. (He knows how to make women cry.)"
+            },
+            {
+                "id": "es-1537",
+                "w": "quedó",
+                "p": "keˈðo",
+                "d": "to be",
+                "s": "Tom se quedó dormido con la ropa puesta. (Tom fell asleep with his clothes on.)"
+            },
+            {
+                "id": "es-1538",
+                "w": "familiar",
+                "p": "famiˈljaɾ",
+                "d": "familial",
+                "s": "Este collar es una reliquia familiar. (This necklace is a family heirloom.)"
+            },
+            {
+                "id": "es-1539",
+                "w": "desastre",
+                "p": "deˈsastɾe",
+                "d": "disaster",
+                "s": "¿Eres tú el responsable de este desastre? (Are you responsible for this mess?)"
+            },
+            {
+                "id": "es-1540",
+                "w": "locos",
+                "p": "ˈlokos",
+                "d": "crazy",
+                "s": "Tom nos ha vuelto locos últimamente. (Tom has been driving us crazy.)"
+            },
+            {
+                "id": "es-1541",
+                "w": "escuche",
+                "p": "esˈkut͡ʃe",
+                "d": "to listen to",
+                "s": "Por favor, escuche lo que tengo que decir. (Please listen to what I have to say.)"
+            },
+            {
+                "id": "es-1542",
+                "w": "quedarte",
+                "p": "keðaɾte",
+                "d": "to be",
+                "s": "Deberías quedarte aquí por algunos días. (You should stay here a few days.)"
+            },
+            {
+                "id": "es-1543",
+                "w": "política",
+                "p": "poˈlitika",
+                "d": "politics",
+                "s": "Muchos carecían de experiencia política. (Many lacked political experience.)"
+            },
+            {
+                "id": "es-1544",
+                "w": "pedí",
+                "p": "peˈdi",
+                "d": "to ask for something",
+                "s": "Le pedí al muchacho la pelota de vuelta. (I asked the boy to throw the ball back.)"
+            },
+            {
+                "id": "es-1545",
+                "w": "sois",
+                "p": "ˈsois",
+                "d": "you are",
+                "s": "Vosotros sois la razón por la que vine. (You're the reason I came.)"
+            },
+            {
+                "id": "es-1546",
+                "w": "nosotras",
+                "p": "noˈsotɾas",
+                "d": "we",
+                "s": "Ellas están tan cansadas como nosotras. (They're as tired as we are.)"
+            },
+            {
+                "id": "es-1547",
+                "w": "enfermedad",
+                "p": "enfeɾmeˈdad",
+                "d": "illness",
+                "s": "Él se contrajo una enfermedad incurable. (He contracted an incurable disease.)"
+            },
+            {
+                "id": "es-1548",
+                "w": "encontraron",
+                "p": "eŋkontɾaɾon",
+                "d": "to meet",
+                "s": "Dos hombres se encontraron cara a cara. (Two men met face to face.)"
+            },
+            {
+                "id": "es-1549",
+                "w": "colega",
+                "p": "koˈleɡa",
+                "d": "colleague",
+                "s": "Mi colega y su marido son ambos americanos. (My colleague and her husband are both American.)"
+            },
+            {
+                "id": "es-1550",
+                "w": "príncipe",
+                "p": "ˈpɾinθipe",
+                "d": "prince",
+                "s": "El príncipe estaba perdido en el bosque. (The prince was lost in the woods.)"
+            },
+            {
+                "id": "es-1551",
+                "w": "verde",
+                "p": "ˈbeɾde",
+                "d": "green",
+                "s": "Tengo un ojo de color verde y otro azul. (I have one green eye and one blue one.)"
+            },
+            {
+                "id": "es-1552",
+                "w": "bajar",
+                "p": "baˈxaɾ",
+                "d": "to go down",
+                "s": "Ellos lo oyeron bajar por las escaleras. (They heard him come downstairs.)"
+            },
+            {
+                "id": "es-1553",
+                "w": "nervioso",
+                "p": "neɾˈbjoso",
+                "d": "nerve",
+                "s": "Estoy muy nervioso como para comer algo. (I'm too nervous to eat anything.)"
+            },
+            {
+                "id": "es-1554",
+                "w": "vengo",
+                "p": "ˈbenɡo",
+                "d": "to avenge",
+                "s": "Vengo aquí al menos tres veces por semana. (I come here at least three times a week.)"
+            },
+            {
+                "id": "es-1555",
+                "w": "inspector",
+                "p": "inspeɡˈtoɾ",
+                "d": "inspector",
+                "s": ""
+            },
+            {
+                "id": "es-1556",
+                "w": "sirve",
+                "p": "siɾβe",
+                "d": "to serve",
+                "s": "De nada sirve llorar. Nadie te va a oír. (There's no use in crying. No one will hear you.)"
+            },
+            {
+                "id": "es-1557",
+                "w": "puertas",
+                "p": "pweɾtas",
+                "d": "door",
+                "s": "Las puertas abrirán del lado izquierdo. (The doors on the left side will open.)"
+            },
+            {
+                "id": "es-1558",
+                "w": "fuerzas",
+                "p": "ˈfweɾθas",
+                "d": "force",
+                "s": "Las fuerzas americanas fueron retiradas. (American forces were withdrawn.)"
+            },
+            {
+                "id": "es-1559",
+                "w": "playa",
+                "p": "ˈplaʝa",
+                "d": "beach",
+                "s": "Las chicas están jugando al voley playa. (The girls are playing beach volleyball.)"
+            },
+            {
+                "id": "es-1560",
+                "w": "cantar",
+                "p": "kanˈtaɾ",
+                "d": "to sing",
+                "s": "A ella le gusta cantar canciones viejas. (She is fond of singing old songs.)"
+            },
+            {
+                "id": "es-1561",
+                "w": "déjeme",
+                "p": "ˈdexeme",
+                "d": "to leave",
+                "s": "Déjeme tomarle las medidas, por favor. (Please allow me to measure you.)"
+            },
+            {
+                "id": "es-1562",
+                "w": "velocidad",
+                "p": "beloθiˈdad",
+                "d": "speed",
+                "s": "Siempre manejo a una velocidad moderada. (I always drive at a moderate speed.)"
+            },
+            {
+                "id": "es-1563",
+                "w": "total",
+                "p": "toˈtal",
+                "d": "basically",
+                "s": "Tienes que estar en silencio total. (You have to be very quiet.)"
+            },
+            {
+                "id": "es-1564",
+                "w": "cabello",
+                "p": "kaˈbeʝo",
+                "d": "hair",
+                "s": "¿Te gustaría que yo trenzara tu cabello? (Would you like me to braid your hair?)"
+            },
+            {
+                "id": "es-1565",
+                "w": "suficientemente",
+                "p": "sufiˌθjenteˈmente",
+                "d": "sufficiently",
+                "s": "El agujero es lo suficientemente grande. (The hole is big enough.)"
+            },
+            {
+                "id": "es-1566",
+                "w": "huellas",
+                "p": "weʎas",
+                "d": "footprint",
+                "s": "Había huellas de pingüinos en la arena. (There were penguin footprints in the sand.)"
+            },
+            {
+                "id": "es-1567",
+                "w": "haberte",
+                "p": "aˈbeɾte",
+                "d": "to have",
+                "s": "No debí haberte pedido que hicieras eso. (I shouldn't have asked you to do that.)"
+            },
+            {
+                "id": "es-1568",
+                "w": "debí",
+                "p": "deˈbi",
+                "d": "to owe",
+                "s": "No debí haberte pedido que hicieras eso. (I shouldn't have asked you to do that.)"
+            },
+            {
+                "id": "es-1569",
+                "w": "unidad",
+                "p": "uniˈdad",
+                "d": "unit",
+                "s": "Él habló de la unidad del partido. (He spoke of party unity.)"
+            },
+            {
+                "id": "es-1570",
+                "w": "estan",
+                "p": "esˈtan",
+                "d": "to be",
+                "s": ""
+            },
+            {
+                "id": "es-1571",
+                "w": "cuchillo",
+                "p": "kuˈt͡ʃiʝo",
+                "d": "knife",
+                "s": "El policía le quitó el cuchillo al niño. (The policeman took the knife from the boy.)"
+            },
+            {
+                "id": "es-1572",
+                "w": "oigan",
+                "p": "ˈoiɡan",
+                "d": "to hear",
+                "s": "Quiero que todos oigan lo que tengo que decir. (I want everyone to hear what I have to say.)"
+            },
+            {
+                "id": "es-1573",
+                "w": "quienes",
+                "p": "ˈkjenes",
+                "d": "who",
+                "s": "Elige amigos con quienes puedas contar. (Choose friends you can rely on.)"
+            },
+            {
+                "id": "es-1574",
+                "w": "gana",
+                "p": "ˈɡana",
+                "d": "best translated with to feel like",
+                "s": "Ella se gana la vida escribiendo música. (She writes music for a living.)"
+            },
+            {
+                "id": "es-1575",
+                "w": "tonterías",
+                "p": "tonteˈɾias",
+                "d": "something that is dumb",
+                "s": "¿No hemos oído ya suficientes tonterías? (Haven't we had enough of that nonsense already?)"
+            },
+            {
+                "id": "es-1576",
+                "w": "emergencia",
+                "p": "emeɾˈxenθja",
+                "d": "emergency",
+                "s": "Necesitamos un médico. Es una emergencia. (We need a doctor. It's an emergency.)"
+            },
+            {
+                "id": "es-1577",
+                "w": "perfecta",
+                "p": "peɾˈfeɡta",
+                "d": "perfect",
+                "s": "Tu respuesta está lejos de ser perfecta. (Your answer is far from perfect.)"
+            },
+            {
+                "id": "es-1578",
+                "w": "hable",
+                "p": "ˈable",
+                "d": "to talk",
+                "s": "No hable de mí como si no estuviera aquí. (Don't talk about me like I'm not here.)"
+            },
+            {
+                "id": "es-1579",
+                "w": "gustaba",
+                "p": "gustaβa",
+                "d": "translated as",
+                "s": "A ella no le gustaba vivir en la ciudad. (She didn't like living in the city.)"
+            },
+            {
+                "id": "es-1580",
+                "w": "lugares",
+                "p": "luɣaɾes",
+                "d": "place",
+                "s": "Nosotros tenemos otros lugares a donde ir. (We have somewhere else to go.)"
+            },
+            {
+                "id": "es-1581",
+                "w": "show",
+                "p": "ˈʃow",
+                "d": "show",
+                "s": "Pensé que el show había terminado. (I thought the show was over.)"
+            },
+            {
+                "id": "es-1582",
+                "w": "robo",
+                "p": "ˈrobo",
+                "d": "robbery",
+                "s": "Él fue enviado a prisión por robo armado. (He was sent to prison for armed robbery.)"
+            },
+            {
+                "id": "es-1583",
+                "w": "permite",
+                "p": "peɾˈmite",
+                "d": "to allow",
+                "s": "No se permite fumar en este restaurante. (Smoking isn't allowed in this restaurant.)"
+            },
+            {
+                "id": "es-1584",
+                "w": "parque",
+                "p": "ˈpaɾke",
+                "d": "park",
+                "s": "Estaban jugando al béisbol en el parque. (They were playing baseball in the park.)"
+            },
+            {
+                "id": "es-1585",
+                "w": "roto",
+                "p": "ˈroto",
+                "d": "broken",
+                "s": "Él ha roto la ventana intencionadamente. (He broke the window intentionally.)"
+            },
+            {
+                "id": "es-1586",
+                "w": "serie",
+                "p": "ˈseɾje",
+                "d": "series",
+                "s": "¿Cual es tu serie de televisión favorita? (What's your favorite TV series?)"
+            },
+            {
+                "id": "es-1587",
+                "w": "puse",
+                "p": "ˈpuse",
+                "d": "to put",
+                "s": "Me puse del lado de ellos en la discusión. (I took sides with them in the argument.)"
+            },
+            {
+                "id": "es-1588",
+                "w": "nuevas",
+                "p": "ˈnwebas",
+                "d": "new",
+                "s": "Necesito suelas nuevas en estos zapatos. (I need new soles on these shoes.)"
+            },
+            {
+                "id": "es-1589",
+                "w": "evidencia",
+                "p": "ebiˈdenθja",
+                "d": "evidence",
+                "s": "La evidencia nos convenció de su inocencia. (The evidence convinced us of his innocence.)"
+            },
+            {
+                "id": "es-1590",
+                "w": "conocerte",
+                "p": "konoθeɾte",
+                "d": "to know",
+                "s": "Tomás está muy entusiasmado de conocerte. (Tom is very excited to meet you.)"
+            },
+            {
+                "id": "es-1591",
+                "w": "estúpida",
+                "p": "eˈstupiða",
+                "d": "stupid",
+                "s": "La gente es realmente estúpida a veces. (People are really stupid sometimes.)"
+            },
+            {
+                "id": "es-1592",
+                "w": "preocupe",
+                "p": "pɾeokupe",
+                "d": "to worry",
+                "s": "No se preocupe de cosas sin importancia. (Don't worry about things that aren't important.)"
+            },
+            {
+                "id": "es-1593",
+                "w": "perdone",
+                "p": "peɾðone",
+                "d": "to pardon",
+                "s": "Perdone, no he entendido bien su nombre. (Excuse me, I didn't catch your name.)"
+            },
+            {
+                "id": "es-1594",
+                "w": "botella",
+                "p": "boˈteʝa",
+                "d": "bottle",
+                "s": "Nos gustaría una botella de vino rosado. (We'd like a bottle of rosé.)"
+            },
+            {
+                "id": "es-1595",
+                "w": "viento",
+                "p": "ˈbjento",
+                "d": "wind",
+                "s": "La bandera rojiblanca ondeaba al viento. (The red and white flag fluttered in the wind.)"
+            },
+            {
+                "id": "es-1596",
+                "w": "mando",
+                "p": "ˈmando",
+                "d": "command",
+                "s": "El oficial al mando dijo que se quedarían. (The commander said they would stay.)"
+            },
+            {
+                "id": "es-1597",
+                "w": "extraña",
+                "p": "e(ɡ)sˈtɾaɲa",
+                "d": "strange",
+                "s": "Su historia es extraña, pero es creíble. (His story is strange, but it's believable.)"
+            },
+            {
+                "id": "es-1598",
+                "w": "historias",
+                "p": "istoɾjas",
+                "d": "history",
+                "s": "De verdad que me gustan estas historias. (I really like these stories.)"
+            },
+            {
+                "id": "es-1599",
+                "w": "aquella",
+                "p": "aˈkeʝa",
+                "d": "that",
+                "s": "Aquella medida afectaba a todo el mundo. (That rule applied to everybody.)"
+            },
+            {
+                "id": "es-1600",
+                "w": "tenéis",
+                "p": "teˈneis",
+                "d": "to have",
+                "s": "¿Os hacéis idea de la suerte que tenéis? (Do you have any idea how lucky you are?)"
+            },
+            {
+                "id": "es-1601",
+                "w": "solos",
+                "p": "ˈsolos",
+                "d": "sole",
+                "s": "Por favor no vayáis allí vosotros solos. (Please don't go there by yourself.)"
+            },
+            {
+                "id": "es-1602",
+                "w": "apoyo",
+                "p": "aˈpoʝo",
+                "d": "support",
+                "s": "Prometimos nuestro apoyo al candidato. (We pledged our support to the candidate.)"
+            },
+            {
+                "id": "es-1603",
+                "w": "bala",
+                "p": "ˈbala",
+                "d": "bullet",
+                "s": "La bala entró por encima de la rodilla. (The bullet entered above the knee.)"
+            },
+            {
+                "id": "es-1604",
+                "w": "verdadera",
+                "p": "beɾðaðeɾa",
+                "d": "true",
+                "s": "Nuestra maestra es una verdadera idiota. (Our teacher is a real idiot.)"
+            },
+            {
+                "id": "es-1605",
+                "w": "tiro",
+                "p": "ˈtiɾo",
+                "d": "throw",
+                "s": "¿Dónde tiro estas cáscaras de huevo? (Where do I throw these eggshells?)"
+            },
+            {
+                "id": "es-1606",
+                "w": "época",
+                "p": "ˈepoka",
+                "d": "epoch",
+                "s": "La época de lluvias comienza en junio. (The rainy season begins in June.)"
+            },
+            {
+                "id": "es-1607",
+                "w": "puente",
+                "p": "ˈpwente",
+                "d": "bridge",
+                "s": "Este puente se construyó hace dos años. (This bridge was built two years ago.)"
+            },
+            {
+                "id": "es-1608",
+                "w": "olvídalo",
+                "p": "",
+                "d": "to forget",
+                "s": "Olvídalo. No tiene caso darle consejo. (Forget it. There's no sense giving him advice.)"
+            },
+            {
+                "id": "es-1609",
+                "w": "distancia",
+                "p": "disˈtanθja",
+                "d": "distance",
+                "s": "¿Qué distancia hay de su casa al pueblo? (How far is it from your house to town?)"
+            },
+            {
+                "id": "es-1610",
+                "w": "desea",
+                "p": "desea",
+                "d": "to wish",
+                "s": "¿Desea una bolsa de plástico o de papel? (Would you like a plastic bag or a paper bag?)"
+            },
+            {
+                "id": "es-1611",
+                "w": "dejarlo",
+                "p": "dexaɾlo",
+                "d": "to leave",
+                "s": "Yo tan solo quería dejarlo en el pasado. (I just wanted to get it over with.)"
+            },
+            {
+                "id": "es-1612",
+                "w": "pelear",
+                "p": "peleˈaɾ",
+                "d": "to fight",
+                "s": "Desearía que ellos dejaran de pelear. (I wish they would stop fighting.)"
+            },
+            {
+                "id": "es-1613",
+                "w": "pierna",
+                "p": "ˈpjeɾna",
+                "d": "leg",
+                "s": "Tengo un moretón en la pierna izquierda. (I have a bruise on my left leg.)"
+            },
+            {
+                "id": "es-1614",
+                "w": "echar",
+                "p": "eˈt͡ʃaɾ",
+                "d": "to throw",
+                "s": "No voy a echar de menos a Tom para nada. (I won't miss Tom at all.)"
+            },
+            {
+                "id": "es-1615",
+                "w": "descanso",
+                "p": "desˈkanso",
+                "d": "rest",
+                "s": "Lo que necesitamos ahora es un descanso. (What we need now is a rest.)"
+            },
+            {
+                "id": "es-1616",
+                "w": "área",
+                "p": "ˈaɾea",
+                "d": "area",
+                "s": "Hay muchos animales salvajes en esta área. (There are many wild animals around here.)"
+            },
+            {
+                "id": "es-1617",
+                "w": "orgulloso",
+                "p": "oɾɡuˈʝoso",
+                "d": "proud",
+                "s": "Estoy muy orgulloso de nuestra compañía. (I'm very proud of our company.)"
+            },
+            {
+                "id": "es-1618",
+                "w": "datos",
+                "p": "ˈdatos",
+                "d": "data",
+                "s": "Los datos no han sido compilados aún. (The data hasn't been compiled yet.)"
+            },
+            {
+                "id": "es-1619",
+                "w": "espectáculo",
+                "p": "espeɡˈtakulo",
+                "d": "show",
+                "s": "Me quedé sobrecogido ante el espectáculo. (I was appalled at the sight.)"
+            },
+            {
+                "id": "es-1620",
+                "w": "sube",
+                "p": "suβe",
+                "d": "to go up or come up",
+                "s": "Este ascensor sólo sube hasta el quinto. (This elevator only goes up to the fifth floor.)"
+            },
+            {
+                "id": "es-1621",
+                "w": "dejaste",
+                "p": "dexaste",
+                "d": "to leave",
+                "s": "¿Por qué dejaste de tomar tu medicación? (Why did you stop taking your medicine?)"
+            },
+            {
+                "id": "es-1622",
+                "w": "acabas",
+                "p": "aˈkabas",
+                "d": "to finish",
+                "s": "Te acabas de saltar el semáforo en rojo. (You just ran a red light.)"
+            },
+            {
+                "id": "es-1623",
+                "w": "verá",
+                "p": "beˈɾa",
+                "d": "to see",
+                "s": "Ya se verá si tenemos tiempo suficiente. (We'll see if we have any time left over.)"
+            },
+            {
+                "id": "es-1624",
+                "w": "magia",
+                "p": "ˈmaxja",
+                "d": "magic",
+                "s": "Él divirtió a los niños haciendo magia. (He amused the children by showing them some magic.)"
+            },
+            {
+                "id": "es-1625",
+                "w": "nacional",
+                "p": "naθjoˈnal",
+                "d": "national",
+                "s": "Es catedrático en la Universidad Nacional. (He's a professor at the National University.)"
+            },
+            {
+                "id": "es-1626",
+                "w": "universo",
+                "p": "uniˈbeɾso",
+                "d": "universe",
+                "s": "Hay millones de estrellas en el universo. (There are millions of stars in the universe.)"
+            },
+            {
+                "id": "es-1627",
+                "w": "llevaba",
+                "p": "ʎeβaβa",
+                "d": "to take somewhere",
+                "s": "Tom llevaba el pelo largo el año pasado. (Tom had long hair last year.)"
+            },
+            {
+                "id": "es-1628",
+                "w": "necesitar",
+                "p": "neθesiˈtaɾ",
+                "d": "to need",
+                "s": "Pensé que Tom podría necesitar hacer eso. (I thought Tom might need to do that.)"
+            },
+            {
+                "id": "es-1629",
+                "w": "nariz",
+                "p": "naˈɾiθ",
+                "d": "nose",
+                "s": "Tom a veces se hurga la nariz en público. (Tom sometimes picks his nose in public.)"
+            },
+            {
+                "id": "es-1630",
+                "w": "aquellos",
+                "p": "aˈkeʝos",
+                "d": "those",
+                "s": "No teníamos televisor en aquellos días. (We didn't have TV in those days.)"
+            },
+            {
+                "id": "es-1631",
+                "w": "clases",
+                "p": "ˈklases",
+                "d": "tuition",
+                "s": "Las clases empiezan el martes que viene. (Classes begin next Tuesday.)"
+            },
+            {
+                "id": "es-1632",
+                "w": "casas",
+                "p": "ˈkasas",
+                "d": "house",
+                "s": "A veces visito las casas de mis amigos. (I sometimes visit my friends' homes.)"
+            },
+            {
+                "id": "es-1633",
+                "w": "vergüenza",
+                "p": "beɾˈɡwenθa",
+                "d": "shame",
+                "s": "No tengas vergüenza al entrar a mi casa. (Make yourself at home.)"
+            },
+            {
+                "id": "es-1634",
+                "w": "estarán",
+                "p": "estaˈɾan",
+                "d": "to be",
+                "s": "Mis abuelos estarán aquí para Navidad. (My grandparents will be here for Christmas.)"
+            },
+            {
+                "id": "es-1635",
+                "w": "monstruo",
+                "p": "ˈmonstɾwo",
+                "d": "monster",
+                "s": "Ahí solía vivir un monstruo espantoso. (A hideous monster used to live there.)"
+            },
+            {
+                "id": "es-1636",
+                "w": "princesa",
+                "p": "pɾinˈθesa",
+                "d": "princess",
+                "s": "Tom trató a Mary como a una princesa. (Tom treated Mary like a princess.)"
+            },
+            {
+                "id": "es-1637",
+                "w": "autobús",
+                "p": "autoˈbus",
+                "d": "bus",
+                "s": "Tom tomó un autobús de regreso a Boston. (Tom took a bus back to Boston.)"
+            },
+            {
+                "id": "es-1638",
+                "w": "cuidar",
+                "p": "kwiˈdaɾ",
+                "d": "to look after",
+                "s": "Tienes que cuidar de tus seres queridos. (You need to look after your loved ones.)"
+            },
+            {
+                "id": "es-1639",
+                "w": "huevos",
+                "p": "ˈw̝ebos",
+                "d": "egg",
+                "s": "El precio de los huevos está en aumento. (The price of eggs is going up.)"
+            },
+            {
+                "id": "es-1640",
+                "w": "pocos",
+                "p": "ˈpokos",
+                "d": "little",
+                "s": "Tuvimos pocos días soleados este verano. (We had few sunny days this summer.)"
+            },
+            {
+                "id": "es-1641",
+                "w": "podrás",
+                "p": "poˈðɾas",
+                "d": "to be able to",
+                "s": "No podrás leer el libro tan rápidamente. (You will not be able to go through the book so quickly.)"
+            },
+            {
+                "id": "es-1642",
+                "w": "enferma",
+                "p": "enˈfeɾma",
+                "d": "sick",
+                "s": "Ella estuvo enferma por un largo tiempo. (She was ill for a long time.)"
+            },
+            {
+                "id": "es-1643",
+                "w": "paseo",
+                "p": "paˈseo",
+                "d": "walk",
+                "s": "Vamos de paseo en cuanto deje de llover. (Let's go for a walk after it stops raining.)"
+            },
+            {
+                "id": "es-1644",
+                "w": "detalles",
+                "p": "detaʎes",
+                "d": "detail",
+                "s": "Los detalles del plan fueron revelados. (The details of the plan unfolded.)"
+            },
+            {
+                "id": "es-1645",
+                "w": "llamadas",
+                "p": "ʝaˈmadas",
+                "d": "call",
+                "s": "Tengo un montón de llamadas que hacer. (I have a lot of calls to make.)"
+            },
+            {
+                "id": "es-1646",
+                "w": "belleza",
+                "p": "beˈʝeθa",
+                "d": "beauty",
+                "s": "El lago Towada es famoso por su belleza. (Lake Towada is famous for its beauty.)"
+            },
+            {
+                "id": "es-1647",
+                "w": "abierto",
+                "p": "aˈbjeɾto",
+                "d": "open",
+                "s": "Tom tuvo una operación a corazón abierto. (Tom had open heart surgery.)"
+            },
+            {
+                "id": "es-1648",
+                "w": "viviendo",
+                "p": "biβjendo",
+                "d": "to live",
+                "s": "Yo estoy viviendo en una ciudad pequeña. (I'm living in a small town.)"
+            },
+            {
+                "id": "es-1649",
+                "w": "envió",
+                "p": "eˈmbjo",
+                "d": "to send",
+                "s": "Él me envió una tarjeta de cumpleaños. (He sent me a birthday card.)"
+            },
+            {
+                "id": "es-1650",
+                "w": "puntos",
+                "p": "puntos",
+                "d": "point",
+                "s": "¿Qué representan estos puntos en el mapa? (What do these dots represent on the map?)"
+            },
+            {
+                "id": "es-1651",
+                "w": "ministro",
+                "p": "miˈnistɾo",
+                "d": "minister",
+                "s": "La prensa bombardeó al ministro con preguntas. (The press besieged the minister with questions.)"
+            },
+            {
+                "id": "es-1652",
+                "w": "conducir",
+                "p": "konduˈθiɾ",
+                "d": "to drive",
+                "s": "¿Acaso Tom dejó a Mary conducir su auto? (Did Tom let Mary drive his car?)"
+            },
+            {
+                "id": "es-1653",
+                "w": "aceptar",
+                "p": "aθebˈtaɾ",
+                "d": "to accept",
+                "s": "Ella lo convenció de aceptar el soborno. (She talked him into accepting the bribe.)"
+            },
+            {
+                "id": "es-1654",
+                "w": "borracho",
+                "p": "boˈrat͡ʃo",
+                "d": "drunk",
+                "s": "Estás demasiado borracho para conducir. (You're too drunk to drive.)"
+            },
+            {
+                "id": "es-1655",
+                "w": "animal",
+                "p": "aniˈmal",
+                "d": "animal",
+                "s": "Ellos están en contra del abuso animal. (They're against animal abuse.)"
+            },
+            {
+                "id": "es-1656",
+                "w": "caballos",
+                "p": "kaˈbaʝos",
+                "d": "horse",
+                "s": "Él intercambió su vaca por dos caballos. (He exchanged his cow for two horses.)"
+            },
+            {
+                "id": "es-1657",
+                "w": "trajo",
+                "p": "tɾaxo",
+                "d": "to bring",
+                "s": "Él trajo a casa el pan y la mantequilla. (He brings home the bread and butter.)"
+            },
+            {
+                "id": "es-1658",
+                "w": "contrato",
+                "p": "konˈtɾato",
+                "d": "contract",
+                "s": "Ellos están satisfechos con el contrato. (They are satisfied with the contract.)"
+            },
+            {
+                "id": "es-1659",
+                "w": "viernes",
+                "p": "ˈbjeɾnes",
+                "d": "Friday",
+                "s": "Tom estaba solo el viernes por la noche. (Tom was alone on Friday night.)"
+            },
+            {
+                "id": "es-1660",
+                "w": "bienvenidos",
+                "p": "bjembeniðos",
+                "d": "welcome",
+                "s": "Dondequiera que vayan, serán bienvenidos. (Wherever you go, you'll be welcomed.)"
+            },
+            {
+                "id": "es-1661",
+                "w": "ex",
+                "p": "ˈeɡs",
+                "d": "former",
+                "s": "Tom tiene tres ex mujeres. (Tom has three ex-wives.)"
+            },
+            {
+                "id": "es-1662",
+                "w": "hechos",
+                "p": "ˈet͡ʃos",
+                "d": "act",
+                "s": "Los fideos suelen estar hechos de trigo. (Noodles are usually made from wheat.)"
+            },
+            {
+                "id": "es-1663",
+                "w": "sociedad",
+                "p": "soθjeˈdad",
+                "d": "society",
+                "s": "Tom es miembro de una sociedad secreta. (Tom is a member of a secret society.)"
+            },
+            {
+                "id": "es-1664",
+                "w": "tengan",
+                "p": "ˈtenɡan",
+                "d": "to have",
+                "s": "Quiero que mis hijos tengan lo mejor. (I want my children to have the best of everything.)"
+            },
+            {
+                "id": "es-1665",
+                "w": "quede",
+                "p": "keðe",
+                "d": "to be",
+                "s": "¿Tienes un problema con que yo me quede? (Do you have a problem with me staying?)"
+            },
+            {
+                "id": "es-1666",
+                "w": "carga",
+                "p": "ˈkaɾɡa",
+                "d": "load",
+                "s": "La carga de riesgo es demasiado grande. (The risk is too great.)"
+            },
+            {
+                "id": "es-1667",
+                "w": "diste",
+                "p": "ˈdiste",
+                "d": "to give",
+                "s": "¿Le diste una copia del disco a alguien? (Did you give a copy of the disk to anyone?)"
+            },
+            {
+                "id": "es-1668",
+                "w": "puto",
+                "p": "ˈputo",
+                "d": "fucking",
+                "s": ""
+            },
+            {
+                "id": "es-1669",
+                "w": "lleve",
+                "p": "ʎeβe",
+                "d": "to take somewhere",
+                "s": "Tom quiere que lleve a Mary a la fiesta. (Tom wants me to take Mary to the party.)"
+            },
+            {
+                "id": "es-1670",
+                "w": "presente",
+                "p": "pɾeˈsente",
+                "d": "present",
+                "s": "Cada miembro del club estaba presente. (Every member of the club was present.)"
+            },
+            {
+                "id": "es-1671",
+                "w": "conocía",
+                "p": "konoˈθia",
+                "d": "to know",
+                "s": "Tom le preguntó a Mary si conocía a John. (Tom asked Mary if she knew John.)"
+            },
+            {
+                "id": "es-1672",
+                "w": "uso",
+                "p": "ˈuso",
+                "d": "use",
+                "s": "Siempre uso botas cuando llueve o nieva. (I always wear boots when it rains or snows.)"
+            },
+            {
+                "id": "es-1673",
+                "w": "dedos",
+                "p": "deðos",
+                "d": "digit: finger or toe",
+                "s": "No puedo tocarme los dedos de los pies. (I can't touch my toes.)"
+            },
+            {
+                "id": "es-1674",
+                "w": "oferta",
+                "p": "oˈfeɾta",
+                "d": "offer",
+                "s": "He recibido una buena oferta de trabajo. (I received a good job offer.)"
+            },
+            {
+                "id": "es-1675",
+                "w": "sentía",
+                "p": "senˈtia",
+                "d": "to feel",
+                "s": "Tom dijo que lo sentía por lo de anoche. (Tom said he was sorry for last night.)"
+            },
+            {
+                "id": "es-1676",
+                "w": "proteger",
+                "p": "pɾoteˈxeɾ",
+                "d": "to protect",
+                "s": "Queremos proteger el mundo que tenemos. (We want to protect this world we have.)"
+            },
+            {
+                "id": "es-1677",
+                "w": "date",
+                "p": "ˈdate",
+                "d": "to give",
+                "s": "¡Date prisa! Ya deberías estar preparado. (Hurry up! You should be ready by now.)"
+            },
+            {
+                "id": "es-1678",
+                "w": "hiciera",
+                "p": "iˈθjeɾa",
+                "d": "to do",
+                "s": "Hice todo lo que me pediste que hiciera. (I did everything you asked me to do.)"
+            },
+            {
+                "id": "es-1679",
+                "w": "hablé",
+                "p": "aˈble",
+                "d": "to talk",
+                "s": "Es el diccionario del que te hablé ayer. (This is the dictionary I told you about yesterday.)"
+            },
+            {
+                "id": "es-1680",
+                "w": "recibir",
+                "p": "reθiˈbiɾ",
+                "d": "to receive",
+                "s": "Tom se rehúsa a recibir ordenes de Mary. (Tom refuses to take orders from Mary.)"
+            },
+            {
+                "id": "es-1681",
+                "w": "agradezco",
+                "p": "aɡɾaˈdeθko",
+                "d": "to thank",
+                "s": "Agradezco lo que estás intentando hacer. (I appreciate what you're trying to do.)"
+            },
+            {
+                "id": "es-1682",
+                "w": "robar",
+                "p": "roˈbaɾ",
+                "d": "to rob",
+                "s": "Ellos lo acusaron de robar la bicicleta. (They accused him of stealing the bicycle.)"
+            },
+            {
+                "id": "es-1683",
+                "w": "enamorado",
+                "p": "enamoˈɾado",
+                "d": "infatuated",
+                "s": "Tom está perdidamente enamorado de Mary. (Tom is deeply in love with Mary.)"
+            },
+            {
+                "id": "es-1684",
+                "w": "sepas",
+                "p": "ˈsepas",
+                "d": "to know",
+                "s": "No quiero que sepas mi verdadero nombre. (I don't want you to know my real name.)"
+            },
+            {
+                "id": "es-1685",
+                "w": "oeste",
+                "p": "oˈeste",
+                "d": "west",
+                "s": "Un río divide la ciudad en este y oeste. (A river separates the city into east and west.)"
+            },
+            {
+                "id": "es-1686",
+                "w": "herida",
+                "p": "eˈɾida",
+                "d": "wound",
+                "s": "La herida causó al atleta un gran dolor. (The injury caused the athlete great pain.)"
+            },
+            {
+                "id": "es-1687",
+                "w": "despacio",
+                "p": "desˈpaθjo",
+                "d": "slowly",
+                "s": "Trabaja despacio y no cometerás errores. (Work slowly, and you won't make mistakes.)"
+            },
+            {
+                "id": "es-1688",
+                "w": "ayude",
+                "p": "aʝuðe",
+                "d": "to help",
+                "s": "La anciana no tiene a nadie que le ayude. (The old woman has no one to help her.)"
+            },
+            {
+                "id": "es-1689",
+                "w": "supe",
+                "p": "ˈsupe",
+                "d": "to know",
+                "s": "Supe que entonces estábamos en problemas. (I knew we were in trouble then.)"
+            },
+            {
+                "id": "es-1690",
+                "w": "directamente",
+                "p": "diˌɾeɡtaˈmente",
+                "d": "directly",
+                "s": "Ella se reportará directamente conmigo. (She will report directly to me.)"
+            },
+            {
+                "id": "es-1691",
+                "w": "inmediato",
+                "p": "immeˈdjato",
+                "d": "immediate",
+                "s": "A ella empezó a gustarle él de inmediato. (She began to like him right away.)"
+            },
+            {
+                "id": "es-1692",
+                "w": "profesional",
+                "p": "pɾofesjoˈnal",
+                "d": "professional",
+                "s": "Tom es un jugador de béisbol profesional. (Tom is a professional baseball player.)"
+            },
+            {
+                "id": "es-1693",
+                "w": "oscuro",
+                "p": "osˈkuɾo",
+                "d": "dark",
+                "s": "Los gatos pueden ver cuando está oscuro. (Cats can see in the dark.)"
+            },
+            {
+                "id": "es-1694",
+                "w": "mercado",
+                "p": "meɾˈkado",
+                "d": "market",
+                "s": "El mercado está completamente saturado. (The market is completely saturated.)"
+            },
+            {
+                "id": "es-1695",
+                "w": "cerdo",
+                "p": "ˈθeɾdo",
+                "d": "pig",
+                "s": "Él tiene un cerdo hormiguero de mascota. (He keeps an aardvark as a pet.)"
+            },
+            {
+                "id": "es-1696",
+                "w": "tardes",
+                "p": "taɾðes",
+                "d": "afternoon",
+                "s": "Vemos la televisión todas las tardes. (We watch television every evening.)"
+            },
+            {
+                "id": "es-1697",
+                "w": "líder",
+                "p": "ˈlideɾ",
+                "d": "leader",
+                "s": "Él fue el líder de la gran expedición. (He was the leader of the great expedition.)"
+            },
+            {
+                "id": "es-1698",
+                "w": "grave",
+                "p": "ˈɡɾabe",
+                "d": "serious",
+                "s": "¿Ha padecido alguna enfermedad grave? (Have you had any serious illnesses?)"
+            },
+            {
+                "id": "es-1699",
+                "w": "llegué",
+                "p": "ʝeˈɡe",
+                "d": "to arrive",
+                "s": "Llegué a la casa y me quité los zapatos. (I got home and took my shoes off.)"
+            },
+            {
+                "id": "es-1700",
+                "w": "jurado",
+                "p": "xuˈɾado",
+                "d": "juror",
+                "s": "El gran jurado acusó a Tom de asesinato. (The grand jury indicted Tom for murder.)"
+            },
+            {
+                "id": "es-1701",
+                "w": "casos",
+                "p": "ˈkasos",
+                "d": "case",
+                "s": "Debe evitarse la dureza en esos casos. (Harshness should be avoided in those cases.)"
+            },
+            {
+                "id": "es-1702",
+                "w": "acuerdas",
+                "p": "akweɾðas",
+                "d": "to agree",
+                "s": "¿Te acuerdas del día en que nos conocimos? (Do you remember the day when we first met?)"
+            },
+            {
+                "id": "es-1703",
+                "w": "ahi",
+                "p": "",
+                "d": "there",
+                "s": ""
+            },
+            {
+                "id": "es-1704",
+                "w": "desaparecido",
+                "p": "desapaɾeˈθido",
+                "d": "disappeared",
+                "s": "Cuando volví, mi auto había desaparecido. (When I got back, I found my car missing.)"
+            },
+            {
+                "id": "es-1705",
+                "w": "debió",
+                "p": "deˈbjo",
+                "d": "to owe",
+                "s": "Tom no debió haber hecho enfadar a Mary. (Tom shouldn't have made Mary angry.)"
+            },
+            {
+                "id": "es-1706",
+                "w": "hubieras",
+                "p": "uˈbjeɾas",
+                "d": "to have",
+                "s": "Mejor te hubieras quedado un poco más. (You'd better stay here a little longer.)"
+            },
+            {
+                "id": "es-1707",
+                "w": "últimamente",
+                "p": "ˌultimaˈmente",
+                "d": "recently",
+                "s": "Últimamente intento pasar desapercibido. (I try to keep a low profile now.)"
+            },
+            {
+                "id": "es-1708",
+                "w": "piedra",
+                "p": "ˈpjedɾa",
+                "d": "stone",
+                "s": "Derribé dos pájaros con una sola piedra. (I killed two birds with one stone.)"
+            },
+            {
+                "id": "es-1709",
+                "w": "éramos",
+                "p": "ˈeɾamos",
+                "d": "to be",
+                "s": "Por aquel entonces éramos bastante ricas. (At that time, we were quite rich.)"
+            },
+            {
+                "id": "es-1710",
+                "w": "habló",
+                "p": "aˈblo",
+                "d": "to talk",
+                "s": "Habló de su amabilidad y de su humildad. (He talked of her kindness and humility.)"
+            },
+            {
+                "id": "es-1711",
+                "w": "charles",
+                "p": "ˈt͡ʃaɾls",
+                "d": "hi-hat",
+                "s": "Hoy estudiaremos a Charles Dickens. (Today we'll study Charles Dickens.)"
+            },
+            {
+                "id": "es-1712",
+                "w": "paga",
+                "p": "ˈpaɡa",
+                "d": "payment",
+                "s": "Se le paga un salario mensual atractivo. (He is paid a handsome monthly salary.)"
+            },
+            {
+                "id": "es-1713",
+                "w": "secretos",
+                "p": "sekɾetos",
+                "d": "a secret",
+                "s": "Tom no es bueno para guardar secretos. (Tom isn't good at keeping secrets.)"
+            },
+            {
+                "id": "es-1714",
+                "w": "digamos",
+                "p": "diˈɡamos",
+                "d": "to say",
+                "s": "Digamos que no me pilló de sorpresa. (Let's just say that I wasn't surprised.)"
+            },
+            {
+                "id": "es-1715",
+                "w": "intención",
+                "p": "intenˈθjon",
+                "d": "intention",
+                "s": "No tengo intención de volver jamás aquí. (I have no intention of ever coming back here again.)"
+            },
+            {
+                "id": "es-1716",
+                "w": "humor",
+                "p": "uˈmoɾ",
+                "d": "mood",
+                "s": "Tom tiene un extraño sentido del humor. (Tom has a strange sense of humor.)"
+            },
+            {
+                "id": "es-1717",
+                "w": "dura",
+                "p": "ˈduɾa",
+                "d": "hard",
+                "s": "Sabía que tenía una dura tarea por venir. (I knew I had a tough job ahead.)"
+            },
+            {
+                "id": "es-1718",
+                "w": "dará",
+                "p": "daˈɾa",
+                "d": "to give",
+                "s": "Tom dice que no le dará la mano a Mary. (Tom says that he won't shake hands with Mary.)"
+            },
+            {
+                "id": "es-1719",
+                "w": "seguros",
+                "p": "seˈɡuɾos",
+                "d": "secure",
+                "s": "Estamos seguros de que vas a estar bien. (We're sure you'll be fine.)"
+            },
+            {
+                "id": "es-1720",
+                "w": "leo",
+                "p": "ˈleo",
+                "d": "to read",
+                "s": "Normalmente leo las etiquetas con cuidado. (I usually read labels carefully.)"
+            },
+            {
+                "id": "es-1721",
+                "w": "ángeles",
+                "p": "ˈanxeles",
+                "d": "angel",
+                "s": "He visto ángeles y he hablado con ellos. (I have seen angels and talked with them.)"
+            },
+            {
+                "id": "es-1722",
+                "w": "querría",
+                "p": "keˈria",
+                "d": "to desire",
+                "s": "Pensé que Tom querría ver esta película. (I thought Tom would want to see this movie.)"
+            },
+            {
+                "id": "es-1723",
+                "w": "cerrar",
+                "p": "θeˈraɾ",
+                "d": "to close",
+                "s": "¿Podrías cerrar las ventanas, por favor? (Could you please close the windows?)"
+            },
+            {
+                "id": "es-1724",
+                "w": "conseguido",
+                "p": "konseˈɡido",
+                "d": "achieved",
+                "s": "No he conseguido que reconozca su error. (I could not convince him of his mistake.)"
+            },
+            {
+                "id": "es-1725",
+                "w": "peso",
+                "p": "ˈpeso",
+                "d": "weight",
+                "s": "Una forma de perder peso es comer menos. (One way to lose weight is to eat less.)"
+            },
+            {
+                "id": "es-1726",
+                "w": "víctimas",
+                "p": "ˈbiɡtimas",
+                "d": "victim",
+                "s": "Todavía no se conoce el número de víctimas. (The number of casualties is still unknown.)"
+            },
+            {
+                "id": "es-1727",
+                "w": "asesinado",
+                "p": "asesiˈnado",
+                "d": "murdered",
+                "s": "Él fue asesinado con un arma contundente. (He was killed by a blunt weapon.)"
+            },
+            {
+                "id": "es-1728",
+                "w": "humana",
+                "p": "uˈmana",
+                "d": "human",
+                "s": "Este pájaro puede imitar la voz humana. (This bird can imitate the human voice.)"
+            },
+            {
+                "id": "es-1729",
+                "w": "directo",
+                "p": "diˈɾeɡto",
+                "d": "direct",
+                "s": "El concierto fue transmitido en directo. (The concert was broadcast live.)"
+            },
+            {
+                "id": "es-1730",
+                "w": "central",
+                "p": "θenˈtɾal",
+                "d": "central",
+                "s": "¿Hay calefacción central en este edificio? (Is there central heating in this building?)"
+            },
+            {
+                "id": "es-1731",
+                "w": "termina",
+                "p": "teɾˈmina",
+                "d": "to finish",
+                "s": "No recuerdo como termina la historia. (I don't remember how the story ended.)"
+            },
+            {
+                "id": "es-1732",
+                "w": "compañeros",
+                "p": "kompaɲeɾos",
+                "d": "companion",
+                "s": "Él es amistoso con todos sus compañeros. (He's friendly with all his classmates.)"
+            },
+            {
+                "id": "es-1733",
+                "w": "escuchado",
+                "p": "eskuˈt͡ʃado",
+                "d": "to listen to",
+                "s": "Debería haber escuchado con más atención. (I should have listened more carefully.)"
+            },
+            {
+                "id": "es-1734",
+                "w": "contento",
+                "p": "konˈtento",
+                "d": "content",
+                "s": "Yo estoy contento, Mary no es mi esposa. (I'm glad Mary isn't my wife.)"
+            },
+            {
+                "id": "es-1735",
+                "w": "llevan",
+                "p": "ʎeβan",
+                "d": "to take somewhere",
+                "s": "Tom y Mary llevan ambos sombreros cafés. (Tom and Mary are both wearing brown hats.)"
+            },
+            {
+                "id": "es-1736",
+                "w": "podré",
+                "p": "poˈðɾe",
+                "d": "to be able to",
+                "s": "Yo podré arreglar la letrina esta tarde. (I am able to fix the sink this afternoon.)"
+            },
+            {
+                "id": "es-1737",
+                "w": "oscuridad",
+                "p": "oskuɾiˈdad",
+                "d": "darkness",
+                "s": "Alguien llamó mi nombre en la oscuridad. (Somebody called my name in the dark.)"
+            },
+            {
+                "id": "es-1738",
+                "w": "actuar",
+                "p": "aɡˈtwaɾ",
+                "d": "to act",
+                "s": "Si vas a actuar de esa manera yo me voy. (If you're going to act like that, I'm leaving.)"
+            },
+            {
+                "id": "es-1739",
+                "w": "siga",
+                "p": "ˈsiɡa",
+                "d": "to follow",
+                "s": "Debemos impedirle que siga bebiendo más. (We have to stop him from drinking any more.)"
+            },
+            {
+                "id": "es-1740",
+                "w": "llevado",
+                "p": "ʝeˈbado",
+                "d": "to take somewhere",
+                "s": "Se han llevado bien con los vecinos. (They've been on good terms with their neighbors.)"
+            },
+            {
+                "id": "es-1741",
+                "w": "comenzó",
+                "p": "komenˈθo",
+                "d": "to begin",
+                "s": "Sonriendo tristemente, comenzó a hablar. (Smiling sadly, she began to talk.)"
+            },
+            {
+                "id": "es-1742",
+                "w": "regresa",
+                "p": "reɣɾesa",
+                "d": "to return",
+                "s": "Él regresa a casa casi todos los fines de semana. (He comes home almost every weekend.)"
+            },
+            {
+                "id": "es-1743",
+                "w": "privado",
+                "p": "pɾiˈbado",
+                "d": "private",
+                "s": "Tengo que hablar con ustedes en privado. (I must speak to you privately.)"
+            },
+            {
+                "id": "es-1744",
+                "w": "mirada",
+                "p": "miˈɾada",
+                "d": "look",
+                "s": "Tom lanzó una mirada amenazante a Mary. (Tom gave Mary a threatening look.)"
+            },
+            {
+                "id": "es-1745",
+                "w": "demonio",
+                "p": "deˈmonjo",
+                "d": "demon",
+                "s": "El hombre le vendió su alma al demonio. (The man sold his soul to the devil.)"
+            },
+            {
+                "id": "es-1746",
+                "w": "abierta",
+                "p": "aˈbjeɾta",
+                "d": "open",
+                "s": "La tienda permanece abierta todo el día. (The shop stays open all day.)"
+            },
+            {
+                "id": "es-1747",
+                "w": "llámame",
+                "p": "ˈʝamame",
+                "d": "to summon",
+                "s": "Por favor, llámame de vuelta en una hora. (Please call me back in an hour.)"
+            },
+            {
+                "id": "es-1748",
+                "w": "siguen",
+                "p": "siɣen",
+                "d": "to follow",
+                "s": "Me siguen llegando correos no deseados. (I keep receiving unwanted emails.)"
+            },
+            {
+                "id": "es-1749",
+                "w": "romper",
+                "p": "romˈpeɾ",
+                "d": "to break",
+                "s": "No tuve problemas para romper el candado. (I had no difficulty breaking the lock.)"
+            },
+            {
+                "id": "es-1750",
+                "w": "cambia",
+                "p": "ˈkambja",
+                "d": "to change",
+                "s": "El transcurso del tiempo lo cambia todo. (Time changes everything.)"
+            },
+            {
+                "id": "es-1751",
+                "w": "fiscal",
+                "p": "fisˈkal",
+                "d": "public prosecutor",
+                "s": "Tom es un asesor fiscal. (Tom is a financial advisor.)"
+            },
+            {
+                "id": "es-1752",
+                "w": "jardín",
+                "p": "xaɾˈdin",
+                "d": "garden",
+                "s": "Amarré a mi perro al árbol en el jardín. (I tied my dog to the tree in the yard.)"
+            },
+            {
+                "id": "es-1753",
+                "w": "natural",
+                "p": "natuˈɾal",
+                "d": "natural",
+                "s": "El agua es un recurso natural importante. (Water is an important natural resource.)"
+            },
+            {
+                "id": "es-1754",
+                "w": "gratis",
+                "p": "ˈɡɾatis",
+                "d": "free",
+                "s": "Las mejores cosas en la vida son gratis. (The best things in life are free.)"
+            },
+            {
+                "id": "es-1755",
+                "w": "cuesta",
+                "p": "ˈkwesta",
+                "d": "to cost",
+                "s": "¿Cuánto cuesta esa bicicleta de montaña? (How much is that mountain bike?)"
+            },
+            {
+                "id": "es-1756",
+                "w": "amenaza",
+                "p": "ameˈnaθa",
+                "d": "threat",
+                "s": "Una promesa hecha bajo amenaza no tiene validez. (A promise given under a threat is worthless.)"
+            },
+            {
+                "id": "es-1757",
+                "w": "pon",
+                "p": "ˈpon",
+                "d": "to put",
+                "s": "Pon un poco de sal en el agua hirviendo. (Put some salt into the boiling water.)"
+            },
+            {
+                "id": "es-1758",
+                "w": "marca",
+                "p": "ˈmaɾka",
+                "d": "brand",
+                "s": "Esa marca de tequila es fuerte de veras. (That brand of tequila really packs a wallop.)"
+            },
+            {
+                "id": "es-1759",
+                "w": "comenzar",
+                "p": "komenˈθaɾ",
+                "d": "to begin",
+                "s": "El problema más grande es cuándo comenzar. (When to start is the main problem.)"
+            },
+            {
+                "id": "es-1760",
+                "w": "ponte",
+                "p": "",
+                "d": "to put",
+                "s": "Súbete las mangas y ponte a trabajar. (Roll up your sleeves and get to work.)"
+            },
+            {
+                "id": "es-1761",
+                "w": "medicina",
+                "p": "mediˈθina",
+                "d": "medicine",
+                "s": "Tómense esta medicina cada cuatro horas. (Take this medicine every four hours.)"
+            },
+            {
+                "id": "es-1762",
+                "w": "podremos",
+                "p": "poðɾemos",
+                "d": "to be able to",
+                "s": "Me temo que no podremos ayudarte mañana. (I'm afraid we won't be able to help you tomorrow.)"
+            },
+            {
+                "id": "es-1763",
+                "w": "tomé",
+                "p": "toˈme",
+                "d": "to take",
+                "s": "No tomé ningunas medidas de precaución. (I didn't take any precautions.)"
+            },
+            {
+                "id": "es-1764",
+                "w": "preciosa",
+                "p": "pɾeˈθjosa",
+                "d": "precious",
+                "s": "¡Qué preciosa bebé! ¿Puedo sujetarla? (What a cute baby! May I hold her?)"
+            },
+            {
+                "id": "es-1765",
+                "w": "sexual",
+                "p": "seɡˈswal",
+                "d": "sexual",
+                "s": "El acoso sexual se ha convertido actualmente en un tema social. (Sexual harassment has now become a social issue.)"
+            },
+            {
+                "id": "es-1766",
+                "w": "acceso",
+                "p": "aɡˈθeso",
+                "d": "access",
+                "s": "El acceso a las bicicletas es limitado. (Bicycle access is limited.)"
+            },
+            {
+                "id": "es-1767",
+                "w": "necesidad",
+                "p": "neθesiˈdad",
+                "d": "need",
+                "s": "Hay una necesidad urgente de donaciones. (There is an urgent need for donations.)"
+            },
+            {
+                "id": "es-1768",
+                "w": "dueño",
+                "p": "ˈdweɲo",
+                "d": "owner",
+                "s": "Tom reclamó ser el dueño de la tierra. (Tom claimed to be the owner of the land.)"
+            },
+            {
+                "id": "es-1769",
+                "w": "merece",
+                "p": "meɾeθe",
+                "d": "to deserve",
+                "s": "Tom se merece una palmada en la espalda. (Tom deserves a pat on the back.)"
+            },
+            {
+                "id": "es-1770",
+                "w": "rayos",
+                "p": "ˈraʝos",
+                "d": "dang it",
+                "s": "Pueden haber rayos durante una tormenta. (Lightning can occur during a storm.)"
+            },
+            {
+                "id": "es-1771",
+                "w": "mintiendo",
+                "p": "mintjendo",
+                "d": "to lie",
+                "s": "¿Qué te hace pensar que estoy mintiendo? (What makes you think I'm lying?)"
+            },
+            {
+                "id": "es-1772",
+                "w": "tantas",
+                "p": "ˈtantas",
+                "d": "so much",
+                "s": "¿Por qué haces siempre tantas preguntas? (Why do you always ask so many questions?)"
+            },
+            {
+                "id": "es-1773",
+                "w": "imagino",
+                "p": "imaˈxino",
+                "d": "to imagine",
+                "s": "Imagino que soy demasiado viejo para ti. (I guess I'm too old for you.)"
+            },
+            {
+                "id": "es-1774",
+                "w": "fantasma",
+                "p": "fanˈtasma",
+                "d": "ghost",
+                "s": "Parecía como si hubiese visto un fantasma. (She looked as though she had seen a ghost.)"
+            },
+            {
+                "id": "es-1775",
+                "w": "creerlo",
+                "p": "kɾeeɾlo",
+                "d": "to believe",
+                "s": "¿Puedes creerlo? Él es aún más flojo que yo. (Can you believe it? He's even lazier than me.)"
+            },
+            {
+                "id": "es-1776",
+                "w": "llamé",
+                "p": "ʝaˈme",
+                "d": "to summon",
+                "s": "Cuando la llamé por teléfono, no estaba. (She was out when I called.)"
+            },
+            {
+                "id": "es-1777",
+                "w": "ponga",
+                "p": "poŋga",
+                "d": "to put",
+                "s": "Ponga el libro en el estante, por favor. (Please put the book on the shelf.)"
+            },
+            {
+                "id": "es-1778",
+                "w": "dé",
+                "p": "ˈde",
+                "d": "to give",
+                "s": "Tom no puede hacer lo que le dé la gana. (Tom can't just do anything he wants.)"
+            },
+            {
+                "id": "es-1779",
+                "w": "pollo",
+                "p": "ˈpoʝo",
+                "d": "chicken",
+                "s": "Ella cocina el pollo como a mí me gusta. (She cooks chicken the way I like.)"
+            },
+            {
+                "id": "es-1780",
+                "w": "varios",
+                "p": "ˈbaɾjos",
+                "d": "various",
+                "s": "No me dirigió la palabra en varios días. (He didn't speak to me for several days.)"
+            },
+            {
+                "id": "es-1781",
+                "w": "efecto",
+                "p": "eˈfeɡto",
+                "d": "effect",
+                "s": "El remedio tuvo un efecto inmediato. (The medicine had an immediate effect.)"
+            },
+            {
+                "id": "es-1782",
+                "w": "felicidad",
+                "p": "feliθiˈdad",
+                "d": "happiness",
+                "s": "La felicidad consiste en la moderación. (Happiness is a question of moderation.)"
+            },
+            {
+                "id": "es-1783",
+                "w": "espada",
+                "p": "esˈpada",
+                "d": "sword",
+                "s": "La pluma es más fuerte que la espada. (The pen is mightier than the sword.)"
+            },
+            {
+                "id": "es-1784",
+                "w": "relaciones",
+                "p": "relaθjones",
+                "d": "relation",
+                "s": "Las relaciones humanas son complejas. (Human relationships are complex.)"
+            },
+            {
+                "id": "es-1785",
+                "w": "entró",
+                "p": "enˈtɾo",
+                "d": "to enter",
+                "s": "Una pelota entró volando por la ventana. (A ball flew in through the window.)"
+            },
+            {
+                "id": "es-1786",
+                "w": "resultado",
+                "p": "resulˈtado",
+                "d": "result",
+                "s": "Él estaba muy contento con el resultado. (He was very pleased with the result.)"
+            },
+            {
+                "id": "es-1787",
+                "w": "sombrero",
+                "p": "somˈbɾeɾo",
+                "d": "hat",
+                "s": "Encontré mi sombrero en el coche de Tom. (I found my hat in Tom's car.)"
+            },
+            {
+                "id": "es-1788",
+                "w": "menor",
+                "p": "meˈnoɾ",
+                "d": "smaller",
+                "s": "Mary era como una hermana menor para mí. (Mary was like a little sister to me.)"
+            },
+            {
+                "id": "es-1789",
+                "w": "recibido",
+                "p": "reθiˈbido",
+                "d": "to receive",
+                "s": "He recibido una buena oferta de trabajo. (I received a good job offer.)"
+            },
+            {
+                "id": "es-1790",
+                "w": "negra",
+                "p": "ˈneɡɾa",
+                "d": "black",
+                "s": "El sospechoso es un varón de raza negra. (The suspect is a black male.)"
+            },
+            {
+                "id": "es-1791",
+                "w": "to",
+                "p": "",
+                "d": "whoa",
+                "s": "Mary no podía creer que Tom nunca haya escuchado Stairway to Heaven. (Mary couldn't believe that Tom had never listened to Stairway to Heaven.)"
+            },
+            {
+                "id": "es-1792",
+                "w": "habido",
+                "p": "aˈbido",
+                "d": "to have",
+                "s": "Esta es la idea más tonta que ha habido. (This is the dumbest idea ever.)"
+            },
+            {
+                "id": "es-1793",
+                "w": "limpio",
+                "p": "ˈlimpjo",
+                "d": "clean",
+                "s": "Ella siempre mantiene su cuarto limpio. (She always keeps her room clean.)"
+            },
+            {
+                "id": "es-1794",
+                "w": "china",
+                "p": "ˈt͡ʃina",
+                "d": "pebble",
+                "s": "Los pandas gigantes sólo viven en China. (Giant pandas live only in China.)"
+            },
+            {
+                "id": "es-1795",
+                "w": "juegos",
+                "p": "ˈxweɡos",
+                "d": "play",
+                "s": "A ella le gustan los juegos de palabras. (She likes word games.)"
+            },
+            {
+                "id": "es-1796",
+                "w": "correo",
+                "p": "koˈreo",
+                "d": "mail",
+                "s": "Hoy llegó un libro para ti en el correo. (A book came for you in the mail today.)"
+            },
+            {
+                "id": "es-1797",
+                "w": "confía",
+                "p": "koˈmfia",
+                "d": "to reassure",
+                "s": "Tom no confía en ninguno de nosotros. (Tom doesn't trust any of us.)"
+            },
+            {
+                "id": "es-1798",
+                "w": "video",
+                "p": "biˈdeo",
+                "d": "video",
+                "s": "No le podés mostrar este video a nadie. (You can't show this video to anyone.)"
+            },
+            {
+                "id": "es-1799",
+                "w": "perfectamente",
+                "p": "peɾˌfeɡtaˈmente",
+                "d": "perfectly",
+                "s": "Sabes perfectamente lo que quiero decir. (You know very well what I mean.)"
+            },
+            {
+                "id": "es-1800",
+                "w": "harán",
+                "p": "aˈɾan",
+                "d": "to do",
+                "s": "Mis amigos harán una fiesta para mí mañana. (My friends will give me a party tomorrow.)"
+            },
+            {
+                "id": "es-1801",
+                "w": "teatro",
+                "p": "teˈatɾo",
+                "d": "theater",
+                "s": "Tom desearía haber ido al teatro anoche. (Tom wishes he had gone to the theater last night.)"
+            },
+            {
+                "id": "es-1802",
+                "w": "dormido",
+                "p": "doɾˈmido",
+                "d": "asleep",
+                "s": "Encontré al chico profundamente dormido. (I found the boy sound asleep.)"
+            },
+            {
+                "id": "es-1803",
+                "w": "local",
+                "p": "loˈkal",
+                "d": "local",
+                "s": "Una familia local se ofrece a alojarte. (A local family has offered you a place to stay.)"
+            },
+            {
+                "id": "es-1804",
+                "w": "quedado",
+                "p": "keˈdado",
+                "d": "to be",
+                "s": "Yo debería haber quedado fuera de eso. (I should have stayed out of it.)"
+            },
+            {
+                "id": "es-1805",
+                "w": "lástima",
+                "p": "ˈlastima",
+                "d": "pity",
+                "s": "Es una lástima que Tomás no pueda venir. (It's a pity that Tom can't come.)"
+            },
+            {
+                "id": "es-1806",
+                "w": "calles",
+                "p": "ˈkaʝes",
+                "d": "street",
+                "s": "Ellos corrieron desnudos por las calles. (They ran through the streets naked.)"
+            },
+            {
+                "id": "es-1807",
+                "w": "créeme",
+                "p": "",
+                "d": "to create",
+                "s": "Créeme o no, pero esta vez no estoy siendo sarcástico. (Believe it or not, I'm not sarcastic this time.)"
+            },
+            {
+                "id": "es-1808",
+                "w": "responsabilidad",
+                "p": "responsabiliˈdad",
+                "d": "responsibility",
+                "s": "¿Quién asumirá responsabilidad por esto? (Who's taking responsibility for this?)"
+            },
+            {
+                "id": "es-1809",
+                "w": "búsqueda",
+                "p": "ˈbuskeda",
+                "d": "search",
+                "s": "Tom se debatió en búsqueda de su libertad. (Tom struggled to get free.)"
+            },
+            {
+                "id": "es-1810",
+                "w": "dedo",
+                "p": "ˈdedo",
+                "d": "digit: finger or toe",
+                "s": "Tom retiró la astilla del dedo de María. (Tom removed the splinter from Mary's finger.)"
+            },
+            {
+                "id": "es-1811",
+                "w": "tonta",
+                "p": "ˈtonta",
+                "d": "stupid",
+                "s": "Esta es la idea más tonta que ha habido. (This is the dumbest idea ever.)"
+            },
+            {
+                "id": "es-1812",
+                "w": "recuerdos",
+                "p": "rekweɾðos",
+                "d": "memory",
+                "s": "Tom no tiene recuerdos de lo que ocurrió. (Tom has no memory of what happened.)"
+            },
+            {
+                "id": "es-1813",
+                "w": "razones",
+                "p": "raθones",
+                "d": "reason",
+                "s": "Desearía tener razones para no quedarme. (I wish I had a reason not to stay.)"
+            },
+            {
+                "id": "es-1814",
+                "w": "escuchando",
+                "p": "eskutʃando",
+                "d": "to listen to",
+                "s": "No quiero seguir escuchando tus quejas. (I don't want to hear any more of your complaining.)"
+            },
+            {
+                "id": "es-1815",
+                "w": "elegir",
+                "p": "eleˈxiɾ",
+                "d": "to choose",
+                "s": "Tenemos que elegir un nombre para el niño. (We have to pick a name for the child.)"
+            },
+            {
+                "id": "es-1816",
+                "w": "amas",
+                "p": "ˈamas",
+                "d": "to love",
+                "s": "¿Podrías, por favor, decirme por qué la amas? (Could you please tell me why you love her?)"
+            },
+            {
+                "id": "es-1817",
+                "w": "huele",
+                "p": "ˈw̝ele",
+                "d": "to smell",
+                "s": "¡Esto huele estupendo! ¿Qué estás cocinando? (This smells great! What are you cooking?)"
+            },
+            {
+                "id": "es-1818",
+                "w": "almuerzo",
+                "p": "alˈmweɾθo",
+                "d": "lunch",
+                "s": "¿El almuerzo va incluido en este precio? (Is lunch included in this price?)"
+            },
+            {
+                "id": "es-1819",
+                "w": "cien",
+                "p": "ˈθjen",
+                "d": "one hundred",
+                "s": "Tom corrió cien metros en doce segundos. (Tom ran a hundred meters in twelve seconds.)"
+            },
+            {
+                "id": "es-1820",
+                "w": "tantos",
+                "p": "ˈtantos",
+                "d": "so much",
+                "s": "Jamás había visto tantos coches parados. (I'd never seen so many stopped cars.)"
+            },
+            {
+                "id": "es-1821",
+                "w": "pago",
+                "p": "ˈpaɡo",
+                "d": "pay",
+                "s": "¿Por qué no usaste un teléfono de pago? (Why didn't you use a pay phone?)"
+            },
+            {
+                "id": "es-1822",
+                "w": "normalmente",
+                "p": "noɾˌmalˈmente",
+                "d": "normally",
+                "s": "¿Qué es lo que causa dolor normalmente? (What usually causes the pain?)"
+            },
+            {
+                "id": "es-1823",
+                "w": "pastel",
+                "p": "pasˈtel",
+                "d": "pastry",
+                "s": "Necesito azúcar para preparar un pastel. (I need some sugar to make a cake.)"
+            },
+            {
+                "id": "es-1824",
+                "w": "bastardo",
+                "p": "basˈtaɾdo",
+                "d": "bastard",
+                "s": ""
+            },
+            {
+                "id": "es-1825",
+                "w": "cinta",
+                "p": "ˈθinta",
+                "d": "ribbon",
+                "s": "Él borró su discurso de la cinta. (He erased his speech from the tape.)"
+            },
+            {
+                "id": "es-1826",
+                "w": "pasé",
+                "p": "paˈse",
+                "d": "to pass",
+                "s": "Anoche me lo pasé muy bien con vosotros. (I had a great time with you last night.)"
+            },
+            {
+                "id": "es-1827",
+                "w": "dígame",
+                "p": "ˈdiɡame",
+                "d": "tell me",
+                "s": "Dígame cómo llegar a la playa, por favor. (Please tell me how to get to the beach.)"
+            },
+            {
+                "id": "es-1828",
+                "w": "costa",
+                "p": "ˈkosta",
+                "d": "coast",
+                "s": "De aquí a la costa son unos 3 kilómetros. (It's about three kilometers from here to the coast.)"
+            },
+            {
+                "id": "es-1829",
+                "w": "levántate",
+                "p": "",
+                "d": "to lift",
+                "s": "¡Mañana por la mañana levántate pronto! (Get up early tomorrow morning!)"
+            },
+            {
+                "id": "es-1830",
+                "w": "llamando",
+                "p": "ʝaˈmando",
+                "d": "to summon",
+                "s": "Creo que sabes por qué te estoy llamando. (I think you know why I'm calling you.)"
+            },
+            {
+                "id": "es-1831",
+                "w": "cerrado",
+                "p": "θeˈrado",
+                "d": "shut",
+                "s": "Me acuerdo de haber cerrado la puerta. (I remember that I closed the door.)"
+            },
+            {
+                "id": "es-1832",
+                "w": "interés",
+                "p": "inteˈɾes",
+                "d": "interest",
+                "s": "Ha decaído mucho el interés del público. (Public interest has fallen off a lot.)"
+            },
+            {
+                "id": "es-1833",
+                "w": "enfermera",
+                "p": "enfeɾˈmeɾa",
+                "d": "nurse",
+                "s": "La enfermera de mi abuela es muy amable. (My grandmother's nurse is very kind.)"
+            },
+            {
+                "id": "es-1834",
+                "w": "comienzo",
+                "p": "koˈmjenθo",
+                "d": "beginning",
+                "s": "Al comienzo, pensé que estaban enfermas. (At first, I thought they were sick.)"
+            },
+            {
+                "id": "es-1835",
+                "w": "olvidé",
+                "p": "olβiˈðe",
+                "d": "to forget",
+                "s": "Me olvidé mi tarjeta de crédito en casa. (I forgot my credit card at home.)"
+            },
+            {
+                "id": "es-1836",
+                "w": "fuese",
+                "p": "ˈfwese",
+                "d": "to go",
+                "s": "Me gustaría que más gente fuese como tú. (I wish that more people could be like you.)"
+            },
+            {
+                "id": "es-1837",
+                "w": "militar",
+                "p": "miliˈtaɾ",
+                "d": "military",
+                "s": "Él fue el héroe militar de la Guerra Civil. (He was the military hero of the Civil War.)"
+            },
+            {
+                "id": "es-1838",
+                "w": "polvo",
+                "p": "ˈpolbo",
+                "d": "dust",
+                "s": "Tom quitó el polvo de la lámpara vieja. (Tom dusted off the old lamp.)"
+            },
+            {
+                "id": "es-1839",
+                "w": "bella",
+                "p": "ˈbeʝa",
+                "d": "beautiful",
+                "s": "Pienso que ella tiene una bella sonrisa. (I think she has a beautiful smile.)"
+            },
+            {
+                "id": "es-1840",
+                "w": "quedo",
+                "p": "ˈkedo",
+                "d": "quietly",
+                "s": "A menudo me quedo despierto toda la noche. (I often stay up all night.)"
+            },
+            {
+                "id": "es-1841",
+                "w": "encontraste",
+                "p": "enkonˈtɾaste",
+                "d": "to meet",
+                "s": "¿Dónde encontraste a este horrible perro? (Where did you find this awful dog?)"
+            },
+            {
+                "id": "es-1842",
+                "w": "voluntad",
+                "p": "bolunˈtad",
+                "d": "will",
+                "s": "Me casé con él en contra de mi voluntad. (I married him against my will.)"
+            },
+            {
+                "id": "es-1843",
+                "w": "varias",
+                "p": "ˈbaɾjas",
+                "d": "various",
+                "s": "Tom compró varias cámaras el año pasado. (Tom bought several cameras last year.)"
+            },
+            {
+                "id": "es-1844",
+                "w": "teoría",
+                "p": "teoˈɾia",
+                "d": "theory",
+                "s": "La teoría es demasiado abstracta para mí. (The theory is too abstract for me.)"
+            },
+            {
+                "id": "es-1845",
+                "w": "roja",
+                "p": "ˈroxa",
+                "d": "red",
+                "s": "Eso no es sangre. Es sólo pintura roja. (This isn't blood. It's just red paint.)"
+            },
+            {
+                "id": "es-1846",
+                "w": "cuento",
+                "p": "ˈkwento",
+                "d": "story",
+                "s": "Ella no pudo comprender el cuento entero. (She could not understand the whole story.)"
+            },
+            {
+                "id": "es-1847",
+                "w": "escenario",
+                "p": "esθeˈnaɾjo",
+                "d": "scenario",
+                "s": "Siempre he querido cantar en un escenario. (I've always wanted to sing on stage.)"
+            },
+            {
+                "id": "es-1848",
+                "w": "diario",
+                "p": "ˈdjaɾjo",
+                "d": "daily",
+                "s": "¿Ha leído usted el diario de esta mañana? (Have you read this morning's paper?)"
+            },
+            {
+                "id": "es-1849",
+                "w": "propiedad",
+                "p": "pɾopjeˈdad",
+                "d": "propriety",
+                "s": "Ellos no tienen derechos sobre la propiedad. (They have no claim to the property.)"
+            },
+            {
+                "id": "es-1850",
+                "w": "agujero",
+                "p": "aɡuˈxeɾo",
+                "d": "hole",
+                "s": "El agujero es lo suficientemente grande. (The hole is big enough.)"
+            },
+            {
+                "id": "es-1851",
+                "w": "aspecto",
+                "p": "asˈpeɡto",
+                "d": "aspect",
+                "s": "Tenía el aspecto de llevar días sin comer. (He looked as if he had not eaten for days.)"
+            },
+            {
+                "id": "es-1852",
+                "w": "campamento",
+                "p": "kampaˈmento",
+                "d": "camping",
+                "s": "Tom va de campamento todos los veranos. (Tom goes camping every summer.)"
+            },
+            {
+                "id": "es-1853",
+                "w": "descansar",
+                "p": "deskanˈsaɾ",
+                "d": "to rest",
+                "s": "Es muy importante descansar lo suficiente. (It's very important to get enough rest.)"
+            },
+            {
+                "id": "es-1854",
+                "w": "matarme",
+                "p": "mataɾme",
+                "d": "to kill",
+                "s": "Tengo miedo de que Tom vaya a matarme. (I'm scared Tom is going to kill me.)"
+            },
+            {
+                "id": "es-1855",
+                "w": "metido",
+                "p": "meˈtido",
+                "d": "nosy",
+                "s": "Tom cree que está metido en un gran lío. (Tom thinks he's in big trouble.)"
+            },
+            {
+                "id": "es-1856",
+                "w": "quiso",
+                "p": "ˈkiso",
+                "d": "to desire",
+                "s": "Tom no quiso romperle el corazón a Mary. (Tom didn't want to break Mary's heart.)"
+            },
+            {
+                "id": "es-1857",
+                "w": "ángel",
+                "p": "ˈanxel",
+                "d": "angel",
+                "s": "Sus palabras fueron como las de un ángel. (Her words were like those of an angel.)"
+            },
+            {
+                "id": "es-1858",
+                "w": "enviar",
+                "p": "emˈbjaɾ",
+                "d": "to send",
+                "s": "¿Me puedes enviar un catálogo por correo? (Would you please send me a catalogue by mail?)"
+            },
+            {
+                "id": "es-1859",
+                "w": "impresionante",
+                "p": "impɾesjoˈnante",
+                "d": "impressive",
+                "s": "Ayer escuché una historia impresionante. (I heard an awesome story yesterday.)"
+            },
+            {
+                "id": "es-1860",
+                "w": "proceso",
+                "p": "pɾoˈθeso",
+                "d": "process",
+                "s": "El proceso está totalmente robotizado. (The process is totally automated.)"
+            },
+            {
+                "id": "es-1861",
+                "w": "intentado",
+                "p": "intenˈtado",
+                "d": "to try",
+                "s": "He intentado suicidarme en dos ocasiones. (I've attempted suicide twice.)"
+            },
+            {
+                "id": "es-1862",
+                "w": "mio",
+                "p": "ˈmjo",
+                "d": "meow",
+                "s": ""
+            },
+            {
+                "id": "es-1863",
+                "w": "fuente",
+                "p": "ˈfwente",
+                "d": "spring",
+                "s": "¿Cuál es tu mayor fuente de inspiración? (What is your greatest source of inspiration?)"
+            },
+            {
+                "id": "es-1864",
+                "w": "alcalde",
+                "p": "alˈkalde",
+                "d": "mayor",
+                "s": "Él estrechó las manos con el alcalde. (He shook hands with the mayor.)"
+            },
+            {
+                "id": "es-1865",
+                "w": "ocurrido",
+                "p": "okuˈrido",
+                "d": "unexpected",
+                "s": "No puedes cambiar lo que ya ha ocurrido. (You can't change what's already happened.)"
+            },
+            {
+                "id": "es-1866",
+                "w": "malos",
+                "p": "malos",
+                "d": "bad",
+                "s": "No es fácil librarse de los malos hábitos. (It's not easy to get rid of a bad habit.)"
+            },
+            {
+                "id": "es-1867",
+                "w": "carretera",
+                "p": "kareˈteɾa",
+                "d": "road",
+                "s": "Por la carretera iba un carro de mulas. (There was a mule cart on the road.)"
+            },
+            {
+                "id": "es-1868",
+                "w": "desapareció",
+                "p": "desapaɾeˈθjo",
+                "d": "to disappear",
+                "s": "El sol desapareció detrás de las nubes. (The sun disappeared behind the clouds.)"
+            },
+            {
+                "id": "es-1869",
+                "w": "desayuno",
+                "p": "desaˈʝuno",
+                "d": "breakfast",
+                "s": "Tom se encontró con Mary en el desayuno. (Tom met Mary for breakfast.)"
+            },
+            {
+                "id": "es-1870",
+                "w": "débil",
+                "p": "ˈdebil",
+                "d": "weak",
+                "s": "Ellos sintieron que él era demasiado débil. (They felt he was too weak.)"
+            },
+            {
+                "id": "es-1871",
+                "w": "roma",
+                "p": "",
+                "d": "blunt",
+                "s": "La historia de Roma es muy interesante. (The history of Rome is very interesting.)"
+            },
+            {
+                "id": "es-1872",
+                "w": "sabido",
+                "p": "saˈbido",
+                "d": "well-known",
+                "s": "Si lo hubiera sabido os lo habría dicho. (If I'd known it, I'd have told you.)"
+            },
+            {
+                "id": "es-1873",
+                "w": "comienza",
+                "p": "komjenθa",
+                "d": "to begin",
+                "s": "El espectáculo comienza a las dos y media. (The show starts at 2:30.)"
+            },
+            {
+                "id": "es-1874",
+                "w": "tambien",
+                "p": "",
+                "d": "also",
+                "s": ""
+            },
+            {
+                "id": "es-1875",
+                "w": "intentarlo",
+                "p": "intentaɾlo",
+                "d": "to try",
+                "s": "Creo que deberíamos volver a intentarlo. (I think we should try again.)"
+            },
+            {
+                "id": "es-1876",
+                "w": "miembro",
+                "p": "ˈmjembɾo",
+                "d": "member",
+                "s": "Tomás parece ser miembro de una pandilla. (Tom seems to be a member of a gang.)"
+            },
+            {
+                "id": "es-1877",
+                "w": "perdiendo",
+                "p": "peɾðjendo",
+                "d": "to lose",
+                "s": "¿Piensas que estoy perdiendo mi tiempo? (Do you think I'm wasting my time?)"
+            },
+            {
+                "id": "es-1878",
+                "w": "hayan",
+                "p": "ˈaʝan",
+                "d": "to have",
+                "s": "Tienes suerte de que no te hayan matado. (You're lucky you weren't killed.)"
+            },
+            {
+                "id": "es-1879",
+                "w": "fueras",
+                "p": "ˈfweɾas",
+                "d": "to go",
+                "s": "Desearía que fueras un poco más como yo. (I wish you were a little more like me.)"
+            },
+            {
+                "id": "es-1880",
+                "w": "resultados",
+                "p": "resulˈtados",
+                "d": "result",
+                "s": "Estoy insatisfecho con estos resultados. (I'm dissatisfied with these results.)"
+            },
+            {
+                "id": "es-1881",
+                "w": "mata",
+                "p": "ˈmata",
+                "d": "to kill",
+                "s": "Lo que no nos mata nos hace más fuertes. (What doesn't kill us makes us stronger.)"
+            },
+            {
+                "id": "es-1882",
+                "w": "valiente",
+                "p": "baˈljente",
+                "d": "brave",
+                "s": "Su valiente hazaña le otorgó el respeto. (His brave deed earned him respect.)"
+            },
+            {
+                "id": "es-1883",
+                "w": "deber",
+                "p": "deˈbeɾ",
+                "d": "to owe",
+                "s": "Cumpliré con mi deber lo mejor que pueda. (I will do my duty to the best of my ability.)"
+            },
+            {
+                "id": "es-1884",
+                "w": "pecho",
+                "p": "ˈpet͡ʃo",
+                "d": "thorax",
+                "s": "El chico abrazó a su pecho al cachorro. (The boy hugged the puppy to his chest.)"
+            },
+            {
+                "id": "es-1885",
+                "w": "gustó",
+                "p": "guˈsto",
+                "d": "translated as",
+                "s": "No me gustó el argumento de la película. (I didn't like the plot of the movie.)"
+            },
+            {
+                "id": "es-1886",
+                "w": "oyes",
+                "p": "ˈoʝes",
+                "d": "to hear",
+                "s": "No creas todo lo que oyes en las noticias. (Don't believe everything you hear on the news.)"
+            },
+            {
+                "id": "es-1887",
+                "w": "periódico",
+                "p": "peˈɾjodiko",
+                "d": "newspaper",
+                "s": "¿Puedes pasarme el periódico, por favor? (Can you please pass me the newspaper?)"
+            },
+            {
+                "id": "es-1888",
+                "w": "mami",
+                "p": "ˈmami",
+                "d": "mother",
+                "s": "Guácala, mami y papi se están besando. (Ugh, mommy and daddy are kissing.)"
+            },
+            {
+                "id": "es-1889",
+                "w": "piensan",
+                "p": "ˈpjensan",
+                "d": "to think",
+                "s": "¿A quién le importa lo que ellos piensan? (Who cares what they think?)"
+            },
+            {
+                "id": "es-1890",
+                "w": "tv",
+                "p": "teˈbe",
+                "d": "TV",
+                "s": "A la mayoría de la gente le gusta ver TV. (Most people like watching TV.)"
+            },
+            {
+                "id": "es-1891",
+                "w": "cansada",
+                "p": "kanˈsada",
+                "d": "tired",
+                "s": "Estoy tan cansada que no puedo estudiar. (I am so tired that I can't study.)"
+            },
+            {
+                "id": "es-1892",
+                "w": "limpiar",
+                "p": "limˈpjaɾ",
+                "d": "to clean",
+                "s": "Era mi turno para limpiar la habitación. (It was my turn to clean the room.)"
+            },
+            {
+                "id": "es-1893",
+                "w": "crear",
+                "p": "kɾeˈaɾ",
+                "d": "to create",
+                "s": "Vinimos aquí para crear una nueva ciudad. (We came here to build a new town.)"
+            },
+            {
+                "id": "es-1894",
+                "w": "explicar",
+                "p": "eɡspliˈkaɾ",
+                "d": "to explain",
+                "s": "Si me dejas hablar, podré explicar todo. (If you allow me to speak, I'll be able to explain everything.)"
+            },
+            {
+                "id": "es-1895",
+                "w": "robado",
+                "p": "roˈbado",
+                "d": "stolen",
+                "s": "El niño negó haber robado la bicicleta. (The boy denied having stolen the bicycle.)"
+            },
+            {
+                "id": "es-1896",
+                "w": "resolver",
+                "p": "resolˈbeɾ",
+                "d": "to resolve",
+                "s": "Tengo que resolver el problema yo mismo. (I have to solve the problem myself.)"
+            },
+            {
+                "id": "es-1897",
+                "w": "maté",
+                "p": "maˈte",
+                "d": "to kill",
+                "s": "Maté a la rata con una vara. (I killed the rat with a stick.)"
+            },
+            {
+                "id": "es-1898",
+                "w": "guapo",
+                "p": "ˈɡwapo",
+                "d": "good-looking",
+                "s": "Nunca dije que pensaba que Tom era guapo. (I never said I thought Tom was handsome.)"
+            },
+            {
+                "id": "es-1899",
+                "w": "continuar",
+                "p": "kontiˈnwaɾ",
+                "d": "to continue",
+                "s": "No podemos hacer nada más que continuar. (We have no choice but to carry on.)"
+            },
+            {
+                "id": "es-1900",
+                "w": "sheriff",
+                "p": "ˈʃeɾif",
+                "d": "sheriff",
+                "s": ""
+            },
+            {
+                "id": "es-1901",
+                "w": "funcionar",
+                "p": "funθjoˈnaɾ",
+                "d": "to work",
+                "s": "¿Está seguro de que eso va a funcionar? (Are you sure it'll work?)"
+            },
+            {
+                "id": "es-1902",
+                "w": "extra",
+                "p": "ˈeɡstɾa",
+                "d": "additional",
+                "s": "No sabía qué hacer con la comida extra. (He didn't know what to do with the extra food.)"
+            },
+            {
+                "id": "es-1903",
+                "w": "primo",
+                "p": "ˈpɾimo",
+                "d": "cousin",
+                "s": "Mi primo es bueno haciendo trucos de magia. (My cousin is good at doing magic tricks.)"
+            },
+            {
+                "id": "es-1904",
+                "w": "manejar",
+                "p": "maneˈxaɾ",
+                "d": "to handle",
+                "s": "¿Ha aprendido usted a manejar un coche? (Have you learned to drive a car?)"
+            },
+            {
+                "id": "es-1905",
+                "w": "primeros",
+                "p": "pɾiˈmeɾos",
+                "d": "first",
+                "s": "Necesito un botiquín de primeros auxilios. (I need a first aid kit.)"
+            },
+            {
+                "id": "es-1906",
+                "w": "acto",
+                "p": "ˈaɡto",
+                "d": "act",
+                "s": "El suicidio es un acto de desesperación. (Suicide is a desperate act.)"
+            },
+            {
+                "id": "es-1907",
+                "w": "poniendo",
+                "p": "ponjendo",
+                "d": "to put",
+                "s": "Está poniendo la mesa para el desayuno. (She lays the table for breakfast.)"
+            },
+            {
+                "id": "es-1908",
+                "w": "números",
+                "p": "ˈnumeɾos",
+                "d": "number",
+                "s": "Uno, tres y cinco son números impares. (One, three, and five are odd numbers.)"
+            },
+            {
+                "id": "es-1909",
+                "w": "kilómetros",
+                "p": "kiˈlometɾos",
+                "d": "kilometre",
+                "s": "Todavía quedan 50 kilómetros hasta París. (It's fifty kilometers to Paris.)"
+            },
+            {
+                "id": "es-1910",
+                "w": "llevará",
+                "p": "ʎeβaˈɾa",
+                "d": "to take somewhere",
+                "s": "¿Cuánto tiempo te llevará pintar mi casa? (How long will it take you to paint my house?)"
+            },
+            {
+                "id": "es-1911",
+                "w": "niñas",
+                "p": "ˈniɲas",
+                "d": "girl",
+                "s": "¿Por qué las niñas son tan complicadas? (Why are girls so complicated?)"
+            },
+            {
+                "id": "es-1912",
+                "w": "premio",
+                "p": "ˈpɾemjo",
+                "d": "prize",
+                "s": "Tom obtuvo el primer premio, ¿no es así? (Tom got first prize, didn't he?)"
+            },
+            {
+                "id": "es-1913",
+                "w": "internet",
+                "p": "inteɾˈnet",
+                "d": "internet",
+                "s": "No todo el mundo tiene acceso a internet. (Not everyone has access to the Internet.)"
+            },
+            {
+                "id": "es-1914",
+                "w": "harías",
+                "p": "aˈɾias",
+                "d": "to do",
+                "s": "Tom dijo que tú harías muchas preguntas. (Tom said you would ask a lot of questions.)"
+            },
+            {
+                "id": "es-1915",
+                "w": "inútil",
+                "p": "iˈnutil",
+                "d": "useless",
+                "s": "Este diccionario es prácticamente inútil. (This dictionary is nearly useless.)"
+            },
+            {
+                "id": "es-1916",
+                "w": "domingo",
+                "p": "doˈminɡo",
+                "d": "Sunday",
+                "s": "Este año, la navidad cae un día domingo. (Christmas falls on Sunday this year.)"
+            },
+            {
+                "id": "es-1917",
+                "w": "tomas",
+                "p": "ˈtomas",
+                "d": "to take",
+                "s": "Tomas movió su cabeza para decir que no. (Tom shook his head to say no.)"
+            },
+            {
+                "id": "es-1918",
+                "w": "sensación",
+                "p": "sensaˈθjon",
+                "d": "sensation",
+                "s": "Yo también tengo una sensación similar. (I have a similar feeling.)"
+            },
+            {
+                "id": "es-1919",
+                "w": "alcohol",
+                "p": "alˈkol",
+                "d": "alcohol",
+                "s": "Necesito comprar alcohol para la fiesta. (I need to buy booze for the party.)"
+            },
+            {
+                "id": "es-1920",
+                "w": "tercera",
+                "p": "teɾˈθeɾa",
+                "d": "third",
+                "s": "Ella lo intentó una tercera vez. (She tried a third time.)"
+            },
+            {
+                "id": "es-1921",
+                "w": "agentes",
+                "p": "axentes",
+                "d": "agent",
+                "s": "Somos agentes del FBI. (We're FBI agents.)"
+            },
+            {
+                "id": "es-1922",
+                "w": "disculpas",
+                "p": "diskulpas",
+                "d": "excuse",
+                "s": "Tom besaba a Mary y le pedía disculpas. (Tom kissed Mary and apologized.)"
+            },
+            {
+                "id": "es-1923",
+                "w": "antiguo",
+                "p": "anˈtiɡwo",
+                "d": "old",
+                "s": "Trabajaba con Tom en mi antiguo trabajo. (I used to work with Tom back at my old job.)"
+            },
+            {
+                "id": "es-1924",
+                "w": "guapa",
+                "p": "ˈɡwapa",
+                "d": "good-looking",
+                "s": "Mi madre era muy guapa cuando era joven. (My mother was very pretty when she was young.)"
+            },
+            {
+                "id": "es-1925",
+                "w": "asustado",
+                "p": "asusˈtado",
+                "d": "scared",
+                "s": "Tom se sentía desamparado y asustado. (Tom felt helpless and frightened.)"
+            },
+            {
+                "id": "es-1926",
+                "w": "puedan",
+                "p": "ˈpwedan",
+                "d": "to be able to",
+                "s": "Ponerlo donde los niños no puedan cogerlo. (Put it where children can't get at it.)"
+            },
+            {
+                "id": "es-1927",
+                "w": "sexy",
+                "p": "ˈseɡsi",
+                "d": "sexy",
+                "s": "Tienes piernas muy sexy. (You have very sexy legs.)"
+            },
+            {
+                "id": "es-1928",
+                "w": "genio",
+                "p": "ˈxenjo",
+                "d": "genius",
+                "s": "No es una exageración llamarle un genio. (It is no exaggeration to call him a genius.)"
+            },
+            {
+                "id": "es-1929",
+                "w": "recuperar",
+                "p": "rekupeˈɾaɾ",
+                "d": "to recover",
+                "s": "Tenemos que recuperar el tiempo perdido. (We must make up for lost time.)"
+            },
+            {
+                "id": "es-1930",
+                "w": "creemos",
+                "p": "kɾeemos",
+                "d": "to create",
+                "s": "No creemos que Tom haya matado a María. (We don't think Tom killed Mary.)"
+            },
+            {
+                "id": "es-1931",
+                "w": "lengua",
+                "p": "ˈlenɡwa",
+                "d": "tongue",
+                "s": "Trabaja el cerebro antes que la lengua. (Think before you speak.)"
+            },
+            {
+                "id": "es-1932",
+                "w": "ladrón",
+                "p": "laˈdɾon",
+                "d": "thief",
+                "s": "El ladrón encerró al niño en el armario. (The burglar shut the child in the closet.)"
+            },
+            {
+                "id": "es-1933",
+                "w": "intenté",
+                "p": "intenˈte",
+                "d": "to try",
+                "s": "Intenté persuadirle sin demasiado éxito. (I tried in vain to persuade them.)"
+            },
+            {
+                "id": "es-1934",
+                "w": "examen",
+                "p": "eɡˈsamen",
+                "d": "exam",
+                "s": "Deberías volver a presentarte al examen. (You should try the exam again.)"
+            },
+            {
+                "id": "es-1935",
+                "w": "deprisa",
+                "p": "deˈpɾisa",
+                "d": "quickly",
+                "s": "El mundo cambia cada vez más deprisa. (The world is changing more and more quickly.)"
+            },
+            {
+                "id": "es-1936",
+                "w": "montaña",
+                "p": "monˈtaɲa",
+                "d": "mountain",
+                "s": "¿Cuánto cuesta esa bicicleta de montaña? (How much is that mountain bike?)"
+            },
+            {
+                "id": "es-1937",
+                "w": "durmiendo",
+                "p": "duɾmjendo",
+                "d": "to sleep",
+                "s": "Hay gente que se pasa la vida durmiendo. (Some people spend their lives sleeping.)"
+            },
+            {
+                "id": "es-1938",
+                "w": "disparar",
+                "p": "dispaˈɾaɾ",
+                "d": "to shoot",
+                "s": "Tomás no fue capaz de disparar al oso. (Tom wasn't able to shoot the bear.)"
+            },
+            {
+                "id": "es-1939",
+                "w": "entrenador",
+                "p": "entɾenaˈdoɾ",
+                "d": "trainer",
+                "s": "A este equipo lo dirige un buen entrenador. (This team is trained by a good coach.)"
+            },
+            {
+                "id": "es-1940",
+                "w": "queso",
+                "p": "ˈkeso",
+                "d": "cheese",
+                "s": "Este queso está hecho de leche de cabra. (This cheese is made from goat's milk.)"
+            },
+            {
+                "id": "es-1941",
+                "w": "entero",
+                "p": "enˈteɾo",
+                "d": "whole",
+                "s": "Ellos pasaron el día entero en la playa. (They spent the entire day on the beach.)"
+            },
+            {
+                "id": "es-1942",
+                "w": "papeles",
+                "p": "paˈpeles",
+                "d": "paper",
+                "s": "Por favor quite estos papeles del camino. (Please get these papers out of the way.)"
+            },
+            {
+                "id": "es-1943",
+                "w": "pones",
+                "p": "pones",
+                "d": "to put",
+                "s": "¿Qué te pones normalmente para el trabajo? (What do you usually wear to work?)"
+            },
+            {
+                "id": "es-1944",
+                "w": "modelo",
+                "p": "moˈdelo",
+                "d": "model",
+                "s": "Yo solía soñar con convertirme en modelo. (I used to dream about becoming a model.)"
+            },
+            {
+                "id": "es-1945",
+                "w": "fútbol",
+                "p": "ˈfudbol",
+                "d": "football",
+                "s": "El fútbol es más popular que el béisbol. (Soccer is more popular than baseball.)"
+            },
+            {
+                "id": "es-1946",
+                "w": "detener",
+                "p": "deteˈneɾ",
+                "d": "to detain",
+                "s": "Levanté la mano para detener un taxi. (I held up my hand to stop a taxi.)"
+            },
+            {
+                "id": "es-1947",
+                "w": "lados",
+                "p": "laðos",
+                "d": "side",
+                "s": "Un cuadrado tiene cuatro lados iguales. (A square has four equal sides.)"
+            },
+            {
+                "id": "es-1948",
+                "w": "miembros",
+                "p": "mjembɾos",
+                "d": "member",
+                "s": "No todos los miembros estaban presentes. (Not all of the staff was present.)"
+            },
+            {
+                "id": "es-1949",
+                "w": "sábado",
+                "p": "ˈsabado",
+                "d": "Saturday",
+                "s": "El sábado es cuando mi padre está libre. (Saturday is when my father is free.)"
+            },
+            {
+                "id": "es-1950",
+                "w": "pongo",
+                "p": "ˈponɡo",
+                "d": "to put",
+                "s": "También pongo mis bolígrafos en el cajón. (I also put my pens in the drawer.)"
+            },
+            {
+                "id": "es-1951",
+                "w": "mataron",
+                "p": "maˈtaɾon",
+                "d": "to kill",
+                "s": "¿A cuántas personas mataron en la tienda? (How many people were killed in the store?)"
+            },
+            {
+                "id": "es-1952",
+                "w": "vuelvas",
+                "p": "ˈbwelbas",
+                "d": "to return",
+                "s": "Puedo quedarme aquí hasta que vuelvas. (I can stay here until you come back.)"
+            },
+            {
+                "id": "es-1953",
+                "w": "talento",
+                "p": "taˈlento",
+                "d": "talent",
+                "s": "Tom admira el talento para cantar de Mary. (Tom admires Mary's singing ability.)"
+            },
+            {
+                "id": "es-1954",
+                "w": "descubrir",
+                "p": "deskuˈbɾiɾ",
+                "d": "to discover",
+                "s": "No puedo descubrir cómo abrir este maletín. (I can't figure out how to open this suitcase.)"
+            },
+            {
+                "id": "es-1955",
+                "w": "gordo",
+                "p": "ˈɡoɾdo",
+                "d": "fat",
+                "s": "No puedo creer que llamaras gordo a Tom. (I can't believe you called Tom fat.)"
+            },
+            {
+                "id": "es-1956",
+                "w": "tribunal",
+                "p": "tɾibuˈnal",
+                "d": "court",
+                "s": "Nada de esto se sostendrá ante el tribunal. (None of this will hold up in court.)"
+            },
+            {
+                "id": "es-1957",
+                "w": "toque",
+                "p": "ˈtoke",
+                "d": "a touch",
+                "s": "El toque de guitarra de Tom es estupendo. (Tom's guitar playing is amazing.)"
+            },
+            {
+                "id": "es-1958",
+                "w": "wow",
+                "p": "ˈwau",
+                "d": "wow",
+                "s": ""
+            },
+            {
+                "id": "es-1959",
+                "w": "hables",
+                "p": "ˈables",
+                "d": "to talk",
+                "s": "Da igual que hables con ella más tiempo. (It is no use talking with them any longer.)"
+            },
+            {
+                "id": "es-1960",
+                "w": "conocemos",
+                "p": "konoˈθemos",
+                "d": "to know",
+                "s": "El resto de la historia lo conocemos todos. (We all know the rest of the story.)"
+            },
+            {
+                "id": "es-1961",
+                "w": "haberme",
+                "p": "aˈbeɾme",
+                "d": "to have",
+                "s": "Ayer debería haberme ido a dormir antes. (I should've gone to bed earlier yesterday.)"
+            },
+            {
+                "id": "es-1962",
+                "w": "dispuesto",
+                "p": "disˈpwesto",
+                "d": "willing",
+                "s": "Quizás Tomás esté dispuesto a ayudarnos. (Maybe Tom would be willing to help.)"
+            },
+            {
+                "id": "es-1963",
+                "w": "tamaño",
+                "p": "taˈmaɲo",
+                "d": "size",
+                "s": "Una maleta de este tamaño es muy cómoda. (A valise of this size is very handy.)"
+            },
+            {
+                "id": "es-1964",
+                "w": "dejen",
+                "p": "dexen",
+                "d": "to leave",
+                "s": "Lo único que quiero es que me dejen en paz. (All I want is to be left alone.)"
+            },
+            {
+                "id": "es-1965",
+                "w": "maravillosa",
+                "p": "maɾaβiʎosa",
+                "d": "wonderful",
+                "s": "Ella nos preparó una comida maravillosa. (She cooked us a wonderful meal.)"
+            },
+            {
+                "id": "es-1966",
+                "w": "invitado",
+                "p": "imbiˈtado",
+                "d": "guest",
+                "s": "Estoy invitado a una fiesta esta noche. (I'm invited to a party tonight.)"
+            },
+            {
+                "id": "es-1967",
+                "w": "importantes",
+                "p": "impoɾtantes",
+                "d": "important",
+                "s": "Creo que los cumpleaños son importantes. (I think birthdays are important.)"
+            },
+            {
+                "id": "es-1968",
+                "w": "derechos",
+                "p": "deˈɾet͡ʃos",
+                "d": "right",
+                "s": "Deberían de respetar nuestros derechos. (They should respect our rights.)"
+            },
+            {
+                "id": "es-1969",
+                "w": "declaración",
+                "p": "deklaɾaˈθjon",
+                "d": "statement",
+                "s": "¿Tú crees en la declaración del testigo? (Do you believe the witness's statement?)"
+            },
+            {
+                "id": "es-1970",
+                "w": "claramente",
+                "p": "ˌklaɾaˈmente",
+                "d": "clearly",
+                "s": "Tom claramente gana más dinero que Mary. (Tom definitely earns more money than Mary does.)"
+            },
+            {
+                "id": "es-1971",
+                "w": "pacientes",
+                "p": "paˈθjentes",
+                "d": "patient",
+                "s": "Alguno de los pacientes están sufriendo. (Some of the patients are suffering.)"
+            },
+            {
+                "id": "es-1972",
+                "w": "pérdida",
+                "p": "ˈpeɾdida",
+                "d": "loss",
+                "s": "La universidad es una pérdida de tiempo. (College is a waste of time.)"
+            },
+            {
+                "id": "es-1973",
+                "w": "iban",
+                "p": "ˈiban",
+                "d": "to go",
+                "s": "Mis comentarios no iban dirigidos a ti. (My remarks were not aimed at you.)"
+            },
+            {
+                "id": "es-1974",
+                "w": "pudiste",
+                "p": "puðiste",
+                "d": "to be able to",
+                "s": "¿Cómo pudiste equivocarte de esa manera? (How could you make such a mistake?)"
+            },
+            {
+                "id": "es-1975",
+                "w": "profundo",
+                "p": "pɾoˈfundo",
+                "d": "deep",
+                "s": "Este lugar es el más profundo del lago. (The lake is deepest at this spot.)"
+            },
+            {
+                "id": "es-1976",
+                "w": "gas",
+                "p": "ˈɡas",
+                "d": "gas",
+                "s": "La cortadora de césped funciona con gas. (The lawn mower needs gas to operate.)"
+            },
+            {
+                "id": "es-1977",
+                "w": "aeropuerto",
+                "p": "ˌaeɾoˈpweɾto",
+                "d": "airport",
+                "s": "Necesito un taxi que vaya al aeropuerto. (I need a taxi to the airport.)"
+            },
+            {
+                "id": "es-1978",
+                "w": "consigue",
+                "p": "konsiɣe",
+                "d": "to achieve",
+                "s": "Ella no consigue encontrar su sombrero. (She can't find her hat.)"
+            },
+            {
+                "id": "es-1979",
+                "w": "olvidar",
+                "p": "olbiˈdaɾ",
+                "d": "to forget",
+                "s": "Nunca me voy a olvidar de esta experiencia. (I'll never forget this experience.)"
+            },
+            {
+                "id": "es-1980",
+                "w": "gloria",
+                "p": "ˈɡloɾja",
+                "d": "glory",
+                "s": "Comimos un pastel que sabía a gloria. (We ate a very delicious pie.)"
+            },
+            {
+                "id": "es-1981",
+                "w": "olvides",
+                "p": "olˈbides",
+                "d": "to forget",
+                "s": "Nunca te olvides de cuidarte a ti mismo. (Never forget to take care of yourself.)"
+            },
+            {
+                "id": "es-1982",
+                "w": "volviendo",
+                "p": "bolβjendo",
+                "d": "to return",
+                "s": "Parece que está volviendo a hacer calor. (I understand it's going to get hot again.)"
+            },
+            {
+                "id": "es-1983",
+                "w": "coge",
+                "p": "koxe",
+                "d": "to take",
+                "s": "Coge todos los melocotones que quieras. (Take as many peaches as you like.)"
+            },
+            {
+                "id": "es-1984",
+                "w": "fué",
+                "p": "",
+                "d": "to go",
+                "s": "Tom casi fué golpeado por el balón. (Tom almost got hit by the ball.)"
+            },
+            {
+                "id": "es-1985",
+                "w": "llamaba",
+                "p": "ʝaˈmaba",
+                "d": "to summon",
+                "s": "Le pregunté al hombre cómo se llamaba. (I asked the man what his name was.)"
+            },
+            {
+                "id": "es-1986",
+                "w": "pete",
+                "p": "ˈpete",
+                "d": "blowjob",
+                "s": ""
+            },
+            {
+                "id": "es-1987",
+                "w": "tendrán",
+                "p": "tenˈdɾan",
+                "d": "to have",
+                "s": "Me pregunto que tendrán ellos en común. (I wonder what they have in common.)"
+            },
+            {
+                "id": "es-1988",
+                "w": "instituto",
+                "p": "instiˈtuto",
+                "d": "institute",
+                "s": "Ella le mostró una foto de su instituto. (She showed him a picture of her high school.)"
+            },
+            {
+                "id": "es-1989",
+                "w": "disparo",
+                "p": "disˈpaɾo",
+                "d": "shot",
+                "s": "La policía vino en cuanto oyeron el disparo. (The police came as soon as they heard the gunfire.)"
+            },
+            {
+                "id": "es-1990",
+                "w": "encuentras",
+                "p": "eŋkwentɾas",
+                "d": "to meet",
+                "s": "¿Qué comida encuentras que sabe mejor? (Which food do you think tastes best?)"
+            },
+            {
+                "id": "es-1991",
+                "w": "querían",
+                "p": "keˈɾian",
+                "d": "to desire",
+                "s": "Asumo que era todo lo que querían decir. (I assume it was all they wanted to say.)"
+            },
+            {
+                "id": "es-1992",
+                "w": "hablemos",
+                "p": "aˈblemos",
+                "d": "to talk",
+                "s": "Mejor no hablemos de trabajo esta noche. (Let's not talk about your job tonight.)"
+            },
+            {
+                "id": "es-1993",
+                "w": "dia",
+                "p": "",
+                "d": "day",
+                "s": ""
+            },
+            {
+                "id": "es-1994",
+                "w": "enviado",
+                "p": "emˈbjado",
+                "d": "to send",
+                "s": "Él fue enviado a prisión por robo armado. (He was sent to prison for armed robbery.)"
+            },
+            {
+                "id": "es-1995",
+                "w": "pertenece",
+                "p": "peɾteneθe",
+                "d": "to belong",
+                "s": "Esta computadora portátil me pertenece. (This laptop belongs to me.)"
+            },
+            {
+                "id": "es-1996",
+                "w": "sienta",
+                "p": "sjenta",
+                "d": "to seat",
+                "s": "Él hace que todo el mundo se sienta cómodo. (He makes everybody feel at ease.)"
+            },
+            {
+                "id": "es-1997",
+                "w": "pensó",
+                "p": "penˈso",
+                "d": "to think",
+                "s": "Tom pensó que era una solución adecuada. (Tom thought it was a good solution.)"
+            },
+            {
+                "id": "es-1998",
+                "w": "cadáver",
+                "p": "kaˈdabeɾ",
+                "d": "cadaver",
+                "s": "Ella lloró al ver el cadáver de su padre. (She cried at the sight of her father's dead body.)"
+            },
+            {
+                "id": "es-1999",
+                "w": "gracia",
+                "p": "ˈɡɾaθja",
+                "d": "grace",
+                "s": "La primera vez no me hizo ninguna gracia. (At first I didn't like it.)"
+            },
+            {
+                "id": "es-2000",
+                "w": "doctora",
+                "p": "doɡˈtoɾa",
+                "d": "female doctor",
+                "s": "Tom tiene una prima que es doctora. (Tom has a cousin who is a doctor.)"
+            },
+            {
+                "id": "es-2001",
+                "w": "escuchen",
+                "p": "eskutʃen",
+                "d": "to listen to",
+                "s": "Escuchen y elijan la mejor alternativa. (Listen and choose the best answer.)"
+            },
+            {
+                "id": "es-2002",
+                "w": "amante",
+                "p": "aˈmante",
+                "d": "lover",
+                "s": "La vieron en un restaurante con su amante. (She was seen at a restaurant with her lover.)"
+            },
+            {
+                "id": "es-2003",
+                "w": "temporada",
+                "p": "tempoˈɾada",
+                "d": "season",
+                "s": "Quiero estar en Australia una temporada. (I want to stay in Australia for a while.)"
+            },
+            {
+                "id": "es-2004",
+                "w": "cuerpos",
+                "p": "kweɾpos",
+                "d": "body",
+                "s": "Tres de los cuerpos tenían heridas de bala. (Three of the bodies had gunshot wounds.)"
+            },
+            {
+                "id": "es-2005",
+                "w": "amigas",
+                "p": "aˈmiɡas",
+                "d": "friend",
+                "s": "Seamos las mejores amigas para siempre. (Let's be best friends forever.)"
+            },
+            {
+                "id": "es-2006",
+                "w": "preguntaba",
+                "p": "pɾeɣuntaβa",
+                "d": "to ask",
+                "s": "Me preguntaba por qué llegaste temprano. (I was wondering why you came early.)"
+            },
+            {
+                "id": "es-2007",
+                "w": "francés",
+                "p": "fɾanˈθes",
+                "d": "French",
+                "s": "Estoy aprendiendo francés en la escuela. (I learn French at school.)"
+            },
+            {
+                "id": "es-2008",
+                "w": "mataste",
+                "p": "maˈtaste",
+                "d": "to kill",
+                "s": "¿Cuándo fue la última vez que mataste a un ratón? (When was the last time you killed a mouse?)"
+            },
+            {
+                "id": "es-2009",
+                "w": "techo",
+                "p": "ˈtet͡ʃo",
+                "d": "ceiling",
+                "s": "Puso los esquís sobre el techo del coche. (He put the skis on top of the car.)"
+            },
+            {
+                "id": "es-2010",
+                "w": "íbamos",
+                "p": "ˈibamos",
+                "d": "to go",
+                "s": "Pensé que íbamos a hacer algo divertido. (I thought we were going to do something fun.)"
+            },
+            {
+                "id": "es-2011",
+                "w": "protección",
+                "p": "pɾoteɡˈθjon",
+                "d": "protection",
+                "s": "Este bosque necesita nuestra protección. (This forest needs our protection.)"
+            },
+            {
+                "id": "es-2012",
+                "w": "médicos",
+                "p": "ˈmeðikos",
+                "d": "doctor",
+                "s": "Los médicos son los peores pacientes. (Doctors are the worst patients.)"
+            },
+            {
+                "id": "es-2013",
+                "w": "lisa",
+                "p": "ˈlisa",
+                "d": "smooth",
+                "s": "Su piel es lisa. (Her skin is smooth.)"
+            },
+            {
+                "id": "es-2014",
+                "w": "venganza",
+                "p": "benˈɡanθa",
+                "d": "vengeance",
+                "s": "La venganza es un plato que se come frío. (Revenge is a dish best served cold.)"
+            },
+            {
+                "id": "es-2015",
+                "w": "pensamos",
+                "p": "penˈsamos",
+                "d": "to think",
+                "s": "Todos nosotros pensamos hacerlo. (All of us plan to do that.)"
+            },
+            {
+                "id": "es-2016",
+                "w": "contó",
+                "p": "konˈto",
+                "d": "to count",
+                "s": "Ella nos contó una historia interesante. (She told us an interesting story.)"
+            },
+            {
+                "id": "es-2017",
+                "w": "discutir",
+                "p": "diskuˈtiɾ",
+                "d": "to discuss",
+                "s": "Haced el favor de no discutir con Tom. (Please don't argue with Tom.)"
+            },
+            {
+                "id": "es-2018",
+                "w": "comprendo",
+                "p": "kompɾendo",
+                "d": "to understand",
+                "s": "No comprendo el significado de todo esto. (I don't get the meaning of all of this.)"
+            },
+            {
+                "id": "es-2019",
+                "w": "idiotas",
+                "p": "iˈdjotas",
+                "d": "idiotic",
+                "s": "Los fumadores son una banda de idiotas. (Smokers are a bunch of idiots.)"
+            },
+            {
+                "id": "es-2020",
+                "w": "enemigos",
+                "p": "eneˈmiɡos",
+                "d": "foe",
+                "s": "Aviones enemigos bombardearon la ciudad. (The city was bombed by enemy planes.)"
+            },
+            {
+                "id": "es-2021",
+                "w": "camisa",
+                "p": "kaˈmisa",
+                "d": "shirt",
+                "s": "Le pusieron a Tom una camisa de fuerza. (They put Tom in a straitjacket.)"
+            },
+            {
+                "id": "es-2022",
+                "w": "superior",
+                "p": "supeˈɾjoɾ",
+                "d": "superior",
+                "s": "Me duele la muela del juicio superior derecha. (My upper right wisdom tooth hurts.)"
+            },
+            {
+                "id": "es-2023",
+                "w": "criminal",
+                "p": "kɾimiˈnal",
+                "d": "criminal",
+                "s": "El criminal tuvo que ocultar su identidad. (The criminal had to conceal his identity.)"
+            },
+            {
+                "id": "es-2024",
+                "w": "preocupada",
+                "p": "pɾeokuˈpada",
+                "d": "worried",
+                "s": "Tom no sabe lo preocupada que está Mary. (Tom doesn't know how worried Mary is.)"
+            },
+            {
+                "id": "es-2025",
+                "w": "bote",
+                "p": "ˈbote",
+                "d": "boat",
+                "s": "Tom atravesó el río en un bote de remos. (Tom crossed the river in a rowboat.)"
+            },
+            {
+                "id": "es-2026",
+                "w": "escribió",
+                "p": "eskɾiˈβjo",
+                "d": "to write",
+                "s": "No está claro quién escribió esta carta. (It isn't clear who wrote this letter.)"
+            },
+            {
+                "id": "es-2027",
+                "w": "llevamos",
+                "p": "ʝeˈbamos",
+                "d": "to take somewhere",
+                "s": "Llevamos sin saber de ella desde entonces. (We haven't heard from her since then.)"
+            },
+            {
+                "id": "es-2028",
+                "w": "testigos",
+                "p": "testiɣos",
+                "d": "witness",
+                "s": "Los testigos comparecieron ante el juez. (The witnesses appeared before the judge.)"
+            },
+            {
+                "id": "es-2029",
+                "w": "recoger",
+                "p": "rekoˈxeɾ",
+                "d": "to collect",
+                "s": "Según tu siembras, así deberás recoger. (As you sow, so shall you reap.)"
+            },
+            {
+                "id": "es-2030",
+                "w": "truco",
+                "p": "ˈtɾuko",
+                "d": "trick",
+                "s": "Él cayó en el truco más viejo del libro. (He fell for the oldest trick in the book.)"
+            },
+            {
+                "id": "es-2031",
+                "w": "original",
+                "p": "oɾixiˈnal",
+                "d": "original",
+                "s": "Él comparó la imitación con el original. (He compared the imitation with the original.)"
+            },
+            {
+                "id": "es-2032",
+                "w": "pide",
+                "p": "ˈpide",
+                "d": "to ask for something",
+                "s": "Pide a Tom que me devuelva la llamada. (Ask Tom to call me back.)"
+            },
+            {
+                "id": "es-2033",
+                "w": "rosa",
+                "p": "ˈrosa",
+                "d": "rose",
+                "s": "¿Quién es aquella mujer vestida de rosa? (Who is the woman dressed in pink?)"
+            },
+            {
+                "id": "es-2034",
+                "w": "mama",
+                "p": "ˈmama",
+                "d": "mamma",
+                "s": "El cáncer de mama es una enfermedad. (Breast cancer is a disease.)"
+            },
+            {
+                "id": "es-2035",
+                "w": "negros",
+                "p": "neɣɾos",
+                "d": "black",
+                "s": "Quiero unos zapatos marrones, no negros. (I want brown shoes, not black ones.)"
+            },
+            {
+                "id": "es-2036",
+                "w": "sobrevivir",
+                "p": "sobɾebiˈbiɾ",
+                "d": "to survive",
+                "s": "Adaptarse es la clave para sobrevivir. (Adaptation is the key to survival.)"
+            },
+            {
+                "id": "es-2037",
+                "w": "rostro",
+                "p": "ˈrostɾo",
+                "d": "face",
+                "s": "Vi el rostro de un hombre en la ventana. (I saw a man's face in the window.)"
+            },
+            {
+                "id": "es-2038",
+                "w": "crédito",
+                "p": "ˈkɾedito",
+                "d": "credit",
+                "s": "No daba crédito a lo que veían mis ojos. (I couldn't believe my eyes.)"
+            },
+            {
+                "id": "es-2039",
+                "w": "compartir",
+                "p": "kompaɾˈtiɾ",
+                "d": "to share",
+                "s": "Gracias por compartir tus pensamientos. (Thanks for sharing your thoughts.)"
+            },
+            {
+                "id": "es-2040",
+                "w": "saca",
+                "p": "ˈsaka",
+                "d": "to put out",
+                "s": "Tom tampoco te saca demasiada altura. (Tom isn't much taller than you.)"
+            },
+            {
+                "id": "es-2041",
+                "w": "irás",
+                "p": "iˈɾas",
+                "d": "to go",
+                "s": "Querido, ¿irás a hacer las compras por mí? (Honey, will you go shopping for me?)"
+            },
+            {
+                "id": "es-2042",
+                "w": "pequeñas",
+                "p": "peˈkeɲas",
+                "d": "small",
+                "s": "Ellos no notaron las pequeñas diferencias. (They did not notice the small differences.)"
+            },
+            {
+                "id": "es-2043",
+                "w": "veía",
+                "p": "beˈia",
+                "d": "to see",
+                "s": "Se veía como si ella se fuera a desmayar. (It seemed as if she was going to faint.)"
+            },
+            {
+                "id": "es-2044",
+                "w": "empezando",
+                "p": "empeθando",
+                "d": "to start",
+                "s": "Me estoy empezando a sentir mucho mejor. (I'm starting to feel much better.)"
+            },
+            {
+                "id": "es-2045",
+                "w": "registro",
+                "p": "reˈxistɾo",
+                "d": "registration",
+                "s": "¿Podrías firmar el registro, por favor? (Could you please sign the register?)"
+            },
+            {
+                "id": "es-2046",
+                "w": "continúa",
+                "p": "kontiˈnua",
+                "d": "to continue",
+                "s": "Tom continúa enfermo y en el mismo hospital. (Tom is still sick and in the same hospital.)"
+            },
+            {
+                "id": "es-2047",
+                "w": "grandioso",
+                "p": "ɡɾanˈdjoso",
+                "d": "great",
+                "s": "Quiero mostrarte algo grandioso. (I want to show you something great.)"
+            },
+            {
+                "id": "es-2048",
+                "w": "viniste",
+                "p": "biniste",
+                "d": "Senses relating to literal movement",
+                "s": "¿Tom y Mary estaban aquí cuando viniste? (Were Tom and Mary here when you arrived?)"
+            },
+            {
+                "id": "es-2049",
+                "w": "esquina",
+                "p": "esˈkina",
+                "d": "corner",
+                "s": "El museo está a la vuelta de la esquina. (The museum is around the corner.)"
+            },
+            {
+                "id": "es-2050",
+                "w": "contado",
+                "p": "konˈtado",
+                "d": "counted",
+                "s": "Tom me ha contado muchas cosas sobre ti. (Tom has told me a lot about you.)"
+            },
+            {
+                "id": "es-2051",
+                "w": "tengamos",
+                "p": "tenˈɡamos",
+                "d": "to have",
+                "s": "No creo que tengamos suficiente comida. (I don't think we have enough food.)"
+            },
+            {
+                "id": "es-2052",
+                "w": "cientos",
+                "p": "ˈθjentos",
+                "d": "hundred",
+                "s": "Tom ha escrito cientos de canciones. (Tom has written hundreds of songs.)"
+            },
+            {
+                "id": "es-2053",
+                "w": "tormenta",
+                "p": "toɾˈmenta",
+                "d": "storm",
+                "s": "Después de una tormenta, viene la calma. (After a storm comes a calm.)"
+            },
+            {
+                "id": "es-2054",
+                "w": "relájate",
+                "p": "reˈlaxate",
+                "d": "to relax",
+                "s": "Estás trabajando demasiado. Relájate un tiempo. (You're working too hard. Take it easy for a while.)"
+            },
+            {
+                "id": "es-2055",
+                "w": "siéntese",
+                "p": "",
+                "d": "to seat",
+                "s": "Por favor, siéntese aquí y espere. (Please sit here and wait.)"
+            },
+            {
+                "id": "es-2056",
+                "w": "chocolate",
+                "p": "t͡ʃokoˈlate",
+                "d": "chocolate",
+                "s": "Por favor dame un poco más de chocolate. (Please give me a little more chocolate.)"
+            },
+            {
+                "id": "es-2057",
+                "w": "pedazo",
+                "p": "peˈdaθo",
+                "d": "piece",
+                "s": "Él le arrojó un pedazo de carne a un perro. (He threw a piece of meat to a dog.)"
+            },
+            {
+                "id": "es-2058",
+                "w": "tomo",
+                "p": "ˈtomo",
+                "d": "tome",
+                "s": "Tomo el metro hacia la escuela cada día. (I take the subway to school every day.)"
+            },
+            {
+                "id": "es-2059",
+                "w": "olor",
+                "p": "oˈloɾ",
+                "d": "smell",
+                "s": "Amo el olor de hot cakes por la mañana. (I love the smell of pancakes in the morning.)"
+            },
+            {
+                "id": "es-2060",
+                "w": "ciencia",
+                "p": "ˈθjenθja",
+                "d": "science",
+                "s": "Él es un fanático de la ciencia ficción. (He's a science fiction fanatic.)"
+            },
+            {
+                "id": "es-2061",
+                "w": "conexión",
+                "p": "koneɡˈsjon",
+                "d": "connection",
+                "s": "No tiene conexión una cosa con la otra. (There's no connection between the two things.)"
+            },
+            {
+                "id": "es-2062",
+                "w": "vieron",
+                "p": "ˈbjeɾon",
+                "d": "to see",
+                "s": "Cuando vieron a Tom, empezaron a llorar. (When they saw Tom, they started crying.)"
+            },
+            {
+                "id": "es-2063",
+                "w": "salón",
+                "p": "saˈlon",
+                "d": "living room",
+                "s": "Tom tiene un piano de cola en su salón. (Tom has a grand piano in his living room.)"
+            },
+            {
+                "id": "es-2064",
+                "w": "sucio",
+                "p": "ˈsuθjo",
+                "d": "dirty",
+                "s": "A él no le importa si su auto está sucio. (He doesn't care if his car is dirty.)"
+            },
+            {
+                "id": "es-2065",
+                "w": "firma",
+                "p": "ˈfiɾma",
+                "d": "signature",
+                "s": "Tom falsificó la firma en el documento. (Tom forged the signature on the document.)"
+            },
+            {
+                "id": "es-2066",
+                "w": "vimos",
+                "p": "ˈbimos",
+                "d": "to see",
+                "s": "¿Cuándo fue la última vez que nos vimos? (When was the last time we met?)"
+            },
+            {
+                "id": "es-2067",
+                "w": "pidiendo",
+                "p": "piðjendo",
+                "d": "to ask for something",
+                "s": "Oí a una pequeña niña pidiendo ayuda. (I heard a young girl call for help.)"
+            },
+            {
+                "id": "es-2068",
+                "w": "casarse",
+                "p": "kasaɾse",
+                "d": "to marry",
+                "s": "Mi hija tiene previsto casarse en junio. (My daughter is to get married in June.)"
+            },
+            {
+                "id": "es-2069",
+                "w": "bebida",
+                "p": "beˈbida",
+                "d": "drink",
+                "s": "¿Cuál es tu bebida favorita de invierno? (What's your favorite drink in the winter?)"
+            },
+            {
+                "id": "es-2070",
+                "w": "tercer",
+                "p": "teɾˈθeɾ",
+                "d": "third",
+                "s": "Estoy a cargo del curso de tercer año. (I am in charge of the third-year class.)"
+            },
+            {
+                "id": "es-2071",
+                "w": "propios",
+                "p": "ˈpɾopjos",
+                "d": "own",
+                "s": "Mi hermana lo vio con sus propios ojos. (My sister saw it with her own eyes.)"
+            },
+            {
+                "id": "es-2072",
+                "w": "fuertes",
+                "p": "fweɾtes",
+                "d": "strong",
+                "s": "Ellos son igual de fuertes que nosotros. (They are as strong as us.)"
+            },
+            {
+                "id": "es-2073",
+                "w": "lluvia",
+                "p": "ˈʝubja",
+                "d": "rain",
+                "s": "Un hombre mojado no le teme a la lluvia. (A wet man does not fear the rain.)"
+            },
+            {
+                "id": "es-2074",
+                "w": "recién",
+                "p": "reˈθjen",
+                "d": "recently",
+                "s": "Los libros recién impresos huelen bien. (Newly printed books smell good.)"
+            },
+            {
+                "id": "es-2075",
+                "w": "tomaré",
+                "p": "tomaˈɾe",
+                "d": "to take",
+                "s": "Yo creo que tomaré el examen esta vez. (I think I'll take the test this time.)"
+            },
+            {
+                "id": "es-2076",
+                "w": "complicado",
+                "p": "kompliˈkado",
+                "d": "complicated",
+                "s": "Es un poco demasiado complicado para mí. (It's a bit too complicated for me.)"
+            },
+            {
+                "id": "es-2077",
+                "w": "toques",
+                "p": "ˈtokes",
+                "d": "a touch",
+                "s": "¡No toques la sartén!, está muy caliente. (Don't touch that pan! It's very hot.)"
+            },
+            {
+                "id": "es-2078",
+                "w": "cámaras",
+                "p": "ˈkamaɾas",
+                "d": "room",
+                "s": "Tom compró varias cámaras el año pasado. (Tom bought several cameras last year.)"
+            },
+            {
+                "id": "es-2079",
+                "w": "visión",
+                "p": "biˈsjon",
+                "d": "vision",
+                "s": "Tiene una visión de la vida muy materialista. (He has a very materialistic outlook on life.)"
+            },
+            {
+                "id": "es-2080",
+                "w": "llego",
+                "p": "ˈʝeɡo",
+                "d": "to arrive",
+                "s": "Apuesto a que llego antes que usted. (I bet I get there before you.)"
+            },
+            {
+                "id": "es-2081",
+                "w": "americano",
+                "p": "ameɾiˈkano",
+                "d": "American",
+                "s": "Frank Sinatra fue un cantante americano. (Frank Sinatra was an American singer.)"
+            },
+            {
+                "id": "es-2082",
+                "w": "diversión",
+                "p": "dibeɾˈsjon",
+                "d": "fun",
+                "s": "Solo quiero tener un poco de diversión. (I just want to have a little fun.)"
+            },
+            {
+                "id": "es-2083",
+                "w": "pareció",
+                "p": "paɾeˈθjo",
+                "d": "to seem",
+                "s": "Pareció sorprenderse cuando se lo conté. (He seemed surprised when I told him.)"
+            },
+            {
+                "id": "es-2084",
+                "w": "libras",
+                "p": "ˈlibɾas",
+                "d": "English or American pound avoirdupois",
+                "s": "Ella gana de media 10 libras a la semana. (She earns on average ten pounds a week.)"
+            },
+            {
+                "id": "es-2085",
+                "w": "curso",
+                "p": "ˈkuɾso",
+                "d": "course",
+                "s": "Ella se inscribió en un curso de español. (She signed up for a Spanish course.)"
+            },
+            {
+                "id": "es-2086",
+                "w": "disco",
+                "p": "ˈdisko",
+                "d": "club",
+                "s": "¿Le diste una copia del disco a alguien? (Did you give a copy of the disk to anyone?)"
+            },
+            {
+                "id": "es-2087",
+                "w": "probable",
+                "p": "pɾoˈbable",
+                "d": "probable",
+                "s": "No es probable que vaya a nevar mañana. (It's not likely to be snowing tomorrow.)"
+            },
+            {
+                "id": "es-2088",
+                "w": "precioso",
+                "p": "pɾeˈθjoso",
+                "d": "precious",
+                "s": "Me dio un reloj precioso, pero lo perdí. (She gave me a beautiful clock, but I lost it.)"
+            },
+            {
+                "id": "es-2089",
+                "w": "tenia",
+                "p": "ˈtenja",
+                "d": "tapeworm",
+                "s": ""
+            },
+            {
+                "id": "es-2090",
+                "w": "lago",
+                "p": "ˈlaɡo",
+                "d": "lake",
+                "s": "El lago Towada es famoso por su belleza. (Lake Towada is famous for its beauty.)"
+            },
+            {
+                "id": "es-2091",
+                "w": "leído",
+                "p": "leˈido",
+                "d": "well-read",
+                "s": "¿Ha leído usted el diario de esta mañana? (Have you read this morning's paper?)"
+            },
+            {
+                "id": "es-2092",
+                "w": "consiguió",
+                "p": "konsiˈɣjo",
+                "d": "to achieve",
+                "s": "Ella consiguió mantener las apariencias. (She managed to keep up appearances.)"
+            },
+            {
+                "id": "es-2093",
+                "w": "parecido",
+                "p": "paɾeˈθido",
+                "d": "similar",
+                "s": "¿Qué les ha parecido su viaje a Australia? (How was your trip to Australia?)"
+            },
+            {
+                "id": "es-2094",
+                "w": "material",
+                "p": "mateˈɾjal",
+                "d": "material",
+                "s": "Tiene una fábrica de material eléctrico. (He has an electrical equipment factory.)"
+            },
+            {
+                "id": "es-2095",
+                "w": "discurso",
+                "p": "disˈkuɾso",
+                "d": "discourse",
+                "s": "Nuestro director dio un largo discurso. (Our principal made a long speech.)"
+            },
+            {
+                "id": "es-2096",
+                "w": "entera",
+                "p": "enˈteɾa",
+                "d": "whole",
+                "s": "La ciudad entera quedó sin electricidad. (The entire city was without electricity.)"
+            },
+            {
+                "id": "es-2097",
+                "w": "corta",
+                "p": "ˈkoɾta",
+                "d": "short",
+                "s": "La vida es corta y el tiempo pasa veloz. (Life is short and time is swift.)"
+            },
+            {
+                "id": "es-2098",
+                "w": "completa",
+                "p": "komˈpleta",
+                "d": "full",
+                "s": "Ya está completa la dotación del buque. (The ship's crew is now complete.)"
+            },
+            {
+                "id": "es-2099",
+                "w": "decirles",
+                "p": "deθiɾles",
+                "d": "to say",
+                "s": "Voy a decirles que estamos preparadas. (I'll go tell them that we're ready.)"
+            },
+            {
+                "id": "es-2100",
+                "w": "lunes",
+                "p": "ˈlunes",
+                "d": "Monday",
+                "s": "Empezamos las clases el lunes que viene. (We start classes next Monday.)"
+            },
+            {
+                "id": "es-2101",
+                "w": "efectivo",
+                "p": "efeɡˈtibo",
+                "d": "cash",
+                "s": "Momentáneamente estoy corto de efectivo. (I'm short of cash at the moment.)"
+            },
+            {
+                "id": "es-2102",
+                "w": "cura",
+                "p": "ˈkuɾa",
+                "d": "cure",
+                "s": "Solo la muerte cura todas las heridas. (Only death cures all pain.)"
+            },
+            {
+                "id": "es-2103",
+                "w": "antigua",
+                "p": "anˈtiɡwa",
+                "d": "old",
+                "s": "La caja contiene algo de joyería antigua. (The box contains some old jewelry.)"
+            },
+            {
+                "id": "es-2104",
+                "w": "hablan",
+                "p": "ˈablan",
+                "d": "to talk",
+                "s": "Tom y Mary hablan entre ellos en inglés. (Tom and Mary speak to each other in English.)"
+            },
+            {
+                "id": "es-2105",
+                "w": "juntas",
+                "p": "ˈxuntas",
+                "d": "together",
+                "s": "Pasemos todo el fin de semana juntas. (Let's spend all weekend together.)"
+            },
+            {
+                "id": "es-2106",
+                "w": "cáncer",
+                "p": "ˈkanθeɾ",
+                "d": "cancer",
+                "s": "Su abuelo murió de cáncer el año pasado. (His grandfather died of cancer last year.)"
+            },
+            {
+                "id": "es-2107",
+                "w": "funeral",
+                "p": "funeˈɾal",
+                "d": "funeral",
+                "s": "Un montón de gente asistió a su funeral. (A great many people attended his funeral.)"
+            },
+            {
+                "id": "es-2108",
+                "w": "jodido",
+                "p": "xoˈdido",
+                "d": "screwed",
+                "s": ""
+            },
+            {
+                "id": "es-2109",
+                "w": "artista",
+                "p": "aɾˈtista",
+                "d": "artist",
+                "s": "Él hizo realidad su sueño de ser artista. (He realized his dream of becoming an artist.)"
+            },
+            {
+                "id": "es-2110",
+                "w": "favorito",
+                "p": "faboˈɾito",
+                "d": "favorite/favourite",
+                "s": "Las Tortugas Ninja es mi juego favorito. (Ninja Turtles is my favorite game.)"
+            },
+            {
+                "id": "es-2111",
+                "w": "guste",
+                "p": "guste",
+                "d": "translated as",
+                "s": "Aprecio mucho que te guste tal como soy. (I really appreciate the fact that you like me just the way I am.)"
+            },
+            {
+                "id": "es-2112",
+                "w": "cae",
+                "p": "ˈkae",
+                "d": "to fall",
+                "s": "Este año, la navidad cae un día domingo. (Christmas falls on Sunday this year.)"
+            },
+            {
+                "id": "es-2113",
+                "w": "termine",
+                "p": "teɾˈmine",
+                "d": "to finish",
+                "s": "Probablemente, él termine el trabajo mañana. (He'll probably finish the work by tomorrow.)"
+            },
+            {
+                "id": "es-2114",
+                "w": "entrevista",
+                "p": "entɾeˈbista",
+                "d": "interview",
+                "s": "A Tom le fue muy bien en la entrevista. (Tom aced the interview.)"
+            },
+            {
+                "id": "es-2115",
+                "w": "pintura",
+                "p": "pinˈtuɾa",
+                "d": "painting",
+                "s": "La puerta necesita otra capa de pintura. (The door needs another coat of paint.)"
+            },
+            {
+                "id": "es-2116",
+                "w": "quieto",
+                "p": "ˈkjeto",
+                "d": "calm",
+                "s": "Le dije a Tom que se estuviera quieto. (I told Tom to stay still.)"
+            },
+            {
+                "id": "es-2117",
+                "w": "falso",
+                "p": "ˈfalso",
+                "d": "false",
+                "s": "Si eso es falso, ella es una mentirosa. (If that is not true, she is a liar.)"
+            },
+            {
+                "id": "es-2118",
+                "w": "india",
+                "p": "ˈindja",
+                "d": "a native of India",
+                "s": "Ayer hubo un gran terremoto en la India. (A big earthquake occurred in India yesterday.)"
+            },
+            {
+                "id": "es-2119",
+                "w": "corto",
+                "p": "ˈkoɾto",
+                "d": "short",
+                "s": "Momentáneamente estoy corto de efectivo. (I'm short of cash at the moment.)"
+            },
+            {
+                "id": "es-2120",
+                "w": "inteligencia",
+                "p": "inteliˈxenθja",
+                "d": "intelligence",
+                "s": "IA quiere decir Inteligencia Artificial. (AI means Artificial Intelligence.)"
+            },
+            {
+                "id": "es-2121",
+                "w": "destruir",
+                "p": "desˈtɾwiɾ",
+                "d": "to destroy",
+                "s": "¿Destruir dinero es un delito federal? (Is destroying money a federal crime?)"
+            },
+            {
+                "id": "es-2122",
+                "w": "cargos",
+                "p": "kaɾɣos",
+                "d": "charge",
+                "s": "Los tres acusados negaron los cargos. (All three of the accused denied the charges.)"
+            },
+            {
+                "id": "es-2123",
+                "w": "podías",
+                "p": "poˈdias",
+                "d": "to be able to",
+                "s": "Nadie dijo que no podías ir a pescar. (Nobody said you couldn't go fishing.)"
+            },
+            {
+                "id": "es-2124",
+                "w": "mentiras",
+                "p": "mentiɾas",
+                "d": "lie",
+                "s": "No quiero escuchar ninguna de tus mentiras. (I don't want to hear any of your lies.)"
+            },
+            {
+                "id": "es-2125",
+                "w": "señoras",
+                "p": "seɲoɾas",
+                "d": "Ms",
+                "s": "\"¿Las bebidas son gratis?\" \"Solo para las señoras.\" (\"Are the drinks free?\" \"Only for ladies.\")"
+            },
+            {
+                "id": "es-2126",
+                "w": "helado",
+                "p": "eˈlado",
+                "d": "ice cream",
+                "s": "No me molesta si se pone un poco helado. (I don't mind if it gets a little cold.)"
+            },
+            {
+                "id": "es-2127",
+                "w": "felicidades",
+                "p": "feliθiˈdades",
+                "d": "congratulations",
+                "s": "Felicidades por tu graduación. (Congratulations on your graduation.)"
+            },
+            {
+                "id": "es-2128",
+                "w": "camioneta",
+                "p": "kamjoˈneta",
+                "d": "pick-up truck",
+                "s": "Tom compró esta camioneta en Boston. (Tom bought this truck in Boston.)"
+            },
+            {
+                "id": "es-2129",
+                "w": "mueve",
+                "p": "ˈmwebe",
+                "d": "to move",
+                "s": "¿Quién mueve los hilos de todo esto? (Who pulls the strings here?)"
+            },
+            {
+                "id": "es-2130",
+                "w": "aparte",
+                "p": "aˈpaɾte",
+                "d": "separately",
+                "s": "Él tiene pocos amigos aquí aparte de ti. (He has few friends here except you.)"
+            },
+            {
+                "id": "es-2131",
+                "w": "rock",
+                "p": "ˈrok",
+                "d": "rock",
+                "s": "¿Quién es tu cantante de rock preferido? (Who is your favorite rock singer?)"
+            },
+            {
+                "id": "es-2132",
+                "w": "tumba",
+                "p": "ˈtumba",
+                "d": "grave",
+                "s": "Visitamos la tumba de nuestro padre. (We visited our father's grave.)"
+            },
+            {
+                "id": "es-2133",
+                "w": "seguimos",
+                "p": "seɣimos",
+                "d": "to follow",
+                "s": "Seguimos creyendo que no merece la pena. (We kept thinking it wasn't worth it.)"
+            },
+            {
+                "id": "es-2134",
+                "w": "hablaba",
+                "p": "aˈblaba",
+                "d": "to talk",
+                "s": "Ella me preguntó cuántas lenguas hablaba. (She asked me how many languages I spoke.)"
+            },
+            {
+                "id": "es-2135",
+                "w": "verle",
+                "p": "ˈbeɾle",
+                "d": "to see",
+                "s": "Mi esposa también estará feliz de verle. (My wife will be glad to see you, too.)"
+            },
+            {
+                "id": "es-2136",
+                "w": "mapa",
+                "p": "ˈmapa",
+                "d": "map",
+                "s": "¿Podrías decirme dónde estoy en el mapa? (Could you show me where I am on this map?)"
+            },
+            {
+                "id": "es-2137",
+                "w": "tarea",
+                "p": "taˈɾea",
+                "d": "task",
+                "s": "Tengo una semana para terminar mi tarea. (I have a week to do my homework.)"
+            },
+            {
+                "id": "es-2138",
+                "w": "cambió",
+                "p": "kaˈmbjo",
+                "d": "to change",
+                "s": "Tom cambió de idea en el último minuto. (Tom changed his mind at the last minute.)"
+            },
+            {
+                "id": "es-2139",
+                "w": "móvil",
+                "p": "ˈmobil",
+                "d": "cellular",
+                "s": "El teléfono móvil de Tom vibró en la mesa. (Tom's cellphone vibrated on the table.)"
+            },
+            {
+                "id": "es-2140",
+                "w": "equivocada",
+                "p": "ekiboˈkada",
+                "d": "mistaken",
+                "s": "El cirujano amputó la pierna equivocada. (The surgeon amputated the wrong leg.)"
+            },
+            {
+                "id": "es-2141",
+                "w": "responder",
+                "p": "responˈdeɾ",
+                "d": "to answer",
+                "s": "Su pregunta es muy difícil de responder. (Your question is very hard to answer.)"
+            },
+            {
+                "id": "es-2142",
+                "w": "vacío",
+                "p": "baˈθio",
+                "d": "empty",
+                "s": "Tom dejó un cubo vacío junto al pozo. (Tom left an empty bucket by the well.)"
+            },
+            {
+                "id": "es-2143",
+                "w": "felicitaciones",
+                "p": "feliθitaθjones",
+                "d": "congratulation",
+                "s": "Felicitaciones por aprobar el examen. (I congratulate you on passing the examination.)"
+            },
+            {
+                "id": "es-2144",
+                "w": "computadora",
+                "p": "komputaˈdoɾa",
+                "d": "computer",
+                "s": "Esta computadora portátil me pertenece. (This laptop belongs to me.)"
+            },
+            {
+                "id": "es-2145",
+                "w": "estudiante",
+                "p": "estuˈdjante",
+                "d": "student",
+                "s": "Cada estudiante tiene su propio pupitre. (Each student has his own desk.)"
+            },
+            {
+                "id": "es-2146",
+                "w": "muriendo",
+                "p": "muɾjendo",
+                "d": "to die",
+                "s": "Tom veía que Mary se estaba muriendo. (Tom could tell that Mary was dying.)"
+            },
+            {
+                "id": "es-2147",
+                "w": "construir",
+                "p": "konsˈtɾwiɾ",
+                "d": "to build",
+                "s": "Tom dice que él quiere construir una casa. (Tom says he wants to build a house.)"
+            },
+            {
+                "id": "es-2148",
+                "w": "conocen",
+                "p": "koˈnoθen",
+                "d": "to know",
+                "s": "Mis padres todavía no conocen a mi novia. (My parents still haven't met my girlfriend.)"
+            },
+            {
+                "id": "es-2149",
+                "w": "clara",
+                "p": "ˈklaɾa",
+                "d": "clear",
+                "s": "Hay una clara diferencia entre esos dos. (There is a marked difference between them.)"
+            },
+            {
+                "id": "es-2150",
+                "w": "solución",
+                "p": "soluˈθjon",
+                "d": "solution",
+                "s": "A ella se le ocurrió una buena solución. (She thought of a good solution.)"
+            },
+            {
+                "id": "es-2151",
+                "w": "mundial",
+                "p": "munˈdjal",
+                "d": "related to all parts of the world",
+                "s": "La Segunda Guerra Mundial terminó el 1945. (World War II ended in 1945.)"
+            },
+            {
+                "id": "es-2152",
+                "w": "plato",
+                "p": "ˈplato",
+                "d": "plate",
+                "s": "Deja el plato pelado o no tienes postre. (Eat everything on your plate, or you won't get any dessert.)"
+            },
+            {
+                "id": "es-2153",
+                "w": "famoso",
+                "p": "faˈmoso",
+                "d": "well-known",
+                "s": "El lago Towada es famoso por su belleza. (Lake Towada is famous for its beauty.)"
+            },
+            {
+                "id": "es-2154",
+                "w": "des",
+                "p": "ˈdes",
+                "d": "since",
+                "s": "No te des por vencido a medio camino. (Don't give up halfway.)"
+            },
+            {
+                "id": "es-2155",
+                "w": "dirá",
+                "p": "diˈɾa",
+                "d": "to say",
+                "s": "Tom nos dirá lo que necesitamos saber. (Tom will tell us what we need to know.)"
+            },
+            {
+                "id": "es-2156",
+                "w": "ambas",
+                "p": "ˈambas",
+                "d": "both",
+                "s": "Ambas formas de escribir son correctas. (Both spellings are correct.)"
+            },
+            {
+                "id": "es-2157",
+                "w": "tecnología",
+                "p": "teknoloˈxia",
+                "d": "technology",
+                "s": "Ella no comprende la tecnología moderna. (She does not understand modern technology.)"
+            },
+            {
+                "id": "es-2158",
+                "w": "notas",
+                "p": "ˈnotas",
+                "d": "show-off",
+                "s": "Mis notas están por encima de la media. (My grades are above average.)"
+            },
+            {
+                "id": "es-2159",
+                "w": "malditos",
+                "p": "malˈditos",
+                "d": "cursed",
+                "s": ""
+            },
+            {
+                "id": "es-2160",
+                "w": "cabrón",
+                "p": "kaˈbɾon",
+                "d": "billy goat",
+                "s": ""
+            },
+            {
+                "id": "es-2161",
+                "w": "condiciones",
+                "p": "kondiˈθjones",
+                "d": "condition",
+                "s": "Tom está en bastantes malas condiciones. (Tom is pretty beat up.)"
+            },
+            {
+                "id": "es-2162",
+                "w": "dudo",
+                "p": "duðo",
+                "d": "to doubt",
+                "s": "Dudo que Tom haya terminado los deberes. (I doubt that Tom has finished his homework.)"
+            },
+            {
+                "id": "es-2163",
+                "w": "robó",
+                "p": "roˈβo",
+                "d": "to rob",
+                "s": "Ella le robó un montón de dinero a él. (She stole a lot of money from him.)"
+            },
+            {
+                "id": "es-2164",
+                "w": "escucho",
+                "p": "eskutʃo",
+                "d": "I'm all ears awaiting an explanation",
+                "s": "Lloro cada vez que escucho esta canción. (I cry whenever I listen to this song.)"
+            },
+            {
+                "id": "es-2165",
+                "w": "rápidamente",
+                "p": "ˌrapidaˈmente",
+                "d": "rapidly",
+                "s": "No podrás leer el libro tan rápidamente. (You will not be able to go through the book so quickly.)"
+            },
+            {
+                "id": "es-2166",
+                "w": "bordo",
+                "p": "ˈboɾdo",
+                "d": "side",
+                "s": "Fue mi primer viaje a bordo de un barco. (It was my first trip aboard.)"
+            },
+            {
+                "id": "es-2167",
+                "w": "nieve",
+                "p": "ˈnjebe",
+                "d": "snow",
+                "s": "A mi perro le gusta retozar en la nieve. (My dog likes to romp in the snow.)"
+            },
+            {
+                "id": "es-2168",
+                "w": "mensajes",
+                "p": "mensaxes",
+                "d": "message",
+                "s": "Tom borró accidentalmente todos sus mensajes. (Tom accidentally deleted all his messages.)"
+            },
+            {
+                "id": "es-2169",
+                "w": "fecha",
+                "p": "ˈfet͡ʃa",
+                "d": "date",
+                "s": "Él me dijo que me asegurara de la fecha. (He told me to make sure of the date.)"
+            },
+            {
+                "id": "es-2170",
+                "w": "violencia",
+                "p": "bjoˈlenθja",
+                "d": "violence",
+                "s": "Hay demasiada violencia en la televisión. (There's too much violence on television.)"
+            },
+            {
+                "id": "es-2171",
+                "w": "sujeto",
+                "p": "suˈxeto",
+                "d": "subject",
+                "s": "¡Ese sujeto está completamente loco! (That guy is totally nuts!)"
+            },
+            {
+                "id": "es-2172",
+                "w": "acciones",
+                "p": "aɡˈθjones",
+                "d": "action",
+                "s": "Las acciones dicen más que las palabras. (Actions speak louder than words.)"
+            },
+            {
+                "id": "es-2173",
+                "w": "fría",
+                "p": "ˈfɾia",
+                "d": "cold",
+                "s": "La pizza sabe diferente cuando está fría. (Pizza tastes different when it's cold.)"
+            },
+            {
+                "id": "es-2174",
+                "w": "droga",
+                "p": "ˈdɾoɡa",
+                "d": "drug",
+                "s": "El problema de la droga es internacional. (The drug problem is international.)"
+            },
+            {
+                "id": "es-2175",
+                "w": "saldrá",
+                "p": "saˈldɾa",
+                "d": "to go out",
+                "s": "¿Estamos seguros de que todo saldrá bien? (Are we sure that everything will go fine?)"
+            },
+            {
+                "id": "es-2176",
+                "w": "suponía",
+                "p": "supoˈnia",
+                "d": "to suppose",
+                "s": "Hice todo lo que se suponía que hiciera. (I did everything I was supposed to do.)"
+            },
+            {
+                "id": "es-2177",
+                "w": "empezamos",
+                "p": "empeθamos",
+                "d": "to start",
+                "s": "Empezamos las clases el lunes que viene. (We start classes next Monday.)"
+            },
+            {
+                "id": "es-2178",
+                "w": "errores",
+                "p": "eroɾes",
+                "d": "error",
+                "s": "Hasta un profesor puede cometer errores. (Even a teacher can make mistakes.)"
+            },
+            {
+                "id": "es-2179",
+                "w": "siglo",
+                "p": "ˈsiɡlo",
+                "d": "century",
+                "s": "La casa fue construida en el siglo 16º. (The house was built in the 16th century.)"
+            },
+            {
+                "id": "es-2180",
+                "w": "molesto",
+                "p": "moˈlesto",
+                "d": "annoyed",
+                "s": "No estoy de ningún modo molesto contigo. (I'm by no means angry with you.)"
+            },
+            {
+                "id": "es-2181",
+                "w": "acabamos",
+                "p": "akaˈbamos",
+                "d": "to finish",
+                "s": "Acabamos de comer sushi y tomar cerveza. (We just ate sushi and drank beer.)"
+            },
+            {
+                "id": "es-2182",
+                "w": "sabéis",
+                "p": "saˈbeis",
+                "d": "to know",
+                "s": "¿Sabéis dónde está el parque zoológico? (Do you know where the zoo is?)"
+            },
+            {
+                "id": "es-2183",
+                "w": "cortar",
+                "p": "koɾˈtaɾ",
+                "d": "to cut",
+                "s": "¿Vas a cortar todos los árboles de aquí? (Are you going to cut down all the trees here?)"
+            },
+            {
+                "id": "es-2184",
+                "w": "seria",
+                "p": "ˈseɾja",
+                "d": "serious",
+                "s": "Tenemos una situación seria entre manos. (We have a serious situation on our hands.)"
+            },
+            {
+                "id": "es-2185",
+                "w": "muevas",
+                "p": "mweβas",
+                "d": "to move",
+                "s": "Te dije que no te muevas. (I told you not to move.)"
+            },
+            {
+                "id": "es-2186",
+                "w": "fortuna",
+                "p": "foɾˈtuna",
+                "d": "fortune",
+                "s": "Tom debe de haberse gastado una fortuna. (Tom must have spent a fortune.)"
+            },
+            {
+                "id": "es-2187",
+                "w": "imaginar",
+                "p": "imaxiˈnaɾ",
+                "d": "to imagine",
+                "s": "No me puedo imaginar que eso sea cierto. (I can't imagine that's true.)"
+            },
+            {
+                "id": "es-2188",
+                "w": "archivos",
+                "p": "aɾtʃiβos",
+                "d": "archive",
+                "s": "¡Sí que tienes un montón de archivos MP3! (You sure have a lot of MP3 files!)"
+            },
+            {
+                "id": "es-2189",
+                "w": "presencia",
+                "p": "pɾeˈsenθja",
+                "d": "presence",
+                "s": "Siempre me pongo nervioso en su presencia. (I always get nervous in her presence.)"
+            },
+            {
+                "id": "es-2190",
+                "w": "familias",
+                "p": "familjas",
+                "d": "family",
+                "s": "La revolución dividió muchas familias. (The revolution divided many families.)"
+            },
+            {
+                "id": "es-2191",
+                "w": "ey",
+                "p": "ˈei",
+                "d": "hey!",
+                "s": "Ey, Tom, abre. (Hey, Tom, open up.)"
+            },
+            {
+                "id": "es-2192",
+                "w": "quedas",
+                "p": "ˈkedas",
+                "d": "to be",
+                "s": "Puedes estar ahí si te quedas en silencio. (You can stay here as long as you keep quiet.)"
+            },
+            {
+                "id": "es-2193",
+                "w": "solas",
+                "p": "ˈsolas",
+                "d": "sole",
+                "s": "Por favor no vayáis allí vosotras solas. (Please don't go there by yourself.)"
+            },
+            {
+                "id": "es-2194",
+                "w": "oficiales",
+                "p": "ofiˈθjales",
+                "d": "officer",
+                "s": "Nadie se cree las cifras oficiales. (No one believes the official numbers.)"
+            },
+            {
+                "id": "es-2195",
+                "w": "aventura",
+                "p": "abenˈtuɾa",
+                "d": "adventure",
+                "s": "Tom y María querían tener una aventura. (Tom and Mary wanted an adventure.)"
+            },
+            {
+                "id": "es-2196",
+                "w": "gira",
+                "p": "ˈxiɾa",
+                "d": "tour",
+                "s": "Avanza dos cuadras y gira a la izquierda. (Go two blocks and turn left.)"
+            },
+            {
+                "id": "es-2197",
+                "w": "social",
+                "p": "soˈθjal",
+                "d": "social",
+                "s": "Se requiere con urgencia un cambio social. (There is an urgent need for social change.)"
+            },
+            {
+                "id": "es-2198",
+                "w": "comunidad",
+                "p": "komuniˈdad",
+                "d": "community",
+                "s": "Tom es un activista en su comunidad. (Tom is an activist in his community.)"
+            },
+            {
+                "id": "es-2199",
+                "w": "cero",
+                "p": "ˈθeɾo",
+                "d": "zero",
+                "s": "La temperatura ha llegado a bajo cero. (The temperature's fallen below zero.)"
+            },
+            {
+                "id": "es-2200",
+                "w": "esperamos",
+                "p": "espeˈɾamos",
+                "d": "to hope",
+                "s": "Esperamos un invierno muy frío este año. (We expect a very cold winter this year.)"
+            },
+            {
+                "id": "es-2201",
+                "w": "ocupada",
+                "p": "okuˈpada",
+                "d": "pregnant",
+                "s": "Ella está ocupada tipeando los reportes. (She is busy typing the reports.)"
+            },
+            {
+                "id": "es-2202",
+                "w": "muévete",
+                "p": "",
+                "d": "to move",
+                "s": "Muévete sin hacer ruido. (Move quietly.)"
+            },
+            {
+                "id": "es-2203",
+                "w": "convertido",
+                "p": "kombeɾˈtido",
+                "d": "converted",
+                "s": "Siento mucho en lo que me he convertido. (I hate what I've become.)"
+            },
+            {
+                "id": "es-2204",
+                "w": "pieza",
+                "p": "ˈpjeθa",
+                "d": "piece",
+                "s": "Mary ahora está estudiando en su pieza. (Mary is now studying in her room.)"
+            },
+            {
+                "id": "es-2205",
+                "w": "estómago",
+                "p": "esˈtomaɡo",
+                "d": "stomach",
+                "s": "Está claro por qué le duele el estómago. (It's obvious why his stomach hurts.)"
+            },
+            {
+                "id": "es-2206",
+                "w": "disparó",
+                "p": "dispaˈɾo",
+                "d": "to shoot",
+                "s": "Tomás le disparó accidentalmente a María. (Tom accidentally shot Mary.)"
+            },
+            {
+                "id": "es-2207",
+                "w": "legal",
+                "p": "leˈɡal",
+                "d": "legal",
+                "s": "Él es el dueño legal de la empresa. (He is the lawful owner of the company.)"
+            },
+            {
+                "id": "es-2208",
+                "w": "conseguí",
+                "p": "konseˈɣi",
+                "d": "to achieve",
+                "s": "No conseguí zapatos que me quedaran bien. (I couldn't find any shoes that fit me.)"
+            },
+            {
+                "id": "es-2209",
+                "w": "california",
+                "p": "kaliˈfoɾnja",
+                "d": "californium",
+                "s": "Japón importa naranjas desde California. (Japan imports oranges from California.)"
+            },
+            {
+                "id": "es-2210",
+                "w": "rara",
+                "p": "ˈraɾa",
+                "d": "rare",
+                "s": "Él es raro, y no me gusta la gente rara. (He is strange, and I don't like strange people.)"
+            },
+            {
+                "id": "es-2211",
+                "w": "estudiantes",
+                "p": "estuðjantes",
+                "d": "student",
+                "s": "Todos los estudiantes estaban presentes. (All the students were there.)"
+            },
+            {
+                "id": "es-2212",
+                "w": "reino",
+                "p": "ˈreino",
+                "d": "kingdom",
+                "s": "¿Cuál es mayor, Japón o el Reino Unido? (Which is larger, Japan or Britain?)"
+            },
+            {
+                "id": "es-2213",
+                "w": "alegría",
+                "p": "aleˈɡɾia",
+                "d": "joy",
+                "s": "Su corazón estaba lleno de alegría. (Her heart was full of joy.)"
+            },
+            {
+                "id": "es-2214",
+                "w": "barrio",
+                "p": "ˈbarjo",
+                "d": "neighbourhood",
+                "s": "Conozco a alguien que vive en tu barrio. (I know someone who lives in your neighborhood.)"
+            },
+            {
+                "id": "es-2215",
+                "w": "granja",
+                "p": "ˈɡɾanxa",
+                "d": "farm",
+                "s": "Tomás y María tienen una pequeña granja. (Tom and Mary own a small organic farm.)"
+            },
+            {
+                "id": "es-2216",
+                "w": "podéis",
+                "p": "poˈdeis",
+                "d": "to prune",
+                "s": "Si queréis, podéis llamarme por teléfono. (If you want, you can phone me.)"
+            },
+            {
+                "id": "es-2217",
+                "w": "esfuerzo",
+                "p": "esˈfweɾθo",
+                "d": "effort",
+                "s": "Haré mi mejor esfuerzo para terminarlo. (I will do my best to finish it.)"
+            },
+            {
+                "id": "es-2218",
+                "w": "trabajaba",
+                "p": "tɾaβaxaβa",
+                "d": "to work",
+                "s": "Él no trabajaba los domingos a la noche. (He did not work on Sunday night.)"
+            },
+            {
+                "id": "es-2219",
+                "w": "perdóname",
+                "p": "",
+                "d": "to pardon",
+                "s": "Por favor, perdóname por decir una mentira. (Please forgive me for telling a lie.)"
+            },
+            {
+                "id": "es-2220",
+                "w": "tesoro",
+                "p": "teˈsoɾo",
+                "d": "treasure",
+                "s": "Esta pelota es el tesoro de aquel niño. (This ball is that boy's treasure.)"
+            },
+            {
+                "id": "es-2221",
+                "w": "empleo",
+                "p": "emˈpleo",
+                "d": "job",
+                "s": "¿Qué tan difícil es encontrar un empleo? (How difficult is it to find a job?)"
+            },
+            {
+                "id": "es-2222",
+                "w": "compré",
+                "p": "koˈmpɾe",
+                "d": "to buy",
+                "s": "Lo compré en una tienda de segunda mano. (I bought it at a thrift shop.)"
+            },
+            {
+                "id": "es-2223",
+                "w": "cirugía",
+                "p": "θiɾuˈxia",
+                "d": "surgery",
+                "s": "Tom tuvo cirugía el lunes pasado. (Tom had surgery last Monday.)"
+            },
+            {
+                "id": "es-2224",
+                "w": "dejamos",
+                "p": "deˈxamos",
+                "d": "to leave",
+                "s": "Dejamos nuestras diferencias en el pasado. (We had our differences in the past.)"
+            },
+            {
+                "id": "es-2225",
+                "w": "busco",
+                "p": "ˈbusko",
+                "d": "to seek",
+                "s": "Todavía no he encontrado lo que busco. (I still haven't found what I'm looking for.)"
+            },
+            {
+                "id": "es-2226",
+                "w": "trabajas",
+                "p": "tɾaˈbaxas",
+                "d": "to work",
+                "s": "Conozco un hombre con el que trabajas. (I know a man you work with.)"
+            },
+            {
+                "id": "es-2227",
+                "w": "clave",
+                "p": "ˈklabe",
+                "d": "key",
+                "s": "Adaptarse es la clave para sobrevivir. (Adaptation is the key to survival.)"
+            },
+            {
+                "id": "es-2228",
+                "w": "aparentemente",
+                "p": "apaˌɾenteˈmente",
+                "d": "apparently",
+                "s": "Aparentemente, el autobús está retrasado. (Apparently, the bus is late.)"
+            },
+            {
+                "id": "es-2229",
+                "w": "bravo",
+                "p": "ˈbɾabo",
+                "d": "angry",
+                "s": "Cuidado, es un toro bravo. (Be careful. It's a fierce bull.)"
+            },
+            {
+                "id": "es-2230",
+                "w": "desearía",
+                "p": "deseaˈɾia",
+                "d": "to wish",
+                "s": "Desearía que ella hubiera venido anoche. (I wish she had come last night.)"
+            },
+            {
+                "id": "es-2231",
+                "w": "cerrada",
+                "p": "θeˈrada",
+                "d": "shut",
+                "s": "La puerta estaba cerrada desde adentro. (The door was locked from within.)"
+            },
+            {
+                "id": "es-2232",
+                "w": "controlar",
+                "p": "kontɾoˈlaɾ",
+                "d": "to control",
+                "s": "La policía no pudo controlar a la turba. (The police could not control the mob.)"
+            },
+            {
+                "id": "es-2233",
+                "w": "pregunté",
+                "p": "pɾeɣunˈte",
+                "d": "to ask",
+                "s": "Solo pregunté si podía llevarme el libro. (I only asked if I could borrow the book.)"
+            },
+            {
+                "id": "es-2234",
+                "w": "mostrar",
+                "p": "mosˈtɾaɾ",
+                "d": "to show",
+                "s": "No le podés mostrar este video a nadie. (You can't show this video to anyone.)"
+            },
+            {
+                "id": "es-2235",
+                "w": "piloto",
+                "p": "piˈloto",
+                "d": "pilot",
+                "s": "¿Quién es tu piloto de carreras favorito? (Who's your favorite race car driver?)"
+            },
+            {
+                "id": "es-2236",
+                "w": "pocas",
+                "p": "ˈpokas",
+                "d": "little",
+                "s": "Muy pocas veces voy en coche al trabajo. (I rarely drive to work.)"
+            },
+            {
+                "id": "es-2237",
+                "w": "tuvieron",
+                "p": "tuˈbjeɾon",
+                "d": "to have",
+                "s": "Ellos tuvieron una discusión acalorada. (They had a heated discussion.)"
+            },
+            {
+                "id": "es-2238",
+                "w": "ayudarle",
+                "p": "aʝuˈdaɾle",
+                "d": "to help",
+                "s": "Ella hizo todo lo que pudo para ayudarle. (She did her best to help him.)"
+            },
+            {
+                "id": "es-2239",
+                "w": "bolso",
+                "p": "ˈbolso",
+                "d": "purse",
+                "s": "Estoy buscando un bolso para mi esposa. (I'm looking for a bag for my wife.)"
+            },
+            {
+                "id": "es-2240",
+                "w": "llorando",
+                "p": "ʝoˈɾando",
+                "d": "to cry",
+                "s": "Él le preguntó por qué estaba llorando. (He asked her why she was crying.)"
+            },
+            {
+                "id": "es-2241",
+                "w": "duerme",
+                "p": "ˈdweɾme",
+                "d": "to sleep",
+                "s": "Tom rechina sus dientes mientras duerme. (Tom grinds his teeth in his sleep.)"
+            },
+            {
+                "id": "es-2242",
+                "w": "dejarme",
+                "p": "dexaɾme",
+                "d": "to leave",
+                "s": "Gracias por dejarme usar tu bolígrafo. (Thanks for letting me use your pen.)"
+            },
+            {
+                "id": "es-2243",
+                "w": "intentó",
+                "p": "intenˈto",
+                "d": "to try",
+                "s": "Ella intentó no derramar ni una lágrima. (She tried not to shed a tear.)"
+            },
+            {
+                "id": "es-2244",
+                "w": "respirar",
+                "p": "respiˈɾaɾ",
+                "d": "to breathe",
+                "s": "Tom notó que a Mary le costaba respirar. (Tom noticed that Mary was having trouble breathing.)"
+            },
+            {
+                "id": "es-2245",
+                "w": "aparece",
+                "p": "apaˈɾeθe",
+                "d": "to appear",
+                "s": "Tom aparece a veces en la televisión. (Tom sometimes appears on TV.)"
+            },
+            {
+                "id": "es-2246",
+                "w": "campaña",
+                "p": "kamˈpaɲa",
+                "d": "campaign",
+                "s": "La campaña tuvo éxito y él ganó las elecciones. (The campaign succeeded and he won the election.)"
+            },
+            {
+                "id": "es-2247",
+                "w": "amistad",
+                "p": "amisˈtad",
+                "d": "friendship",
+                "s": "Esta es una historia de amor y amistad. (This is a story of love and friendship.)"
+            },
+            {
+                "id": "es-2248",
+                "w": "corriente",
+                "p": "koˈrjente",
+                "d": "flowing",
+                "s": "Tom vive en una casa sin agua corriente. (Tom lives in a house without running water.)"
+            },
+            {
+                "id": "es-2249",
+                "w": "viven",
+                "p": "biβen",
+                "d": "to applaud",
+                "s": "Los pandas gigantes sólo viven en China. (Giant pandas live only in China.)"
+            },
+            {
+                "id": "es-2250",
+                "w": "huesos",
+                "p": "wesos",
+                "d": "bone",
+                "s": "Se rompió uno de los huesos de su pierna. (He broke one of the bones in his leg.)"
+            },
+            {
+                "id": "es-2251",
+                "w": "invitados",
+                "p": "imbitaðos",
+                "d": "guest",
+                "s": "\"Todos están invitados.\" \"¿Incluso Tom?\" (\"Everybody is invited.\" \"Even Tom?\")"
+            },
+            {
+                "id": "es-2252",
+                "w": "planta",
+                "p": "ˈplanta",
+                "d": "plant or of the Chlorophyta",
+                "s": "Viven en la planta doce de este bloque. (They live on the 12th floor of this condo.)"
+            },
+            {
+                "id": "es-2253",
+                "w": "ritmo",
+                "p": "ˈridmo",
+                "d": "rhythm",
+                "s": "Me gusta el ritmo lento de esa canción. (I like the slow rhythm of that song.)"
+            },
+            {
+                "id": "es-2254",
+                "w": "respuestas",
+                "p": "respwestas",
+                "d": "reply",
+                "s": "Una de esas dos respuestas es correcta. (One of these two answers is right.)"
+            },
+            {
+                "id": "es-2255",
+                "w": "socio",
+                "p": "ˈsoθjo",
+                "d": "partner",
+                "s": "Tom es mi socio de negocios. (Tom is my business partner.)"
+            },
+            {
+                "id": "es-2256",
+                "w": "esperas",
+                "p": "esˈpeɾas",
+                "d": "to hope",
+                "s": "Hazme saber cuándo esperas estar aquí. (Let me know what time you plan to be here.)"
+            },
+            {
+                "id": "es-2257",
+                "w": "caído",
+                "p": "kaˈido",
+                "d": "fallen",
+                "s": "Disculpe, se me han caído los palillos. (Excuse me, I dropped a chopstick.)"
+            },
+            {
+                "id": "es-2258",
+                "w": "motor",
+                "p": "moˈtoɾ",
+                "d": "motor",
+                "s": "Deja el motor andando. Vuelvo enseguida. (Keep the engine running. I'll be right back.)"
+            },
+            {
+                "id": "es-2259",
+                "w": "mono",
+                "p": "ˈmono",
+                "d": "monkey",
+                "s": "Para un mono es fácil subirse a un árbol. (It is easy for a monkey to climb a tree.)"
+            },
+            {
+                "id": "es-2260",
+                "w": "llevaron",
+                "p": "ʎeβaɾon",
+                "d": "to take somewhere",
+                "s": "En seguida llevaron a cabo el proyecto. (They carried out the plan right away.)"
+            },
+            {
+                "id": "es-2261",
+                "w": "página",
+                "p": "ˈpaxina",
+                "d": "page",
+                "s": "No pude encontrar la página que buscaba. (I couldn't find the page I was looking for.)"
+            },
+            {
+                "id": "es-2262",
+                "w": "poquito",
+                "p": "poˈkito",
+                "d": "very little",
+                "s": "Tom es sólo un poquito más bajo que yo. (Tom is just a little bit shorter than me.)"
+            },
+            {
+                "id": "es-2263",
+                "w": "habíamos",
+                "p": "aˈbiamos",
+                "d": "to have",
+                "s": "Pensé que habíamos jugado estupendamente. (I thought we played really well.)"
+            },
+            {
+                "id": "es-2264",
+                "w": "encontraremos",
+                "p": "enkontɾaˈɾemos",
+                "d": "to meet",
+                "s": "Nos encontraremos el lunes en la mañana. (We'll meet on Monday morning.)"
+            },
+            {
+                "id": "es-2265",
+                "w": "ruego",
+                "p": "ˈrweɡo",
+                "d": "plea",
+                "s": "Te ruego que me dejes vivir. (I beg you to let me live.)"
+            },
+            {
+                "id": "es-2266",
+                "w": "dejan",
+                "p": "ˈdexan",
+                "d": "to leave",
+                "s": "Mis padres no me dejan ir a la fiesta. (My parents didn't allow me to go to the party.)"
+            },
+            {
+                "id": "es-2267",
+                "w": "aburrido",
+                "p": "abuˈrido",
+                "d": "bored",
+                "s": "Fue tan aburrido, que me quedé dormido. (It was so boring that I fell asleep.)"
+            },
+            {
+                "id": "es-2268",
+                "w": "paquete",
+                "p": "paˈkete",
+                "d": "parcel",
+                "s": "Voy a comprar un paquete de cigarrillos. (I'm going to buy a pack of cigarettes.)"
+            },
+            {
+                "id": "es-2269",
+                "w": "casada",
+                "p": "kaˈsada",
+                "d": "married",
+                "s": "Ella está casada con un estadounidense. (She is married to an American.)"
+            },
+            {
+                "id": "es-2270",
+                "w": "llevarte",
+                "p": "ʎeβaɾte",
+                "d": "to take somewhere",
+                "s": "Exactamente por eso no puedo llevarte. (That's exactly why I can't take you with me.)"
+            },
+            {
+                "id": "es-2271",
+                "w": "combate",
+                "p": "komˈbate",
+                "d": "combat",
+                "s": "La vida es un combate contra la muerte. (Life is a battle against death.)"
+            },
+            {
+                "id": "es-2272",
+                "w": "útil",
+                "p": "ˈutil",
+                "d": "useful",
+                "s": "El hierro es mucho más útil que el oro. (Iron is much more useful than gold.)"
+            },
+            {
+                "id": "es-2273",
+                "w": "castillo",
+                "p": "kasˈtiʝo",
+                "d": "castle",
+                "s": "Hace muchos años aquí había un castillo. (There was a castle here many years ago.)"
+            },
+            {
+                "id": "es-2274",
+                "w": "bola",
+                "p": "ˈbola",
+                "d": "ball",
+                "s": "Comprimió una hoja de papel en una bola. (He crushed the sheet of paper up into a ball.)"
+            },
+            {
+                "id": "es-2275",
+                "w": "canciones",
+                "p": "kanˈθjones",
+                "d": "song",
+                "s": "A ella le gusta cantar canciones viejas. (She is fond of singing old songs.)"
+            },
+            {
+                "id": "es-2276",
+                "w": "mataré",
+                "p": "mataˈɾe",
+                "d": "to kill",
+                "s": "Si la hieres de alguna manera, te mataré. (If you harm her in any way, I'll kill you.)"
+            },
+            {
+                "id": "es-2277",
+                "w": "muchísimo",
+                "p": "muˈt͡ʃisimo",
+                "d": "much",
+                "s": "Me gusta muchísimo la nieve de vainilla. (I like vanilla ice cream very much.)"
+            },
+            {
+                "id": "es-2278",
+                "w": "asistente",
+                "p": "asisˈtente",
+                "d": "attendee",
+                "s": "Su asistente le limpió los zapatos. (His assistant polished his shoes.)"
+            },
+            {
+                "id": "es-2279",
+                "w": "llegaron",
+                "p": "ʎeɣaɾon",
+                "d": "to arrive",
+                "s": "Yo ya me había ido cuando ellos llegaron. (I had already left when they arrived.)"
+            },
+            {
+                "id": "es-2280",
+                "w": "correcta",
+                "p": "korekta",
+                "d": "correct",
+                "s": "Por favor, señale la respuesta correcta. (Please mark the correct answer.)"
+            },
+            {
+                "id": "es-2281",
+                "w": "pondré",
+                "p": "ponˈdɾe",
+                "d": "to put",
+                "s": "Simplemente pondré esto en el frigorífico. (I'll just put this in the fridge.)"
+            },
+            {
+                "id": "es-2282",
+                "w": "comido",
+                "p": "koˈmido",
+                "d": "to eat",
+                "s": "¿Alguna vez has comido carne de ballena? (Have you ever eaten whale meat?)"
+            },
+            {
+                "id": "es-2283",
+                "w": "salgan",
+                "p": "salgan",
+                "d": "to go out",
+                "s": "Salgan de aquí antes de que Tom les pegue. (Get out of here before Tom hits you.)"
+            },
+            {
+                "id": "es-2284",
+                "w": "empecé",
+                "p": "empeˈθe",
+                "d": "to start",
+                "s": "La semana pasada empecé a aprender chino. (I started learning Chinese last week.)"
+            },
+            {
+                "id": "es-2285",
+                "w": "tirar",
+                "p": "tiˈɾaɾ",
+                "d": "to drop intentionally",
+                "s": "¿Dónde puedo tirar esta cáscara de huevo? (Where can I throw this eggshell?)"
+            },
+            {
+                "id": "es-2286",
+                "w": "pasan",
+                "p": "pasan",
+                "d": "to pass",
+                "s": "Los buses pasan cada diez minutos aquí. (The buses run every ten minutes here.)"
+            },
+            {
+                "id": "es-2287",
+                "w": "cierta",
+                "p": "ˈθjeɾta",
+                "d": "true",
+                "s": "Tiene cierta relación con este problema. (It has some bearing on this problem.)"
+            },
+            {
+                "id": "es-2288",
+                "w": "honesto",
+                "p": "oˈnesto",
+                "d": "honest",
+                "s": "A él todos lo consideran que es honesto. (Everyone considers him to be honest.)"
+            },
+            {
+                "id": "es-2289",
+                "w": "carro",
+                "p": "ˈkaro",
+                "d": "cart",
+                "s": "Al carro de Tom se le acabó la gasolina. (Tom's car ran out of gas.)"
+            },
+            {
+                "id": "es-2290",
+                "w": "limpia",
+                "p": "ˈlimpja",
+                "d": "clean",
+                "s": "La habitación de Tom no está muy limpia. (Tom's room isn't very clean.)"
+            },
+            {
+                "id": "es-2291",
+                "w": "volví",
+                "p": "boˈlβi",
+                "d": "to return",
+                "s": "Cuando volví, mi auto había desaparecido. (When I got back, I found my car missing.)"
+            },
+            {
+                "id": "es-2292",
+                "w": "confío",
+                "p": "koˈmfio",
+                "d": "to reassure",
+                "s": "Confío por completo en sus habilidades. (I completely trust your abilities.)"
+            },
+            {
+                "id": "es-2293",
+                "w": "venta",
+                "p": "ˈbenta",
+                "d": "sale",
+                "s": "La venta de billetes comenzará el lunes. (Ticket sales will begin Monday.)"
+            },
+            {
+                "id": "es-2294",
+                "w": "huir",
+                "p": "ˈw̝iɾ",
+                "d": "to flee",
+                "s": "Podemos idear algunas maneras de huir. (We must devise some means of escape.)"
+            },
+            {
+                "id": "es-2295",
+                "w": "apareció",
+                "p": "apaɾeˈθjo",
+                "d": "to appear",
+                "s": "Esperé por horas, pero ella no apareció. (I waited for hours, but she didn't show up.)"
+            },
+            {
+                "id": "es-2296",
+                "w": "vais",
+                "p": "ˈbais",
+                "d": "to go",
+                "s": "¿No vais andando al cole todos los días? (Don't you walk to school every day?)"
+            },
+            {
+                "id": "es-2297",
+                "w": "compromiso",
+                "p": "kompɾoˈmiso",
+                "d": "commitment",
+                "s": "La verdad es que tengo otro compromiso. (The fact is that I have another appointment.)"
+            },
+            {
+                "id": "es-2298",
+                "w": "gustas",
+                "p": "gustas",
+                "d": "translated as",
+                "s": "Para ser honestos, no me gustas para nada. (To be honest, I don't like you at all.)"
+            },
+            {
+                "id": "es-2299",
+                "w": "aseguro",
+                "p": "aseɣuɾo",
+                "d": "to secure",
+                "s": "Te aseguro que te conseguiré un empleo. (I guarantee I'll get you a job.)"
+            },
+            {
+                "id": "es-2300",
+                "w": "ira",
+                "p": "ˈiɾa",
+                "d": "anger",
+                "s": "Tom tomó un curso de control de la ira. (Tom took a class to learn how to manage his anger.)"
+            },
+            {
+                "id": "es-2301",
+                "w": "promesa",
+                "p": "pɾoˈmesa",
+                "d": "promise",
+                "s": "Tom no fue capaz de mantener su promesa. (Tom failed to keep his promise.)"
+            },
+            {
+                "id": "es-2302",
+                "w": "decírselo",
+                "p": "deˈθiɾselo",
+                "d": "to say",
+                "s": "No tienes que decírselo a tus padres. (You don't have to tell that to your parents.)"
+            },
+            {
+                "id": "es-2303",
+                "w": "cuáles",
+                "p": "ˈkwales",
+                "d": "which one",
+                "s": "¿Cuáles son algunas de las desventajas? (What are some of the disadvantages?)"
+            },
+            {
+                "id": "es-2304",
+                "w": "compras",
+                "p": "ˈkompɾas",
+                "d": "purchase",
+                "s": "¿Te gustaría venirte de compras conmigo? (Would you like to come shopping with me?)"
+            },
+            {
+                "id": "es-2305",
+                "w": "importancia",
+                "p": "impoɾˈtanθja",
+                "d": "importance",
+                "s": "Este es un problema de suma importancia. (This is a matter of utmost importance.)"
+            },
+            {
+                "id": "es-2306",
+                "w": "lección",
+                "p": "leɡˈθjon",
+                "d": "lesson",
+                "s": "¿Tuviste una lección de piano aquel día? (Did you have a piano lesson that day?)"
+            },
+            {
+                "id": "es-2307",
+                "w": "hablaré",
+                "p": "ablaˈɾe",
+                "d": "to talk",
+                "s": "Hablaré contigo cuando estés desocupado. (I'll talk with you when you're not busy.)"
+            },
+            {
+                "id": "es-2308",
+                "w": "hacerse",
+                "p": "aθeɾse",
+                "d": "to do",
+                "s": "El trabajo debe hacerse, se quiera o no. (Whether you like it or not, the job has to be done.)"
+            },
+            {
+                "id": "es-2309",
+                "w": "personalmente",
+                "p": "peɾˌsonalˈmente",
+                "d": "personally",
+                "s": "¿Usted lo conoce a Tomás personalmente? (Do you know Tom personally?)"
+            },
+            {
+                "id": "es-2310",
+                "w": "bolsillo",
+                "p": "bolˈsiʝo",
+                "d": "pocket",
+                "s": "Meta usted el dinero dentro del bolsillo. (Put the money in your pocket.)"
+            },
+            {
+                "id": "es-2311",
+                "w": "enojado",
+                "p": "enoˈxado",
+                "d": "angry",
+                "s": "Él estaba demasiado enojado para hablar. (He was too angry to speak.)"
+            },
+            {
+                "id": "es-2312",
+                "w": "desgracia",
+                "p": "desˈɡɾaθja",
+                "d": "disgrace",
+                "s": "Por desgracia no hablo muy bien francés. (Unfortunately, my French isn't very good.)"
+            },
+            {
+                "id": "es-2313",
+                "w": "artículo",
+                "p": "aɾˈtikulo",
+                "d": "article",
+                "s": "Verifica la veracidad de este artículo. (Check up on the accuracy of this article.)"
+            },
+            {
+                "id": "es-2314",
+                "w": "labios",
+                "p": "ˈlabjos",
+                "d": "lip",
+                "s": "El paciente movió los labios ligeramente. (The patient moved his lips slightly.)"
+            },
+            {
+                "id": "es-2315",
+                "w": "cola",
+                "p": "ˈkola",
+                "d": "tail",
+                "s": "Esta es la cola para sacar los billetes. (This is the ticket line.)"
+            },
+            {
+                "id": "es-2316",
+                "w": "estemos",
+                "p": "esˈtemos",
+                "d": "to be",
+                "s": "Espero que estemos en casa para Navidad. (I hope we'll be home for Christmas.)"
+            },
+            {
+                "id": "es-2317",
+                "w": "whisky",
+                "p": "ˈw̝iski",
+                "d": "whisky",
+                "s": "¿Quiere whisky puro o lo mezclo con agua? (Do you want your whiskey straight or should I mix it with water?)"
+            },
+            {
+                "id": "es-2318",
+                "w": "taza",
+                "p": "ˈtaθa",
+                "d": "cup",
+                "s": "¿Seguro que no quieres una taza de café? (Are you sure you don't want a cup of coffee?)"
+            },
+            {
+                "id": "es-2319",
+                "w": "despues",
+                "p": "",
+                "d": "later",
+                "s": ""
+            },
+            {
+                "id": "es-2320",
+                "w": "preguntarte",
+                "p": "pɾeɣuntaɾte",
+                "d": "to ask",
+                "s": "En realidad, no quería preguntarte nada. (Actually, I didn't want to ask you anything.)"
+            },
+            {
+                "id": "es-2321",
+                "w": "pelota",
+                "p": "peˈlota",
+                "d": "ball",
+                "s": "Una pelota entró volando por la ventana. (A ball flew in through the window.)"
+            },
+            {
+                "id": "es-2322",
+                "w": "caminando",
+                "p": "kaminando",
+                "d": "to walk",
+                "s": "Él había estado caminando durante horas. (He had been walking for hours.)"
+            },
+            {
+                "id": "es-2323",
+                "w": "andar",
+                "p": "anˈdaɾ",
+                "d": "to walk",
+                "s": "Tom sólo puede andar si tiene su bastón. (Tom can walk only if he has his cane.)"
+            },
+            {
+                "id": "es-2324",
+                "w": "crea",
+                "p": "ˈkɾea",
+                "d": "to create",
+                "s": "Por favor, venga cuando lo crea conveniente. (Please come when it is convenient.)"
+            },
+            {
+                "id": "es-2325",
+                "w": "chaqueta",
+                "p": "t͡ʃaˈketa",
+                "d": "jacket",
+                "s": "Esa chaqueta es demasiado grande para ti. (That jacket is way too big for you.)"
+            },
+            {
+                "id": "es-2326",
+                "w": "importaría",
+                "p": "impoɾtaˈɾia",
+                "d": "to matter",
+                "s": "Simplemente supuse que no te importaría. (I just assumed you wouldn't mind.)"
+            },
+            {
+                "id": "es-2327",
+                "w": "den",
+                "p": "ˈden",
+                "d": "to give",
+                "s": "No estoy habituado a que me den la razón. (I'm not used to people not agreeing with me.)"
+            },
+            {
+                "id": "es-2328",
+                "w": "llegará",
+                "p": "ʝeɡaˈɾa",
+                "d": "to arrive",
+                "s": "Llegará un momento en que lo entenderás. (The time will come when you will understand this.)"
+            },
+            {
+                "id": "es-2329",
+                "w": "interesado",
+                "p": "inteɾeˈsado",
+                "d": "interested",
+                "s": "¿Por qué Tom está tan interesado en eso? (Why is Tom so interested in that?)"
+            },
+            {
+                "id": "es-2330",
+                "w": "atrapado",
+                "p": "atɾaˈpado",
+                "d": "caught",
+                "s": "Tom se dio cuenta de que estaba atrapado. (Tom realized he was trapped.)"
+            },
+            {
+                "id": "es-2331",
+                "w": "supiera",
+                "p": "supjeɾa",
+                "d": "to know",
+                "s": "Tom lo habría hecho ya, si supiera cómo. (Tom would've done it already if he knew how.)"
+            },
+            {
+                "id": "es-2332",
+                "w": "matarlo",
+                "p": "mataɾlo",
+                "d": "to kill",
+                "s": "Tom recordaba que Mary y John habían intentado matarlo. (Tom remembered that Mary and John had tried to kill him.)"
+            },
+            {
+                "id": "es-2333",
+                "w": "árboles",
+                "p": "ˈaɾboles",
+                "d": "tree",
+                "s": "¿Cuánto aguantan los árboles de Navidad? (How long do Christmas trees last?)"
+            },
+            {
+                "id": "es-2334",
+                "w": "obvio",
+                "p": "ˈobbjo",
+                "d": "obvious",
+                "s": "Parece obvio que él es incapaz de nadar. (It seems obvious that he is unable to swim.)"
+            },
+            {
+                "id": "es-2335",
+                "w": "amaba",
+                "p": "aˈmaba",
+                "d": "to love",
+                "s": "Tom amaba a María y María lo amaba a él. (Tom loved Mary and Mary loved him.)"
+            },
+            {
+                "id": "es-2336",
+                "w": "hablaremos",
+                "p": "ablaˈɾemos",
+                "d": "to talk",
+                "s": "Hablaremos con ella antes de que deje la oficina. (We will talk to her before she leaves the office.)"
+            },
+            {
+                "id": "es-2337",
+                "w": "entrenamiento",
+                "p": "entɾenaˈmjento",
+                "d": "training",
+                "s": "Huí del campo de entrenamiento. (I ran away from the training camp.)"
+            },
+            {
+                "id": "es-2338",
+                "w": "pescado",
+                "p": "pesˈkado",
+                "d": "dead fish intended for consumption",
+                "s": "¿Por qué a Tom no le gusta comer pescado? (Why doesn't Tom like to eat fish?)"
+            },
+            {
+                "id": "es-2339",
+                "w": "últimas",
+                "p": "ˈultimas",
+                "d": "final",
+                "s": "¿Usted votó en las últimas elecciones? (Did you vote in the last election?)"
+            },
+            {
+                "id": "es-2340",
+                "w": "pobres",
+                "p": "ˈpobɾes",
+                "d": "poor",
+                "s": "Tom dedicó su vida a ayudar a los pobres. (Tom devoted his life to helping the poor.)"
+            },
+            {
+                "id": "es-2341",
+                "w": "dioses",
+                "p": "djoses",
+                "d": "god",
+                "s": "Sacrificaron una cabra en honor a los dioses. (They killed a goat as a sacrifice to the gods.)"
+            },
+            {
+                "id": "es-2342",
+                "w": "nerviosa",
+                "p": "neɾˈbjosa",
+                "d": "nerve",
+                "s": "Estaba tan nerviosa que por poco vomité. (I was so nervous I almost threw up.)"
+            },
+            {
+                "id": "es-2343",
+                "w": "vueltas",
+                "p": "ˈbweltas",
+                "d": "go-back",
+                "s": "Un helicóptero dio vueltas sobre nosotros. (A helicopter circled over us.)"
+            },
+            {
+                "id": "es-2344",
+                "w": "encontrarlo",
+                "p": "eŋkontɾaɾlo",
+                "d": "to meet",
+                "s": "Estoy seguro de que podré encontrarlo. (I'm sure I'll be able to find it.)"
+            },
+            {
+                "id": "es-2345",
+                "w": "autos",
+                "p": "ˈautos",
+                "d": "car",
+                "s": "El camino es muy estrecho para los autos. (The road is too narrow for cars.)"
+            },
+            {
+                "id": "es-2346",
+                "w": "preguntarle",
+                "p": "pɾeɣuntaɾle",
+                "d": "to ask",
+                "s": "Tom no sabe a quién debería preguntarle. (Tom doesn't know who he should ask.)"
+            },
+            {
+                "id": "es-2347",
+                "w": "abrigo",
+                "p": "aˈbɾiɡo",
+                "d": "overcoat",
+                "s": "Me gusta este abrigo. ¿Puedo probármelo? (I like this coat. May I try it on?)"
+            },
+            {
+                "id": "es-2348",
+                "w": "okay",
+                "p": "oˈkei",
+                "d": "OK",
+                "s": ""
+            },
+            {
+                "id": "es-2349",
+                "w": "estudiar",
+                "p": "estuˈdjaɾ",
+                "d": "to study",
+                "s": "Me gusta estudiar las flores silvestres. (I like studying wild flowers.)"
+            },
+            {
+                "id": "es-2350",
+                "w": "sonrisa",
+                "p": "sonˈrisa",
+                "d": "smile",
+                "s": "Pienso que ella tiene una bella sonrisa. (I think she has a beautiful smile.)"
+            },
+            {
+                "id": "es-2351",
+                "w": "cobarde",
+                "p": "koˈbaɾde",
+                "d": "cowardly",
+                "s": "Tom se fue corriendo como un cobarde. (Tom ran off like a coward.)"
+            },
+            {
+                "id": "es-2352",
+                "w": "olvida",
+                "p": "olˈbida",
+                "d": "to forget",
+                "s": "Por favor, olvida lo que acabo de decir. (Please forget what I just said.)"
+            },
+            {
+                "id": "es-2353",
+                "w": "secundaria",
+                "p": "sekunˈdaɾja",
+                "d": "secondary school",
+                "s": "Ella era tímida en la escuela secundaria. (She was shy in her high school days.)"
+            },
+            {
+                "id": "es-2354",
+                "w": "descubierto",
+                "p": "deskuˈbjeɾto",
+                "d": "discovered",
+                "s": "Tienen que haber descubierto quién era yo. (They must've found out who I was.)"
+            },
+            {
+                "id": "es-2355",
+                "w": "convirtió",
+                "p": "kombiˈɾtjo",
+                "d": "to turn into",
+                "s": "Eventualmente se convirtió en su hábito. (That gradually became his habit.)"
+            },
+            {
+                "id": "es-2356",
+                "w": "coches",
+                "p": "kotʃes",
+                "d": "car",
+                "s": "Jamás había visto tantos coches parados. (I'd never seen so many stopped cars.)"
+            },
+            {
+                "id": "es-2357",
+                "w": "venía",
+                "p": "beˈnia",
+                "d": "Senses relating to literal movement",
+                "s": "La música venía a la cabeza del desfile. (The band came at the head of the parade.)"
+            },
+            {
+                "id": "es-2358",
+                "w": "charla",
+                "p": "ˈt͡ʃaɾla",
+                "d": "talk",
+                "s": "He tenido una charla agradable con Tom. (I had a nice chat with Tom.)"
+            },
+            {
+                "id": "es-2359",
+                "w": "vives",
+                "p": "ˈbibes",
+                "d": "to applaud",
+                "s": "\"¿Dónde vives tú?\" \"Yo vivo en Tokio.\" (\"Where do you live?\" \"I live in Tokyo.\")"
+            },
+            {
+                "id": "es-2360",
+                "w": "bruja",
+                "p": "ˈbɾuxa",
+                "d": "witch",
+                "s": "La bruja le lanzó un hechizo al niño travieso. (The witch cast a spell on the naughty boy.)"
+            },
+            {
+                "id": "es-2361",
+                "w": "celular",
+                "p": "θeluˈlaɾ",
+                "d": "cell phone",
+                "s": "Tu teléfono celular sonó hace un minuto. (Your cell phone rang a minute ago.)"
+            },
+            {
+                "id": "es-2362",
+                "w": "rompió",
+                "p": "roˈmpjo",
+                "d": "to break",
+                "s": "¿Quién piensas tú que rompió la ventana? (Who do you think broke the window?)"
+            },
+            {
+                "id": "es-2363",
+                "w": "andando",
+                "p": "anˈdando",
+                "d": "to walk",
+                "s": "Voy andando a la escuela todos los días. (I walk to school every day.)"
+            },
+            {
+                "id": "es-2364",
+                "w": "vean",
+                "p": "ˈbean",
+                "d": "to see",
+                "s": "No quiero que Tom y Mary me vean llorando. (I don't want Tom and Mary to see me cry.)"
+            },
+            {
+                "id": "es-2365",
+                "w": "conseguiste",
+                "p": "konseˈɡiste",
+                "d": "to achieve",
+                "s": "Por favor, dime dónde conseguiste esto. (Please tell me where you got this.)"
+            },
+            {
+                "id": "es-2366",
+                "w": "veinte",
+                "p": "ˈbeinte",
+                "d": "twenty",
+                "s": "\"¿Qué hora es?\" \"Son las tres y veinte.\" (\"What time is it?\" \"It's 3:20.\")"
+            },
+            {
+                "id": "es-2367",
+                "w": "encargo",
+                "p": "enˈkaɾɡo",
+                "d": "order",
+                "s": "Déjame el asunto a mí. Yo me encargo. (Leave the matter to me. I'll see to it.)"
+            },
+            {
+                "id": "es-2368",
+                "w": "matarte",
+                "p": "maˈtaɾte",
+                "d": "to kill",
+                "s": "¿Por qué Tom quiere matarte? (Why does Tom want to kill you?)"
+            },
+            {
+                "id": "es-2369",
+                "w": "palacio",
+                "p": "paˈlaθjo",
+                "d": "palace",
+                "s": "Alguna vez el rey vivió en ese palacio. (The king once lived in that palace.)"
+            },
+            {
+                "id": "es-2370",
+                "w": "convierte",
+                "p": "kombjeɾte",
+                "d": "to turn into",
+                "s": "Cuando el hielo se derrite, se convierte en agua. (When ice melts, it becomes water.)"
+            },
+            {
+                "id": "es-2371",
+                "w": "ja",
+                "p": "ˈxa",
+                "d": "representation of laughter",
+                "s": ""
+            },
+            {
+                "id": "es-2372",
+                "w": "vivos",
+                "p": "biβos",
+                "d": "alive",
+                "s": "Hay poca esperanza de que estén vivos. (There is little hope that they are alive.)"
+            },
+            {
+                "id": "es-2373",
+                "w": "pasamos",
+                "p": "pasamos",
+                "d": "to pass",
+                "s": "Nos lo pasamos bien en la fiesta anoche. (We enjoyed ourselves at the party last night.)"
+            },
+            {
+                "id": "es-2374",
+                "w": "firme",
+                "p": "ˈfiɾme",
+                "d": "firm",
+                "s": "Los marineros vieron tierra firme. (The sailors saw land.)"
+            },
+            {
+                "id": "es-2375",
+                "w": "daría",
+                "p": "daˈɾia",
+                "d": "to give",
+                "s": "Pensé que Tom no se daría por vencido. (I thought Tom wouldn't give up.)"
+            },
+            {
+                "id": "es-2376",
+                "w": "piense",
+                "p": "pjense",
+                "d": "to think",
+                "s": "No pasa un día en que no piense en vos. (Not a day goes by when I don't think about you.)"
+            },
+            {
+                "id": "es-2377",
+                "w": "oigo",
+                "p": "ˈoiɡo",
+                "d": "to hear",
+                "s": "Oigo a un perro ladrando en el bosque. (I hear a dog barking in the woods.)"
+            },
+            {
+                "id": "es-2378",
+                "w": "sorprende",
+                "p": "soɾpɾende",
+                "d": "to surprise",
+                "s": "No me sorprende que usted no lo recuerde. (I'm not surprised you don't remember.)"
+            },
+            {
+                "id": "es-2379",
+                "w": "alemanes",
+                "p": "aleˈmanes",
+                "d": "German",
+                "s": "Los coches alemanes son muy populares. (German cars are very popular.)"
+            },
+            {
+                "id": "es-2380",
+                "w": "milagro",
+                "p": "miˈlaɡɾo",
+                "d": "miracle",
+                "s": "El escape fue poco menos que un milagro. (The escape was nothing less than a miracle.)"
+            },
+            {
+                "id": "es-2381",
+                "w": "soportar",
+                "p": "sopoɾˈtaɾ",
+                "d": "to bear",
+                "s": "No puedo soportar más su comportamiento. (I can't stand his behavior anymore.)"
+            },
+            {
+                "id": "es-2382",
+                "w": "dejaron",
+                "p": "dexaɾon",
+                "d": "to leave",
+                "s": "¿Por qué dejaron de tomar su medicación? (Why did you stop taking your medicine?)"
+            },
+            {
+                "id": "es-2383",
+                "w": "disculpen",
+                "p": "diskulpen",
+                "d": "to excuse",
+                "s": ""
+            },
+            {
+                "id": "es-2384",
+                "w": "moda",
+                "p": "ˈmoda",
+                "d": "fashion",
+                "s": "A Mary le encantaría dedicarse a la moda. (Mary would love to work in fashion.)"
+            },
+            {
+                "id": "es-2385",
+                "w": "despacho",
+                "p": "desˈpat͡ʃo",
+                "d": "dispatch",
+                "s": "Tu despacho no es tan grande como el mío. (Your office isn't as large as mine.)"
+            },
+            {
+                "id": "es-2386",
+                "w": "vecinos",
+                "p": "beˈθinos",
+                "d": "neighbour",
+                "s": "Ellos han sido buenos vecinos hasta hoy. (They have been good neighbors to this day.)"
+            },
+            {
+                "id": "es-2387",
+                "w": "vaso",
+                "p": "ˈbaso",
+                "d": "drinking glass",
+                "s": "Disuelva la pastilla en un vaso de agua. (Dissolve the tablet in a glass of water.)"
+            },
+            {
+                "id": "es-2388",
+                "w": "dejarte",
+                "p": "dexaɾte",
+                "d": "to leave",
+                "s": "Lo siento pero no puedo dejarte marchar. (I'm sorry, but I can't let you go.)"
+            },
+            {
+                "id": "es-2389",
+                "w": "explosión",
+                "p": "eɡsploˈsjon",
+                "d": "explosion",
+                "s": "La gran explosión mató a seis personas. (The huge explosion killed six people.)"
+            },
+            {
+                "id": "es-2390",
+                "w": "poderes",
+                "p": "poðeɾes",
+                "d": "power",
+                "s": "Tom cree que esos cristales de cuarzo tienen poderes curativos. (Tom believes that these quartz crystals have healing powers.)"
+            },
+            {
+                "id": "es-2391",
+                "w": "regla",
+                "p": "ˈreɡla",
+                "d": "rule",
+                "s": "La regla sigue siendo válida en este caso. (The rule holds good in this case.)"
+            },
+            {
+                "id": "es-2392",
+                "w": "acaban",
+                "p": "aˈkaban",
+                "d": "to finish",
+                "s": "Todos ustedes acaban de perder el juego. (You all just lost the game.)"
+            },
+            {
+                "id": "es-2393",
+                "w": "copia",
+                "p": "ˈkopja",
+                "d": "copy",
+                "s": "Te estoy enviando una copia de mi carta. (I'm sending a copy of my letter to you.)"
+            },
+            {
+                "id": "es-2394",
+                "w": "siguiendo",
+                "p": "siɣjendo",
+                "d": "to follow",
+                "s": "No sabía que alguien me estaba siguiendo. (I didn't know that someone was following me.)"
+            },
+            {
+                "id": "es-2395",
+                "w": "viajar",
+                "p": "bjaˈxaɾ",
+                "d": "to travel",
+                "s": "Tom es demasiado joven para viajar solo. (Tom is too young to travel alone.)"
+            },
+            {
+                "id": "es-2396",
+                "w": "cadena",
+                "p": "kaˈdena",
+                "d": "chain",
+                "s": "Tom fue sentenciado a cadena perpetua. (Tom was sentenced to life.)"
+            },
+            {
+                "id": "es-2397",
+                "w": "fábrica",
+                "p": "ˈfabɾika",
+                "d": "factory",
+                "s": "Tiene una fábrica de material eléctrico. (He has an electrical equipment factory.)"
+            },
+            {
+                "id": "es-2398",
+                "w": "mantiene",
+                "p": "manˈtjene",
+                "d": "to keep",
+                "s": "Mi trabajo me mantiene bastante ocupado. (My job keeps me pretty busy.)"
+            },
+            {
+                "id": "es-2399",
+                "w": "meter",
+                "p": "meˈteɾ",
+                "d": "to put in",
+                "s": "Me voy a meter en problemas si hago eso. (I'll get in trouble if I do that.)"
+            },
+            {
+                "id": "es-2400",
+                "w": "contenta",
+                "p": "konˈtenta",
+                "d": "content",
+                "s": "Ella estaba contenta con su nuevo vestido. (She was pleased with her new dress.)"
+            },
+            {
+                "id": "es-2401",
+                "w": "comiendo",
+                "p": "koˈmjendo",
+                "d": "to eat",
+                "s": "Estaba comiendo cuando sonó el teléfono. (I was having my lunch when the phone rang.)"
+            },
+            {
+                "id": "es-2402",
+                "w": "educación",
+                "p": "edukaˈθjon",
+                "d": "education",
+                "s": "Es de mala educación señalar a la gente. (It is bad manners to point at people.)"
+            },
+            {
+                "id": "es-2403",
+                "w": "maneras",
+                "p": "maneɾas",
+                "d": "way",
+                "s": "La lengua puede usarse de muchas maneras. (Language can be used in many ways.)"
+            },
+            {
+                "id": "es-2404",
+                "w": "fumar",
+                "p": "fuˈmaɾ",
+                "d": "to smoke",
+                "s": "Tom le pidió a Mary que dejara de fumar. (Tom asked Mary to quit smoking.)"
+            },
+            {
+                "id": "es-2405",
+                "w": "encantador",
+                "p": "enkantaˈdoɾ",
+                "d": "charming",
+                "s": "Puedes ser realmente encantador cuando quieres. (You can be pretty charming when you want to be.)"
+            },
+            {
+                "id": "es-2406",
+                "w": "cuantos",
+                "p": "ˈkwantos",
+                "d": "as much",
+                "s": "Tom sabe unos cuantos trucos de magia. (Tom knows a few magic tricks.)"
+            },
+            {
+                "id": "es-2407",
+                "w": "homicidio",
+                "p": "omiˈθidjo",
+                "d": "homicide",
+                "s": "Él fue encontrado culpable de homicidio. (He was found guilty of murder.)"
+            },
+            {
+                "id": "es-2408",
+                "w": "madera",
+                "p": "maˈdeɾa",
+                "d": "wood",
+                "s": "Todos los juguetes de Tom son de madera. (Tom's toys are all made of wood.)"
+            },
+            {
+                "id": "es-2409",
+                "w": "mayores",
+                "p": "maʝoɾes",
+                "d": "bigger",
+                "s": "Ella tiene algo con los hombres mayores. (She has a thing for older men.)"
+            },
+            {
+                "id": "es-2410",
+                "w": "grado",
+                "p": "ˈɡɾado",
+                "d": "degree",
+                "s": "No estoy en grado de darte consejos. (I'm not in a position to give you any advice.)"
+            },
+            {
+                "id": "es-2411",
+                "w": "tratamiento",
+                "p": "tɾataˈmjento",
+                "d": "treatment",
+                "s": "Él tiene derecho a un mejor tratamiento. (He is entitled to better treatment.)"
+            },
+            {
+                "id": "es-2412",
+                "w": "blancos",
+                "p": "ˈblankos",
+                "d": "white",
+                "s": "Las gallinas negras ponen huevos blancos. (Black hens lay white eggs.)"
+            },
+            {
+                "id": "es-2413",
+                "w": "lord",
+                "p": "ˈloɾd",
+                "d": "lord",
+                "s": ""
+            },
+            {
+                "id": "es-2414",
+                "w": "anterior",
+                "p": "anteˈɾjoɾ",
+                "d": "anterior",
+                "s": "Lo había comprado la semana anterior. (I'd bought it the week before.)"
+            },
+            {
+                "id": "es-2415",
+                "w": "comisario",
+                "p": "komiˈsaɾjo",
+                "d": "inspector",
+                "s": "Yo sé quién mató al comisario. (I know who killed the police inspector.)"
+            },
+            {
+                "id": "es-2416",
+                "w": "pizza",
+                "p": "ˈpitsa",
+                "d": "pizza",
+                "s": "Estamos esperando a que llegue la pizza. (We're waiting for the pizza to arrive.)"
+            },
+            {
+                "id": "es-2417",
+                "w": "millas",
+                "p": "miʎas",
+                "d": "English or American mile",
+                "s": "Todavía tenemos diez millas por delante. (We still have ten miles to go.)"
+            },
+            {
+                "id": "es-2418",
+                "w": "tira",
+                "p": "ˈtiɾa",
+                "d": "tie",
+                "s": "Tira la pistola sobre la mesa. (Toss the gun onto the table.)"
+            },
+            {
+                "id": "es-2419",
+                "w": "fueran",
+                "p": "ˈfweɾan",
+                "d": "to go",
+                "s": "Ojalá todos los días fueran sábado. (I wish every day were Saturday.)"
+            },
+            {
+                "id": "es-2420",
+                "w": "cumplir",
+                "p": "kumˈpliɾ",
+                "d": "to fulfil",
+                "s": "Voy a cumplir 16 años el mes que viene. (I'll be sixteen years old next month.)"
+            },
+            {
+                "id": "es-2421",
+                "w": "plata",
+                "p": "ˈplata",
+                "d": "silver",
+                "s": "¿Puedes distinguir la plata del estaño? (Can you tell silver and tin apart?)"
+            },
+            {
+                "id": "es-2422",
+                "w": "quedará",
+                "p": "keðaˈɾa",
+                "d": "to be",
+                "s": "De a poco no me quedará a quien más acudir. (Sooner or later, I'll have no one left to turn to.)"
+            },
+            {
+                "id": "es-2423",
+                "w": "quedaré",
+                "p": "keðaˈɾe",
+                "d": "to be",
+                "s": "Hoy me quedaré en casa y leeré un libro. (I'm going to stay home today and read a book.)"
+            },
+            {
+                "id": "es-2424",
+                "w": "aléjate",
+                "p": "",
+                "d": "to remove to a distance",
+                "s": "Aléjate de los que te alejen de ti mismo. (Avoid those who avoid you.)"
+            },
+            {
+                "id": "es-2425",
+                "w": "decidir",
+                "p": "deθiˈdiɾ",
+                "d": "to decide",
+                "s": "Tom no puede decidir qué cámara comprar. (Tom can't decide which camera to buy.)"
+            },
+            {
+                "id": "es-2426",
+                "w": "lío",
+                "p": "ˈlio",
+                "d": "bundle",
+                "s": "Tom cree que está metido en un gran lío. (Tom thinks he's in big trouble.)"
+            },
+            {
+                "id": "es-2427",
+                "w": "preguntó",
+                "p": "pɾeɣunˈto",
+                "d": "to ask",
+                "s": "Tom le preguntó a Mary dónde vivía John. (Tom asked Mary where John lived.)"
+            },
+            {
+                "id": "es-2428",
+                "w": "agencia",
+                "p": "aˈxenθja",
+                "d": "agency",
+                "s": "Yo trabajo en una agencia de turismo. (I work in a tourist agency.)"
+            },
+            {
+                "id": "es-2429",
+                "w": "humanidad",
+                "p": "umaniˈdad",
+                "d": "humanity",
+                "s": "Eres la última esperanza para la humanidad. (You're the last hope for humanity.)"
+            },
+            {
+                "id": "es-2430",
+                "w": "usado",
+                "p": "uˈsado",
+                "d": "used",
+                "s": "El inglés es usado por muchas personas. (English is used by many people.)"
+            },
+            {
+                "id": "es-2431",
+                "w": "guardias",
+                "p": "gwaɾðjas",
+                "d": "custodian",
+                "s": "Los guardias dispersaron a la multitud. (The police dispersed the crowd.)"
+            },
+            {
+                "id": "es-2432",
+                "w": "parada",
+                "p": "paˈɾada",
+                "d": "stop",
+                "s": "Ellos se bajaron en la siguiente parada. (They got off at the next bus stop.)"
+            },
+            {
+                "id": "es-2433",
+                "w": "leyes",
+                "p": "ˈleʝes",
+                "d": "law",
+                "s": "El campo de estudio de Tom son las leyes. (Tom's field of study is law.)"
+            },
+            {
+                "id": "es-2434",
+                "w": "funcionó",
+                "p": "funθjoˈno",
+                "d": "to work",
+                "s": "La estrategia obviamente no funcionó. (That strategy obviously didn't work.)"
+            },
+            {
+                "id": "es-2435",
+                "w": "odia",
+                "p": "oðja",
+                "d": "to hate",
+                "s": "Esta gente odia a todos los extranjeros. (These people hate all foreigners.)"
+            },
+            {
+                "id": "es-2436",
+                "w": "levanta",
+                "p": "leβanta",
+                "d": "to lift",
+                "s": "Tomás se levanta temprano por la mañana. (Tom gets up early in the morning.)"
+            },
+            {
+                "id": "es-2437",
+                "w": "mires",
+                "p": "ˈmiɾes",
+                "d": "to look at",
+                "s": "A caballo regalado no le mires el diente. (Don't look a gift horse in the mouth.)"
+            },
+            {
+                "id": "es-2438",
+                "w": "respira",
+                "p": "respiɾa",
+                "d": "to breathe",
+                "s": "Para relajarte, respira lentamente. (To relax, breathe slowly.)"
+            },
+            {
+                "id": "es-2439",
+                "w": "escaleras",
+                "p": "eskaleɾas",
+                "d": "stairs",
+                "s": "Ten cuidado con las escaleras mecánicas. (Be careful on escalators.)"
+            },
+            {
+                "id": "es-2440",
+                "w": "decisiones",
+                "p": "deθiˈsjones",
+                "d": "decision",
+                "s": "Tom tomó muchas decisiones inteligentes. (Tom made a lot of smart decisions.)"
+            },
+            {
+                "id": "es-2441",
+                "w": "queréis",
+                "p": "keˈɾeis",
+                "d": "to desire",
+                "s": "¿Queréis ir a la piscina conmigo mañana? (Do you want to go to the swimming pool with me tomorrow?)"
+            },
+            {
+                "id": "es-2442",
+                "w": "salvaje",
+                "p": "salˈbaxe",
+                "d": "wild",
+                "s": "Fue mordida por un animal salvaje. (She was bitten by a wild animal.)"
+            },
+            {
+                "id": "es-2443",
+                "w": "preguntando",
+                "p": "pɾeɣuntando",
+                "d": "to ask",
+                "s": "Me estoy preguntando qué hacer para cenar. (I'm wondering what to cook for dinner.)"
+            },
+            {
+                "id": "es-2444",
+                "w": "pasos",
+                "p": "pasos",
+                "d": "step",
+                "s": "Tom quería seguir los pasos de su padre. (Tom wanted to follow in his father's footsteps.)"
+            },
+            {
+                "id": "es-2445",
+                "w": "ambulancia",
+                "p": "ambuˈlanθja",
+                "d": "ambulance",
+                "s": "Murió antes de que llegara la ambulancia. (He died before the ambulance arrived.)"
+            },
+            {
+                "id": "es-2446",
+                "w": "traducción",
+                "p": "tɾaduɡˈθjon",
+                "d": "translation",
+                "s": "Prefiero la traducción a la enseñanza. (I prefer translation to teaching.)"
+            },
+            {
+                "id": "es-2447",
+                "w": "trabajado",
+                "p": "tɾabaˈxado",
+                "d": "to work",
+                "s": "Deberías de haber trabajado más duramente. (You should have worked harder.)"
+            },
+            {
+                "id": "es-2448",
+                "w": "básicamente",
+                "p": "ˌbasikaˈmente",
+                "d": "basically",
+                "s": "Yo hago básicamente lo mismo que Tom. (I do basically the same thing as Tom does.)"
+            },
+            {
+                "id": "es-2449",
+                "w": "tratado",
+                "p": "tɾaˈtado",
+                "d": "treaty",
+                "s": "No estoy acostumbrado a ser tratado así. (I'm not accustomed to such treatment.)"
+            },
+            {
+                "id": "es-2450",
+                "w": "parado",
+                "p": "paˈɾado",
+                "d": "stopped",
+                "s": "Yo conozco al chico que está parado ahí. (I know the boy standing over there.)"
+            },
+            {
+                "id": "es-2451",
+                "w": "especiales",
+                "p": "espeθjales",
+                "d": "special",
+                "s": "Tom tiene habilidades especiales. (Tom has special abilities.)"
+            },
+            {
+                "id": "es-2452",
+                "w": "mentiroso",
+                "p": "mentiˈɾoso",
+                "d": "liar",
+                "s": "Esto demuestra que tú eres un mentiroso. (This proves you're a liar.)"
+            },
+            {
+                "id": "es-2453",
+                "w": "libres",
+                "p": "ˈlibɾes",
+                "d": "free",
+                "s": "Tom se está tomando un par de días libres. (Tom is taking a few days off.)"
+            },
+            {
+                "id": "es-2454",
+                "w": "servicios",
+                "p": "seɾβiθjos",
+                "d": "service",
+                "s": "¿Puede decirme dónde están los servicios? (Can you tell me where the restrooms are?)"
+            },
+            {
+                "id": "es-2455",
+                "w": "pedirle",
+                "p": "peðiɾle",
+                "d": "to ask for something",
+                "s": "Fue sabio de tu parte pedirle ayuda a él. (It was wise of you to ask him for help.)"
+            },
+            {
+                "id": "es-2456",
+                "w": "vivía",
+                "p": "biˈβia",
+                "d": "to live",
+                "s": "Tom le preguntó a Mary dónde vivía John. (Tom asked Mary where John lived.)"
+            },
+            {
+                "id": "es-2457",
+                "w": "medios",
+                "p": "ˈmedjos",
+                "d": "media",
+                "s": "Tratamos por todos los medios posibles. (We tried all means possible.)"
+            },
+            {
+                "id": "es-2458",
+                "w": "compra",
+                "p": "ˈkompɾa",
+                "d": "purchase",
+                "s": "La gente no compra leche de esta tienda. (People don't buy milk from this store.)"
+            },
+            {
+                "id": "es-2459",
+                "w": "conocimiento",
+                "p": "konoθiˈmjento",
+                "d": "knowledge",
+                "s": "Él no ha recobrado aún el conocimiento. (He has not yet recovered consciousness.)"
+            },
+            {
+                "id": "es-2460",
+                "w": "armario",
+                "p": "aɾˈmaɾjo",
+                "d": "storage cabinet",
+                "s": "El ladrón encerró al niño en el armario. (The burglar shut the child in the closet.)"
+            },
+            {
+                "id": "es-2461",
+                "w": "lobo",
+                "p": "ˈlobo",
+                "d": "wolf",
+                "s": "Tom capturó a un lobo y trató de amansarlo. (Tom caught a wolf and tried to tame it.)"
+            },
+            {
+                "id": "es-2462",
+                "w": "quedamos",
+                "p": "keðamos",
+                "d": "to be",
+                "s": "¿Por qué no quedamos a las dos y media? (Why don't we meet at 2:30?)"
+            },
+            {
+                "id": "es-2463",
+                "w": "ciertamente",
+                "p": "ˌθjeɾtaˈmente",
+                "d": "certainly",
+                "s": "Ciertamente que es posible si se quiere. (It is certainly possible if you want it.)"
+            },
+            {
+                "id": "es-2464",
+                "w": "permitir",
+                "p": "peɾmiˈtiɾ",
+                "d": "to allow",
+                "s": "No voy a permitir tus errores nunca más. (I won't excuse your mistakes again.)"
+            },
+            {
+                "id": "es-2465",
+                "w": "tráfico",
+                "p": "ˈtɾafiko",
+                "d": "traffic",
+                "s": "Tom no murió en un accidente de tráfico. (Tom didn't die in a car accident.)"
+            },
+            {
+                "id": "es-2466",
+                "w": "uniforme",
+                "p": "uniˈfoɾme",
+                "d": "uniform",
+                "s": "La escuela debería eliminar el uniforme. (The school should do away with uniforms.)"
+            },
+            {
+                "id": "es-2467",
+                "w": "estuvimos",
+                "p": "estuˈbimos",
+                "d": "to be",
+                "s": "Estuvimos todos presentes en la reunión. (We were all present at the meeting.)"
+            },
+            {
+                "id": "es-2468",
+                "w": "suave",
+                "p": "ˈswabe",
+                "d": "smooth",
+                "s": "Este cepillo de dientes es demasiado suave. (This toothbrush is too soft.)"
+            },
+            {
+                "id": "es-2469",
+                "w": "propias",
+                "p": "ˈpɾopjas",
+                "d": "own",
+                "s": "Soy responsable de mis propias acciones. (I'm responsible for my own actions.)"
+            },
+            {
+                "id": "es-2470",
+                "w": "balas",
+                "p": "ˈbalas",
+                "d": "bullet",
+                "s": "Esto es vidrio a prueba de balas. (This is bulletproof glass.)"
+            },
+            {
+                "id": "es-2471",
+                "w": "asqueroso",
+                "p": "askeˈɾoso",
+                "d": "disgusting",
+                "s": "Su grueso maquillaje es asqueroso. (Her thick makeup is disgusting.)"
+            },
+            {
+                "id": "es-2472",
+                "w": "ciento",
+                "p": "ˈθjento",
+                "d": "one hundred",
+                "s": "Las ventas subieron un 13 por ciento. (Sales went up 13 percent.)"
+            },
+            {
+                "id": "es-2473",
+                "w": "invierno",
+                "p": "imˈbjeɾno",
+                "d": "winter",
+                "s": "En el invierno, los días son más cortos. (In the winter, days are shorter.)"
+            },
+            {
+                "id": "es-2474",
+                "w": "consigo",
+                "p": "konˈsiɡo",
+                "d": "with himself",
+                "s": "El anciano a veces habla consigo mismo. (The old man sometimes talks to himself.)"
+            },
+            {
+                "id": "es-2475",
+                "w": "encuentre",
+                "p": "eŋkwentɾe",
+                "d": "to meet",
+                "s": "No quiero que Tom me encuentre otra vez. (I don't want Tom to find me again.)"
+            },
+            {
+                "id": "es-2476",
+                "w": "conductor",
+                "p": "konduɡˈtoɾ",
+                "d": "driver",
+                "s": "El conductor del autobús resultó herido. (The driver of the bus was injured.)"
+            },
+            {
+                "id": "es-2477",
+                "w": "equipos",
+                "p": "ekipos",
+                "d": "team",
+                "s": "Diez equipos compitieron por el premio. (Ten teams competed for the prize.)"
+            },
+            {
+                "id": "es-2478",
+                "w": "arena",
+                "p": "aˈɾena",
+                "d": "sand",
+                "s": "El barco se topó con un banco de arena. (The ship hit a sandbar.)"
+            },
+            {
+                "id": "es-2479",
+                "w": "licencia",
+                "p": "liˈθenθja",
+                "d": "license",
+                "s": "¿Tiene usted licencia para vender licor? (Do you have a license to sell liquor?)"
+            },
+            {
+                "id": "es-2480",
+                "w": "tíos",
+                "p": "ˈtios",
+                "d": "uncle",
+                "s": "Tom tiene tres tíos. (Tom has three uncles.)"
+            },
+            {
+                "id": "es-2481",
+                "w": "dijera",
+                "p": "diˈxeɾa",
+                "d": "to say",
+                "s": "Ella quería que él dijera que la amaba. (She wanted him to say that he loved her.)"
+            },
+            {
+                "id": "es-2482",
+                "w": "espejo",
+                "p": "esˈpexo",
+                "d": "mirror",
+                "s": "Él cogió un espejo y se miró la lengua. (He picked up a mirror and looked at his tongue.)"
+            },
+            {
+                "id": "es-2483",
+                "w": "marina",
+                "p": "maˈɾina",
+                "d": "navy",
+                "s": "Tom y Mary se apuntaron a la marina. (Tom and Mary joined the navy.)"
+            },
+            {
+                "id": "es-2484",
+                "w": "matando",
+                "p": "maˈtando",
+                "d": "to kill",
+                "s": "El estrés de ser madre me está matando. (The stress of being a mother is killing me.)"
+            },
+            {
+                "id": "es-2485",
+                "w": "seres",
+                "p": "ˈseɾes",
+                "d": "a being",
+                "s": "Tienes que cuidar de tus seres queridos. (You need to look after your loved ones.)"
+            },
+            {
+                "id": "es-2486",
+                "w": "fiestas",
+                "p": "ˈfjestas",
+                "d": "party",
+                "s": "No me suelen invitar a fiestas a menudo. (I don't often get invited to parties.)"
+            },
+            {
+                "id": "es-2487",
+                "w": "mover",
+                "p": "moˈbeɾ",
+                "d": "to move",
+                "s": "¿Podría usted mover su coche, por favor? (Would you move your car, please?)"
+            },
+            {
+                "id": "es-2488",
+                "w": "coincidencia",
+                "p": "koinθiˈdenθja",
+                "d": "coincidence",
+                "s": "Tom no cree que sea una coincidencia. (Tom doesn't think this is a coincidence.)"
+            },
+            {
+                "id": "es-2489",
+                "w": "análisis",
+                "p": "aˈnalisis",
+                "d": "analysis",
+                "s": "Una síntesis vale por diez análisis. (Brevity is the soul of wit.)"
+            },
+            {
+                "id": "es-2490",
+                "w": "llegando",
+                "p": "ʎeɣando",
+                "d": "to arrive",
+                "s": "Me siguen llegando correos no deseados. (I keep receiving unwanted emails.)"
+            },
+            {
+                "id": "es-2491",
+                "w": "azúcar",
+                "p": "aˈθukaɾ",
+                "d": "sugar",
+                "s": "Necesito azúcar para preparar un pastel. (I need some sugar to make a cake.)"
+            },
+            {
+                "id": "es-2492",
+                "w": "casar",
+                "p": "kaˈsaɾ",
+                "d": "to marry",
+                "s": "Me temo que no te puedes casar con ella. (I'm afraid you can't marry her.)"
+            },
+            {
+                "id": "es-2493",
+                "w": "sótano",
+                "p": "ˈsotano",
+                "d": "cellar",
+                "s": "Ellos hicieron del sótano su escondite. (They hid in the cellar.)"
+            },
+            {
+                "id": "es-2494",
+                "w": "volvamos",
+                "p": "bolˈbamos",
+                "d": "to return",
+                "s": "Volvamos antes de que empiece a llover. (Let's go back before it begins to rain.)"
+            },
+            {
+                "id": "es-2495",
+                "w": "sabrá",
+                "p": "saˈβɾa",
+                "d": "to know",
+                "s": "Lo triste es que nadie nunca lo sabrá. (The sad part is that nobody will ever know.)"
+            },
+            {
+                "id": "es-2496",
+                "w": "ocasión",
+                "p": "okaˈsjon",
+                "d": "occasion",
+                "s": "Apenas tenemos ocasión de usar el inglés. (We have little opportunity to use English.)"
+            },
+            {
+                "id": "es-2497",
+                "w": "cheque",
+                "p": "ˈt͡ʃeke",
+                "d": "cheque",
+                "s": "En esta ventanilla puede cobrar su cheque. (You can cash your check at this window.)"
+            },
+            {
+                "id": "es-2498",
+                "w": "revisar",
+                "p": "rebiˈsaɾ",
+                "d": "to revise",
+                "s": "Me gustaría revisar tu presión de sangre. (I'd like to check your blood pressure.)"
+            },
+            {
+                "id": "es-2499",
+                "w": "ponerme",
+                "p": "poneɾme",
+                "d": "to put",
+                "s": "Prefiero morir que ponerme en ridículo. (I would rather die than disgrace myself.)"
+            },
+            {
+                "id": "es-2500",
+                "w": "suceder",
+                "p": "suθeˈdeɾ",
+                "d": "to happen",
+                "s": "Nadie sabe en realidad qué va a suceder. (What'll actually happen is anyone's guess.)"
             }
         ]
     };
