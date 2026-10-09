@@ -10,213 +10,17503 @@
         "words": [
             {
                 "id": "zh-0001",
-                "w": "你好",
-                "p": "nǐ hǎo",
-                "d": "hello",
-                "s": "你好，你好吗？ (Hello, how are you?)"
+                "w": "的",
+                "p": "de",
+                "d": "of; ~'s (possessive particle)",
+                "s": ""
             },
             {
                 "id": "zh-0002",
-                "w": "谢谢",
-                "p": "xièxie",
-                "d": "thank you",
-                "s": "谢谢你。 (Thank you.)"
+                "w": "我",
+                "p": "wǒ",
+                "d": "I; me; my",
+                "s": ""
             },
             {
                 "id": "zh-0003",
-                "w": "是",
-                "p": "shì",
-                "d": "to be",
-                "s": "我是学生。 (I am a student.)"
+                "w": "你",
+                "p": "nǐ",
+                "d": "you (informal, as opposed to courteous 您)",
+                "s": ""
             },
             {
                 "id": "zh-0004",
-                "w": "不",
-                "p": "bù",
-                "d": "not",
-                "s": "我不知道。 (I do not know.)"
+                "w": "了",
+                "p": "le",
+                "d": "(completed action marker)",
+                "s": ""
             },
             {
                 "id": "zh-0005",
-                "w": "水",
-                "p": "shuǐ",
-                "d": "water",
-                "s": "我要水。 (I want water.)"
+                "w": "是",
+                "p": "shì",
+                "d": "to be (followed by substantives only)",
+                "s": ""
             },
             {
                 "id": "zh-0006",
-                "w": "饭",
-                "p": "fàn",
-                "d": "rice; meal",
-                "s": "我吃饭。 (I eat a meal.)"
+                "w": "在",
+                "p": "zài",
+                "d": "to exist; to be alive",
+                "s": ""
             },
             {
                 "id": "zh-0007",
-                "w": "家",
-                "p": "jiā",
-                "d": "home",
-                "s": "我家很小。 (My home is small.)"
+                "w": "我们",
+                "p": "wǒ men",
+                "d": "we; us; ourselves",
+                "s": ""
             },
             {
                 "id": "zh-0008",
-                "w": "朋友",
-                "p": "péngyou",
-                "d": "friend",
-                "s": "他是我朋友。 (He is my friend.)"
+                "w": "他",
+                "p": "tā",
+                "d": "(third-person singular) (since the early 20th century, usu. male) he; him; his",
+                "s": ""
             },
             {
                 "id": "zh-0009",
-                "w": "家人",
-                "p": "jiārén",
-                "d": "family",
-                "s": "我家有四人。 (My family has four people.)"
+                "w": "吗",
+                "p": "ma",
+                "d": "(question particle for \"yes-no\" questions)",
+                "s": ""
             },
             {
                 "id": "zh-0010",
-                "w": "时间",
-                "p": "shíjiān",
-                "d": "time",
-                "s": "我没有时间。 (I do not have time.)"
+                "w": "不",
+                "p": "bù",
+                "d": "no; not so",
+                "s": ""
             },
             {
                 "id": "zh-0011",
-                "w": "今天",
-                "p": "jīntiān",
-                "d": "today",
-                "s": "今天很热。 (Today is hot.)"
+                "w": "什么",
+                "p": "shén me",
+                "d": "what?",
+                "s": ""
             },
             {
                 "id": "zh-0012",
-                "w": "明天",
-                "p": "míngtiān",
-                "d": "tomorrow",
-                "s": "明天见。 (See you tomorrow.)"
-            },
-            {
-                "id": "zh-0013",
                 "w": "好",
                 "p": "hǎo",
                 "d": "good",
-                "s": "天气很好。 (The weather is good.)"
+                "s": ""
+            },
+            {
+                "id": "zh-0013",
+                "w": "有",
+                "p": "yǒu",
+                "d": "to have; there is",
+                "s": ""
             },
             {
                 "id": "zh-0014",
-                "w": "坏",
-                "p": "huài",
-                "d": "bad",
-                "s": "天气很坏。 (The weather is bad.)"
+                "w": "就",
+                "p": "jiù",
+                "d": "(after a suppositional clause) in that case; then",
+                "s": ""
             },
             {
                 "id": "zh-0015",
-                "w": "大",
-                "p": "dà",
-                "d": "big",
-                "s": "这个房子很大。 (This house is big.)"
+                "w": "吧",
+                "p": "ba",
+                "d": "(modal particle indicating suggestion or surmise)",
+                "s": ""
             },
             {
                 "id": "zh-0016",
-                "w": "小",
-                "p": "xiǎo",
-                "d": "small",
-                "s": "这杯咖啡很小。 (This cup of coffee is small.)"
-            },
-            {
-                "id": "zh-0017",
-                "w": "我",
-                "p": "wǒ",
-                "d": "I",
-                "s": "我是老师。 (I am a teacher.)"
-            },
-            {
-                "id": "zh-0018",
-                "w": "你",
-                "p": "nǐ",
-                "d": "you",
-                "s": "你好吗？ (How are you?)"
-            },
-            {
-                "id": "zh-0019",
-                "w": "他",
-                "p": "tā",
-                "d": "he",
-                "s": "他是医生。 (He is a doctor.)"
-            },
-            {
-                "id": "zh-0020",
                 "w": "她",
                 "p": "tā",
                 "d": "she",
-                "s": "她是老师。 (She is a teacher.)"
+                "s": ""
+            },
+            {
+                "id": "zh-0017",
+                "w": "说",
+                "p": "shuō",
+                "d": "to speak; to talk; to say",
+                "s": ""
+            },
+            {
+                "id": "zh-0018",
+                "w": "这",
+                "p": "zhè",
+                "d": "(pronoun) this; these",
+                "s": ""
+            },
+            {
+                "id": "zh-0019",
+                "w": "知道",
+                "p": "zhī dào",
+                "d": "to know; to become aware of",
+                "s": ""
+            },
+            {
+                "id": "zh-0020",
+                "w": "都",
+                "p": "dōu",
+                "d": "all; both; entirely",
+                "s": ""
             },
             {
                 "id": "zh-0021",
-                "w": "做",
-                "p": "zuò",
-                "d": "to do",
-                "s": "你在做什么？ (What are you doing?)"
-            },
-            {
-                "id": "zh-0022",
-                "w": "有",
-                "p": "yǒu",
-                "d": "to have",
-                "s": "我有时间。 (I have time.)"
-            },
-            {
-                "id": "zh-0023",
                 "w": "去",
                 "p": "qù",
                 "d": "to go",
-                "s": "我回家去。 (I go home.)"
+                "s": ""
+            },
+            {
+                "id": "zh-0022",
+                "w": "很",
+                "p": "hěn",
+                "d": "very; quite",
+                "s": ""
+            },
+            {
+                "id": "zh-0023",
+                "w": "他们",
+                "p": "tā men",
+                "d": "they; them",
+                "s": ""
             },
             {
                 "id": "zh-0024",
-                "w": "来",
-                "p": "lái",
-                "d": "to come",
-                "s": "请进来。 (Please come in.)"
+                "w": "啊",
+                "p": "ā",
+                "d": "interjection of surprise",
+                "s": ""
             },
             {
                 "id": "zh-0025",
-                "w": "吃",
-                "p": "chī",
-                "d": "to eat",
-                "s": "我吃水果。 (I eat fruit.)"
+                "w": "要",
+                "p": "yào",
+                "d": "to want; to need; to ask for",
+                "s": ""
             },
             {
                 "id": "zh-0026",
-                "w": "喝",
-                "p": "hē",
-                "d": "to drink",
-                "s": "我喝水。 (I drink water.)"
+                "w": "会",
+                "p": "huì",
+                "d": "can; to have the skill; to know how to",
+                "s": ""
             },
             {
                 "id": "zh-0027",
-                "w": "说",
-                "p": "shuō",
-                "d": "to speak",
-                "s": "我会说中文。 (I can speak Chinese.)"
+                "w": "也",
+                "p": "yě",
+                "d": "also; too; as well; (not ...) either",
+                "s": ""
             },
             {
                 "id": "zh-0028",
-                "w": "看",
-                "p": "kàn",
-                "d": "to see; to watch",
-                "s": "我看电影。 (I watch a movie.)"
+                "w": "来",
+                "p": "lái",
+                "d": "to come",
+                "s": ""
             },
             {
                 "id": "zh-0029",
-                "w": "爱",
-                "p": "ài",
-                "d": "to love",
-                "s": "我爱你。 (I love you.)"
+                "w": "和",
+                "p": "hé",
+                "d": "(joining two nouns) and; together with; with (Taiwan pr. )",
+                "s": ""
             },
             {
                 "id": "zh-0030",
+                "w": "那",
+                "p": "nà",
+                "d": "(specifier) that; the; those (colloquial pr. )",
+                "s": ""
+            },
+            {
+                "id": "zh-0031",
+                "w": "想",
+                "p": "xiǎng",
+                "d": "to think (about)",
+                "s": ""
+            },
+            {
+                "id": "zh-0032",
+                "w": "人",
+                "p": "rén",
+                "d": "person; people",
+                "s": ""
+            },
+            {
+                "id": "zh-0033",
+                "w": "一个",
+                "p": "yī ge",
+                "d": "a; an; one",
+                "s": ""
+            },
+            {
+                "id": "zh-0034",
+                "w": "对",
+                "p": "duì",
+                "d": "right; correct",
+                "s": ""
+            },
+            {
+                "id": "zh-0035",
+                "w": "没有",
+                "p": "méi yǒu",
+                "d": "haven't",
+                "s": ""
+            },
+            {
+                "id": "zh-0036",
+                "w": "让",
+                "p": "ràng",
+                "d": "to yield",
+                "s": ""
+            },
+            {
+                "id": "zh-0037",
+                "w": "把",
+                "p": "bǎ",
+                "d": "to hold; to grasp",
+                "s": ""
+            },
+            {
+                "id": "zh-0038",
+                "w": "做",
+                "p": "zuò",
+                "d": "to make; to produce",
+                "s": ""
+            },
+            {
+                "id": "zh-0039",
+                "w": "不是",
+                "p": "bù shì",
+                "d": "no",
+                "s": ""
+            },
+            {
+                "id": "zh-0040",
+                "w": "给",
+                "p": "gěi",
+                "d": "to",
+                "s": ""
+            },
+            {
+                "id": "zh-0041",
+                "w": "你们",
+                "p": "nǐ men",
+                "d": "you (plural)",
+                "s": ""
+            },
+            {
+                "id": "zh-0042",
+                "w": "可以",
+                "p": "kě yǐ",
+                "d": "can",
+                "s": ""
+            },
+            {
+                "id": "zh-0043",
+                "w": "这个",
+                "p": "zhè ge",
+                "d": "(pronoun) this",
+                "s": ""
+            },
+            {
+                "id": "zh-0044",
+                "w": "现在",
+                "p": "xiàn zài",
+                "d": "now; at present; currently",
+                "s": ""
+            },
+            {
+                "id": "zh-0045",
+                "w": "没",
+                "p": "méi",
+                "d": "(negative prefix for verbs) have not; not",
+                "s": ""
+            },
+            {
+                "id": "zh-0046",
+                "w": "呢",
+                "p": "ne",
+                "d": "(sentence-final particle) used in questions to link back to prior discourse or context (\"what about...?\", \"and...?\")",
+                "s": ""
+            },
+            {
+                "id": "zh-0047",
+                "w": "但",
+                "p": "dàn",
+                "d": "but; yet; however; still",
+                "s": ""
+            },
+            {
+                "id": "zh-0048",
+                "w": "怎么",
+                "p": "zěn me",
+                "d": "how?",
+                "s": ""
+            },
+            {
+                "id": "zh-0049",
+                "w": "到",
+                "p": "dào",
+                "d": "to reach; to arrive",
+                "s": ""
+            },
+            {
+                "id": "zh-0050",
+                "w": "还",
+                "p": "hái",
+                "d": "still",
+                "s": ""
+            },
+            {
+                "id": "zh-0051",
+                "w": "能",
+                "p": "néng",
+                "d": "can",
+                "s": ""
+            },
+            {
+                "id": "zh-0052",
+                "w": "就是",
+                "p": "jiù shì",
+                "d": "exactly; precisely",
+                "s": ""
+            },
+            {
+                "id": "zh-0053",
+                "w": "这样",
+                "p": "zhè yàng",
+                "d": "this way; like this; so",
+                "s": ""
+            },
+            {
+                "id": "zh-0054",
+                "w": "跟",
+                "p": "gēn",
+                "d": "heel",
+                "s": ""
+            },
+            {
+                "id": "zh-0055",
+                "w": "如果",
+                "p": "rú guǒ",
+                "d": "if; in case; in the event that",
+                "s": ""
+            },
+            {
+                "id": "zh-0056",
+                "w": "它",
+                "p": "tā",
+                "d": "it",
+                "s": ""
+            },
+            {
+                "id": "zh-0057",
+                "w": "走",
+                "p": "zǒu",
+                "d": "to walk",
+                "s": ""
+            },
+            {
+                "id": "zh-0058",
+                "w": "个",
+                "p": "gè",
+                "d": "(classifier used before a noun that has no specific classifier)",
+                "s": ""
+            },
+            {
+                "id": "zh-0059",
+                "w": "这里",
+                "p": "zhè lǐ",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "zh-0060",
+                "w": "上",
+                "p": "shàng",
+                "d": "(bound form) up; upper; above; previous",
+                "s": ""
+            },
+            {
+                "id": "zh-0061",
+                "w": "得",
+                "p": "dé",
+                "d": "to obtain",
+                "s": ""
+            },
+            {
+                "id": "zh-0062",
+                "w": "被",
+                "p": "bèi",
+                "d": "quilt",
+                "s": ""
+            },
+            {
+                "id": "zh-0063",
+                "w": "看",
+                "p": "kàn",
+                "d": "to see; to look at",
+                "s": ""
+            },
+            {
+                "id": "zh-0064",
+                "w": "谁",
+                "p": "shéi",
+                "d": "who",
+                "s": ""
+            },
+            {
+                "id": "zh-0065",
+                "w": "不会",
+                "p": "bù huì",
+                "d": "improbable",
+                "s": ""
+            },
+            {
+                "id": "zh-0066",
+                "w": "事",
+                "p": "shì",
+                "d": "matter",
+                "s": ""
+            },
+            {
+                "id": "zh-0067",
+                "w": "自己",
+                "p": "zì jǐ",
+                "d": "oneself; (attributive) one's own",
+                "s": ""
+            },
+            {
+                "id": "zh-0068",
+                "w": "着",
+                "p": "zhe",
+                "d": "aspect particle indicating action in progress or ongoing state",
+                "s": ""
+            },
+            {
+                "id": "zh-0069",
+                "w": "告诉",
+                "p": "gào sù",
+                "d": "to press charges; to file a complaint",
+                "s": ""
+            },
+            {
+                "id": "zh-0070",
+                "w": "过",
+                "p": "guò",
+                "d": "to cross",
+                "s": ""
+            },
+            {
+                "id": "zh-0071",
+                "w": "已经",
+                "p": "yǐ jīng",
+                "d": "already",
+                "s": ""
+            },
+            {
+                "id": "zh-0072",
+                "w": "为什么",
+                "p": "wèi shén me",
+                "d": "why?",
+                "s": ""
+            },
+            {
+                "id": "zh-0073",
+                "w": "不能",
+                "p": "bù néng",
+                "d": "cannot",
+                "s": ""
+            },
+            {
+                "id": "zh-0074",
+                "w": "真的",
+                "p": "zhēn de",
+                "d": "really; truly; indeed",
+                "s": ""
+            },
+            {
+                "id": "zh-0075",
+                "w": "因为",
+                "p": "yīn wèi",
+                "d": "because; owing to; on account of",
+                "s": ""
+            },
+            {
+                "id": "zh-0076",
+                "w": "先生",
+                "p": "xiān sheng",
+                "d": "teacher",
+                "s": ""
+            },
+            {
+                "id": "zh-0077",
+                "w": "谢谢",
+                "p": "xiè xie",
+                "d": "to thank",
+                "s": ""
+            },
+            {
+                "id": "zh-0078",
+                "w": "只是",
+                "p": "zhǐ shì",
+                "d": "merely; only; just; nothing but",
+                "s": ""
+            },
+            {
+                "id": "zh-0079",
+                "w": "不要",
+                "p": "bù yào",
+                "d": "don't!; must not",
+                "s": ""
+            },
+            {
+                "id": "zh-0080",
+                "w": "这么",
+                "p": "zhè me",
+                "d": "so much",
+                "s": ""
+            },
+            {
+                "id": "zh-0081",
+                "w": "那个",
+                "p": "nà ge",
+                "d": "that one",
+                "s": ""
+            },
+            {
+                "id": "zh-0082",
+                "w": "为",
+                "p": "wèi",
+                "d": "because of",
+                "s": ""
+            },
+            {
+                "id": "zh-0083",
+                "w": "再",
+                "p": "zài",
+                "d": "again; once more; re-",
+                "s": ""
+            },
+            {
+                "id": "zh-0084",
+                "w": "里",
+                "p": "lǐ",
+                "d": "li, ancient measure of length, approx. 500 m",
+                "s": ""
+            },
+            {
+                "id": "zh-0085",
+                "w": "哦",
+                "p": "ó",
+                "d": "oh (interjection indicating doubt or surprise)",
+                "s": ""
+            },
+            {
+                "id": "zh-0086",
+                "w": "需要",
+                "p": "xū yào",
+                "d": "to need; to want; to demand; to require",
+                "s": ""
+            },
+            {
+                "id": "zh-0087",
+                "w": "喜欢",
+                "p": "xǐ huan",
+                "d": "to like; to be fond of",
+                "s": ""
+            },
+            {
+                "id": "zh-0088",
+                "w": "像",
+                "p": "xiàng",
+                "d": "to resemble",
+                "s": ""
+            },
+            {
+                "id": "zh-0089",
+                "w": "听",
+                "p": "tīng",
+                "d": "to listen to; to hear",
+                "s": ""
+            },
+            {
+                "id": "zh-0090",
+                "w": "别",
+                "p": "bié",
+                "d": "to leave; to part (from)",
+                "s": ""
+            },
+            {
+                "id": "zh-0091",
+                "w": "可能",
+                "p": "kě néng",
+                "d": "might (happen)",
+                "s": ""
+            },
+            {
+                "id": "zh-0092",
+                "w": "但是",
+                "p": "dàn shì",
+                "d": "but; however",
+                "s": ""
+            },
+            {
+                "id": "zh-0093",
+                "w": "时候",
+                "p": "shí hou",
+                "d": "time",
+                "s": ""
+            },
+            {
+                "id": "zh-0094",
+                "w": "从",
+                "p": "cóng",
+                "d": "from; through; via",
+                "s": ""
+            },
+            {
+                "id": "zh-0095",
+                "w": "觉得",
+                "p": "jué de",
+                "d": "to think that ...; to feel that ...",
+                "s": ""
+            },
+            {
+                "id": "zh-0096",
+                "w": "还有",
+                "p": "hái yǒu",
+                "d": "there still remain(s); there is (or are) still",
+                "s": ""
+            },
+            {
+                "id": "zh-0097",
+                "w": "所以",
+                "p": "suǒ yǐ",
+                "d": "therefore",
+                "s": ""
+            },
+            {
+                "id": "zh-0098",
+                "w": "东西",
+                "p": "dōng xī",
+                "d": "east and west",
+                "s": ""
+            },
+            {
+                "id": "zh-0099",
+                "w": "又",
+                "p": "yòu",
+                "d": "(once) again",
+                "s": ""
+            },
+            {
+                "id": "zh-0100",
+                "w": "叫",
+                "p": "jiào",
+                "d": "to shout",
+                "s": ""
+            },
+            {
+                "id": "zh-0101",
+                "w": "快",
+                "p": "kuài",
+                "d": "rapid",
+                "s": ""
+            },
+            {
+                "id": "zh-0102",
+                "w": "这些",
+                "p": "zhè xiē",
+                "d": "these",
+                "s": ""
+            },
+            {
+                "id": "zh-0103",
+                "w": "找",
+                "p": "zhǎo",
+                "d": "to try to find",
+                "s": ""
+            },
+            {
+                "id": "zh-0104",
+                "w": "应该",
+                "p": "yīng gāi",
+                "d": "ought to; should; must",
+                "s": ""
+            },
+            {
+                "id": "zh-0105",
+                "w": "请",
+                "p": "qǐng",
+                "d": "to ask",
+                "s": ""
+            },
+            {
+                "id": "zh-0106",
+                "w": "等",
+                "p": "děng",
+                "d": "to wait for; to await",
+                "s": ""
+            },
+            {
+                "id": "zh-0107",
+                "w": "死",
+                "p": "sǐ",
+                "d": "to die",
+                "s": ""
+            },
+            {
+                "id": "zh-0108",
+                "w": "那么",
+                "p": "nà me",
+                "d": "like that; in that way; to that extent",
+                "s": ""
+            },
+            {
+                "id": "zh-0109",
+                "w": "多",
+                "p": "duō",
+                "d": "many; much; more; a lot of",
+                "s": ""
+            },
+            {
+                "id": "zh-0110",
+                "w": "一起",
+                "p": "yī qǐ",
+                "d": "(in) the same place",
+                "s": ""
+            },
+            {
+                "id": "zh-0111",
+                "w": "还是",
+                "p": "hái shi",
+                "d": "still (as before)",
+                "s": ""
+            },
+            {
+                "id": "zh-0112",
+                "w": "孩子",
+                "p": "hái zi",
+                "d": "child",
+                "s": ""
+            },
+            {
+                "id": "zh-0113",
+                "w": "看到",
+                "p": "kàn dào",
+                "d": "to see",
+                "s": ""
+            },
+            {
+                "id": "zh-0114",
+                "w": "问题",
+                "p": "wèn tí",
+                "d": "question",
+                "s": ""
+            },
+            {
+                "id": "zh-0115",
+                "w": "一下",
+                "p": "yī xià",
+                "d": "(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)",
+                "s": ""
+            },
+            {
+                "id": "zh-0116",
+                "w": "一样",
+                "p": "yī yàng",
+                "d": "same",
+                "s": ""
+            },
+            {
+                "id": "zh-0117",
+                "w": "们",
+                "p": "men",
+                "d": "plural marker for pronouns, and nouns referring to individuals",
+                "s": ""
+            },
+            {
+                "id": "zh-0118",
+                "w": "而",
+                "p": "ér",
+                "d": "and",
+                "s": ""
+            },
+            {
+                "id": "zh-0119",
+                "w": "开始",
+                "p": "kāi shǐ",
+                "d": "to begin; to start",
+                "s": ""
+            },
+            {
+                "id": "zh-0120",
+                "w": "您",
+                "p": "nín",
+                "d": "you (courteous, as opposed to informal 你)",
+                "s": ""
+            },
+            {
+                "id": "zh-0121",
+                "w": "才",
+                "p": "cái",
+                "d": "ability; talent",
+                "s": ""
+            },
+            {
+                "id": "zh-0122",
+                "w": "用",
+                "p": "yòng",
+                "d": "to use; to make use of; to employ",
+                "s": ""
+            },
+            {
+                "id": "zh-0123",
+                "w": "嗯",
+                "p": "en",
+                "d": "interjection indicating approval, appreciation or agreement",
+                "s": ""
+            },
+            {
+                "id": "zh-0124",
+                "w": "工作",
+                "p": "gōng zuò",
+                "d": "to work",
+                "s": ""
+            },
+            {
+                "id": "zh-0125",
+                "w": "呀",
+                "p": "ya",
+                "d": "(particle equivalent to 啊 after a vowel, expressing surprise or doubt)",
+                "s": ""
+            },
+            {
+                "id": "zh-0126",
+                "w": "吃",
+                "p": "chī",
+                "d": "to eat; to consume",
+                "s": ""
+            },
+            {
+                "id": "zh-0127",
+                "w": "当",
+                "p": "dāng",
+                "d": "to be",
+                "s": ""
+            },
+            {
+                "id": "zh-0128",
+                "w": "嘿",
+                "p": "hēi",
+                "d": "hey",
+                "s": ""
+            },
+            {
+                "id": "zh-0129",
+                "w": "回来",
+                "p": "huí lai",
+                "d": "to return; to come back",
+                "s": ""
+            },
+            {
+                "id": "zh-0130",
+                "w": "真",
+                "p": "zhēn",
+                "d": "really",
+                "s": ""
+            },
+            {
+                "id": "zh-0131",
+                "w": "当然",
+                "p": "dāng rán",
+                "d": "only natural",
+                "s": ""
+            },
+            {
+                "id": "zh-0132",
+                "w": "帮",
+                "p": "bāng",
+                "d": "to help",
+                "s": ""
+            },
+            {
+                "id": "zh-0133",
+                "w": "中",
+                "p": "zhōng",
+                "d": "within; among; in",
+                "s": ""
+            },
+            {
+                "id": "zh-0134",
+                "w": "然后",
+                "p": "rán hòu",
+                "d": "then; after that; afterwards",
+                "s": ""
+            },
+            {
+                "id": "zh-0135",
+                "w": "看看",
+                "p": "kàn kan",
+                "d": "to take a look at",
+                "s": ""
+            },
+            {
+                "id": "zh-0136",
+                "w": "地方",
+                "p": "dì fāng",
+                "d": "region",
+                "s": ""
+            },
+            {
+                "id": "zh-0137",
+                "w": "将",
+                "p": "jiāng",
+                "d": "will",
+                "s": ""
+            },
+            {
+                "id": "zh-0138",
+                "w": "没事",
+                "p": "méi shì",
+                "d": "it's not important",
+                "s": ""
+            },
+            {
+                "id": "zh-0139",
+                "w": "一定",
+                "p": "yī dìng",
+                "d": "surely; certainly; definitely",
+                "s": ""
+            },
+            {
+                "id": "zh-0140",
+                "w": "希望",
+                "p": "xī wàng",
+                "d": "to hope",
+                "s": ""
+            },
+            {
+                "id": "zh-0141",
+                "w": "朋友",
+                "p": "péng you",
+                "d": "friend",
+                "s": ""
+            },
+            {
+                "id": "zh-0142",
+                "w": "时间",
+                "p": "shí jiān",
+                "d": "(concept of) time",
+                "s": ""
+            },
+            {
+                "id": "zh-0143",
+                "w": "钱",
+                "p": "qián",
+                "d": "coin",
+                "s": ""
+            },
+            {
+                "id": "zh-0144",
+                "w": "今天",
+                "p": "jīn tiān",
+                "d": "today",
+                "s": ""
+            },
+            {
+                "id": "zh-0145",
+                "w": "拿",
+                "p": "ná",
+                "d": "to hold",
+                "s": ""
+            },
+            {
+                "id": "zh-0146",
+                "w": "一",
+                "p": "yī",
+                "d": "one",
+                "s": ""
+            },
+            {
+                "id": "zh-0147",
+                "w": "啦",
+                "p": "lā",
+                "d": "(onom.) sound of singing, cheering etc",
+                "s": ""
+            },
+            {
+                "id": "zh-0148",
+                "w": "事情",
+                "p": "shì qing",
+                "d": "affair; matter; thing; business",
+                "s": ""
+            },
+            {
+                "id": "zh-0149",
+                "w": "一直",
+                "p": "yī zhí",
+                "d": "straight (in a straight line)",
+                "s": ""
+            },
+            {
+                "id": "zh-0150",
+                "w": "后",
+                "p": "hòu",
+                "d": "empress",
+                "s": ""
+            },
+            {
+                "id": "zh-0151",
+                "w": "所有",
+                "p": "suǒ yǒu",
+                "d": "all",
+                "s": ""
+            },
+            {
+                "id": "zh-0152",
+                "w": "妈妈",
+                "p": "mā ma",
+                "d": "mama",
+                "s": ""
+            },
+            {
+                "id": "zh-0153",
+                "w": "找到",
+                "p": "zhǎo dào",
+                "d": "to find",
+                "s": ""
+            },
+            {
+                "id": "zh-0154",
+                "w": "哪",
+                "p": "nǎ",
+                "d": "how",
+                "s": ""
+            },
+            {
+                "id": "zh-0155",
+                "w": "离开",
+                "p": "lí kāi",
+                "d": "to depart; to leave",
+                "s": ""
+            },
+            {
+                "id": "zh-0156",
+                "w": "不想",
+                "p": "bù xiǎng",
+                "d": "unexpectedly; to one's surprise",
+                "s": ""
+            },
+            {
+                "id": "zh-0157",
+                "w": "爱",
+                "p": "ài",
+                "d": "to love; to be fond of; to like",
+                "s": ""
+            },
+            {
+                "id": "zh-0158",
+                "w": "只",
+                "p": "zhǐ",
+                "d": "only; merely; just",
+                "s": ""
+            },
+            {
+                "id": "zh-0159",
+                "w": "该",
+                "p": "gāi",
+                "d": "should",
+                "s": ""
+            },
+            {
+                "id": "zh-0160",
+                "w": "发生",
+                "p": "fā shēng",
+                "d": "to happen; to occur; to take place; to arise (e.g. 發生問題|发生问题 \"a problem arises\")",
+                "s": ""
+            },
+            {
+                "id": "zh-0161",
+                "w": "更",
+                "p": "gèng",
+                "d": "more",
+                "s": ""
+            },
+            {
+                "id": "zh-0162",
+                "w": "起来",
+                "p": "qǐ lai",
+                "d": "to stand up; to get up",
+                "s": ""
+            },
+            {
+                "id": "zh-0163",
+                "w": "最",
+                "p": "zuì",
+                "d": "(before an adjective or verb) to the highest degree; (the) most ...; -est",
+                "s": ""
+            },
+            {
+                "id": "zh-0164",
+                "w": "必须",
+                "p": "bì xū",
+                "d": "must; to have to",
+                "s": ""
+            },
+            {
+                "id": "zh-0165",
+                "w": "一点",
+                "p": "yī diǎn",
+                "d": "a bit; a little bit",
+                "s": ""
+            },
+            {
+                "id": "zh-0166",
+                "w": "那些",
+                "p": "nà xiē",
+                "d": "those",
+                "s": ""
+            },
+            {
+                "id": "zh-0167",
+                "w": "可",
+                "p": "kě",
+                "d": "(prefix) can; may; able to; -able",
+                "s": ""
+            },
+            {
+                "id": "zh-0168",
+                "w": "明白",
+                "p": "míng bai",
+                "d": "clear; obvious; unequivocal",
+                "s": ""
+            },
+            {
+                "id": "zh-0169",
+                "w": "的话",
+                "p": "de huà",
+                "d": "if (coming after a conditional clause)",
+                "s": ""
+            },
+            {
+                "id": "zh-0170",
+                "w": "认为",
+                "p": "rèn wéi",
+                "d": "to believe; to think; to consider; to feel",
+                "s": ""
+            },
+            {
+                "id": "zh-0171",
+                "w": "爸爸",
+                "p": "bà ba",
+                "d": "(coll.) father; dad",
+                "s": ""
+            },
+            {
+                "id": "zh-0172",
+                "w": "下",
+                "p": "xià",
+                "d": "down",
+                "s": ""
+            },
+            {
+                "id": "zh-0173",
+                "w": "杀",
+                "p": "shā",
+                "d": "to kill; to slay; to murder; to attack",
+                "s": ""
+            },
+            {
+                "id": "zh-0174",
+                "w": "点",
+                "p": "diǎn",
+                "d": "to touch briefly; to tap",
+                "s": ""
+            },
+            {
+                "id": "zh-0175",
+                "w": "太",
+                "p": "tài",
+                "d": "highest",
+                "s": ""
+            },
+            {
+                "id": "zh-0176",
+                "w": "一切",
+                "p": "yī qiè",
+                "d": "everything",
+                "s": ""
+            },
+            {
+                "id": "zh-0177",
+                "w": "相信",
+                "p": "xiāng xìn",
+                "d": "to believe; to be convinced; to accept as true",
+                "s": ""
+            },
+            {
+                "id": "zh-0178",
+                "w": "想要",
+                "p": "xiǎng yào",
+                "d": "to want to",
+                "s": ""
+            },
+            {
+                "id": "zh-0179",
+                "w": "打",
+                "p": "dǎ",
+                "d": "to hit; to strike",
+                "s": ""
+            },
+            {
+                "id": "zh-0180",
+                "w": "那里",
+                "p": "nà li",
+                "d": "there; that place",
+                "s": ""
+            },
+            {
+                "id": "zh-0181",
+                "w": "也许",
+                "p": "yě xǔ",
+                "d": "perhaps; maybe",
+                "s": ""
+            },
+            {
+                "id": "zh-0182",
+                "w": "大",
+                "p": "dà",
+                "d": "big; large; great",
+                "s": ""
+            },
+            {
+                "id": "zh-0183",
+                "w": "哪里",
+                "p": "nǎ lǐ",
+                "d": "where?",
+                "s": ""
+            },
+            {
+                "id": "zh-0184",
+                "w": "真是",
+                "p": "zhēn shi",
+                "d": "indeed; truly",
+                "s": ""
+            },
+            {
+                "id": "zh-0185",
+                "w": "你好",
+                "p": "nǐ hǎo",
+                "d": "hello; hi",
+                "s": ""
+            },
+            {
+                "id": "zh-0186",
+                "w": "准备",
+                "p": "zhǔn bèi",
+                "d": "preparation",
+                "s": ""
+            },
+            {
+                "id": "zh-0187",
+                "w": "抱歉",
+                "p": "bào qiàn",
+                "d": "to be sorry",
+                "s": ""
+            },
+            {
+                "id": "zh-0188",
+                "w": "非常",
+                "p": "fēi cháng",
+                "d": "very; really",
+                "s": ""
+            },
+            {
+                "id": "zh-0189",
+                "w": "带",
+                "p": "dài",
+                "d": "band",
+                "s": ""
+            },
+            {
+                "id": "zh-0190",
+                "w": "不过",
+                "p": "bù guò",
+                "d": "only",
+                "s": ""
+            },
+            {
+                "id": "zh-0191",
+                "w": "出来",
+                "p": "chū lái",
+                "d": "to come out",
+                "s": ""
+            },
+            {
+                "id": "zh-0192",
+                "w": "对不起",
+                "p": "duì bu qǐ",
+                "d": "I'm sorry; excuse me; I beg your pardon",
+                "s": ""
+            },
+            {
+                "id": "zh-0193",
+                "w": "天",
+                "p": "tiān",
+                "d": "day",
+                "s": ""
+            },
+            {
+                "id": "zh-0194",
+                "w": "时",
+                "p": "shí",
+                "d": "o'clock",
+                "s": ""
+            },
+            {
+                "id": "zh-0195",
+                "w": "大家",
+                "p": "dà jiā",
+                "d": "everyone",
+                "s": ""
+            },
+            {
+                "id": "zh-0196",
+                "w": "与",
+                "p": "yǔ",
+                "d": "(formal) and; together with (linking parallel nouns, verbs, or phrases)",
+                "s": ""
+            },
+            {
+                "id": "zh-0197",
+                "w": "有人",
+                "p": "yǒu rén",
+                "d": "someone",
+                "s": ""
+            },
+            {
+                "id": "zh-0198",
+                "w": "意思",
+                "p": "yì si",
+                "d": "idea",
+                "s": ""
+            },
+            {
+                "id": "zh-0199",
+                "w": "这儿",
+                "p": "zhè r",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "zh-0200",
+                "w": "并",
+                "p": "bìng",
+                "d": "and",
+                "s": ""
+            },
+            {
+                "id": "zh-0201",
+                "w": "过来",
+                "p": "guò lái",
+                "d": "to come over",
+                "s": ""
+            },
+            {
+                "id": "zh-0202",
+                "w": "这种",
+                "p": "zhè zhǒng",
+                "d": "this kind of",
+                "s": ""
+            },
+            {
+                "id": "zh-0203",
+                "w": "怎么样",
+                "p": "zěn me yàng",
+                "d": "how?",
+                "s": ""
+            },
+            {
+                "id": "zh-0204",
+                "w": "一些",
+                "p": "yī xiē",
+                "d": "some; a few; a little; (following an adjective) slightly ...er",
+                "s": ""
+            },
+            {
+                "id": "zh-0205",
+                "w": "见",
+                "p": "jiàn",
+                "d": "to see",
+                "s": ""
+            },
+            {
+                "id": "zh-0206",
+                "w": "为了",
+                "p": "wèi le",
+                "d": "for; for the purpose of; in order to",
+                "s": ""
+            },
+            {
+                "id": "zh-0207",
+                "w": "感觉",
+                "p": "gǎn jué",
+                "d": "feeling; impression; sensation",
+                "s": ""
+            },
+            {
+                "id": "zh-0208",
+                "w": "女人",
+                "p": "nǚ rén",
+                "d": "woman",
+                "s": ""
+            },
+            {
+                "id": "zh-0209",
+                "w": "只有",
+                "p": "zhǐ yǒu",
+                "d": "only have ...; there is only ...",
+                "s": ""
+            },
+            {
+                "id": "zh-0210",
+                "w": "快点",
+                "p": "kuài diǎn",
+                "d": "to do sth more quickly",
+                "s": ""
+            },
+            {
+                "id": "zh-0211",
+                "w": "比",
+                "p": "bǐ",
+                "d": "to compare",
+                "s": ""
+            },
+            {
+                "id": "zh-0212",
+                "w": "一次",
+                "p": "yī cì",
+                "d": "first",
+                "s": ""
+            },
+            {
+                "id": "zh-0213",
+                "w": "发现",
+                "p": "fā xiàn",
+                "d": "to notice; to become aware of",
+                "s": ""
+            },
+            {
+                "id": "zh-0214",
+                "w": "得到",
+                "p": "dé dào",
+                "d": "to get; to obtain; to receive",
+                "s": ""
+            },
+            {
+                "id": "zh-0215",
+                "w": "任何",
+                "p": "rèn hé",
+                "d": "any; whatever; whichever",
+                "s": ""
+            },
+            {
+                "id": "zh-0216",
+                "w": "小",
+                "p": "xiǎo",
+                "d": "small",
+                "s": ""
+            },
+            {
+                "id": "zh-0217",
+                "w": "没错",
+                "p": "méi cuò",
+                "d": "that's right",
+                "s": ""
+            },
+            {
+                "id": "zh-0218",
+                "w": "以为",
+                "p": "yǐ wéi",
+                "d": "to think; to believe (often with the implication that the belief is mistaken – unless referring to one's own current belief)",
+                "s": ""
+            },
+            {
+                "id": "zh-0219",
+                "w": "年",
+                "p": "nián",
+                "d": "year",
+                "s": ""
+            },
+            {
+                "id": "zh-0220",
+                "w": "是不是",
+                "p": "shì bu shì",
+                "d": "is or is not (used to form yes-no questions)",
+                "s": ""
+            },
+            {
+                "id": "zh-0221",
+                "w": "而且",
+                "p": "ér qiě",
+                "d": "(not only ...) but also",
+                "s": ""
+            },
+            {
+                "id": "zh-0222",
+                "w": "喂",
+                "p": "wèi",
+                "d": "hey",
+                "s": ""
+            },
+            {
+                "id": "zh-0223",
+                "w": "前",
+                "p": "qián",
+                "d": "front",
+                "s": ""
+            },
+            {
+                "id": "zh-0224",
+                "w": "生活",
+                "p": "shēng huó",
+                "d": "to live",
+                "s": ""
+            },
+            {
+                "id": "zh-0225",
+                "w": "男人",
+                "p": "nán rén",
+                "d": "a man",
+                "s": ""
+            },
+            {
+                "id": "zh-0226",
+                "w": "之前",
+                "p": "zhī qián",
+                "d": "before",
+                "s": ""
+            },
+            {
+                "id": "zh-0227",
+                "w": "问",
+                "p": "wèn",
+                "d": "to ask; to inquire",
+                "s": ""
+            },
+            {
+                "id": "zh-0228",
+                "w": "妈",
+                "p": "mā",
+                "d": "ma",
+                "s": ""
+            },
+            {
+                "id": "zh-0229",
+                "w": "噢",
+                "p": "ō",
+                "d": "oh; ah (used to indicate realization)",
+                "s": ""
+            },
+            {
+                "id": "zh-0230",
+                "w": "可是",
+                "p": "kě shì",
+                "d": "but; however",
+                "s": ""
+            },
+            {
+                "id": "zh-0231",
+                "w": "不错",
+                "p": "bù cuò",
+                "d": "correct",
+                "s": ""
+            },
+            {
+                "id": "zh-0232",
+                "w": "嗨",
+                "p": "hāi",
+                "d": "oh alas",
+                "s": ""
+            },
+            {
+                "id": "zh-0233",
+                "w": "记得",
+                "p": "jì de",
+                "d": "to remember",
+                "s": ""
+            },
+            {
+                "id": "zh-0234",
+                "w": "不用",
+                "p": "bù yòng",
+                "d": "need not",
+                "s": ""
+            },
+            {
+                "id": "zh-0235",
+                "w": "地",
+                "p": "de",
+                "d": "-ly",
+                "s": ""
+            },
+            {
+                "id": "zh-0236",
+                "w": "向",
+                "p": "xiàng",
+                "d": "towards",
+                "s": ""
+            },
+            {
+                "id": "zh-0237",
                 "w": "名字",
-                "p": "míngzi",
+                "p": "míng zi",
+                "d": "name (of a person or thing)",
+                "s": ""
+            },
+            {
+                "id": "zh-0238",
+                "w": "担心",
+                "p": "dān xīn",
+                "d": "anxious",
+                "s": ""
+            },
+            {
+                "id": "zh-0239",
+                "w": "有点",
+                "p": "yǒu diǎn",
+                "d": "a little",
+                "s": ""
+            },
+            {
+                "id": "zh-0240",
+                "w": "么",
+                "p": "me",
+                "d": "suffix, used to form interrogative 什麼|什么, what?, indefinite 這麼|这么 thus, etc",
+                "s": ""
+            },
+            {
+                "id": "zh-0241",
+                "w": "世界",
+                "p": "shì jiè",
+                "d": "world",
+                "s": ""
+            },
+            {
+                "id": "zh-0242",
+                "w": "那样",
+                "p": "nà yàng",
+                "d": "that kind",
+                "s": ""
+            },
+            {
+                "id": "zh-0243",
+                "w": "认识",
+                "p": "rèn shi",
+                "d": "to know",
+                "s": ""
+            },
+            {
+                "id": "zh-0244",
+                "w": "住",
+                "p": "zhù",
+                "d": "to live; to reside; to stay",
+                "s": ""
+            },
+            {
+                "id": "zh-0245",
+                "w": "新",
+                "p": "xīn",
+                "d": "new",
+                "s": ""
+            },
+            {
+                "id": "zh-0246",
+                "w": "肯定",
+                "p": "kěn dìng",
+                "d": "to be certain; to be positive",
+                "s": ""
+            },
+            {
+                "id": "zh-0247",
+                "w": "最好",
+                "p": "zuì hǎo",
+                "d": "best",
+                "s": ""
+            },
+            {
+                "id": "zh-0248",
+                "w": "不行",
+                "p": "bù xíng",
+                "d": "won't do",
+                "s": ""
+            },
+            {
+                "id": "zh-0249",
+                "w": "等等",
+                "p": "děng děng",
+                "d": "et cetera",
+                "s": ""
+            },
+            {
+                "id": "zh-0250",
+                "w": "干",
+                "p": "gàn",
+                "d": "tree trunk",
+                "s": ""
+            },
+            {
+                "id": "zh-0251",
+                "w": "父亲",
+                "p": "fù qīn",
+                "d": "father",
+                "s": ""
+            },
+            {
+                "id": "zh-0252",
+                "w": "嘛",
+                "p": "má",
+                "d": "used in 唵嘛呢叭咪吽",
+                "s": ""
+            },
+            {
+                "id": "zh-0253",
+                "w": "出去",
+                "p": "chū qù",
+                "d": "to go out",
+                "s": ""
+            },
+            {
+                "id": "zh-0254",
+                "w": "先",
+                "p": "xiān",
+                "d": "beforehand; first; earlier",
+                "s": ""
+            },
+            {
+                "id": "zh-0255",
+                "w": "干什么",
+                "p": "gàn shén me",
+                "d": "what are you doing?",
+                "s": ""
+            },
+            {
+                "id": "zh-0256",
+                "w": "医生",
+                "p": "yī shēng",
+                "d": "doctor; medical practitioner",
+                "s": ""
+            },
+            {
+                "id": "zh-0257",
+                "w": "亲爱",
+                "p": "qīn ài",
+                "d": "dear",
+                "s": ""
+            },
+            {
+                "id": "zh-0258",
+                "w": "高兴",
+                "p": "gāo xìng",
+                "d": "happy",
+                "s": ""
+            },
+            {
+                "id": "zh-0259",
+                "w": "继续",
+                "p": "jì xù",
+                "d": "to continue; to proceed with; to go on with",
+                "s": ""
+            },
+            {
+                "id": "zh-0260",
+                "w": "或",
+                "p": "huò",
+                "d": "maybe",
+                "s": ""
+            },
+            {
+                "id": "zh-0261",
+                "w": "再见",
+                "p": "zài jiàn",
+                "d": "goodbye",
+                "s": ""
+            },
+            {
+                "id": "zh-0262",
+                "w": "电话",
+                "p": "diàn huà",
+                "d": "telephone",
+                "s": ""
+            },
+            {
+                "id": "zh-0263",
+                "w": "如何",
+                "p": "rú hé",
+                "d": "how",
+                "s": ""
+            },
+            {
+                "id": "zh-0264",
+                "w": "到底",
+                "p": "dào dǐ",
+                "d": "finally",
+                "s": ""
+            },
+            {
+                "id": "zh-0265",
+                "w": "最后",
+                "p": "zuì hòu",
+                "d": "final; last; ultimate",
+                "s": ""
+            },
+            {
+                "id": "zh-0266",
+                "w": "小姐",
+                "p": "xiǎo jie",
+                "d": "young lady",
+                "s": ""
+            },
+            {
+                "id": "zh-0267",
+                "w": "上帝",
+                "p": "shàng dì",
+                "d": "God",
+                "s": ""
+            },
+            {
+                "id": "zh-0268",
+                "w": "正在",
+                "p": "zhèng zài",
+                "d": "to be in the process of (doing sth); to be currently ...-ing",
+                "s": ""
+            },
+            {
+                "id": "zh-0269",
+                "w": "它们",
+                "p": "tā men",
+                "d": "they; them",
+                "s": ""
+            },
+            {
+                "id": "zh-0270",
+                "w": "话",
+                "p": "huà",
+                "d": "dialect",
+                "s": ""
+            },
+            {
+                "id": "zh-0271",
+                "w": "明天",
+                "p": "míng tiān",
+                "d": "tomorrow",
+                "s": ""
+            },
+            {
+                "id": "zh-0272",
+                "w": "重要",
+                "p": "zhòng yào",
+                "d": "important; significant; major",
+                "s": ""
+            },
+            {
+                "id": "zh-0273",
+                "w": "跑",
+                "p": "pǎo",
+                "d": "to run",
+                "s": ""
+            },
+            {
+                "id": "zh-0274",
+                "w": "买",
+                "p": "mǎi",
+                "d": "to buy",
+                "s": ""
+            },
+            {
+                "id": "zh-0275",
+                "w": "警察",
+                "p": "jǐng chá",
+                "d": "police; police officer",
+                "s": ""
+            },
+            {
+                "id": "zh-0276",
+                "w": "只要",
+                "p": "zhǐ yào",
+                "d": "so long as; provided; if",
+                "s": ""
+            },
+            {
+                "id": "zh-0277",
+                "w": "好像",
+                "p": "hǎo xiàng",
+                "d": "as if",
+                "s": ""
+            },
+            {
+                "id": "zh-0278",
+                "w": "过去",
+                "p": "guò qù",
+                "d": "(in the) past; former; previous",
+                "s": ""
+            },
+            {
+                "id": "zh-0279",
+                "w": "听到",
+                "p": "tīng dào",
+                "d": "to hear",
+                "s": ""
+            },
+            {
+                "id": "zh-0280",
+                "w": "月",
+                "p": "yuè",
+                "d": "moon",
+                "s": ""
+            },
+            {
+                "id": "zh-0281",
+                "w": "干嘛",
+                "p": "gàn má",
+                "d": "what are you doing?",
+                "s": ""
+            },
+            {
+                "id": "zh-0282",
+                "w": "出",
+                "p": "chū",
+                "d": "to go out; to come out",
+                "s": ""
+            },
+            {
+                "id": "zh-0283",
+                "w": "今晚",
+                "p": "jīn wǎn",
+                "d": "tonight",
+                "s": ""
+            },
+            {
+                "id": "zh-0284",
+                "w": "儿子",
+                "p": "ér zi",
+                "d": "son",
+                "s": ""
+            },
+            {
+                "id": "zh-0285",
+                "w": "他妈的",
+                "p": "tā mā de",
+                "d": "(taboo curse) damn it!",
+                "s": ""
+            },
+            {
+                "id": "zh-0286",
+                "w": "怎样",
+                "p": "zěn yàng",
+                "d": "how",
+                "s": ""
+            },
+            {
+                "id": "zh-0287",
+                "w": "哪儿",
+                "p": "nǎ r",
+                "d": "where?",
+                "s": ""
+            },
+            {
+                "id": "zh-0288",
+                "w": "回家",
+                "p": "huí jiā",
+                "d": "to return home",
+                "s": ""
+            },
+            {
+                "id": "zh-0289",
+                "w": "多少",
+                "p": "duō shǎo",
+                "d": "number; amount",
+                "s": ""
+            },
+            {
+                "id": "zh-0290",
+                "w": "却",
+                "p": "què",
+                "d": "but",
+                "s": ""
+            },
+            {
+                "id": "zh-0291",
+                "w": "要是",
+                "p": "yào shi",
+                "d": "(coll.) if",
+                "s": ""
+            },
+            {
+                "id": "zh-0292",
+                "w": "美国",
+                "p": "měi guó",
+                "d": "United States; USA; US",
+                "s": ""
+            },
+            {
+                "id": "zh-0293",
+                "w": "女孩",
+                "p": "nǚ hái",
+                "d": "girl; lass",
+                "s": ""
+            },
+            {
+                "id": "zh-0294",
+                "w": "所",
+                "p": "suǒ",
+                "d": "actually",
+                "s": ""
+            },
+            {
+                "id": "zh-0295",
+                "w": "马上",
+                "p": "mǎ shàng",
+                "d": "at once",
+                "s": ""
+            },
+            {
+                "id": "zh-0296",
+                "w": "以前",
+                "p": "yǐ qián",
+                "d": "before",
+                "s": ""
+            },
+            {
+                "id": "zh-0297",
+                "w": "写",
+                "p": "xiě",
+                "d": "to write",
+                "s": ""
+            },
+            {
+                "id": "zh-0298",
+                "w": "说话",
+                "p": "shuō huà",
+                "d": "to speak",
+                "s": ""
+            },
+            {
+                "id": "zh-0299",
+                "w": "永远",
+                "p": "yǒng yuǎn",
+                "d": "forever",
+                "s": ""
+            },
+            {
+                "id": "zh-0300",
+                "w": "看见",
+                "p": "kàn jiàn",
+                "d": "to see; to catch sight of",
+                "s": ""
+            },
+            {
+                "id": "zh-0301",
+                "w": "家",
+                "p": "jiā",
+                "d": "home",
+                "s": ""
+            },
+            {
+                "id": "zh-0302",
+                "w": "看起来",
+                "p": "kàn qǐ lai",
+                "d": "seemingly; apparently; looks as if; appears to be; gives the impression that; seems on the face of it to be",
+                "s": ""
+            },
+            {
+                "id": "zh-0303",
+                "w": "完全",
+                "p": "wán quán",
+                "d": "complete; whole",
+                "s": ""
+            },
+            {
+                "id": "zh-0304",
+                "w": "情况",
+                "p": "qíng kuàng",
+                "d": "circumstances; state of affairs; situation",
+                "s": ""
+            },
+            {
+                "id": "zh-0305",
+                "w": "该死",
+                "p": "gāi sǐ",
+                "d": "Damn it!",
+                "s": ""
+            },
+            {
+                "id": "zh-0306",
+                "w": "成为",
+                "p": "chéng wéi",
+                "d": "to become; to turn into",
+                "s": ""
+            },
+            {
+                "id": "zh-0307",
+                "w": "回去",
+                "p": "huí qu",
+                "d": "to return",
+                "s": ""
+            },
+            {
+                "id": "zh-0308",
+                "w": "别人",
+                "p": "bié ren",
+                "d": "other people; others; other person",
+                "s": ""
+            },
+            {
+                "id": "zh-0309",
+                "w": "以",
+                "p": "yǐ",
+                "d": "to use",
+                "s": ""
+            },
+            {
+                "id": "zh-0310",
+                "w": "其他",
+                "p": "qí tā",
+                "d": "other",
+                "s": ""
+            },
+            {
+                "id": "zh-0311",
+                "w": "家伙",
+                "p": "jiā huo",
+                "d": "household dish, implement or furniture",
+                "s": ""
+            },
+            {
+                "id": "zh-0312",
+                "w": "之后",
+                "p": "zhī hòu",
+                "d": "after; behind",
+                "s": ""
+            },
+            {
+                "id": "zh-0313",
+                "w": "结束",
+                "p": "jié shù",
+                "d": "to end; to finish; to conclude",
+                "s": ""
+            },
+            {
+                "id": "zh-0314",
+                "w": "没什么",
+                "p": "méi shén me",
+                "d": "it doesn't matter; it's nothing; never mind",
+                "s": ""
+            },
+            {
+                "id": "zh-0315",
+                "w": "或者",
+                "p": "huò zhě",
+                "d": "or",
+                "s": ""
+            },
+            {
+                "id": "zh-0316",
+                "w": "机会",
+                "p": "jī huì",
+                "d": "opportunity",
+                "s": ""
+            },
+            {
+                "id": "zh-0317",
+                "w": "错",
+                "p": "cuò",
+                "d": "mistake",
+                "s": ""
+            },
+            {
+                "id": "zh-0318",
+                "w": "决定",
+                "p": "jué dìng",
+                "d": "to decide; to determine; to make up one's mind",
+                "s": ""
+            },
+            {
+                "id": "zh-0319",
+                "w": "了解",
+                "p": "liǎo jiě",
+                "d": "to understand; to know about",
+                "s": ""
+            },
+            {
+                "id": "zh-0320",
+                "w": "确定",
+                "p": "què dìng",
+                "d": "definite",
+                "s": ""
+            },
+            {
+                "id": "zh-0321",
+                "w": "小心",
+                "p": "xiǎo xīn",
+                "d": "to be careful",
+                "s": ""
+            },
+            {
+                "id": "zh-0322",
+                "w": "还好",
+                "p": "hái hǎo",
+                "d": "not bad; pretty good",
+                "s": ""
+            },
+            {
+                "id": "zh-0323",
+                "w": "总是",
+                "p": "zǒng shì",
+                "d": "always",
+                "s": ""
+            },
+            {
+                "id": "zh-0324",
+                "w": "行",
+                "p": "xíng",
+                "d": "(bound form) to walk; to go; to travel",
+                "s": ""
+            },
+            {
+                "id": "zh-0325",
+                "w": "号",
+                "p": "hào",
+                "d": "(literary) to call out; to command",
+                "s": ""
+            },
+            {
+                "id": "zh-0326",
+                "w": "无法",
+                "p": "wú fǎ",
+                "d": "unable to; incapable of",
+                "s": ""
+            },
+            {
+                "id": "zh-0327",
+                "w": "伙计",
+                "p": "huǒ ji",
+                "d": "partner",
+                "s": ""
+            },
+            {
+                "id": "zh-0328",
+                "w": "不到",
+                "p": "bù dào",
+                "d": "not to arrive",
+                "s": ""
+            },
+            {
+                "id": "zh-0329",
+                "w": "送",
+                "p": "sòng",
+                "d": "to send; to deliver; to transmit",
+                "s": ""
+            },
+            {
+                "id": "zh-0330",
+                "w": "帮助",
+                "p": "bāng zhù",
+                "d": "assistance; aid",
+                "s": ""
+            },
+            {
+                "id": "zh-0331",
+                "w": "办法",
+                "p": "bàn fǎ",
+                "d": "way of handling sth; means; measure; (practical) solution to a problem",
+                "s": ""
+            },
+            {
+                "id": "zh-0332",
+                "w": "玩",
+                "p": "wán",
+                "d": "to play",
+                "s": ""
+            },
+            {
+                "id": "zh-0333",
+                "w": "见到",
+                "p": "jiàn dào",
+                "d": "to see",
+                "s": ""
+            },
+            {
+                "id": "zh-0334",
+                "w": "小时",
+                "p": "xiǎo shí",
+                "d": "hour",
+                "s": ""
+            },
+            {
+                "id": "zh-0335",
+                "w": "放",
+                "p": "fàng",
+                "d": "to put",
+                "s": ""
+            },
+            {
+                "id": "zh-0336",
+                "w": "晚上",
+                "p": "wǎn shang",
+                "d": "evening",
+                "s": ""
+            },
+            {
+                "id": "zh-0337",
+                "w": "喝",
+                "p": "hē",
+                "d": "to drink",
+                "s": ""
+            },
+            {
+                "id": "zh-0338",
+                "w": "好好",
+                "p": "hǎo hǎo",
+                "d": "in perfectly good condition; perfectly all right",
+                "s": ""
+            },
+            {
+                "id": "zh-0339",
+                "w": "打电话",
+                "p": "dǎ diàn huà",
+                "d": "to make a telephone call",
+                "s": ""
+            },
+            {
+                "id": "zh-0340",
+                "w": "开",
+                "p": "kāi",
+                "d": "to open (transitive or intransitive)",
+                "s": ""
+            },
+            {
+                "id": "zh-0341",
+                "w": "如此",
+                "p": "rú cǐ",
+                "d": "like this; so; such",
+                "s": ""
+            },
+            {
+                "id": "zh-0342",
+                "w": "里面",
+                "p": "lǐ miàn",
+                "d": "inside",
+                "s": ""
+            },
+            {
+                "id": "zh-0343",
+                "w": "坐",
+                "p": "zuò",
+                "d": "to sit",
+                "s": ""
+            },
+            {
+                "id": "zh-0344",
+                "w": "女儿",
+                "p": "nǚ ér",
+                "d": "daughter",
+                "s": ""
+            },
+            {
+                "id": "zh-0345",
+                "w": "有没有",
+                "p": "yǒu méi yǒu",
+                "d": "(before a noun) Do (you, they etc) have ...?",
+                "s": ""
+            },
+            {
+                "id": "zh-0346",
+                "w": "兄弟",
+                "p": "xiōng dì",
+                "d": "brothers",
+                "s": ""
+            },
+            {
+                "id": "zh-0347",
+                "w": "已",
+                "p": "yǐ",
+                "d": "already",
+                "s": ""
+            },
+            {
+                "id": "zh-0348",
+                "w": "安全",
+                "p": "ān quán",
+                "d": "safe; secure",
+                "s": ""
+            },
+            {
+                "id": "zh-0349",
+                "w": "其实",
+                "p": "qí shí",
+                "d": "actually; in fact; really",
+                "s": ""
+            },
+            {
+                "id": "zh-0350",
+                "w": "拜托",
+                "p": "bài tuō",
+                "d": "to request sb to do sth",
+                "s": ""
+            },
+            {
+                "id": "zh-0351",
+                "w": "计划",
+                "p": "jì huà",
+                "d": "plan",
+                "s": ""
+            },
+            {
+                "id": "zh-0352",
+                "w": "穿",
+                "p": "chuān",
+                "d": "to bore through; to pierce; to perforate",
+                "s": ""
+            },
+            {
+                "id": "zh-0353",
+                "w": "呃",
+                "p": "è",
+                "d": "(exclamation)",
+                "s": ""
+            },
+            {
+                "id": "zh-0354",
+                "w": "怎么办",
+                "p": "zěn me bàn",
+                "d": "what's to be done",
+                "s": ""
+            },
+            {
+                "id": "zh-0355",
+                "w": "每个",
+                "p": "měi ge",
+                "d": "each; every",
+                "s": ""
+            },
+            {
+                "id": "zh-0356",
+                "w": "关于",
+                "p": "guān yú",
+                "d": "pertaining to",
+                "s": ""
+            },
+            {
+                "id": "zh-0357",
+                "w": "站",
+                "p": "zhàn",
+                "d": "station",
+                "s": ""
+            },
+            {
+                "id": "zh-0358",
+                "w": "清楚",
+                "p": "qīng chu",
+                "d": "clear",
+                "s": ""
+            },
+            {
+                "id": "zh-0359",
+                "w": "有些",
+                "p": "yǒu xiē",
+                "d": "some",
+                "s": ""
+            },
+            {
+                "id": "zh-0360",
+                "w": "那边",
+                "p": "nà bian",
+                "d": "over there",
+                "s": ""
+            },
+            {
+                "id": "zh-0361",
+                "w": "长官",
+                "p": "zhǎng guān",
+                "d": "senior official",
+                "s": ""
+            },
+            {
+                "id": "zh-0362",
+                "w": "公司",
+                "p": "gōng sī",
+                "d": "company; firm; corporation",
+                "s": ""
+            },
+            {
+                "id": "zh-0363",
+                "w": "宝贝",
+                "p": "bǎo bèi",
+                "d": "treasured object",
+                "s": ""
+            },
+            {
+                "id": "zh-0364",
+                "w": "进来",
+                "p": "jìn lái",
+                "d": "to come in",
+                "s": ""
+            },
+            {
+                "id": "zh-0365",
+                "w": "房子",
+                "p": "fáng zi",
+                "d": "house",
+                "s": ""
+            },
+            {
+                "id": "zh-0366",
+                "w": "根本",
+                "p": "gēn běn",
+                "d": "fundamental",
+                "s": ""
+            },
+            {
+                "id": "zh-0367",
+                "w": "懂",
+                "p": "dǒng",
+                "d": "to understand",
+                "s": ""
+            },
+            {
+                "id": "zh-0368",
+                "w": "不管",
+                "p": "bù guǎn",
+                "d": "not to be concerned",
+                "s": ""
+            },
+            {
+                "id": "zh-0369",
+                "w": "混蛋",
+                "p": "hún dàn",
+                "d": "scoundrel",
+                "s": ""
+            },
+            {
+                "id": "zh-0370",
+                "w": "人们",
+                "p": "rén men",
+                "d": "people",
+                "s": ""
+            },
+            {
+                "id": "zh-0371",
+                "w": "搞",
+                "p": "gǎo",
+                "d": "to do",
+                "s": ""
+            },
+            {
+                "id": "zh-0372",
+                "w": "唯一",
+                "p": "wéi yī",
+                "d": "only; sole",
+                "s": ""
+            },
+            {
+                "id": "zh-0373",
+                "w": "车",
+                "p": "chē",
+                "d": "car",
+                "s": ""
+            },
+            {
+                "id": "zh-0374",
+                "w": "麻烦",
+                "p": "má fan",
+                "d": "trouble; inconvenience",
+                "s": ""
+            },
+            {
+                "id": "zh-0375",
+                "w": "枪",
+                "p": "qiāng",
+                "d": "gun",
+                "s": ""
+            },
+            {
+                "id": "zh-0376",
+                "w": "怎么回事",
+                "p": "zěn me huí shì",
+                "d": "what's the matter?",
+                "s": ""
+            },
+            {
+                "id": "zh-0377",
+                "w": "漂亮",
+                "p": "piào liang",
+                "d": "pretty; beautiful",
+                "s": ""
+            },
+            {
+                "id": "zh-0378",
+                "w": "黑体",
+                "p": "hēi tǐ",
+                "d": "sans-serif typeface (for Chinese characters)",
+                "s": ""
+            },
+            {
+                "id": "zh-0379",
+                "w": "一种",
+                "p": "yī zhǒng",
+                "d": "one kind of; one type of",
+                "s": ""
+            },
+            {
+                "id": "zh-0380",
+                "w": "那儿",
+                "p": "nà r",
+                "d": "there",
+                "s": ""
+            },
+            {
+                "id": "zh-0381",
+                "w": "母亲",
+                "p": "mǔ qīn",
+                "d": "mother",
+                "s": ""
+            },
+            {
+                "id": "zh-0382",
+                "w": "房间",
+                "p": "fáng jiān",
+                "d": "room",
+                "s": ""
+            },
+            {
+                "id": "zh-0383",
+                "w": "改变",
+                "p": "gǎi biàn",
+                "d": "to change",
+                "s": ""
+            },
+            {
+                "id": "zh-0384",
+                "w": "愿意",
+                "p": "yuàn yì",
+                "d": "to wish",
+                "s": ""
+            },
+            {
+                "id": "zh-0385",
+                "w": "下来",
+                "p": "xià lai",
+                "d": "to come down",
+                "s": ""
+            },
+            {
+                "id": "zh-0386",
+                "w": "真正",
+                "p": "zhēn zhèng",
+                "d": "genuine; real; true",
+                "s": ""
+            },
+            {
+                "id": "zh-0387",
+                "w": "甚至",
+                "p": "shèn zhì",
+                "d": "even; so much so that",
+                "s": ""
+            },
+            {
+                "id": "zh-0388",
+                "w": "弄",
+                "p": "nòng",
+                "d": "to do",
+                "s": ""
+            },
+            {
+                "id": "zh-0389",
+                "w": "不好",
+                "p": "bù hǎo",
+                "d": "no good",
+                "s": ""
+            },
+            {
+                "id": "zh-0390",
+                "w": "回",
+                "p": "huí",
+                "d": "to go back; to return; to turn back; to turn around",
+                "s": ""
+            },
+            {
+                "id": "zh-0391",
+                "w": "喔",
+                "p": "ō",
+                "d": "(interjection) oh; I see (used to indicate realization, understanding)",
+                "s": ""
+            },
+            {
+                "id": "zh-0392",
+                "w": "夫人",
+                "p": "fū ren",
+                "d": "lady",
+                "s": ""
+            },
+            {
+                "id": "zh-0393",
+                "w": "之",
+                "p": "zhī",
+                "d": "(possessive particle, literary equivalent of 的)",
+                "s": ""
+            },
+            {
+                "id": "zh-0394",
+                "w": "进去",
+                "p": "jìn qù",
+                "d": "to go in",
+                "s": ""
+            },
+            {
+                "id": "zh-0395",
+                "w": "疯",
+                "p": "fēng",
+                "d": "insane",
+                "s": ""
+            },
+            {
+                "id": "zh-0396",
+                "w": "睡",
+                "p": "shuì",
+                "d": "to sleep",
+                "s": ""
+            },
+            {
+                "id": "zh-0397",
+                "w": "哇",
+                "p": "wā",
+                "d": "Wow!",
+                "s": ""
+            },
+            {
+                "id": "zh-0398",
+                "w": "岁",
+                "p": "suì",
+                "d": "years old",
+                "s": ""
+            },
+            {
+                "id": "zh-0399",
+                "w": "就要",
+                "p": "jiù yào",
+                "d": "will",
+                "s": ""
+            },
+            {
+                "id": "zh-0400",
+                "w": "打算",
+                "p": "dǎ suàn",
+                "d": "to plan",
+                "s": ""
+            },
+            {
+                "id": "zh-0401",
+                "w": "完",
+                "p": "wán",
+                "d": "to finish",
+                "s": ""
+            },
+            {
+                "id": "zh-0402",
+                "w": "故事",
+                "p": "gù shì",
+                "d": "old practice",
+                "s": ""
+            },
+            {
+                "id": "zh-0403",
+                "w": "当时",
+                "p": "dāng shí",
+                "d": "then; at that time",
+                "s": ""
+            },
+            {
+                "id": "zh-0404",
+                "w": "几个",
+                "p": "jǐ ge",
+                "d": "a few",
+                "s": ""
+            },
+            {
+                "id": "zh-0405",
+                "w": "害怕",
+                "p": "hài pà",
+                "d": "to be afraid; to be scared",
+                "s": ""
+            },
+            {
+                "id": "zh-0406",
+                "w": "刚才",
+                "p": "gāng cái",
+                "d": "just now",
+                "s": ""
+            },
+            {
+                "id": "zh-0407",
+                "w": "结婚",
+                "p": "jié hūn",
+                "d": "to marry; to get married",
+                "s": ""
+            },
+            {
+                "id": "zh-0408",
+                "w": "选择",
+                "p": "xuǎn zé",
+                "d": "to select; to pick",
+                "s": ""
+            },
+            {
+                "id": "zh-0409",
+                "w": "救",
+                "p": "jiù",
+                "d": "to save",
+                "s": ""
+            },
+            {
+                "id": "zh-0410",
+                "w": "手",
+                "p": "shǒu",
+                "d": "hand",
+                "s": ""
+            },
+            {
+                "id": "zh-0411",
+                "w": "保护",
+                "p": "bǎo hù",
+                "d": "to protect",
+                "s": ""
+            },
+            {
+                "id": "zh-0412",
+                "w": "虽然",
+                "p": "suī rán",
+                "d": "although; even though (often used correlatively with 可是 or 但是 etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0413",
+                "w": "由",
+                "p": "yóu",
+                "d": "to follow",
+                "s": ""
+            },
+            {
+                "id": "zh-0414",
+                "w": "衣服",
+                "p": "yī fu",
+                "d": "clothes",
+                "s": ""
+            },
+            {
+                "id": "zh-0415",
+                "w": "另",
+                "p": "lìng",
+                "d": "other",
+                "s": ""
+            },
+            {
+                "id": "zh-0416",
+                "w": "出现",
+                "p": "chū xiàn",
+                "d": "to appear",
+                "s": ""
+            },
+            {
+                "id": "zh-0417",
+                "w": "听说",
+                "p": "tīng shuō",
+                "d": "to hear (sth said)",
+                "s": ""
+            },
+            {
+                "id": "zh-0418",
+                "w": "不了",
+                "p": "bù le",
+                "d": "no thanks (used to politely but informally decline)",
+                "s": ""
+            },
+            {
+                "id": "zh-0419",
+                "w": "注意",
+                "p": "zhù yì",
+                "d": "to take note of; to pay attention to",
+                "s": ""
+            },
+            {
+                "id": "zh-0420",
+                "w": "没关系",
+                "p": "méi guān xi",
+                "d": "it doesn't matter",
+                "s": ""
+            },
+            {
+                "id": "zh-0421",
+                "w": "那种",
+                "p": "nà zhǒng",
+                "d": "that kind of",
+                "s": ""
+            },
+            {
+                "id": "zh-0422",
+                "w": "接受",
+                "p": "jiē shòu",
+                "d": "to accept (a suggestion, punishment, bribe etc); to acquiesce",
+                "s": ""
+            },
+            {
+                "id": "zh-0423",
+                "w": "或许",
+                "p": "huò xǔ",
+                "d": "perhaps; maybe",
+                "s": ""
+            },
+            {
+                "id": "zh-0424",
+                "w": "妻子",
+                "p": "qī zǐ",
+                "d": "wife and children",
+                "s": ""
+            },
+            {
+                "id": "zh-0425",
+                "w": "老",
+                "p": "lǎo",
+                "d": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
+                "s": ""
+            },
+            {
+                "id": "zh-0426",
+                "w": "特别",
+                "p": "tè bié",
+                "d": "unusual; special",
+                "s": ""
+            },
+            {
+                "id": "zh-0427",
+                "w": "失去",
+                "p": "shī qù",
+                "d": "to lose",
+                "s": ""
+            },
+            {
+                "id": "zh-0428",
+                "w": "整个",
+                "p": "zhěng gè",
+                "d": "whole",
+                "s": ""
+            },
+            {
+                "id": "zh-0429",
+                "w": "回到",
+                "p": "huí dào",
+                "d": "to return to",
+                "s": ""
+            },
+            {
+                "id": "zh-0430",
+                "w": "保证",
+                "p": "bǎo zhèng",
+                "d": "guarantee",
+                "s": ""
+            },
+            {
+                "id": "zh-0431",
+                "w": "以后",
+                "p": "yǐ hòu",
+                "d": "after",
+                "s": ""
+            },
+            {
+                "id": "zh-0432",
+                "w": "国家",
+                "p": "guó jiā",
+                "d": "country; nation; state",
+                "s": ""
+            },
+            {
+                "id": "zh-0433",
+                "w": "变成",
+                "p": "biàn chéng",
+                "d": "to change into",
+                "s": ""
+            },
+            {
+                "id": "zh-0434",
+                "w": "难道",
+                "p": "nán dào",
+                "d": "don't tell me ...",
+                "s": ""
+            },
+            {
+                "id": "zh-0435",
+                "w": "她们",
+                "p": "tā men",
+                "d": "they; them (females)",
+                "s": ""
+            },
+            {
+                "id": "zh-0436",
+                "w": "从来",
+                "p": "cóng lái",
+                "d": "always",
+                "s": ""
+            },
+            {
+                "id": "zh-0437",
+                "w": "是否",
+                "p": "shì fǒu",
+                "d": "whether (or not)",
+                "s": ""
+            },
+            {
+                "id": "zh-0438",
+                "w": "生命",
+                "p": "shēng mìng",
+                "d": "life (as the characteristic of living beings)",
+                "s": ""
+            },
+            {
+                "id": "zh-0439",
+                "w": "忙",
+                "p": "máng",
+                "d": "busy",
+                "s": ""
+            },
+            {
+                "id": "zh-0440",
+                "w": "开心",
+                "p": "kāi xīn",
+                "d": "to feel happy",
+                "s": ""
+            },
+            {
+                "id": "zh-0441",
+                "w": "关系",
+                "p": "guān xi",
+                "d": "relation; relationship; connection",
+                "s": ""
+            },
+            {
+                "id": "zh-0442",
+                "w": "抓",
+                "p": "zhuā",
+                "d": "to grab",
+                "s": ""
+            },
+            {
+                "id": "zh-0443",
+                "w": "女士",
+                "p": "nǚ shì",
+                "d": "lady",
+                "s": ""
+            },
+            {
+                "id": "zh-0444",
+                "w": "学校",
+                "p": "xué xiào",
+                "d": "school",
+                "s": ""
+            },
+            {
+                "id": "zh-0445",
+                "w": "样子",
+                "p": "yàng zi",
+                "d": "appearance",
+                "s": ""
+            },
+            {
+                "id": "zh-0446",
+                "w": "原因",
+                "p": "yuán yīn",
+                "d": "cause",
+                "s": ""
+            },
+            {
+                "id": "zh-0447",
+                "w": "电影",
+                "p": "diàn yǐng",
+                "d": "movie; film",
+                "s": ""
+            },
+            {
+                "id": "zh-0448",
+                "w": "笑",
+                "p": "xiào",
+                "d": "to laugh; to smile",
+                "s": ""
+            },
+            {
+                "id": "zh-0449",
+                "w": "谈谈",
+                "p": "tán tán",
+                "d": "to discuss; to have a chat",
+                "s": ""
+            },
+            {
+                "id": "zh-0450",
+                "w": "危险",
+                "p": "wēi xiǎn",
+                "d": "danger",
+                "s": ""
+            },
+            {
+                "id": "zh-0451",
+                "w": "欢迎",
+                "p": "huān yíng",
+                "d": "to welcome",
+                "s": ""
+            },
+            {
+                "id": "zh-0452",
+                "w": "进行",
+                "p": "jìn xíng",
+                "d": "(of a process etc) to proceed; to be in progress; to be underway",
+                "s": ""
+            },
+            {
+                "id": "zh-0453",
+                "w": "刚刚",
+                "p": "gāng gang",
+                "d": "just recently",
+                "s": ""
+            },
+            {
+                "id": "zh-0454",
+                "w": "些",
+                "p": "xiē",
+                "d": "classifier indicating a small amount or small number greater than 1: some, a few, several",
+                "s": ""
+            },
+            {
+                "id": "zh-0455",
+                "w": "看来",
+                "p": "kàn lai",
+                "d": "apparently",
+                "s": ""
+            },
+            {
+                "id": "zh-0456",
+                "w": "至少",
+                "p": "zhì shǎo",
+                "d": "at least",
+                "s": ""
+            },
+            {
+                "id": "zh-0457",
+                "w": "闭嘴",
+                "p": "bì zuǐ",
+                "d": "Shut up!",
+                "s": ""
+            },
+            {
+                "id": "zh-0458",
+                "w": "讲",
+                "p": "jiǎng",
+                "d": "to speak",
+                "s": ""
+            },
+            {
+                "id": "zh-0459",
+                "w": "连",
+                "p": "lián",
+                "d": "to link",
+                "s": ""
+            },
+            {
+                "id": "zh-0460",
+                "w": "挺",
+                "p": "tǐng",
+                "d": "straight",
+                "s": ""
+            },
+            {
+                "id": "zh-0461",
+                "w": "成功",
+                "p": "chéng gōng",
+                "d": "to succeed",
+                "s": ""
+            },
+            {
+                "id": "zh-0462",
+                "w": "奇怪",
+                "p": "qí guài",
+                "d": "strange",
+                "s": ""
+            },
+            {
+                "id": "zh-0463",
+                "w": "忘",
+                "p": "wàng",
+                "d": "to forget",
+                "s": ""
+            },
+            {
+                "id": "zh-0464",
+                "w": "太好了",
+                "p": "tài hǎo le",
+                "d": "very good",
+                "s": ""
+            },
+            {
+                "id": "zh-0465",
+                "w": "身上",
+                "p": "shēn shang",
+                "d": "on the body",
+                "s": ""
+            },
+            {
+                "id": "zh-0466",
+                "w": "声音",
+                "p": "shēng yīn",
+                "d": "sound; voice",
+                "s": ""
+            },
+            {
+                "id": "zh-0467",
+                "w": "这边",
+                "p": "zhè biān",
+                "d": "this side",
+                "s": ""
+            },
+            {
+                "id": "zh-0468",
+                "w": "处理",
+                "p": "chǔ lǐ",
+                "d": "to handle; to deal with",
+                "s": ""
+            },
+            {
+                "id": "zh-0469",
+                "w": "外面",
+                "p": "wài miàn",
+                "d": "outside (also pr.  for this sense)",
+                "s": ""
+            },
+            {
+                "id": "zh-0470",
+                "w": "丈夫",
+                "p": "zhàng fu",
+                "d": "husband",
+                "s": ""
+            },
+            {
+                "id": "zh-0471",
+                "w": "通过",
+                "p": "tōng guò",
+                "d": "to pass through; to get through",
+                "s": ""
+            },
+            {
+                "id": "zh-0472",
+                "w": "绝对",
+                "p": "jué duì",
+                "d": "absolute; unconditional",
+                "s": ""
+            },
+            {
+                "id": "zh-0473",
+                "w": "行动",
+                "p": "xíng dòng",
+                "d": "operation",
+                "s": ""
+            },
+            {
+                "id": "zh-0474",
+                "w": "不同",
+                "p": "bù tóng",
+                "d": "different",
+                "s": ""
+            },
+            {
+                "id": "zh-0475",
+                "w": "够",
+                "p": "gòu",
+                "d": "enough (sufficient)",
+                "s": ""
+            },
+            {
+                "id": "zh-0476",
+                "w": "著",
+                "p": "zhù",
+                "d": "to make known",
+                "s": ""
+            },
+            {
+                "id": "zh-0477",
+                "w": "比赛",
+                "p": "bǐ sài",
+                "d": "competition (sports etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0478",
+                "w": "马",
+                "p": "mǎ",
+                "d": "horse",
+                "s": ""
+            },
+            {
+                "id": "zh-0479",
+                "w": "倒",
+                "p": "dào",
+                "d": "to invert; to place upside down or frontside back",
+                "s": ""
+            },
+            {
+                "id": "zh-0480",
+                "w": "作为",
+                "p": "zuò wéi",
+                "d": "one's conduct",
+                "s": ""
+            },
+            {
+                "id": "zh-0481",
+                "w": "别的",
+                "p": "bié de",
+                "d": "else",
+                "s": ""
+            },
+            {
+                "id": "zh-0482",
+                "w": "才能",
+                "p": "cái néng",
+                "d": "talent",
+                "s": ""
+            },
+            {
+                "id": "zh-0483",
+                "w": "结果",
+                "p": "jiē guǒ",
+                "d": "to bear fruit",
+                "s": ""
+            },
+            {
+                "id": "zh-0484",
+                "w": "帮忙",
+                "p": "bāng máng",
+                "d": "to help",
+                "s": ""
+            },
+            {
+                "id": "zh-0485",
+                "w": "正",
+                "p": "zhèng",
+                "d": "straight",
+                "s": ""
+            },
+            {
+                "id": "zh-0486",
+                "w": "照片",
+                "p": "zhào piàn",
+                "d": "photograph",
+                "s": ""
+            },
+            {
+                "id": "zh-0487",
+                "w": "参加",
+                "p": "cān jiā",
+                "d": "to participate; to take part; to join",
+                "s": ""
+            },
+            {
+                "id": "zh-0488",
+                "w": "而已",
+                "p": "ér yǐ",
+                "d": "that's all",
+                "s": ""
+            },
+            {
+                "id": "zh-0489",
+                "w": "完成",
+                "p": "wán chéng",
+                "d": "to complete; to accomplish",
+                "s": ""
+            },
+            {
+                "id": "zh-0490",
+                "w": "方式",
+                "p": "fāng shì",
+                "d": "way; method; manner; mode; pattern (of behavior etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0491",
+                "w": "做到",
+                "p": "zuò dào",
+                "d": "to accomplish",
+                "s": ""
+            },
+            {
+                "id": "zh-0492",
+                "w": "俩",
+                "p": "liǎ",
+                "d": "two (colloquial equivalent of 兩個|两个)",
+                "s": ""
+            },
+            {
+                "id": "zh-0493",
+                "w": "爸",
+                "p": "bà",
+                "d": "father",
+                "s": ""
+            },
+            {
+                "id": "zh-0494",
+                "w": "第一次",
+                "p": "dì yī cì",
+                "d": "the first time; for the first time",
+                "s": ""
+            },
+            {
+                "id": "zh-0495",
+                "w": "只能",
+                "p": "zhǐ néng",
+                "d": "can only",
+                "s": ""
+            },
+            {
+                "id": "zh-0496",
+                "w": "太太",
+                "p": "tài tai",
+                "d": "married woman",
+                "s": ""
+            },
+            {
+                "id": "zh-0497",
+                "w": "下去",
+                "p": "xià qù",
+                "d": "to go down",
+                "s": ""
+            },
+            {
+                "id": "zh-0498",
+                "w": "眼睛",
+                "p": "yǎn jing",
+                "d": "eye",
+                "s": ""
+            },
+            {
+                "id": "zh-0499",
+                "w": "啥",
+                "p": "shá",
+                "d": "dialectal equivalent of 什麼|什么",
+                "s": ""
+            },
+            {
+                "id": "zh-0500",
+                "w": "感到",
+                "p": "gǎn dào",
+                "d": "to feel; to sense; to perceive",
+                "s": ""
+            },
+            {
+                "id": "zh-0501",
+                "w": "最近",
+                "p": "zuì jìn",
+                "d": "recently",
+                "s": ""
+            },
+            {
+                "id": "zh-0502",
+                "w": "讨厌",
+                "p": "tǎo yàn",
+                "d": "to dislike; to loathe",
+                "s": ""
+            },
+            {
+                "id": "zh-0503",
+                "w": "照顾",
+                "p": "zhào gu",
+                "d": "to take care of",
+                "s": ""
+            },
+            {
+                "id": "zh-0504",
+                "w": "长",
+                "p": "zhǎng",
+                "d": "chief",
+                "s": ""
+            },
+            {
+                "id": "zh-0505",
+                "w": "人类",
+                "p": "rén lèi",
+                "d": "humanity",
+                "s": ""
+            },
+            {
+                "id": "zh-0506",
+                "w": "活着",
+                "p": "huó zhe",
+                "d": "alive",
+                "s": ""
+            },
+            {
+                "id": "zh-0507",
+                "w": "打开",
+                "p": "dǎ kāi",
+                "d": "to open",
+                "s": ""
+            },
+            {
+                "id": "zh-0508",
+                "w": "各位",
+                "p": "gè wèi",
+                "d": "everybody",
+                "s": ""
+            },
+            {
+                "id": "zh-0509",
+                "w": "进",
+                "p": "jìn",
+                "d": "to go forward",
+                "s": ""
+            },
+            {
+                "id": "zh-0510",
+                "w": "待",
+                "p": "dài",
+                "d": "to wait",
+                "s": ""
+            },
+            {
+                "id": "zh-0511",
+                "w": "掉",
+                "p": "diào",
+                "d": "to fall",
+                "s": ""
+            },
+            {
+                "id": "zh-0512",
+                "w": "不好意思",
+                "p": "bù hǎo yì si",
+                "d": "to feel embarrassed",
+                "s": ""
+            },
+            {
+                "id": "zh-0513",
+                "w": "确实",
+                "p": "què shí",
+                "d": "indeed",
+                "s": ""
+            },
+            {
+                "id": "zh-0514",
+                "w": "猜",
+                "p": "cāi",
+                "d": "to guess",
+                "s": ""
+            },
+            {
+                "id": "zh-0515",
+                "w": "使",
+                "p": "shǐ",
+                "d": "to make",
+                "s": ""
+            },
+            {
+                "id": "zh-0516",
+                "w": "曾经",
+                "p": "céng jīng",
+                "d": "once",
+                "s": ""
+            },
+            {
+                "id": "zh-0517",
+                "w": "老师",
+                "p": "lǎo shī",
+                "d": "teacher",
+                "s": ""
+            },
+            {
+                "id": "zh-0518",
+                "w": "于",
+                "p": "yú",
+                "d": "to go",
+                "s": ""
+            },
+            {
+                "id": "zh-0519",
+                "w": "狗",
+                "p": "gǒu",
+                "d": "dog",
+                "s": ""
+            },
+            {
+                "id": "zh-0520",
+                "w": "容易",
+                "p": "róng yì",
+                "d": "easy; straightforward",
+                "s": ""
+            },
+            {
+                "id": "zh-0521",
+                "w": "直到",
+                "p": "zhí dào",
+                "d": "until",
+                "s": ""
+            },
+            {
+                "id": "zh-0522",
+                "w": "求",
+                "p": "qiú",
+                "d": "to seek",
+                "s": ""
+            },
+            {
+                "id": "zh-0523",
+                "w": "谈",
+                "p": "tán",
+                "d": "to speak",
+                "s": ""
+            },
+            {
+                "id": "zh-0524",
+                "w": "麽",
+                "p": "mó",
+                "d": "tiny",
+                "s": ""
+            },
+            {
+                "id": "zh-0525",
+                "w": "进入",
+                "p": "jìn rù",
+                "d": "to enter; to go into",
+                "s": ""
+            },
+            {
+                "id": "zh-0526",
+                "w": "咱们",
+                "p": "zán men",
+                "d": "we or us (including both the speaker and the person(s) spoken to)",
+                "s": ""
+            },
+            {
+                "id": "zh-0527",
+                "w": "伤害",
+                "p": "shāng hài",
+                "d": "to injure; to harm",
+                "s": ""
+            },
+            {
+                "id": "zh-0528",
+                "w": "拉",
+                "p": "lā",
+                "d": "to pull",
+                "s": ""
+            },
+            {
+                "id": "zh-0529",
+                "w": "拍",
+                "p": "pāi",
+                "d": "to pat",
+                "s": ""
+            },
+            {
+                "id": "zh-0530",
+                "w": "身体",
+                "p": "shēn tǐ",
+                "d": "the body",
+                "s": ""
+            },
+            {
+                "id": "zh-0531",
+                "w": "曾",
+                "p": "céng",
+                "d": "once",
+                "s": ""
+            },
+            {
+                "id": "zh-0532",
+                "w": "内",
+                "p": "nèi",
+                "d": "inside",
+                "s": ""
+            },
+            {
+                "id": "zh-0533",
+                "w": "简单",
+                "p": "jiǎn dān",
+                "d": "simple; not complicated",
+                "s": ""
+            },
+            {
+                "id": "zh-0534",
+                "w": "有趣",
+                "p": "yǒu qù",
+                "d": "interesting; fascinating; amusing",
+                "s": ""
+            },
+            {
+                "id": "zh-0535",
+                "w": "就算",
+                "p": "jiù suàn",
+                "d": "(coll.) even if",
+                "s": ""
+            },
+            {
+                "id": "zh-0536",
+                "w": "医院",
+                "p": "yī yuàn",
+                "d": "hospital",
+                "s": ""
+            },
+            {
+                "id": "zh-0537",
+                "w": "赢",
+                "p": "yíng",
+                "d": "to beat",
+                "s": ""
+            },
+            {
+                "id": "zh-0538",
+                "w": "能够",
+                "p": "néng gòu",
+                "d": "to be capable of",
+                "s": ""
+            },
+            {
+                "id": "zh-0539",
+                "w": "努力",
+                "p": "nǔ lì",
+                "d": "to make an effort; to try hard; to strive",
+                "s": ""
+            },
+            {
+                "id": "zh-0540",
+                "w": "留下",
+                "p": "liú xià",
+                "d": "to leave behind",
+                "s": ""
+            },
+            {
+                "id": "zh-0541",
+                "w": "同意",
+                "p": "tóng yì",
+                "d": "to agree",
+                "s": ""
+            },
+            {
+                "id": "zh-0542",
+                "w": "杰克",
+                "p": "jié kè",
+                "d": "Jack (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-0543",
+                "w": "死亡",
+                "p": "sǐ wáng",
+                "d": "to die",
+                "s": ""
+            },
+            {
+                "id": "zh-0544",
+                "w": "每",
+                "p": "měi",
+                "d": "each",
+                "s": ""
+            },
+            {
+                "id": "zh-0545",
+                "w": "战争",
+                "p": "zhàn zhēng",
+                "d": "war; conflict",
+                "s": ""
+            },
+            {
+                "id": "zh-0546",
+                "w": "上面",
+                "p": "shàng miàn",
+                "d": "on top of",
+                "s": ""
+            },
+            {
+                "id": "zh-0547",
+                "w": "总统",
+                "p": "zǒng tǒng",
+                "d": "president (of a country)",
+                "s": ""
+            },
+            {
+                "id": "zh-0548",
+                "w": "消息",
+                "p": "xiāo xi",
+                "d": "(piece of) news; information",
+                "s": ""
+            },
+            {
+                "id": "zh-0549",
+                "w": "要求",
+                "p": "yāo qiú",
+                "d": "to request",
+                "s": ""
+            },
+            {
+                "id": "zh-0550",
+                "w": "理解",
+                "p": "lǐ jiě",
+                "d": "to comprehend; to understand",
+                "s": ""
+            },
+            {
+                "id": "zh-0551",
+                "w": "收到",
+                "p": "shōu dào",
+                "d": "to receive",
+                "s": ""
+            },
+            {
+                "id": "zh-0552",
+                "w": "之间",
+                "p": "zhī jiān",
+                "d": "(after a noun) between; among; amid",
+                "s": ""
+            },
+            {
+                "id": "zh-0553",
+                "w": "主意",
+                "p": "zhǔ yi",
+                "d": "plan",
+                "s": ""
+            },
+            {
+                "id": "zh-0554",
+                "w": "保持",
+                "p": "bǎo chí",
+                "d": "to keep",
+                "s": ""
+            },
+            {
+                "id": "zh-0555",
+                "w": "成",
+                "p": "chéng",
+                "d": "to succeed",
+                "s": ""
+            },
+            {
+                "id": "zh-0556",
+                "w": "存在",
+                "p": "cún zài",
+                "d": "to exist",
+                "s": ""
+            },
+            {
+                "id": "zh-0557",
+                "w": "高",
+                "p": "gāo",
+                "d": "high",
+                "s": ""
+            },
+            {
+                "id": "zh-0558",
+                "w": "晚安",
+                "p": "wǎn ān",
+                "d": "Good night!",
+                "s": ""
+            },
+            {
+                "id": "zh-0559",
+                "w": "解释",
+                "p": "jiě shì",
+                "d": "explanation",
+                "s": ""
+            },
+            {
+                "id": "zh-0560",
+                "w": "全部",
+                "p": "quán bù",
+                "d": "whole; all",
+                "s": ""
+            },
+            {
+                "id": "zh-0561",
+                "w": "靠",
+                "p": "kào",
+                "d": "to lean against or on",
+                "s": ""
+            },
+            {
+                "id": "zh-0562",
+                "w": "呆",
+                "p": "dāi",
+                "d": "foolish; stupid",
+                "s": ""
+            },
+            {
+                "id": "zh-0563",
+                "w": "起",
+                "p": "qǐ",
+                "d": "to rise",
+                "s": ""
+            },
+            {
+                "id": "zh-0564",
+                "w": "约翰",
+                "p": "yuē hàn",
+                "d": "John (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-0565",
+                "w": "突然",
+                "p": "tū rán",
+                "d": "sudden; abrupt; unexpected",
+                "s": ""
+            },
+            {
+                "id": "zh-0566",
+                "w": "飞机",
+                "p": "fēi jī",
+                "d": "airplane",
+                "s": ""
+            },
+            {
+                "id": "zh-0567",
+                "w": "解决",
+                "p": "jiě jué",
+                "d": "to solve; to resolve; to settle (a problem)",
+                "s": ""
+            },
+            {
+                "id": "zh-0568",
+                "w": "调查",
+                "p": "diào chá",
+                "d": "investigation",
+                "s": ""
+            },
+            {
+                "id": "zh-0569",
+                "w": "多久",
+                "p": "duō jiǔ",
+                "d": "(of time) how long?",
+                "s": ""
+            },
+            {
+                "id": "zh-0570",
+                "w": "老婆",
+                "p": "lǎo pó",
+                "d": "(coll.) wife",
+                "s": ""
+            },
+            {
+                "id": "zh-0571",
+                "w": "不再",
+                "p": "bù zài",
+                "d": "no more; no longer",
+                "s": ""
+            },
+            {
+                "id": "zh-0572",
+                "w": "翻译",
+                "p": "fān yì",
+                "d": "to translate",
+                "s": ""
+            },
+            {
+                "id": "zh-0573",
+                "w": "证明",
+                "p": "zhèng míng",
+                "d": "proof",
+                "s": ""
+            },
+            {
+                "id": "zh-0574",
+                "w": "开玩笑",
+                "p": "kāi wán xiào",
+                "d": "to play a joke; to make fun of; to joke",
+                "s": ""
+            },
+            {
+                "id": "zh-0575",
+                "w": "父母",
+                "p": "fù mǔ",
+                "d": "father and mother; parents",
+                "s": ""
+            },
+            {
+                "id": "zh-0576",
+                "w": "卖",
+                "p": "mài",
+                "d": "to sell",
+                "s": ""
+            },
+            {
+                "id": "zh-0577",
+                "w": "回答",
+                "p": "huí dá",
+                "d": "to reply; to answer",
+                "s": ""
+            },
+            {
+                "id": "zh-0578",
+                "w": "任务",
+                "p": "rèn wu",
+                "d": "mission; assignment; task; duty; role",
+                "s": ""
+            },
+            {
+                "id": "zh-0579",
+                "w": "所有人",
+                "p": "suǒ yǒu rén",
+                "d": "everyone",
+                "s": ""
+            },
+            {
+                "id": "zh-0580",
+                "w": "带来",
+                "p": "dài lái",
+                "d": "to bring",
+                "s": ""
+            },
+            {
+                "id": "zh-0581",
+                "w": "早",
+                "p": "zǎo",
+                "d": "early",
+                "s": ""
+            },
+            {
+                "id": "zh-0582",
+                "w": "可爱",
+                "p": "kě ài",
+                "d": "adorable",
+                "s": ""
+            },
+            {
+                "id": "zh-0583",
+                "w": "感谢",
+                "p": "gǎn xiè",
+                "d": "to thank; to be grateful",
+                "s": ""
+            },
+            {
+                "id": "zh-0584",
+                "w": "为何",
+                "p": "wèi hé",
+                "d": "why",
+                "s": ""
+            },
+            {
+                "id": "zh-0585",
+                "w": "除了",
+                "p": "chú le",
+                "d": "apart from; besides; in addition to (used to exclude, as in 除了他，誰也沒來|除了他，谁也没来 \"apart from him, nobody came\", or to include, as in 除了英語，他也會法語|除了英语，他也会法语 \"in addition to English, he also knows French\")",
+                "s": ""
+            },
+            {
+                "id": "zh-0586",
+                "w": "派",
+                "p": "pài",
+                "d": "(literary) tributary; branch of a river",
+                "s": ""
+            },
+            {
+                "id": "zh-0587",
+                "w": "自由",
+                "p": "zì yóu",
+                "d": "freedom; liberty",
+                "s": ""
+            },
+            {
+                "id": "zh-0588",
+                "w": "日",
+                "p": "rì",
+                "d": "(bound form) sun",
+                "s": ""
+            },
+            {
+                "id": "zh-0589",
+                "w": "抓住",
+                "p": "zhuā zhù",
+                "d": "to grab hold of; to capture",
+                "s": ""
+            },
+            {
+                "id": "zh-0590",
+                "w": "路",
+                "p": "lù",
+                "d": "road (CL:條|条)",
+                "s": ""
+            },
+            {
+                "id": "zh-0591",
+                "w": "想法",
+                "p": "xiǎng fǎ",
+                "d": "way of thinking; opinion; notion",
+                "s": ""
+            },
+            {
+                "id": "zh-0592",
+                "w": "早上",
+                "p": "zǎo shang",
+                "d": "early morning",
+                "s": ""
+            },
+            {
+                "id": "zh-0593",
+                "w": "律师",
+                "p": "lǜ shī",
+                "d": "lawyer",
+                "s": ""
+            },
+            {
+                "id": "zh-0594",
+                "w": "昨晚",
+                "p": "zuó wǎn",
+                "d": "yesterday evening",
+                "s": ""
+            },
+            {
+                "id": "zh-0595",
+                "w": "哥哥",
+                "p": "gē ge",
+                "d": "older brother",
+                "s": ""
+            },
+            {
+                "id": "zh-0596",
+                "w": "放弃",
+                "p": "fàng qì",
+                "d": "to renounce; to abandon; to give up",
+                "s": ""
+            },
+            {
+                "id": "zh-0597",
+                "w": "游戏",
+                "p": "yóu xì",
+                "d": "game (CL:場|场)",
+                "s": ""
+            },
+            {
+                "id": "zh-0598",
+                "w": "跳",
+                "p": "tiào",
+                "d": "to jump",
+                "s": ""
+            },
+            {
+                "id": "zh-0599",
+                "w": "头",
+                "p": "tóu",
+                "d": "head",
+                "s": ""
+            },
+            {
+                "id": "zh-0600",
+                "w": "秘密",
+                "p": "mì mì",
+                "d": "secret; private; confidential; clandestine",
+                "s": ""
+            },
+            {
+                "id": "zh-0601",
+                "w": "休息",
+                "p": "xiū xi",
+                "d": "rest",
+                "s": ""
+            },
+            {
+                "id": "zh-0602",
+                "w": "终于",
+                "p": "zhōng yú",
+                "d": "at last",
+                "s": ""
+            },
+            {
+                "id": "zh-0603",
+                "w": "考虑",
+                "p": "kǎo lǜ",
+                "d": "to think over",
+                "s": ""
+            },
+            {
+                "id": "zh-0604",
+                "w": "其中",
+                "p": "qí zhōng",
+                "d": "among",
+                "s": ""
+            },
+            {
+                "id": "zh-0605",
+                "w": "刚",
+                "p": "gāng",
+                "d": "(literary) hard; firm; strong",
+                "s": ""
+            },
+            {
+                "id": "zh-0606",
+                "w": "每天",
+                "p": "měi tiān",
+                "d": "every day",
+                "s": ""
+            },
+            {
+                "id": "zh-0607",
+                "w": "变得",
+                "p": "biàn de",
+                "d": "to become",
+                "s": ""
+            },
+            {
+                "id": "zh-0608",
+                "w": "大概",
+                "p": "dà gài",
+                "d": "roughly",
+                "s": ""
+            },
+            {
+                "id": "zh-0609",
+                "w": "目标",
+                "p": "mù biāo",
+                "d": "target",
+                "s": ""
+            },
+            {
+                "id": "zh-0610",
+                "w": "控制",
+                "p": "kòng zhì",
+                "d": "to control",
+                "s": ""
+            },
+            {
+                "id": "zh-0611",
+                "w": "家里",
+                "p": "jiā lǐ",
+                "d": "home",
+                "s": ""
+            },
+            {
+                "id": "zh-0612",
+                "w": "花",
+                "p": "huā",
+                "d": "flower",
+                "s": ""
+            },
+            {
+                "id": "zh-0613",
+                "w": "小孩",
+                "p": "xiǎo hái",
+                "d": "child",
+                "s": ""
+            },
+            {
+                "id": "zh-0614",
+                "w": "睡觉",
+                "p": "shuì jiào",
+                "d": "to go to bed",
+                "s": ""
+            },
+            {
+                "id": "zh-0615",
+                "w": "停止",
+                "p": "tíng zhǐ",
+                "d": "to stop; to halt; to cease",
+                "s": ""
+            },
+            {
+                "id": "zh-0616",
+                "w": "因此",
+                "p": "yīn cǐ",
+                "d": "thus; consequently; as a result",
+                "s": ""
+            },
+            {
+                "id": "zh-0617",
+                "w": "分钟",
+                "p": "fēn zhōng",
+                "d": "minute",
+                "s": ""
+            },
+            {
+                "id": "zh-0618",
+                "w": "替",
+                "p": "tì",
+                "d": "to substitute for",
+                "s": ""
+            },
+            {
+                "id": "zh-0619",
+                "w": "开枪",
+                "p": "kāi qiāng",
+                "d": "to open fire",
+                "s": ""
+            },
+            {
+                "id": "zh-0620",
+                "w": "音乐",
+                "p": "yīn yuè",
+                "d": "music",
+                "s": ""
+            },
+            {
+                "id": "zh-0621",
+                "w": "耶",
+                "p": "yé",
+                "d": "interrogative particle (classical)",
+                "s": ""
+            },
+            {
+                "id": "zh-0622",
+                "w": "糟糕",
+                "p": "zāo gāo",
+                "d": "too bad",
+                "s": ""
+            },
+            {
+                "id": "zh-0623",
+                "w": "武器",
+                "p": "wǔ qì",
+                "d": "weapon",
+                "s": ""
+            },
+            {
+                "id": "zh-0624",
+                "w": "来自",
+                "p": "lái zì",
+                "d": "to come from (a place)",
+                "s": ""
+            },
+            {
+                "id": "zh-0625",
+                "w": "后面",
+                "p": "hòu mian",
+                "d": "the back; the rear; the last bit",
+                "s": ""
+            },
+            {
+                "id": "zh-0626",
+                "w": "小子",
+                "p": "xiǎo zǐ",
+                "d": "(literary) youngster",
+                "s": ""
+            },
+            {
+                "id": "zh-0627",
+                "w": "来到",
+                "p": "lái dào",
+                "d": "to arrive; to come",
+                "s": ""
+            },
+            {
+                "id": "zh-0628",
+                "w": "家人",
+                "p": "jiā rén",
+                "d": "family member",
+                "s": ""
+            },
+            {
+                "id": "zh-0629",
+                "w": "坐下",
+                "p": "zuò xia",
+                "d": "to sit down",
+                "s": ""
+            },
+            {
+                "id": "zh-0630",
+                "w": "未来",
+                "p": "wèi lái",
+                "d": "future",
+                "s": ""
+            },
+            {
+                "id": "zh-0631",
+                "w": "脸",
+                "p": "liǎn",
+                "d": "face",
+                "s": ""
+            },
+            {
+                "id": "zh-0632",
+                "w": "聪明",
+                "p": "cōng ming",
+                "d": "intelligent; clever; bright",
+                "s": ""
+            },
+            {
+                "id": "zh-0633",
+                "w": "报告",
+                "p": "bào gào",
+                "d": "to inform",
+                "s": ""
+            },
+            {
+                "id": "zh-0634",
+                "w": "冷静",
+                "p": "lěng jìng",
+                "d": "calm; cool-headed; dispassionate",
+                "s": ""
+            },
+            {
+                "id": "zh-0635",
+                "w": "怕",
+                "p": "pà",
+                "d": "to be afraid",
+                "s": ""
+            },
+            {
+                "id": "zh-0636",
+                "w": "厉害",
+                "p": "lì hai",
+                "d": "(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding",
+                "s": ""
+            },
+            {
+                "id": "zh-0637",
+                "w": "直接",
+                "p": "zhí jiē",
+                "d": "directly; direct",
+                "s": ""
+            },
+            {
+                "id": "zh-0638",
+                "w": "办公室",
+                "p": "bàn gōng shì",
+                "d": "office; business premises",
+                "s": ""
+            },
+            {
+                "id": "zh-0639",
+                "w": "停",
+                "p": "tíng",
+                "d": "to stop",
+                "s": ""
+            },
+            {
+                "id": "zh-0640",
+                "w": "鬼",
+                "p": "guǐ",
+                "d": "disembodied spirit; ghost; devil",
+                "s": ""
+            },
+            {
+                "id": "zh-0641",
+                "w": "检查",
+                "p": "jiǎn chá",
+                "d": "inspection",
+                "s": ""
+            },
+            {
+                "id": "zh-0642",
+                "w": "加油",
+                "p": "jiā yóu",
+                "d": "to add oil; to top up with gas; to refuel",
+                "s": ""
+            },
+            {
+                "id": "zh-0643",
+                "w": "负责",
+                "p": "fù zé",
+                "d": "to be responsible for; to be in charge of; to bear responsibility for",
+                "s": ""
+            },
+            {
+                "id": "zh-0644",
+                "w": "方法",
+                "p": "fāng fǎ",
+                "d": "method; way; technique; procedure",
+                "s": ""
+            },
+            {
+                "id": "zh-0645",
+                "w": "这位",
+                "p": "zhè wèi",
+                "d": "this (person)",
+                "s": ""
+            },
+            {
+                "id": "zh-0646",
+                "w": "年轻",
+                "p": "nián qīng",
+                "d": "young",
+                "s": ""
+            },
+            {
+                "id": "zh-0647",
+                "w": "即使",
+                "p": "jí shǐ",
+                "d": "even if; even though",
+                "s": ""
+            },
+            {
+                "id": "zh-0648",
+                "w": "本来",
+                "p": "běn lái",
+                "d": "original",
+                "s": ""
+            },
+            {
+                "id": "zh-0649",
+                "w": "本",
+                "p": "běn",
+                "d": "(bound form) root; stem",
+                "s": ""
+            },
+            {
+                "id": "zh-0650",
+                "w": "疯狂",
+                "p": "fēng kuáng",
+                "d": "crazy; frenzied; wild",
+                "s": ""
+            },
+            {
+                "id": "zh-0651",
+                "w": "大人",
+                "p": "dà ren",
+                "d": "adult",
+                "s": ""
+            },
+            {
+                "id": "zh-0652",
+                "w": "使用",
+                "p": "shǐ yòng",
+                "d": "to use",
+                "s": ""
+            },
+            {
+                "id": "zh-0653",
+                "w": "老板",
+                "p": "lǎo bǎn",
+                "d": "boss; proprietor",
+                "s": ""
+            },
+            {
+                "id": "zh-0654",
+                "w": "水",
+                "p": "shuǐ",
+                "d": "water",
+                "s": ""
+            },
+            {
+                "id": "zh-0655",
+                "w": "否则",
+                "p": "fǒu zé",
+                "d": "otherwise; if not; or (else)",
+                "s": ""
+            },
+            {
+                "id": "zh-0656",
+                "w": "答应",
+                "p": "dā ying",
+                "d": "to answer; to respond",
+                "s": ""
+            },
+            {
+                "id": "zh-0657",
+                "w": "证据",
+                "p": "zhèng jù",
+                "d": "evidence",
+                "s": ""
+            },
+            {
+                "id": "zh-0658",
+                "w": "可怕",
+                "p": "kě pà",
+                "d": "awful",
+                "s": ""
+            },
+            {
+                "id": "zh-0659",
+                "w": "拿到",
+                "p": "ná dào",
+                "d": "to get",
+                "s": ""
+            },
+            {
+                "id": "zh-0660",
+                "w": "快乐",
+                "p": "kuài lè",
+                "d": "happy; joyful",
+                "s": ""
+            },
+            {
+                "id": "zh-0661",
+                "w": "拥有",
+                "p": "yōng yǒu",
+                "d": "to have; to possess; to own",
+                "s": ""
+            },
+            {
+                "id": "zh-0662",
+                "w": "个人",
+                "p": "gè rén",
+                "d": "an individual; oneself; (attributive) personal; one's own",
+                "s": ""
+            },
+            {
+                "id": "zh-0663",
+                "w": "忘记",
+                "p": "wàng jì",
+                "d": "to forget",
+                "s": ""
+            },
+            {
+                "id": "zh-0664",
+                "w": "哭",
+                "p": "kū",
+                "d": "to cry; to weep",
+                "s": ""
+            },
+            {
+                "id": "zh-0665",
+                "w": "并且",
+                "p": "bìng qiě",
+                "d": "and; besides; moreover; furthermore; in addition",
+                "s": ""
+            },
+            {
+                "id": "zh-0666",
+                "w": "身边",
+                "p": "shēn biān",
+                "d": "at one's side",
+                "s": ""
+            },
+            {
+                "id": "zh-0667",
+                "w": "想到",
+                "p": "xiǎng dào",
+                "d": "to think of",
+                "s": ""
+            },
+            {
+                "id": "zh-0668",
+                "w": "等待",
+                "p": "děng dài",
+                "d": "to wait; to wait for",
+                "s": ""
+            },
+            {
+                "id": "zh-0669",
+                "w": "再说",
+                "p": "zài shuō",
+                "d": "to say again",
+                "s": ""
+            },
+            {
+                "id": "zh-0670",
+                "w": "事实",
+                "p": "shì shí",
+                "d": "fact",
+                "s": ""
+            },
+            {
+                "id": "zh-0671",
+                "w": "姑娘",
+                "p": "gū niang",
+                "d": "girl",
+                "s": ""
+            },
+            {
+                "id": "zh-0672",
+                "w": "联系",
+                "p": "lián xì",
+                "d": "connection",
+                "s": ""
+            },
+            {
+                "id": "zh-0673",
+                "w": "地球",
+                "p": "dì qiú",
+                "d": "the earth",
+                "s": ""
+            },
+            {
+                "id": "zh-0674",
+                "w": "命令",
+                "p": "mìng lìng",
+                "d": "order",
+                "s": ""
+            },
+            {
+                "id": "zh-0675",
+                "w": "阻止",
+                "p": "zǔ zhǐ",
+                "d": "to prevent",
+                "s": ""
+            },
+            {
+                "id": "zh-0676",
+                "w": "消失",
+                "p": "xiāo shī",
+                "d": "to disappear; to fade away",
+                "s": ""
+            },
+            {
+                "id": "zh-0677",
+                "w": "随便",
+                "p": "suí biàn",
+                "d": "as one wishes",
+                "s": ""
+            },
+            {
+                "id": "zh-0678",
+                "w": "心",
+                "p": "xīn",
+                "d": "heart",
+                "s": ""
+            },
+            {
+                "id": "zh-0679",
+                "w": "第",
+                "p": "dì",
+                "d": "(prefix indicating ordinal number, as in 第六 \"sixth\")",
+                "s": ""
+            },
+            {
+                "id": "zh-0680",
+                "w": "似乎",
+                "p": "sì hū",
+                "d": "it seems; seemingly; as if",
+                "s": ""
+            },
+            {
+                "id": "zh-0681",
+                "w": "开车",
+                "p": "kāi chē",
+                "d": "to drive a car (or train etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0682",
+                "w": "家庭",
+                "p": "jiā tíng",
+                "d": "family; household",
+                "s": ""
+            },
+            {
+                "id": "zh-0683",
+                "w": "尸体",
+                "p": "shī tǐ",
+                "d": "corpse; dead body",
+                "s": ""
+            },
+            {
+                "id": "zh-0684",
+                "w": "痛苦",
+                "p": "tòng kǔ",
+                "d": "pain",
+                "s": ""
+            },
+            {
+                "id": "zh-0685",
+                "w": "城市",
+                "p": "chéng shì",
+                "d": "city; town",
+                "s": ""
+            },
+            {
+                "id": "zh-0686",
+                "w": "力量",
+                "p": "lì liang",
+                "d": "power; force; strength",
+                "s": ""
+            },
+            {
+                "id": "zh-0687",
+                "w": "对于",
+                "p": "duì yú",
+                "d": "regarding; as far as (sth) is concerned; with regard to",
+                "s": ""
+            },
+            {
+                "id": "zh-0688",
+                "w": "男孩",
+                "p": "nán hái",
+                "d": "boy",
+                "s": ""
+            },
+            {
+                "id": "zh-0689",
+                "w": "三",
+                "p": "sān",
+                "d": "three",
+                "s": ""
+            },
+            {
+                "id": "zh-0690",
+                "w": "博士",
+                "p": "bó shì",
+                "d": "doctor (as an academic degree)",
+                "s": ""
+            },
+            {
+                "id": "zh-0691",
+                "w": "姐姐",
+                "p": "jiě jie",
+                "d": "older sister",
+                "s": ""
+            },
+            {
+                "id": "zh-0692",
+                "w": "总",
+                "p": "zǒng",
+                "d": "(bound form) general; overall",
+                "s": ""
+            },
+            {
+                "id": "zh-0693",
+                "w": "离",
+                "p": "lí",
+                "d": "to leave",
+                "s": ""
+            },
+            {
+                "id": "zh-0694",
+                "w": "放下",
+                "p": "fàng xià",
+                "d": "to lay down; to put down",
+                "s": ""
+            },
+            {
+                "id": "zh-0695",
+                "w": "不该",
+                "p": "bù gāi",
+                "d": "should not",
+                "s": ""
+            },
+            {
+                "id": "zh-0696",
+                "w": "昨天",
+                "p": "zuó tiān",
+                "d": "yesterday",
+                "s": ""
+            },
+            {
+                "id": "zh-0697",
+                "w": "紧张",
+                "p": "jǐn zhāng",
+                "d": "nervous",
+                "s": ""
+            },
+            {
+                "id": "zh-0698",
+                "w": "那天",
+                "p": "nà tiān",
+                "d": "that day",
+                "s": ""
+            },
+            {
+                "id": "zh-0699",
+                "w": "完美",
+                "p": "wán měi",
+                "d": "perfect",
+                "s": ""
+            },
+            {
+                "id": "zh-0700",
+                "w": "原来",
+                "p": "yuán lái",
+                "d": "original; former",
+                "s": ""
+            },
+            {
+                "id": "zh-0701",
+                "w": "监狱",
+                "p": "jiān yù",
+                "d": "prison",
+                "s": ""
+            },
+            {
+                "id": "zh-0702",
+                "w": "伟大",
+                "p": "wěi dà",
+                "d": "huge; great; grand; worthy of the greatest admiration; important (contribution etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0703",
+                "w": "简直",
+                "p": "jiǎn zhí",
+                "d": "simply; really",
+                "s": ""
+            },
+            {
+                "id": "zh-0704",
+                "w": "交给",
+                "p": "jiāo gěi",
+                "d": "to give; to deliver; to hand over",
+                "s": ""
+            },
+            {
+                "id": "zh-0705",
+                "w": "正常",
+                "p": "zhèng cháng",
+                "d": "normal; regular",
+                "s": ""
+            },
+            {
+                "id": "zh-0706",
+                "w": "以及",
+                "p": "yǐ jí",
+                "d": "and; as well as",
+                "s": ""
+            },
+            {
+                "id": "zh-0707",
+                "w": "重新",
+                "p": "chóng xīn",
+                "d": "again; once more; re-",
+                "s": ""
+            },
+            {
+                "id": "zh-0708",
+                "w": "研究",
+                "p": "yán jiū",
+                "d": "research",
+                "s": ""
+            },
+            {
+                "id": "zh-0709",
+                "w": "正确",
+                "p": "zhèng què",
+                "d": "correct; sound; right; proper",
+                "s": ""
+            },
+            {
+                "id": "zh-0710",
+                "w": "附近",
+                "p": "fù jìn",
+                "d": "nearby; neighboring",
+                "s": ""
+            },
+            {
+                "id": "zh-0711",
+                "w": "不然",
+                "p": "bù rán",
+                "d": "not so",
+                "s": ""
+            },
+            {
+                "id": "zh-0712",
+                "w": "坏",
+                "p": "huài",
+                "d": "bad",
+                "s": ""
+            },
+            {
+                "id": "zh-0713",
+                "w": "方正",
+                "p": "fāng zhèng",
+                "d": "clear and square",
+                "s": ""
+            },
+            {
+                "id": "zh-0714",
+                "w": "可怜",
+                "p": "kě lián",
+                "d": "pitiful",
+                "s": ""
+            },
+            {
+                "id": "zh-0715",
+                "w": "比较",
+                "p": "bǐ jiào",
+                "d": "to compare",
+                "s": ""
+            },
+            {
+                "id": "zh-0716",
+                "w": "字幕",
+                "p": "zì mù",
+                "d": "subtitles; captions (of a movie etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0717",
+                "w": "门",
+                "p": "mén",
+                "d": "gate; door; doorway; gateway; opening (CL:扇)",
+                "s": ""
+            },
+            {
+                "id": "zh-0718",
+                "w": "者",
+                "p": "zhě",
+                "d": "(after a verb or adjective) one who (is) ...",
+                "s": ""
+            },
+            {
+                "id": "zh-0719",
+                "w": "加入",
+                "p": "jiā rù",
+                "d": "to become a member",
+                "s": ""
+            },
+            {
+                "id": "zh-0720",
+                "w": "不够",
+                "p": "bù gòu",
+                "d": "not enough",
+                "s": ""
+            },
+            {
+                "id": "zh-0721",
+                "w": "安静",
+                "p": "ān jìng",
+                "d": "quiet",
+                "s": ""
+            },
+            {
+                "id": "zh-0722",
+                "w": "美丽",
+                "p": "měi lì",
+                "d": "beautiful",
+                "s": ""
+            },
+            {
+                "id": "zh-0723",
+                "w": "於",
+                "p": "wū",
+                "d": "(literary) Oh!",
+                "s": ""
+            },
+            {
+                "id": "zh-0724",
+                "w": "唱",
+                "p": "chàng",
+                "d": "to sing",
+                "s": ""
+            },
+            {
+                "id": "zh-0725",
+                "w": "反正",
+                "p": "fǎn zhèng",
+                "d": "anyway",
+                "s": ""
+            },
+            {
+                "id": "zh-0726",
+                "w": "记住",
+                "p": "jì zhu",
+                "d": "to remember",
+                "s": ""
+            },
+            {
+                "id": "zh-0727",
+                "w": "政府",
+                "p": "zhèng fǔ",
+                "d": "government",
+                "s": ""
+            },
+            {
+                "id": "zh-0728",
+                "w": "遇到",
+                "p": "yù dào",
+                "d": "to meet; to run into; to come across",
+                "s": ""
+            },
+            {
+                "id": "zh-0729",
+                "w": "咖啡",
+                "p": "kā fēi",
+                "d": "(loanword) coffee",
+                "s": ""
+            },
+            {
+                "id": "zh-0730",
+                "w": "有关",
+                "p": "yǒu guān",
+                "d": "to have sth to do with",
+                "s": ""
+            },
+            {
+                "id": "zh-0731",
+                "w": "接",
+                "p": "jiē",
+                "d": "to receive",
+                "s": ""
+            },
+            {
+                "id": "zh-0732",
+                "w": "仍然",
+                "p": "réng rán",
+                "d": "still; as before; yet",
+                "s": ""
+            },
+            {
+                "id": "zh-0733",
+                "w": "放开",
+                "p": "fàng kāi",
+                "d": "to let go",
+                "s": ""
+            },
+            {
+                "id": "zh-0734",
+                "w": "几乎",
+                "p": "jī hū",
+                "d": "almost; nearly; practically",
+                "s": ""
+            },
+            {
+                "id": "zh-0735",
+                "w": "代表",
+                "p": "dài biǎo",
+                "d": "representative",
+                "s": ""
+            },
+            {
+                "id": "zh-0736",
+                "w": "陪",
+                "p": "péi",
+                "d": "to accompany",
+                "s": ""
+            },
+            {
+                "id": "zh-0737",
+                "w": "若",
+                "p": "ruò",
+                "d": "to seem",
+                "s": ""
+            },
+            {
+                "id": "zh-0738",
+                "w": "国王",
+                "p": "guó wáng",
+                "d": "king",
+                "s": ""
+            },
+            {
+                "id": "zh-0739",
+                "w": "书",
+                "p": "shū",
+                "d": "book",
+                "s": ""
+            },
+            {
+                "id": "zh-0740",
+                "w": "打扰",
+                "p": "dǎ rǎo",
+                "d": "to disturb",
+                "s": ""
+            },
+            {
+                "id": "zh-0741",
+                "w": "原谅",
+                "p": "yuán liàng",
+                "d": "to excuse",
+                "s": ""
+            },
+            {
+                "id": "zh-0742",
+                "w": "发誓",
+                "p": "fā shì",
+                "d": "to vow",
+                "s": ""
+            },
+            {
+                "id": "zh-0743",
+                "w": "纽约",
+                "p": "niǔ yuē",
+                "d": "New York",
+                "s": ""
+            },
+            {
+                "id": "zh-0744",
+                "w": "位置",
+                "p": "wèi zhi",
+                "d": "position",
+                "s": ""
+            },
+            {
+                "id": "zh-0745",
+                "w": "偷",
+                "p": "tōu",
+                "d": "to steal",
+                "s": ""
+            },
+            {
+                "id": "zh-0746",
+                "w": "安排",
+                "p": "ān pái",
+                "d": "to arrange",
+                "s": ""
+            },
+            {
+                "id": "zh-0747",
+                "w": "表演",
+                "p": "biǎo yǎn",
+                "d": "play",
+                "s": ""
+            },
+            {
+                "id": "zh-0748",
+                "w": "从没",
+                "p": "cóng méi",
+                "d": "never (in the past)",
+                "s": ""
+            },
+            {
+                "id": "zh-0749",
+                "w": "除非",
+                "p": "chú fēi",
+                "d": "only if (..., or otherwise, ...)",
+                "s": ""
+            },
+            {
+                "id": "zh-0750",
+                "w": "办",
+                "p": "bàn",
+                "d": "to take care of (a matter); to deal with (a task, procedure etc); to organize (an event)",
+                "s": ""
+            },
+            {
+                "id": "zh-0751",
+                "w": "屁股",
+                "p": "pì gu",
+                "d": "buttocks",
+                "s": ""
+            },
+            {
+                "id": "zh-0752",
+                "w": "生气",
+                "p": "shēng qì",
+                "d": "to get angry; to be furious",
+                "s": ""
+            },
+            {
+                "id": "zh-0753",
+                "w": "酒",
+                "p": "jiǔ",
+                "d": "wine (esp. rice wine)",
+                "s": ""
+            },
+            {
+                "id": "zh-0754",
+                "w": "恩",
+                "p": "ēn",
+                "d": "favor; grace; kindness",
+                "s": ""
+            },
+            {
+                "id": "zh-0755",
+                "w": "手机",
+                "p": "shǒu jī",
+                "d": "cell phone; mobile phone",
+                "s": ""
+            },
+            {
+                "id": "zh-0756",
+                "w": "老兄",
+                "p": "lǎo xiōng",
+                "d": "elder brother (often used self-referentially)",
+                "s": ""
+            },
+            {
+                "id": "zh-0757",
+                "w": "支持",
+                "p": "zhī chí",
+                "d": "to be in favor of",
+                "s": ""
+            },
+            {
+                "id": "zh-0758",
+                "w": "必要",
+                "p": "bì yào",
+                "d": "necessary",
+                "s": ""
+            },
+            {
+                "id": "zh-0759",
+                "w": "错误",
+                "p": "cuò wù",
+                "d": "mistaken; false; wrong",
+                "s": ""
+            },
+            {
+                "id": "zh-0760",
+                "w": "人生",
+                "p": "rén shēng",
+                "d": "life (one's time on earth)",
+                "s": ""
+            },
+            {
+                "id": "zh-0761",
+                "w": "攻击",
+                "p": "gōng jī",
+                "d": "to attack",
+                "s": ""
+            },
+            {
+                "id": "zh-0762",
+                "w": "跟着",
+                "p": "gēn zhe",
+                "d": "to follow after",
+                "s": ""
+            },
+            {
+                "id": "zh-0763",
+                "w": "杀死",
+                "p": "shā sǐ",
+                "d": "to kill",
+                "s": ""
+            },
+            {
+                "id": "zh-0764",
+                "w": "钥匙",
+                "p": "yào shi",
+                "d": "key",
+                "s": ""
+            },
+            {
+                "id": "zh-0765",
+                "w": "叔叔",
+                "p": "shū shu",
+                "d": "father's younger brother; paternal uncle",
+                "s": ""
+            },
+            {
+                "id": "zh-0766",
+                "w": "食物",
+                "p": "shí wù",
+                "d": "food",
+                "s": ""
+            },
+            {
+                "id": "zh-0767",
+                "w": "妹妹",
+                "p": "mèi mei",
+                "d": "younger sister",
+                "s": ""
+            },
+            {
+                "id": "zh-0768",
+                "w": "建议",
+                "p": "jiàn yì",
+                "d": "to propose; to suggest; to recommend",
+                "s": ""
+            },
+            {
+                "id": "zh-0769",
+                "w": "骗",
+                "p": "piàn",
+                "d": "to cheat",
+                "s": ""
+            },
+            {
+                "id": "zh-0770",
+                "w": "梦",
+                "p": "mèng",
+                "d": "dream (CL:場|场)",
+                "s": ""
+            },
+            {
+                "id": "zh-0771",
+                "w": "斯",
+                "p": "sī",
+                "d": "(phonetic)",
+                "s": ""
+            },
+            {
+                "id": "zh-0772",
+                "w": "再次",
+                "p": "zài cì",
+                "d": "once more; once again",
+                "s": ""
+            },
+            {
+                "id": "zh-0773",
+                "w": "案子",
+                "p": "àn zi",
+                "d": "long table; counter",
+                "s": ""
+            },
+            {
+                "id": "zh-0774",
+                "w": "下面",
+                "p": "xià miàn",
+                "d": "below",
+                "s": ""
+            },
+            {
+                "id": "zh-0775",
+                "w": "听见",
+                "p": "tīng jiàn",
+                "d": "to hear",
+                "s": ""
+            },
+            {
+                "id": "zh-0776",
+                "w": "约",
+                "p": "yuē",
+                "d": "to make an appointment",
+                "s": ""
+            },
+            {
+                "id": "zh-0777",
+                "w": "坚持",
+                "p": "jiān chí",
+                "d": "to persevere with",
+                "s": ""
+            },
+            {
+                "id": "zh-0778",
+                "w": "严重",
+                "p": "yán zhòng",
+                "d": "grave; serious; severe; critical",
+                "s": ""
+            },
+            {
+                "id": "zh-0779",
+                "w": "哈",
+                "p": "hā",
+                "d": "(interj.) ha!",
+                "s": ""
+            },
+            {
+                "id": "zh-0780",
+                "w": "教",
+                "p": "jiào",
+                "d": "(bound form) to teach; to instruct",
+                "s": ""
+            },
+            {
+                "id": "zh-0781",
+                "w": "经常",
+                "p": "jīng cháng",
+                "d": "frequently; constantly; regularly; often",
+                "s": ""
+            },
+            {
+                "id": "zh-0782",
+                "w": "礼物",
+                "p": "lǐ wù",
+                "d": "gift; present",
+                "s": ""
+            },
+            {
+                "id": "zh-0783",
+                "w": "约会",
+                "p": "yuē huì",
+                "d": "appointment",
+                "s": ""
+            },
+            {
+                "id": "zh-0784",
+                "w": "首先",
+                "p": "shǒu xiān",
+                "d": "first of all; in the first place",
+                "s": ""
+            },
+            {
+                "id": "zh-0785",
+                "w": "另外",
+                "p": "lìng wài",
+                "d": "additional",
+                "s": ""
+            },
+            {
+                "id": "zh-0786",
+                "w": "提供",
+                "p": "tí gōng",
+                "d": "to offer",
+                "s": ""
+            },
+            {
+                "id": "zh-0787",
+                "w": "信",
+                "p": "xìn",
+                "d": "letter",
+                "s": ""
+            },
+            {
+                "id": "zh-0788",
+                "w": "组织",
+                "p": "zǔ zhī",
+                "d": "to organize",
+                "s": ""
+            },
+            {
+                "id": "zh-0789",
+                "w": "幸运",
+                "p": "xìng yùn",
+                "d": "fortunate; lucky",
+                "s": ""
+            },
+            {
+                "id": "zh-0790",
+                "w": "面前",
+                "p": "miàn qián",
+                "d": "in front of",
+                "s": ""
+            },
+            {
+                "id": "zh-0791",
+                "w": "日子",
+                "p": "rì zi",
+                "d": "day",
+                "s": ""
+            },
+            {
+                "id": "zh-0792",
+                "w": "动物",
+                "p": "dòng wù",
+                "d": "animal",
+                "s": ""
+            },
+            {
+                "id": "zh-0793",
+                "w": "敌人",
+                "p": "dí rén",
+                "d": "enemy",
+                "s": ""
+            },
+            {
+                "id": "zh-0794",
+                "w": "舒服",
+                "p": "shū fu",
+                "d": "comfortable",
+                "s": ""
+            },
+            {
+                "id": "zh-0795",
+                "w": "再也",
+                "p": "zài yě",
+                "d": "(not) ever again; (not) any longer",
+                "s": ""
+            },
+            {
+                "id": "zh-0796",
+                "w": "远",
+                "p": "yuǎn",
+                "d": "far",
+                "s": ""
+            },
+            {
+                "id": "zh-0797",
+                "w": "操",
+                "p": "cāo",
+                "d": "to grasp",
+                "s": ""
+            },
+            {
+                "id": "zh-0798",
+                "w": "早就",
+                "p": "zǎo jiù",
+                "d": "already at an earlier time",
+                "s": ""
+            },
+            {
+                "id": "zh-0799",
+                "w": "逼",
+                "p": "bī",
+                "d": "to force (sb to do sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-0800",
+                "w": "系统",
+                "p": "xì tǒng",
+                "d": "system",
+                "s": ""
+            },
+            {
+                "id": "zh-0801",
+                "w": "受伤",
+                "p": "shòu shāng",
+                "d": "to sustain injuries",
+                "s": ""
+            },
+            {
+                "id": "zh-0802",
+                "w": "中国",
+                "p": "zhōng guó",
+                "d": "China",
+                "s": ""
+            },
+            {
+                "id": "zh-0803",
+                "w": "信息",
+                "p": "xìn xī",
+                "d": "information; news; message",
+                "s": ""
+            },
+            {
+                "id": "zh-0804",
+                "w": "关心",
+                "p": "guān xīn",
+                "d": "to be concerned about; to care about",
+                "s": ""
+            },
+            {
+                "id": "zh-0805",
+                "w": "的确",
+                "p": "dí què",
+                "d": "really",
+                "s": ""
+            },
+            {
+                "id": "zh-0806",
+                "w": "星期",
+                "p": "xīng qī",
+                "d": "week",
+                "s": ""
+            },
+            {
+                "id": "zh-0807",
+                "w": "表现",
+                "p": "biǎo xiàn",
+                "d": "to show",
+                "s": ""
+            },
+            {
+                "id": "zh-0808",
+                "w": "不得不",
+                "p": "bù dé bù",
+                "d": "have no choice or option but to",
+                "s": ""
+            },
+            {
+                "id": "zh-0809",
+                "w": "寻找",
+                "p": "xún zhǎo",
+                "d": "to seek; to look for",
+                "s": ""
+            },
+            {
+                "id": "zh-0810",
+                "w": "放松",
+                "p": "fàng sōng",
+                "d": "to relax; to slacken; to loosen",
+                "s": ""
+            },
+            {
+                "id": "zh-0811",
+                "w": "船",
+                "p": "chuán",
+                "d": "boat",
+                "s": ""
+            },
+            {
+                "id": "zh-0812",
+                "w": "女",
+                "p": "nǚ",
+                "d": "female",
+                "s": ""
+            },
+            {
+                "id": "zh-0813",
+                "w": "那时",
+                "p": "nà shí",
+                "d": "then",
+                "s": ""
+            },
+            {
+                "id": "zh-0814",
+                "w": "二",
+                "p": "èr",
+                "d": "two",
+                "s": ""
+            },
+            {
+                "id": "zh-0815",
+                "w": "大学",
+                "p": "dà xué",
+                "d": "university; college",
+                "s": ""
+            },
+            {
+                "id": "zh-0816",
+                "w": "学生",
+                "p": "xué sheng",
+                "d": "student",
+                "s": ""
+            },
+            {
+                "id": "zh-0817",
+                "w": "将军",
+                "p": "jiāng jūn",
+                "d": "general",
+                "s": ""
+            },
+            {
+                "id": "zh-0818",
+                "w": "到处",
+                "p": "dào chù",
+                "d": "everywhere",
+                "s": ""
+            },
+            {
+                "id": "zh-0819",
+                "w": "第一",
+                "p": "dì yī",
+                "d": "first",
+                "s": ""
+            },
+            {
+                "id": "zh-0820",
+                "w": "见面",
+                "p": "jiàn miàn",
+                "d": "to meet; to see each other",
+                "s": ""
+            },
+            {
+                "id": "zh-0821",
+                "w": "日本",
+                "p": "rì běn",
+                "d": "Japan",
+                "s": ""
+            },
+            {
+                "id": "zh-0822",
+                "w": "理由",
+                "p": "lǐ yóu",
+                "d": "reason",
+                "s": ""
+            },
+            {
+                "id": "zh-0823",
+                "w": "事实上",
+                "p": "shì shí shàng",
+                "d": "in fact",
+                "s": ""
+            },
+            {
+                "id": "zh-0824",
+                "w": "阿",
+                "p": "ā",
+                "d": "prefix used before monosyllabic names, kinship terms etc to indicate familiarity",
+                "s": ""
+            },
+            {
+                "id": "zh-0825",
+                "w": "跳舞",
+                "p": "tiào wǔ",
+                "d": "to dance",
+                "s": ""
+            },
+            {
+                "id": "zh-0826",
+                "w": "拒绝",
+                "p": "jù jué",
+                "d": "to refuse; to decline; to reject",
+                "s": ""
+            },
+            {
+                "id": "zh-0827",
+                "w": "久",
+                "p": "jiǔ",
+                "d": "(of a period of time) long",
+                "s": ""
+            },
+            {
+                "id": "zh-0828",
+                "w": "几天",
+                "p": "jǐ tiān",
+                "d": "several days",
+                "s": ""
+            },
+            {
+                "id": "zh-0829",
+                "w": "丢",
+                "p": "diū",
+                "d": "to lose",
+                "s": ""
+            },
+            {
+                "id": "zh-0830",
+                "w": "怀疑",
+                "p": "huái yí",
+                "d": "to doubt (sth); to be skeptical of",
+                "s": ""
+            },
+            {
+                "id": "zh-0831",
+                "w": "信任",
+                "p": "xìn rèn",
+                "d": "to trust",
+                "s": ""
+            },
+            {
+                "id": "zh-0832",
+                "w": "记录",
+                "p": "jì lù",
+                "d": "to record",
+                "s": ""
+            },
+            {
+                "id": "zh-0833",
+                "w": "此",
+                "p": "cǐ",
+                "d": "this; these",
+                "s": ""
+            },
+            {
+                "id": "zh-0834",
+                "w": "认真",
+                "p": "rèn zhēn",
+                "d": "conscientious",
+                "s": ""
+            },
+            {
+                "id": "zh-0835",
+                "w": "战斗",
+                "p": "zhàn dòu",
+                "d": "to fight",
+                "s": ""
+            },
+            {
+                "id": "zh-0836",
+                "w": "许多",
+                "p": "xǔ duō",
+                "d": "many",
+                "s": ""
+            },
+            {
+                "id": "zh-0837",
+                "w": "差不多",
+                "p": "chà bu duō",
+                "d": "almost",
+                "s": ""
+            },
+            {
+                "id": "zh-0838",
+                "w": "开门",
+                "p": "kāi mén",
+                "d": "(lit. and fig.) to open a door",
+                "s": ""
+            },
+            {
+                "id": "zh-0839",
+                "w": "别说",
+                "p": "bié shuō",
+                "d": "to say nothing of; not to mention; let alone",
+                "s": ""
+            },
+            {
+                "id": "zh-0840",
+                "w": "神",
+                "p": "shén",
+                "d": "god; deity",
+                "s": ""
+            },
+            {
+                "id": "zh-0841",
+                "w": "之一",
+                "p": "zhī yī",
+                "d": "one of (sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-0842",
+                "w": "幸福",
+                "p": "xìng fú",
+                "d": "happiness",
+                "s": ""
+            },
+            {
+                "id": "zh-0843",
+                "w": "哎",
+                "p": "āi",
+                "d": "hey!",
+                "s": ""
+            },
+            {
+                "id": "zh-0844",
+                "w": "同样",
+                "p": "tóng yàng",
+                "d": "same; equal; similar",
+                "s": ""
+            },
+            {
+                "id": "zh-0845",
+                "w": "有时",
+                "p": "yǒu shí",
+                "d": "sometimes; now and then",
+                "s": ""
+            },
+            {
+                "id": "zh-0846",
+                "w": "影响",
+                "p": "yǐng xiǎng",
+                "d": "influence",
+                "s": ""
+            },
+            {
+                "id": "zh-0847",
+                "w": "便",
+                "p": "biàn",
+                "d": "plain",
+                "s": ""
+            },
+            {
+                "id": "zh-0848",
+                "w": "算",
+                "p": "suàn",
+                "d": "to calculate; to figure out",
+                "s": ""
+            },
+            {
+                "id": "zh-0849",
+                "w": "吃饭",
+                "p": "chī fàn",
+                "d": "to have a meal",
+                "s": ""
+            },
+            {
+                "id": "zh-0850",
+                "w": "正是",
+                "p": "zhèng shì",
+                "d": "is precisely",
+                "s": ""
+            },
+            {
+                "id": "zh-0851",
+                "w": "不必",
+                "p": "bù bì",
+                "d": "need not",
+                "s": ""
+            },
+            {
+                "id": "zh-0852",
+                "w": "而是",
+                "p": "ér shì",
+                "d": "rather",
+                "s": ""
+            },
+            {
+                "id": "zh-0853",
+                "w": "住手",
+                "p": "zhù shǒu",
+                "d": "to desist",
+                "s": ""
+            },
+            {
+                "id": "zh-0854",
+                "w": "走开",
+                "p": "zǒu kāi",
+                "d": "to leave; to walk away; to beat it",
+                "s": ""
+            },
+            {
+                "id": "zh-0855",
+                "w": "弟弟",
+                "p": "dì di",
+                "d": "younger brother",
+                "s": ""
+            },
+            {
+                "id": "zh-0856",
+                "w": "道歉",
+                "p": "dào qiàn",
+                "d": "to apologize",
+                "s": ""
+            },
+            {
+                "id": "zh-0857",
+                "w": "人家",
+                "p": "rén jiā",
+                "d": "household",
+                "s": ""
+            },
+            {
+                "id": "zh-0858",
+                "w": "意味着",
+                "p": "yì wèi zhe",
+                "d": "to signify",
+                "s": ""
+            },
+            {
+                "id": "zh-0859",
+                "w": "想象",
+                "p": "xiǎng xiàng",
+                "d": "to imagine; to envision",
+                "s": ""
+            },
+            {
+                "id": "zh-0860",
+                "w": "按",
+                "p": "àn",
+                "d": "to press",
+                "s": ""
+            },
+            {
+                "id": "zh-0861",
+                "w": "一会儿",
+                "p": "yī huì r",
+                "d": "a moment",
+                "s": ""
+            },
+            {
+                "id": "zh-0862",
+                "w": "承认",
+                "p": "chéng rèn",
+                "d": "to admit",
+                "s": ""
+            },
+            {
+                "id": "zh-0863",
+                "w": "每次",
+                "p": "měi cì",
+                "d": "each time; every time",
+                "s": ""
+            },
+            {
+                "id": "zh-0864",
+                "w": "万",
+                "p": "mò",
+                "d": "used in 万俟",
+                "s": ""
+            },
+            {
+                "id": "zh-0865",
+                "w": "银行",
+                "p": "yín háng",
+                "d": "bank",
+                "s": ""
+            },
+            {
+                "id": "zh-0866",
+                "w": "剩下",
+                "p": "shèng xià",
+                "d": "to remain; to be left over",
+                "s": ""
+            },
+            {
+                "id": "zh-0867",
+                "w": "足够",
+                "p": "zú gòu",
+                "d": "enough; sufficient",
+                "s": ""
+            },
+            {
+                "id": "zh-0868",
+                "w": "有事",
+                "p": "yǒu shì",
+                "d": "to be occupied with sth",
+                "s": ""
+            },
+            {
+                "id": "zh-0869",
+                "w": "老爸",
+                "p": "lǎo bà",
+                "d": "father; dad",
+                "s": ""
+            },
+            {
+                "id": "zh-0870",
+                "w": "全都",
+                "p": "quán dōu",
+                "d": "all",
+                "s": ""
+            },
+            {
+                "id": "zh-0871",
+                "w": "达",
+                "p": "dá",
+                "d": "to attain",
+                "s": ""
+            },
+            {
+                "id": "zh-0872",
+                "w": "看上去",
+                "p": "kàn shang qu",
+                "d": "it would appear",
+                "s": ""
+            },
+            {
+                "id": "zh-0873",
+                "w": "系",
+                "p": "xì",
+                "d": "system",
+                "s": ""
+            },
+            {
+                "id": "zh-0874",
+                "w": "无论",
+                "p": "wú lùn",
+                "d": "no matter what or how",
+                "s": ""
+            },
+            {
+                "id": "zh-0875",
+                "w": "老天",
+                "p": "lǎo tiān",
+                "d": "God",
+                "s": ""
+            },
+            {
+                "id": "zh-0876",
+                "w": "多么",
+                "p": "duō me",
+                "d": "how (wonderful etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0877",
+                "w": "变",
+                "p": "biàn",
+                "d": "to change",
+                "s": ""
+            },
+            {
+                "id": "zh-0878",
+                "w": "难",
+                "p": "nán",
+                "d": "difficult (to...)",
+                "s": ""
+            },
+            {
+                "id": "zh-0879",
+                "w": "分",
+                "p": "fēn",
+                "d": "to divide; to separate",
+                "s": ""
+            },
+            {
+                "id": "zh-0880",
+                "w": "哪个",
+                "p": "nǎ ge",
+                "d": "which",
+                "s": ""
+            },
+            {
+                "id": "zh-0881",
+                "w": "行为",
+                "p": "xíng wéi",
+                "d": "action; conduct; behavior; activity",
+                "s": ""
+            },
+            {
+                "id": "zh-0882",
+                "w": "往",
+                "p": "wǎng",
+                "d": "to go (in a direction)",
+                "s": ""
+            },
+            {
+                "id": "zh-0883",
+                "w": "适合",
+                "p": "shì hé",
+                "d": "to fit; to suit",
+                "s": ""
+            },
+            {
+                "id": "zh-0884",
+                "w": "学习",
+                "p": "xué xí",
+                "d": "to learn; to study",
+                "s": ""
+            },
+            {
+                "id": "zh-0885",
+                "w": "出发",
+                "p": "chū fā",
+                "d": "to set off",
+                "s": ""
+            },
+            {
+                "id": "zh-0886",
+                "w": "生意",
+                "p": "shēng yì",
+                "d": "life force",
+                "s": ""
+            },
+            {
+                "id": "zh-0887",
+                "w": "上去",
+                "p": "shàng qù",
+                "d": "to go up",
+                "s": ""
+            },
+            {
+                "id": "zh-0888",
+                "w": "值得",
+                "p": "zhí de",
+                "d": "worth the money",
+                "s": ""
+            },
+            {
+                "id": "zh-0889",
+                "w": "搞定",
+                "p": "gǎo dìng",
+                "d": "to fix",
+                "s": ""
+            },
+            {
+                "id": "zh-0890",
+                "w": "派对",
+                "p": "pài duì",
+                "d": "(loanword) party",
+                "s": ""
+            },
+            {
+                "id": "zh-0891",
+                "w": "同时",
+                "p": "tóng shí",
+                "d": "at the same time; simultaneously",
+                "s": ""
+            },
+            {
+                "id": "zh-0892",
+                "w": "下次",
+                "p": "xià cì",
+                "d": "next time",
+                "s": ""
+            },
+            {
+                "id": "zh-0893",
+                "w": "通知",
+                "p": "tōng zhī",
+                "d": "to notify",
+                "s": ""
+            },
+            {
+                "id": "zh-0894",
+                "w": "救命",
+                "p": "jiù mìng",
+                "d": "to save sb's life",
+                "s": ""
+            },
+            {
+                "id": "zh-0895",
+                "w": "无",
+                "p": "wú",
+                "d": "not to have",
+                "s": ""
+            },
+            {
+                "id": "zh-0896",
+                "w": "利用",
+                "p": "lì yòng",
+                "d": "to exploit",
+                "s": ""
+            },
+            {
+                "id": "zh-0897",
+                "w": "后来",
+                "p": "hòu lái",
+                "d": "afterwards; later",
+                "s": ""
+            },
+            {
+                "id": "zh-0898",
+                "w": "画",
+                "p": "huà",
+                "d": "to draw; to paint",
+                "s": ""
+            },
+            {
+                "id": "zh-0899",
+                "w": "早上好",
+                "p": "zǎo shang hǎo",
+                "d": "Good morning!",
+                "s": ""
+            },
+            {
+                "id": "zh-0900",
+                "w": "精神",
+                "p": "jīng shén",
+                "d": "spirit",
+                "s": ""
+            },
+            {
+                "id": "zh-0901",
+                "w": "居然",
+                "p": "jū rán",
+                "d": "unexpectedly",
+                "s": ""
+            },
+            {
+                "id": "zh-0902",
+                "w": "受到",
+                "p": "shòu dào",
+                "d": "to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-0903",
+                "w": "介绍",
+                "p": "jiè shào",
+                "d": "to introduce (sb to sb)",
+                "s": ""
+            },
+            {
+                "id": "zh-0904",
+                "w": "谢",
+                "p": "xiè",
+                "d": "to thank",
+                "s": ""
+            },
+            {
+                "id": "zh-0905",
+                "w": "既然",
+                "p": "jì rán",
+                "d": "since; as; this being the case",
+                "s": ""
+            },
+            {
+                "id": "zh-0906",
+                "w": "米",
+                "p": "mǐ",
+                "d": "uncooked rice",
+                "s": ""
+            },
+            {
+                "id": "zh-0907",
+                "w": "真相",
+                "p": "zhēn xiàng",
+                "d": "the truth about sth; the actual facts",
+                "s": ""
+            },
+            {
+                "id": "zh-0908",
+                "w": "电视",
+                "p": "diàn shì",
+                "d": "television; TV",
+                "s": ""
+            },
+            {
+                "id": "zh-0909",
+                "w": "恨",
+                "p": "hèn",
+                "d": "to hate",
+                "s": ""
+            },
+            {
+                "id": "zh-0910",
+                "w": "凶手",
+                "p": "xiōng shǒu",
+                "d": "murderer",
+                "s": ""
+            },
+            {
+                "id": "zh-0911",
+                "w": "卡",
+                "p": "kǎ",
+                "d": "to stop",
+                "s": ""
+            },
+            {
+                "id": "zh-0912",
+                "w": "没法",
+                "p": "méi fǎ",
+                "d": "at a loss",
+                "s": ""
+            },
+            {
+                "id": "zh-0913",
+                "w": "不知",
+                "p": "bù zhī",
+                "d": "not to know",
+                "s": ""
+            },
+            {
+                "id": "zh-0914",
+                "w": "警官",
+                "p": "jǐng guān",
+                "d": "constable; police officer",
+                "s": ""
+            },
+            {
+                "id": "zh-0915",
+                "w": "地狱",
+                "p": "dì yù",
+                "d": "hell; underworld; (Buddhism) Naraka",
+                "s": ""
+            },
+            {
+                "id": "zh-0916",
+                "w": "经历",
+                "p": "jīng lì",
+                "d": "to experience; to go through",
+                "s": ""
+            },
+            {
+                "id": "zh-0917",
+                "w": "属于",
+                "p": "shǔ yú",
+                "d": "to belong to; to fall under (a category)",
+                "s": ""
+            },
+            {
+                "id": "zh-0918",
+                "w": "饿",
+                "p": "è",
+                "d": "hungry",
+                "s": ""
+            },
+            {
+                "id": "zh-0919",
+                "w": "什",
+                "p": "shén",
+                "d": "what",
+                "s": ""
+            },
+            {
+                "id": "zh-0920",
+                "w": "威胁",
+                "p": "wēi xié",
+                "d": "to threaten; to menace",
+                "s": ""
+            },
+            {
+                "id": "zh-0921",
+                "w": "可不是",
+                "p": "kě bu shì",
+                "d": "(coll.) exactly!; indeed; that's for sure",
+                "s": ""
+            },
+            {
+                "id": "zh-0922",
+                "w": "怪",
+                "p": "guài",
+                "d": "odd; strange; uncanny",
+                "s": ""
+            },
+            {
+                "id": "zh-0923",
+                "w": "笨蛋",
+                "p": "bèn dàn",
+                "d": "(mild insult) fool; idiot",
+                "s": ""
+            },
+            {
+                "id": "zh-0924",
+                "w": "真实",
+                "p": "zhēn shí",
+                "d": "true; real",
+                "s": ""
+            },
+            {
+                "id": "zh-0925",
+                "w": "法律",
+                "p": "fǎ lǜ",
+                "d": "law",
+                "s": ""
+            },
+            {
+                "id": "zh-0926",
+                "w": "实在",
+                "p": "shí zài",
+                "d": "really",
+                "s": ""
+            },
+            {
+                "id": "zh-0927",
+                "w": "简体",
+                "p": "jiǎn tǐ",
+                "d": "simplified form of Chinese characters, as opposed to traditional form 繁體|繁体",
+                "s": ""
+            },
+            {
+                "id": "zh-0928",
+                "w": "什么样",
+                "p": "shén me yàng",
+                "d": "what kind?; what sort?",
+                "s": ""
+            },
+            {
+                "id": "zh-0929",
+                "w": "能力",
+                "p": "néng lì",
+                "d": "capability",
+                "s": ""
+            },
+            {
+                "id": "zh-0930",
+                "w": "婚礼",
+                "p": "hūn lǐ",
+                "d": "wedding ceremony",
+                "s": ""
+            },
+            {
+                "id": "zh-0931",
+                "w": "灵魂",
+                "p": "líng hún",
+                "d": "soul",
+                "s": ""
+            },
+            {
+                "id": "zh-0932",
+                "w": "客气",
+                "p": "kè qi",
+                "d": "polite",
+                "s": ""
+            },
+            {
+                "id": "zh-0933",
+                "w": "瞧",
+                "p": "qiáo",
+                "d": "to look at",
+                "s": ""
+            },
+            {
+                "id": "zh-0934",
+                "w": "白痴",
+                "p": "bái chī",
+                "d": "idiocy",
+                "s": ""
+            },
+            {
+                "id": "zh-0935",
+                "w": "换",
+                "p": "huàn",
+                "d": "to exchange",
+                "s": ""
+            },
+            {
+                "id": "zh-0936",
+                "w": "英国",
+                "p": "yīng guó",
+                "d": "United Kingdom (UK); Britain",
+                "s": ""
+            },
+            {
+                "id": "zh-0937",
+                "w": "其",
+                "p": "qí",
+                "d": "his",
+                "s": ""
+            },
+            {
+                "id": "zh-0938",
+                "w": "允许",
+                "p": "yǔn xǔ",
+                "d": "to permit; to allow",
+                "s": ""
+            },
+            {
+                "id": "zh-0939",
+                "w": "德",
+                "p": "dé",
+                "d": "virtue",
+                "s": ""
+            },
+            {
+                "id": "zh-0940",
+                "w": "交易",
+                "p": "jiāo yì",
+                "d": "to deal; to trade; to transact",
+                "s": ""
+            },
+            {
+                "id": "zh-0941",
+                "w": "梦想",
+                "p": "mèng xiǎng",
+                "d": "(fig.) to dream of",
+                "s": ""
+            },
+            {
+                "id": "zh-0942",
+                "w": "杀人",
+                "p": "shā rén",
+                "d": "to kill a person; to commit murder",
+                "s": ""
+            },
+            {
+                "id": "zh-0943",
+                "w": "多谢",
+                "p": "duō xiè",
+                "d": "many thanks",
+                "s": ""
+            },
+            {
+                "id": "zh-0944",
+                "w": "管",
+                "p": "guǎn",
+                "d": "to take care (of)",
+                "s": ""
+            },
+            {
+                "id": "zh-0945",
+                "w": "意义",
+                "p": "yì yì",
+                "d": "sense",
+                "s": ""
+            },
+            {
+                "id": "zh-0946",
+                "w": "或是",
+                "p": "huò shì",
+                "d": "or",
+                "s": ""
+            },
+            {
+                "id": "zh-0947",
+                "w": "美",
+                "p": "měi",
+                "d": "beautiful",
+                "s": ""
+            },
+            {
+                "id": "zh-0948",
+                "w": "教授",
+                "p": "jiāo shòu",
+                "d": "to teach (a subject)",
+                "s": ""
+            },
+            {
+                "id": "zh-0949",
+                "w": "军队",
+                "p": "jūn duì",
+                "d": "armed forces; troops",
+                "s": ""
+            },
+            {
+                "id": "zh-0950",
+                "w": "享受",
+                "p": "xiǎng shòu",
+                "d": "to enjoy",
+                "s": ""
+            },
+            {
+                "id": "zh-0951",
+                "w": "喝酒",
+                "p": "hē jiǔ",
+                "d": "to drink (alcohol)",
+                "s": ""
+            },
+            {
+                "id": "zh-0952",
+                "w": "好多",
+                "p": "hǎo duō",
+                "d": "many",
+                "s": ""
+            },
+            {
+                "id": "zh-0953",
+                "w": "接下来",
+                "p": "jiē xià lái",
+                "d": "to accept",
+                "s": ""
+            },
+            {
+                "id": "zh-0954",
+                "w": "腿",
+                "p": "tuǐ",
+                "d": "leg",
+                "s": ""
+            },
+            {
+                "id": "zh-0955",
+                "w": "合作",
+                "p": "hé zuò",
+                "d": "to cooperate; to collaborate; to work together",
+                "s": ""
+            },
+            {
+                "id": "zh-0956",
+                "w": "女朋友",
+                "p": "nǚ péng you",
+                "d": "girlfriend",
+                "s": ""
+            },
+            {
+                "id": "zh-0957",
+                "w": "好吃",
+                "p": "hǎo chī",
+                "d": "tasty; delicious",
+                "s": ""
+            },
+            {
+                "id": "zh-0958",
+                "w": "事件",
+                "p": "shì jiàn",
+                "d": "incident; event",
+                "s": ""
+            },
+            {
+                "id": "zh-0959",
+                "w": "酒吧",
+                "p": "jiǔ bā",
+                "d": "bar (place to buy drinks)",
+                "s": ""
+            },
+            {
+                "id": "zh-0960",
+                "w": "不如",
+                "p": "bù rú",
+                "d": "not equal to; not as good as; inferior to",
+                "s": ""
+            },
+            {
+                "id": "zh-0961",
+                "w": "指",
+                "p": "zhǐ",
+                "d": "finger",
+                "s": ""
+            },
+            {
+                "id": "zh-0962",
+                "w": "新闻",
+                "p": "xīn wén",
+                "d": "news",
+                "s": ""
+            },
+            {
+                "id": "zh-0963",
+                "w": "历史",
+                "p": "lì shǐ",
+                "d": "history",
+                "s": ""
+            },
+            {
+                "id": "zh-0964",
+                "w": "动",
+                "p": "dòng",
+                "d": "(of sth) to move",
+                "s": ""
+            },
+            {
+                "id": "zh-0965",
+                "w": "客人",
+                "p": "kè rén",
+                "d": "visitor; guest",
+                "s": ""
+            },
+            {
+                "id": "zh-0966",
+                "w": "经过",
+                "p": "jīng guò",
+                "d": "to pass",
+                "s": ""
+            },
+            {
+                "id": "zh-0967",
+                "w": "英雄",
+                "p": "yīng xióng",
+                "d": "hero",
+                "s": ""
+            },
+            {
+                "id": "zh-0968",
+                "w": "头发",
+                "p": "tóu fa",
+                "d": "hair (on the head)",
+                "s": ""
+            },
+            {
+                "id": "zh-0969",
+                "w": "傻",
+                "p": "shǎ",
+                "d": "foolish",
+                "s": ""
+            },
+            {
+                "id": "zh-0970",
+                "w": "血",
+                "p": "xuè",
+                "d": "blood",
+                "s": ""
+            },
+            {
+                "id": "zh-0971",
+                "w": "扔",
+                "p": "rēng",
+                "d": "to throw",
+                "s": ""
+            },
+            {
+                "id": "zh-0972",
+                "w": "藏",
+                "p": "cáng",
+                "d": "to conceal",
+                "s": ""
+            },
+            {
+                "id": "zh-0973",
+                "w": "自杀",
+                "p": "zì shā",
+                "d": "to kill oneself",
+                "s": ""
+            },
+            {
+                "id": "zh-0974",
+                "w": "失败",
+                "p": "shī bài",
+                "d": "to be defeated",
+                "s": ""
+            },
+            {
+                "id": "zh-0975",
+                "w": "获得",
+                "p": "huò dé",
+                "d": "to obtain; to receive; to get",
+                "s": ""
+            },
+            {
+                "id": "zh-0976",
+                "w": "不见",
+                "p": "bù jiàn",
+                "d": "not to see",
+                "s": ""
+            },
+            {
+                "id": "zh-0977",
+                "w": "称",
+                "p": "chēng",
+                "d": "to weigh",
+                "s": ""
+            },
+            {
+                "id": "zh-0978",
+                "w": "意识",
+                "p": "yì shí",
+                "d": "consciousness; awareness",
+                "s": ""
+            },
+            {
+                "id": "zh-0979",
+                "w": "试图",
+                "p": "shì tú",
+                "d": "to attempt",
+                "s": ""
+            },
+            {
+                "id": "zh-0980",
+                "w": "恭喜",
+                "p": "gōng xǐ",
+                "d": "to congratulate",
+                "s": ""
+            },
+            {
+                "id": "zh-0981",
+                "w": "上次",
+                "p": "shàng cì",
+                "d": "last time",
+                "s": ""
+            },
+            {
+                "id": "zh-0982",
+                "w": "根据",
+                "p": "gēn jù",
+                "d": "according to",
+                "s": ""
+            },
+            {
+                "id": "zh-0983",
+                "w": "吓",
+                "p": "xià",
+                "d": "to frighten",
+                "s": ""
+            },
+            {
+                "id": "zh-0984",
+                "w": "权利",
+                "p": "quán lì",
+                "d": "right (i.e. an entitlement to sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-0985",
+                "w": "不在乎",
+                "p": "bù zài hu",
+                "d": "not to care",
+                "s": ""
+            },
+            {
+                "id": "zh-0986",
+                "w": "生",
+                "p": "shēng",
+                "d": "to grow; to give birth; to produce; to be born",
+                "s": ""
+            },
+            {
+                "id": "zh-0987",
+                "w": "队",
+                "p": "duì",
+                "d": "squadron",
+                "s": ""
+            },
+            {
+                "id": "zh-0988",
+                "w": "没用",
+                "p": "méi yòng",
+                "d": "useless",
+                "s": ""
+            },
+            {
+                "id": "zh-0989",
+                "w": "路上",
+                "p": "lù shang",
+                "d": "on the road",
+                "s": ""
+            },
+            {
+                "id": "zh-0990",
+                "w": "接近",
+                "p": "jiē jìn",
+                "d": "to approach; to get close to",
+                "s": ""
+            },
+            {
+                "id": "zh-0991",
+                "w": "不准",
+                "p": "bù zhǔn",
+                "d": "not to allow",
+                "s": ""
+            },
+            {
+                "id": "zh-0992",
+                "w": "碰",
+                "p": "pèng",
+                "d": "to touch",
+                "s": ""
+            },
+            {
+                "id": "zh-0993",
+                "w": "一旦",
+                "p": "yī dàn",
+                "d": "in case (sth happens)",
+                "s": ""
+            },
+            {
+                "id": "zh-0994",
+                "w": "味道",
+                "p": "wèi dao",
+                "d": "flavor; taste",
+                "s": ""
+            },
+            {
+                "id": "zh-0995",
+                "w": "实际上",
+                "p": "shí jì shàng",
+                "d": "in fact",
+                "s": ""
+            },
+            {
+                "id": "zh-0996",
+                "w": "感受",
+                "p": "gǎn shòu",
+                "d": "to sense",
+                "s": ""
+            },
+            {
+                "id": "zh-0997",
+                "w": "处",
+                "p": "chù",
+                "d": "(bound form) place; locality",
+                "s": ""
+            },
+            {
+                "id": "zh-0998",
+                "w": "身份",
+                "p": "shēn fèn",
+                "d": "identity; aspect of one's identity (e.g. mayor, father, permanent resident); role; capacity (as in \"in his capacity as ...\" 以 + ... + 的身份); status (social, legal etc); position; rank",
+                "s": ""
+            },
+            {
+                "id": "zh-0999",
+                "w": "意外",
+                "p": "yì wài",
+                "d": "unexpected",
+                "s": ""
+            },
+            {
+                "id": "zh-1000",
+                "w": "一般",
+                "p": "yī bān",
+                "d": "same",
+                "s": ""
+            },
+            {
+                "id": "zh-1001",
+                "w": "显然",
+                "p": "xiǎn rán",
+                "d": "clearly; evidently; obviously",
+                "s": ""
+            },
+            {
+                "id": "zh-1002",
+                "w": "停下",
+                "p": "tíng xià",
+                "d": "to stop",
+                "s": ""
+            },
+            {
+                "id": "zh-1003",
+                "w": "拜",
+                "p": "bài",
+                "d": "to bow to; to pay one's respects",
+                "s": ""
+            },
+            {
+                "id": "zh-1004",
+                "w": "婊子",
+                "p": "biǎo zi",
+                "d": "prostitute",
+                "s": ""
+            },
+            {
+                "id": "zh-1005",
+                "w": "谋杀",
+                "p": "móu shā",
+                "d": "to murder",
+                "s": ""
+            },
+            {
+                "id": "zh-1006",
+                "w": "呼吸",
+                "p": "hū xī",
+                "d": "to breathe",
+                "s": ""
+            },
+            {
+                "id": "zh-1007",
+                "w": "训练",
+                "p": "xùn liàn",
+                "d": "to train",
+                "s": ""
+            },
+            {
+                "id": "zh-1008",
+                "w": "乔治",
+                "p": "qiáo zhì",
+                "d": "George (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1009",
+                "w": "目前",
+                "p": "mù qián",
+                "d": "at the present time",
+                "s": ""
+            },
+            {
+                "id": "zh-1010",
+                "w": "有时候",
+                "p": "yǒu shí hou",
+                "d": "sometimes",
+                "s": ""
+            },
+            {
+                "id": "zh-1011",
+                "w": "迟到",
+                "p": "chí dào",
+                "d": "to arrive late",
+                "s": ""
+            },
+            {
+                "id": "zh-1012",
+                "w": "男",
+                "p": "nán",
+                "d": "(bound form) male",
+                "s": ""
+            },
+            {
+                "id": "zh-1013",
+                "w": "尝试",
+                "p": "cháng shì",
+                "d": "to try (to see what it's like or whether one can do it)",
+                "s": ""
+            },
+            {
+                "id": "zh-1014",
+                "w": "老大",
+                "p": "lǎo dà",
+                "d": "old age",
+                "s": ""
+            },
+            {
+                "id": "zh-1015",
+                "w": "间",
+                "p": "jiān",
+                "d": "between",
+                "s": ""
+            },
+            {
+                "id": "zh-1016",
+                "w": "受",
+                "p": "shòu",
+                "d": "to receive",
+                "s": ""
+            },
+            {
+                "id": "zh-1017",
+                "w": "愚蠢",
+                "p": "yú chǔn",
+                "d": "silly",
+                "s": ""
+            },
+            {
+                "id": "zh-1018",
+                "w": "算了",
+                "p": "suàn le",
+                "d": "let it be",
+                "s": ""
+            },
+            {
+                "id": "zh-1019",
+                "w": "讨论",
+                "p": "tǎo lùn",
+                "d": "to discuss; to talk over",
+                "s": ""
+            },
+            {
+                "id": "zh-1020",
+                "w": "在家",
+                "p": "zài jiā",
+                "d": "to be at home",
+                "s": ""
+            },
+            {
+                "id": "zh-1021",
+                "w": "一家",
+                "p": "yī jiā",
+                "d": "the whole family",
+                "s": ""
+            },
+            {
+                "id": "zh-1022",
+                "w": "麦克",
+                "p": "mài kè",
+                "d": "(loanword) microphone",
+                "s": ""
+            },
+            {
+                "id": "zh-1023",
+                "w": "如",
+                "p": "rú",
+                "d": "as",
+                "s": ""
+            },
+            {
+                "id": "zh-1024",
+                "w": "道",
+                "p": "dào",
+                "d": "road; path (CL:條|条,股)",
+                "s": ""
+            },
+            {
+                "id": "zh-1025",
+                "w": "一会",
+                "p": "yī huì",
+                "d": "a moment",
+                "s": ""
+            },
+            {
+                "id": "zh-1026",
+                "w": "究竟",
+                "p": "jiū jìng",
+                "d": "to go to the bottom of a matter",
+                "s": ""
+            },
+            {
+                "id": "zh-1027",
+                "w": "戴",
+                "p": "dài",
+                "d": "to put on or wear (glasses, hat, gloves etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1028",
+                "w": "一块",
+                "p": "yī kuài",
+                "d": "a piece; a chunk",
+                "s": ""
+            },
+            {
+                "id": "zh-1029",
+                "w": "立刻",
+                "p": "lì kè",
+                "d": "immediately; at once; right away",
+                "s": ""
+            },
+            {
+                "id": "zh-1030",
+                "w": "特",
+                "p": "tè",
+                "d": "special",
+                "s": ""
+            },
+            {
+                "id": "zh-1031",
+                "w": "躺",
+                "p": "tǎng",
+                "d": "to recline",
+                "s": ""
+            },
+            {
+                "id": "zh-1032",
+                "w": "文件",
+                "p": "wén jiàn",
+                "d": "document",
+                "s": ""
+            },
+            {
+                "id": "zh-1033",
+                "w": "敢",
+                "p": "gǎn",
+                "d": "to dare",
+                "s": ""
+            },
+            {
+                "id": "zh-1034",
+                "w": "慢慢",
+                "p": "màn màn",
+                "d": "slowly; gradually",
+                "s": ""
+            },
+            {
+                "id": "zh-1035",
+                "w": "前面",
+                "p": "qián miàn",
+                "d": "ahead",
+                "s": ""
+            },
+            {
+                "id": "zh-1036",
+                "w": "奶奶",
+                "p": "nǎi nai",
+                "d": "(informal) grandma (paternal grandmother)",
+                "s": ""
+            },
+            {
+                "id": "zh-1037",
+                "w": "黑",
+                "p": "hēi",
+                "d": "black",
+                "s": ""
+            },
+            {
+                "id": "zh-1038",
+                "w": "确认",
+                "p": "què rèn",
+                "d": "to confirm",
+                "s": ""
+            },
+            {
+                "id": "zh-1039",
+                "w": "答案",
+                "p": "dá àn",
+                "d": "answer",
+                "s": ""
+            },
+            {
+                "id": "zh-1040",
+                "w": "滚",
+                "p": "gǔn",
+                "d": "to boil",
+                "s": ""
+            },
+            {
+                "id": "zh-1041",
+                "w": "棒",
+                "p": "bàng",
+                "d": "stick",
+                "s": ""
+            },
+            {
+                "id": "zh-1042",
+                "w": "可不",
+                "p": "kě bu",
+                "d": "see 可不是",
+                "s": ""
+            },
+            {
+                "id": "zh-1043",
+                "w": "挂",
+                "p": "guà",
+                "d": "to hang; to suspend (from a hook etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1044",
+                "w": "法国",
+                "p": "fǎ guó",
+                "d": "France",
+                "s": ""
+            },
+            {
+                "id": "zh-1045",
+                "w": "欠",
+                "p": "qiàn",
+                "d": "to owe",
+                "s": ""
+            },
+            {
+                "id": "zh-1046",
+                "w": "一遍",
+                "p": "yī biàn",
+                "d": "one time (all the way through)",
+                "s": ""
+            },
+            {
+                "id": "zh-1047",
+                "w": "做出",
+                "p": "zuò chū",
+                "d": "to put out",
+                "s": ""
+            },
+            {
+                "id": "zh-1048",
+                "w": "赶快",
+                "p": "gǎn kuài",
+                "d": "quickly; at once",
+                "s": ""
+            },
+            {
+                "id": "zh-1049",
+                "w": "最终",
+                "p": "zuì zhōng",
+                "d": "final; ultimate",
+                "s": ""
+            },
+            {
+                "id": "zh-1050",
+                "w": "飞",
+                "p": "fēi",
+                "d": "to fly",
+                "s": ""
+            },
+            {
+                "id": "zh-1051",
+                "w": "追",
+                "p": "zhuī",
+                "d": "to chase",
+                "s": ""
+            },
+            {
+                "id": "zh-1052",
+                "w": "下午",
+                "p": "xià wǔ",
+                "d": "afternoon",
+                "s": ""
+            },
+            {
+                "id": "zh-1053",
+                "w": "德国",
+                "p": "dé guó",
+                "d": "Germany",
+                "s": ""
+            },
+            {
+                "id": "zh-1054",
+                "w": "赶紧",
+                "p": "gǎn jǐn",
+                "d": "hurriedly",
+                "s": ""
+            },
+            {
+                "id": "zh-1055",
+                "w": "仍",
+                "p": "réng",
+                "d": "still; yet",
+                "s": ""
+            },
+            {
+                "id": "zh-1056",
+                "w": "发",
+                "p": "fā",
+                "d": "to send out",
+                "s": ""
+            },
+            {
+                "id": "zh-1057",
+                "w": "部分",
+                "p": "bù fen",
+                "d": "part; portion; piece",
+                "s": ""
+            },
+            {
+                "id": "zh-1058",
+                "w": "活",
+                "p": "huó",
+                "d": "to live",
+                "s": ""
+            },
+            {
+                "id": "zh-1059",
+                "w": "带走",
+                "p": "dài zǒu",
+                "d": "to carry; to take away",
+                "s": ""
+            },
+            {
+                "id": "zh-1060",
+                "w": "对方",
+                "p": "duì fāng",
+                "d": "the other person; the other side; the other party",
+                "s": ""
+            },
+            {
+                "id": "zh-1061",
+                "w": "邀请",
+                "p": "yāo qǐng",
+                "d": "to invite",
+                "s": ""
+            },
+            {
+                "id": "zh-1062",
+                "w": "竟然",
+                "p": "jìng rán",
+                "d": "unexpectedly",
+                "s": ""
+            },
+            {
+                "id": "zh-1063",
+                "w": "将会",
+                "p": "jiāng huì",
+                "d": "auxiliary verb introducing future action: may (be able to)",
+                "s": ""
+            },
+            {
+                "id": "zh-1064",
+                "w": "破坏",
+                "p": "pò huài",
+                "d": "destruction",
+                "s": ""
+            },
+            {
+                "id": "zh-1065",
+                "w": "一生",
+                "p": "yī shēng",
+                "d": "all one's life; throughout one's life",
+                "s": ""
+            },
+            {
+                "id": "zh-1066",
+                "w": "黑暗",
+                "p": "hēi àn",
+                "d": "dark",
+                "s": ""
+            },
+            {
+                "id": "zh-1067",
+                "w": "面对",
+                "p": "miàn duì",
+                "d": "to face; to confront",
+                "s": ""
+            },
+            {
+                "id": "zh-1068",
+                "w": "中心",
+                "p": "zhōng xīn",
+                "d": "center; heart; core",
+                "s": ""
+            },
+            {
+                "id": "zh-1069",
+                "w": "警告",
+                "p": "jǐng gào",
+                "d": "to warn",
+                "s": ""
+            },
+            {
+                "id": "zh-1070",
+                "w": "大哥",
+                "p": "dà gē",
+                "d": "eldest brother",
+                "s": ""
+            },
+            {
+                "id": "zh-1071",
+                "w": "碞",
+                "p": "yán",
+                "d": "cliff",
+                "s": ""
+            },
+            {
+                "id": "zh-1072",
+                "w": "节目",
+                "p": "jié mù",
+                "d": "(TV or radio) program; show",
+                "s": ""
+            },
+            {
+                "id": "zh-1073",
+                "w": "现场",
+                "p": "xiàn chǎng",
+                "d": "the scene (of a crime, accident etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1074",
+                "w": "脚",
+                "p": "jiǎo",
+                "d": "foot",
+                "s": ""
+            },
+            {
+                "id": "zh-1075",
+                "w": "尽管",
+                "p": "jǐn guǎn",
+                "d": "despite",
+                "s": ""
+            },
+            {
+                "id": "zh-1076",
+                "w": "令人",
+                "p": "lìng rén",
+                "d": "to cause one (to do sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-1077",
+                "w": "街",
+                "p": "jiē",
+                "d": "street",
+                "s": ""
+            },
+            {
+                "id": "zh-1078",
+                "w": "越",
+                "p": "yuè",
+                "d": "to exceed",
+                "s": ""
+            },
+            {
+                "id": "zh-1079",
+                "w": "搬",
+                "p": "bān",
+                "d": "to move (i.e. relocate oneself)",
+                "s": ""
+            },
+            {
+                "id": "zh-1080",
+                "w": "好人",
+                "p": "hǎo rén",
+                "d": "good person",
+                "s": ""
+            },
+            {
+                "id": "zh-1081",
+                "w": "穿着",
+                "p": "chuān zhuó",
+                "d": "attire; clothes; dress",
+                "s": ""
+            },
+            {
+                "id": "zh-1082",
+                "w": "少",
+                "p": "shǎo",
+                "d": "few",
+                "s": ""
+            },
+            {
+                "id": "zh-1083",
+                "w": "超过",
+                "p": "chāo guò",
+                "d": "to surpass",
+                "s": ""
+            },
+            {
+                "id": "zh-1084",
+                "w": "恐怕",
+                "p": "kǒng pà",
+                "d": "fear",
+                "s": ""
+            },
+            {
+                "id": "zh-1085",
+                "w": "病",
+                "p": "bìng",
+                "d": "illness",
+                "s": ""
+            },
+            {
+                "id": "zh-1086",
+                "w": "弗兰克",
+                "p": "fú lán kè",
+                "d": "Frank (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1087",
+                "w": "还给",
+                "p": "huán gěi",
+                "d": "to return sth to sb",
+                "s": ""
+            },
+            {
+                "id": "zh-1088",
+                "w": "玛丽",
+                "p": "mǎ lì",
+                "d": "Mary or Marie (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1089",
+                "w": "选",
+                "p": "xuǎn",
+                "d": "to choose",
+                "s": ""
+            },
+            {
+                "id": "zh-1090",
+                "w": "爆炸",
+                "p": "bào zhà",
+                "d": "explosion",
+                "s": ""
+            },
+            {
+                "id": "zh-1091",
+                "w": "反对",
+                "p": "fǎn duì",
+                "d": "to oppose; to be against; to object to",
+                "s": ""
+            },
+            {
+                "id": "zh-1092",
+                "w": "因",
+                "p": "yīn",
+                "d": "cause",
+                "s": ""
+            },
+            {
+                "id": "zh-1093",
+                "w": "美好",
+                "p": "měi hǎo",
+                "d": "beautiful",
+                "s": ""
+            },
+            {
+                "id": "zh-1094",
+                "w": "校对",
+                "p": "jiào duì",
+                "d": "proofreader",
+                "s": ""
+            },
+            {
+                "id": "zh-1095",
+                "w": "炸弹",
+                "p": "zhà dàn",
+                "d": "bomb",
+                "s": ""
+            },
+            {
+                "id": "zh-1096",
+                "w": "放心",
+                "p": "fàng xīn",
+                "d": "to feel relieved",
+                "s": ""
+            },
+            {
+                "id": "zh-1097",
+                "w": "一边",
+                "p": "yī biān",
+                "d": "one side",
+                "s": ""
+            },
+            {
+                "id": "zh-1098",
+                "w": "长大",
+                "p": "zhǎng dà",
+                "d": "to grow up",
+                "s": ""
+            },
+            {
+                "id": "zh-1099",
+                "w": "爱情",
+                "p": "ài qíng",
+                "d": "romance; love (romantic)",
+                "s": ""
+            },
+            {
+                "id": "zh-1100",
+                "w": "微软",
+                "p": "wēi ruǎn",
+                "d": "Microsoft Corporation",
+                "s": ""
+            },
+            {
+                "id": "zh-1101",
+                "w": "令",
+                "p": "lìng",
+                "d": "to order",
+                "s": ""
+            },
+            {
+                "id": "zh-1102",
+                "w": "辛苦",
+                "p": "xīn kǔ",
+                "d": "exhausting",
+                "s": ""
+            },
+            {
+                "id": "zh-1103",
+                "w": "撒谎",
+                "p": "sā huǎng",
+                "d": "to tell lies",
+                "s": ""
+            },
+            {
+                "id": "zh-1104",
+                "w": "药",
+                "p": "yào",
+                "d": "leaf of the iris",
+                "s": ""
+            },
+            {
+                "id": "zh-1105",
+                "w": "美元",
+                "p": "měi yuán",
+                "d": "American dollar; US dollar",
+                "s": ""
+            },
+            {
+                "id": "zh-1106",
+                "w": "汤姆",
+                "p": "tāng mǔ",
+                "d": "Tom (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1107",
+                "w": "吻",
+                "p": "wěn",
+                "d": "kiss",
+                "s": ""
+            },
+            {
+                "id": "zh-1108",
+                "w": "块",
+                "p": "kuài",
+                "d": "lump; chunk; piece",
+                "s": ""
+            },
+            {
+                "id": "zh-1109",
+                "w": "队长",
+                "p": "duì zhǎng",
+                "d": "captain",
+                "s": ""
+            },
+            {
+                "id": "zh-1110",
+                "w": "收拾",
+                "p": "shōu shi",
+                "d": "to put in order",
+                "s": ""
+            },
+            {
+                "id": "zh-1111",
+                "w": "哥们",
+                "p": "gē men",
+                "d": "(coll.) dude; buddy; bro",
+                "s": ""
+            },
+            {
+                "id": "zh-1112",
+                "w": "火车",
+                "p": "huǒ chē",
+                "d": "train",
+                "s": ""
+            },
+            {
+                "id": "zh-1113",
+                "w": "子弹",
+                "p": "zǐ dàn",
+                "d": "bullet",
+                "s": ""
+            },
+            {
+                "id": "zh-1114",
+                "w": "治疗",
+                "p": "zhì liáo",
+                "d": "to treat (an illness)",
+                "s": ""
+            },
+            {
+                "id": "zh-1115",
+                "w": "包括",
+                "p": "bāo kuò",
+                "d": "to comprise",
+                "s": ""
+            },
+            {
+                "id": "zh-1116",
+                "w": "公寓",
+                "p": "gōng yù",
+                "d": "apartment building; block of flats (may be a public housing block or a condominium etc) (CL:套)",
+                "s": ""
+            },
+            {
+                "id": "zh-1117",
+                "w": "生日",
+                "p": "shēng rì",
+                "d": "birthday",
+                "s": ""
+            },
+            {
+                "id": "zh-1118",
+                "w": "留",
+                "p": "liú",
+                "d": "to leave (a message etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1119",
+                "w": "兴趣",
+                "p": "xìng qù",
+                "d": "interest (desire to know about sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-1120",
+                "w": "法官",
+                "p": "fǎ guān",
+                "d": "judge (in court)",
+                "s": ""
+            },
+            {
+                "id": "zh-1121",
+                "w": "方向",
+                "p": "fāng xiàng",
+                "d": "direction; orientation",
+                "s": ""
+            },
+            {
+                "id": "zh-1122",
+                "w": "乔",
+                "p": "qiáo",
+                "d": "tall",
+                "s": ""
+            },
+            {
+                "id": "zh-1123",
+                "w": "一半",
+                "p": "yī bàn",
+                "d": "half",
+                "s": ""
+            },
+            {
+                "id": "zh-1124",
+                "w": "借",
+                "p": "jiè",
+                "d": "to borrow",
+                "s": ""
+            },
+            {
+                "id": "zh-1125",
+                "w": "伦敦",
+                "p": "lún dūn",
+                "d": "London, capital of United Kingdom",
+                "s": ""
+            },
+            {
+                "id": "zh-1126",
+                "w": "玩笑",
+                "p": "wán xiào",
+                "d": "to joke",
+                "s": ""
+            },
+            {
+                "id": "zh-1127",
+                "w": "躲",
+                "p": "duǒ",
+                "d": "to hide",
+                "s": ""
+            },
+            {
+                "id": "zh-1128",
+                "w": "遗憾",
+                "p": "yí hàn",
+                "d": "regret",
+                "s": ""
+            },
+            {
+                "id": "zh-1129",
+                "w": "金",
+                "p": "jīn",
+                "d": "gold",
+                "s": ""
+            },
+            {
+                "id": "zh-1130",
+                "w": "病人",
+                "p": "bìng rén",
+                "d": "sick person",
+                "s": ""
+            },
+            {
+                "id": "zh-1131",
+                "w": "目的",
+                "p": "mù dì",
+                "d": "purpose; aim; goal; target; objective",
+                "s": ""
+            },
+            {
+                "id": "zh-1132",
+                "w": "请问",
+                "p": "qǐng wèn",
+                "d": "Excuse me, may I ask...?",
+                "s": ""
+            },
+            {
+                "id": "zh-1133",
+                "w": "公主",
+                "p": "gōng zhǔ",
+                "d": "princess",
+                "s": ""
+            },
+            {
+                "id": "zh-1134",
+                "w": "士兵",
+                "p": "shì bīng",
+                "d": "soldier",
+                "s": ""
+            },
+            {
+                "id": "zh-1135",
+                "w": "怎",
+                "p": "zěn",
+                "d": "how",
+                "s": ""
+            },
+            {
+                "id": "zh-1136",
+                "w": "接着",
+                "p": "jiē zhe",
+                "d": "to catch and hold on",
+                "s": ""
+            },
+            {
+                "id": "zh-1137",
+                "w": "其它",
+                "p": "qí tā",
+                "d": "(adjective) other",
+                "s": ""
+            },
+            {
+                "id": "zh-1138",
+                "w": "傻瓜",
+                "p": "shǎ guā",
+                "d": "idiot",
+                "s": ""
+            },
+            {
+                "id": "zh-1139",
+                "w": "干净",
+                "p": "gān jìng",
+                "d": "clean",
+                "s": ""
+            },
+            {
+                "id": "zh-1140",
+                "w": "晚",
+                "p": "wǎn",
+                "d": "evening",
+                "s": ""
+            },
+            {
+                "id": "zh-1141",
+                "w": "电脑",
+                "p": "diàn nǎo",
+                "d": "computer",
+                "s": ""
+            },
+            {
+                "id": "zh-1142",
+                "w": "反应",
+                "p": "fǎn yìng",
+                "d": "to react",
+                "s": ""
+            },
+            {
+                "id": "zh-1143",
+                "w": "拿走",
+                "p": "ná zǒu",
+                "d": "to take away",
+                "s": ""
+            },
+            {
+                "id": "zh-1144",
+                "w": "机器",
+                "p": "jī qì",
+                "d": "machine",
+                "s": ""
+            },
+            {
+                "id": "zh-1145",
+                "w": "警方",
+                "p": "jǐng fāng",
+                "d": "police",
+                "s": ""
+            },
+            {
+                "id": "zh-1146",
+                "w": "假",
+                "p": "jiǎ",
+                "d": "fake",
+                "s": ""
+            },
+            {
+                "id": "zh-1147",
+                "w": "次",
+                "p": "cì",
+                "d": "next in sequence",
+                "s": ""
+            },
+            {
+                "id": "zh-1148",
+                "w": "失望",
+                "p": "shī wàng",
+                "d": "disappointed",
+                "s": ""
+            },
+            {
+                "id": "zh-1149",
+                "w": "出生",
+                "p": "chū shēng",
+                "d": "to be born",
+                "s": ""
+            },
+            {
+                "id": "zh-1150",
+                "w": "酒店",
+                "p": "jiǔ diàn",
+                "d": "wine shop",
+                "s": ""
+            },
+            {
+                "id": "zh-1151",
+                "w": "两",
+                "p": "liǎng",
+                "d": "two",
+                "s": ""
+            },
+            {
+                "id": "zh-1152",
+                "w": "上班",
+                "p": "shàng bān",
+                "d": "to go to work",
+                "s": ""
+            },
+            {
+                "id": "zh-1153",
+                "w": "相当",
+                "p": "xiāng dāng",
+                "d": "equivalent to",
+                "s": ""
+            },
+            {
+                "id": "zh-1154",
+                "w": "要说",
+                "p": "yào shuō",
+                "d": "as for",
+                "s": ""
+            },
+            {
+                "id": "zh-1155",
+                "w": "造成",
+                "p": "zào chéng",
+                "d": "to bring about; to create; to cause",
+                "s": ""
+            },
+            {
+                "id": "zh-1156",
+                "w": "随时",
+                "p": "suí shí",
+                "d": "at any time; at all times",
+                "s": ""
+            },
+            {
+                "id": "zh-1157",
+                "w": "到达",
+                "p": "dào dá",
+                "d": "to reach; to arrive",
+                "s": ""
+            },
+            {
+                "id": "zh-1158",
+                "w": "罗",
+                "p": "luó",
+                "d": "gauze",
+                "s": ""
+            },
+            {
+                "id": "zh-1159",
+                "w": "巴黎",
+                "p": "bā lí",
+                "d": "Paris, capital of France",
+                "s": ""
+            },
+            {
+                "id": "zh-1160",
+                "w": "冷",
+                "p": "lěng",
+                "d": "cold",
+                "s": ""
+            },
+            {
+                "id": "zh-1161",
+                "w": "男朋友",
+                "p": "nán péng you",
+                "d": "boyfriend",
+                "s": ""
+            },
+            {
+                "id": "zh-1162",
+                "w": "想起",
+                "p": "xiǎng qǐ",
+                "d": "to recall",
+                "s": ""
+            },
+            {
+                "id": "zh-1163",
+                "w": "老公",
+                "p": "lǎo gōng",
+                "d": "(coll.) husband",
+                "s": ""
+            },
+            {
+                "id": "zh-1164",
+                "w": "教堂",
+                "p": "jiào táng",
+                "d": "church; chapel",
+                "s": ""
+            },
+            {
+                "id": "zh-1165",
+                "w": "充满",
+                "p": "chōng mǎn",
+                "d": "full of",
+                "s": ""
+            },
+            {
+                "id": "zh-1166",
+                "w": "盾",
+                "p": "dùn",
+                "d": "shield (CL:面)",
+                "s": ""
+            },
+            {
+                "id": "zh-1167",
+                "w": "拯救",
+                "p": "zhěng jiù",
+                "d": "to save; to rescue",
+                "s": ""
+            },
+            {
+                "id": "zh-1168",
+                "w": "祝",
+                "p": "zhù",
+                "d": "to pray for",
+                "s": ""
+            },
+            {
+                "id": "zh-1169",
+                "w": "字",
+                "p": "zì",
+                "d": "letter",
+                "s": ""
+            },
+            {
+                "id": "zh-1170",
+                "w": "一句",
+                "p": "yī jù",
+                "d": "a line of verse",
+                "s": ""
+            },
+            {
+                "id": "zh-1171",
+                "w": "用来",
+                "p": "yòng lái",
+                "d": "to be used for",
+                "s": ""
+            },
+            {
+                "id": "zh-1172",
+                "w": "测试",
+                "p": "cè shì",
+                "d": "to test (machinery etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1173",
+                "w": "差点",
+                "p": "chà diǎn",
+                "d": "almost",
+                "s": ""
+            },
+            {
+                "id": "zh-1174",
+                "w": "社会",
+                "p": "shè huì",
+                "d": "society",
+                "s": ""
+            },
+            {
+                "id": "zh-1175",
+                "w": "猫",
+                "p": "māo",
+                "d": "cat (CL:隻|只)",
+                "s": ""
+            },
+            {
+                "id": "zh-1176",
+                "w": "方面",
+                "p": "fāng miàn",
+                "d": "respect",
+                "s": ""
+            },
+            {
+                "id": "zh-1177",
+                "w": "习惯",
+                "p": "xí guàn",
+                "d": "habit",
+                "s": ""
+            },
+            {
+                "id": "zh-1178",
+                "w": "资料",
+                "p": "zī liào",
+                "d": "material",
+                "s": ""
+            },
+            {
+                "id": "zh-1179",
+                "w": "安娜",
+                "p": "ān nà",
+                "d": "Anna (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1180",
+                "w": "剩",
+                "p": "shèng",
+                "d": "to remain",
+                "s": ""
+            },
+            {
+                "id": "zh-1181",
+                "w": "晚餐",
+                "p": "wǎn cān",
+                "d": "evening meal; dinner",
+                "s": ""
+            },
+            {
+                "id": "zh-1182",
+                "w": "活动",
+                "p": "huó dòng",
+                "d": "to exercise; to move about; to work out",
+                "s": ""
+            },
+            {
+                "id": "zh-1183",
+                "w": "越来越",
+                "p": "yuè lái yuè",
+                "d": "more and more",
+                "s": ""
+            },
+            {
+                "id": "zh-1184",
+                "w": "太阳",
+                "p": "tài yang",
+                "d": "sun",
+                "s": ""
+            },
+            {
+                "id": "zh-1185",
+                "w": "巨大",
+                "p": "jù dà",
+                "d": "huge; immense; enormous; gigantic",
+                "s": ""
+            },
+            {
+                "id": "zh-1186",
+                "w": "抢",
+                "p": "qiǎng",
+                "d": "to fight over",
+                "s": ""
+            },
+            {
+                "id": "zh-1187",
+                "w": "啤酒",
+                "p": "pí jiǔ",
+                "d": "beer (loanword)",
+                "s": ""
+            },
+            {
+                "id": "zh-1188",
+                "w": "好看",
+                "p": "hǎo kàn",
+                "d": "good-looking; nice-looking",
+                "s": ""
+            },
+            {
+                "id": "zh-1189",
+                "w": "感情",
+                "p": "gǎn qíng",
+                "d": "emotion; sentiment",
+                "s": ""
+            },
+            {
+                "id": "zh-1190",
+                "w": "自然",
+                "p": "zì rán",
+                "d": "nature",
+                "s": ""
+            },
+            {
+                "id": "zh-1191",
+                "w": "逮捕",
+                "p": "dài bǔ",
+                "d": "to arrest; to apprehend; to take into custody",
+                "s": ""
+            },
+            {
+                "id": "zh-1192",
+                "w": "责任",
+                "p": "zé rèn",
+                "d": "responsibility; duty; liability",
+                "s": ""
+            },
+            {
+                "id": "zh-1193",
+                "w": "时刻",
+                "p": "shí kè",
+                "d": "time",
+                "s": ""
+            },
+            {
+                "id": "zh-1194",
+                "w": "大卫",
+                "p": "dà wèi",
+                "d": "(name) David",
+                "s": ""
+            },
+            {
+                "id": "zh-1195",
+                "w": "恶心",
+                "p": "ě xīn",
+                "d": "nausea",
+                "s": ""
+            },
+            {
+                "id": "zh-1196",
+                "w": "读",
+                "p": "dú",
+                "d": "to read out; to read aloud",
+                "s": ""
+            },
+            {
+                "id": "zh-1197",
+                "w": "探员",
+                "p": "tàn yuán",
+                "d": "detective",
+                "s": ""
+            },
+            {
+                "id": "zh-1198",
+                "w": "赚",
+                "p": "zhuàn",
+                "d": "to earn",
+                "s": ""
+            },
+            {
+                "id": "zh-1199",
+                "w": "全",
+                "p": "quán",
+                "d": "all",
+                "s": ""
+            },
+            {
+                "id": "zh-1200",
+                "w": "记忆",
+                "p": "jì yì",
+                "d": "to remember; to recall",
+                "s": ""
+            },
+            {
+                "id": "zh-1201",
+                "w": "号码",
+                "p": "hào mǎ",
+                "d": "number",
+                "s": ""
+            },
+            {
+                "id": "zh-1202",
+                "w": "主人",
+                "p": "zhǔ rén",
+                "d": "owner",
+                "s": ""
+            },
+            {
+                "id": "zh-1203",
+                "w": "可惜",
+                "p": "kě xī",
+                "d": "it is a pity",
+                "s": ""
+            },
+            {
+                "id": "zh-1204",
+                "w": "明显",
+                "p": "míng xiǎn",
+                "d": "clear",
+                "s": ""
+            },
+            {
+                "id": "zh-1205",
+                "w": "算是",
+                "p": "suàn shì",
+                "d": "considered to be",
+                "s": ""
+            },
+            {
+                "id": "zh-1206",
+                "w": "上校",
+                "p": "shàng xiào",
+                "d": "high ranking officer in Chinese army",
+                "s": ""
+            },
+            {
+                "id": "zh-1207",
+                "w": "意见",
+                "p": "yì jiàn",
+                "d": "idea",
+                "s": ""
+            },
+            {
+                "id": "zh-1208",
+                "w": "家族",
+                "p": "jiā zú",
+                "d": "family",
+                "s": ""
+            },
+            {
+                "id": "zh-1209",
+                "w": "爷爷",
+                "p": "yé ye",
+                "d": "(coll.) paternal grandfather; grandpa",
+                "s": ""
+            },
+            {
+                "id": "zh-1210",
+                "w": "祈祷",
+                "p": "qí dǎo",
+                "d": "to pray; to say a prayer",
+                "s": ""
+            },
+            {
+                "id": "zh-1211",
+                "w": "难过",
+                "p": "nán guò",
+                "d": "to feel sad",
+                "s": ""
+            },
+            {
+                "id": "zh-1212",
+                "w": "事儿",
+                "p": "shì r",
+                "d": "one's employment",
+                "s": ""
+            },
+            {
+                "id": "zh-1213",
+                "w": "疯子",
+                "p": "fēng zi",
+                "d": "madman",
+                "s": ""
+            },
+            {
+                "id": "zh-1214",
+                "w": "陛下",
+                "p": "bì xià",
+                "d": "Your Majesty",
+                "s": ""
+            },
+            {
+                "id": "zh-1215",
+                "w": "从未",
+                "p": "cóng wèi",
+                "d": "never",
+                "s": ""
+            },
+            {
+                "id": "zh-1216",
+                "w": "球",
+                "p": "qiú",
+                "d": "ball",
+                "s": ""
+            },
+            {
+                "id": "zh-1217",
+                "w": "彼得",
+                "p": "bǐ dé",
+                "d": "Peter (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1218",
+                "w": "通常",
+                "p": "tōng cháng",
+                "d": "regular; usual; normal",
+                "s": ""
+            },
+            {
+                "id": "zh-1219",
+                "w": "名",
+                "p": "míng",
                 "d": "name",
-                "s": "你叫什么名字？ (What is your name?)"
+                "s": ""
+            },
+            {
+                "id": "zh-1220",
+                "w": "命运",
+                "p": "mìng yùn",
+                "d": "fate; destiny",
+                "s": ""
+            },
+            {
+                "id": "zh-1221",
+                "w": "旅行",
+                "p": "lǚ xíng",
+                "d": "to travel",
+                "s": ""
+            },
+            {
+                "id": "zh-1222",
+                "w": "吹",
+                "p": "chuī",
+                "d": "to blow",
+                "s": ""
+            },
+            {
+                "id": "zh-1223",
+                "w": "服务",
+                "p": "fú wù",
+                "d": "to serve",
+                "s": ""
+            },
+            {
+                "id": "zh-1224",
+                "w": "雷",
+                "p": "léi",
+                "d": "thunder",
+                "s": ""
+            },
+            {
+                "id": "zh-1225",
+                "w": "没想到",
+                "p": "méi xiǎng dào",
+                "d": "didn't expect",
+                "s": ""
+            },
+            {
+                "id": "zh-1226",
+                "w": "对付",
+                "p": "duì fu",
+                "d": "to handle; to deal with; to tackle",
+                "s": ""
+            },
+            {
+                "id": "zh-1227",
+                "w": "比如",
+                "p": "bǐ rú",
+                "d": "for example; for instance; such as",
+                "s": ""
+            },
+            {
+                "id": "zh-1228",
+                "w": "人民",
+                "p": "rén mín",
+                "d": "the people",
+                "s": ""
+            },
+            {
+                "id": "zh-1229",
+                "w": "不少",
+                "p": "bù shǎo",
+                "d": "many; quite a few; a good number of",
+                "s": ""
+            },
+            {
+                "id": "zh-1230",
+                "w": "回事",
+                "p": "huí shì",
+                "d": "(old) to report to one's master",
+                "s": ""
+            },
+            {
+                "id": "zh-1231",
+                "w": "提",
+                "p": "tí",
+                "d": "to carry (hanging down from the hand)",
+                "s": ""
+            },
+            {
+                "id": "zh-1232",
+                "w": "干杯",
+                "p": "gān bēi",
+                "d": "to drink a toast",
+                "s": ""
+            },
+            {
+                "id": "zh-1233",
+                "w": "旁边",
+                "p": "páng biān",
+                "d": "side; adjacent place",
+                "s": ""
+            },
+            {
+                "id": "zh-1234",
+                "w": "种",
+                "p": "zhǒng",
+                "d": "seed",
+                "s": ""
+            },
+            {
+                "id": "zh-1235",
+                "w": "克",
+                "p": "kè",
+                "d": "to be able to",
+                "s": ""
+            },
+            {
+                "id": "zh-1236",
+                "w": "公平",
+                "p": "gōng píng",
+                "d": "fair",
+                "s": ""
+            },
+            {
+                "id": "zh-1237",
+                "w": "愉快",
+                "p": "yú kuài",
+                "d": "cheerful; happy; pleasant; delighted",
+                "s": ""
+            },
+            {
+                "id": "zh-1238",
+                "w": "不幸",
+                "p": "bù xìng",
+                "d": "misfortune",
+                "s": ""
+            },
+            {
+                "id": "zh-1239",
+                "w": "鱼",
+                "p": "yú",
+                "d": "fish (CL:條|条,尾)",
+                "s": ""
+            },
+            {
+                "id": "zh-1240",
+                "w": "托",
+                "p": "tuō",
+                "d": "to hold up in one's hand; to support with one's palm",
+                "s": ""
+            },
+            {
+                "id": "zh-1241",
+                "w": "关",
+                "p": "guān",
+                "d": "mountain pass",
+                "s": ""
+            },
+            {
+                "id": "zh-1242",
+                "w": "脑袋",
+                "p": "nǎo dai",
+                "d": "head",
+                "s": ""
+            },
+            {
+                "id": "zh-1243",
+                "w": "创造",
+                "p": "chuàng zào",
+                "d": "to create",
+                "s": ""
+            },
+            {
+                "id": "zh-1244",
+                "w": "好不好",
+                "p": "hǎo bu hǎo",
+                "d": "(coll.) all right?",
+                "s": ""
+            },
+            {
+                "id": "zh-1245",
+                "w": "不断",
+                "p": "bù duàn",
+                "d": "unceasing",
+                "s": ""
+            },
+            {
+                "id": "zh-1246",
+                "w": "有意思",
+                "p": "yǒu yì si",
+                "d": "interesting",
+                "s": ""
+            },
+            {
+                "id": "zh-1247",
+                "w": "错过",
+                "p": "cuò guò",
+                "d": "to miss (train, opportunity etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1248",
+                "w": "抱",
+                "p": "bào",
+                "d": "to hold",
+                "s": ""
+            },
+            {
+                "id": "zh-1249",
+                "w": "压力",
+                "p": "yā lì",
+                "d": "pressure",
+                "s": ""
+            },
+            {
+                "id": "zh-1250",
+                "w": "心里",
+                "p": "xīn li",
+                "d": "chest",
+                "s": ""
+            },
+            {
+                "id": "zh-1251",
+                "w": "超级",
+                "p": "chāo jí",
+                "d": "super-",
+                "s": ""
+            },
+            {
+                "id": "zh-1252",
+                "w": "加",
+                "p": "jiā",
+                "d": "to add",
+                "s": ""
+            },
+            {
+                "id": "zh-1253",
+                "w": "线索",
+                "p": "xiàn suǒ",
+                "d": "trail",
+                "s": ""
+            },
+            {
+                "id": "zh-1254",
+                "w": "宇宙",
+                "p": "yǔ zhòu",
+                "d": "universe; cosmos; space",
+                "s": ""
+            },
+            {
+                "id": "zh-1255",
+                "w": "死去",
+                "p": "sǐ qù",
+                "d": "to die",
+                "s": ""
+            },
+            {
+                "id": "zh-1256",
+                "w": "心情",
+                "p": "xīn qíng",
+                "d": "mood; frame of mind",
+                "s": ""
+            },
+            {
+                "id": "zh-1257",
+                "w": "撞",
+                "p": "zhuàng",
+                "d": "to knock against",
+                "s": ""
+            },
+            {
+                "id": "zh-1258",
+                "w": "一部分",
+                "p": "yī bù fen",
+                "d": "portion",
+                "s": ""
+            },
+            {
+                "id": "zh-1259",
+                "w": "关闭",
+                "p": "guān bì",
+                "d": "to close; to shut (a window etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1260",
+                "w": "设计",
+                "p": "shè jì",
+                "d": "to design; to plan",
+                "s": ""
+            },
+            {
+                "id": "zh-1261",
+                "w": "失踪",
+                "p": "shī zōng",
+                "d": "to be missing",
+                "s": ""
+            },
+            {
+                "id": "zh-1262",
+                "w": "未",
+                "p": "wèi",
+                "d": "not yet",
+                "s": ""
+            },
+            {
+                "id": "zh-1263",
+                "w": "毁",
+                "p": "huǐ",
+                "d": "to destroy; to ruin",
+                "s": ""
+            },
+            {
+                "id": "zh-1264",
+                "w": "移动",
+                "p": "yí dòng",
+                "d": "to move",
+                "s": ""
+            },
+            {
+                "id": "zh-1265",
+                "w": "垃圾",
+                "p": "lā jī",
+                "d": "trash",
+                "s": ""
+            },
+            {
+                "id": "zh-1266",
+                "w": "十分",
+                "p": "shí fēn",
+                "d": "very",
+                "s": ""
+            },
+            {
+                "id": "zh-1267",
+                "w": "不可",
+                "p": "bù kě",
+                "d": "cannot; should not; must not",
+                "s": ""
+            },
+            {
+                "id": "zh-1268",
+                "w": "上车",
+                "p": "shàng chē",
+                "d": "to get on or into (a bus, train, car etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1269",
+                "w": "同",
+                "p": "tóng",
+                "d": "like",
+                "s": ""
+            },
+            {
+                "id": "zh-1270",
+                "w": "健康",
+                "p": "jiàn kāng",
+                "d": "health",
+                "s": ""
+            },
+            {
+                "id": "zh-1271",
+                "w": "提醒",
+                "p": "tí xǐng",
+                "d": "to remind",
+                "s": ""
+            },
+            {
+                "id": "zh-1272",
+                "w": "包",
+                "p": "bāo",
+                "d": "to cover",
+                "s": ""
+            },
+            {
+                "id": "zh-1273",
+                "w": "说谎",
+                "p": "shuō huǎng",
+                "d": "to lie",
+                "s": ""
+            },
+            {
+                "id": "zh-1274",
+                "w": "热",
+                "p": "rè",
+                "d": "to warm up",
+                "s": ""
+            },
+            {
+                "id": "zh-1275",
+                "w": "自从",
+                "p": "zì cóng",
+                "d": "since (a time)",
+                "s": ""
+            },
+            {
+                "id": "zh-1276",
+                "w": "犯罪",
+                "p": "fàn zuì",
+                "d": "to commit a crime",
+                "s": ""
+            },
+            {
+                "id": "zh-1277",
+                "w": "狗屎",
+                "p": "gǒu shǐ",
+                "d": "canine excrement",
+                "s": ""
+            },
+            {
+                "id": "zh-1278",
+                "w": "保罗",
+                "p": "bǎo luó",
+                "d": "Paul",
+                "s": ""
+            },
+            {
+                "id": "zh-1279",
+                "w": "命",
+                "p": "mìng",
+                "d": "life",
+                "s": ""
+            },
+            {
+                "id": "zh-1280",
+                "w": "周围",
+                "p": "zhōu wéi",
+                "d": "environs; surroundings; periphery",
+                "s": ""
+            },
+            {
+                "id": "zh-1281",
+                "w": "无聊",
+                "p": "wú liáo",
+                "d": "bored",
+                "s": ""
+            },
+            {
+                "id": "zh-1282",
+                "w": "说明",
+                "p": "shuō míng",
+                "d": "to explain",
+                "s": ""
+            },
+            {
+                "id": "zh-1283",
+                "w": "浪费",
+                "p": "làng fèi",
+                "d": "to waste",
+                "s": ""
+            },
+            {
+                "id": "zh-1284",
+                "w": "怪物",
+                "p": "guài wu",
+                "d": "monster",
+                "s": ""
+            },
+            {
+                "id": "zh-1285",
+                "w": "靠近",
+                "p": "kào jìn",
+                "d": "to be close to",
+                "s": ""
+            },
+            {
+                "id": "zh-1286",
+                "w": "尽",
+                "p": "jǐn",
+                "d": "to the greatest extent",
+                "s": ""
+            },
+            {
+                "id": "zh-1287",
+                "w": "蛋糕",
+                "p": "dàn gāo",
+                "d": "cake",
+                "s": ""
+            },
+            {
+                "id": "zh-1288",
+                "w": "于是",
+                "p": "yú shì",
+                "d": "thereupon; as a result; consequently; thus; hence",
+                "s": ""
+            },
+            {
+                "id": "zh-1289",
+                "w": "多年",
+                "p": "duō nián",
+                "d": "many years",
+                "s": ""
+            },
+            {
+                "id": "zh-1290",
+                "w": "楷体",
+                "p": "kǎi tǐ",
+                "d": "regular script (Chinese calligraphic style)",
+                "s": ""
+            },
+            {
+                "id": "zh-1291",
+                "w": "亨利",
+                "p": "hēng lì",
+                "d": "Henry (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1292",
+                "w": "自",
+                "p": "zì",
+                "d": "(bound form) self; oneself",
+                "s": ""
+            },
+            {
+                "id": "zh-1293",
+                "w": "见鬼",
+                "p": "jiàn guǐ",
+                "d": "absurd",
+                "s": ""
+            },
+            {
+                "id": "zh-1294",
+                "w": "份",
+                "p": "fèn",
+                "d": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+                "s": ""
+            },
+            {
+                "id": "zh-1295",
+                "w": "干吗",
+                "p": "gàn má",
+                "d": "what are you doing?",
+                "s": ""
+            },
+            {
+                "id": "zh-1296",
+                "w": "心脏",
+                "p": "xīn zàng",
+                "d": "heart",
+                "s": ""
+            },
+            {
+                "id": "zh-1297",
+                "w": "袭击",
+                "p": "xí jī",
+                "d": "attack (esp. surprise attack)",
+                "s": ""
+            },
+            {
+                "id": "zh-1298",
+                "w": "记者",
+                "p": "jì zhě",
+                "d": "reporter; journalist",
+                "s": ""
+            },
+            {
+                "id": "zh-1299",
+                "w": "说真的",
+                "p": "shuō zhēn de",
+                "d": "to tell the truth",
+                "s": ""
+            },
+            {
+                "id": "zh-1300",
+                "w": "要么",
+                "p": "yào me",
+                "d": "or",
+                "s": ""
+            },
+            {
+                "id": "zh-1301",
+                "w": "区",
+                "p": "qū",
+                "d": "area",
+                "s": ""
+            },
+            {
+                "id": "zh-1302",
+                "w": "查",
+                "p": "chá",
+                "d": "to research",
+                "s": ""
+            },
+            {
+                "id": "zh-1303",
+                "w": "罗马",
+                "p": "luó mǎ",
+                "d": "Rome, capital of Italy",
+                "s": ""
+            },
+            {
+                "id": "zh-1304",
+                "w": "怀孕",
+                "p": "huái yùn",
+                "d": "pregnant",
+                "s": ""
+            },
+            {
+                "id": "zh-1305",
+                "w": "同志",
+                "p": "tóng zhì",
+                "d": "comrade",
+                "s": ""
+            },
+            {
+                "id": "zh-1306",
+                "w": "臭",
+                "p": "chòu",
+                "d": "stench",
+                "s": ""
+            },
+            {
+                "id": "zh-1307",
+                "w": "照",
+                "p": "zhào",
+                "d": "according to",
+                "s": ""
+            },
+            {
+                "id": "zh-1308",
+                "w": "谈论",
+                "p": "tán lùn",
+                "d": "to discuss; to talk about",
+                "s": ""
+            },
+            {
+                "id": "zh-1309",
+                "w": "恐惧",
+                "p": "kǒng jù",
+                "d": "to be frightened",
+                "s": ""
+            },
+            {
+                "id": "zh-1310",
+                "w": "糟",
+                "p": "zāo",
+                "d": "dregs",
+                "s": ""
+            },
+            {
+                "id": "zh-1311",
+                "w": "尊重",
+                "p": "zūn zhòng",
+                "d": "to esteem",
+                "s": ""
+            },
+            {
+                "id": "zh-1312",
+                "w": "期待",
+                "p": "qī dài",
+                "d": "to look forward to",
+                "s": ""
+            },
+            {
+                "id": "zh-1313",
+                "w": "嘘",
+                "p": "xū",
+                "d": "to exhale slowly",
+                "s": ""
+            },
+            {
+                "id": "zh-1314",
+                "w": "船长",
+                "p": "chuán zhǎng",
+                "d": "captain (of a boat)",
+                "s": ""
+            },
+            {
+                "id": "zh-1315",
+                "w": "盯",
+                "p": "dīng",
+                "d": "to watch attentively",
+                "s": ""
+            },
+            {
+                "id": "zh-1316",
+                "w": "离婚",
+                "p": "lí hūn",
+                "d": "to divorce",
+                "s": ""
+            },
+            {
+                "id": "zh-1317",
+                "w": "技术",
+                "p": "jì shù",
+                "d": "technology; technique; skill",
+                "s": ""
+            },
+            {
+                "id": "zh-1318",
+                "w": "同学",
+                "p": "tóng xué",
+                "d": "to study at the same school",
+                "s": ""
+            },
+            {
+                "id": "zh-1319",
+                "w": "天使",
+                "p": "tiān shǐ",
+                "d": "angel",
+                "s": ""
+            },
+            {
+                "id": "zh-1320",
+                "w": "确保",
+                "p": "què bǎo",
+                "d": "to ensure; to guarantee",
+                "s": ""
+            },
+            {
+                "id": "zh-1321",
+                "w": "正好",
+                "p": "zhèng hǎo",
+                "d": "just (in time)",
+                "s": ""
+            },
+            {
+                "id": "zh-1322",
+                "w": "秒",
+                "p": "miǎo",
+                "d": "second (unit of time)",
+                "s": ""
+            },
+            {
+                "id": "zh-1323",
+                "w": "表示",
+                "p": "biǎo shì",
+                "d": "(of sb) to express; to state; to show",
+                "s": ""
+            },
+            {
+                "id": "zh-1324",
+                "w": "汽车",
+                "p": "qì chē",
+                "d": "car",
+                "s": ""
+            },
+            {
+                "id": "zh-1325",
+                "w": "信号",
+                "p": "xìn hào",
+                "d": "signal",
+                "s": ""
+            },
+            {
+                "id": "zh-1326",
+                "w": "送给",
+                "p": "sòng gěi",
+                "d": "to send",
+                "s": ""
+            },
+            {
+                "id": "zh-1327",
+                "w": "装",
+                "p": "zhuāng",
+                "d": "adornment",
+                "s": ""
+            },
+            {
+                "id": "zh-1328",
+                "w": "周末",
+                "p": "zhōu mò",
+                "d": "weekend",
+                "s": ""
+            },
+            {
+                "id": "zh-1329",
+                "w": "惊喜",
+                "p": "jīng xǐ",
+                "d": "nice surprise",
+                "s": ""
+            },
+            {
+                "id": "zh-1330",
+                "w": "困难",
+                "p": "kùn nan",
+                "d": "difficult",
+                "s": ""
+            },
+            {
+                "id": "zh-1331",
+                "w": "客户",
+                "p": "kè hù",
+                "d": "client; customer",
+                "s": ""
+            },
+            {
+                "id": "zh-1332",
+                "w": "请求",
+                "p": "qǐng qiú",
+                "d": "to request; to ask",
+                "s": ""
+            },
+            {
+                "id": "zh-1333",
+                "w": "手术",
+                "p": "shǒu shù",
+                "d": "(surgical) operation",
+                "s": ""
+            },
+            {
+                "id": "zh-1334",
+                "w": "一点点",
+                "p": "yī diǎn diǎn",
+                "d": "a little bit",
+                "s": ""
+            },
+            {
+                "id": "zh-1335",
+                "w": "干掉",
+                "p": "gàn diào",
+                "d": "to get rid of",
+                "s": ""
+            },
+            {
+                "id": "zh-1336",
+                "w": "彼此",
+                "p": "bǐ cǐ",
+                "d": "each other; one another",
+                "s": ""
+            },
+            {
+                "id": "zh-1337",
+                "w": "好事",
+                "p": "hǎo shì",
+                "d": "good action, deed, thing or work (also sarcastic, \"a fine thing indeed\")",
+                "s": ""
+            },
+            {
+                "id": "zh-1338",
+                "w": "跟踪",
+                "p": "gēn zōng",
+                "d": "to follow sb's tracks",
+                "s": ""
+            },
+            {
+                "id": "zh-1339",
+                "w": "唔",
+                "p": "wú",
+                "d": "oh (expression of agreement or surprise)",
+                "s": ""
+            },
+            {
+                "id": "zh-1340",
+                "w": "尼克",
+                "p": "ní kè",
+                "d": "Nick (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1341",
+                "w": "上来",
+                "p": "shàng lái",
+                "d": "to come up",
+                "s": ""
+            },
+            {
+                "id": "zh-1342",
+                "w": "疼",
+                "p": "téng",
+                "d": "(it) hurts; sore",
+                "s": ""
+            },
+            {
+                "id": "zh-1343",
+                "w": "弧",
+                "p": "hú",
+                "d": "arc",
+                "s": ""
+            },
+            {
+                "id": "zh-1344",
+                "w": "及",
+                "p": "jí",
+                "d": "and",
+                "s": ""
+            },
+            {
+                "id": "zh-1345",
+                "w": "私人",
+                "p": "sī rén",
+                "d": "private",
+                "s": ""
+            },
+            {
+                "id": "zh-1346",
+                "w": "面",
+                "p": "miàn",
+                "d": "face",
+                "s": ""
+            },
+            {
+                "id": "zh-1347",
+                "w": "嘴",
+                "p": "zuǐ",
+                "d": "mouth",
+                "s": ""
+            },
+            {
+                "id": "zh-1348",
+                "w": "上床",
+                "p": "shàng chuáng",
+                "d": "to go to bed",
+                "s": ""
+            },
+            {
+                "id": "zh-1349",
+                "w": "好玩",
+                "p": "hǎo wán",
+                "d": "amusing",
+                "s": ""
+            },
+            {
+                "id": "zh-1350",
+                "w": "动作",
+                "p": "dòng zuò",
+                "d": "movement; motion; action",
+                "s": ""
+            },
+            {
+                "id": "zh-1351",
+                "w": "庆祝",
+                "p": "qìng zhù",
+                "d": "to celebrate",
+                "s": ""
+            },
+            {
+                "id": "zh-1352",
+                "w": "神父",
+                "p": "shén fu",
+                "d": "Catholic or Orthodox priest; Father (title of address)",
+                "s": ""
+            },
+            {
+                "id": "zh-1353",
+                "w": "会议",
+                "p": "huì yì",
+                "d": "meeting",
+                "s": ""
+            },
+            {
+                "id": "zh-1354",
+                "w": "杀手",
+                "p": "shā shǒu",
+                "d": "killer",
+                "s": ""
+            },
+            {
+                "id": "zh-1355",
+                "w": "报警",
+                "p": "bào jǐng",
+                "d": "to sound an alarm",
+                "s": ""
+            },
+            {
+                "id": "zh-1356",
+                "w": "叫做",
+                "p": "jiào zuò",
+                "d": "to be called; to be known as",
+                "s": ""
+            },
+            {
+                "id": "zh-1357",
+                "w": "主要",
+                "p": "zhǔ yào",
+                "d": "main; principal; major; primary",
+                "s": ""
+            },
+            {
+                "id": "zh-1358",
+                "w": "作品",
+                "p": "zuò pǐn",
+                "d": "work (of art)",
+                "s": ""
+            },
+            {
+                "id": "zh-1359",
+                "w": "状况",
+                "p": "zhuàng kuàng",
+                "d": "condition; state; situation",
+                "s": ""
+            },
+            {
+                "id": "zh-1360",
+                "w": "制作",
+                "p": "zhì zuò",
+                "d": "to make; to manufacture",
+                "s": ""
+            },
+            {
+                "id": "zh-1361",
+                "w": "兴奋",
+                "p": "xīng fèn",
+                "d": "excited",
+                "s": ""
+            },
+            {
+                "id": "zh-1362",
+                "w": "一辈子",
+                "p": "yī bèi zi",
+                "d": "(for) a lifetime",
+                "s": ""
+            },
+            {
+                "id": "zh-1363",
+                "w": "厕所",
+                "p": "cè suǒ",
+                "d": "toilet; lavatory",
+                "s": ""
+            },
+            {
+                "id": "zh-1364",
+                "w": "可恶",
+                "p": "kě wù",
+                "d": "repulsive",
+                "s": ""
+            },
+            {
+                "id": "zh-1365",
+                "w": "第二",
+                "p": "dì èr",
+                "d": "second",
+                "s": ""
+            },
+            {
+                "id": "zh-1366",
+                "w": "法庭",
+                "p": "fǎ tíng",
+                "d": "court of law",
+                "s": ""
+            },
+            {
+                "id": "zh-1367",
+                "w": "报纸",
+                "p": "bào zhǐ",
+                "d": "newspaper",
+                "s": ""
+            },
+            {
+                "id": "zh-1368",
+                "w": "轻松",
+                "p": "qīng sōng",
+                "d": "light",
+                "s": ""
+            },
+            {
+                "id": "zh-1369",
+                "w": "张",
+                "p": "zhāng",
+                "d": "to open up",
+                "s": ""
+            },
+            {
+                "id": "zh-1370",
+                "w": "哥",
+                "p": "gē",
+                "d": "elder brother",
+                "s": ""
+            },
+            {
+                "id": "zh-1371",
+                "w": "赢得",
+                "p": "yíng dé",
+                "d": "to win",
+                "s": ""
+            },
+            {
+                "id": "zh-1372",
+                "w": "停下来",
+                "p": "tíng xià lái",
+                "d": "to stop",
+                "s": ""
+            },
+            {
+                "id": "zh-1373",
+                "w": "速度",
+                "p": "sù dù",
+                "d": "speed; rate; velocity; (music) tempo",
+                "s": ""
+            },
+            {
+                "id": "zh-1374",
+                "w": "宝宝",
+                "p": "bǎo bao",
+                "d": "darling; baby",
+                "s": ""
+            },
+            {
+                "id": "zh-1375",
+                "w": "显示",
+                "p": "xiǎn shì",
+                "d": "to show",
+                "s": ""
+            },
+            {
+                "id": "zh-1376",
+                "w": "有钱",
+                "p": "yǒu qián",
+                "d": "well-off",
+                "s": ""
+            },
+            {
+                "id": "zh-1377",
+                "w": "詹姆斯",
+                "p": "zhān mǔ sī",
+                "d": "James (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1378",
+                "w": "状态",
+                "p": "zhuàng tài",
+                "d": "condition; state; state of affairs",
+                "s": ""
+            },
+            {
+                "id": "zh-1379",
+                "w": "尽快",
+                "p": "jǐn kuài",
+                "d": "as quickly as possible; as soon as possible",
+                "s": ""
+            },
+            {
+                "id": "zh-1380",
+                "w": "监视",
+                "p": "jiān shì",
+                "d": "to monitor",
+                "s": ""
+            },
+            {
+                "id": "zh-1381",
+                "w": "主",
+                "p": "zhǔ",
+                "d": "owner",
+                "s": ""
+            },
+            {
+                "id": "zh-1382",
+                "w": "刀",
+                "p": "dāo",
+                "d": "knife; blade; single-edged sword; cutlass (CL:把)",
+                "s": ""
+            },
+            {
+                "id": "zh-1383",
+                "w": "价值",
+                "p": "jià zhí",
+                "d": "value; worth",
+                "s": ""
+            },
+            {
+                "id": "zh-1384",
+                "w": "荣幸",
+                "p": "róng xìng",
+                "d": "honored (to have the privilege of ...)",
+                "s": ""
+            },
+            {
+                "id": "zh-1385",
+                "w": "咬",
+                "p": "yǎo",
+                "d": "to bite",
+                "s": ""
+            },
+            {
+                "id": "zh-1386",
+                "w": "大约",
+                "p": "dà yuē",
+                "d": "approximately",
+                "s": ""
+            },
+            {
+                "id": "zh-1387",
+                "w": "俱乐部",
+                "p": "jù lè bù",
+                "d": "(loanword) club (the organization or its premises)",
+                "s": ""
+            },
+            {
+                "id": "zh-1388",
+                "w": "合适",
+                "p": "hé shì",
+                "d": "suitable; fitting; appropriate",
+                "s": ""
+            },
+            {
+                "id": "zh-1389",
+                "w": "尤其",
+                "p": "yóu qí",
+                "d": "especially; particularly",
+                "s": ""
+            },
+            {
+                "id": "zh-1390",
+                "w": "现实",
+                "p": "xiàn shí",
+                "d": "reality; actuality",
+                "s": ""
+            },
+            {
+                "id": "zh-1391",
+                "w": "参与",
+                "p": "cān yù",
+                "d": "to participate (in sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-1392",
+                "w": "运动",
+                "p": "yùn dòng",
+                "d": "to move",
+                "s": ""
+            },
+            {
+                "id": "zh-1393",
+                "w": "输",
+                "p": "shū",
+                "d": "to lose; to be beaten",
+                "s": ""
+            },
+            {
+                "id": "zh-1394",
+                "w": "时代",
+                "p": "shí dài",
+                "d": "age",
+                "s": ""
+            },
+            {
+                "id": "zh-1395",
+                "w": "婚姻",
+                "p": "hūn yīn",
+                "d": "marriage; matrimony",
+                "s": ""
+            },
+            {
+                "id": "zh-1396",
+                "w": "副",
+                "p": "fù",
+                "d": "secondary",
+                "s": ""
+            },
+            {
+                "id": "zh-1397",
+                "w": "天堂",
+                "p": "tiān táng",
+                "d": "paradise",
+                "s": ""
+            },
+            {
+                "id": "zh-1398",
+                "w": "恐怖",
+                "p": "kǒng bù",
+                "d": "terrible",
+                "s": ""
+            },
+            {
+                "id": "zh-1399",
+                "w": "角色",
+                "p": "jué sè",
+                "d": "role; part (in a play or movie etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1400",
+                "w": "人员",
+                "p": "rén yuán",
+                "d": "staff",
+                "s": ""
+            },
+            {
+                "id": "zh-1401",
+                "w": "鸟",
+                "p": "niǎo",
+                "d": "bird",
+                "s": ""
+            },
+            {
+                "id": "zh-1402",
+                "w": "牺牲",
+                "p": "xī shēng",
+                "d": "to sacrifice one's life",
+                "s": ""
+            },
+            {
+                "id": "zh-1403",
+                "w": "去世",
+                "p": "qù shì",
+                "d": "to pass away",
+                "s": ""
+            },
+            {
+                "id": "zh-1404",
+                "w": "性感",
+                "p": "xìng gǎn",
+                "d": "sex appeal",
+                "s": ""
+            },
+            {
+                "id": "zh-1405",
+                "w": "假装",
+                "p": "jiǎ zhuāng",
+                "d": "to feign",
+                "s": ""
+            },
+            {
+                "id": "zh-1406",
+                "w": "笵",
+                "p": "fàn",
+                "d": "bamboo mold",
+                "s": ""
+            },
+            {
+                "id": "zh-1407",
+                "w": "犹太人",
+                "p": "yóu tài rén",
+                "d": "Jew",
+                "s": ""
+            },
+            {
+                "id": "zh-1408",
+                "w": "摆",
+                "p": "bǎi",
+                "d": "to arrange",
+                "s": ""
+            },
+            {
+                "id": "zh-1409",
+                "w": "只不过",
+                "p": "zhǐ bu guò",
+                "d": "only; merely; nothing but; no more than",
+                "s": ""
+            },
+            {
+                "id": "zh-1410",
+                "w": "由于",
+                "p": "yóu yú",
+                "d": "due to",
+                "s": ""
+            },
+            {
+                "id": "zh-1411",
+                "w": "厨房",
+                "p": "chú fáng",
+                "d": "kitchen",
+                "s": ""
+            },
+            {
+                "id": "zh-1412",
+                "w": "总之",
+                "p": "zǒng zhī",
+                "d": "in a word",
+                "s": ""
+            },
+            {
+                "id": "zh-1413",
+                "w": "石头",
+                "p": "shí tou",
+                "d": "stone",
+                "s": ""
+            },
+            {
+                "id": "zh-1414",
+                "w": "地点",
+                "p": "dì diǎn",
+                "d": "place",
+                "s": ""
+            },
+            {
+                "id": "zh-1415",
+                "w": "骄傲",
+                "p": "jiāo ào",
+                "d": "pride",
+                "s": ""
+            },
+            {
+                "id": "zh-1416",
+                "w": "土地",
+                "p": "tǔ dì",
+                "d": "land",
+                "s": ""
+            },
+            {
+                "id": "zh-1417",
+                "w": "更加",
+                "p": "gèng jiā",
+                "d": "more (than sth else)",
+                "s": ""
+            },
+            {
+                "id": "zh-1418",
+                "w": "四",
+                "p": "sì",
+                "d": "four",
+                "s": ""
+            },
+            {
+                "id": "zh-1419",
+                "w": "安",
+                "p": "ān",
+                "d": "(bound form) calm; peaceful",
+                "s": ""
+            },
+            {
+                "id": "zh-1420",
+                "w": "学",
+                "p": "xué",
+                "d": "to learn",
+                "s": ""
+            },
+            {
+                "id": "zh-1421",
+                "w": "暂时",
+                "p": "zàn shí",
+                "d": "temporary; provisional; for the time being",
+                "s": ""
+            },
+            {
+                "id": "zh-1422",
+                "w": "演员",
+                "p": "yǎn yuán",
+                "d": "actor; actress; performer",
+                "s": ""
+            },
+            {
+                "id": "zh-1423",
+                "w": "产生",
+                "p": "chǎn shēng",
+                "d": "to arise; to come into being; to come about",
+                "s": ""
+            },
+            {
+                "id": "zh-1424",
+                "w": "停车",
+                "p": "tíng chē",
+                "d": "to pull up (stop one's vehicle)",
+                "s": ""
+            },
+            {
+                "id": "zh-1425",
+                "w": "餐厅",
+                "p": "cān tīng",
+                "d": "dining hall",
+                "s": ""
+            },
+            {
+                "id": "zh-1426",
+                "w": "女性",
+                "p": "nǚ xìng",
+                "d": "woman",
+                "s": ""
+            },
+            {
+                "id": "zh-1427",
+                "w": "之类",
+                "p": "zhī lèi",
+                "d": "and so on",
+                "s": ""
+            },
+            {
+                "id": "zh-1428",
+                "w": "年轻人",
+                "p": "nián qīng rén",
+                "d": "young people",
+                "s": ""
+            },
+            {
+                "id": "zh-1429",
+                "w": "官",
+                "p": "guān",
+                "d": "government official",
+                "s": ""
+            },
+            {
+                "id": "zh-1430",
+                "w": "地址",
+                "p": "dì zhǐ",
+                "d": "address",
+                "s": ""
+            },
+            {
+                "id": "zh-1431",
+                "w": "情报",
+                "p": "qíng bào",
+                "d": "information; intelligence",
+                "s": ""
+            },
+            {
+                "id": "zh-1432",
+                "w": "惹",
+                "p": "rě",
+                "d": "to provoke",
+                "s": ""
+            },
+            {
+                "id": "zh-1433",
+                "w": "件",
+                "p": "jiàn",
+                "d": "item",
+                "s": ""
+            },
+            {
+                "id": "zh-1434",
+                "w": "在乎",
+                "p": "zài hu",
+                "d": "to rest with; to lie in; to be due to (a certain attribute)",
+                "s": ""
+            },
+            {
+                "id": "zh-1435",
+                "w": "和平",
+                "p": "hé píng",
+                "d": "peace",
+                "s": ""
+            },
+            {
+                "id": "zh-1436",
+                "w": "机场",
+                "p": "jī chǎng",
+                "d": "airport; airfield",
+                "s": ""
+            },
+            {
+                "id": "zh-1437",
+                "w": "制造",
+                "p": "zhì zào",
+                "d": "to manufacture; to make",
+                "s": ""
+            },
+            {
+                "id": "zh-1438",
+                "w": "执行",
+                "p": "zhí xíng",
+                "d": "to implement",
+                "s": ""
+            },
+            {
+                "id": "zh-1439",
+                "w": "冲",
+                "p": "chōng",
+                "d": "(of water) to dash against",
+                "s": ""
+            },
+            {
+                "id": "zh-1440",
+                "w": "不许",
+                "p": "bù xǔ",
+                "d": "not to allow",
+                "s": ""
+            },
+            {
+                "id": "zh-1441",
+                "w": "似的",
+                "p": "shì de",
+                "d": "seems as if",
+                "s": ""
+            },
+            {
+                "id": "zh-1442",
+                "w": "非常感谢",
+                "p": "fēi cháng gǎn xiè",
+                "d": "extremely grateful; very thankful",
+                "s": ""
+            },
+            {
+                "id": "zh-1443",
+                "w": "耶稣",
+                "p": "yē sū",
+                "d": "Jesus",
+                "s": ""
+            },
+            {
+                "id": "zh-1444",
+                "w": "常",
+                "p": "cháng",
+                "d": "always",
+                "s": ""
+            },
+            {
+                "id": "zh-1445",
+                "w": "比尔",
+                "p": "bǐ ěr",
+                "d": "Bill (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1446",
+                "w": "顺利",
+                "p": "shùn lì",
+                "d": "smoothly; without a hitch",
+                "s": ""
+            },
+            {
+                "id": "zh-1447",
+                "w": "不停",
+                "p": "bù tíng",
+                "d": "incessant",
+                "s": ""
+            },
+            {
+                "id": "zh-1448",
+                "w": "今年",
+                "p": "jīn nián",
+                "d": "this year",
+                "s": ""
+            },
+            {
+                "id": "zh-1449",
+                "w": "歌",
+                "p": "gē",
+                "d": "song (CL:首,支)",
+                "s": ""
+            },
+            {
+                "id": "zh-1450",
+                "w": "满足",
+                "p": "mǎn zú",
+                "d": "to satisfy",
+                "s": ""
+            },
+            {
+                "id": "zh-1451",
+                "w": "演出",
+                "p": "yǎn chū",
+                "d": "to act (in a play)",
+                "s": ""
+            },
+            {
+                "id": "zh-1452",
+                "w": "艾",
+                "p": "ài",
+                "d": "Chinese mugwort (Artemisia); moxa",
+                "s": ""
+            },
+            {
+                "id": "zh-1453",
+                "w": "逃跑",
+                "p": "táo pǎo",
+                "d": "to flee from sth",
+                "s": ""
+            },
+            {
+                "id": "zh-1454",
+                "w": "香港",
+                "p": "xiāng gǎng",
+                "d": "Hong Kong, special administrative region (SAR) of the PRC (short name 港)",
+                "s": ""
+            },
+            {
+                "id": "zh-1455",
+                "w": "颜色",
+                "p": "yán sè",
+                "d": "color",
+                "s": ""
+            },
+            {
+                "id": "zh-1456",
+                "w": "提到",
+                "p": "tí dào",
+                "d": "to mention",
+                "s": ""
+            },
+            {
+                "id": "zh-1457",
+                "w": "丹尼",
+                "p": "dān ní",
+                "d": "Danny (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1458",
+                "w": "胜利",
+                "p": "shèng lì",
+                "d": "victory",
+                "s": ""
+            },
+            {
+                "id": "zh-1459",
+                "w": "条件",
+                "p": "tiáo jiàn",
+                "d": "condition; circumstance; term; factor",
+                "s": ""
+            },
+            {
+                "id": "zh-1460",
+                "w": "毒品",
+                "p": "dú pǐn",
+                "d": "drugs; narcotics",
+                "s": ""
+            },
+            {
+                "id": "zh-1461",
+                "w": "史",
+                "p": "shǐ",
+                "d": "history",
+                "s": ""
+            },
+            {
+                "id": "zh-1462",
+                "w": "踢",
+                "p": "tī",
+                "d": "to kick",
+                "s": ""
+            },
+            {
+                "id": "zh-1463",
+                "w": "下车",
+                "p": "xià chē",
+                "d": "to get off or out of (a bus, train, car etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1464",
+                "w": "发展",
+                "p": "fā zhǎn",
+                "d": "development",
+                "s": ""
+            },
+            {
+                "id": "zh-1465",
+                "w": "分手",
+                "p": "fēn shǒu",
+                "d": "to part company",
+                "s": ""
+            },
+            {
+                "id": "zh-1466",
+                "w": "专家",
+                "p": "zhuān jiā",
+                "d": "expert; specialist",
+                "s": ""
+            },
+            {
+                "id": "zh-1467",
+                "w": "部队",
+                "p": "bù duì",
+                "d": "army",
+                "s": ""
+            },
+            {
+                "id": "zh-1468",
+                "w": "做爱",
+                "p": "zuò ài",
+                "d": "to make love",
+                "s": ""
+            },
+            {
+                "id": "zh-1469",
+                "w": "马克",
+                "p": "mǎ kè",
+                "d": "mark (monetary unit)",
+                "s": ""
+            },
+            {
+                "id": "zh-1470",
+                "w": "老实",
+                "p": "lǎo shi",
+                "d": "honest; sincere",
+                "s": ""
+            },
+            {
+                "id": "zh-1471",
+                "w": "好处",
+                "p": "hǎo chǔ",
+                "d": "easy to get along with",
+                "s": ""
+            },
+            {
+                "id": "zh-1472",
+                "w": "森林",
+                "p": "sēn lín",
+                "d": "forest",
+                "s": ""
+            },
+            {
+                "id": "zh-1473",
+                "w": "生存",
+                "p": "shēng cún",
+                "d": "to exist",
+                "s": ""
+            },
+            {
+                "id": "zh-1474",
+                "w": "谈话",
+                "p": "tán huà",
+                "d": "to talk (with sb)",
+                "s": ""
+            },
+            {
+                "id": "zh-1475",
+                "w": "冒险",
+                "p": "mào xiǎn",
+                "d": "to take risks",
+                "s": ""
+            },
+            {
+                "id": "zh-1476",
+                "w": "地上",
+                "p": "dì shang",
+                "d": "on the ground",
+                "s": ""
+            },
+            {
+                "id": "zh-1477",
+                "w": "距离",
+                "p": "jù lí",
+                "d": "distance; separation (in space or time)",
+                "s": ""
+            },
+            {
+                "id": "zh-1478",
+                "w": "赌",
+                "p": "dǔ",
+                "d": "to bet; to gamble",
+                "s": ""
+            },
+            {
+                "id": "zh-1479",
+                "w": "世上",
+                "p": "shì shàng",
+                "d": "on earth",
+                "s": ""
+            },
+            {
+                "id": "zh-1480",
+                "w": "时间轴",
+                "p": "shí jiān zhóu",
+                "d": "time axis",
+                "s": ""
+            },
+            {
+                "id": "zh-1481",
+                "w": "恶魔",
+                "p": "è mó",
+                "d": "demon",
+                "s": ""
+            },
+            {
+                "id": "zh-1482",
+                "w": "激动",
+                "p": "jī dòng",
+                "d": "to move emotionally",
+                "s": ""
+            },
+            {
+                "id": "zh-1483",
+                "w": "想念",
+                "p": "xiǎng niàn",
+                "d": "to miss",
+                "s": ""
+            },
+            {
+                "id": "zh-1484",
+                "w": "证人",
+                "p": "zhèng rén",
+                "d": "witness",
+                "s": ""
+            },
+            {
+                "id": "zh-1485",
+                "w": "普通",
+                "p": "pǔ tōng",
+                "d": "common",
+                "s": ""
+            },
+            {
+                "id": "zh-1486",
+                "w": "天才",
+                "p": "tiān cái",
+                "d": "talent",
+                "s": ""
+            },
+            {
+                "id": "zh-1487",
+                "w": "生物",
+                "p": "shēng wù",
+                "d": "organism; living creature; life form",
+                "s": ""
+            },
+            {
+                "id": "zh-1488",
+                "w": "之中",
+                "p": "zhī zhōng",
+                "d": "inside",
+                "s": ""
+            },
+            {
+                "id": "zh-1489",
+                "w": "肉",
+                "p": "ròu",
+                "d": "meat",
+                "s": ""
+            },
+            {
+                "id": "zh-1490",
+                "w": "妓女",
+                "p": "jì nǚ",
+                "d": "prostitute; hooker",
+                "s": ""
+            },
+            {
+                "id": "zh-1491",
+                "w": "布",
+                "p": "bù",
+                "d": "cloth",
+                "s": ""
+            },
+            {
+                "id": "zh-1492",
+                "w": "提出",
+                "p": "tí chū",
+                "d": "to raise (an issue)",
+                "s": ""
+            },
+            {
+                "id": "zh-1493",
+                "w": "所谓",
+                "p": "suǒ wèi",
+                "d": "what is meant by the expression ...; what is referred to as ...",
+                "s": ""
+            },
+            {
+                "id": "zh-1494",
+                "w": "正式",
+                "p": "zhèng shì",
+                "d": "formal; official",
+                "s": ""
+            },
+            {
+                "id": "zh-1495",
+                "w": "洗",
+                "p": "xǐ",
+                "d": "to wash; to bathe",
+                "s": ""
+            },
+            {
+                "id": "zh-1496",
+                "w": "政治",
+                "p": "zhèng zhì",
+                "d": "politics",
+                "s": ""
+            },
+            {
+                "id": "zh-1497",
+                "w": "邪恶",
+                "p": "xié è",
+                "d": "sinister",
+                "s": ""
+            },
+            {
+                "id": "zh-1498",
+                "w": "从不",
+                "p": "cóng bù",
+                "d": "never",
+                "s": ""
+            },
+            {
+                "id": "zh-1499",
+                "w": "动手",
+                "p": "dòng shǒu",
+                "d": "to set about (a task)",
+                "s": ""
+            },
+            {
+                "id": "zh-1500",
+                "w": "转",
+                "p": "zhuǎn",
+                "d": "to turn",
+                "s": ""
+            },
+            {
+                "id": "zh-1501",
+                "w": "取消",
+                "p": "qǔ xiāo",
+                "d": "to cancel; to call off; to revoke; to rescind",
+                "s": ""
+            },
+            {
+                "id": "zh-1502",
+                "w": "玩意",
+                "p": "wán yì",
+                "d": "toy",
+                "s": ""
+            },
+            {
+                "id": "zh-1503",
+                "w": "班",
+                "p": "bān",
+                "d": "team; class; grade",
+                "s": ""
+            },
+            {
+                "id": "zh-1504",
+                "w": "条",
+                "p": "tiáo",
+                "d": "strip",
+                "s": ""
+            },
+            {
+                "id": "zh-1505",
+                "w": "搞砸",
+                "p": "gǎo zá",
+                "d": "to mess (sth) up",
+                "s": ""
+            },
+            {
+                "id": "zh-1506",
+                "w": "废话",
+                "p": "fèi huà",
+                "d": "nonsense; rubbish; superfluous words",
+                "s": ""
+            },
+            {
+                "id": "zh-1507",
+                "w": "猪",
+                "p": "zhū",
+                "d": "hog",
+                "s": ""
+            },
+            {
+                "id": "zh-1508",
+                "w": "观众",
+                "p": "guān zhòng",
+                "d": "spectators; audience; visitors (to an exhibition etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1509",
+                "w": "一周",
+                "p": "yī zhōu",
+                "d": "one week",
+                "s": ""
+            },
+            {
+                "id": "zh-1510",
+                "w": "成员",
+                "p": "chéng yuán",
+                "d": "member",
+                "s": ""
+            },
+            {
+                "id": "zh-1511",
+                "w": "即将",
+                "p": "jí jiāng",
+                "d": "about to; on the point of; soon",
+                "s": ""
+            },
+            {
+                "id": "zh-1512",
+                "w": "作",
+                "p": "zuò",
+                "d": "to do; to engage in",
+                "s": ""
+            },
+            {
+                "id": "zh-1513",
+                "w": "学会",
+                "p": "xué huì",
+                "d": "to learn; to master",
+                "s": ""
+            },
+            {
+                "id": "zh-1514",
+                "w": "醒来",
+                "p": "xǐng lái",
+                "d": "to waken",
+                "s": ""
+            },
+            {
+                "id": "zh-1515",
+                "w": "饭",
+                "p": "fàn",
+                "d": "cooked rice",
+                "s": ""
+            },
+            {
+                "id": "zh-1516",
+                "w": "旅馆",
+                "p": "lǚ guǎn",
+                "d": "hotel",
+                "s": ""
+            },
+            {
+                "id": "zh-1517",
+                "w": "建立",
+                "p": "jiàn lì",
+                "d": "to establish",
+                "s": ""
+            },
+            {
+                "id": "zh-1518",
+                "w": "山姆",
+                "p": "shān mǔ",
+                "d": "(name) Sam",
+                "s": ""
+            },
+            {
+                "id": "zh-1519",
+                "w": "高中",
+                "p": "gāo zhōng",
+                "d": "senior high school (abbr. for 高級中學|高级中学)",
+                "s": ""
+            },
+            {
+                "id": "zh-1520",
+                "w": "娶",
+                "p": "qǔ",
+                "d": "to take a wife",
+                "s": ""
+            },
+            {
+                "id": "zh-1521",
+                "w": "说实话",
+                "p": "shuō shí huà",
+                "d": "to speak the truth",
+                "s": ""
+            },
+            {
+                "id": "zh-1522",
+                "w": "哟",
+                "p": "yō",
+                "d": "Oh! (interjection indicating slight surprise)",
+                "s": ""
+            },
+            {
+                "id": "zh-1523",
+                "w": "去年",
+                "p": "qù nián",
+                "d": "last year",
+                "s": ""
+            },
+            {
+                "id": "zh-1524",
+                "w": "特殊",
+                "p": "tè shū",
+                "d": "special",
+                "s": ""
+            },
+            {
+                "id": "zh-1525",
+                "w": "黑人",
+                "p": "hēi rén",
+                "d": "black person",
+                "s": ""
+            },
+            {
+                "id": "zh-1526",
+                "w": "勇敢",
+                "p": "yǒng gǎn",
+                "d": "brave; courageous",
+                "s": ""
+            },
+            {
+                "id": "zh-1527",
+                "w": "不算",
+                "p": "bù suàn",
+                "d": "to not calculate",
+                "s": ""
+            },
+            {
+                "id": "zh-1528",
+                "w": "别管",
+                "p": "bié guǎn",
+                "d": "no matter (who, what etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1529",
+                "w": "等到",
+                "p": "děng dào",
+                "d": "to wait until",
+                "s": ""
+            },
+            {
+                "id": "zh-1530",
+                "w": "介意",
+                "p": "jiè yì",
+                "d": "to care about",
+                "s": ""
+            },
+            {
+                "id": "zh-1531",
+                "w": "卡尔",
+                "p": "kǎ ěr",
+                "d": "(name) Karl; Carl",
+                "s": ""
+            },
+            {
+                "id": "zh-1532",
+                "w": "手下",
+                "p": "shǒu xià",
+                "d": "under one's control or administration",
+                "s": ""
+            },
+            {
+                "id": "zh-1533",
+                "w": "发射",
+                "p": "fā shè",
+                "d": "to shoot (a projectile)",
+                "s": ""
+            },
+            {
+                "id": "zh-1534",
+                "w": "印度",
+                "p": "yìn dù",
+                "d": "India",
+                "s": ""
+            },
+            {
+                "id": "zh-1535",
+                "w": "手指",
+                "p": "shǒu zhǐ",
+                "d": "finger",
+                "s": ""
+            },
+            {
+                "id": "zh-1536",
+                "w": "思考",
+                "p": "sī kǎo",
+                "d": "to reflect on",
+                "s": ""
+            },
+            {
+                "id": "zh-1537",
+                "w": "累",
+                "p": "lèi",
+                "d": "tired",
+                "s": ""
+            },
+            {
+                "id": "zh-1538",
+                "w": "几年",
+                "p": "jǐ nián",
+                "d": "a few years; several years",
+                "s": ""
+            },
+            {
+                "id": "zh-1539",
+                "w": "茶",
+                "p": "chá",
+                "d": "tea",
+                "s": ""
+            },
+            {
+                "id": "zh-1540",
+                "w": "恢复",
+                "p": "huī fù",
+                "d": "to reinstate",
+                "s": ""
+            },
+            {
+                "id": "zh-1541",
+                "w": "导演",
+                "p": "dǎo yǎn",
+                "d": "to direct",
+                "s": ""
+            },
+            {
+                "id": "zh-1542",
+                "w": "夜晚",
+                "p": "yè wǎn",
+                "d": "night",
+                "s": ""
+            },
+            {
+                "id": "zh-1543",
+                "w": "帽子",
+                "p": "mào zi",
+                "d": "hat",
+                "s": ""
+            },
+            {
+                "id": "zh-1544",
+                "w": "拍摄",
+                "p": "pāi shè",
+                "d": "to take (a picture); to shoot (a film)",
+                "s": ""
+            },
+            {
+                "id": "zh-1545",
+                "w": "中间",
+                "p": "zhōng jiān",
+                "d": "the middle; the inside",
+                "s": ""
+            },
+            {
+                "id": "zh-1546",
+                "w": "公园",
+                "p": "gōng yuán",
+                "d": "park (for public recreation)",
+                "s": ""
+            },
+            {
+                "id": "zh-1547",
+                "w": "呵呵",
+                "p": "hē hē",
+                "d": "(onom.) gentle laughter",
+                "s": ""
+            },
+            {
+                "id": "zh-1548",
+                "w": "意大利",
+                "p": "yì dà lì",
+                "d": "Italy",
+                "s": ""
+            },
+            {
+                "id": "zh-1549",
+                "w": "犯",
+                "p": "fàn",
+                "d": "to violate",
+                "s": ""
+            },
+            {
+                "id": "zh-1550",
+                "w": "背叛",
+                "p": "bèi pàn",
+                "d": "to betray",
+                "s": ""
+            },
+            {
+                "id": "zh-1551",
+                "w": "魔鬼",
+                "p": "mó guǐ",
+                "d": "devil",
+                "s": ""
+            },
+            {
+                "id": "zh-1552",
+                "w": "过程",
+                "p": "guò chéng",
+                "d": "course of events; process",
+                "s": ""
+            },
+            {
+                "id": "zh-1553",
+                "w": "了不起",
+                "p": "liǎo bu qǐ",
+                "d": "amazing",
+                "s": ""
+            },
+            {
+                "id": "zh-1554",
+                "w": "店",
+                "p": "diàn",
+                "d": "inn; old-style hotel (CL:家)",
+                "s": ""
+            },
+            {
+                "id": "zh-1555",
+                "w": "不怕",
+                "p": "bù pà",
+                "d": "fearless",
+                "s": ""
+            },
+            {
+                "id": "zh-1556",
+                "w": "哎呀",
+                "p": "āi yā",
+                "d": "interjection of wonder, shock or admiration",
+                "s": ""
+            },
+            {
+                "id": "zh-1557",
+                "w": "气",
+                "p": "qì",
+                "d": "gas; air",
+                "s": ""
+            },
+            {
+                "id": "zh-1558",
+                "w": "差",
+                "p": "chā",
+                "d": "difference; discrepancy",
+                "s": ""
+            },
+            {
+                "id": "zh-1559",
+                "w": "唱歌",
+                "p": "chàng gē",
+                "d": "to sing a song",
+                "s": ""
+            },
+            {
+                "id": "zh-1560",
+                "w": "以来",
+                "p": "yǐ lái",
+                "d": "since (used after a specified time or event)",
+                "s": ""
+            },
+            {
+                "id": "zh-1561",
+                "w": "站住",
+                "p": "zhàn zhù",
+                "d": "to come to a stop; to halt",
+                "s": ""
+            },
+            {
+                "id": "zh-1562",
+                "w": "经验",
+                "p": "jīng yàn",
+                "d": "experience",
+                "s": ""
+            },
+            {
+                "id": "zh-1563",
+                "w": "变化",
+                "p": "biàn huà",
+                "d": "(intransitive) to change; to vary",
+                "s": ""
+            },
+            {
+                "id": "zh-1564",
+                "w": "吉米",
+                "p": "jí mǐ",
+                "d": "Jimmy, Jimmie or Jimi (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1565",
+                "w": "尽力",
+                "p": "jìn lì",
+                "d": "to strive one's hardest; to spare no effort",
+                "s": ""
+            },
+            {
+                "id": "zh-1566",
+                "w": "亲自",
+                "p": "qīn zì",
+                "d": "personally",
+                "s": ""
+            },
+            {
+                "id": "zh-1567",
+                "w": "强大",
+                "p": "qiáng dà",
+                "d": "big and strong; formidable; powerful",
+                "s": ""
+            },
+            {
+                "id": "zh-1568",
+                "w": "引起",
+                "p": "yǐn qǐ",
+                "d": "to give rise to; to lead to; to cause; to arouse",
+                "s": ""
+            },
+            {
+                "id": "zh-1569",
+                "w": "乱",
+                "p": "luàn",
+                "d": "in confusion or disorder",
+                "s": ""
+            },
+            {
+                "id": "zh-1570",
+                "w": "前进",
+                "p": "qián jìn",
+                "d": "to go forward",
+                "s": ""
+            },
+            {
+                "id": "zh-1571",
+                "w": "有用",
+                "p": "yǒu yòng",
+                "d": "useful",
+                "s": ""
+            },
+            {
+                "id": "zh-1572",
+                "w": "组",
+                "p": "zǔ",
+                "d": "to form",
+                "s": ""
+            },
+            {
+                "id": "zh-1573",
+                "w": "投票",
+                "p": "tóu piào",
+                "d": "to vote; to cast a vote",
+                "s": ""
+            },
+            {
+                "id": "zh-1574",
+                "w": "乐队",
+                "p": "yuè duì",
+                "d": "band",
+                "s": ""
+            },
+            {
+                "id": "zh-1575",
+                "w": "想像",
+                "p": "xiǎng xiàng",
+                "d": "to imagine; to envision",
+                "s": ""
+            },
+            {
+                "id": "zh-1576",
+                "w": "声",
+                "p": "shēng",
+                "d": "sound",
+                "s": ""
+            },
+            {
+                "id": "zh-1577",
+                "w": "全世界",
+                "p": "quán shì jiè",
+                "d": "worldwide",
+                "s": ""
+            },
+            {
+                "id": "zh-1578",
+                "w": "满意",
+                "p": "mǎn yì",
+                "d": "satisfied",
+                "s": ""
+            },
+            {
+                "id": "zh-1579",
+                "w": "艺术",
+                "p": "yì shù",
+                "d": "art",
+                "s": ""
+            },
+            {
+                "id": "zh-1580",
+                "w": "王子",
+                "p": "wáng zǐ",
+                "d": "prince",
+                "s": ""
+            },
+            {
+                "id": "zh-1581",
+                "w": "无关",
+                "p": "wú guān",
+                "d": "unrelated",
+                "s": ""
+            },
+            {
+                "id": "zh-1582",
+                "w": "名单",
+                "p": "míng dān",
+                "d": "list of names",
+                "s": ""
+            },
+            {
+                "id": "zh-1583",
+                "w": "甜心",
+                "p": "tián xīn",
+                "d": "delighted to oblige",
+                "s": ""
+            },
+            {
+                "id": "zh-1584",
+                "w": "吸血鬼",
+                "p": "xī xuè guǐ",
+                "d": "leech",
+                "s": ""
+            },
+            {
+                "id": "zh-1585",
+                "w": "带上",
+                "p": "dài shàng",
+                "d": "to take along with one",
+                "s": ""
+            },
+            {
+                "id": "zh-1586",
+                "w": "吸引",
+                "p": "xī yǐn",
+                "d": "to attract; to appeal to; to fascinate",
+                "s": ""
+            },
+            {
+                "id": "zh-1587",
+                "w": "绑架",
+                "p": "bǎng jià",
+                "d": "to kidnap",
+                "s": ""
+            },
+            {
+                "id": "zh-1588",
+                "w": "骗子",
+                "p": "piàn zi",
+                "d": "swindler",
+                "s": ""
+            },
+            {
+                "id": "zh-1589",
+                "w": "各种",
+                "p": "gè zhǒng",
+                "d": "every kind of; all kinds of; various",
+                "s": ""
+            },
+            {
+                "id": "zh-1590",
+                "w": "惩罚",
+                "p": "chéng fá",
+                "d": "penalty",
+                "s": ""
+            },
+            {
+                "id": "zh-1591",
+                "w": "比利",
+                "p": "bǐ lì",
+                "d": "(HK, Sg, Tw) Pelé (1940–2022), Edson Arantes Do Nascimento, Brazilian football star",
+                "s": ""
+            },
+            {
+                "id": "zh-1592",
+                "w": "单独",
+                "p": "dān dú",
+                "d": "alone",
+                "s": ""
+            },
+            {
+                "id": "zh-1593",
+                "w": "愿",
+                "p": "yuàn",
+                "d": "honest and prudent",
+                "s": ""
+            },
+            {
+                "id": "zh-1594",
+                "w": "白",
+                "p": "bái",
+                "d": "white",
+                "s": ""
+            },
+            {
+                "id": "zh-1595",
+                "w": "特工",
+                "p": "tè gōng",
+                "d": "secret service",
+                "s": ""
+            },
+            {
+                "id": "zh-1596",
+                "w": "分开",
+                "p": "fēn kāi",
+                "d": "to separate",
+                "s": ""
+            },
+            {
+                "id": "zh-1597",
+                "w": "空间",
+                "p": "kōng jiān",
+                "d": "space; room",
+                "s": ""
+            },
+            {
+                "id": "zh-1598",
+                "w": "讲话",
+                "p": "jiǎng huà",
+                "d": "a speech",
+                "s": ""
+            },
+            {
+                "id": "zh-1599",
+                "w": "迈克尔",
+                "p": "mài kè ěr",
+                "d": "(name) Michael",
+                "s": ""
+            },
+            {
+                "id": "zh-1600",
+                "w": "爬",
+                "p": "pá",
+                "d": "to crawl",
+                "s": ""
+            },
+            {
+                "id": "zh-1601",
+                "w": "边",
+                "p": "biān",
+                "d": "side",
+                "s": ""
+            },
+            {
+                "id": "zh-1602",
+                "w": "卡车",
+                "p": "kǎ chē",
+                "d": "truck",
+                "s": ""
+            },
+            {
+                "id": "zh-1603",
+                "w": "光",
+                "p": "guāng",
+                "d": "light; ray (CL:道)",
+                "s": ""
+            },
+            {
+                "id": "zh-1604",
+                "w": "五",
+                "p": "wǔ",
+                "d": "five",
+                "s": ""
+            },
+            {
+                "id": "zh-1605",
+                "w": "练习",
+                "p": "liàn xí",
+                "d": "to practice",
+                "s": ""
+            },
+            {
+                "id": "zh-1606",
+                "w": "早餐",
+                "p": "zǎo cān",
+                "d": "breakfast",
+                "s": ""
+            },
+            {
+                "id": "zh-1607",
+                "w": "追踪",
+                "p": "zhuī zōng",
+                "d": "to track; to trace; to follow up",
+                "s": ""
+            },
+            {
+                "id": "zh-1608",
+                "w": "哼",
+                "p": "hēng",
+                "d": "to groan",
+                "s": ""
+            },
+            {
+                "id": "zh-1609",
+                "w": "接触",
+                "p": "jiē chù",
+                "d": "to touch",
+                "s": ""
+            },
+            {
+                "id": "zh-1610",
+                "w": "联络",
+                "p": "lián luò",
+                "d": "to get in touch with",
+                "s": ""
+            },
+            {
+                "id": "zh-1611",
+                "w": "承诺",
+                "p": "chéng nuò",
+                "d": "to promise",
+                "s": ""
+            },
+            {
+                "id": "zh-1612",
+                "w": "复杂",
+                "p": "fù zá",
+                "d": "complicated; complex",
+                "s": ""
+            },
+            {
+                "id": "zh-1613",
+                "w": "穿过",
+                "p": "chuān guò",
+                "d": "to pass through",
+                "s": ""
+            },
+            {
+                "id": "zh-1614",
+                "w": "挑战",
+                "p": "tiǎo zhàn",
+                "d": "to challenge; to take on a challenge; a challenge",
+                "s": ""
+            },
+            {
+                "id": "zh-1615",
+                "w": "旧",
+                "p": "jiù",
+                "d": "old",
+                "s": ""
+            },
+            {
+                "id": "zh-1616",
+                "w": "点儿",
+                "p": "diǎn r",
+                "d": "erhua variant of 點|点",
+                "s": ""
+            },
+            {
+                "id": "zh-1617",
+                "w": "关键",
+                "p": "guān jiàn",
+                "d": "crucial point",
+                "s": ""
+            },
+            {
+                "id": "zh-1618",
+                "w": "同性恋",
+                "p": "tóng xìng liàn",
+                "d": "homosexuality",
+                "s": ""
+            },
+            {
+                "id": "zh-1619",
+                "w": "儿",
+                "p": "ér",
+                "d": "child",
+                "s": ""
+            },
+            {
+                "id": "zh-1620",
+                "w": "临",
+                "p": "lín",
+                "d": "to face",
+                "s": ""
+            },
+            {
+                "id": "zh-1621",
+                "w": "实现",
+                "p": "shí xiàn",
+                "d": "to achieve; to implement; to realize; to bring about",
+                "s": ""
+            },
+            {
+                "id": "zh-1622",
+                "w": "外",
+                "p": "wài",
+                "d": "outside",
+                "s": ""
+            },
+            {
+                "id": "zh-1623",
+                "w": "好笑",
+                "p": "hǎo xiào",
+                "d": "laughable; funny; ridiculous",
+                "s": ""
+            },
+            {
+                "id": "zh-1624",
+                "w": "顺便",
+                "p": "shùn biàn",
+                "d": "conveniently",
+                "s": ""
+            },
+            {
+                "id": "zh-1625",
+                "w": "碰到",
+                "p": "pèng dào",
+                "d": "to come across",
+                "s": ""
+            },
+            {
+                "id": "zh-1626",
+                "w": "受不了",
+                "p": "shòu bù liǎo",
+                "d": "unbearable",
+                "s": ""
+            },
+            {
+                "id": "zh-1627",
+                "w": "免费",
+                "p": "miǎn fèi",
+                "d": "free (of charge)",
+                "s": ""
+            },
+            {
+                "id": "zh-1628",
+                "w": "无辜",
+                "p": "wú gū",
+                "d": "blameless; innocent",
+                "s": ""
+            },
+            {
+                "id": "zh-1629",
+                "w": "惊讶",
+                "p": "jīng yà",
+                "d": "amazed",
+                "s": ""
+            },
+            {
+                "id": "zh-1630",
+                "w": "导致",
+                "p": "dǎo zhì",
+                "d": "to lead to; to create; to cause; to bring about",
+                "s": ""
+            },
+            {
+                "id": "zh-1631",
+                "w": "好运",
+                "p": "hǎo yùn",
+                "d": "good luck",
+                "s": ""
+            },
+            {
+                "id": "zh-1632",
+                "w": "窗户",
+                "p": "chuāng hu",
+                "d": "window",
+                "s": ""
+            },
+            {
+                "id": "zh-1633",
+                "w": "抽",
+                "p": "chōu",
+                "d": "to draw out; to pull out from in between",
+                "s": ""
+            },
+            {
+                "id": "zh-1634",
+                "w": "痛",
+                "p": "tòng",
+                "d": "ache",
+                "s": ""
+            },
+            {
+                "id": "zh-1635",
+                "w": "魔法",
+                "p": "mó fǎ",
+                "d": "enchantment",
+                "s": ""
+            },
+            {
+                "id": "zh-1636",
+                "w": "世纪",
+                "p": "shì jì",
+                "d": "century",
+                "s": ""
+            },
+            {
+                "id": "zh-1637",
+                "w": "奇迹",
+                "p": "qí jì",
+                "d": "miracle; wonder; marvel",
+                "s": ""
+            },
+            {
+                "id": "zh-1638",
+                "w": "睡着",
+                "p": "shuì zháo",
+                "d": "to fall asleep",
+                "s": ""
+            },
+            {
+                "id": "zh-1639",
+                "w": "莎拉",
+                "p": "shā lā",
+                "d": "Sara or Sarah (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1640",
+                "w": "把手",
+                "p": "bǎ shǒu",
+                "d": "to shake hands",
+                "s": ""
+            },
+            {
+                "id": "zh-1641",
+                "w": "分享",
+                "p": "fēn xiǎng",
+                "d": "to share (esp. sth enjoyable, useful or beneficial)",
+                "s": ""
+            },
+            {
+                "id": "zh-1642",
+                "w": "车子",
+                "p": "chē zi",
+                "d": "car or other vehicle (bicycle, truck etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1643",
+                "w": "红色",
+                "p": "hóng sè",
+                "d": "red (color)",
+                "s": ""
+            },
+            {
+                "id": "zh-1644",
+                "w": "词",
+                "p": "cí",
+                "d": "word",
+                "s": ""
+            },
+            {
+                "id": "zh-1645",
+                "w": "年前",
+                "p": "nián qián",
+                "d": "by the end of the year",
+                "s": ""
+            },
+            {
+                "id": "zh-1646",
+                "w": "天气",
+                "p": "tiān qì",
+                "d": "weather",
+                "s": ""
+            },
+            {
+                "id": "zh-1647",
+                "w": "科学",
+                "p": "kē xué",
+                "d": "science",
+                "s": ""
+            },
+            {
+                "id": "zh-1648",
+                "w": "教练",
+                "p": "jiào liàn",
+                "d": "to coach; to train",
+                "s": ""
+            },
+            {
+                "id": "zh-1649",
+                "w": "洛杉矶",
+                "p": "luò shān jī",
+                "d": "Los Angeles, California",
+                "s": ""
+            },
+            {
+                "id": "zh-1650",
+                "w": "然而",
+                "p": "rán ér",
+                "d": "however; but; yet",
+                "s": ""
+            },
+            {
+                "id": "zh-1651",
+                "w": "感激",
+                "p": "gǎn jī",
+                "d": "to be grateful",
+                "s": ""
+            },
+            {
+                "id": "zh-1652",
+                "w": "同事",
+                "p": "tóng shì",
+                "d": "colleague; co-worker",
+                "s": ""
+            },
+            {
+                "id": "zh-1653",
+                "w": "收",
+                "p": "shōu",
+                "d": "to receive",
+                "s": ""
+            },
+            {
+                "id": "zh-1654",
+                "w": "密码",
+                "p": "mì mǎ",
+                "d": "cipher; secret code",
+                "s": ""
+            },
+            {
+                "id": "zh-1655",
+                "w": "神秘",
+                "p": "shén mì",
+                "d": "mysterious",
+                "s": ""
+            },
+            {
+                "id": "zh-1656",
+                "w": "环境",
+                "p": "huán jìng",
+                "d": "environment",
+                "s": ""
+            },
+            {
+                "id": "zh-1657",
+                "w": "启动",
+                "p": "qǐ dòng",
+                "d": "to start (a machine)",
+                "s": ""
+            },
+            {
+                "id": "zh-1658",
+                "w": "孤独",
+                "p": "gū dú",
+                "d": "lonely",
+                "s": ""
+            },
+            {
+                "id": "zh-1659",
+                "w": "上尉",
+                "p": "shàng wèi",
+                "d": "captain (military rank)",
+                "s": ""
+            },
+            {
+                "id": "zh-1660",
+                "w": "搭",
+                "p": "dā",
+                "d": "to put up",
+                "s": ""
+            },
+            {
+                "id": "zh-1661",
+                "w": "难以置信",
+                "p": "nán yǐ zhì xìn",
+                "d": "(idiom) hard to believe; incredible",
+                "s": ""
+            },
+            {
+                "id": "zh-1662",
+                "w": "飞行",
+                "p": "fēi xíng",
+                "d": "to fly; flight",
+                "s": ""
+            },
+            {
+                "id": "zh-1663",
+                "w": "哈利",
+                "p": "hā lì",
+                "d": "Harry",
+                "s": ""
+            },
+            {
+                "id": "zh-1664",
+                "w": "采取",
+                "p": "cǎi qǔ",
+                "d": "to adopt or carry out (measures, policies, course of action)",
+                "s": ""
+            },
+            {
+                "id": "zh-1665",
+                "w": "何时",
+                "p": "hé shí",
+                "d": "when",
+                "s": ""
+            },
+            {
+                "id": "zh-1666",
+                "w": "上学",
+                "p": "shàng xué",
+                "d": "to go to school",
+                "s": ""
+            },
+            {
+                "id": "zh-1667",
+                "w": "桌子",
+                "p": "zhuō zi",
+                "d": "table",
+                "s": ""
+            },
+            {
+                "id": "zh-1668",
+                "w": "年纪",
+                "p": "nián jì",
+                "d": "age",
+                "s": ""
+            },
+            {
+                "id": "zh-1669",
+                "w": "估计",
+                "p": "gū jì",
+                "d": "to estimate; to assess; to calculate",
+                "s": ""
+            },
+            {
+                "id": "zh-1670",
+                "w": "禁止",
+                "p": "jìn zhǐ",
+                "d": "to prohibit",
+                "s": ""
+            },
+            {
+                "id": "zh-1671",
+                "w": "紧急",
+                "p": "jǐn jí",
+                "d": "urgent",
+                "s": ""
+            },
+            {
+                "id": "zh-1672",
+                "w": "无所谓",
+                "p": "wú suǒ wèi",
+                "d": "to be indifferent",
+                "s": ""
+            },
+            {
+                "id": "zh-1673",
+                "w": "欧洲",
+                "p": "ōu zhōu",
+                "d": "Europe (abbr. for 歐羅巴洲|欧罗巴洲)",
+                "s": ""
+            },
+            {
+                "id": "zh-1674",
+                "w": "某种",
+                "p": "mǒu zhǒng",
+                "d": "some kind (of)",
+                "s": ""
+            },
+            {
+                "id": "zh-1675",
+                "w": "滚开",
+                "p": "gǔn kāi",
+                "d": "(of a liquid) to boil; boiling hot",
+                "s": ""
+            },
+            {
+                "id": "zh-1676",
+                "w": "释放",
+                "p": "shì fàng",
+                "d": "to release (a prisoner); to set free",
+                "s": ""
+            },
+            {
+                "id": "zh-1677",
+                "w": "交流",
+                "p": "jiāo liú",
+                "d": "to exchange",
+                "s": ""
+            },
+            {
+                "id": "zh-1678",
+                "w": "聚会",
+                "p": "jù huì",
+                "d": "party",
+                "s": ""
+            },
+            {
+                "id": "zh-1679",
+                "w": "邻居",
+                "p": "lín jū",
+                "d": "neighbor",
+                "s": ""
+            },
+            {
+                "id": "zh-1680",
+                "w": "放手",
+                "p": "fàng shǒu",
+                "d": "to let go one's hold",
+                "s": ""
+            },
+            {
+                "id": "zh-1681",
+                "w": "英里",
+                "p": "yīng lǐ",
+                "d": "mile (unit of length equal to 1.609 km)",
+                "s": ""
+            },
+            {
+                "id": "zh-1682",
+                "w": "安妮",
+                "p": "ān nī",
+                "d": "Annie (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-1683",
+                "w": "婴儿",
+                "p": "yīng ér",
+                "d": "infant",
+                "s": ""
+            },
+            {
+                "id": "zh-1684",
+                "w": "伤心",
+                "p": "shāng xīn",
+                "d": "to grieve",
+                "s": ""
+            },
+            {
+                "id": "zh-1685",
+                "w": "仅仅",
+                "p": "jǐn jǐn",
+                "d": "barely",
+                "s": ""
+            },
+            {
+                "id": "zh-1686",
+                "w": "理论",
+                "p": "lǐ lùn",
+                "d": "theory",
+                "s": ""
+            },
+            {
+                "id": "zh-1687",
+                "w": "非",
+                "p": "fēi",
+                "d": "to not be; not",
+                "s": ""
+            },
+            {
+                "id": "zh-1688",
+                "w": "早安",
+                "p": "zǎo ān",
+                "d": "Good morning!",
+                "s": ""
+            },
+            {
+                "id": "zh-1689",
+                "w": "癸",
+                "p": "guǐ",
+                "d": "tenth of the ten Heavenly Stems 十天干",
+                "s": ""
+            },
+            {
+                "id": "zh-1690",
+                "w": "整天",
+                "p": "zhěng tiān",
+                "d": "all day long",
+                "s": ""
+            },
+            {
+                "id": "zh-1691",
+                "w": "巧克力",
+                "p": "qiǎo kè lì",
+                "d": "(loanword) chocolate",
+                "s": ""
+            },
+            {
+                "id": "zh-1692",
+                "w": "找出",
+                "p": "zhǎo chū",
+                "d": "to find",
+                "s": ""
+            },
+            {
+                "id": "zh-1693",
+                "w": "杀害",
+                "p": "shā hài",
+                "d": "to murder",
+                "s": ""
+            },
+            {
+                "id": "zh-1694",
+                "w": "地区",
+                "p": "dì qū",
+                "d": "region; area (informal or geographical term)",
+                "s": ""
+            },
+            {
+                "id": "zh-1695",
+                "w": "受害者",
+                "p": "shòu hài zhě",
+                "d": "casualty",
+                "s": ""
+            },
+            {
+                "id": "zh-1696",
+                "w": "某些",
+                "p": "mǒu xiē",
+                "d": "some; certain (things)",
+                "s": ""
+            },
+            {
+                "id": "zh-1697",
+                "w": "后悔",
+                "p": "hòu huǐ",
+                "d": "to regret; to feel remorse",
+                "s": ""
+            },
+            {
+                "id": "zh-1698",
+                "w": "尽量",
+                "p": "jǐn liàng",
+                "d": "as much as possible",
+                "s": ""
+            },
+            {
+                "id": "zh-1699",
+                "w": "您好",
+                "p": "nín hǎo",
+                "d": "hello (polite)",
+                "s": ""
+            },
+            {
+                "id": "zh-1700",
+                "w": "精彩",
+                "p": "jīng cǎi",
+                "d": "wonderful",
+                "s": ""
+            },
+            {
+                "id": "zh-1701",
+                "w": "复",
+                "p": "fù",
+                "d": "to go and return",
+                "s": ""
+            },
+            {
+                "id": "zh-1702",
+                "w": "果然",
+                "p": "guǒ rán",
+                "d": "really",
+                "s": ""
+            },
+            {
+                "id": "zh-1703",
+                "w": "人人",
+                "p": "rén rén",
+                "d": "everyone",
+                "s": ""
+            },
+            {
+                "id": "zh-1704",
+                "w": "基地",
+                "p": "jī dì",
+                "d": "base (of operations, industrial, military, research etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1705",
+                "w": "说服",
+                "p": "shuō fú",
+                "d": "to persuade",
+                "s": ""
+            },
+            {
+                "id": "zh-1706",
+                "w": "数字",
+                "p": "shù zì",
+                "d": "numeral",
+                "s": ""
+            },
+            {
+                "id": "zh-1707",
+                "w": "空气",
+                "p": "kōng qì",
+                "d": "air",
+                "s": ""
+            },
+            {
+                "id": "zh-1708",
+                "w": "病毒",
+                "p": "bìng dú",
+                "d": "virus",
+                "s": ""
+            },
+            {
+                "id": "zh-1709",
+                "w": "规则",
+                "p": "guī zé",
+                "d": "rule; regulation",
+                "s": ""
+            },
+            {
+                "id": "zh-1710",
+                "w": "急",
+                "p": "jí",
+                "d": "urgent",
+                "s": ""
+            },
+            {
+                "id": "zh-1711",
+                "w": "左右",
+                "p": "zuǒ yòu",
+                "d": "left and right",
+                "s": ""
+            },
+            {
+                "id": "zh-1712",
+                "w": "彻底",
+                "p": "chè dǐ",
+                "d": "thorough",
+                "s": ""
+            },
+            {
+                "id": "zh-1713",
+                "w": "运气",
+                "p": "yùn qi",
+                "d": "luck (good or bad)",
+                "s": ""
+            },
+            {
+                "id": "zh-1714",
+                "w": "生病",
+                "p": "shēng bìng",
+                "d": "to fall ill",
+                "s": ""
+            },
+            {
+                "id": "zh-1715",
+                "w": "人物",
+                "p": "rén wù",
+                "d": "person; personage; figure (esp. sb of importance)",
+                "s": ""
+            },
+            {
+                "id": "zh-1716",
+                "w": "团队",
+                "p": "tuán duì",
+                "d": "team",
+                "s": ""
+            },
+            {
+                "id": "zh-1717",
+                "w": "尿",
+                "p": "niào",
+                "d": "to urinate",
+                "s": ""
+            },
+            {
+                "id": "zh-1718",
+                "w": "戒指",
+                "p": "jiè zhi",
+                "d": "(finger) ring",
+                "s": ""
+            },
+            {
+                "id": "zh-1719",
+                "w": "自我",
+                "p": "zì wǒ",
+                "d": "the self; oneself; self-",
+                "s": ""
+            },
+            {
+                "id": "zh-1720",
+                "w": "立即",
+                "p": "lì jí",
+                "d": "immediately",
+                "s": ""
+            },
+            {
+                "id": "zh-1721",
+                "w": "女生",
+                "p": "nǚ shēng",
+                "d": "schoolgirl",
+                "s": ""
+            },
+            {
+                "id": "zh-1722",
+                "w": "规矩",
+                "p": "guī ju",
+                "d": "lit. compass and set square",
+                "s": ""
+            },
+            {
+                "id": "zh-1723",
+                "w": "裤子",
+                "p": "kù zi",
+                "d": "trousers; pants",
+                "s": ""
+            },
+            {
+                "id": "zh-1724",
+                "w": "星球",
+                "p": "xīng qiú",
+                "d": "celestial body (e.g. planet, satellite etc); heavenly body",
+                "s": ""
+            },
+            {
+                "id": "zh-1725",
+                "w": "司机",
+                "p": "sī jī",
+                "d": "chauffeur; driver",
+                "s": ""
+            },
+            {
+                "id": "zh-1726",
+                "w": "大声",
+                "p": "dà shēng",
+                "d": "loud voice",
+                "s": ""
+            },
+            {
+                "id": "zh-1727",
+                "w": "象",
+                "p": "xiàng",
+                "d": "elephant",
+                "s": ""
+            },
+            {
+                "id": "zh-1728",
+                "w": "打死",
+                "p": "dǎ sǐ",
+                "d": "to kill",
+                "s": ""
+            },
+            {
+                "id": "zh-1729",
+                "w": "烧",
+                "p": "shāo",
+                "d": "to burn; to set on fire",
+                "s": ""
+            },
+            {
+                "id": "zh-1730",
+                "w": "线",
+                "p": "xiàn",
+                "d": "thread",
+                "s": ""
+            },
+            {
+                "id": "zh-1731",
+                "w": "依然",
+                "p": "yī rán",
+                "d": "still; as before",
+                "s": ""
+            },
+            {
+                "id": "zh-1732",
+                "w": "做事",
+                "p": "zuò shì",
+                "d": "to work",
+                "s": ""
+            },
+            {
+                "id": "zh-1733",
+                "w": "火",
+                "p": "huǒ",
+                "d": "fire",
+                "s": ""
+            },
+            {
+                "id": "zh-1734",
+                "w": "接到",
+                "p": "jiē dào",
+                "d": "to receive (letter etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-1735",
+                "w": "楼上",
+                "p": "lóu shàng",
+                "d": "upstairs",
+                "s": ""
+            },
+            {
+                "id": "zh-1736",
+                "w": "持续",
+                "p": "chí xù",
+                "d": "to continue; to last; to persist",
+                "s": ""
+            },
+            {
+                "id": "zh-1737",
+                "w": "强",
+                "p": "qiáng",
+                "d": "strong",
+                "s": ""
+            },
+            {
+                "id": "zh-1738",
+                "w": "要死",
+                "p": "yào sǐ",
+                "d": "extremely",
+                "s": ""
+            },
+            {
+                "id": "zh-1739",
+                "w": "协议",
+                "p": "xié yì",
+                "d": "agreement",
+                "s": ""
+            },
+            {
+                "id": "zh-1740",
+                "w": "折磨",
+                "p": "zhé mó",
+                "d": "to torment; to torture",
+                "s": ""
+            },
+            {
+                "id": "zh-1741",
+                "w": "拿来",
+                "p": "ná lái",
+                "d": "to bring",
+                "s": ""
+            },
+            {
+                "id": "zh-1742",
+                "w": "明星",
+                "p": "míng xīng",
+                "d": "star; celebrity",
+                "s": ""
+            },
+            {
+                "id": "zh-1743",
+                "w": "申请",
+                "p": "shēn qǐng",
+                "d": "to apply for sth",
+                "s": ""
+            },
+            {
+                "id": "zh-1744",
+                "w": "小伙子",
+                "p": "xiǎo huǒ zi",
+                "d": "(coll.) young man; young fellow; lad",
+                "s": ""
+            },
+            {
+                "id": "zh-1745",
+                "w": "小时候",
+                "p": "xiǎo shí hou",
+                "d": "in one's childhood",
+                "s": ""
+            },
+            {
+                "id": "zh-1746",
+                "w": "手里",
+                "p": "shǒu lǐ",
+                "d": "in hand",
+                "s": ""
+            },
+            {
+                "id": "zh-1747",
+                "w": "鸡",
+                "p": "jī",
+                "d": "fowl",
+                "s": ""
+            },
+            {
+                "id": "zh-1748",
+                "w": "西",
+                "p": "xī",
+                "d": "west",
+                "s": ""
+            },
+            {
+                "id": "zh-1749",
+                "w": "美女",
+                "p": "měi nǚ",
+                "d": "beautiful woman",
+                "s": ""
+            },
+            {
+                "id": "zh-1750",
+                "w": "性",
+                "p": "xìng",
+                "d": "nature",
+                "s": ""
+            },
+            {
+                "id": "zh-1751",
+                "w": "至",
+                "p": "zhì",
+                "d": "to arrive",
+                "s": ""
+            },
+            {
+                "id": "zh-1752",
+                "w": "刺激",
+                "p": "cì jī",
+                "d": "to provoke; to irritate; to upset; to stimulate; to excite",
+                "s": ""
+            },
+            {
+                "id": "zh-1753",
+                "w": "子",
+                "p": "zǐ",
+                "d": "son",
+                "s": ""
+            },
+            {
+                "id": "zh-1754",
+                "w": "耍",
+                "p": "shuǎ",
+                "d": "to play with",
+                "s": ""
+            },
+            {
+                "id": "zh-1755",
+                "w": "伤",
+                "p": "shāng",
+                "d": "to injure",
+                "s": ""
+            },
+            {
+                "id": "zh-1756",
+                "w": "仔细",
+                "p": "zǐ xì",
+                "d": "careful; attentive; cautious",
+                "s": ""
+            },
+            {
+                "id": "zh-1757",
+                "w": "让开",
+                "p": "ràng kāi",
+                "d": "to get out of the way",
+                "s": ""
+            },
+            {
+                "id": "zh-1758",
+                "w": "明明",
+                "p": "míng míng",
+                "d": "obviously",
+                "s": ""
+            },
+            {
+                "id": "zh-1759",
+                "w": "案件",
+                "p": "àn jiàn",
+                "d": "case",
+                "s": ""
+            },
+            {
+                "id": "zh-1760",
+                "w": "女孩子",
+                "p": "nǚ hái zi",
+                "d": "girl",
+                "s": ""
+            },
+            {
+                "id": "zh-1761",
+                "w": "地图",
+                "p": "dì tú",
+                "d": "map",
+                "s": ""
+            },
+            {
+                "id": "zh-1762",
+                "w": "乐意",
+                "p": "lè yì",
+                "d": "to be willing to do sth",
+                "s": ""
+            },
+            {
+                "id": "zh-1763",
+                "w": "吵",
+                "p": "chǎo",
+                "d": "noisy; loud",
+                "s": ""
+            },
+            {
+                "id": "zh-1764",
+                "w": "摧毁",
+                "p": "cuī huǐ",
+                "d": "to destroy; to wreck",
+                "s": ""
+            },
+            {
+                "id": "zh-1765",
+                "w": "赶",
+                "p": "gǎn",
+                "d": "to overtake; to catch up with",
+                "s": ""
+            },
+            {
+                "id": "zh-1766",
+                "w": "位",
+                "p": "wèi",
+                "d": "position",
+                "s": ""
+            },
+            {
+                "id": "zh-1767",
+                "w": "老鼠",
+                "p": "lǎo shǔ",
+                "d": "rat; mouse (CL:隻|只)",
+                "s": ""
+            },
+            {
+                "id": "zh-1768",
+                "w": "展示",
+                "p": "zhǎn shì",
+                "d": "to reveal; to display; to show; to exhibit",
+                "s": ""
+            },
+            {
+                "id": "zh-1769",
+                "w": "箱子",
+                "p": "xiāng zi",
+                "d": "suitcase",
+                "s": ""
+            },
+            {
+                "id": "zh-1770",
+                "w": "重复",
+                "p": "chóng fù",
+                "d": "to repeat",
+                "s": ""
+            },
+            {
+                "id": "zh-1771",
+                "w": "从来不",
+                "p": "cóng lái bù",
+                "d": "never",
+                "s": ""
+            },
+            {
+                "id": "zh-1772",
+                "w": "万岁",
+                "p": "wàn suì",
+                "d": "Long live (the king, the revolution etc)!",
+                "s": ""
+            },
+            {
+                "id": "zh-1773",
+                "w": "发出",
+                "p": "fā chū",
+                "d": "to issue (an order, decree etc); to send out; to dispatch",
+                "s": ""
+            },
+            {
+                "id": "zh-1774",
+                "w": "脖子",
+                "p": "bó zi",
+                "d": "neck",
+                "s": ""
+            },
+            {
+                "id": "zh-1775",
+                "w": "推",
+                "p": "tuī",
+                "d": "to push",
+                "s": ""
+            },
+            {
+                "id": "zh-1776",
+                "w": "权力",
+                "p": "quán lì",
+                "d": "power",
+                "s": ""
+            },
+            {
+                "id": "zh-1777",
+                "w": "方便",
+                "p": "fāng biàn",
+                "d": "convenient; suitable",
+                "s": ""
+            },
+            {
+                "id": "zh-1778",
+                "w": "军",
+                "p": "jūn",
+                "d": "(bound form) army",
+                "s": ""
+            },
+            {
+                "id": "zh-1779",
+                "w": "耳朵",
+                "p": "ěr duo",
+                "d": "ear",
+                "s": ""
+            },
+            {
+                "id": "zh-1780",
+                "w": "重点",
+                "p": "chóng diǎn",
+                "d": "to recount (e.g. results of election)",
+                "s": ""
+            },
+            {
+                "id": "zh-1781",
+                "w": "凭",
+                "p": "píng",
+                "d": "to lean on; to lean against",
+                "s": ""
+            },
+            {
+                "id": "zh-1782",
+                "w": "毕竟",
+                "p": "bì jìng",
+                "d": "after all",
+                "s": ""
+            },
+            {
+                "id": "zh-1783",
+                "w": "蓝色",
+                "p": "lán sè",
+                "d": "blue (color)",
+                "s": ""
+            },
+            {
+                "id": "zh-1784",
+                "w": "罪犯",
+                "p": "zuì fàn",
+                "d": "criminal",
+                "s": ""
+            },
+            {
+                "id": "zh-1785",
+                "w": "破",
+                "p": "pò",
+                "d": "broken",
+                "s": ""
+            },
+            {
+                "id": "zh-1786",
+                "w": "呼叫",
+                "p": "hū jiào",
+                "d": "to shout",
+                "s": ""
+            },
+            {
+                "id": "zh-1787",
+                "w": "打败",
+                "p": "dǎ bài",
+                "d": "to defeat",
+                "s": ""
+            },
+            {
+                "id": "zh-1788",
+                "w": "牧师",
+                "p": "mù shī",
+                "d": "chaplain",
+                "s": ""
+            },
+            {
+                "id": "zh-1789",
+                "w": "风",
+                "p": "fēng",
+                "d": "wind",
+                "s": ""
+            },
+            {
+                "id": "zh-1790",
+                "w": "毕业",
+                "p": "bì yè",
+                "d": "graduation",
+                "s": ""
+            },
+            {
+                "id": "zh-1791",
+                "w": "清理",
+                "p": "qīng lǐ",
+                "d": "to clear up",
+                "s": ""
+            },
+            {
+                "id": "zh-1792",
+                "w": "宣布",
+                "p": "xuān bù",
+                "d": "to declare",
+                "s": ""
+            },
+            {
+                "id": "zh-1793",
+                "w": "护士",
+                "p": "hù shi",
+                "d": "nurse",
+                "s": ""
+            },
+            {
+                "id": "zh-1794",
+                "w": "能量",
+                "p": "néng liàng",
+                "d": "energy",
+                "s": ""
+            },
+            {
+                "id": "zh-1795",
+                "w": "室",
+                "p": "shì",
+                "d": "room",
+                "s": ""
+            },
+            {
+                "id": "zh-1796",
+                "w": "加上",
+                "p": "jiā shàng",
+                "d": "to add; plus",
+                "s": ""
+            },
+            {
+                "id": "zh-1797",
+                "w": "万一",
+                "p": "wàn yī",
+                "d": "just in case",
+                "s": ""
+            },
+            {
+                "id": "zh-1798",
+                "w": "亲",
+                "p": "qīn",
+                "d": "parent",
+                "s": ""
+            },
+            {
+                "id": "zh-1799",
+                "w": "印象",
+                "p": "yìn xiàng",
+                "d": "impression (sth that stays in one's mind)",
+                "s": ""
+            },
+            {
+                "id": "zh-1800",
+                "w": "天空",
+                "p": "tiān kōng",
+                "d": "sky",
+                "s": ""
+            },
+            {
+                "id": "zh-1801",
+                "w": "游泳",
+                "p": "yóu yǒng",
+                "d": "swimming",
+                "s": ""
+            },
+            {
+                "id": "zh-1802",
+                "w": "拜拜",
+                "p": "bái bái",
+                "d": "(loanword) bye-bye",
+                "s": ""
+            },
+            {
+                "id": "zh-1803",
+                "w": "进展",
+                "p": "jìn zhǎn",
+                "d": "to make headway; to make progress",
+                "s": ""
+            },
+            {
+                "id": "zh-1804",
+                "w": "大部分",
+                "p": "dà bù fen",
+                "d": "the greater part; the majority; most",
+                "s": ""
+            },
+            {
+                "id": "zh-1805",
+                "w": "大脑",
+                "p": "dà nǎo",
+                "d": "brain",
+                "s": ""
+            },
+            {
+                "id": "zh-1806",
+                "w": "时光",
+                "p": "shí guāng",
+                "d": "time (esp. as sth that passes)",
+                "s": ""
+            },
+            {
+                "id": "zh-1807",
+                "w": "集",
+                "p": "jí",
+                "d": "to gather",
+                "s": ""
+            },
+            {
+                "id": "zh-1808",
+                "w": "阿姨",
+                "p": "ā yí",
+                "d": "maternal aunt",
+                "s": ""
+            },
+            {
+                "id": "zh-1809",
+                "w": "一对",
+                "p": "yī duì",
+                "d": "couple; pair",
+                "s": ""
+            },
+            {
+                "id": "zh-1810",
+                "w": "而言",
+                "p": "ér yán",
+                "d": "(typically preceded by 就… or 對…|对… etc) as far as ... is concerned; speaking in terms of ...",
+                "s": ""
+            },
+            {
+                "id": "zh-1811",
+                "w": "抛弃",
+                "p": "pāo qì",
+                "d": "to abandon",
+                "s": ""
+            },
+            {
+                "id": "zh-1812",
+                "w": "鼻子",
+                "p": "bí zi",
+                "d": "nose",
+                "s": ""
+            },
+            {
+                "id": "zh-1813",
+                "w": "塔",
+                "p": "tǎ",
+                "d": "pagoda (abbr. for 塔婆, a loanword from Sanskrit stūpa); tower; pylon (CL:座)",
+                "s": ""
+            },
+            {
+                "id": "zh-1814",
+                "w": "勇气",
+                "p": "yǒng qì",
+                "d": "courage",
+                "s": ""
+            },
+            {
+                "id": "zh-1815",
+                "w": "夏天",
+                "p": "xià tiān",
+                "d": "summer",
+                "s": ""
+            },
+            {
+                "id": "zh-1816",
+                "w": "远离",
+                "p": "yuǎn lí",
+                "d": "to be far from",
+                "s": ""
+            },
+            {
+                "id": "zh-1817",
+                "w": "如今",
+                "p": "rú jīn",
+                "d": "nowadays; now",
+                "s": ""
+            },
+            {
+                "id": "zh-1818",
+                "w": "阁下",
+                "p": "gé xià",
+                "d": "your distinguished self",
+                "s": ""
+            },
+            {
+                "id": "zh-1819",
+                "w": "某人",
+                "p": "mǒu rén",
+                "d": "someone",
+                "s": ""
+            },
+            {
+                "id": "zh-1820",
+                "w": "元",
+                "p": "yuán",
+                "d": "currency unit (esp. Chinese yuan)",
+                "s": ""
+            },
+            {
+                "id": "zh-1821",
+                "w": "肚子",
+                "p": "dù zi",
+                "d": "belly",
+                "s": ""
+            },
+            {
+                "id": "zh-1822",
+                "w": "随",
+                "p": "suí",
+                "d": "to follow",
+                "s": ""
+            },
+            {
+                "id": "zh-1823",
+                "w": "英语",
+                "p": "yīng yǔ",
+                "d": "English (language)",
+                "s": ""
+            },
+            {
+                "id": "zh-1824",
+                "w": "回忆",
+                "p": "huí yì",
+                "d": "to recall",
+                "s": ""
+            },
+            {
+                "id": "zh-1825",
+                "w": "神奇",
+                "p": "shén qí",
+                "d": "magical",
+                "s": ""
+            },
+            {
+                "id": "zh-1826",
+                "w": "干活",
+                "p": "gàn huó",
+                "d": "to work; to be employed",
+                "s": ""
+            },
+            {
+                "id": "zh-1827",
+                "w": "唉",
+                "p": "āi",
+                "d": "interjection or grunt of agreement or recognition (e.g. yes, it's me!)",
+                "s": ""
+            },
+            {
+                "id": "zh-1828",
+                "w": "熊",
+                "p": "xióng",
+                "d": "bear",
+                "s": ""
+            },
+            {
+                "id": "zh-1829",
+                "w": "场",
+                "p": "chǎng",
+                "d": "large place used for a specific purpose",
+                "s": ""
+            },
+            {
+                "id": "zh-1830",
+                "w": "年代",
+                "p": "nián dài",
+                "d": "a decade of a century (e.g. the Sixties)",
+                "s": ""
+            },
+            {
+                "id": "zh-1831",
+                "w": "大量",
+                "p": "dà liàng",
+                "d": "great amount",
+                "s": ""
+            },
+            {
+                "id": "zh-1832",
+                "w": "暴力",
+                "p": "bào lì",
+                "d": "violence",
+                "s": ""
+            },
+            {
+                "id": "zh-1833",
+                "w": "不仅",
+                "p": "bù jǐn",
+                "d": "not just; not limited to",
+                "s": ""
+            },
+            {
+                "id": "zh-1834",
+                "w": "付出",
+                "p": "fù chū",
+                "d": "to pay; to expend; to invest (energy or time)",
+                "s": ""
+            },
+            {
+                "id": "zh-1835",
+                "w": "职业",
+                "p": "zhí yè",
+                "d": "occupation; profession; vocation",
+                "s": ""
+            },
+            {
+                "id": "zh-1836",
+                "w": "实验室",
+                "p": "shí yàn shì",
+                "d": "laboratory",
+                "s": ""
+            },
+            {
+                "id": "zh-1837",
+                "w": "互相",
+                "p": "hù xiāng",
+                "d": "each other",
+                "s": ""
+            },
+            {
+                "id": "zh-1838",
+                "w": "专业",
+                "p": "zhuān yè",
+                "d": "specialty",
+                "s": ""
+            },
+            {
+                "id": "zh-1839",
+                "w": "内心",
+                "p": "nèi xīn",
+                "d": "heart; innermost being",
+                "s": ""
+            },
+            {
+                "id": "zh-1840",
+                "w": "无论如何",
+                "p": "wú lùn rú hé",
+                "d": "(idiom) whatever the case; in any event; no matter what; by all possible means",
+                "s": ""
+            },
+            {
+                "id": "zh-1841",
+                "w": "关注",
+                "p": "guān zhù",
+                "d": "to pay attention to; to follow sth closely; to follow (on social media)",
+                "s": ""
+            },
+            {
+                "id": "zh-1842",
+                "w": "委员会",
+                "p": "wěi yuán huì",
+                "d": "committee; commission",
+                "s": ""
+            },
+            {
+                "id": "zh-1843",
+                "w": "实验",
+                "p": "shí yàn",
+                "d": "experiment",
+                "s": ""
+            },
+            {
+                "id": "zh-1844",
+                "w": "战士",
+                "p": "zhàn shì",
+                "d": "fighter",
+                "s": ""
+            },
+            {
+                "id": "zh-1845",
+                "w": "他人",
+                "p": "tā rén",
+                "d": "another person; sb else; other people",
+                "s": ""
+            },
+            {
+                "id": "zh-1846",
+                "w": "联邦",
+                "p": "lián bāng",
+                "d": "federal",
+                "s": ""
+            },
+            {
+                "id": "zh-1847",
+                "w": "试着",
+                "p": "shì zhe",
+                "d": "(coll.) to try to",
+                "s": ""
+            },
+            {
+                "id": "zh-1848",
+                "w": "好奇",
+                "p": "hào qí",
+                "d": "inquisitive",
+                "s": ""
+            },
+            {
+                "id": "zh-1849",
+                "w": "城",
+                "p": "chéng",
+                "d": "city walls",
+                "s": ""
+            },
+            {
+                "id": "zh-1850",
+                "w": "打破",
+                "p": "dǎ pò",
+                "d": "to break; to smash",
+                "s": ""
+            },
+            {
+                "id": "zh-1851",
+                "w": "信仰",
+                "p": "xìn yǎng",
+                "d": "to believe in (a religion)",
+                "s": ""
+            },
+            {
+                "id": "zh-1852",
+                "w": "舞会",
+                "p": "wǔ huì",
+                "d": "dance",
+                "s": ""
+            },
+            {
+                "id": "zh-1853",
+                "w": "不可思议",
+                "p": "bù kě sī yì",
+                "d": "(idiom) inconceivable; unimaginable; unfathomable",
+                "s": ""
+            },
+            {
+                "id": "zh-1854",
+                "w": "将来",
+                "p": "jiāng lái",
+                "d": "in the future",
+                "s": ""
+            },
+            {
+                "id": "zh-1855",
+                "w": "付",
+                "p": "fù",
+                "d": "to pay",
+                "s": ""
+            },
+            {
+                "id": "zh-1856",
+                "w": "逃",
+                "p": "táo",
+                "d": "to escape",
+                "s": ""
+            },
+            {
+                "id": "zh-1857",
+                "w": "完毕",
+                "p": "wán bì",
+                "d": "to finish",
+                "s": ""
+            },
+            {
+                "id": "zh-1858",
+                "w": "朝",
+                "p": "cháo",
+                "d": "imperial or royal court",
+                "s": ""
+            },
+            {
+                "id": "zh-1859",
+                "w": "杂志",
+                "p": "zá zhì",
+                "d": "magazine",
+                "s": ""
+            },
+            {
+                "id": "zh-1860",
+                "w": "毫无",
+                "p": "háo wú",
+                "d": "not in the least",
+                "s": ""
+            },
+            {
+                "id": "zh-1861",
+                "w": "事业",
+                "p": "shì yè",
+                "d": "undertaking",
+                "s": ""
+            },
+            {
+                "id": "zh-1862",
+                "w": "假如",
+                "p": "jiǎ rú",
+                "d": "if",
+                "s": ""
+            },
+            {
+                "id": "zh-1863",
+                "w": "感兴趣",
+                "p": "gǎn xìng qù",
+                "d": "to be interested (in sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-1864",
+                "w": "打赌",
+                "p": "dǎ dǔ",
+                "d": "to bet",
+                "s": ""
+            },
+            {
+                "id": "zh-1865",
+                "w": "城堡",
+                "p": "chéng bǎo",
+                "d": "castle",
+                "s": ""
+            },
+            {
+                "id": "zh-1866",
+                "w": "退后",
+                "p": "tuì hòu",
+                "d": "to stand back",
+                "s": ""
+            },
+            {
+                "id": "zh-1867",
+                "w": "早点",
+                "p": "zǎo diǎn",
+                "d": "breakfast",
+                "s": ""
+            },
+            {
+                "id": "zh-1868",
+                "w": "说不定",
+                "p": "shuō bu dìng",
+                "d": "can't say for sure",
+                "s": ""
+            },
+            {
+                "id": "zh-1869",
+                "w": "菜",
+                "p": "cài",
+                "d": "vegetable; greens (CL:棵)",
+                "s": ""
+            },
+            {
+                "id": "zh-1870",
+                "w": "墨西哥",
+                "p": "mò xī gē",
+                "d": "Mexico",
+                "s": ""
+            },
+            {
+                "id": "zh-1871",
+                "w": "胡说",
+                "p": "hú shuō",
+                "d": "to talk nonsense",
+                "s": ""
+            },
+            {
+                "id": "zh-1872",
+                "w": "选手",
+                "p": "xuǎn shǒu",
+                "d": "athlete",
+                "s": ""
+            },
+            {
+                "id": "zh-1873",
+                "w": "犯人",
+                "p": "fàn rén",
+                "d": "convict",
+                "s": ""
+            },
+            {
+                "id": "zh-1874",
+                "w": "妓",
+                "p": "jì",
+                "d": "prostitute",
+                "s": ""
+            },
+            {
+                "id": "zh-1875",
+                "w": "华文",
+                "p": "huá wén",
+                "d": "Chinese language",
+                "s": ""
+            },
+            {
+                "id": "zh-1876",
+                "w": "遇见",
+                "p": "yù jiàn",
+                "d": "to meet",
+                "s": ""
+            },
+            {
+                "id": "zh-1877",
+                "w": "早晨",
+                "p": "zǎo chén",
+                "d": "early morning",
+                "s": ""
+            },
+            {
+                "id": "zh-1878",
+                "w": "范围",
+                "p": "fàn wéi",
+                "d": "range",
+                "s": ""
+            },
+            {
+                "id": "zh-1879",
+                "w": "诅咒",
+                "p": "zǔ zhòu",
+                "d": "to curse",
+                "s": ""
+            },
+            {
+                "id": "zh-1880",
+                "w": "变态",
+                "p": "biàn tài",
+                "d": "to metamorphose (biology)",
+                "s": ""
+            },
+            {
+                "id": "zh-1881",
+                "w": "伪",
+                "p": "wěi",
+                "d": "false",
+                "s": ""
+            },
+            {
+                "id": "zh-1882",
+                "w": "欣赏",
+                "p": "xīn shǎng",
+                "d": "to appreciate; to enjoy; to admire",
+                "s": ""
+            },
+            {
+                "id": "zh-1883",
+                "w": "谎言",
+                "p": "huǎng yán",
+                "d": "lie",
+                "s": ""
+            },
+            {
+                "id": "zh-1884",
+                "w": "小孩子",
+                "p": "xiǎo hái zi",
+                "d": "child",
+                "s": ""
+            },
+            {
+                "id": "zh-1885",
+                "w": "剑",
+                "p": "jiàn",
+                "d": "double-edged sword",
+                "s": ""
+            },
+            {
+                "id": "zh-1886",
+                "w": "相同",
+                "p": "xiāng tóng",
+                "d": "identical; same",
+                "s": ""
+            },
+            {
+                "id": "zh-1887",
+                "w": "师父",
+                "p": "shī fu",
+                "d": "used for 師傅|师傅 (in Taiwan)",
+                "s": ""
+            },
+            {
+                "id": "zh-1888",
+                "w": "聊",
+                "p": "liáo",
+                "d": "(coll.) to chat",
+                "s": ""
+            },
+            {
+                "id": "zh-1889",
+                "w": "到来",
+                "p": "dào lái",
+                "d": "to arrive",
+                "s": ""
+            },
+            {
+                "id": "zh-1890",
+                "w": "奥",
+                "p": "ào",
+                "d": "obscure",
+                "s": ""
+            },
+            {
+                "id": "zh-1891",
+                "w": "课",
+                "p": "kè",
+                "d": "subject",
+                "s": ""
+            },
+            {
+                "id": "zh-1892",
+                "w": "传统",
+                "p": "chuán tǒng",
+                "d": "tradition; traditional",
+                "s": ""
+            },
+            {
+                "id": "zh-1893",
+                "w": "真棒",
+                "p": "zhēn bàng",
+                "d": "super!",
+                "s": ""
+            },
+            {
+                "id": "zh-1894",
+                "w": "逃走",
+                "p": "táo zǒu",
+                "d": "to escape",
+                "s": ""
+            },
+            {
+                "id": "zh-1895",
+                "w": "近",
+                "p": "jìn",
+                "d": "near",
+                "s": ""
+            },
+            {
+                "id": "zh-1896",
+                "w": "程序",
+                "p": "chéng xù",
+                "d": "procedures",
+                "s": ""
+            },
+            {
+                "id": "zh-1897",
+                "w": "愤怒",
+                "p": "fèn nù",
+                "d": "angry",
+                "s": ""
+            },
+            {
+                "id": "zh-1898",
+                "w": "白人",
+                "p": "bái rén",
+                "d": "white man or woman; Caucasian",
+                "s": ""
+            },
+            {
+                "id": "zh-1899",
+                "w": "中尉",
+                "p": "zhōng wèi",
+                "d": "lieutenant (navy)",
+                "s": ""
+            },
+            {
+                "id": "zh-1900",
+                "w": "街上",
+                "p": "jiē shang",
+                "d": "on the street",
+                "s": ""
+            },
+            {
+                "id": "zh-1901",
+                "w": "隐藏",
+                "p": "yǐn cáng",
+                "d": "to hide",
+                "s": ""
+            },
+            {
+                "id": "zh-1902",
+                "w": "对待",
+                "p": "duì dài",
+                "d": "to treat",
+                "s": ""
+            },
+            {
+                "id": "zh-1903",
+                "w": "优秀",
+                "p": "yōu xiù",
+                "d": "outstanding; excellent",
+                "s": ""
+            },
+            {
+                "id": "zh-1904",
+                "w": "报道",
+                "p": "bào dào",
+                "d": "to report (news)",
+                "s": ""
+            },
+            {
+                "id": "zh-1905",
+                "w": "揍",
+                "p": "zòu",
+                "d": "to hit; to beat (sb)",
+                "s": ""
+            },
+            {
+                "id": "zh-1906",
+                "w": "度",
+                "p": "dù",
+                "d": "to pass",
+                "s": ""
+            },
+            {
+                "id": "zh-1907",
+                "w": "抽烟",
+                "p": "chōu yān",
+                "d": "to smoke (tobacco)",
+                "s": ""
+            },
+            {
+                "id": "zh-1908",
+                "w": "伙",
+                "p": "huǒ",
+                "d": "(bound form) meals (as in 伙食)",
+                "s": ""
+            },
+            {
+                "id": "zh-1909",
+                "w": "过得",
+                "p": "guò dé",
+                "d": "How are you getting by?",
+                "s": ""
+            },
+            {
+                "id": "zh-1910",
+                "w": "打架",
+                "p": "dǎ jià",
+                "d": "to fight",
+                "s": ""
+            },
+            {
+                "id": "zh-1911",
+                "w": "经典",
+                "p": "jīng diǎn",
+                "d": "the classics",
+                "s": ""
+            },
+            {
+                "id": "zh-1912",
+                "w": "观察",
+                "p": "guān chá",
+                "d": "to observe; to watch; to survey",
+                "s": ""
+            },
+            {
+                "id": "zh-1913",
+                "w": "女王",
+                "p": "nǚ wáng",
+                "d": "queen",
+                "s": ""
+            },
+            {
+                "id": "zh-1914",
+                "w": "午餐",
+                "p": "wǔ cān",
+                "d": "lunch",
+                "s": ""
+            },
+            {
+                "id": "zh-1915",
+                "w": "则",
+                "p": "zé",
+                "d": "(literary) (conjunction used to express contrast with a previous clause) but; then",
+                "s": ""
+            },
+            {
+                "id": "zh-1916",
+                "w": "看法",
+                "p": "kàn fǎ",
+                "d": "way of looking at a thing",
+                "s": ""
+            },
+            {
+                "id": "zh-1917",
+                "w": "喝醉",
+                "p": "hē zuì",
+                "d": "to get drunk",
+                "s": ""
+            },
+            {
+                "id": "zh-1918",
+                "w": "也好",
+                "p": "yě hǎo",
+                "d": "that's fine",
+                "s": ""
+            },
+            {
+                "id": "zh-1919",
+                "w": "留言",
+                "p": "liú yán",
+                "d": "to leave a message; to leave one's comments",
+                "s": ""
+            },
+            {
+                "id": "zh-1920",
+                "w": "床",
+                "p": "chuáng",
+                "d": "bed; couch (furniture that one can lie down on) (CL:張|张)",
+                "s": ""
+            },
+            {
+                "id": "zh-1921",
+                "w": "项目",
+                "p": "xiàng mù",
+                "d": "item; project; (sports) event",
+                "s": ""
+            },
+            {
+                "id": "zh-1922",
+                "w": "部门",
+                "p": "bù mén",
+                "d": "department",
+                "s": ""
+            },
+            {
+                "id": "zh-1923",
+                "w": "故意",
+                "p": "gù yì",
+                "d": "deliberately; on purpose",
+                "s": ""
+            },
+            {
+                "id": "zh-1924",
+                "w": "山",
+                "p": "shān",
+                "d": "mountain; hill (CL:座)",
+                "s": ""
+            },
+            {
+                "id": "zh-1925",
+                "w": "尔",
+                "p": "ěr",
+                "d": "thus",
+                "s": ""
+            },
+            {
+                "id": "zh-1926",
+                "w": "背后",
+                "p": "bèi hòu",
+                "d": "behind",
+                "s": ""
+            },
+            {
+                "id": "zh-1927",
+                "w": "付钱",
+                "p": "fù qián",
+                "d": "to pay",
+                "s": ""
+            },
+            {
+                "id": "zh-1928",
+                "w": "狼",
+                "p": "láng",
+                "d": "wolf",
+                "s": ""
+            },
+            {
+                "id": "zh-1929",
+                "w": "警探",
+                "p": "jǐng tàn",
+                "d": "police detective",
+                "s": ""
+            },
+            {
+                "id": "zh-1930",
+                "w": "指挥",
+                "p": "zhǐ huī",
+                "d": "to conduct",
+                "s": ""
+            },
+            {
+                "id": "zh-1931",
+                "w": "头上",
+                "p": "tóu shàng",
+                "d": "overhead",
+                "s": ""
+            },
+            {
+                "id": "zh-1932",
+                "w": "内容",
+                "p": "nèi róng",
+                "d": "content; substance; details",
+                "s": ""
+            },
+            {
+                "id": "zh-1933",
+                "w": "洗澡",
+                "p": "xǐ zǎo",
+                "d": "to bathe",
+                "s": ""
+            },
+            {
+                "id": "zh-1934",
+                "w": "黑色",
+                "p": "hēi sè",
+                "d": "black",
+                "s": ""
+            },
+            {
+                "id": "zh-1935",
+                "w": "关掉",
+                "p": "guān diào",
+                "d": "to switch off; to shut off",
+                "s": ""
+            },
+            {
+                "id": "zh-1936",
+                "w": "便宜",
+                "p": "biàn yí",
+                "d": "convenient",
+                "s": ""
+            },
+            {
+                "id": "zh-1937",
+                "w": "脱",
+                "p": "tuō",
+                "d": "to shed",
+                "s": ""
+            },
+            {
+                "id": "zh-1938",
+                "w": "大多数",
+                "p": "dà duō shù",
+                "d": "(great) majority",
+                "s": ""
+            },
+            {
+                "id": "zh-1939",
+                "w": "随着",
+                "p": "suí zhe",
+                "d": "along with",
+                "s": ""
+            },
+            {
+                "id": "zh-1940",
+                "w": "行李",
+                "p": "xíng li",
+                "d": "luggage",
+                "s": ""
+            },
+            {
+                "id": "zh-1941",
+                "w": "小组",
+                "p": "xiǎo zǔ",
+                "d": "group",
+                "s": ""
+            },
+            {
+                "id": "zh-1942",
+                "w": "区域",
+                "p": "qū yù",
+                "d": "area",
+                "s": ""
+            },
+            {
+                "id": "zh-1943",
+                "w": "几次",
+                "p": "jǐ cì",
+                "d": "several times",
+                "s": ""
+            },
+            {
+                "id": "zh-1944",
+                "w": "奴隶",
+                "p": "nú lì",
+                "d": "slave",
+                "s": ""
+            },
+            {
+                "id": "zh-1945",
+                "w": "看不见",
+                "p": "kàn bu jiàn",
+                "d": "cannot see",
+                "s": ""
+            },
+            {
+                "id": "zh-1946",
+                "w": "一人",
+                "p": "yī rén",
+                "d": "one person; a single person",
+                "s": ""
+            },
+            {
+                "id": "zh-1947",
+                "w": "浪漫",
+                "p": "làng màn",
+                "d": "romantic",
+                "s": ""
+            },
+            {
+                "id": "zh-1948",
+                "w": "独自",
+                "p": "dú zì",
+                "d": "alone",
+                "s": ""
+            },
+            {
+                "id": "zh-1949",
+                "w": "诶",
+                "p": "éi",
+                "d": "eh; huh (used to express surprise)",
+                "s": ""
+            },
+            {
+                "id": "zh-1950",
+                "w": "工厂",
+                "p": "gōng chǎng",
+                "d": "factory",
+                "s": ""
+            },
+            {
+                "id": "zh-1951",
+                "w": "起床",
+                "p": "qǐ chuáng",
+                "d": "to get out of bed; to get up",
+                "s": ""
+            },
+            {
+                "id": "zh-1952",
+                "w": "殿下",
+                "p": "diàn xià",
+                "d": "Your Majesty (honorific)",
+                "s": ""
+            },
+            {
+                "id": "zh-1953",
+                "w": "指控",
+                "p": "zhǐ kòng",
+                "d": "accusation",
+                "s": ""
+            },
+            {
+                "id": "zh-1954",
+                "w": "道理",
+                "p": "dào li",
+                "d": "reason",
+                "s": ""
+            },
+            {
+                "id": "zh-1955",
+                "w": "细节",
+                "p": "xì jié",
+                "d": "details; particulars",
+                "s": ""
+            },
+            {
+                "id": "zh-1956",
+                "w": "擦",
+                "p": "cā",
+                "d": "to rub; to scratch",
+                "s": ""
+            },
+            {
+                "id": "zh-1957",
+                "w": "尖叫",
+                "p": "jiān jiào",
+                "d": "to screech; to shriek",
+                "s": ""
+            },
+            {
+                "id": "zh-1958",
+                "w": "爵士",
+                "p": "jué shì",
+                "d": "knight",
+                "s": ""
+            },
+            {
+                "id": "zh-1959",
+                "w": "圣诞节",
+                "p": "shèng dàn jié",
+                "d": "Christmas time",
+                "s": ""
+            },
+            {
+                "id": "zh-1960",
+                "w": "冠军",
+                "p": "guàn jūn",
+                "d": "champion",
+                "s": ""
+            },
+            {
+                "id": "zh-1961",
+                "w": "按照",
+                "p": "àn zhào",
+                "d": "according to; in accordance with; on the basis of",
+                "s": ""
+            },
+            {
+                "id": "zh-1962",
+                "w": "摆脱",
+                "p": "bǎi tuō",
+                "d": "to break away from",
+                "s": ""
+            },
+            {
+                "id": "zh-1963",
+                "w": "说出",
+                "p": "shuō chū",
+                "d": "to speak out",
+                "s": ""
+            },
+            {
+                "id": "zh-1964",
+                "w": "毁灭",
+                "p": "huǐ miè",
+                "d": "to perish",
+                "s": ""
+            },
+            {
+                "id": "zh-1965",
+                "w": "态度",
+                "p": "tài du",
+                "d": "manner",
+                "s": ""
+            },
+            {
+                "id": "zh-1966",
+                "w": "教育",
+                "p": "jiào yù",
+                "d": "to educate",
+                "s": ""
+            },
+            {
+                "id": "zh-1967",
+                "w": "阳光",
+                "p": "yáng guāng",
+                "d": "sunshine",
+                "s": ""
+            },
+            {
+                "id": "zh-1968",
+                "w": "一堆",
+                "p": "yī duī",
+                "d": "pile; heap; a lot of; a bunch of",
+                "s": ""
+            },
+            {
+                "id": "zh-1969",
+                "w": "前往",
+                "p": "qián wǎng",
+                "d": "to leave for; to proceed towards; to go to",
+                "s": ""
+            },
+            {
+                "id": "zh-1970",
+                "w": "空",
+                "p": "kōng",
+                "d": "empty",
+                "s": ""
+            },
+            {
+                "id": "zh-1971",
+                "w": "档案",
+                "p": "dàng àn",
+                "d": "file; record; archive",
+                "s": ""
+            },
+            {
+                "id": "zh-1972",
+                "w": "醒",
+                "p": "xǐng",
+                "d": "to wake up",
+                "s": ""
+            },
+            {
+                "id": "zh-1973",
+                "w": "有所",
+                "p": "yǒu suǒ",
+                "d": "somewhat",
+                "s": ""
+            },
+            {
+                "id": "zh-1974",
+                "w": "树",
+                "p": "shù",
+                "d": "tree",
+                "s": ""
+            },
+            {
+                "id": "zh-1975",
+                "w": "大叔",
+                "p": "dà shū",
+                "d": "eldest of father's younger brothers",
+                "s": ""
+            },
+            {
+                "id": "zh-1976",
+                "w": "广告",
+                "p": "guǎng gào",
+                "d": "to advertise",
+                "s": ""
+            },
+            {
+                "id": "zh-1977",
+                "w": "伙伴",
+                "p": "huǒ bàn",
+                "d": "companion; pal",
+                "s": ""
+            },
+            {
+                "id": "zh-1978",
+                "w": "半",
+                "p": "bàn",
+                "d": "half",
+                "s": ""
+            },
+            {
+                "id": "zh-1979",
+                "w": "票",
+                "p": "piào",
+                "d": "ticket",
+                "s": ""
+            },
+            {
+                "id": "zh-1980",
+                "w": "娜",
+                "p": "nà",
+                "d": "(phonetic na)",
+                "s": ""
+            },
+            {
+                "id": "zh-1981",
+                "w": "悲伤",
+                "p": "bēi shāng",
+                "d": "sad; sorrowful",
+                "s": ""
+            },
+            {
+                "id": "zh-1982",
+                "w": "既",
+                "p": "jì",
+                "d": "already",
+                "s": ""
+            },
+            {
+                "id": "zh-1983",
+                "w": "罗斯",
+                "p": "luó sī",
+                "d": "(name) Ross; Rose; Roth",
+                "s": ""
+            },
+            {
+                "id": "zh-1984",
+                "w": "摸",
+                "p": "mō",
+                "d": "to feel with the hand",
+                "s": ""
+            },
+            {
+                "id": "zh-1985",
+                "w": "罢了",
+                "p": "bà le",
+                "d": "a modal particle indicating (that's all, only, nothing much)",
+                "s": ""
+            },
+            {
+                "id": "zh-1986",
+                "w": "太空",
+                "p": "tài kōng",
+                "d": "outer space",
+                "s": ""
+            },
+            {
+                "id": "zh-1987",
+                "w": "混乱",
+                "p": "hùn luàn",
+                "d": "confused; chaotic; disorderly",
+                "s": ""
+            },
+            {
+                "id": "zh-1988",
+                "w": "在场",
+                "p": "zài chǎng",
+                "d": "to be present; to be on the scene",
+                "s": ""
+            },
+            {
+                "id": "zh-1989",
+                "w": "红",
+                "p": "hóng",
+                "d": "red",
+                "s": ""
+            },
+            {
+                "id": "zh-1990",
+                "w": "骂",
+                "p": "mà",
+                "d": "to scold",
+                "s": ""
+            },
+            {
+                "id": "zh-1991",
+                "w": "误会",
+                "p": "wù huì",
+                "d": "to misunderstand",
+                "s": ""
+            },
+            {
+                "id": "zh-1992",
+                "w": "并非",
+                "p": "bìng fēi",
+                "d": "really isn't",
+                "s": ""
+            },
+            {
+                "id": "zh-1993",
+                "w": "重",
+                "p": "zhòng",
+                "d": "heavy",
+                "s": ""
+            },
+            {
+                "id": "zh-1994",
+                "w": "媒体",
+                "p": "méi tǐ",
+                "d": "media, esp. news media",
+                "s": ""
+            },
+            {
+                "id": "zh-1995",
+                "w": "面包",
+                "p": "miàn bāo",
+                "d": "bread",
+                "s": ""
+            },
+            {
+                "id": "zh-1996",
+                "w": "经济",
+                "p": "jīng jì",
+                "d": "economy",
+                "s": ""
+            },
+            {
+                "id": "zh-1997",
+                "w": "回头",
+                "p": "huí tóu",
+                "d": "to turn round; to turn one's head",
+                "s": ""
+            },
+            {
+                "id": "zh-1998",
+                "w": "大师",
+                "p": "dà shī",
+                "d": "great master",
+                "s": ""
+            },
+            {
+                "id": "zh-1999",
+                "w": "现金",
+                "p": "xiàn jīn",
+                "d": "cash",
+                "s": ""
+            },
+            {
+                "id": "zh-2000",
+                "w": "不久",
+                "p": "bù jiǔ",
+                "d": "not long (after)",
+                "s": ""
+            },
+            {
+                "id": "zh-2001",
+                "w": "数据",
+                "p": "shù jù",
+                "d": "data",
+                "s": ""
+            },
+            {
+                "id": "zh-2002",
+                "w": "熟悉",
+                "p": "shú xī",
+                "d": "to be familiar with; to know well",
+                "s": ""
+            },
+            {
+                "id": "zh-2003",
+                "w": "正如",
+                "p": "zhèng rú",
+                "d": "just as",
+                "s": ""
+            },
+            {
+                "id": "zh-2004",
+                "w": "笑话",
+                "p": "xiào hua",
+                "d": "joke; jest",
+                "s": ""
+            },
+            {
+                "id": "zh-2005",
+                "w": "法",
+                "p": "fǎ",
+                "d": "law",
+                "s": ""
+            },
+            {
+                "id": "zh-2006",
+                "w": "楼",
+                "p": "lóu",
+                "d": "house with more than 1 story",
+                "s": ""
+            },
+            {
+                "id": "zh-2007",
+                "w": "咯",
+                "p": "gē",
+                "d": "(phonetic)",
+                "s": ""
+            },
+            {
+                "id": "zh-2008",
+                "w": "市场",
+                "p": "shì chǎng",
+                "d": "marketplace; market; bazaar",
+                "s": ""
+            },
+            {
+                "id": "zh-2009",
+                "w": "损失",
+                "p": "sǔn shī",
+                "d": "loss",
+                "s": ""
+            },
+            {
+                "id": "zh-2010",
+                "w": "岛",
+                "p": "dǎo",
+                "d": "island",
+                "s": ""
+            },
+            {
+                "id": "zh-2011",
+                "w": "绝不",
+                "p": "jué bù",
+                "d": "in no way; not in the least; absolutely not",
+                "s": ""
+            },
+            {
+                "id": "zh-2012",
+                "w": "审判",
+                "p": "shěn pàn",
+                "d": "a trial",
+                "s": ""
+            },
+            {
+                "id": "zh-2013",
+                "w": "华盛顿",
+                "p": "huá shèng dùn",
+                "d": "Washington (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2014",
+                "w": "掌握",
+                "p": "zhǎng wò",
+                "d": "to grasp (often fig.)",
+                "s": ""
+            },
+            {
+                "id": "zh-2015",
+                "w": "射击",
+                "p": "shè jī",
+                "d": "to shoot; to fire (a gun)",
+                "s": ""
+            },
+            {
+                "id": "zh-2016",
+                "w": "在意",
+                "p": "zài yì",
+                "d": "to care about",
+                "s": ""
+            },
+            {
+                "id": "zh-2017",
+                "w": "达到",
+                "p": "dá dào",
+                "d": "to reach; to achieve; to attain",
+                "s": ""
+            },
+            {
+                "id": "zh-2018",
+                "w": "管理",
+                "p": "guǎn lǐ",
+                "d": "to supervise",
+                "s": ""
+            },
+            {
+                "id": "zh-2019",
+                "w": "洞",
+                "p": "dòng",
+                "d": "cave",
+                "s": ""
+            },
+            {
+                "id": "zh-2020",
+                "w": "坏人",
+                "p": "huài rén",
+                "d": "bad person",
+                "s": ""
+            },
+            {
+                "id": "zh-2021",
+                "w": "骑",
+                "p": "qí",
+                "d": "to sit astride",
+                "s": ""
+            },
+            {
+                "id": "zh-2022",
+                "w": "李",
+                "p": "lǐ",
+                "d": "plum",
+                "s": ""
+            },
+            {
+                "id": "zh-2023",
+                "w": "低",
+                "p": "dī",
+                "d": "low",
+                "s": ""
+            },
+            {
+                "id": "zh-2024",
+                "w": "集中",
+                "p": "jí zhōng",
+                "d": "to concentrate",
+                "s": ""
+            },
+            {
+                "id": "zh-2025",
+                "w": "凯特",
+                "p": "kǎi tè",
+                "d": "Kate (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2026",
+                "w": "教会",
+                "p": "jiāo huì",
+                "d": "to show",
+                "s": ""
+            },
+            {
+                "id": "zh-2027",
+                "w": "脑子",
+                "p": "nǎo zi",
+                "d": "brains",
+                "s": ""
+            },
+            {
+                "id": "zh-2028",
+                "w": "右",
+                "p": "yòu",
+                "d": "(bound form) right; right-hand side",
+                "s": ""
+            },
+            {
+                "id": "zh-2029",
+                "w": "最高",
+                "p": "zuì gāo",
+                "d": "tallest",
+                "s": ""
+            },
+            {
+                "id": "zh-2030",
+                "w": "想见",
+                "p": "xiǎng jiàn",
+                "d": "to infer",
+                "s": ""
+            },
+            {
+                "id": "zh-2031",
+                "w": "之外",
+                "p": "zhī wài",
+                "d": "outside",
+                "s": ""
+            },
+            {
+                "id": "zh-2032",
+                "w": "农场",
+                "p": "nóng chǎng",
+                "d": "farm",
+                "s": ""
+            },
+            {
+                "id": "zh-2033",
+                "w": "表情",
+                "p": "biǎo qíng",
+                "d": "(facial) expression",
+                "s": ""
+            },
+            {
+                "id": "zh-2034",
+                "w": "警局",
+                "p": "jǐng jú",
+                "d": "police department",
+                "s": ""
+            },
+            {
+                "id": "zh-2035",
+                "w": "用力",
+                "p": "yòng lì",
+                "d": "to exert oneself physically",
+                "s": ""
+            },
+            {
+                "id": "zh-2036",
+                "w": "规定",
+                "p": "guī dìng",
+                "d": "to stipulate; to specify; to prescribe; to fix (a price); to set (a quota)",
+                "s": ""
+            },
+            {
+                "id": "zh-2037",
+                "w": "轻",
+                "p": "qīng",
+                "d": "light",
+                "s": ""
+            },
+            {
+                "id": "zh-2038",
+                "w": "坚强",
+                "p": "jiān qiáng",
+                "d": "staunch",
+                "s": ""
+            },
+            {
+                "id": "zh-2039",
+                "w": "海洋",
+                "p": "hǎi yáng",
+                "d": "ocean",
+                "s": ""
+            },
+            {
+                "id": "zh-2040",
+                "w": "椅子",
+                "p": "yǐ zi",
+                "d": "chair",
+                "s": ""
+            },
+            {
+                "id": "zh-2041",
+                "w": "搜查",
+                "p": "sōu chá",
+                "d": "to search",
+                "s": ""
+            },
+            {
+                "id": "zh-2042",
+                "w": "抢劫",
+                "p": "qiǎng jié",
+                "d": "to rob",
+                "s": ""
+            },
+            {
+                "id": "zh-2043",
+                "w": "快要",
+                "p": "kuài yào",
+                "d": "nearly at the point of (doing sth); about to (do sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-2044",
+                "w": "退出",
+                "p": "tuì chū",
+                "d": "to withdraw",
+                "s": ""
+            },
+            {
+                "id": "zh-2045",
+                "w": "机器人",
+                "p": "jī qì rén",
+                "d": "robot; android",
+                "s": ""
+            },
+            {
+                "id": "zh-2046",
+                "w": "台",
+                "p": "tái",
+                "d": "(classical) you (in letters)",
+                "s": ""
+            },
+            {
+                "id": "zh-2047",
+                "w": "开火",
+                "p": "kāi huǒ",
+                "d": "to open fire; to start shooting",
+                "s": ""
+            },
+            {
+                "id": "zh-2048",
+                "w": "作用",
+                "p": "zuò yòng",
+                "d": "to act on; to affect",
+                "s": ""
+            },
+            {
+                "id": "zh-2049",
+                "w": "王",
+                "p": "wáng",
+                "d": "king or monarch",
+                "s": ""
+            },
+            {
+                "id": "zh-2050",
+                "w": "增加",
+                "p": "zēng jiā",
+                "d": "to raise; to increase",
+                "s": ""
+            },
+            {
+                "id": "zh-2051",
+                "w": "不太好",
+                "p": "bù tài hǎo",
+                "d": "not so good",
+                "s": ""
+            },
+            {
+                "id": "zh-2052",
+                "w": "一面",
+                "p": "yī miàn",
+                "d": "one side",
+                "s": ""
+            },
+            {
+                "id": "zh-2053",
+                "w": "思想",
+                "p": "sī xiǎng",
+                "d": "thought",
+                "s": ""
+            },
+            {
+                "id": "zh-2054",
+                "w": "放过",
+                "p": "fàng guò",
+                "d": "to let off",
+                "s": ""
+            },
+            {
+                "id": "zh-2055",
+                "w": "亚",
+                "p": "yà",
+                "d": "second",
+                "s": ""
+            },
+            {
+                "id": "zh-2056",
+                "w": "一声",
+                "p": "yī shēng",
+                "d": "first tone in Mandarin (high, level tone)",
+                "s": ""
+            },
+            {
+                "id": "zh-2057",
+                "w": "进攻",
+                "p": "jìn gōng",
+                "d": "to attack",
+                "s": ""
+            },
+            {
+                "id": "zh-2058",
+                "w": "代价",
+                "p": "dài jià",
+                "d": "price",
+                "s": ""
+            },
+            {
+                "id": "zh-2059",
+                "w": "对手",
+                "p": "duì shǒu",
+                "d": "opponent",
+                "s": ""
+            },
+            {
+                "id": "zh-2060",
+                "w": "伤口",
+                "p": "shāng kǒu",
+                "d": "wound",
+                "s": ""
+            },
+            {
+                "id": "zh-2061",
+                "w": "格",
+                "p": "gé",
+                "d": "square; lattice; grid; frame",
+                "s": ""
+            },
+            {
+                "id": "zh-2062",
+                "w": "当心",
+                "p": "dāng xīn",
+                "d": "to take care",
+                "s": ""
+            },
+            {
+                "id": "zh-2063",
+                "w": "为止",
+                "p": "wéi zhǐ",
+                "d": "until",
+                "s": ""
+            },
+            {
+                "id": "zh-2064",
+                "w": "扂",
+                "p": "diàn",
+                "d": "(literary) door latch",
+                "s": ""
+            },
+            {
+                "id": "zh-2065",
+                "w": "举行",
+                "p": "jǔ xíng",
+                "d": "to hold (a meeting, ceremony etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2066",
+                "w": "语言",
+                "p": "yǔ yán",
+                "d": "language",
+                "s": ""
+            },
+            {
+                "id": "zh-2067",
+                "w": "俄罗斯",
+                "p": "é luó sī",
+                "d": "Russia",
+                "s": ""
+            },
+            {
+                "id": "zh-2068",
+                "w": "白色",
+                "p": "bái sè",
+                "d": "white",
+                "s": ""
+            },
+            {
+                "id": "zh-2069",
+                "w": "吐",
+                "p": "tǔ",
+                "d": "to spit",
+                "s": ""
+            },
+            {
+                "id": "zh-2070",
+                "w": "国际",
+                "p": "guó jì",
+                "d": "international",
+                "s": ""
+            },
+            {
+                "id": "zh-2071",
+                "w": "有效",
+                "p": "yǒu xiào",
+                "d": "effective",
+                "s": ""
+            },
+            {
+                "id": "zh-2072",
+                "w": "盖",
+                "p": "gài",
+                "d": "lid",
+                "s": ""
+            },
+            {
+                "id": "zh-2073",
+                "w": "科学家",
+                "p": "kē xué jiā",
+                "d": "scientist",
+                "s": ""
+            },
+            {
+                "id": "zh-2074",
+                "w": "队伍",
+                "p": "duì wǔ",
+                "d": "troops; army",
+                "s": ""
+            },
+            {
+                "id": "zh-2075",
+                "w": "心中",
+                "p": "xīn zhōng",
+                "d": "central point",
+                "s": ""
+            },
+            {
+                "id": "zh-2076",
+                "w": "钻石",
+                "p": "zuàn shí",
+                "d": "diamond",
+                "s": ""
+            },
+            {
+                "id": "zh-2077",
+                "w": "忍受",
+                "p": "rěn shòu",
+                "d": "to bear; to endure",
+                "s": ""
+            },
+            {
+                "id": "zh-2078",
+                "w": "罗伯特",
+                "p": "luó bó tè",
+                "d": "Robert (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2079",
+                "w": "作家",
+                "p": "zuò jiā",
+                "d": "author",
+                "s": ""
+            },
+            {
+                "id": "zh-2080",
+                "w": "罪",
+                "p": "zuì",
+                "d": "guilt",
+                "s": ""
+            },
+            {
+                "id": "zh-2081",
+                "w": "出口",
+                "p": "chū kǒu",
+                "d": "an exit",
+                "s": ""
+            },
+            {
+                "id": "zh-2082",
+                "w": "欺骗",
+                "p": "qī piàn",
+                "d": "to deceive; to cheat",
+                "s": ""
+            },
+            {
+                "id": "zh-2083",
+                "w": "主演",
+                "p": "zhǔ yǎn",
+                "d": "to play the leading role; to star",
+                "s": ""
+            },
+            {
+                "id": "zh-2084",
+                "w": "著名",
+                "p": "zhù míng",
+                "d": "famous",
+                "s": ""
+            },
+            {
+                "id": "zh-2085",
+                "w": "渴望",
+                "p": "kě wàng",
+                "d": "to thirst for",
+                "s": ""
+            },
+            {
+                "id": "zh-2086",
+                "w": "愿望",
+                "p": "yuàn wàng",
+                "d": "desire",
+                "s": ""
+            },
+            {
+                "id": "zh-2087",
+                "w": "投资",
+                "p": "tóu zī",
+                "d": "investment",
+                "s": ""
+            },
+            {
+                "id": "zh-2088",
+                "w": "情绪",
+                "p": "qíng xù",
+                "d": "mood",
+                "s": ""
+            },
+            {
+                "id": "zh-2089",
+                "w": "留给",
+                "p": "liú gěi",
+                "d": "to set aside for",
+                "s": ""
+            },
+            {
+                "id": "zh-2090",
+                "w": "挖",
+                "p": "wā",
+                "d": "to dig",
+                "s": ""
+            },
+            {
+                "id": "zh-2091",
+                "w": "擅长",
+                "p": "shàn cháng",
+                "d": "to be good at; to be expert in",
+                "s": ""
+            },
+            {
+                "id": "zh-2092",
+                "w": "信心",
+                "p": "xìn xīn",
+                "d": "confidence",
+                "s": ""
+            },
+            {
+                "id": "zh-2093",
+                "w": "葬礼",
+                "p": "zàng lǐ",
+                "d": "burial",
+                "s": ""
+            },
+            {
+                "id": "zh-2094",
+                "w": "总部",
+                "p": "zǒng bù",
+                "d": "headquarters",
+                "s": ""
+            },
+            {
+                "id": "zh-2095",
+                "w": "事故",
+                "p": "shì gù",
+                "d": "accident",
+                "s": ""
+            },
+            {
+                "id": "zh-2096",
+                "w": "玩具",
+                "p": "wán jù",
+                "d": "plaything",
+                "s": ""
+            },
+            {
+                "id": "zh-2097",
+                "w": "教训",
+                "p": "jiào xun",
+                "d": "to provide guidance; to lecture sb; to upbraid",
+                "s": ""
+            },
+            {
+                "id": "zh-2098",
+                "w": "镇",
+                "p": "zhèn",
+                "d": "to press down",
+                "s": ""
+            },
+            {
+                "id": "zh-2099",
+                "w": "烟",
+                "p": "yān",
+                "d": "cigarette or pipe tobacco",
+                "s": ""
+            },
+            {
+                "id": "zh-2100",
+                "w": "海",
+                "p": "hǎi",
+                "d": "ocean",
+                "s": ""
+            },
+            {
+                "id": "zh-2101",
+                "w": "锁",
+                "p": "suǒ",
+                "d": "to lock; to lock up",
+                "s": ""
+            },
+            {
+                "id": "zh-2102",
+                "w": "抱怨",
+                "p": "bào yuàn",
+                "d": "to complain",
+                "s": ""
+            },
+            {
+                "id": "zh-2103",
+                "w": "部",
+                "p": "bù",
+                "d": "ministry",
+                "s": ""
+            },
+            {
+                "id": "zh-2104",
+                "w": "绑",
+                "p": "bǎng",
+                "d": "to tie",
+                "s": ""
+            },
+            {
+                "id": "zh-2105",
+                "w": "陌生人",
+                "p": "mò shēng rén",
+                "d": "stranger",
+                "s": ""
+            },
+            {
+                "id": "zh-2106",
+                "w": "为此",
+                "p": "wèi cǐ",
+                "d": "for this reason",
+                "s": ""
+            },
+            {
+                "id": "zh-2107",
+                "w": "毛",
+                "p": "máo",
+                "d": "hair",
+                "s": ""
+            },
+            {
+                "id": "zh-2108",
+                "w": "表达",
+                "p": "biǎo dá",
+                "d": "to express; to convey",
+                "s": ""
+            },
+            {
+                "id": "zh-2109",
+                "w": "一套",
+                "p": "yī tào",
+                "d": "suit",
+                "s": ""
+            },
+            {
+                "id": "zh-2110",
+                "w": "喊",
+                "p": "hǎn",
+                "d": "to yell",
+                "s": ""
+            },
+            {
+                "id": "zh-2111",
+                "w": "美妙",
+                "p": "měi miào",
+                "d": "beautiful",
+                "s": ""
+            },
+            {
+                "id": "zh-2112",
+                "w": "血液",
+                "p": "xuè yè",
+                "d": "blood",
+                "s": ""
+            },
+            {
+                "id": "zh-2113",
+                "w": "期间",
+                "p": "qī jiān",
+                "d": "period of time",
+                "s": ""
+            },
+            {
+                "id": "zh-2114",
+                "w": "度过",
+                "p": "dù guò",
+                "d": "to pass",
+                "s": ""
+            },
+            {
+                "id": "zh-2115",
+                "w": "聊天",
+                "p": "liáo tiān",
+                "d": "to chat; to gossip",
+                "s": ""
+            },
+            {
+                "id": "zh-2116",
+                "w": "乖乖",
+                "p": "guāi guāi",
+                "d": "(of a child) well-behaved",
+                "s": ""
+            },
+            {
+                "id": "zh-2117",
+                "w": "走路",
+                "p": "zǒu lù",
+                "d": "to walk; to go on foot",
+                "s": ""
+            },
+            {
+                "id": "zh-2118",
+                "w": "妈咪",
+                "p": "mā mi",
+                "d": "mommy (loanword)",
+                "s": ""
+            },
+            {
+                "id": "zh-2119",
+                "w": "马丁",
+                "p": "mǎ dīng",
+                "d": "Martin (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2120",
+                "w": "需",
+                "p": "xū",
+                "d": "to require",
+                "s": ""
+            },
+            {
+                "id": "zh-2121",
+                "w": "左边",
+                "p": "zuǒ bian",
+                "d": "left",
+                "s": ""
+            },
+            {
+                "id": "zh-2122",
+                "w": "有空",
+                "p": "yǒu kòng",
+                "d": "to have time (to do sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-2123",
+                "w": "视频",
+                "p": "shì pín",
+                "d": "video",
+                "s": ""
+            },
+            {
+                "id": "zh-2124",
+                "w": "说法",
+                "p": "shuō fǎ",
+                "d": "to expound Buddhist teachings",
+                "s": ""
+            },
+            {
+                "id": "zh-2125",
+                "w": "左",
+                "p": "zuǒ",
+                "d": "left",
+                "s": ""
+            },
+            {
+                "id": "zh-2126",
+                "w": "牛",
+                "p": "niú",
+                "d": "ox",
+                "s": ""
+            },
+            {
+                "id": "zh-2127",
+                "w": "保安",
+                "p": "bǎo ān",
+                "d": "to ensure public security",
+                "s": ""
+            },
+            {
+                "id": "zh-2128",
+                "w": "千万",
+                "p": "qiān wàn",
+                "d": "ten million",
+                "s": ""
+            },
+            {
+                "id": "zh-2129",
+                "w": "即",
+                "p": "jí",
+                "d": "namely",
+                "s": ""
+            },
+            {
+                "id": "zh-2130",
+                "w": "海滩",
+                "p": "hǎi tān",
+                "d": "beach",
+                "s": ""
+            },
+            {
+                "id": "zh-2131",
+                "w": "收集",
+                "p": "shōu jí",
+                "d": "to gather",
+                "s": ""
+            },
+            {
+                "id": "zh-2132",
+                "w": "背",
+                "p": "bèi",
+                "d": "the back of a body or object",
+                "s": ""
+            },
+            {
+                "id": "zh-2133",
+                "w": "每年",
+                "p": "měi nián",
+                "d": "every year",
+                "s": ""
+            },
+            {
+                "id": "zh-2134",
+                "w": "类似",
+                "p": "lèi sì",
+                "d": "similar; analogous",
+                "s": ""
+            },
+            {
+                "id": "zh-2135",
+                "w": "相处",
+                "p": "xiāng chǔ",
+                "d": "to be in contact (with sb)",
+                "s": ""
+            },
+            {
+                "id": "zh-2136",
+                "w": "出门",
+                "p": "chū mén",
+                "d": "to go out",
+                "s": ""
+            },
+            {
+                "id": "zh-2137",
+                "w": "王八蛋",
+                "p": "wáng bā dàn",
+                "d": "bastard; son of a bitch",
+                "s": ""
+            },
+            {
+                "id": "zh-2138",
+                "w": "全国",
+                "p": "quán guó",
+                "d": "whole nation",
+                "s": ""
+            },
+            {
+                "id": "zh-2139",
+                "w": "皮肤",
+                "p": "pí fū",
+                "d": "skin",
+                "s": ""
+            },
+            {
+                "id": "zh-2140",
+                "w": "暗",
+                "p": "àn",
+                "d": "dark",
+                "s": ""
+            },
+            {
+                "id": "zh-2141",
+                "w": "起诉",
+                "p": "qǐ sù",
+                "d": "to sue",
+                "s": ""
+            },
+            {
+                "id": "zh-2142",
+                "w": "埋",
+                "p": "mái",
+                "d": "to bury",
+                "s": ""
+            },
+            {
+                "id": "zh-2143",
+                "w": "杀掉",
+                "p": "shā diào",
+                "d": "to kill",
+                "s": ""
+            },
+            {
+                "id": "zh-2144",
+                "w": "鞋子",
+                "p": "xié zi",
+                "d": "shoe",
+                "s": ""
+            },
+            {
+                "id": "zh-2145",
+                "w": "事物",
+                "p": "shì wù",
+                "d": "thing; object",
+                "s": ""
+            },
+            {
+                "id": "zh-2146",
+                "w": "死者",
+                "p": "sǐ zhě",
+                "d": "the dead",
+                "s": ""
+            },
+            {
+                "id": "zh-2147",
+                "w": "设备",
+                "p": "shè bèi",
+                "d": "equipment; facilities; installations",
+                "s": ""
+            },
+            {
+                "id": "zh-2148",
+                "w": "不止",
+                "p": "bù zhǐ",
+                "d": "incessantly",
+                "s": ""
+            },
+            {
+                "id": "zh-2149",
+                "w": "拖",
+                "p": "tuō",
+                "d": "to drag",
+                "s": ""
+            },
+            {
+                "id": "zh-2150",
+                "w": "能否",
+                "p": "néng fǒu",
+                "d": "whether one can; whether it is possible",
+                "s": ""
+            },
+            {
+                "id": "zh-2151",
+                "w": "被捕",
+                "p": "bèi bǔ",
+                "d": "to be arrested",
+                "s": ""
+            },
+            {
+                "id": "zh-2152",
+                "w": "瞷",
+                "p": "jiàn",
+                "d": "to spy",
+                "s": ""
+            },
+            {
+                "id": "zh-2153",
+                "w": "分析",
+                "p": "fēn xī",
+                "d": "to analyze",
+                "s": ""
+            },
+            {
+                "id": "zh-2154",
+                "w": "微笑",
+                "p": "wēi xiào",
+                "d": "smile",
+                "s": ""
+            },
+            {
+                "id": "zh-2155",
+                "w": "建筑",
+                "p": "jiàn zhù",
+                "d": "to construct",
+                "s": ""
+            },
+            {
+                "id": "zh-2156",
+                "w": "额",
+                "p": "é",
+                "d": "forehead",
+                "s": ""
+            },
+            {
+                "id": "zh-2157",
+                "w": "情人",
+                "p": "qíng rén",
+                "d": "lover",
+                "s": ""
+            },
+            {
+                "id": "zh-2158",
+                "w": "降落",
+                "p": "jiàng luò",
+                "d": "to descend",
+                "s": ""
+            },
+            {
+                "id": "zh-2159",
+                "w": "年龄",
+                "p": "nián líng",
+                "d": "(a person's) age",
+                "s": ""
+            },
+            {
+                "id": "zh-2160",
+                "w": "投降",
+                "p": "tóu xiáng",
+                "d": "to surrender",
+                "s": ""
+            },
+            {
+                "id": "zh-2161",
+                "w": "定",
+                "p": "dìng",
+                "d": "to fix; to set; to make definite",
+                "s": ""
+            },
+            {
+                "id": "zh-2162",
+                "w": "交往",
+                "p": "jiāo wǎng",
+                "d": "to associate (with)",
+                "s": ""
+            },
+            {
+                "id": "zh-2163",
+                "w": "转移",
+                "p": "zhuǎn yí",
+                "d": "to shift; to relocate; to transfer",
+                "s": ""
+            },
+            {
+                "id": "zh-2164",
+                "w": "幻想",
+                "p": "huàn xiǎng",
+                "d": "to fantasize; to imagine",
+                "s": ""
+            },
+            {
+                "id": "zh-2165",
+                "w": "稳定",
+                "p": "wěn dìng",
+                "d": "steady",
+                "s": ""
+            },
+            {
+                "id": "zh-2166",
+                "w": "保险",
+                "p": "bǎo xiǎn",
+                "d": "insurance",
+                "s": ""
+            },
+            {
+                "id": "zh-2167",
+                "w": "盒子",
+                "p": "hé zi",
+                "d": "box; case",
+                "s": ""
+            },
+            {
+                "id": "zh-2168",
+                "w": "间谍",
+                "p": "jiàn dié",
+                "d": "spy",
+                "s": ""
+            },
+            {
+                "id": "zh-2169",
+                "w": "出事",
+                "p": "chū shì",
+                "d": "to have an accident",
+                "s": ""
+            },
+            {
+                "id": "zh-2170",
+                "w": "超",
+                "p": "chāo",
+                "d": "to exceed",
+                "s": ""
+            },
+            {
+                "id": "zh-2171",
+                "w": "威廉",
+                "p": "wēi lián",
+                "d": "William or Wilhelm (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2172",
+                "w": "啰",
+                "p": "luō",
+                "d": "used in 囉唆|啰唆 and 囉嗦|啰嗦",
+                "s": ""
+            },
+            {
+                "id": "zh-2173",
+                "w": "烂",
+                "p": "làn",
+                "d": "soft; mushy",
+                "s": ""
+            },
+            {
+                "id": "zh-2174",
+                "w": "作战",
+                "p": "zuò zhàn",
+                "d": "combat",
+                "s": ""
+            },
+            {
+                "id": "zh-2175",
+                "w": "宁愿",
+                "p": "nìng yuàn",
+                "d": "would rather ... (than ...)",
+                "s": ""
+            },
+            {
+                "id": "zh-2176",
+                "w": "签名",
+                "p": "qiān míng",
+                "d": "to sign (one's name with a pen etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2177",
+                "w": "局",
+                "p": "jú",
+                "d": "office",
+                "s": ""
+            },
+            {
+                "id": "zh-2178",
+                "w": "嫉妒",
+                "p": "jí dù",
+                "d": "to be jealous of; to envy",
+                "s": ""
+            },
+            {
+                "id": "zh-2179",
+                "w": "芝加哥",
+                "p": "zhī jiā gē",
+                "d": "Chicago, USA",
+                "s": ""
+            },
+            {
+                "id": "zh-2180",
+                "w": "乖",
+                "p": "guāi",
+                "d": "(of a child) obedient, well-behaved",
+                "s": ""
+            },
+            {
+                "id": "zh-2181",
+                "w": "英尺",
+                "p": "yīng chǐ",
+                "d": "foot (unit of length equal to 0.3048 m)",
+                "s": ""
+            },
+            {
+                "id": "zh-2182",
+                "w": "演",
+                "p": "yǎn",
+                "d": "to perform (a play etc); to stage (a show)",
+                "s": ""
+            },
+            {
+                "id": "zh-2183",
+                "w": "蟿",
+                "p": "qì",
+                "d": "(insect)",
+                "s": ""
+            },
+            {
+                "id": "zh-2184",
+                "w": "男子",
+                "p": "nán zǐ",
+                "d": "a man; a male",
+                "s": ""
+            },
+            {
+                "id": "zh-2185",
+                "w": "当成",
+                "p": "dàng chéng",
+                "d": "to consider as; to take to be",
+                "s": ""
+            },
+            {
+                "id": "zh-2186",
+                "w": "清醒",
+                "p": "qīng xǐng",
+                "d": "clear-headed",
+                "s": ""
+            },
+            {
+                "id": "zh-2187",
+                "w": "外套",
+                "p": "wài tào",
+                "d": "outer garment; jacket; coat",
+                "s": ""
+            },
+            {
+                "id": "zh-2188",
+                "w": "出色",
+                "p": "chū sè",
+                "d": "remarkable; outstanding",
+                "s": ""
+            },
+            {
+                "id": "zh-2189",
+                "w": "麦",
+                "p": "mài",
+                "d": "wheat; barley; oats",
+                "s": ""
+            },
+            {
+                "id": "zh-2190",
+                "w": "儿童",
+                "p": "ér tóng",
+                "d": "child",
+                "s": ""
+            },
+            {
+                "id": "zh-2191",
+                "w": "双手",
+                "p": "shuāng shǒu",
+                "d": "both hands",
+                "s": ""
+            },
+            {
+                "id": "zh-2192",
+                "w": "失陪",
+                "p": "shī péi",
+                "d": "Excuse me, I must be leaving now.",
+                "s": ""
+            },
+            {
+                "id": "zh-2193",
+                "w": "稍微",
+                "p": "shāo wēi",
+                "d": "a little bit",
+                "s": ""
+            },
+            {
+                "id": "zh-2194",
+                "w": "走进",
+                "p": "zǒu jìn",
+                "d": "to enter; to step into",
+                "s": ""
+            },
+            {
+                "id": "zh-2195",
+                "w": "尴尬",
+                "p": "gān gà",
+                "d": "awkward; embarrassed",
+                "s": ""
+            },
+            {
+                "id": "zh-2196",
+                "w": "工人",
+                "p": "gōng rén",
+                "d": "worker",
+                "s": ""
+            },
+            {
+                "id": "zh-2197",
+                "w": "懂得",
+                "p": "dǒng de",
+                "d": "to understand; to know; to comprehend",
+                "s": ""
+            },
+            {
+                "id": "zh-2198",
+                "w": "支付",
+                "p": "zhī fù",
+                "d": "to pay (money)",
+                "s": ""
+            },
+            {
+                "id": "zh-2199",
+                "w": "检察官",
+                "p": "jiǎn chá guān",
+                "d": "public prosecutor; public procurator (judicial officer whose job may involve both criminal investigation and public prosecution)",
+                "s": ""
+            },
+            {
+                "id": "zh-2200",
+                "w": "网络",
+                "p": "wǎng luò",
+                "d": "network",
+                "s": ""
+            },
+            {
+                "id": "zh-2201",
+                "w": "牛奶",
+                "p": "niú nǎi",
+                "d": "cow's milk",
+                "s": ""
+            },
+            {
+                "id": "zh-2202",
+                "w": "正要",
+                "p": "zhèng yào",
+                "d": "to be just about to",
+                "s": ""
+            },
+            {
+                "id": "zh-2203",
+                "w": "反",
+                "p": "fǎn",
+                "d": "contrary",
+                "s": ""
+            },
+            {
+                "id": "zh-2204",
+                "w": "传说",
+                "p": "chuán shuō",
+                "d": "legend; folk tale",
+                "s": ""
+            },
+            {
+                "id": "zh-2205",
+                "w": "说好",
+                "p": "shuō hǎo",
+                "d": "to come to an agreement",
+                "s": ""
+            },
+            {
+                "id": "zh-2206",
+                "w": "指挥官",
+                "p": "zhǐ huī guān",
+                "d": "commander",
+                "s": ""
+            },
+            {
+                "id": "zh-2207",
+                "w": "刚好",
+                "p": "gāng hǎo",
+                "d": "just",
+                "s": ""
+            },
+            {
+                "id": "zh-2208",
+                "w": "长得",
+                "p": "zhǎng de",
+                "d": "to look (pretty, the same etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2209",
+                "w": "搭档",
+                "p": "dā dàng",
+                "d": "to cooperate",
+                "s": ""
+            },
+            {
+                "id": "zh-2210",
+                "w": "艰难",
+                "p": "jiān nán",
+                "d": "difficult; arduous; hard",
+                "s": ""
+            },
+            {
+                "id": "zh-2211",
+                "w": "露西",
+                "p": "lù xī",
+                "d": "Lucy",
+                "s": ""
+            },
+            {
+                "id": "zh-2212",
+                "w": "贱人",
+                "p": "jiàn rén",
+                "d": "slut",
+                "s": ""
+            },
+            {
+                "id": "zh-2213",
+                "w": "鞋",
+                "p": "xié",
+                "d": "shoe",
+                "s": ""
+            },
+            {
+                "id": "zh-2214",
+                "w": "感染",
+                "p": "gǎn rǎn",
+                "d": "to infect; infection",
+                "s": ""
+            },
+            {
+                "id": "zh-2215",
+                "w": "经理",
+                "p": "jīng lǐ",
+                "d": "manager",
+                "s": ""
+            },
+            {
+                "id": "zh-2216",
+                "w": "归",
+                "p": "guī",
+                "d": "to return",
+                "s": ""
+            },
+            {
+                "id": "zh-2217",
+                "w": "六",
+                "p": "liù",
+                "d": "six",
+                "s": ""
+            },
+            {
+                "id": "zh-2218",
+                "w": "常常",
+                "p": "cháng cháng",
+                "d": "frequently; often",
+                "s": ""
+            },
+            {
+                "id": "zh-2219",
+                "w": "驾驶",
+                "p": "jià shǐ",
+                "d": "to drive (vehicle); to pilot (ship, airplane etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2220",
+                "w": "蛋",
+                "p": "dàn",
+                "d": "egg",
+                "s": ""
+            },
+            {
+                "id": "zh-2221",
+                "w": "生日快乐",
+                "p": "shēng rì kuài lè",
+                "d": "Happy birthday",
+                "s": ""
+            },
+            {
+                "id": "zh-2222",
+                "w": "黄",
+                "p": "huáng",
+                "d": "yellow",
+                "s": ""
+            },
+            {
+                "id": "zh-2223",
+                "w": "直升机",
+                "p": "zhí shēng jī",
+                "d": "helicopter",
+                "s": ""
+            },
+            {
+                "id": "zh-2224",
+                "w": "州",
+                "p": "zhōu",
+                "d": "prefecture",
+                "s": ""
+            },
+            {
+                "id": "zh-2225",
+                "w": "圣",
+                "p": "shèng",
+                "d": "(bound form) peerless (in wisdom, moral virtue, skill etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2226",
+                "w": "砍",
+                "p": "kǎn",
+                "d": "to chop",
+                "s": ""
+            },
+            {
+                "id": "zh-2227",
+                "w": "药物",
+                "p": "yào wù",
+                "d": "medicaments",
+                "s": ""
+            },
+            {
+                "id": "zh-2228",
+                "w": "沙漠",
+                "p": "shā mò",
+                "d": "desert",
+                "s": ""
+            },
+            {
+                "id": "zh-2229",
+                "w": "完蛋",
+                "p": "wán dàn",
+                "d": "(coll.) to be done for",
+                "s": ""
+            },
+            {
+                "id": "zh-2230",
+                "w": "引擎",
+                "p": "yǐn qíng",
+                "d": "engine (loanword)",
+                "s": ""
+            },
+            {
+                "id": "zh-2231",
+                "w": "口袋",
+                "p": "kǒu dài",
+                "d": "pocket",
+                "s": ""
+            },
+            {
+                "id": "zh-2232",
+                "w": "道路",
+                "p": "dào lù",
+                "d": "road",
+                "s": ""
+            },
+            {
+                "id": "zh-2233",
+                "w": "公开",
+                "p": "gōng kāi",
+                "d": "open; overt; public",
+                "s": ""
+            },
+            {
+                "id": "zh-2234",
+                "w": "文化",
+                "p": "wén huà",
+                "d": "culture",
+                "s": ""
+            },
+            {
+                "id": "zh-2235",
+                "w": "慰",
+                "p": "wèi",
+                "d": "to comfort",
+                "s": ""
+            },
+            {
+                "id": "zh-2236",
+                "w": "至于",
+                "p": "zhì yú",
+                "d": "as for",
+                "s": ""
+            },
+            {
+                "id": "zh-2237",
+                "w": "黄金",
+                "p": "huáng jīn",
+                "d": "gold",
+                "s": ""
+            },
+            {
+                "id": "zh-2238",
+                "w": "耐心",
+                "p": "nài xīn",
+                "d": "to be patient",
+                "s": ""
+            },
+            {
+                "id": "zh-2239",
+                "w": "解雇",
+                "p": "jiě gù",
+                "d": "to fire",
+                "s": ""
+            },
+            {
+                "id": "zh-2240",
+                "w": "此事",
+                "p": "cǐ shì",
+                "d": "this matter",
+                "s": ""
+            },
+            {
+                "id": "zh-2241",
+                "w": "描述",
+                "p": "miáo shù",
+                "d": "to describe",
+                "s": ""
+            },
+            {
+                "id": "zh-2242",
+                "w": "假设",
+                "p": "jiǎ shè",
+                "d": "to suppose",
+                "s": ""
+            },
+            {
+                "id": "zh-2243",
+                "w": "退休",
+                "p": "tuì xiū",
+                "d": "to retire (from the workforce); to go into retirement",
+                "s": ""
+            },
+            {
+                "id": "zh-2244",
+                "w": "掩护",
+                "p": "yǎn hù",
+                "d": "to screen",
+                "s": ""
+            },
+            {
+                "id": "zh-2245",
+                "w": "神圣",
+                "p": "shén shèng",
+                "d": "divine",
+                "s": ""
+            },
+            {
+                "id": "zh-2246",
+                "w": "地下",
+                "p": "dì xià",
+                "d": "underground; subterranean",
+                "s": ""
+            },
+            {
+                "id": "zh-2247",
+                "w": "稍",
+                "p": "shāo",
+                "d": "somewhat",
+                "s": ""
+            },
+            {
+                "id": "zh-2248",
+                "w": "打击",
+                "p": "dǎ jī",
+                "d": "to hit",
+                "s": ""
+            },
+            {
+                "id": "zh-2249",
+                "w": "咦",
+                "p": "yí",
+                "d": "expression of surprise",
+                "s": ""
+            },
+            {
+                "id": "zh-2250",
+                "w": "内部",
+                "p": "nèi bù",
+                "d": "interior",
+                "s": ""
+            },
+            {
+                "id": "zh-2251",
+                "w": "到时候",
+                "p": "dào shí hòu",
+                "d": "when the moment comes",
+                "s": ""
+            },
+            {
+                "id": "zh-2252",
+                "w": "指望",
+                "p": "zhǐ wàng",
+                "d": "to count on; to hope for",
+                "s": ""
+            },
+            {
+                "id": "zh-2253",
+                "w": "联盟",
+                "p": "lián méng",
+                "d": "alliance",
+                "s": ""
+            },
+            {
+                "id": "zh-2254",
+                "w": "装置",
+                "p": "zhuāng zhì",
+                "d": "to install",
+                "s": ""
+            },
+            {
+                "id": "zh-2255",
+                "w": "踩",
+                "p": "cǎi",
+                "d": "to step on",
+                "s": ""
+            },
+            {
+                "id": "zh-2256",
+                "w": "爹",
+                "p": "diē",
+                "d": "dad",
+                "s": ""
+            },
+            {
+                "id": "zh-2257",
+                "w": "搞错",
+                "p": "gǎo cuò",
+                "d": "mistake",
+                "s": ""
+            },
+            {
+                "id": "zh-2258",
+                "w": "挑",
+                "p": "tiāo",
+                "d": "to carry on a shoulder pole",
+                "s": ""
+            },
+            {
+                "id": "zh-2259",
+                "w": "希特勒",
+                "p": "xī tè lè",
+                "d": "Adolf Hitler (1889-1945)",
+                "s": ""
+            },
+            {
+                "id": "zh-2260",
+                "w": "程度",
+                "p": "chéng dù",
+                "d": "degree; level; extent",
+                "s": ""
+            },
+            {
+                "id": "zh-2261",
+                "w": "用于",
+                "p": "yòng yú",
+                "d": "to use in; to use on; to use for",
+                "s": ""
+            },
+            {
+                "id": "zh-2262",
+                "w": "尊敬",
+                "p": "zūn jìng",
+                "d": "to respect; to revere; to esteem",
+                "s": ""
+            },
+            {
+                "id": "zh-2263",
+                "w": "保重",
+                "p": "bǎo zhòng",
+                "d": "to take care of oneself",
+                "s": ""
+            },
+            {
+                "id": "zh-2264",
+                "w": "革命",
+                "p": "gé mìng",
+                "d": "to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning)",
+                "s": ""
+            },
+            {
+                "id": "zh-2265",
+                "w": "员工",
+                "p": "yuán gōng",
+                "d": "staff; personnel; employee",
+                "s": ""
+            },
+            {
+                "id": "zh-2266",
+                "w": "紧",
+                "p": "jǐn",
+                "d": "tight",
+                "s": ""
+            },
+            {
+                "id": "zh-2267",
+                "w": "搜索",
+                "p": "sōu suǒ",
+                "d": "to search (a place, a database, online etc); to search for (sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-2268",
+                "w": "支援",
+                "p": "zhī yuán",
+                "d": "to provide assistance",
+                "s": ""
+            },
+            {
+                "id": "zh-2269",
+                "w": "德国人",
+                "p": "dé guó rén",
+                "d": "German person or people",
+                "s": ""
+            },
+            {
+                "id": "zh-2270",
+                "w": "时期",
+                "p": "shí qī",
+                "d": "period",
+                "s": ""
+            },
+            {
+                "id": "zh-2271",
+                "w": "莫",
+                "p": "mò",
+                "d": "do not",
+                "s": ""
+            },
+            {
+                "id": "zh-2272",
+                "w": "风险",
+                "p": "fēng xiǎn",
+                "d": "risk; hazard",
+                "s": ""
+            },
+            {
+                "id": "zh-2273",
+                "w": "心理",
+                "p": "xīn lǐ",
+                "d": "psychology; mentality",
+                "s": ""
+            },
+            {
+                "id": "zh-2274",
+                "w": "返回",
+                "p": "fǎn huí",
+                "d": "to return to",
+                "s": ""
+            },
+            {
+                "id": "zh-2275",
+                "w": "亚当",
+                "p": "yà dāng",
+                "d": "Adam",
+                "s": ""
+            },
+            {
+                "id": "zh-2276",
+                "w": "制服",
+                "p": "zhì fú",
+                "d": "to subdue",
+                "s": ""
+            },
+            {
+                "id": "zh-2277",
+                "w": "爱人",
+                "p": "ài ren",
+                "d": "spouse (PRC)",
+                "s": ""
+            },
+            {
+                "id": "zh-2278",
+                "w": "运行",
+                "p": "yùn xíng",
+                "d": "(of celestial bodies etc) to move along one's course",
+                "s": ""
+            },
+            {
+                "id": "zh-2279",
+                "w": "西班牙",
+                "p": "xī bān yá",
+                "d": "Spain",
+                "s": ""
+            },
+            {
+                "id": "zh-2280",
+                "w": "拿出",
+                "p": "ná chū",
+                "d": "to take out",
+                "s": ""
+            },
+            {
+                "id": "zh-2281",
+                "w": "礼拜",
+                "p": "lǐ bài",
+                "d": "to attend a religious service",
+                "s": ""
+            },
+            {
+                "id": "zh-2282",
+                "w": "糖",
+                "p": "táng",
+                "d": "sugar",
+                "s": ""
+            },
+            {
+                "id": "zh-2283",
+                "w": "丢下",
+                "p": "diū xià",
+                "d": "to abandon",
+                "s": ""
+            },
+            {
+                "id": "zh-2284",
+                "w": "之内",
+                "p": "zhī nèi",
+                "d": "inside; within",
+                "s": ""
+            },
+            {
+                "id": "zh-2285",
+                "w": "顿",
+                "p": "dùn",
+                "d": "to stop",
+                "s": ""
+            },
+            {
+                "id": "zh-2286",
+                "w": "关门",
+                "p": "guān mén",
+                "d": "to close a door",
+                "s": ""
+            },
+            {
+                "id": "zh-2287",
+                "w": "承受",
+                "p": "chéng shòu",
+                "d": "to bear",
+                "s": ""
+            },
+            {
+                "id": "zh-2288",
+                "w": "仪式",
+                "p": "yí shì",
+                "d": "ceremony",
+                "s": ""
+            },
+            {
+                "id": "zh-2289",
+                "w": "少校",
+                "p": "shào xiào",
+                "d": "junior ranking officer in Chinese army",
+                "s": ""
+            },
+            {
+                "id": "zh-2290",
+                "w": "议员",
+                "p": "yì yuán",
+                "d": "member (of a legislative body)",
+                "s": ""
+            },
+            {
+                "id": "zh-2291",
+                "w": "独立",
+                "p": "dú lì",
+                "d": "independent",
+                "s": ""
+            },
+            {
+                "id": "zh-2292",
+                "w": "灯",
+                "p": "dēng",
+                "d": "lamp",
+                "s": ""
+            },
+            {
+                "id": "zh-2293",
+                "w": "楼下",
+                "p": "lóu xià",
+                "d": "downstairs",
+                "s": ""
+            },
+            {
+                "id": "zh-2294",
+                "w": "裙子",
+                "p": "qún zi",
+                "d": "skirt",
+                "s": ""
+            },
+            {
+                "id": "zh-2295",
+                "w": "领导",
+                "p": "lǐng dǎo",
+                "d": "lead",
+                "s": ""
+            },
+            {
+                "id": "zh-2296",
+                "w": "非洲",
+                "p": "fēi zhōu",
+                "d": "Africa",
+                "s": ""
+            },
+            {
+                "id": "zh-2297",
+                "w": "基本",
+                "p": "jī běn",
+                "d": "basic",
+                "s": ""
+            },
+            {
+                "id": "zh-2298",
+                "w": "话题",
+                "p": "huà tí",
+                "d": "subject (of a talk or conversation)",
+                "s": ""
+            },
+            {
+                "id": "zh-2299",
+                "w": "煮",
+                "p": "zhǔ",
+                "d": "to cook",
+                "s": ""
+            },
+            {
+                "id": "zh-2300",
+                "w": "女友",
+                "p": "nǚ yǒu",
+                "d": "girlfriend",
+                "s": ""
+            },
+            {
+                "id": "zh-2301",
+                "w": "惊人",
+                "p": "jīng rén",
+                "d": "astonishing",
+                "s": ""
+            },
+            {
+                "id": "zh-2302",
+                "w": "风格",
+                "p": "fēng gé",
+                "d": "style",
+                "s": ""
+            },
+            {
+                "id": "zh-2303",
+                "w": "发明",
+                "p": "fā míng",
+                "d": "to invent",
+                "s": ""
+            },
+            {
+                "id": "zh-2304",
+                "w": "冒",
+                "p": "mào",
+                "d": "to emit; to give off; to send out (or up, forth)",
+                "s": ""
+            },
+            {
+                "id": "zh-2305",
+                "w": "也就是说",
+                "p": "yě jiù shì shuō",
+                "d": "in other words",
+                "s": ""
+            },
+            {
+                "id": "zh-2306",
+                "w": "哈哈",
+                "p": "hā hā",
+                "d": "(onom.) laughing out loud",
+                "s": ""
+            },
+            {
+                "id": "zh-2307",
+                "w": "一路",
+                "p": "yī lù",
+                "d": "the whole journey",
+                "s": ""
+            },
+            {
+                "id": "zh-2308",
+                "w": "苏联",
+                "p": "sū lián",
+                "d": "Soviet Union, 1922-1991",
+                "s": ""
+            },
+            {
+                "id": "zh-2309",
+                "w": "迷人",
+                "p": "mí rén",
+                "d": "fascinating",
+                "s": ""
+            },
+            {
+                "id": "zh-2310",
+                "w": "报",
+                "p": "bào",
+                "d": "to report; to inform; to announce",
+                "s": ""
+            },
+            {
+                "id": "zh-2311",
+                "w": "师傅",
+                "p": "shī fu",
+                "d": "master",
+                "s": ""
+            },
+            {
+                "id": "zh-2312",
+                "w": "有着",
+                "p": "yǒu zhe",
+                "d": "to have",
+                "s": ""
+            },
+            {
+                "id": "zh-2313",
+                "w": "非法",
+                "p": "fēi fǎ",
+                "d": "illegal",
+                "s": ""
+            },
+            {
+                "id": "zh-2314",
+                "w": "屋子",
+                "p": "wū zi",
+                "d": "house",
+                "s": ""
+            },
+            {
+                "id": "zh-2315",
+                "w": "乐趣",
+                "p": "lè qù",
+                "d": "delight; pleasure; joy",
+                "s": ""
+            },
+            {
+                "id": "zh-2316",
+                "w": "苹果",
+                "p": "píng guǒ",
+                "d": "apple",
+                "s": ""
+            },
+            {
+                "id": "zh-2317",
+                "w": "然",
+                "p": "rán",
+                "d": "correct",
+                "s": ""
+            },
+            {
+                "id": "zh-2318",
+                "w": "工具",
+                "p": "gōng jù",
+                "d": "tool",
+                "s": ""
+            },
+            {
+                "id": "zh-2319",
+                "w": "手臂",
+                "p": "shǒu bì",
+                "d": "arm (from shoulder to wrist); (fig.) assistant; helper",
+                "s": ""
+            },
+            {
+                "id": "zh-2320",
+                "w": "真心",
+                "p": "zhēn xīn",
+                "d": "wholeheartedness; sincerity",
+                "s": ""
+            },
+            {
+                "id": "zh-2321",
+                "w": "害死",
+                "p": "hài sǐ",
+                "d": "to kill",
+                "s": ""
+            },
+            {
+                "id": "zh-2322",
+                "w": "礼貌",
+                "p": "lǐ mào",
+                "d": "courtesy; politeness; manners",
+                "s": ""
+            },
+            {
+                "id": "zh-2323",
+                "w": "财产",
+                "p": "cái chǎn",
+                "d": "property",
+                "s": ""
+            },
+            {
+                "id": "zh-2324",
+                "w": "应",
+                "p": "yīng",
+                "d": "to agree (to do sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-2325",
+                "w": "松",
+                "p": "sōng",
+                "d": "pine",
+                "s": ""
+            },
+            {
+                "id": "zh-2326",
+                "w": "多次",
+                "p": "duō cì",
+                "d": "many times",
+                "s": ""
+            },
+            {
+                "id": "zh-2327",
+                "w": "区别",
+                "p": "qū bié",
+                "d": "difference",
+                "s": ""
+            },
+            {
+                "id": "zh-2328",
+                "w": "右边",
+                "p": "yòu bian",
+                "d": "right side",
+                "s": ""
+            },
+            {
+                "id": "zh-2329",
+                "w": "指纹",
+                "p": "zhǐ wén",
+                "d": "fingerprint",
+                "s": ""
+            },
+            {
+                "id": "zh-2330",
+                "w": "流血",
+                "p": "liú xuè",
+                "d": "to bleed",
+                "s": ""
+            },
+            {
+                "id": "zh-2331",
+                "w": "混",
+                "p": "hùn",
+                "d": "to mix",
+                "s": ""
+            },
+            {
+                "id": "zh-2332",
+                "w": "想来",
+                "p": "xiǎng lái",
+                "d": "it may be assumed that",
+                "s": ""
+            },
+            {
+                "id": "zh-2333",
+                "w": "恋爱",
+                "p": "liàn ài",
+                "d": "(romantic) love",
+                "s": ""
+            },
+            {
+                "id": "zh-2334",
+                "w": "镜头",
+                "p": "jìng tóu",
+                "d": "camera lens",
+                "s": ""
+            },
+            {
+                "id": "zh-2335",
+                "w": "合法",
+                "p": "hé fǎ",
+                "d": "lawful",
+                "s": ""
+            },
+            {
+                "id": "zh-2336",
+                "w": "小镇",
+                "p": "xiǎo zhèn",
+                "d": "small town; village",
+                "s": ""
+            },
+            {
+                "id": "zh-2337",
+                "w": "大楼",
+                "p": "dà lóu",
+                "d": "building (a relatively large, multistory one)",
+                "s": ""
+            },
+            {
+                "id": "zh-2338",
+                "w": "史蒂夫",
+                "p": "shǐ dì fū",
+                "d": "Steve (male name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2339",
+                "w": "不管怎样",
+                "p": "bù guǎn zěn yàng",
+                "d": "in any case; no matter what",
+                "s": ""
+            },
+            {
+                "id": "zh-2340",
+                "w": "几点",
+                "p": "jǐ diǎn",
+                "d": "what time?",
+                "s": ""
+            },
+            {
+                "id": "zh-2341",
+                "w": "克莱尔",
+                "p": "kè lái ěr",
+                "d": "Claire (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2342",
+                "w": "交换",
+                "p": "jiāo huàn",
+                "d": "to exchange",
+                "s": ""
+            },
+            {
+                "id": "zh-2343",
+                "w": "原本",
+                "p": "yuán běn",
+                "d": "originally",
+                "s": ""
+            },
+            {
+                "id": "zh-2344",
+                "w": "共同",
+                "p": "gòng tóng",
+                "d": "common",
+                "s": ""
+            },
+            {
+                "id": "zh-2345",
+                "w": "电梯",
+                "p": "diàn tī",
+                "d": "elevator",
+                "s": ""
+            },
+            {
+                "id": "zh-2346",
+                "w": "东京",
+                "p": "dōng jīng",
+                "d": "Tokyo, capital of Japan",
+                "s": ""
+            },
+            {
+                "id": "zh-2347",
+                "w": "当中",
+                "p": "dāng zhōng",
+                "d": "among",
+                "s": ""
+            },
+            {
+                "id": "zh-2348",
+                "w": "不要紧",
+                "p": "bù yào jǐn",
+                "d": "unimportant",
+                "s": ""
+            },
+            {
+                "id": "zh-2349",
+                "w": "威士忌",
+                "p": "wēi shì jì",
+                "d": "whiskey (loanword)",
+                "s": ""
+            },
+            {
+                "id": "zh-2350",
+                "w": "老妈",
+                "p": "lǎo mā",
+                "d": "mother; mom",
+                "s": ""
+            },
+            {
+                "id": "zh-2351",
+                "w": "确信",
+                "p": "què xìn",
+                "d": "to be convinced",
+                "s": ""
+            },
+            {
+                "id": "zh-2352",
+                "w": "采访",
+                "p": "cǎi fǎng",
+                "d": "to interview",
+                "s": ""
+            },
+            {
+                "id": "zh-2353",
+                "w": "强奸",
+                "p": "qiáng jiān",
+                "d": "to rape",
+                "s": ""
+            },
+            {
+                "id": "zh-2354",
+                "w": "部长",
+                "p": "bù zhǎng",
+                "d": "head of a (government etc) department",
+                "s": ""
+            },
+            {
+                "id": "zh-2355",
+                "w": "修",
+                "p": "xiū",
+                "d": "to decorate",
+                "s": ""
+            },
+            {
+                "id": "zh-2356",
+                "w": "蛇",
+                "p": "shé",
+                "d": "snake",
+                "s": ""
+            },
+            {
+                "id": "zh-2357",
+                "w": "后期",
+                "p": "hòu qī",
+                "d": "late stage",
+                "s": ""
+            },
+            {
+                "id": "zh-2358",
+                "w": "科",
+                "p": "kē",
+                "d": "branch of study",
+                "s": ""
+            },
+            {
+                "id": "zh-2359",
+                "w": "尼",
+                "p": "ní",
+                "d": "Buddhist nun",
+                "s": ""
+            },
+            {
+                "id": "zh-2360",
+                "w": "避免",
+                "p": "bì miǎn",
+                "d": "to avert",
+                "s": ""
+            },
+            {
+                "id": "zh-2361",
+                "w": "肯",
+                "p": "kěn",
+                "d": "to agree; to consent",
+                "s": ""
+            },
+            {
+                "id": "zh-2362",
+                "w": "吵架",
+                "p": "chǎo jià",
+                "d": "to quarrel",
+                "s": ""
+            },
+            {
+                "id": "zh-2363",
+                "w": "效果",
+                "p": "xiào guǒ",
+                "d": "result",
+                "s": ""
+            },
+            {
+                "id": "zh-2364",
+                "w": "歌手",
+                "p": "gē shǒu",
+                "d": "singer",
+                "s": ""
+            },
+            {
+                "id": "zh-2365",
+                "w": "一刻",
+                "p": "yī kè",
+                "d": "a quarter of an hour; 15 minutes",
+                "s": ""
+            },
+            {
+                "id": "zh-2366",
+                "w": "活下去",
+                "p": "huó xià qù",
+                "d": "to survive",
+                "s": ""
+            },
+            {
+                "id": "zh-2367",
+                "w": "砸",
+                "p": "zá",
+                "d": "to smash",
+                "s": ""
+            },
+            {
+                "id": "zh-2368",
+                "w": "实话",
+                "p": "shí huà",
+                "d": "truth",
+                "s": ""
+            },
+            {
+                "id": "zh-2369",
+                "w": "美味",
+                "p": "měi wèi",
+                "d": "delicious",
+                "s": ""
+            },
+            {
+                "id": "zh-2370",
+                "w": "荣誉",
+                "p": "róng yù",
+                "d": "honor",
+                "s": ""
+            },
+            {
+                "id": "zh-2371",
+                "w": "机",
+                "p": "jī",
+                "d": "(bound form) machine; mechanism",
+                "s": ""
+            },
+            {
+                "id": "zh-2372",
+                "w": "交",
+                "p": "jiāo",
+                "d": "to hand over; to deliver; to pay (money); to turn over",
+                "s": ""
+            },
+            {
+                "id": "zh-2373",
+                "w": "救护车",
+                "p": "jiù hù chē",
+                "d": "ambulance",
+                "s": ""
+            },
+            {
+                "id": "zh-2374",
+                "w": "对象",
+                "p": "duì xiàng",
+                "d": "target; object",
+                "s": ""
+            },
+            {
+                "id": "zh-2375",
+                "w": "监控",
+                "p": "jiān kòng",
+                "d": "to monitor",
+                "s": ""
+            },
+            {
+                "id": "zh-2376",
+                "w": "资格",
+                "p": "zī gé",
+                "d": "qualifications",
+                "s": ""
+            },
+            {
+                "id": "zh-2377",
+                "w": "饮料",
+                "p": "yǐn liào",
+                "d": "drink",
+                "s": ""
+            },
+            {
+                "id": "zh-2378",
+                "w": "撤退",
+                "p": "chè tuì",
+                "d": "to retreat",
+                "s": ""
+            },
+            {
+                "id": "zh-2379",
+                "w": "杯",
+                "p": "bēi",
+                "d": "cup",
+                "s": ""
+            },
+            {
+                "id": "zh-2380",
+                "w": "托尼",
+                "p": "tuō ní",
+                "d": "(name) Tony",
+                "s": ""
+            },
+            {
+                "id": "zh-2381",
+                "w": "当地",
+                "p": "dāng dì",
+                "d": "local",
+                "s": ""
+            },
+            {
+                "id": "zh-2382",
+                "w": "赚钱",
+                "p": "zhuàn qián",
+                "d": "to earn money",
+                "s": ""
+            },
+            {
+                "id": "zh-2383",
+                "w": "地面",
+                "p": "dì miàn",
+                "d": "floor",
+                "s": ""
+            },
+            {
+                "id": "zh-2384",
+                "w": "男生",
+                "p": "nán shēng",
+                "d": "schoolboy",
+                "s": ""
+            },
+            {
+                "id": "zh-2385",
+                "w": "七",
+                "p": "qī",
+                "d": "seven",
+                "s": ""
+            },
+            {
+                "id": "zh-2386",
+                "w": "最佳",
+                "p": "zuì jiā",
+                "d": "optimum",
+                "s": ""
+            },
+            {
+                "id": "zh-2387",
+                "w": "等一等",
+                "p": "děng yī děng",
+                "d": "wait a moment",
+                "s": ""
+            },
+            {
+                "id": "zh-2388",
+                "w": "莎",
+                "p": "shā",
+                "d": "katydid (family Tettigoniidae)",
+                "s": ""
+            },
+            {
+                "id": "zh-2389",
+                "w": "有种",
+                "p": "yǒu zhǒng",
+                "d": "to have guts",
+                "s": ""
+            },
+            {
+                "id": "zh-2390",
+                "w": "类型",
+                "p": "lèi xíng",
+                "d": "type; kind; category",
+                "s": ""
+            },
+            {
+                "id": "zh-2391",
+                "w": "男友",
+                "p": "nán yǒu",
+                "d": "boyfriend",
+                "s": ""
+            },
+            {
+                "id": "zh-2392",
+                "w": "布朗",
+                "p": "bù lǎng",
+                "d": "(name) Brown",
+                "s": ""
+            },
+            {
+                "id": "zh-2393",
+                "w": "大事",
+                "p": "dà shì",
+                "d": "major event",
+                "s": ""
+            },
+            {
+                "id": "zh-2394",
+                "w": "全球",
+                "p": "quán qiú",
+                "d": "the whole world",
+                "s": ""
+            },
+            {
+                "id": "zh-2395",
+                "w": "结局",
+                "p": "jié jú",
+                "d": "conclusion; ending; outcome",
+                "s": ""
+            },
+            {
+                "id": "zh-2396",
+                "w": "较",
+                "p": "jiào",
+                "d": "(bound form) to compare",
+                "s": ""
+            },
+            {
+                "id": "zh-2397",
+                "w": "蔚",
+                "p": "wèi",
+                "d": "Artemisia japonica",
+                "s": ""
+            },
+            {
+                "id": "zh-2398",
+                "w": "小说",
+                "p": "xiǎo shuō",
+                "d": "novel",
+                "s": ""
+            },
+            {
+                "id": "zh-2399",
+                "w": "艺术家",
+                "p": "yì shù jiā",
+                "d": "artist",
+                "s": ""
+            },
+            {
+                "id": "zh-2400",
+                "w": "外星人",
+                "p": "wài xīng rén",
+                "d": "space alien; extraterrestrial",
+                "s": ""
+            },
+            {
+                "id": "zh-2401",
+                "w": "凯文",
+                "p": "kǎi wén",
+                "d": "Kevin (person name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2402",
+                "w": "商店",
+                "p": "shāng diàn",
+                "d": "store; shop",
+                "s": ""
+            },
+            {
+                "id": "zh-2403",
+                "w": "部落",
+                "p": "bù luò",
+                "d": "tribe",
+                "s": ""
+            },
+            {
+                "id": "zh-2404",
+                "w": "门口",
+                "p": "mén kǒu",
+                "d": "doorway",
+                "s": ""
+            },
+            {
+                "id": "zh-2405",
+                "w": "反抗",
+                "p": "fǎn kàng",
+                "d": "to resist",
+                "s": ""
+            },
+            {
+                "id": "zh-2406",
+                "w": "签",
+                "p": "qiān",
+                "d": "to sign one's name",
+                "s": ""
+            },
+            {
+                "id": "zh-2407",
+                "w": "第二次",
+                "p": "dì èr cì",
+                "d": "the second time; the second occurrence",
+                "s": ""
+            },
+            {
+                "id": "zh-2408",
+                "w": "当初",
+                "p": "dāng chū",
+                "d": "at that time",
+                "s": ""
+            },
+            {
+                "id": "zh-2409",
+                "w": "琵",
+                "p": "pí",
+                "d": "see 琵琶, pipa lute",
+                "s": ""
+            },
+            {
+                "id": "zh-2410",
+                "w": "硬",
+                "p": "yìng",
+                "d": "hard; stiff; solid",
+                "s": ""
+            },
+            {
+                "id": "zh-2411",
+                "w": "观点",
+                "p": "guān diǎn",
+                "d": "point of view",
+                "s": ""
+            },
+            {
+                "id": "zh-2412",
+                "w": "商业",
+                "p": "shāng yè",
+                "d": "business",
+                "s": ""
+            },
+            {
+                "id": "zh-2413",
+                "w": "蠢",
+                "p": "chǔn",
+                "d": "stupid",
+                "s": ""
+            },
+            {
+                "id": "zh-2414",
+                "w": "维持",
+                "p": "wéi chí",
+                "d": "to keep; to maintain; to preserve",
+                "s": ""
+            },
+            {
+                "id": "zh-2415",
+                "w": "俄国",
+                "p": "é guó",
+                "d": "Russia",
+                "s": ""
+            },
+            {
+                "id": "zh-2416",
+                "w": "姐妹",
+                "p": "jiě mèi",
+                "d": "sisters",
+                "s": ""
+            },
+            {
+                "id": "zh-2417",
+                "w": "实际",
+                "p": "shí jì",
+                "d": "reality",
+                "s": ""
+            },
+            {
+                "id": "zh-2418",
+                "w": "屎",
+                "p": "shǐ",
+                "d": "feces; excrement; a stool",
+                "s": ""
+            },
+            {
+                "id": "zh-2419",
+                "w": "新鲜",
+                "p": "xīn xiān",
+                "d": "fresh (experience, food etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2420",
+                "w": "取得",
+                "p": "qǔ dé",
+                "d": "to acquire; to get; to obtain",
+                "s": ""
+            },
+            {
+                "id": "zh-2421",
+                "w": "女子",
+                "p": "nǚ zǐ",
+                "d": "woman",
+                "s": ""
+            },
+            {
+                "id": "zh-2422",
+                "w": "玻璃",
+                "p": "bō li",
+                "d": "glass",
+                "s": ""
+            },
+            {
+                "id": "zh-2423",
+                "w": "眼前",
+                "p": "yǎn qián",
+                "d": "before one's eyes",
+                "s": ""
+            },
+            {
+                "id": "zh-2424",
+                "w": "身",
+                "p": "shēn",
+                "d": "body",
+                "s": ""
+            },
+            {
+                "id": "zh-2425",
+                "w": "猴子",
+                "p": "hóu zi",
+                "d": "monkey",
+                "s": ""
+            },
+            {
+                "id": "zh-2426",
+                "w": "害",
+                "p": "hài",
+                "d": "to do harm to",
+                "s": ""
+            },
+            {
+                "id": "zh-2427",
+                "w": "圣诞",
+                "p": "shèng dàn",
+                "d": "Christmas",
+                "s": ""
+            },
+            {
+                "id": "zh-2428",
+                "w": "陷入",
+                "p": "xiàn rù",
+                "d": "to sink into",
+                "s": ""
+            },
+            {
+                "id": "zh-2429",
+                "w": "战场",
+                "p": "zhàn chǎng",
+                "d": "battlefield",
+                "s": ""
+            },
+            {
+                "id": "zh-2430",
+                "w": "绳子",
+                "p": "shéng zi",
+                "d": "cord; string; rope",
+                "s": ""
+            },
+            {
+                "id": "zh-2431",
+                "w": "市长",
+                "p": "shì zhǎng",
+                "d": "mayor",
+                "s": ""
+            },
+            {
+                "id": "zh-2432",
+                "w": "将要",
+                "p": "jiāng yào",
+                "d": "will",
+                "s": ""
+            },
+            {
+                "id": "zh-2433",
+                "w": "温柔",
+                "p": "wēn róu",
+                "d": "gentle and soft; tender; sweet (commonly used to describe a girl or woman)",
+                "s": ""
+            },
+            {
+                "id": "zh-2434",
+                "w": "判断",
+                "p": "pàn duàn",
+                "d": "to judge; to determine; judgment",
+                "s": ""
+            },
+            {
+                "id": "zh-2435",
+                "w": "良好",
+                "p": "liáng hǎo",
+                "d": "good",
+                "s": ""
+            },
+            {
+                "id": "zh-2436",
+                "w": "开口",
+                "p": "kāi kǒu",
+                "d": "to open one's mouth",
+                "s": ""
+            },
+            {
+                "id": "zh-2437",
+                "w": "指示",
+                "p": "zhǐ shì",
+                "d": "to point out",
+                "s": ""
+            },
+            {
+                "id": "zh-2438",
+                "w": "打扮",
+                "p": "dǎ ban",
+                "d": "to decorate",
+                "s": ""
+            },
+            {
+                "id": "zh-2439",
+                "w": "卧室",
+                "p": "wò shì",
+                "d": "bedroom",
+                "s": ""
+            },
+            {
+                "id": "zh-2440",
+                "w": "挡",
+                "p": "dǎng",
+                "d": "to resist",
+                "s": ""
+            },
+            {
+                "id": "zh-2441",
+                "w": "不愿",
+                "p": "bù yuàn",
+                "d": "unwilling",
+                "s": ""
+            },
+            {
+                "id": "zh-2442",
+                "w": "大街",
+                "p": "dà jiē",
+                "d": "street",
+                "s": ""
+            },
+            {
+                "id": "zh-2443",
+                "w": "成长",
+                "p": "chéng zhǎng",
+                "d": "to mature",
+                "s": ""
+            },
+            {
+                "id": "zh-2444",
+                "w": "人质",
+                "p": "rén zhì",
+                "d": "hostage",
+                "s": ""
+            },
+            {
+                "id": "zh-2445",
+                "w": "强烈",
+                "p": "qiáng liè",
+                "d": "strong; intense",
+                "s": ""
+            },
+            {
+                "id": "zh-2446",
+                "w": "龙",
+                "p": "lóng",
+                "d": "Chinese dragon; loong",
+                "s": ""
+            },
+            {
+                "id": "zh-2447",
+                "w": "试",
+                "p": "shì",
+                "d": "to test",
+                "s": ""
+            },
+            {
+                "id": "zh-2448",
+                "w": "平静",
+                "p": "píng jìng",
+                "d": "calm; tranquil; serene",
+                "s": ""
+            },
+            {
+                "id": "zh-2449",
+                "w": "走出",
+                "p": "zǒu chū",
+                "d": "to leave (a room etc); to go out through (a door etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2450",
+                "w": "回报",
+                "p": "huí bào",
+                "d": "(in) return",
+                "s": ""
+            },
+            {
+                "id": "zh-2451",
+                "w": "烦",
+                "p": "fán",
+                "d": "to feel vexed",
+                "s": ""
+            },
+            {
+                "id": "zh-2452",
+                "w": "地下室",
+                "p": "dì xià shì",
+                "d": "basement",
+                "s": ""
+            },
+            {
+                "id": "zh-2453",
+                "w": "各",
+                "p": "gè",
+                "d": "each",
+                "s": ""
+            },
+            {
+                "id": "zh-2454",
+                "w": "佬",
+                "p": "lǎo",
+                "d": "male",
+                "s": ""
+            },
+            {
+                "id": "zh-2455",
+                "w": "最新",
+                "p": "zuì xīn",
+                "d": "latest",
+                "s": ""
+            },
+            {
+                "id": "zh-2456",
+                "w": "侦探",
+                "p": "zhēn tàn",
+                "d": "detective",
+                "s": ""
+            },
+            {
+                "id": "zh-2457",
+                "w": "伊",
+                "p": "yī",
+                "d": "(old) third person singular pronoun (\"he\" or \"she\")",
+                "s": ""
+            },
+            {
+                "id": "zh-2458",
+                "w": "加州",
+                "p": "jiā zhōu",
+                "d": "California",
+                "s": ""
+            },
+            {
+                "id": "zh-2459",
+                "w": "大麻",
+                "p": "dà má",
+                "d": "hemp (Cannabis sativa)",
+                "s": ""
+            },
+            {
+                "id": "zh-2460",
+                "w": "手段",
+                "p": "shǒu duàn",
+                "d": "method; way; means (of doing sth)",
+                "s": ""
+            },
+            {
+                "id": "zh-2461",
+                "w": "泰勒",
+                "p": "tài lè",
+                "d": "Taylor (name)",
+                "s": ""
+            },
+            {
+                "id": "zh-2462",
+                "w": "荒谬",
+                "p": "huāng miù",
+                "d": "absurd; ridiculous",
+                "s": ""
+            },
+            {
+                "id": "zh-2463",
+                "w": "贾",
+                "p": "jiǎ",
+                "d": "surname Jia",
+                "s": ""
+            },
+            {
+                "id": "zh-2464",
+                "w": "协助",
+                "p": "xié zhù",
+                "d": "to provide assistance; to aid",
+                "s": ""
+            },
+            {
+                "id": "zh-2465",
+                "w": "这下",
+                "p": "zhè xià",
+                "d": "this time",
+                "s": ""
+            },
+            {
+                "id": "zh-2466",
+                "w": "难以",
+                "p": "nán yǐ",
+                "d": "hard to (predict, imagine etc)",
+                "s": ""
+            },
+            {
+                "id": "zh-2467",
+                "w": "神经",
+                "p": "shén jīng",
+                "d": "nerve",
+                "s": ""
+            },
+            {
+                "id": "zh-2468",
+                "w": "警察局",
+                "p": "jǐng chá jú",
+                "d": "police station",
+                "s": ""
+            },
+            {
+                "id": "zh-2469",
+                "w": "取",
+                "p": "qǔ",
+                "d": "to take",
+                "s": ""
+            },
+            {
+                "id": "zh-2470",
+                "w": "星星",
+                "p": "xīng xing",
+                "d": "(coll.) a star; the stars in the sky",
+                "s": ""
+            },
+            {
+                "id": "zh-2471",
+                "w": "主席",
+                "p": "zhǔ xí",
+                "d": "chairperson",
+                "s": ""
+            },
+            {
+                "id": "zh-2472",
+                "w": "酷",
+                "p": "kù",
+                "d": "ruthless",
+                "s": ""
+            },
+            {
+                "id": "zh-2473",
+                "w": "念",
+                "p": "niàn",
+                "d": "to read",
+                "s": ""
+            },
+            {
+                "id": "zh-2474",
+                "w": "墙",
+                "p": "qiáng",
+                "d": "wall (CL:面,堵)",
+                "s": ""
+            },
+            {
+                "id": "zh-2475",
+                "w": "趁",
+                "p": "chèn",
+                "d": "to avail oneself of",
+                "s": ""
+            },
+            {
+                "id": "zh-2476",
+                "w": "妮",
+                "p": "nī",
+                "d": "girl",
+                "s": ""
+            },
+            {
+                "id": "zh-2477",
+                "w": "老头",
+                "p": "lǎo tóu",
+                "d": "old fellow",
+                "s": ""
+            },
+            {
+                "id": "zh-2478",
+                "w": "改",
+                "p": "gǎi",
+                "d": "to change",
+                "s": ""
+            },
+            {
+                "id": "zh-2479",
+                "w": "帝国",
+                "p": "dì guó",
+                "d": "empire",
+                "s": ""
+            },
+            {
+                "id": "zh-2480",
+                "w": "养",
+                "p": "yǎng",
+                "d": "to raise (animals)",
+                "s": ""
+            },
+            {
+                "id": "zh-2481",
+                "w": "竞选",
+                "p": "jìng xuǎn",
+                "d": "to take part in an election",
+                "s": ""
+            },
+            {
+                "id": "zh-2482",
+                "w": "片名",
+                "p": "piān míng",
+                "d": "movie title",
+                "s": ""
+            },
+            {
+                "id": "zh-2483",
+                "w": "型",
+                "p": "xíng",
+                "d": "mold",
+                "s": ""
+            },
+            {
+                "id": "zh-2484",
+                "w": "温暖",
+                "p": "wēn nuǎn",
+                "d": "warm",
+                "s": ""
+            },
+            {
+                "id": "zh-2485",
+                "w": "下班",
+                "p": "xià bān",
+                "d": "to finish work; to get off work",
+                "s": ""
+            },
+            {
+                "id": "zh-2486",
+                "w": "整理",
+                "p": "zhěng lǐ",
+                "d": "to arrange",
+                "s": ""
+            },
+            {
+                "id": "zh-2487",
+                "w": "老人",
+                "p": "lǎo rén",
+                "d": "old man or woman",
+                "s": ""
+            },
+            {
+                "id": "zh-2488",
+                "w": "眼神",
+                "p": "yǎn shén",
+                "d": "expression or emotion showing in one's eyes",
+                "s": ""
+            },
+            {
+                "id": "zh-2489",
+                "w": "正义",
+                "p": "zhèng yì",
+                "d": "justice; righteousness",
+                "s": ""
+            },
+            {
+                "id": "zh-2490",
+                "w": "圣经",
+                "p": "shèng jīng",
+                "d": "the Confucian classics",
+                "s": ""
+            },
+            {
+                "id": "zh-2491",
+                "w": "卫星",
+                "p": "wèi xīng",
+                "d": "(aerospace) satellite",
+                "s": ""
+            },
+            {
+                "id": "zh-2492",
+                "w": "满",
+                "p": "mǎn",
+                "d": "to fill",
+                "s": ""
+            },
+            {
+                "id": "zh-2493",
+                "w": "不仅仅",
+                "p": "bù jǐn jǐn",
+                "d": "not only; not just",
+                "s": ""
+            },
+            {
+                "id": "zh-2494",
+                "w": "新娘",
+                "p": "xīn niáng",
+                "d": "bride",
+                "s": ""
+            },
+            {
+                "id": "zh-2495",
+                "w": "魅力",
+                "p": "mèi lì",
+                "d": "charm",
+                "s": ""
+            },
+            {
+                "id": "zh-2496",
+                "w": "屋顶",
+                "p": "wū dǐng",
+                "d": "roof",
+                "s": ""
+            },
+            {
+                "id": "zh-2497",
+                "w": "处于",
+                "p": "chǔ yú",
+                "d": "to be in (some state, position, or condition)",
+                "s": ""
+            },
+            {
+                "id": "zh-2498",
+                "w": "公里",
+                "p": "gōng lǐ",
+                "d": "kilometer",
+                "s": ""
+            },
+            {
+                "id": "zh-2499",
+                "w": "形成",
+                "p": "xíng chéng",
+                "d": "to form; to take shape",
+                "s": ""
+            },
+            {
+                "id": "zh-2500",
+                "w": "对抗",
+                "p": "duì kàng",
+                "d": "to withstand",
+                "s": ""
             }
         ]
     };

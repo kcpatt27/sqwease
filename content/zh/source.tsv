@@ -1,31 +1,2501 @@
 rank	word	reading	pos	english	example	example_english
-1	你好	nǐ hǎo	interj	hello	你好，你好吗？	Hello, how are you?
-2	谢谢	xièxie	interj	thank you	谢谢你。	Thank you.
-3	是	shì	verb	to be	我是学生。	I am a student.
-4	不	bù	adv	not	我不知道。	I do not know.
-5	水	shuǐ	noun	water	我要水。	I want water.
-6	饭	fàn	noun	rice; meal	我吃饭。	I eat a meal.
-7	家	jiā	noun	home	我家很小。	My home is small.
-8	朋友	péngyou	noun	friend	他是我朋友。	He is my friend.
-9	家人	jiārén	noun	family	我家有四人。	My family has four people.
-10	时间	shíjiān	noun	time	我没有时间。	I do not have time.
-11	今天	jīntiān	noun	today	今天很热。	Today is hot.
-12	明天	míngtiān	noun	tomorrow	明天见。	See you tomorrow.
-13	好	hǎo	adj	good	天气很好。	The weather is good.
-14	坏	huài	adj	bad	天气很坏。	The weather is bad.
-15	大	dà	adj	big	这个房子很大。	This house is big.
-16	小	xiǎo	adj	small	这杯咖啡很小。	This cup of coffee is small.
-17	我	wǒ	pron	I	我是老师。	I am a teacher.
-18	你	nǐ	pron	you	你好吗？	How are you?
-19	他	tā	pron	he	他是医生。	He is a doctor.
-20	她	tā	pron	she	她是老师。	She is a teacher.
-21	做	zuò	verb	to do	你在做什么？	What are you doing?
-22	有	yǒu	verb	to have	我有时间。	I have time.
-23	去	qù	verb	to go	我回家去。	I go home.
-24	来	lái	verb	to come	请进来。	Please come in.
-25	吃	chī	verb	to eat	我吃水果。	I eat fruit.
-26	喝	hē	verb	to drink	我喝水。	I drink water.
-27	说	shuō	verb	to speak	我会说中文。	I can speak Chinese.
-28	看	kàn	verb	to see; to watch	我看电影。	I watch a movie.
-29	爱	ài	verb	to love	我爱你。	I love you.
-30	名字	míngzi	noun	name	你叫什么名字？	What is your name?
+1	的	de		of; ~'s (possessive particle)		
+2	我	wǒ		I; me; my		
+3	你	nǐ		you (informal, as opposed to courteous 您)		
+4	了	le		(completed action marker)		
+5	是	shì		to be (followed by substantives only)		
+6	在	zài		to exist; to be alive		
+7	我们	wǒ men		we; us; ourselves		
+8	他	tā		(third-person singular) (since the early 20th century, usu. male) he; him; his		
+9	吗	ma		(question particle for "yes-no" questions)		
+10	不	bù		no; not so		
+11	什么	shén me		what?		
+12	好	hǎo		good		
+13	有	yǒu		to have; there is		
+14	就	jiù		(after a suppositional clause) in that case; then		
+15	吧	ba		(modal particle indicating suggestion or surmise)		
+16	她	tā		she		
+17	说	shuō		to speak; to talk; to say		
+18	这	zhè		(pronoun) this; these		
+19	知道	zhī dào		to know; to become aware of		
+20	都	dōu		all; both; entirely		
+21	去	qù		to go		
+22	很	hěn		very; quite		
+23	他们	tā men		they; them		
+24	啊	ā		interjection of surprise		
+25	要	yào		to want; to need; to ask for		
+26	会	huì		can; to have the skill; to know how to		
+27	也	yě		also; too; as well; (not ...) either		
+28	来	lái		to come		
+29	和	hé		(joining two nouns) and; together with; with (Taiwan pr. )		
+30	那	nà		(specifier) that; the; those (colloquial pr. )		
+31	想	xiǎng		to think (about)		
+32	人	rén		person; people		
+33	一个	yī ge		a; an; one		
+34	对	duì		right; correct		
+35	没有	méi yǒu		haven't		
+36	让	ràng		to yield		
+37	把	bǎ		to hold; to grasp		
+38	做	zuò		to make; to produce		
+39	不是	bù shì		no		
+40	给	gěi		to		
+41	你们	nǐ men		you (plural)		
+42	可以	kě yǐ		can		
+43	这个	zhè ge		(pronoun) this		
+44	现在	xiàn zài		now; at present; currently		
+45	没	méi		(negative prefix for verbs) have not; not		
+46	呢	ne		(sentence-final particle) used in questions to link back to prior discourse or context ("what about...?", "and...?")		
+47	但	dàn		but; yet; however; still		
+48	怎么	zěn me		how?		
+49	到	dào		to reach; to arrive		
+50	还	hái		still		
+51	能	néng		can		
+52	就是	jiù shì		exactly; precisely		
+53	这样	zhè yàng		this way; like this; so		
+54	跟	gēn		heel		
+55	如果	rú guǒ		if; in case; in the event that		
+56	它	tā		it		
+57	走	zǒu		to walk		
+58	个	gè		(classifier used before a noun that has no specific classifier)		
+59	这里	zhè lǐ		here		
+60	上	shàng		(bound form) up; upper; above; previous		
+61	得	dé		to obtain		
+62	被	bèi		quilt		
+63	看	kàn		to see; to look at		
+64	谁	shéi		who		
+65	不会	bù huì		improbable		
+66	事	shì		matter		
+67	自己	zì jǐ		oneself; (attributive) one's own		
+68	着	zhe		aspect particle indicating action in progress or ongoing state		
+69	告诉	gào sù		to press charges; to file a complaint		
+70	过	guò		to cross		
+71	已经	yǐ jīng		already		
+72	为什么	wèi shén me		why?		
+73	不能	bù néng		cannot		
+74	真的	zhēn de		really; truly; indeed		
+75	因为	yīn wèi		because; owing to; on account of		
+76	先生	xiān sheng		teacher		
+77	谢谢	xiè xie		to thank		
+78	只是	zhǐ shì		merely; only; just; nothing but		
+79	不要	bù yào		don't!; must not		
+80	这么	zhè me		so much		
+81	那个	nà ge		that one		
+82	为	wèi		because of		
+83	再	zài		again; once more; re-		
+84	里	lǐ		li, ancient measure of length, approx. 500 m		
+85	哦	ó		oh (interjection indicating doubt or surprise)		
+86	需要	xū yào		to need; to want; to demand; to require		
+87	喜欢	xǐ huan		to like; to be fond of		
+88	像	xiàng		to resemble		
+89	听	tīng		to listen to; to hear		
+90	别	bié		to leave; to part (from)		
+91	可能	kě néng		might (happen)		
+92	但是	dàn shì		but; however		
+93	时候	shí hou		time		
+94	从	cóng		from; through; via		
+95	觉得	jué de		to think that ...; to feel that ...		
+96	还有	hái yǒu		there still remain(s); there is (or are) still		
+97	所以	suǒ yǐ		therefore		
+98	东西	dōng xī		east and west		
+99	又	yòu		(once) again		
+100	叫	jiào		to shout		
+101	快	kuài		rapid		
+102	这些	zhè xiē		these		
+103	找	zhǎo		to try to find		
+104	应该	yīng gāi		ought to; should; must		
+105	请	qǐng		to ask		
+106	等	děng		to wait for; to await		
+107	死	sǐ		to die		
+108	那么	nà me		like that; in that way; to that extent		
+109	多	duō		many; much; more; a lot of		
+110	一起	yī qǐ		(in) the same place		
+111	还是	hái shi		still (as before)		
+112	孩子	hái zi		child		
+113	看到	kàn dào		to see		
+114	问题	wèn tí		question		
+115	一下	yī xià		(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)		
+116	一样	yī yàng		same		
+117	们	men		plural marker for pronouns, and nouns referring to individuals		
+118	而	ér		and		
+119	开始	kāi shǐ		to begin; to start		
+120	您	nín		you (courteous, as opposed to informal 你)		
+121	才	cái		ability; talent		
+122	用	yòng		to use; to make use of; to employ		
+123	嗯	en		interjection indicating approval, appreciation or agreement		
+124	工作	gōng zuò		to work		
+125	呀	ya		(particle equivalent to 啊 after a vowel, expressing surprise or doubt)		
+126	吃	chī		to eat; to consume		
+127	当	dāng		to be		
+128	嘿	hēi		hey		
+129	回来	huí lai		to return; to come back		
+130	真	zhēn		really		
+131	当然	dāng rán		only natural		
+132	帮	bāng		to help		
+133	中	zhōng		within; among; in		
+134	然后	rán hòu		then; after that; afterwards		
+135	看看	kàn kan		to take a look at		
+136	地方	dì fāng		region		
+137	将	jiāng		will		
+138	没事	méi shì		it's not important		
+139	一定	yī dìng		surely; certainly; definitely		
+140	希望	xī wàng		to hope		
+141	朋友	péng you		friend		
+142	时间	shí jiān		(concept of) time		
+143	钱	qián		coin		
+144	今天	jīn tiān		today		
+145	拿	ná		to hold		
+146	一	yī		one		
+147	啦	lā		(onom.) sound of singing, cheering etc		
+148	事情	shì qing		affair; matter; thing; business		
+149	一直	yī zhí		straight (in a straight line)		
+150	后	hòu		empress		
+151	所有	suǒ yǒu		all		
+152	妈妈	mā ma		mama		
+153	找到	zhǎo dào		to find		
+154	哪	nǎ		how		
+155	离开	lí kāi		to depart; to leave		
+156	不想	bù xiǎng		unexpectedly; to one's surprise		
+157	爱	ài		to love; to be fond of; to like		
+158	只	zhǐ		only; merely; just		
+159	该	gāi		should		
+160	发生	fā shēng		to happen; to occur; to take place; to arise (e.g. 發生問題|发生问题 "a problem arises")		
+161	更	gèng		more		
+162	起来	qǐ lai		to stand up; to get up		
+163	最	zuì		(before an adjective or verb) to the highest degree; (the) most ...; -est		
+164	必须	bì xū		must; to have to		
+165	一点	yī diǎn		a bit; a little bit		
+166	那些	nà xiē		those		
+167	可	kě		(prefix) can; may; able to; -able		
+168	明白	míng bai		clear; obvious; unequivocal		
+169	的话	de huà		if (coming after a conditional clause)		
+170	认为	rèn wéi		to believe; to think; to consider; to feel		
+171	爸爸	bà ba		(coll.) father; dad		
+172	下	xià		down		
+173	杀	shā		to kill; to slay; to murder; to attack		
+174	点	diǎn		to touch briefly; to tap		
+175	太	tài		highest		
+176	一切	yī qiè		everything		
+177	相信	xiāng xìn		to believe; to be convinced; to accept as true		
+178	想要	xiǎng yào		to want to		
+179	打	dǎ		to hit; to strike		
+180	那里	nà li		there; that place		
+181	也许	yě xǔ		perhaps; maybe		
+182	大	dà		big; large; great		
+183	哪里	nǎ lǐ		where?		
+184	真是	zhēn shi		indeed; truly		
+185	你好	nǐ hǎo		hello; hi		
+186	准备	zhǔn bèi		preparation		
+187	抱歉	bào qiàn		to be sorry		
+188	非常	fēi cháng		very; really		
+189	带	dài		band		
+190	不过	bù guò		only		
+191	出来	chū lái		to come out		
+192	对不起	duì bu qǐ		I'm sorry; excuse me; I beg your pardon		
+193	天	tiān		day		
+194	时	shí		o'clock		
+195	大家	dà jiā		everyone		
+196	与	yǔ		(formal) and; together with (linking parallel nouns, verbs, or phrases)		
+197	有人	yǒu rén		someone		
+198	意思	yì si		idea		
+199	这儿	zhè r		here		
+200	并	bìng		and		
+201	过来	guò lái		to come over		
+202	这种	zhè zhǒng		this kind of		
+203	怎么样	zěn me yàng		how?		
+204	一些	yī xiē		some; a few; a little; (following an adjective) slightly ...er		
+205	见	jiàn		to see		
+206	为了	wèi le		for; for the purpose of; in order to		
+207	感觉	gǎn jué		feeling; impression; sensation		
+208	女人	nǚ rén		woman		
+209	只有	zhǐ yǒu		only have ...; there is only ...		
+210	快点	kuài diǎn		to do sth more quickly		
+211	比	bǐ		to compare		
+212	一次	yī cì		first		
+213	发现	fā xiàn		to notice; to become aware of		
+214	得到	dé dào		to get; to obtain; to receive		
+215	任何	rèn hé		any; whatever; whichever		
+216	小	xiǎo		small		
+217	没错	méi cuò		that's right		
+218	以为	yǐ wéi		to think; to believe (often with the implication that the belief is mistaken – unless referring to one's own current belief)		
+219	年	nián		year		
+220	是不是	shì bu shì		is or is not (used to form yes-no questions)		
+221	而且	ér qiě		(not only ...) but also		
+222	喂	wèi		hey		
+223	前	qián		front		
+224	生活	shēng huó		to live		
+225	男人	nán rén		a man		
+226	之前	zhī qián		before		
+227	问	wèn		to ask; to inquire		
+228	妈	mā		ma		
+229	噢	ō		oh; ah (used to indicate realization)		
+230	可是	kě shì		but; however		
+231	不错	bù cuò		correct		
+232	嗨	hāi		oh alas		
+233	记得	jì de		to remember		
+234	不用	bù yòng		need not		
+235	地	de		-ly		
+236	向	xiàng		towards		
+237	名字	míng zi		name (of a person or thing)		
+238	担心	dān xīn		anxious		
+239	有点	yǒu diǎn		a little		
+240	么	me		suffix, used to form interrogative 什麼|什么, what?, indefinite 這麼|这么 thus, etc		
+241	世界	shì jiè		world		
+242	那样	nà yàng		that kind		
+243	认识	rèn shi		to know		
+244	住	zhù		to live; to reside; to stay		
+245	新	xīn		new		
+246	肯定	kěn dìng		to be certain; to be positive		
+247	最好	zuì hǎo		best		
+248	不行	bù xíng		won't do		
+249	等等	děng děng		et cetera		
+250	干	gàn		tree trunk		
+251	父亲	fù qīn		father		
+252	嘛	má		used in 唵嘛呢叭咪吽		
+253	出去	chū qù		to go out		
+254	先	xiān		beforehand; first; earlier		
+255	干什么	gàn shén me		what are you doing?		
+256	医生	yī shēng		doctor; medical practitioner		
+257	亲爱	qīn ài		dear		
+258	高兴	gāo xìng		happy		
+259	继续	jì xù		to continue; to proceed with; to go on with		
+260	或	huò		maybe		
+261	再见	zài jiàn		goodbye		
+262	电话	diàn huà		telephone		
+263	如何	rú hé		how		
+264	到底	dào dǐ		finally		
+265	最后	zuì hòu		final; last; ultimate		
+266	小姐	xiǎo jie		young lady		
+267	上帝	shàng dì		God		
+268	正在	zhèng zài		to be in the process of (doing sth); to be currently ...-ing		
+269	它们	tā men		they; them		
+270	话	huà		dialect		
+271	明天	míng tiān		tomorrow		
+272	重要	zhòng yào		important; significant; major		
+273	跑	pǎo		to run		
+274	买	mǎi		to buy		
+275	警察	jǐng chá		police; police officer		
+276	只要	zhǐ yào		so long as; provided; if		
+277	好像	hǎo xiàng		as if		
+278	过去	guò qù		(in the) past; former; previous		
+279	听到	tīng dào		to hear		
+280	月	yuè		moon		
+281	干嘛	gàn má		what are you doing?		
+282	出	chū		to go out; to come out		
+283	今晚	jīn wǎn		tonight		
+284	儿子	ér zi		son		
+285	他妈的	tā mā de		(taboo curse) damn it!		
+286	怎样	zěn yàng		how		
+287	哪儿	nǎ r		where?		
+288	回家	huí jiā		to return home		
+289	多少	duō shǎo		number; amount		
+290	却	què		but		
+291	要是	yào shi		(coll.) if		
+292	美国	měi guó		United States; USA; US		
+293	女孩	nǚ hái		girl; lass		
+294	所	suǒ		actually		
+295	马上	mǎ shàng		at once		
+296	以前	yǐ qián		before		
+297	写	xiě		to write		
+298	说话	shuō huà		to speak		
+299	永远	yǒng yuǎn		forever		
+300	看见	kàn jiàn		to see; to catch sight of		
+301	家	jiā		home		
+302	看起来	kàn qǐ lai		seemingly; apparently; looks as if; appears to be; gives the impression that; seems on the face of it to be		
+303	完全	wán quán		complete; whole		
+304	情况	qíng kuàng		circumstances; state of affairs; situation		
+305	该死	gāi sǐ		Damn it!		
+306	成为	chéng wéi		to become; to turn into		
+307	回去	huí qu		to return		
+308	别人	bié ren		other people; others; other person		
+309	以	yǐ		to use		
+310	其他	qí tā		other		
+311	家伙	jiā huo		household dish, implement or furniture		
+312	之后	zhī hòu		after; behind		
+313	结束	jié shù		to end; to finish; to conclude		
+314	没什么	méi shén me		it doesn't matter; it's nothing; never mind		
+315	或者	huò zhě		or		
+316	机会	jī huì		opportunity		
+317	错	cuò		mistake		
+318	决定	jué dìng		to decide; to determine; to make up one's mind		
+319	了解	liǎo jiě		to understand; to know about		
+320	确定	què dìng		definite		
+321	小心	xiǎo xīn		to be careful		
+322	还好	hái hǎo		not bad; pretty good		
+323	总是	zǒng shì		always		
+324	行	xíng		(bound form) to walk; to go; to travel		
+325	号	hào		(literary) to call out; to command		
+326	无法	wú fǎ		unable to; incapable of		
+327	伙计	huǒ ji		partner		
+328	不到	bù dào		not to arrive		
+329	送	sòng		to send; to deliver; to transmit		
+330	帮助	bāng zhù		assistance; aid		
+331	办法	bàn fǎ		way of handling sth; means; measure; (practical) solution to a problem		
+332	玩	wán		to play		
+333	见到	jiàn dào		to see		
+334	小时	xiǎo shí		hour		
+335	放	fàng		to put		
+336	晚上	wǎn shang		evening		
+337	喝	hē		to drink		
+338	好好	hǎo hǎo		in perfectly good condition; perfectly all right		
+339	打电话	dǎ diàn huà		to make a telephone call		
+340	开	kāi		to open (transitive or intransitive)		
+341	如此	rú cǐ		like this; so; such		
+342	里面	lǐ miàn		inside		
+343	坐	zuò		to sit		
+344	女儿	nǚ ér		daughter		
+345	有没有	yǒu méi yǒu		(before a noun) Do (you, they etc) have ...?		
+346	兄弟	xiōng dì		brothers		
+347	已	yǐ		already		
+348	安全	ān quán		safe; secure		
+349	其实	qí shí		actually; in fact; really		
+350	拜托	bài tuō		to request sb to do sth		
+351	计划	jì huà		plan		
+352	穿	chuān		to bore through; to pierce; to perforate		
+353	呃	è		(exclamation)		
+354	怎么办	zěn me bàn		what's to be done		
+355	每个	měi ge		each; every		
+356	关于	guān yú		pertaining to		
+357	站	zhàn		station		
+358	清楚	qīng chu		clear		
+359	有些	yǒu xiē		some		
+360	那边	nà bian		over there		
+361	长官	zhǎng guān		senior official		
+362	公司	gōng sī		company; firm; corporation		
+363	宝贝	bǎo bèi		treasured object		
+364	进来	jìn lái		to come in		
+365	房子	fáng zi		house		
+366	根本	gēn běn		fundamental		
+367	懂	dǒng		to understand		
+368	不管	bù guǎn		not to be concerned		
+369	混蛋	hún dàn		scoundrel		
+370	人们	rén men		people		
+371	搞	gǎo		to do		
+372	唯一	wéi yī		only; sole		
+373	车	chē		car		
+374	麻烦	má fan		trouble; inconvenience		
+375	枪	qiāng		gun		
+376	怎么回事	zěn me huí shì		what's the matter?		
+377	漂亮	piào liang		pretty; beautiful		
+378	黑体	hēi tǐ		sans-serif typeface (for Chinese characters)		
+379	一种	yī zhǒng		one kind of; one type of		
+380	那儿	nà r		there		
+381	母亲	mǔ qīn		mother		
+382	房间	fáng jiān		room		
+383	改变	gǎi biàn		to change		
+384	愿意	yuàn yì		to wish		
+385	下来	xià lai		to come down		
+386	真正	zhēn zhèng		genuine; real; true		
+387	甚至	shèn zhì		even; so much so that		
+388	弄	nòng		to do		
+389	不好	bù hǎo		no good		
+390	回	huí		to go back; to return; to turn back; to turn around		
+391	喔	ō		(interjection) oh; I see (used to indicate realization, understanding)		
+392	夫人	fū ren		lady		
+393	之	zhī		(possessive particle, literary equivalent of 的)		
+394	进去	jìn qù		to go in		
+395	疯	fēng		insane		
+396	睡	shuì		to sleep		
+397	哇	wā		Wow!		
+398	岁	suì		years old		
+399	就要	jiù yào		will		
+400	打算	dǎ suàn		to plan		
+401	完	wán		to finish		
+402	故事	gù shì		old practice		
+403	当时	dāng shí		then; at that time		
+404	几个	jǐ ge		a few		
+405	害怕	hài pà		to be afraid; to be scared		
+406	刚才	gāng cái		just now		
+407	结婚	jié hūn		to marry; to get married		
+408	选择	xuǎn zé		to select; to pick		
+409	救	jiù		to save		
+410	手	shǒu		hand		
+411	保护	bǎo hù		to protect		
+412	虽然	suī rán		although; even though (often used correlatively with 可是 or 但是 etc)		
+413	由	yóu		to follow		
+414	衣服	yī fu		clothes		
+415	另	lìng		other		
+416	出现	chū xiàn		to appear		
+417	听说	tīng shuō		to hear (sth said)		
+418	不了	bù le		no thanks (used to politely but informally decline)		
+419	注意	zhù yì		to take note of; to pay attention to		
+420	没关系	méi guān xi		it doesn't matter		
+421	那种	nà zhǒng		that kind of		
+422	接受	jiē shòu		to accept (a suggestion, punishment, bribe etc); to acquiesce		
+423	或许	huò xǔ		perhaps; maybe		
+424	妻子	qī zǐ		wife and children		
+425	老	lǎo		prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity		
+426	特别	tè bié		unusual; special		
+427	失去	shī qù		to lose		
+428	整个	zhěng gè		whole		
+429	回到	huí dào		to return to		
+430	保证	bǎo zhèng		guarantee		
+431	以后	yǐ hòu		after		
+432	国家	guó jiā		country; nation; state		
+433	变成	biàn chéng		to change into		
+434	难道	nán dào		don't tell me ...		
+435	她们	tā men		they; them (females)		
+436	从来	cóng lái		always		
+437	是否	shì fǒu		whether (or not)		
+438	生命	shēng mìng		life (as the characteristic of living beings)		
+439	忙	máng		busy		
+440	开心	kāi xīn		to feel happy		
+441	关系	guān xi		relation; relationship; connection		
+442	抓	zhuā		to grab		
+443	女士	nǚ shì		lady		
+444	学校	xué xiào		school		
+445	样子	yàng zi		appearance		
+446	原因	yuán yīn		cause		
+447	电影	diàn yǐng		movie; film		
+448	笑	xiào		to laugh; to smile		
+449	谈谈	tán tán		to discuss; to have a chat		
+450	危险	wēi xiǎn		danger		
+451	欢迎	huān yíng		to welcome		
+452	进行	jìn xíng		(of a process etc) to proceed; to be in progress; to be underway		
+453	刚刚	gāng gang		just recently		
+454	些	xiē		classifier indicating a small amount or small number greater than 1: some, a few, several		
+455	看来	kàn lai		apparently		
+456	至少	zhì shǎo		at least		
+457	闭嘴	bì zuǐ		Shut up!		
+458	讲	jiǎng		to speak		
+459	连	lián		to link		
+460	挺	tǐng		straight		
+461	成功	chéng gōng		to succeed		
+462	奇怪	qí guài		strange		
+463	忘	wàng		to forget		
+464	太好了	tài hǎo le		very good		
+465	身上	shēn shang		on the body		
+466	声音	shēng yīn		sound; voice		
+467	这边	zhè biān		this side		
+468	处理	chǔ lǐ		to handle; to deal with		
+469	外面	wài miàn		outside (also pr.  for this sense)		
+470	丈夫	zhàng fu		husband		
+471	通过	tōng guò		to pass through; to get through		
+472	绝对	jué duì		absolute; unconditional		
+473	行动	xíng dòng		operation		
+474	不同	bù tóng		different		
+475	够	gòu		enough (sufficient)		
+476	著	zhù		to make known		
+477	比赛	bǐ sài		competition (sports etc)		
+478	马	mǎ		horse		
+479	倒	dào		to invert; to place upside down or frontside back		
+480	作为	zuò wéi		one's conduct		
+481	别的	bié de		else		
+482	才能	cái néng		talent		
+483	结果	jiē guǒ		to bear fruit		
+484	帮忙	bāng máng		to help		
+485	正	zhèng		straight		
+486	照片	zhào piàn		photograph		
+487	参加	cān jiā		to participate; to take part; to join		
+488	而已	ér yǐ		that's all		
+489	完成	wán chéng		to complete; to accomplish		
+490	方式	fāng shì		way; method; manner; mode; pattern (of behavior etc)		
+491	做到	zuò dào		to accomplish		
+492	俩	liǎ		two (colloquial equivalent of 兩個|两个)		
+493	爸	bà		father		
+494	第一次	dì yī cì		the first time; for the first time		
+495	只能	zhǐ néng		can only		
+496	太太	tài tai		married woman		
+497	下去	xià qù		to go down		
+498	眼睛	yǎn jing		eye		
+499	啥	shá		dialectal equivalent of 什麼|什么		
+500	感到	gǎn dào		to feel; to sense; to perceive		
+501	最近	zuì jìn		recently		
+502	讨厌	tǎo yàn		to dislike; to loathe		
+503	照顾	zhào gu		to take care of		
+504	长	zhǎng		chief		
+505	人类	rén lèi		humanity		
+506	活着	huó zhe		alive		
+507	打开	dǎ kāi		to open		
+508	各位	gè wèi		everybody		
+509	进	jìn		to go forward		
+510	待	dài		to wait		
+511	掉	diào		to fall		
+512	不好意思	bù hǎo yì si		to feel embarrassed		
+513	确实	què shí		indeed		
+514	猜	cāi		to guess		
+515	使	shǐ		to make		
+516	曾经	céng jīng		once		
+517	老师	lǎo shī		teacher		
+518	于	yú		to go		
+519	狗	gǒu		dog		
+520	容易	róng yì		easy; straightforward		
+521	直到	zhí dào		until		
+522	求	qiú		to seek		
+523	谈	tán		to speak		
+524	麽	mó		tiny		
+525	进入	jìn rù		to enter; to go into		
+526	咱们	zán men		we or us (including both the speaker and the person(s) spoken to)		
+527	伤害	shāng hài		to injure; to harm		
+528	拉	lā		to pull		
+529	拍	pāi		to pat		
+530	身体	shēn tǐ		the body		
+531	曾	céng		once		
+532	内	nèi		inside		
+533	简单	jiǎn dān		simple; not complicated		
+534	有趣	yǒu qù		interesting; fascinating; amusing		
+535	就算	jiù suàn		(coll.) even if		
+536	医院	yī yuàn		hospital		
+537	赢	yíng		to beat		
+538	能够	néng gòu		to be capable of		
+539	努力	nǔ lì		to make an effort; to try hard; to strive		
+540	留下	liú xià		to leave behind		
+541	同意	tóng yì		to agree		
+542	杰克	jié kè		Jack (name)		
+543	死亡	sǐ wáng		to die		
+544	每	měi		each		
+545	战争	zhàn zhēng		war; conflict		
+546	上面	shàng miàn		on top of		
+547	总统	zǒng tǒng		president (of a country)		
+548	消息	xiāo xi		(piece of) news; information		
+549	要求	yāo qiú		to request		
+550	理解	lǐ jiě		to comprehend; to understand		
+551	收到	shōu dào		to receive		
+552	之间	zhī jiān		(after a noun) between; among; amid		
+553	主意	zhǔ yi		plan		
+554	保持	bǎo chí		to keep		
+555	成	chéng		to succeed		
+556	存在	cún zài		to exist		
+557	高	gāo		high		
+558	晚安	wǎn ān		Good night!		
+559	解释	jiě shì		explanation		
+560	全部	quán bù		whole; all		
+561	靠	kào		to lean against or on		
+562	呆	dāi		foolish; stupid		
+563	起	qǐ		to rise		
+564	约翰	yuē hàn		John (name)		
+565	突然	tū rán		sudden; abrupt; unexpected		
+566	飞机	fēi jī		airplane		
+567	解决	jiě jué		to solve; to resolve; to settle (a problem)		
+568	调查	diào chá		investigation		
+569	多久	duō jiǔ		(of time) how long?		
+570	老婆	lǎo pó		(coll.) wife		
+571	不再	bù zài		no more; no longer		
+572	翻译	fān yì		to translate		
+573	证明	zhèng míng		proof		
+574	开玩笑	kāi wán xiào		to play a joke; to make fun of; to joke		
+575	父母	fù mǔ		father and mother; parents		
+576	卖	mài		to sell		
+577	回答	huí dá		to reply; to answer		
+578	任务	rèn wu		mission; assignment; task; duty; role		
+579	所有人	suǒ yǒu rén		everyone		
+580	带来	dài lái		to bring		
+581	早	zǎo		early		
+582	可爱	kě ài		adorable		
+583	感谢	gǎn xiè		to thank; to be grateful		
+584	为何	wèi hé		why		
+585	除了	chú le		apart from; besides; in addition to (used to exclude, as in 除了他，誰也沒來|除了他，谁也没来 "apart from him, nobody came", or to include, as in 除了英語，他也會法語|除了英语，他也会法语 "in addition to English, he also knows French")		
+586	派	pài		(literary) tributary; branch of a river		
+587	自由	zì yóu		freedom; liberty		
+588	日	rì		(bound form) sun		
+589	抓住	zhuā zhù		to grab hold of; to capture		
+590	路	lù		road (CL:條|条)		
+591	想法	xiǎng fǎ		way of thinking; opinion; notion		
+592	早上	zǎo shang		early morning		
+593	律师	lǜ shī		lawyer		
+594	昨晚	zuó wǎn		yesterday evening		
+595	哥哥	gē ge		older brother		
+596	放弃	fàng qì		to renounce; to abandon; to give up		
+597	游戏	yóu xì		game (CL:場|场)		
+598	跳	tiào		to jump		
+599	头	tóu		head		
+600	秘密	mì mì		secret; private; confidential; clandestine		
+601	休息	xiū xi		rest		
+602	终于	zhōng yú		at last		
+603	考虑	kǎo lǜ		to think over		
+604	其中	qí zhōng		among		
+605	刚	gāng		(literary) hard; firm; strong		
+606	每天	měi tiān		every day		
+607	变得	biàn de		to become		
+608	大概	dà gài		roughly		
+609	目标	mù biāo		target		
+610	控制	kòng zhì		to control		
+611	家里	jiā lǐ		home		
+612	花	huā		flower		
+613	小孩	xiǎo hái		child		
+614	睡觉	shuì jiào		to go to bed		
+615	停止	tíng zhǐ		to stop; to halt; to cease		
+616	因此	yīn cǐ		thus; consequently; as a result		
+617	分钟	fēn zhōng		minute		
+618	替	tì		to substitute for		
+619	开枪	kāi qiāng		to open fire		
+620	音乐	yīn yuè		music		
+621	耶	yé		interrogative particle (classical)		
+622	糟糕	zāo gāo		too bad		
+623	武器	wǔ qì		weapon		
+624	来自	lái zì		to come from (a place)		
+625	后面	hòu mian		the back; the rear; the last bit		
+626	小子	xiǎo zǐ		(literary) youngster		
+627	来到	lái dào		to arrive; to come		
+628	家人	jiā rén		family member		
+629	坐下	zuò xia		to sit down		
+630	未来	wèi lái		future		
+631	脸	liǎn		face		
+632	聪明	cōng ming		intelligent; clever; bright		
+633	报告	bào gào		to inform		
+634	冷静	lěng jìng		calm; cool-headed; dispassionate		
+635	怕	pà		to be afraid		
+636	厉害	lì hai		(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding		
+637	直接	zhí jiē		directly; direct		
+638	办公室	bàn gōng shì		office; business premises		
+639	停	tíng		to stop		
+640	鬼	guǐ		disembodied spirit; ghost; devil		
+641	检查	jiǎn chá		inspection		
+642	加油	jiā yóu		to add oil; to top up with gas; to refuel		
+643	负责	fù zé		to be responsible for; to be in charge of; to bear responsibility for		
+644	方法	fāng fǎ		method; way; technique; procedure		
+645	这位	zhè wèi		this (person)		
+646	年轻	nián qīng		young		
+647	即使	jí shǐ		even if; even though		
+648	本来	běn lái		original		
+649	本	běn		(bound form) root; stem		
+650	疯狂	fēng kuáng		crazy; frenzied; wild		
+651	大人	dà ren		adult		
+652	使用	shǐ yòng		to use		
+653	老板	lǎo bǎn		boss; proprietor		
+654	水	shuǐ		water		
+655	否则	fǒu zé		otherwise; if not; or (else)		
+656	答应	dā ying		to answer; to respond		
+657	证据	zhèng jù		evidence		
+658	可怕	kě pà		awful		
+659	拿到	ná dào		to get		
+660	快乐	kuài lè		happy; joyful		
+661	拥有	yōng yǒu		to have; to possess; to own		
+662	个人	gè rén		an individual; oneself; (attributive) personal; one's own		
+663	忘记	wàng jì		to forget		
+664	哭	kū		to cry; to weep		
+665	并且	bìng qiě		and; besides; moreover; furthermore; in addition		
+666	身边	shēn biān		at one's side		
+667	想到	xiǎng dào		to think of		
+668	等待	děng dài		to wait; to wait for		
+669	再说	zài shuō		to say again		
+670	事实	shì shí		fact		
+671	姑娘	gū niang		girl		
+672	联系	lián xì		connection		
+673	地球	dì qiú		the earth		
+674	命令	mìng lìng		order		
+675	阻止	zǔ zhǐ		to prevent		
+676	消失	xiāo shī		to disappear; to fade away		
+677	随便	suí biàn		as one wishes		
+678	心	xīn		heart		
+679	第	dì		(prefix indicating ordinal number, as in 第六 "sixth")		
+680	似乎	sì hū		it seems; seemingly; as if		
+681	开车	kāi chē		to drive a car (or train etc)		
+682	家庭	jiā tíng		family; household		
+683	尸体	shī tǐ		corpse; dead body		
+684	痛苦	tòng kǔ		pain		
+685	城市	chéng shì		city; town		
+686	力量	lì liang		power; force; strength		
+687	对于	duì yú		regarding; as far as (sth) is concerned; with regard to		
+688	男孩	nán hái		boy		
+689	三	sān		three		
+690	博士	bó shì		doctor (as an academic degree)		
+691	姐姐	jiě jie		older sister		
+692	总	zǒng		(bound form) general; overall		
+693	离	lí		to leave		
+694	放下	fàng xià		to lay down; to put down		
+695	不该	bù gāi		should not		
+696	昨天	zuó tiān		yesterday		
+697	紧张	jǐn zhāng		nervous		
+698	那天	nà tiān		that day		
+699	完美	wán měi		perfect		
+700	原来	yuán lái		original; former		
+701	监狱	jiān yù		prison		
+702	伟大	wěi dà		huge; great; grand; worthy of the greatest admiration; important (contribution etc)		
+703	简直	jiǎn zhí		simply; really		
+704	交给	jiāo gěi		to give; to deliver; to hand over		
+705	正常	zhèng cháng		normal; regular		
+706	以及	yǐ jí		and; as well as		
+707	重新	chóng xīn		again; once more; re-		
+708	研究	yán jiū		research		
+709	正确	zhèng què		correct; sound; right; proper		
+710	附近	fù jìn		nearby; neighboring		
+711	不然	bù rán		not so		
+712	坏	huài		bad		
+713	方正	fāng zhèng		clear and square		
+714	可怜	kě lián		pitiful		
+715	比较	bǐ jiào		to compare		
+716	字幕	zì mù		subtitles; captions (of a movie etc)		
+717	门	mén		gate; door; doorway; gateway; opening (CL:扇)		
+718	者	zhě		(after a verb or adjective) one who (is) ...		
+719	加入	jiā rù		to become a member		
+720	不够	bù gòu		not enough		
+721	安静	ān jìng		quiet		
+722	美丽	měi lì		beautiful		
+723	於	wū		(literary) Oh!		
+724	唱	chàng		to sing		
+725	反正	fǎn zhèng		anyway		
+726	记住	jì zhu		to remember		
+727	政府	zhèng fǔ		government		
+728	遇到	yù dào		to meet; to run into; to come across		
+729	咖啡	kā fēi		(loanword) coffee		
+730	有关	yǒu guān		to have sth to do with		
+731	接	jiē		to receive		
+732	仍然	réng rán		still; as before; yet		
+733	放开	fàng kāi		to let go		
+734	几乎	jī hū		almost; nearly; practically		
+735	代表	dài biǎo		representative		
+736	陪	péi		to accompany		
+737	若	ruò		to seem		
+738	国王	guó wáng		king		
+739	书	shū		book		
+740	打扰	dǎ rǎo		to disturb		
+741	原谅	yuán liàng		to excuse		
+742	发誓	fā shì		to vow		
+743	纽约	niǔ yuē		New York		
+744	位置	wèi zhi		position		
+745	偷	tōu		to steal		
+746	安排	ān pái		to arrange		
+747	表演	biǎo yǎn		play		
+748	从没	cóng méi		never (in the past)		
+749	除非	chú fēi		only if (..., or otherwise, ...)		
+750	办	bàn		to take care of (a matter); to deal with (a task, procedure etc); to organize (an event)		
+751	屁股	pì gu		buttocks		
+752	生气	shēng qì		to get angry; to be furious		
+753	酒	jiǔ		wine (esp. rice wine)		
+754	恩	ēn		favor; grace; kindness		
+755	手机	shǒu jī		cell phone; mobile phone		
+756	老兄	lǎo xiōng		elder brother (often used self-referentially)		
+757	支持	zhī chí		to be in favor of		
+758	必要	bì yào		necessary		
+759	错误	cuò wù		mistaken; false; wrong		
+760	人生	rén shēng		life (one's time on earth)		
+761	攻击	gōng jī		to attack		
+762	跟着	gēn zhe		to follow after		
+763	杀死	shā sǐ		to kill		
+764	钥匙	yào shi		key		
+765	叔叔	shū shu		father's younger brother; paternal uncle		
+766	食物	shí wù		food		
+767	妹妹	mèi mei		younger sister		
+768	建议	jiàn yì		to propose; to suggest; to recommend		
+769	骗	piàn		to cheat		
+770	梦	mèng		dream (CL:場|场)		
+771	斯	sī		(phonetic)		
+772	再次	zài cì		once more; once again		
+773	案子	àn zi		long table; counter		
+774	下面	xià miàn		below		
+775	听见	tīng jiàn		to hear		
+776	约	yuē		to make an appointment		
+777	坚持	jiān chí		to persevere with		
+778	严重	yán zhòng		grave; serious; severe; critical		
+779	哈	hā		(interj.) ha!		
+780	教	jiào		(bound form) to teach; to instruct		
+781	经常	jīng cháng		frequently; constantly; regularly; often		
+782	礼物	lǐ wù		gift; present		
+783	约会	yuē huì		appointment		
+784	首先	shǒu xiān		first of all; in the first place		
+785	另外	lìng wài		additional		
+786	提供	tí gōng		to offer		
+787	信	xìn		letter		
+788	组织	zǔ zhī		to organize		
+789	幸运	xìng yùn		fortunate; lucky		
+790	面前	miàn qián		in front of		
+791	日子	rì zi		day		
+792	动物	dòng wù		animal		
+793	敌人	dí rén		enemy		
+794	舒服	shū fu		comfortable		
+795	再也	zài yě		(not) ever again; (not) any longer		
+796	远	yuǎn		far		
+797	操	cāo		to grasp		
+798	早就	zǎo jiù		already at an earlier time		
+799	逼	bī		to force (sb to do sth)		
+800	系统	xì tǒng		system		
+801	受伤	shòu shāng		to sustain injuries		
+802	中国	zhōng guó		China		
+803	信息	xìn xī		information; news; message		
+804	关心	guān xīn		to be concerned about; to care about		
+805	的确	dí què		really		
+806	星期	xīng qī		week		
+807	表现	biǎo xiàn		to show		
+808	不得不	bù dé bù		have no choice or option but to		
+809	寻找	xún zhǎo		to seek; to look for		
+810	放松	fàng sōng		to relax; to slacken; to loosen		
+811	船	chuán		boat		
+812	女	nǚ		female		
+813	那时	nà shí		then		
+814	二	èr		two		
+815	大学	dà xué		university; college		
+816	学生	xué sheng		student		
+817	将军	jiāng jūn		general		
+818	到处	dào chù		everywhere		
+819	第一	dì yī		first		
+820	见面	jiàn miàn		to meet; to see each other		
+821	日本	rì běn		Japan		
+822	理由	lǐ yóu		reason		
+823	事实上	shì shí shàng		in fact		
+824	阿	ā		prefix used before monosyllabic names, kinship terms etc to indicate familiarity		
+825	跳舞	tiào wǔ		to dance		
+826	拒绝	jù jué		to refuse; to decline; to reject		
+827	久	jiǔ		(of a period of time) long		
+828	几天	jǐ tiān		several days		
+829	丢	diū		to lose		
+830	怀疑	huái yí		to doubt (sth); to be skeptical of		
+831	信任	xìn rèn		to trust		
+832	记录	jì lù		to record		
+833	此	cǐ		this; these		
+834	认真	rèn zhēn		conscientious		
+835	战斗	zhàn dòu		to fight		
+836	许多	xǔ duō		many		
+837	差不多	chà bu duō		almost		
+838	开门	kāi mén		(lit. and fig.) to open a door		
+839	别说	bié shuō		to say nothing of; not to mention; let alone		
+840	神	shén		god; deity		
+841	之一	zhī yī		one of (sth)		
+842	幸福	xìng fú		happiness		
+843	哎	āi		hey!		
+844	同样	tóng yàng		same; equal; similar		
+845	有时	yǒu shí		sometimes; now and then		
+846	影响	yǐng xiǎng		influence		
+847	便	biàn		plain		
+848	算	suàn		to calculate; to figure out		
+849	吃饭	chī fàn		to have a meal		
+850	正是	zhèng shì		is precisely		
+851	不必	bù bì		need not		
+852	而是	ér shì		rather		
+853	住手	zhù shǒu		to desist		
+854	走开	zǒu kāi		to leave; to walk away; to beat it		
+855	弟弟	dì di		younger brother		
+856	道歉	dào qiàn		to apologize		
+857	人家	rén jiā		household		
+858	意味着	yì wèi zhe		to signify		
+859	想象	xiǎng xiàng		to imagine; to envision		
+860	按	àn		to press		
+861	一会儿	yī huì r		a moment		
+862	承认	chéng rèn		to admit		
+863	每次	měi cì		each time; every time		
+864	万	mò		used in 万俟		
+865	银行	yín háng		bank		
+866	剩下	shèng xià		to remain; to be left over		
+867	足够	zú gòu		enough; sufficient		
+868	有事	yǒu shì		to be occupied with sth		
+869	老爸	lǎo bà		father; dad		
+870	全都	quán dōu		all		
+871	达	dá		to attain		
+872	看上去	kàn shang qu		it would appear		
+873	系	xì		system		
+874	无论	wú lùn		no matter what or how		
+875	老天	lǎo tiān		God		
+876	多么	duō me		how (wonderful etc)		
+877	变	biàn		to change		
+878	难	nán		difficult (to...)		
+879	分	fēn		to divide; to separate		
+880	哪个	nǎ ge		which		
+881	行为	xíng wéi		action; conduct; behavior; activity		
+882	往	wǎng		to go (in a direction)		
+883	适合	shì hé		to fit; to suit		
+884	学习	xué xí		to learn; to study		
+885	出发	chū fā		to set off		
+886	生意	shēng yì		life force		
+887	上去	shàng qù		to go up		
+888	值得	zhí de		worth the money		
+889	搞定	gǎo dìng		to fix		
+890	派对	pài duì		(loanword) party		
+891	同时	tóng shí		at the same time; simultaneously		
+892	下次	xià cì		next time		
+893	通知	tōng zhī		to notify		
+894	救命	jiù mìng		to save sb's life		
+895	无	wú		not to have		
+896	利用	lì yòng		to exploit		
+897	后来	hòu lái		afterwards; later		
+898	画	huà		to draw; to paint		
+899	早上好	zǎo shang hǎo		Good morning!		
+900	精神	jīng shén		spirit		
+901	居然	jū rán		unexpectedly		
+902	受到	shòu dào		to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)		
+903	介绍	jiè shào		to introduce (sb to sb)		
+904	谢	xiè		to thank		
+905	既然	jì rán		since; as; this being the case		
+906	米	mǐ		uncooked rice		
+907	真相	zhēn xiàng		the truth about sth; the actual facts		
+908	电视	diàn shì		television; TV		
+909	恨	hèn		to hate		
+910	凶手	xiōng shǒu		murderer		
+911	卡	kǎ		to stop		
+912	没法	méi fǎ		at a loss		
+913	不知	bù zhī		not to know		
+914	警官	jǐng guān		constable; police officer		
+915	地狱	dì yù		hell; underworld; (Buddhism) Naraka		
+916	经历	jīng lì		to experience; to go through		
+917	属于	shǔ yú		to belong to; to fall under (a category)		
+918	饿	è		hungry		
+919	什	shén		what		
+920	威胁	wēi xié		to threaten; to menace		
+921	可不是	kě bu shì		(coll.) exactly!; indeed; that's for sure		
+922	怪	guài		odd; strange; uncanny		
+923	笨蛋	bèn dàn		(mild insult) fool; idiot		
+924	真实	zhēn shí		true; real		
+925	法律	fǎ lǜ		law		
+926	实在	shí zài		really		
+927	简体	jiǎn tǐ		simplified form of Chinese characters, as opposed to traditional form 繁體|繁体		
+928	什么样	shén me yàng		what kind?; what sort?		
+929	能力	néng lì		capability		
+930	婚礼	hūn lǐ		wedding ceremony		
+931	灵魂	líng hún		soul		
+932	客气	kè qi		polite		
+933	瞧	qiáo		to look at		
+934	白痴	bái chī		idiocy		
+935	换	huàn		to exchange		
+936	英国	yīng guó		United Kingdom (UK); Britain		
+937	其	qí		his		
+938	允许	yǔn xǔ		to permit; to allow		
+939	德	dé		virtue		
+940	交易	jiāo yì		to deal; to trade; to transact		
+941	梦想	mèng xiǎng		(fig.) to dream of		
+942	杀人	shā rén		to kill a person; to commit murder		
+943	多谢	duō xiè		many thanks		
+944	管	guǎn		to take care (of)		
+945	意义	yì yì		sense		
+946	或是	huò shì		or		
+947	美	měi		beautiful		
+948	教授	jiāo shòu		to teach (a subject)		
+949	军队	jūn duì		armed forces; troops		
+950	享受	xiǎng shòu		to enjoy		
+951	喝酒	hē jiǔ		to drink (alcohol)		
+952	好多	hǎo duō		many		
+953	接下来	jiē xià lái		to accept		
+954	腿	tuǐ		leg		
+955	合作	hé zuò		to cooperate; to collaborate; to work together		
+956	女朋友	nǚ péng you		girlfriend		
+957	好吃	hǎo chī		tasty; delicious		
+958	事件	shì jiàn		incident; event		
+959	酒吧	jiǔ bā		bar (place to buy drinks)		
+960	不如	bù rú		not equal to; not as good as; inferior to		
+961	指	zhǐ		finger		
+962	新闻	xīn wén		news		
+963	历史	lì shǐ		history		
+964	动	dòng		(of sth) to move		
+965	客人	kè rén		visitor; guest		
+966	经过	jīng guò		to pass		
+967	英雄	yīng xióng		hero		
+968	头发	tóu fa		hair (on the head)		
+969	傻	shǎ		foolish		
+970	血	xuè		blood		
+971	扔	rēng		to throw		
+972	藏	cáng		to conceal		
+973	自杀	zì shā		to kill oneself		
+974	失败	shī bài		to be defeated		
+975	获得	huò dé		to obtain; to receive; to get		
+976	不见	bù jiàn		not to see		
+977	称	chēng		to weigh		
+978	意识	yì shí		consciousness; awareness		
+979	试图	shì tú		to attempt		
+980	恭喜	gōng xǐ		to congratulate		
+981	上次	shàng cì		last time		
+982	根据	gēn jù		according to		
+983	吓	xià		to frighten		
+984	权利	quán lì		right (i.e. an entitlement to sth)		
+985	不在乎	bù zài hu		not to care		
+986	生	shēng		to grow; to give birth; to produce; to be born		
+987	队	duì		squadron		
+988	没用	méi yòng		useless		
+989	路上	lù shang		on the road		
+990	接近	jiē jìn		to approach; to get close to		
+991	不准	bù zhǔn		not to allow		
+992	碰	pèng		to touch		
+993	一旦	yī dàn		in case (sth happens)		
+994	味道	wèi dao		flavor; taste		
+995	实际上	shí jì shàng		in fact		
+996	感受	gǎn shòu		to sense		
+997	处	chù		(bound form) place; locality		
+998	身份	shēn fèn		identity; aspect of one's identity (e.g. mayor, father, permanent resident); role; capacity (as in "in his capacity as ..." 以 + ... + 的身份); status (social, legal etc); position; rank		
+999	意外	yì wài		unexpected		
+1000	一般	yī bān		same		
+1001	显然	xiǎn rán		clearly; evidently; obviously		
+1002	停下	tíng xià		to stop		
+1003	拜	bài		to bow to; to pay one's respects		
+1004	婊子	biǎo zi		prostitute		
+1005	谋杀	móu shā		to murder		
+1006	呼吸	hū xī		to breathe		
+1007	训练	xùn liàn		to train		
+1008	乔治	qiáo zhì		George (name)		
+1009	目前	mù qián		at the present time		
+1010	有时候	yǒu shí hou		sometimes		
+1011	迟到	chí dào		to arrive late		
+1012	男	nán		(bound form) male		
+1013	尝试	cháng shì		to try (to see what it's like or whether one can do it)		
+1014	老大	lǎo dà		old age		
+1015	间	jiān		between		
+1016	受	shòu		to receive		
+1017	愚蠢	yú chǔn		silly		
+1018	算了	suàn le		let it be		
+1019	讨论	tǎo lùn		to discuss; to talk over		
+1020	在家	zài jiā		to be at home		
+1021	一家	yī jiā		the whole family		
+1022	麦克	mài kè		(loanword) microphone		
+1023	如	rú		as		
+1024	道	dào		road; path (CL:條|条,股)		
+1025	一会	yī huì		a moment		
+1026	究竟	jiū jìng		to go to the bottom of a matter		
+1027	戴	dài		to put on or wear (glasses, hat, gloves etc)		
+1028	一块	yī kuài		a piece; a chunk		
+1029	立刻	lì kè		immediately; at once; right away		
+1030	特	tè		special		
+1031	躺	tǎng		to recline		
+1032	文件	wén jiàn		document		
+1033	敢	gǎn		to dare		
+1034	慢慢	màn màn		slowly; gradually		
+1035	前面	qián miàn		ahead		
+1036	奶奶	nǎi nai		(informal) grandma (paternal grandmother)		
+1037	黑	hēi		black		
+1038	确认	què rèn		to confirm		
+1039	答案	dá àn		answer		
+1040	滚	gǔn		to boil		
+1041	棒	bàng		stick		
+1042	可不	kě bu		see 可不是		
+1043	挂	guà		to hang; to suspend (from a hook etc)		
+1044	法国	fǎ guó		France		
+1045	欠	qiàn		to owe		
+1046	一遍	yī biàn		one time (all the way through)		
+1047	做出	zuò chū		to put out		
+1048	赶快	gǎn kuài		quickly; at once		
+1049	最终	zuì zhōng		final; ultimate		
+1050	飞	fēi		to fly		
+1051	追	zhuī		to chase		
+1052	下午	xià wǔ		afternoon		
+1053	德国	dé guó		Germany		
+1054	赶紧	gǎn jǐn		hurriedly		
+1055	仍	réng		still; yet		
+1056	发	fā		to send out		
+1057	部分	bù fen		part; portion; piece		
+1058	活	huó		to live		
+1059	带走	dài zǒu		to carry; to take away		
+1060	对方	duì fāng		the other person; the other side; the other party		
+1061	邀请	yāo qǐng		to invite		
+1062	竟然	jìng rán		unexpectedly		
+1063	将会	jiāng huì		auxiliary verb introducing future action: may (be able to)		
+1064	破坏	pò huài		destruction		
+1065	一生	yī shēng		all one's life; throughout one's life		
+1066	黑暗	hēi àn		dark		
+1067	面对	miàn duì		to face; to confront		
+1068	中心	zhōng xīn		center; heart; core		
+1069	警告	jǐng gào		to warn		
+1070	大哥	dà gē		eldest brother		
+1071	碞	yán		cliff		
+1072	节目	jié mù		(TV or radio) program; show		
+1073	现场	xiàn chǎng		the scene (of a crime, accident etc)		
+1074	脚	jiǎo		foot		
+1075	尽管	jǐn guǎn		despite		
+1076	令人	lìng rén		to cause one (to do sth)		
+1077	街	jiē		street		
+1078	越	yuè		to exceed		
+1079	搬	bān		to move (i.e. relocate oneself)		
+1080	好人	hǎo rén		good person		
+1081	穿着	chuān zhuó		attire; clothes; dress		
+1082	少	shǎo		few		
+1083	超过	chāo guò		to surpass		
+1084	恐怕	kǒng pà		fear		
+1085	病	bìng		illness		
+1086	弗兰克	fú lán kè		Frank (name)		
+1087	还给	huán gěi		to return sth to sb		
+1088	玛丽	mǎ lì		Mary or Marie (name)		
+1089	选	xuǎn		to choose		
+1090	爆炸	bào zhà		explosion		
+1091	反对	fǎn duì		to oppose; to be against; to object to		
+1092	因	yīn		cause		
+1093	美好	měi hǎo		beautiful		
+1094	校对	jiào duì		proofreader		
+1095	炸弹	zhà dàn		bomb		
+1096	放心	fàng xīn		to feel relieved		
+1097	一边	yī biān		one side		
+1098	长大	zhǎng dà		to grow up		
+1099	爱情	ài qíng		romance; love (romantic)		
+1100	微软	wēi ruǎn		Microsoft Corporation		
+1101	令	lìng		to order		
+1102	辛苦	xīn kǔ		exhausting		
+1103	撒谎	sā huǎng		to tell lies		
+1104	药	yào		leaf of the iris		
+1105	美元	měi yuán		American dollar; US dollar		
+1106	汤姆	tāng mǔ		Tom (name)		
+1107	吻	wěn		kiss		
+1108	块	kuài		lump; chunk; piece		
+1109	队长	duì zhǎng		captain		
+1110	收拾	shōu shi		to put in order		
+1111	哥们	gē men		(coll.) dude; buddy; bro		
+1112	火车	huǒ chē		train		
+1113	子弹	zǐ dàn		bullet		
+1114	治疗	zhì liáo		to treat (an illness)		
+1115	包括	bāo kuò		to comprise		
+1116	公寓	gōng yù		apartment building; block of flats (may be a public housing block or a condominium etc) (CL:套)		
+1117	生日	shēng rì		birthday		
+1118	留	liú		to leave (a message etc)		
+1119	兴趣	xìng qù		interest (desire to know about sth)		
+1120	法官	fǎ guān		judge (in court)		
+1121	方向	fāng xiàng		direction; orientation		
+1122	乔	qiáo		tall		
+1123	一半	yī bàn		half		
+1124	借	jiè		to borrow		
+1125	伦敦	lún dūn		London, capital of United Kingdom		
+1126	玩笑	wán xiào		to joke		
+1127	躲	duǒ		to hide		
+1128	遗憾	yí hàn		regret		
+1129	金	jīn		gold		
+1130	病人	bìng rén		sick person		
+1131	目的	mù dì		purpose; aim; goal; target; objective		
+1132	请问	qǐng wèn		Excuse me, may I ask...?		
+1133	公主	gōng zhǔ		princess		
+1134	士兵	shì bīng		soldier		
+1135	怎	zěn		how		
+1136	接着	jiē zhe		to catch and hold on		
+1137	其它	qí tā		(adjective) other		
+1138	傻瓜	shǎ guā		idiot		
+1139	干净	gān jìng		clean		
+1140	晚	wǎn		evening		
+1141	电脑	diàn nǎo		computer		
+1142	反应	fǎn yìng		to react		
+1143	拿走	ná zǒu		to take away		
+1144	机器	jī qì		machine		
+1145	警方	jǐng fāng		police		
+1146	假	jiǎ		fake		
+1147	次	cì		next in sequence		
+1148	失望	shī wàng		disappointed		
+1149	出生	chū shēng		to be born		
+1150	酒店	jiǔ diàn		wine shop		
+1151	两	liǎng		two		
+1152	上班	shàng bān		to go to work		
+1153	相当	xiāng dāng		equivalent to		
+1154	要说	yào shuō		as for		
+1155	造成	zào chéng		to bring about; to create; to cause		
+1156	随时	suí shí		at any time; at all times		
+1157	到达	dào dá		to reach; to arrive		
+1158	罗	luó		gauze		
+1159	巴黎	bā lí		Paris, capital of France		
+1160	冷	lěng		cold		
+1161	男朋友	nán péng you		boyfriend		
+1162	想起	xiǎng qǐ		to recall		
+1163	老公	lǎo gōng		(coll.) husband		
+1164	教堂	jiào táng		church; chapel		
+1165	充满	chōng mǎn		full of		
+1166	盾	dùn		shield (CL:面)		
+1167	拯救	zhěng jiù		to save; to rescue		
+1168	祝	zhù		to pray for		
+1169	字	zì		letter		
+1170	一句	yī jù		a line of verse		
+1171	用来	yòng lái		to be used for		
+1172	测试	cè shì		to test (machinery etc)		
+1173	差点	chà diǎn		almost		
+1174	社会	shè huì		society		
+1175	猫	māo		cat (CL:隻|只)		
+1176	方面	fāng miàn		respect		
+1177	习惯	xí guàn		habit		
+1178	资料	zī liào		material		
+1179	安娜	ān nà		Anna (name)		
+1180	剩	shèng		to remain		
+1181	晚餐	wǎn cān		evening meal; dinner		
+1182	活动	huó dòng		to exercise; to move about; to work out		
+1183	越来越	yuè lái yuè		more and more		
+1184	太阳	tài yang		sun		
+1185	巨大	jù dà		huge; immense; enormous; gigantic		
+1186	抢	qiǎng		to fight over		
+1187	啤酒	pí jiǔ		beer (loanword)		
+1188	好看	hǎo kàn		good-looking; nice-looking		
+1189	感情	gǎn qíng		emotion; sentiment		
+1190	自然	zì rán		nature		
+1191	逮捕	dài bǔ		to arrest; to apprehend; to take into custody		
+1192	责任	zé rèn		responsibility; duty; liability		
+1193	时刻	shí kè		time		
+1194	大卫	dà wèi		(name) David		
+1195	恶心	ě xīn		nausea		
+1196	读	dú		to read out; to read aloud		
+1197	探员	tàn yuán		detective		
+1198	赚	zhuàn		to earn		
+1199	全	quán		all		
+1200	记忆	jì yì		to remember; to recall		
+1201	号码	hào mǎ		number		
+1202	主人	zhǔ rén		owner		
+1203	可惜	kě xī		it is a pity		
+1204	明显	míng xiǎn		clear		
+1205	算是	suàn shì		considered to be		
+1206	上校	shàng xiào		high ranking officer in Chinese army		
+1207	意见	yì jiàn		idea		
+1208	家族	jiā zú		family		
+1209	爷爷	yé ye		(coll.) paternal grandfather; grandpa		
+1210	祈祷	qí dǎo		to pray; to say a prayer		
+1211	难过	nán guò		to feel sad		
+1212	事儿	shì r		one's employment		
+1213	疯子	fēng zi		madman		
+1214	陛下	bì xià		Your Majesty		
+1215	从未	cóng wèi		never		
+1216	球	qiú		ball		
+1217	彼得	bǐ dé		Peter (name)		
+1218	通常	tōng cháng		regular; usual; normal		
+1219	名	míng		name		
+1220	命运	mìng yùn		fate; destiny		
+1221	旅行	lǚ xíng		to travel		
+1222	吹	chuī		to blow		
+1223	服务	fú wù		to serve		
+1224	雷	léi		thunder		
+1225	没想到	méi xiǎng dào		didn't expect		
+1226	对付	duì fu		to handle; to deal with; to tackle		
+1227	比如	bǐ rú		for example; for instance; such as		
+1228	人民	rén mín		the people		
+1229	不少	bù shǎo		many; quite a few; a good number of		
+1230	回事	huí shì		(old) to report to one's master		
+1231	提	tí		to carry (hanging down from the hand)		
+1232	干杯	gān bēi		to drink a toast		
+1233	旁边	páng biān		side; adjacent place		
+1234	种	zhǒng		seed		
+1235	克	kè		to be able to		
+1236	公平	gōng píng		fair		
+1237	愉快	yú kuài		cheerful; happy; pleasant; delighted		
+1238	不幸	bù xìng		misfortune		
+1239	鱼	yú		fish (CL:條|条,尾)		
+1240	托	tuō		to hold up in one's hand; to support with one's palm		
+1241	关	guān		mountain pass		
+1242	脑袋	nǎo dai		head		
+1243	创造	chuàng zào		to create		
+1244	好不好	hǎo bu hǎo		(coll.) all right?		
+1245	不断	bù duàn		unceasing		
+1246	有意思	yǒu yì si		interesting		
+1247	错过	cuò guò		to miss (train, opportunity etc)		
+1248	抱	bào		to hold		
+1249	压力	yā lì		pressure		
+1250	心里	xīn li		chest		
+1251	超级	chāo jí		super-		
+1252	加	jiā		to add		
+1253	线索	xiàn suǒ		trail		
+1254	宇宙	yǔ zhòu		universe; cosmos; space		
+1255	死去	sǐ qù		to die		
+1256	心情	xīn qíng		mood; frame of mind		
+1257	撞	zhuàng		to knock against		
+1258	一部分	yī bù fen		portion		
+1259	关闭	guān bì		to close; to shut (a window etc)		
+1260	设计	shè jì		to design; to plan		
+1261	失踪	shī zōng		to be missing		
+1262	未	wèi		not yet		
+1263	毁	huǐ		to destroy; to ruin		
+1264	移动	yí dòng		to move		
+1265	垃圾	lā jī		trash		
+1266	十分	shí fēn		very		
+1267	不可	bù kě		cannot; should not; must not		
+1268	上车	shàng chē		to get on or into (a bus, train, car etc)		
+1269	同	tóng		like		
+1270	健康	jiàn kāng		health		
+1271	提醒	tí xǐng		to remind		
+1272	包	bāo		to cover		
+1273	说谎	shuō huǎng		to lie		
+1274	热	rè		to warm up		
+1275	自从	zì cóng		since (a time)		
+1276	犯罪	fàn zuì		to commit a crime		
+1277	狗屎	gǒu shǐ		canine excrement		
+1278	保罗	bǎo luó		Paul		
+1279	命	mìng		life		
+1280	周围	zhōu wéi		environs; surroundings; periphery		
+1281	无聊	wú liáo		bored		
+1282	说明	shuō míng		to explain		
+1283	浪费	làng fèi		to waste		
+1284	怪物	guài wu		monster		
+1285	靠近	kào jìn		to be close to		
+1286	尽	jǐn		to the greatest extent		
+1287	蛋糕	dàn gāo		cake		
+1288	于是	yú shì		thereupon; as a result; consequently; thus; hence		
+1289	多年	duō nián		many years		
+1290	楷体	kǎi tǐ		regular script (Chinese calligraphic style)		
+1291	亨利	hēng lì		Henry (name)		
+1292	自	zì		(bound form) self; oneself		
+1293	见鬼	jiàn guǐ		absurd		
+1294	份	fèn		classifier for gifts, newspaper, magazine, papers, reports, contracts etc		
+1295	干吗	gàn má		what are you doing?		
+1296	心脏	xīn zàng		heart		
+1297	袭击	xí jī		attack (esp. surprise attack)		
+1298	记者	jì zhě		reporter; journalist		
+1299	说真的	shuō zhēn de		to tell the truth		
+1300	要么	yào me		or		
+1301	区	qū		area		
+1302	查	chá		to research		
+1303	罗马	luó mǎ		Rome, capital of Italy		
+1304	怀孕	huái yùn		pregnant		
+1305	同志	tóng zhì		comrade		
+1306	臭	chòu		stench		
+1307	照	zhào		according to		
+1308	谈论	tán lùn		to discuss; to talk about		
+1309	恐惧	kǒng jù		to be frightened		
+1310	糟	zāo		dregs		
+1311	尊重	zūn zhòng		to esteem		
+1312	期待	qī dài		to look forward to		
+1313	嘘	xū		to exhale slowly		
+1314	船长	chuán zhǎng		captain (of a boat)		
+1315	盯	dīng		to watch attentively		
+1316	离婚	lí hūn		to divorce		
+1317	技术	jì shù		technology; technique; skill		
+1318	同学	tóng xué		to study at the same school		
+1319	天使	tiān shǐ		angel		
+1320	确保	què bǎo		to ensure; to guarantee		
+1321	正好	zhèng hǎo		just (in time)		
+1322	秒	miǎo		second (unit of time)		
+1323	表示	biǎo shì		(of sb) to express; to state; to show		
+1324	汽车	qì chē		car		
+1325	信号	xìn hào		signal		
+1326	送给	sòng gěi		to send		
+1327	装	zhuāng		adornment		
+1328	周末	zhōu mò		weekend		
+1329	惊喜	jīng xǐ		nice surprise		
+1330	困难	kùn nan		difficult		
+1331	客户	kè hù		client; customer		
+1332	请求	qǐng qiú		to request; to ask		
+1333	手术	shǒu shù		(surgical) operation		
+1334	一点点	yī diǎn diǎn		a little bit		
+1335	干掉	gàn diào		to get rid of		
+1336	彼此	bǐ cǐ		each other; one another		
+1337	好事	hǎo shì		good action, deed, thing or work (also sarcastic, "a fine thing indeed")		
+1338	跟踪	gēn zōng		to follow sb's tracks		
+1339	唔	wú		oh (expression of agreement or surprise)		
+1340	尼克	ní kè		Nick (name)		
+1341	上来	shàng lái		to come up		
+1342	疼	téng		(it) hurts; sore		
+1343	弧	hú		arc		
+1344	及	jí		and		
+1345	私人	sī rén		private		
+1346	面	miàn		face		
+1347	嘴	zuǐ		mouth		
+1348	上床	shàng chuáng		to go to bed		
+1349	好玩	hǎo wán		amusing		
+1350	动作	dòng zuò		movement; motion; action		
+1351	庆祝	qìng zhù		to celebrate		
+1352	神父	shén fu		Catholic or Orthodox priest; Father (title of address)		
+1353	会议	huì yì		meeting		
+1354	杀手	shā shǒu		killer		
+1355	报警	bào jǐng		to sound an alarm		
+1356	叫做	jiào zuò		to be called; to be known as		
+1357	主要	zhǔ yào		main; principal; major; primary		
+1358	作品	zuò pǐn		work (of art)		
+1359	状况	zhuàng kuàng		condition; state; situation		
+1360	制作	zhì zuò		to make; to manufacture		
+1361	兴奋	xīng fèn		excited		
+1362	一辈子	yī bèi zi		(for) a lifetime		
+1363	厕所	cè suǒ		toilet; lavatory		
+1364	可恶	kě wù		repulsive		
+1365	第二	dì èr		second		
+1366	法庭	fǎ tíng		court of law		
+1367	报纸	bào zhǐ		newspaper		
+1368	轻松	qīng sōng		light		
+1369	张	zhāng		to open up		
+1370	哥	gē		elder brother		
+1371	赢得	yíng dé		to win		
+1372	停下来	tíng xià lái		to stop		
+1373	速度	sù dù		speed; rate; velocity; (music) tempo		
+1374	宝宝	bǎo bao		darling; baby		
+1375	显示	xiǎn shì		to show		
+1376	有钱	yǒu qián		well-off		
+1377	詹姆斯	zhān mǔ sī		James (name)		
+1378	状态	zhuàng tài		condition; state; state of affairs		
+1379	尽快	jǐn kuài		as quickly as possible; as soon as possible		
+1380	监视	jiān shì		to monitor		
+1381	主	zhǔ		owner		
+1382	刀	dāo		knife; blade; single-edged sword; cutlass (CL:把)		
+1383	价值	jià zhí		value; worth		
+1384	荣幸	róng xìng		honored (to have the privilege of ...)		
+1385	咬	yǎo		to bite		
+1386	大约	dà yuē		approximately		
+1387	俱乐部	jù lè bù		(loanword) club (the organization or its premises)		
+1388	合适	hé shì		suitable; fitting; appropriate		
+1389	尤其	yóu qí		especially; particularly		
+1390	现实	xiàn shí		reality; actuality		
+1391	参与	cān yù		to participate (in sth)		
+1392	运动	yùn dòng		to move		
+1393	输	shū		to lose; to be beaten		
+1394	时代	shí dài		age		
+1395	婚姻	hūn yīn		marriage; matrimony		
+1396	副	fù		secondary		
+1397	天堂	tiān táng		paradise		
+1398	恐怖	kǒng bù		terrible		
+1399	角色	jué sè		role; part (in a play or movie etc)		
+1400	人员	rén yuán		staff		
+1401	鸟	niǎo		bird		
+1402	牺牲	xī shēng		to sacrifice one's life		
+1403	去世	qù shì		to pass away		
+1404	性感	xìng gǎn		sex appeal		
+1405	假装	jiǎ zhuāng		to feign		
+1406	笵	fàn		bamboo mold		
+1407	犹太人	yóu tài rén		Jew		
+1408	摆	bǎi		to arrange		
+1409	只不过	zhǐ bu guò		only; merely; nothing but; no more than		
+1410	由于	yóu yú		due to		
+1411	厨房	chú fáng		kitchen		
+1412	总之	zǒng zhī		in a word		
+1413	石头	shí tou		stone		
+1414	地点	dì diǎn		place		
+1415	骄傲	jiāo ào		pride		
+1416	土地	tǔ dì		land		
+1417	更加	gèng jiā		more (than sth else)		
+1418	四	sì		four		
+1419	安	ān		(bound form) calm; peaceful		
+1420	学	xué		to learn		
+1421	暂时	zàn shí		temporary; provisional; for the time being		
+1422	演员	yǎn yuán		actor; actress; performer		
+1423	产生	chǎn shēng		to arise; to come into being; to come about		
+1424	停车	tíng chē		to pull up (stop one's vehicle)		
+1425	餐厅	cān tīng		dining hall		
+1426	女性	nǚ xìng		woman		
+1427	之类	zhī lèi		and so on		
+1428	年轻人	nián qīng rén		young people		
+1429	官	guān		government official		
+1430	地址	dì zhǐ		address		
+1431	情报	qíng bào		information; intelligence		
+1432	惹	rě		to provoke		
+1433	件	jiàn		item		
+1434	在乎	zài hu		to rest with; to lie in; to be due to (a certain attribute)		
+1435	和平	hé píng		peace		
+1436	机场	jī chǎng		airport; airfield		
+1437	制造	zhì zào		to manufacture; to make		
+1438	执行	zhí xíng		to implement		
+1439	冲	chōng		(of water) to dash against		
+1440	不许	bù xǔ		not to allow		
+1441	似的	shì de		seems as if		
+1442	非常感谢	fēi cháng gǎn xiè		extremely grateful; very thankful		
+1443	耶稣	yē sū		Jesus		
+1444	常	cháng		always		
+1445	比尔	bǐ ěr		Bill (name)		
+1446	顺利	shùn lì		smoothly; without a hitch		
+1447	不停	bù tíng		incessant		
+1448	今年	jīn nián		this year		
+1449	歌	gē		song (CL:首,支)		
+1450	满足	mǎn zú		to satisfy		
+1451	演出	yǎn chū		to act (in a play)		
+1452	艾	ài		Chinese mugwort (Artemisia); moxa		
+1453	逃跑	táo pǎo		to flee from sth		
+1454	香港	xiāng gǎng		Hong Kong, special administrative region (SAR) of the PRC (short name 港)		
+1455	颜色	yán sè		color		
+1456	提到	tí dào		to mention		
+1457	丹尼	dān ní		Danny (name)		
+1458	胜利	shèng lì		victory		
+1459	条件	tiáo jiàn		condition; circumstance; term; factor		
+1460	毒品	dú pǐn		drugs; narcotics		
+1461	史	shǐ		history		
+1462	踢	tī		to kick		
+1463	下车	xià chē		to get off or out of (a bus, train, car etc)		
+1464	发展	fā zhǎn		development		
+1465	分手	fēn shǒu		to part company		
+1466	专家	zhuān jiā		expert; specialist		
+1467	部队	bù duì		army		
+1468	做爱	zuò ài		to make love		
+1469	马克	mǎ kè		mark (monetary unit)		
+1470	老实	lǎo shi		honest; sincere		
+1471	好处	hǎo chǔ		easy to get along with		
+1472	森林	sēn lín		forest		
+1473	生存	shēng cún		to exist		
+1474	谈话	tán huà		to talk (with sb)		
+1475	冒险	mào xiǎn		to take risks		
+1476	地上	dì shang		on the ground		
+1477	距离	jù lí		distance; separation (in space or time)		
+1478	赌	dǔ		to bet; to gamble		
+1479	世上	shì shàng		on earth		
+1480	时间轴	shí jiān zhóu		time axis		
+1481	恶魔	è mó		demon		
+1482	激动	jī dòng		to move emotionally		
+1483	想念	xiǎng niàn		to miss		
+1484	证人	zhèng rén		witness		
+1485	普通	pǔ tōng		common		
+1486	天才	tiān cái		talent		
+1487	生物	shēng wù		organism; living creature; life form		
+1488	之中	zhī zhōng		inside		
+1489	肉	ròu		meat		
+1490	妓女	jì nǚ		prostitute; hooker		
+1491	布	bù		cloth		
+1492	提出	tí chū		to raise (an issue)		
+1493	所谓	suǒ wèi		what is meant by the expression ...; what is referred to as ...		
+1494	正式	zhèng shì		formal; official		
+1495	洗	xǐ		to wash; to bathe		
+1496	政治	zhèng zhì		politics		
+1497	邪恶	xié è		sinister		
+1498	从不	cóng bù		never		
+1499	动手	dòng shǒu		to set about (a task)		
+1500	转	zhuǎn		to turn		
+1501	取消	qǔ xiāo		to cancel; to call off; to revoke; to rescind		
+1502	玩意	wán yì		toy		
+1503	班	bān		team; class; grade		
+1504	条	tiáo		strip		
+1505	搞砸	gǎo zá		to mess (sth) up		
+1506	废话	fèi huà		nonsense; rubbish; superfluous words		
+1507	猪	zhū		hog		
+1508	观众	guān zhòng		spectators; audience; visitors (to an exhibition etc)		
+1509	一周	yī zhōu		one week		
+1510	成员	chéng yuán		member		
+1511	即将	jí jiāng		about to; on the point of; soon		
+1512	作	zuò		to do; to engage in		
+1513	学会	xué huì		to learn; to master		
+1514	醒来	xǐng lái		to waken		
+1515	饭	fàn		cooked rice		
+1516	旅馆	lǚ guǎn		hotel		
+1517	建立	jiàn lì		to establish		
+1518	山姆	shān mǔ		(name) Sam		
+1519	高中	gāo zhōng		senior high school (abbr. for 高級中學|高级中学)		
+1520	娶	qǔ		to take a wife		
+1521	说实话	shuō shí huà		to speak the truth		
+1522	哟	yō		Oh! (interjection indicating slight surprise)		
+1523	去年	qù nián		last year		
+1524	特殊	tè shū		special		
+1525	黑人	hēi rén		black person		
+1526	勇敢	yǒng gǎn		brave; courageous		
+1527	不算	bù suàn		to not calculate		
+1528	别管	bié guǎn		no matter (who, what etc)		
+1529	等到	děng dào		to wait until		
+1530	介意	jiè yì		to care about		
+1531	卡尔	kǎ ěr		(name) Karl; Carl		
+1532	手下	shǒu xià		under one's control or administration		
+1533	发射	fā shè		to shoot (a projectile)		
+1534	印度	yìn dù		India		
+1535	手指	shǒu zhǐ		finger		
+1536	思考	sī kǎo		to reflect on		
+1537	累	lèi		tired		
+1538	几年	jǐ nián		a few years; several years		
+1539	茶	chá		tea		
+1540	恢复	huī fù		to reinstate		
+1541	导演	dǎo yǎn		to direct		
+1542	夜晚	yè wǎn		night		
+1543	帽子	mào zi		hat		
+1544	拍摄	pāi shè		to take (a picture); to shoot (a film)		
+1545	中间	zhōng jiān		the middle; the inside		
+1546	公园	gōng yuán		park (for public recreation)		
+1547	呵呵	hē hē		(onom.) gentle laughter		
+1548	意大利	yì dà lì		Italy		
+1549	犯	fàn		to violate		
+1550	背叛	bèi pàn		to betray		
+1551	魔鬼	mó guǐ		devil		
+1552	过程	guò chéng		course of events; process		
+1553	了不起	liǎo bu qǐ		amazing		
+1554	店	diàn		inn; old-style hotel (CL:家)		
+1555	不怕	bù pà		fearless		
+1556	哎呀	āi yā		interjection of wonder, shock or admiration		
+1557	气	qì		gas; air		
+1558	差	chā		difference; discrepancy		
+1559	唱歌	chàng gē		to sing a song		
+1560	以来	yǐ lái		since (used after a specified time or event)		
+1561	站住	zhàn zhù		to come to a stop; to halt		
+1562	经验	jīng yàn		experience		
+1563	变化	biàn huà		(intransitive) to change; to vary		
+1564	吉米	jí mǐ		Jimmy, Jimmie or Jimi (name)		
+1565	尽力	jìn lì		to strive one's hardest; to spare no effort		
+1566	亲自	qīn zì		personally		
+1567	强大	qiáng dà		big and strong; formidable; powerful		
+1568	引起	yǐn qǐ		to give rise to; to lead to; to cause; to arouse		
+1569	乱	luàn		in confusion or disorder		
+1570	前进	qián jìn		to go forward		
+1571	有用	yǒu yòng		useful		
+1572	组	zǔ		to form		
+1573	投票	tóu piào		to vote; to cast a vote		
+1574	乐队	yuè duì		band		
+1575	想像	xiǎng xiàng		to imagine; to envision		
+1576	声	shēng		sound		
+1577	全世界	quán shì jiè		worldwide		
+1578	满意	mǎn yì		satisfied		
+1579	艺术	yì shù		art		
+1580	王子	wáng zǐ		prince		
+1581	无关	wú guān		unrelated		
+1582	名单	míng dān		list of names		
+1583	甜心	tián xīn		delighted to oblige		
+1584	吸血鬼	xī xuè guǐ		leech		
+1585	带上	dài shàng		to take along with one		
+1586	吸引	xī yǐn		to attract; to appeal to; to fascinate		
+1587	绑架	bǎng jià		to kidnap		
+1588	骗子	piàn zi		swindler		
+1589	各种	gè zhǒng		every kind of; all kinds of; various		
+1590	惩罚	chéng fá		penalty		
+1591	比利	bǐ lì		(HK, Sg, Tw) Pelé (1940–2022), Edson Arantes Do Nascimento, Brazilian football star		
+1592	单独	dān dú		alone		
+1593	愿	yuàn		honest and prudent		
+1594	白	bái		white		
+1595	特工	tè gōng		secret service		
+1596	分开	fēn kāi		to separate		
+1597	空间	kōng jiān		space; room		
+1598	讲话	jiǎng huà		a speech		
+1599	迈克尔	mài kè ěr		(name) Michael		
+1600	爬	pá		to crawl		
+1601	边	biān		side		
+1602	卡车	kǎ chē		truck		
+1603	光	guāng		light; ray (CL:道)		
+1604	五	wǔ		five		
+1605	练习	liàn xí		to practice		
+1606	早餐	zǎo cān		breakfast		
+1607	追踪	zhuī zōng		to track; to trace; to follow up		
+1608	哼	hēng		to groan		
+1609	接触	jiē chù		to touch		
+1610	联络	lián luò		to get in touch with		
+1611	承诺	chéng nuò		to promise		
+1612	复杂	fù zá		complicated; complex		
+1613	穿过	chuān guò		to pass through		
+1614	挑战	tiǎo zhàn		to challenge; to take on a challenge; a challenge		
+1615	旧	jiù		old		
+1616	点儿	diǎn r		erhua variant of 點|点		
+1617	关键	guān jiàn		crucial point		
+1618	同性恋	tóng xìng liàn		homosexuality		
+1619	儿	ér		child		
+1620	临	lín		to face		
+1621	实现	shí xiàn		to achieve; to implement; to realize; to bring about		
+1622	外	wài		outside		
+1623	好笑	hǎo xiào		laughable; funny; ridiculous		
+1624	顺便	shùn biàn		conveniently		
+1625	碰到	pèng dào		to come across		
+1626	受不了	shòu bù liǎo		unbearable		
+1627	免费	miǎn fèi		free (of charge)		
+1628	无辜	wú gū		blameless; innocent		
+1629	惊讶	jīng yà		amazed		
+1630	导致	dǎo zhì		to lead to; to create; to cause; to bring about		
+1631	好运	hǎo yùn		good luck		
+1632	窗户	chuāng hu		window		
+1633	抽	chōu		to draw out; to pull out from in between		
+1634	痛	tòng		ache		
+1635	魔法	mó fǎ		enchantment		
+1636	世纪	shì jì		century		
+1637	奇迹	qí jì		miracle; wonder; marvel		
+1638	睡着	shuì zháo		to fall asleep		
+1639	莎拉	shā lā		Sara or Sarah (name)		
+1640	把手	bǎ shǒu		to shake hands		
+1641	分享	fēn xiǎng		to share (esp. sth enjoyable, useful or beneficial)		
+1642	车子	chē zi		car or other vehicle (bicycle, truck etc)		
+1643	红色	hóng sè		red (color)		
+1644	词	cí		word		
+1645	年前	nián qián		by the end of the year		
+1646	天气	tiān qì		weather		
+1647	科学	kē xué		science		
+1648	教练	jiào liàn		to coach; to train		
+1649	洛杉矶	luò shān jī		Los Angeles, California		
+1650	然而	rán ér		however; but; yet		
+1651	感激	gǎn jī		to be grateful		
+1652	同事	tóng shì		colleague; co-worker		
+1653	收	shōu		to receive		
+1654	密码	mì mǎ		cipher; secret code		
+1655	神秘	shén mì		mysterious		
+1656	环境	huán jìng		environment		
+1657	启动	qǐ dòng		to start (a machine)		
+1658	孤独	gū dú		lonely		
+1659	上尉	shàng wèi		captain (military rank)		
+1660	搭	dā		to put up		
+1661	难以置信	nán yǐ zhì xìn		(idiom) hard to believe; incredible		
+1662	飞行	fēi xíng		to fly; flight		
+1663	哈利	hā lì		Harry		
+1664	采取	cǎi qǔ		to adopt or carry out (measures, policies, course of action)		
+1665	何时	hé shí		when		
+1666	上学	shàng xué		to go to school		
+1667	桌子	zhuō zi		table		
+1668	年纪	nián jì		age		
+1669	估计	gū jì		to estimate; to assess; to calculate		
+1670	禁止	jìn zhǐ		to prohibit		
+1671	紧急	jǐn jí		urgent		
+1672	无所谓	wú suǒ wèi		to be indifferent		
+1673	欧洲	ōu zhōu		Europe (abbr. for 歐羅巴洲|欧罗巴洲)		
+1674	某种	mǒu zhǒng		some kind (of)		
+1675	滚开	gǔn kāi		(of a liquid) to boil; boiling hot		
+1676	释放	shì fàng		to release (a prisoner); to set free		
+1677	交流	jiāo liú		to exchange		
+1678	聚会	jù huì		party		
+1679	邻居	lín jū		neighbor		
+1680	放手	fàng shǒu		to let go one's hold		
+1681	英里	yīng lǐ		mile (unit of length equal to 1.609 km)		
+1682	安妮	ān nī		Annie (name)		
+1683	婴儿	yīng ér		infant		
+1684	伤心	shāng xīn		to grieve		
+1685	仅仅	jǐn jǐn		barely		
+1686	理论	lǐ lùn		theory		
+1687	非	fēi		to not be; not		
+1688	早安	zǎo ān		Good morning!		
+1689	癸	guǐ		tenth of the ten Heavenly Stems 十天干		
+1690	整天	zhěng tiān		all day long		
+1691	巧克力	qiǎo kè lì		(loanword) chocolate		
+1692	找出	zhǎo chū		to find		
+1693	杀害	shā hài		to murder		
+1694	地区	dì qū		region; area (informal or geographical term)		
+1695	受害者	shòu hài zhě		casualty		
+1696	某些	mǒu xiē		some; certain (things)		
+1697	后悔	hòu huǐ		to regret; to feel remorse		
+1698	尽量	jǐn liàng		as much as possible		
+1699	您好	nín hǎo		hello (polite)		
+1700	精彩	jīng cǎi		wonderful		
+1701	复	fù		to go and return		
+1702	果然	guǒ rán		really		
+1703	人人	rén rén		everyone		
+1704	基地	jī dì		base (of operations, industrial, military, research etc)		
+1705	说服	shuō fú		to persuade		
+1706	数字	shù zì		numeral		
+1707	空气	kōng qì		air		
+1708	病毒	bìng dú		virus		
+1709	规则	guī zé		rule; regulation		
+1710	急	jí		urgent		
+1711	左右	zuǒ yòu		left and right		
+1712	彻底	chè dǐ		thorough		
+1713	运气	yùn qi		luck (good or bad)		
+1714	生病	shēng bìng		to fall ill		
+1715	人物	rén wù		person; personage; figure (esp. sb of importance)		
+1716	团队	tuán duì		team		
+1717	尿	niào		to urinate		
+1718	戒指	jiè zhi		(finger) ring		
+1719	自我	zì wǒ		the self; oneself; self-		
+1720	立即	lì jí		immediately		
+1721	女生	nǚ shēng		schoolgirl		
+1722	规矩	guī ju		lit. compass and set square		
+1723	裤子	kù zi		trousers; pants		
+1724	星球	xīng qiú		celestial body (e.g. planet, satellite etc); heavenly body		
+1725	司机	sī jī		chauffeur; driver		
+1726	大声	dà shēng		loud voice		
+1727	象	xiàng		elephant		
+1728	打死	dǎ sǐ		to kill		
+1729	烧	shāo		to burn; to set on fire		
+1730	线	xiàn		thread		
+1731	依然	yī rán		still; as before		
+1732	做事	zuò shì		to work		
+1733	火	huǒ		fire		
+1734	接到	jiē dào		to receive (letter etc)		
+1735	楼上	lóu shàng		upstairs		
+1736	持续	chí xù		to continue; to last; to persist		
+1737	强	qiáng		strong		
+1738	要死	yào sǐ		extremely		
+1739	协议	xié yì		agreement		
+1740	折磨	zhé mó		to torment; to torture		
+1741	拿来	ná lái		to bring		
+1742	明星	míng xīng		star; celebrity		
+1743	申请	shēn qǐng		to apply for sth		
+1744	小伙子	xiǎo huǒ zi		(coll.) young man; young fellow; lad		
+1745	小时候	xiǎo shí hou		in one's childhood		
+1746	手里	shǒu lǐ		in hand		
+1747	鸡	jī		fowl		
+1748	西	xī		west		
+1749	美女	měi nǚ		beautiful woman		
+1750	性	xìng		nature		
+1751	至	zhì		to arrive		
+1752	刺激	cì jī		to provoke; to irritate; to upset; to stimulate; to excite		
+1753	子	zǐ		son		
+1754	耍	shuǎ		to play with		
+1755	伤	shāng		to injure		
+1756	仔细	zǐ xì		careful; attentive; cautious		
+1757	让开	ràng kāi		to get out of the way		
+1758	明明	míng míng		obviously		
+1759	案件	àn jiàn		case		
+1760	女孩子	nǚ hái zi		girl		
+1761	地图	dì tú		map		
+1762	乐意	lè yì		to be willing to do sth		
+1763	吵	chǎo		noisy; loud		
+1764	摧毁	cuī huǐ		to destroy; to wreck		
+1765	赶	gǎn		to overtake; to catch up with		
+1766	位	wèi		position		
+1767	老鼠	lǎo shǔ		rat; mouse (CL:隻|只)		
+1768	展示	zhǎn shì		to reveal; to display; to show; to exhibit		
+1769	箱子	xiāng zi		suitcase		
+1770	重复	chóng fù		to repeat		
+1771	从来不	cóng lái bù		never		
+1772	万岁	wàn suì		Long live (the king, the revolution etc)!		
+1773	发出	fā chū		to issue (an order, decree etc); to send out; to dispatch		
+1774	脖子	bó zi		neck		
+1775	推	tuī		to push		
+1776	权力	quán lì		power		
+1777	方便	fāng biàn		convenient; suitable		
+1778	军	jūn		(bound form) army		
+1779	耳朵	ěr duo		ear		
+1780	重点	chóng diǎn		to recount (e.g. results of election)		
+1781	凭	píng		to lean on; to lean against		
+1782	毕竟	bì jìng		after all		
+1783	蓝色	lán sè		blue (color)		
+1784	罪犯	zuì fàn		criminal		
+1785	破	pò		broken		
+1786	呼叫	hū jiào		to shout		
+1787	打败	dǎ bài		to defeat		
+1788	牧师	mù shī		chaplain		
+1789	风	fēng		wind		
+1790	毕业	bì yè		graduation		
+1791	清理	qīng lǐ		to clear up		
+1792	宣布	xuān bù		to declare		
+1793	护士	hù shi		nurse		
+1794	能量	néng liàng		energy		
+1795	室	shì		room		
+1796	加上	jiā shàng		to add; plus		
+1797	万一	wàn yī		just in case		
+1798	亲	qīn		parent		
+1799	印象	yìn xiàng		impression (sth that stays in one's mind)		
+1800	天空	tiān kōng		sky		
+1801	游泳	yóu yǒng		swimming		
+1802	拜拜	bái bái		(loanword) bye-bye		
+1803	进展	jìn zhǎn		to make headway; to make progress		
+1804	大部分	dà bù fen		the greater part; the majority; most		
+1805	大脑	dà nǎo		brain		
+1806	时光	shí guāng		time (esp. as sth that passes)		
+1807	集	jí		to gather		
+1808	阿姨	ā yí		maternal aunt		
+1809	一对	yī duì		couple; pair		
+1810	而言	ér yán		(typically preceded by 就… or 對…|对… etc) as far as ... is concerned; speaking in terms of ...		
+1811	抛弃	pāo qì		to abandon		
+1812	鼻子	bí zi		nose		
+1813	塔	tǎ		pagoda (abbr. for 塔婆, a loanword from Sanskrit stūpa); tower; pylon (CL:座)		
+1814	勇气	yǒng qì		courage		
+1815	夏天	xià tiān		summer		
+1816	远离	yuǎn lí		to be far from		
+1817	如今	rú jīn		nowadays; now		
+1818	阁下	gé xià		your distinguished self		
+1819	某人	mǒu rén		someone		
+1820	元	yuán		currency unit (esp. Chinese yuan)		
+1821	肚子	dù zi		belly		
+1822	随	suí		to follow		
+1823	英语	yīng yǔ		English (language)		
+1824	回忆	huí yì		to recall		
+1825	神奇	shén qí		magical		
+1826	干活	gàn huó		to work; to be employed		
+1827	唉	āi		interjection or grunt of agreement or recognition (e.g. yes, it's me!)		
+1828	熊	xióng		bear		
+1829	场	chǎng		large place used for a specific purpose		
+1830	年代	nián dài		a decade of a century (e.g. the Sixties)		
+1831	大量	dà liàng		great amount		
+1832	暴力	bào lì		violence		
+1833	不仅	bù jǐn		not just; not limited to		
+1834	付出	fù chū		to pay; to expend; to invest (energy or time)		
+1835	职业	zhí yè		occupation; profession; vocation		
+1836	实验室	shí yàn shì		laboratory		
+1837	互相	hù xiāng		each other		
+1838	专业	zhuān yè		specialty		
+1839	内心	nèi xīn		heart; innermost being		
+1840	无论如何	wú lùn rú hé		(idiom) whatever the case; in any event; no matter what; by all possible means		
+1841	关注	guān zhù		to pay attention to; to follow sth closely; to follow (on social media)		
+1842	委员会	wěi yuán huì		committee; commission		
+1843	实验	shí yàn		experiment		
+1844	战士	zhàn shì		fighter		
+1845	他人	tā rén		another person; sb else; other people		
+1846	联邦	lián bāng		federal		
+1847	试着	shì zhe		(coll.) to try to		
+1848	好奇	hào qí		inquisitive		
+1849	城	chéng		city walls		
+1850	打破	dǎ pò		to break; to smash		
+1851	信仰	xìn yǎng		to believe in (a religion)		
+1852	舞会	wǔ huì		dance		
+1853	不可思议	bù kě sī yì		(idiom) inconceivable; unimaginable; unfathomable		
+1854	将来	jiāng lái		in the future		
+1855	付	fù		to pay		
+1856	逃	táo		to escape		
+1857	完毕	wán bì		to finish		
+1858	朝	cháo		imperial or royal court		
+1859	杂志	zá zhì		magazine		
+1860	毫无	háo wú		not in the least		
+1861	事业	shì yè		undertaking		
+1862	假如	jiǎ rú		if		
+1863	感兴趣	gǎn xìng qù		to be interested (in sth)		
+1864	打赌	dǎ dǔ		to bet		
+1865	城堡	chéng bǎo		castle		
+1866	退后	tuì hòu		to stand back		
+1867	早点	zǎo diǎn		breakfast		
+1868	说不定	shuō bu dìng		can't say for sure		
+1869	菜	cài		vegetable; greens (CL:棵)		
+1870	墨西哥	mò xī gē		Mexico		
+1871	胡说	hú shuō		to talk nonsense		
+1872	选手	xuǎn shǒu		athlete		
+1873	犯人	fàn rén		convict		
+1874	妓	jì		prostitute		
+1875	华文	huá wén		Chinese language		
+1876	遇见	yù jiàn		to meet		
+1877	早晨	zǎo chén		early morning		
+1878	范围	fàn wéi		range		
+1879	诅咒	zǔ zhòu		to curse		
+1880	变态	biàn tài		to metamorphose (biology)		
+1881	伪	wěi		false		
+1882	欣赏	xīn shǎng		to appreciate; to enjoy; to admire		
+1883	谎言	huǎng yán		lie		
+1884	小孩子	xiǎo hái zi		child		
+1885	剑	jiàn		double-edged sword		
+1886	相同	xiāng tóng		identical; same		
+1887	师父	shī fu		used for 師傅|师傅 (in Taiwan)		
+1888	聊	liáo		(coll.) to chat		
+1889	到来	dào lái		to arrive		
+1890	奥	ào		obscure		
+1891	课	kè		subject		
+1892	传统	chuán tǒng		tradition; traditional		
+1893	真棒	zhēn bàng		super!		
+1894	逃走	táo zǒu		to escape		
+1895	近	jìn		near		
+1896	程序	chéng xù		procedures		
+1897	愤怒	fèn nù		angry		
+1898	白人	bái rén		white man or woman; Caucasian		
+1899	中尉	zhōng wèi		lieutenant (navy)		
+1900	街上	jiē shang		on the street		
+1901	隐藏	yǐn cáng		to hide		
+1902	对待	duì dài		to treat		
+1903	优秀	yōu xiù		outstanding; excellent		
+1904	报道	bào dào		to report (news)		
+1905	揍	zòu		to hit; to beat (sb)		
+1906	度	dù		to pass		
+1907	抽烟	chōu yān		to smoke (tobacco)		
+1908	伙	huǒ		(bound form) meals (as in 伙食)		
+1909	过得	guò dé		How are you getting by?		
+1910	打架	dǎ jià		to fight		
+1911	经典	jīng diǎn		the classics		
+1912	观察	guān chá		to observe; to watch; to survey		
+1913	女王	nǚ wáng		queen		
+1914	午餐	wǔ cān		lunch		
+1915	则	zé		(literary) (conjunction used to express contrast with a previous clause) but; then		
+1916	看法	kàn fǎ		way of looking at a thing		
+1917	喝醉	hē zuì		to get drunk		
+1918	也好	yě hǎo		that's fine		
+1919	留言	liú yán		to leave a message; to leave one's comments		
+1920	床	chuáng		bed; couch (furniture that one can lie down on) (CL:張|张)		
+1921	项目	xiàng mù		item; project; (sports) event		
+1922	部门	bù mén		department		
+1923	故意	gù yì		deliberately; on purpose		
+1924	山	shān		mountain; hill (CL:座)		
+1925	尔	ěr		thus		
+1926	背后	bèi hòu		behind		
+1927	付钱	fù qián		to pay		
+1928	狼	láng		wolf		
+1929	警探	jǐng tàn		police detective		
+1930	指挥	zhǐ huī		to conduct		
+1931	头上	tóu shàng		overhead		
+1932	内容	nèi róng		content; substance; details		
+1933	洗澡	xǐ zǎo		to bathe		
+1934	黑色	hēi sè		black		
+1935	关掉	guān diào		to switch off; to shut off		
+1936	便宜	biàn yí		convenient		
+1937	脱	tuō		to shed		
+1938	大多数	dà duō shù		(great) majority		
+1939	随着	suí zhe		along with		
+1940	行李	xíng li		luggage		
+1941	小组	xiǎo zǔ		group		
+1942	区域	qū yù		area		
+1943	几次	jǐ cì		several times		
+1944	奴隶	nú lì		slave		
+1945	看不见	kàn bu jiàn		cannot see		
+1946	一人	yī rén		one person; a single person		
+1947	浪漫	làng màn		romantic		
+1948	独自	dú zì		alone		
+1949	诶	éi		eh; huh (used to express surprise)		
+1950	工厂	gōng chǎng		factory		
+1951	起床	qǐ chuáng		to get out of bed; to get up		
+1952	殿下	diàn xià		Your Majesty (honorific)		
+1953	指控	zhǐ kòng		accusation		
+1954	道理	dào li		reason		
+1955	细节	xì jié		details; particulars		
+1956	擦	cā		to rub; to scratch		
+1957	尖叫	jiān jiào		to screech; to shriek		
+1958	爵士	jué shì		knight		
+1959	圣诞节	shèng dàn jié		Christmas time		
+1960	冠军	guàn jūn		champion		
+1961	按照	àn zhào		according to; in accordance with; on the basis of		
+1962	摆脱	bǎi tuō		to break away from		
+1963	说出	shuō chū		to speak out		
+1964	毁灭	huǐ miè		to perish		
+1965	态度	tài du		manner		
+1966	教育	jiào yù		to educate		
+1967	阳光	yáng guāng		sunshine		
+1968	一堆	yī duī		pile; heap; a lot of; a bunch of		
+1969	前往	qián wǎng		to leave for; to proceed towards; to go to		
+1970	空	kōng		empty		
+1971	档案	dàng àn		file; record; archive		
+1972	醒	xǐng		to wake up		
+1973	有所	yǒu suǒ		somewhat		
+1974	树	shù		tree		
+1975	大叔	dà shū		eldest of father's younger brothers		
+1976	广告	guǎng gào		to advertise		
+1977	伙伴	huǒ bàn		companion; pal		
+1978	半	bàn		half		
+1979	票	piào		ticket		
+1980	娜	nà		(phonetic na)		
+1981	悲伤	bēi shāng		sad; sorrowful		
+1982	既	jì		already		
+1983	罗斯	luó sī		(name) Ross; Rose; Roth		
+1984	摸	mō		to feel with the hand		
+1985	罢了	bà le		a modal particle indicating (that's all, only, nothing much)		
+1986	太空	tài kōng		outer space		
+1987	混乱	hùn luàn		confused; chaotic; disorderly		
+1988	在场	zài chǎng		to be present; to be on the scene		
+1989	红	hóng		red		
+1990	骂	mà		to scold		
+1991	误会	wù huì		to misunderstand		
+1992	并非	bìng fēi		really isn't		
+1993	重	zhòng		heavy		
+1994	媒体	méi tǐ		media, esp. news media		
+1995	面包	miàn bāo		bread		
+1996	经济	jīng jì		economy		
+1997	回头	huí tóu		to turn round; to turn one's head		
+1998	大师	dà shī		great master		
+1999	现金	xiàn jīn		cash		
+2000	不久	bù jiǔ		not long (after)		
+2001	数据	shù jù		data		
+2002	熟悉	shú xī		to be familiar with; to know well		
+2003	正如	zhèng rú		just as		
+2004	笑话	xiào hua		joke; jest		
+2005	法	fǎ		law		
+2006	楼	lóu		house with more than 1 story		
+2007	咯	gē		(phonetic)		
+2008	市场	shì chǎng		marketplace; market; bazaar		
+2009	损失	sǔn shī		loss		
+2010	岛	dǎo		island		
+2011	绝不	jué bù		in no way; not in the least; absolutely not		
+2012	审判	shěn pàn		a trial		
+2013	华盛顿	huá shèng dùn		Washington (name)		
+2014	掌握	zhǎng wò		to grasp (often fig.)		
+2015	射击	shè jī		to shoot; to fire (a gun)		
+2016	在意	zài yì		to care about		
+2017	达到	dá dào		to reach; to achieve; to attain		
+2018	管理	guǎn lǐ		to supervise		
+2019	洞	dòng		cave		
+2020	坏人	huài rén		bad person		
+2021	骑	qí		to sit astride		
+2022	李	lǐ		plum		
+2023	低	dī		low		
+2024	集中	jí zhōng		to concentrate		
+2025	凯特	kǎi tè		Kate (name)		
+2026	教会	jiāo huì		to show		
+2027	脑子	nǎo zi		brains		
+2028	右	yòu		(bound form) right; right-hand side		
+2029	最高	zuì gāo		tallest		
+2030	想见	xiǎng jiàn		to infer		
+2031	之外	zhī wài		outside		
+2032	农场	nóng chǎng		farm		
+2033	表情	biǎo qíng		(facial) expression		
+2034	警局	jǐng jú		police department		
+2035	用力	yòng lì		to exert oneself physically		
+2036	规定	guī dìng		to stipulate; to specify; to prescribe; to fix (a price); to set (a quota)		
+2037	轻	qīng		light		
+2038	坚强	jiān qiáng		staunch		
+2039	海洋	hǎi yáng		ocean		
+2040	椅子	yǐ zi		chair		
+2041	搜查	sōu chá		to search		
+2042	抢劫	qiǎng jié		to rob		
+2043	快要	kuài yào		nearly at the point of (doing sth); about to (do sth)		
+2044	退出	tuì chū		to withdraw		
+2045	机器人	jī qì rén		robot; android		
+2046	台	tái		(classical) you (in letters)		
+2047	开火	kāi huǒ		to open fire; to start shooting		
+2048	作用	zuò yòng		to act on; to affect		
+2049	王	wáng		king or monarch		
+2050	增加	zēng jiā		to raise; to increase		
+2051	不太好	bù tài hǎo		not so good		
+2052	一面	yī miàn		one side		
+2053	思想	sī xiǎng		thought		
+2054	放过	fàng guò		to let off		
+2055	亚	yà		second		
+2056	一声	yī shēng		first tone in Mandarin (high, level tone)		
+2057	进攻	jìn gōng		to attack		
+2058	代价	dài jià		price		
+2059	对手	duì shǒu		opponent		
+2060	伤口	shāng kǒu		wound		
+2061	格	gé		square; lattice; grid; frame		
+2062	当心	dāng xīn		to take care		
+2063	为止	wéi zhǐ		until		
+2064	扂	diàn		(literary) door latch		
+2065	举行	jǔ xíng		to hold (a meeting, ceremony etc)		
+2066	语言	yǔ yán		language		
+2067	俄罗斯	é luó sī		Russia		
+2068	白色	bái sè		white		
+2069	吐	tǔ		to spit		
+2070	国际	guó jì		international		
+2071	有效	yǒu xiào		effective		
+2072	盖	gài		lid		
+2073	科学家	kē xué jiā		scientist		
+2074	队伍	duì wǔ		troops; army		
+2075	心中	xīn zhōng		central point		
+2076	钻石	zuàn shí		diamond		
+2077	忍受	rěn shòu		to bear; to endure		
+2078	罗伯特	luó bó tè		Robert (name)		
+2079	作家	zuò jiā		author		
+2080	罪	zuì		guilt		
+2081	出口	chū kǒu		an exit		
+2082	欺骗	qī piàn		to deceive; to cheat		
+2083	主演	zhǔ yǎn		to play the leading role; to star		
+2084	著名	zhù míng		famous		
+2085	渴望	kě wàng		to thirst for		
+2086	愿望	yuàn wàng		desire		
+2087	投资	tóu zī		investment		
+2088	情绪	qíng xù		mood		
+2089	留给	liú gěi		to set aside for		
+2090	挖	wā		to dig		
+2091	擅长	shàn cháng		to be good at; to be expert in		
+2092	信心	xìn xīn		confidence		
+2093	葬礼	zàng lǐ		burial		
+2094	总部	zǒng bù		headquarters		
+2095	事故	shì gù		accident		
+2096	玩具	wán jù		plaything		
+2097	教训	jiào xun		to provide guidance; to lecture sb; to upbraid		
+2098	镇	zhèn		to press down		
+2099	烟	yān		cigarette or pipe tobacco		
+2100	海	hǎi		ocean		
+2101	锁	suǒ		to lock; to lock up		
+2102	抱怨	bào yuàn		to complain		
+2103	部	bù		ministry		
+2104	绑	bǎng		to tie		
+2105	陌生人	mò shēng rén		stranger		
+2106	为此	wèi cǐ		for this reason		
+2107	毛	máo		hair		
+2108	表达	biǎo dá		to express; to convey		
+2109	一套	yī tào		suit		
+2110	喊	hǎn		to yell		
+2111	美妙	měi miào		beautiful		
+2112	血液	xuè yè		blood		
+2113	期间	qī jiān		period of time		
+2114	度过	dù guò		to pass		
+2115	聊天	liáo tiān		to chat; to gossip		
+2116	乖乖	guāi guāi		(of a child) well-behaved		
+2117	走路	zǒu lù		to walk; to go on foot		
+2118	妈咪	mā mi		mommy (loanword)		
+2119	马丁	mǎ dīng		Martin (name)		
+2120	需	xū		to require		
+2121	左边	zuǒ bian		left		
+2122	有空	yǒu kòng		to have time (to do sth)		
+2123	视频	shì pín		video		
+2124	说法	shuō fǎ		to expound Buddhist teachings		
+2125	左	zuǒ		left		
+2126	牛	niú		ox		
+2127	保安	bǎo ān		to ensure public security		
+2128	千万	qiān wàn		ten million		
+2129	即	jí		namely		
+2130	海滩	hǎi tān		beach		
+2131	收集	shōu jí		to gather		
+2132	背	bèi		the back of a body or object		
+2133	每年	měi nián		every year		
+2134	类似	lèi sì		similar; analogous		
+2135	相处	xiāng chǔ		to be in contact (with sb)		
+2136	出门	chū mén		to go out		
+2137	王八蛋	wáng bā dàn		bastard; son of a bitch		
+2138	全国	quán guó		whole nation		
+2139	皮肤	pí fū		skin		
+2140	暗	àn		dark		
+2141	起诉	qǐ sù		to sue		
+2142	埋	mái		to bury		
+2143	杀掉	shā diào		to kill		
+2144	鞋子	xié zi		shoe		
+2145	事物	shì wù		thing; object		
+2146	死者	sǐ zhě		the dead		
+2147	设备	shè bèi		equipment; facilities; installations		
+2148	不止	bù zhǐ		incessantly		
+2149	拖	tuō		to drag		
+2150	能否	néng fǒu		whether one can; whether it is possible		
+2151	被捕	bèi bǔ		to be arrested		
+2152	瞷	jiàn		to spy		
+2153	分析	fēn xī		to analyze		
+2154	微笑	wēi xiào		smile		
+2155	建筑	jiàn zhù		to construct		
+2156	额	é		forehead		
+2157	情人	qíng rén		lover		
+2158	降落	jiàng luò		to descend		
+2159	年龄	nián líng		(a person's) age		
+2160	投降	tóu xiáng		to surrender		
+2161	定	dìng		to fix; to set; to make definite		
+2162	交往	jiāo wǎng		to associate (with)		
+2163	转移	zhuǎn yí		to shift; to relocate; to transfer		
+2164	幻想	huàn xiǎng		to fantasize; to imagine		
+2165	稳定	wěn dìng		steady		
+2166	保险	bǎo xiǎn		insurance		
+2167	盒子	hé zi		box; case		
+2168	间谍	jiàn dié		spy		
+2169	出事	chū shì		to have an accident		
+2170	超	chāo		to exceed		
+2171	威廉	wēi lián		William or Wilhelm (name)		
+2172	啰	luō		used in 囉唆|啰唆 and 囉嗦|啰嗦		
+2173	烂	làn		soft; mushy		
+2174	作战	zuò zhàn		combat		
+2175	宁愿	nìng yuàn		would rather ... (than ...)		
+2176	签名	qiān míng		to sign (one's name with a pen etc)		
+2177	局	jú		office		
+2178	嫉妒	jí dù		to be jealous of; to envy		
+2179	芝加哥	zhī jiā gē		Chicago, USA		
+2180	乖	guāi		(of a child) obedient, well-behaved		
+2181	英尺	yīng chǐ		foot (unit of length equal to 0.3048 m)		
+2182	演	yǎn		to perform (a play etc); to stage (a show)		
+2183	蟿	qì		(insect)		
+2184	男子	nán zǐ		a man; a male		
+2185	当成	dàng chéng		to consider as; to take to be		
+2186	清醒	qīng xǐng		clear-headed		
+2187	外套	wài tào		outer garment; jacket; coat		
+2188	出色	chū sè		remarkable; outstanding		
+2189	麦	mài		wheat; barley; oats		
+2190	儿童	ér tóng		child		
+2191	双手	shuāng shǒu		both hands		
+2192	失陪	shī péi		Excuse me, I must be leaving now.		
+2193	稍微	shāo wēi		a little bit		
+2194	走进	zǒu jìn		to enter; to step into		
+2195	尴尬	gān gà		awkward; embarrassed		
+2196	工人	gōng rén		worker		
+2197	懂得	dǒng de		to understand; to know; to comprehend		
+2198	支付	zhī fù		to pay (money)		
+2199	检察官	jiǎn chá guān		public prosecutor; public procurator (judicial officer whose job may involve both criminal investigation and public prosecution)		
+2200	网络	wǎng luò		network		
+2201	牛奶	niú nǎi		cow's milk		
+2202	正要	zhèng yào		to be just about to		
+2203	反	fǎn		contrary		
+2204	传说	chuán shuō		legend; folk tale		
+2205	说好	shuō hǎo		to come to an agreement		
+2206	指挥官	zhǐ huī guān		commander		
+2207	刚好	gāng hǎo		just		
+2208	长得	zhǎng de		to look (pretty, the same etc)		
+2209	搭档	dā dàng		to cooperate		
+2210	艰难	jiān nán		difficult; arduous; hard		
+2211	露西	lù xī		Lucy		
+2212	贱人	jiàn rén		slut		
+2213	鞋	xié		shoe		
+2214	感染	gǎn rǎn		to infect; infection		
+2215	经理	jīng lǐ		manager		
+2216	归	guī		to return		
+2217	六	liù		six		
+2218	常常	cháng cháng		frequently; often		
+2219	驾驶	jià shǐ		to drive (vehicle); to pilot (ship, airplane etc)		
+2220	蛋	dàn		egg		
+2221	生日快乐	shēng rì kuài lè		Happy birthday		
+2222	黄	huáng		yellow		
+2223	直升机	zhí shēng jī		helicopter		
+2224	州	zhōu		prefecture		
+2225	圣	shèng		(bound form) peerless (in wisdom, moral virtue, skill etc)		
+2226	砍	kǎn		to chop		
+2227	药物	yào wù		medicaments		
+2228	沙漠	shā mò		desert		
+2229	完蛋	wán dàn		(coll.) to be done for		
+2230	引擎	yǐn qíng		engine (loanword)		
+2231	口袋	kǒu dài		pocket		
+2232	道路	dào lù		road		
+2233	公开	gōng kāi		open; overt; public		
+2234	文化	wén huà		culture		
+2235	慰	wèi		to comfort		
+2236	至于	zhì yú		as for		
+2237	黄金	huáng jīn		gold		
+2238	耐心	nài xīn		to be patient		
+2239	解雇	jiě gù		to fire		
+2240	此事	cǐ shì		this matter		
+2241	描述	miáo shù		to describe		
+2242	假设	jiǎ shè		to suppose		
+2243	退休	tuì xiū		to retire (from the workforce); to go into retirement		
+2244	掩护	yǎn hù		to screen		
+2245	神圣	shén shèng		divine		
+2246	地下	dì xià		underground; subterranean		
+2247	稍	shāo		somewhat		
+2248	打击	dǎ jī		to hit		
+2249	咦	yí		expression of surprise		
+2250	内部	nèi bù		interior		
+2251	到时候	dào shí hòu		when the moment comes		
+2252	指望	zhǐ wàng		to count on; to hope for		
+2253	联盟	lián méng		alliance		
+2254	装置	zhuāng zhì		to install		
+2255	踩	cǎi		to step on		
+2256	爹	diē		dad		
+2257	搞错	gǎo cuò		mistake		
+2258	挑	tiāo		to carry on a shoulder pole		
+2259	希特勒	xī tè lè		Adolf Hitler (1889-1945)		
+2260	程度	chéng dù		degree; level; extent		
+2261	用于	yòng yú		to use in; to use on; to use for		
+2262	尊敬	zūn jìng		to respect; to revere; to esteem		
+2263	保重	bǎo zhòng		to take care of oneself		
+2264	革命	gé mìng		to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning)		
+2265	员工	yuán gōng		staff; personnel; employee		
+2266	紧	jǐn		tight		
+2267	搜索	sōu suǒ		to search (a place, a database, online etc); to search for (sth)		
+2268	支援	zhī yuán		to provide assistance		
+2269	德国人	dé guó rén		German person or people		
+2270	时期	shí qī		period		
+2271	莫	mò		do not		
+2272	风险	fēng xiǎn		risk; hazard		
+2273	心理	xīn lǐ		psychology; mentality		
+2274	返回	fǎn huí		to return to		
+2275	亚当	yà dāng		Adam		
+2276	制服	zhì fú		to subdue		
+2277	爱人	ài ren		spouse (PRC)		
+2278	运行	yùn xíng		(of celestial bodies etc) to move along one's course		
+2279	西班牙	xī bān yá		Spain		
+2280	拿出	ná chū		to take out		
+2281	礼拜	lǐ bài		to attend a religious service		
+2282	糖	táng		sugar		
+2283	丢下	diū xià		to abandon		
+2284	之内	zhī nèi		inside; within		
+2285	顿	dùn		to stop		
+2286	关门	guān mén		to close a door		
+2287	承受	chéng shòu		to bear		
+2288	仪式	yí shì		ceremony		
+2289	少校	shào xiào		junior ranking officer in Chinese army		
+2290	议员	yì yuán		member (of a legislative body)		
+2291	独立	dú lì		independent		
+2292	灯	dēng		lamp		
+2293	楼下	lóu xià		downstairs		
+2294	裙子	qún zi		skirt		
+2295	领导	lǐng dǎo		lead		
+2296	非洲	fēi zhōu		Africa		
+2297	基本	jī běn		basic		
+2298	话题	huà tí		subject (of a talk or conversation)		
+2299	煮	zhǔ		to cook		
+2300	女友	nǚ yǒu		girlfriend		
+2301	惊人	jīng rén		astonishing		
+2302	风格	fēng gé		style		
+2303	发明	fā míng		to invent		
+2304	冒	mào		to emit; to give off; to send out (or up, forth)		
+2305	也就是说	yě jiù shì shuō		in other words		
+2306	哈哈	hā hā		(onom.) laughing out loud		
+2307	一路	yī lù		the whole journey		
+2308	苏联	sū lián		Soviet Union, 1922-1991		
+2309	迷人	mí rén		fascinating		
+2310	报	bào		to report; to inform; to announce		
+2311	师傅	shī fu		master		
+2312	有着	yǒu zhe		to have		
+2313	非法	fēi fǎ		illegal		
+2314	屋子	wū zi		house		
+2315	乐趣	lè qù		delight; pleasure; joy		
+2316	苹果	píng guǒ		apple		
+2317	然	rán		correct		
+2318	工具	gōng jù		tool		
+2319	手臂	shǒu bì		arm (from shoulder to wrist); (fig.) assistant; helper		
+2320	真心	zhēn xīn		wholeheartedness; sincerity		
+2321	害死	hài sǐ		to kill		
+2322	礼貌	lǐ mào		courtesy; politeness; manners		
+2323	财产	cái chǎn		property		
+2324	应	yīng		to agree (to do sth)		
+2325	松	sōng		pine		
+2326	多次	duō cì		many times		
+2327	区别	qū bié		difference		
+2328	右边	yòu bian		right side		
+2329	指纹	zhǐ wén		fingerprint		
+2330	流血	liú xuè		to bleed		
+2331	混	hùn		to mix		
+2332	想来	xiǎng lái		it may be assumed that		
+2333	恋爱	liàn ài		(romantic) love		
+2334	镜头	jìng tóu		camera lens		
+2335	合法	hé fǎ		lawful		
+2336	小镇	xiǎo zhèn		small town; village		
+2337	大楼	dà lóu		building (a relatively large, multistory one)		
+2338	史蒂夫	shǐ dì fū		Steve (male name)		
+2339	不管怎样	bù guǎn zěn yàng		in any case; no matter what		
+2340	几点	jǐ diǎn		what time?		
+2341	克莱尔	kè lái ěr		Claire (name)		
+2342	交换	jiāo huàn		to exchange		
+2343	原本	yuán běn		originally		
+2344	共同	gòng tóng		common		
+2345	电梯	diàn tī		elevator		
+2346	东京	dōng jīng		Tokyo, capital of Japan		
+2347	当中	dāng zhōng		among		
+2348	不要紧	bù yào jǐn		unimportant		
+2349	威士忌	wēi shì jì		whiskey (loanword)		
+2350	老妈	lǎo mā		mother; mom		
+2351	确信	què xìn		to be convinced		
+2352	采访	cǎi fǎng		to interview		
+2353	强奸	qiáng jiān		to rape		
+2354	部长	bù zhǎng		head of a (government etc) department		
+2355	修	xiū		to decorate		
+2356	蛇	shé		snake		
+2357	后期	hòu qī		late stage		
+2358	科	kē		branch of study		
+2359	尼	ní		Buddhist nun		
+2360	避免	bì miǎn		to avert		
+2361	肯	kěn		to agree; to consent		
+2362	吵架	chǎo jià		to quarrel		
+2363	效果	xiào guǒ		result		
+2364	歌手	gē shǒu		singer		
+2365	一刻	yī kè		a quarter of an hour; 15 minutes		
+2366	活下去	huó xià qù		to survive		
+2367	砸	zá		to smash		
+2368	实话	shí huà		truth		
+2369	美味	měi wèi		delicious		
+2370	荣誉	róng yù		honor		
+2371	机	jī		(bound form) machine; mechanism		
+2372	交	jiāo		to hand over; to deliver; to pay (money); to turn over		
+2373	救护车	jiù hù chē		ambulance		
+2374	对象	duì xiàng		target; object		
+2375	监控	jiān kòng		to monitor		
+2376	资格	zī gé		qualifications		
+2377	饮料	yǐn liào		drink		
+2378	撤退	chè tuì		to retreat		
+2379	杯	bēi		cup		
+2380	托尼	tuō ní		(name) Tony		
+2381	当地	dāng dì		local		
+2382	赚钱	zhuàn qián		to earn money		
+2383	地面	dì miàn		floor		
+2384	男生	nán shēng		schoolboy		
+2385	七	qī		seven		
+2386	最佳	zuì jiā		optimum		
+2387	等一等	děng yī děng		wait a moment		
+2388	莎	shā		katydid (family Tettigoniidae)		
+2389	有种	yǒu zhǒng		to have guts		
+2390	类型	lèi xíng		type; kind; category		
+2391	男友	nán yǒu		boyfriend		
+2392	布朗	bù lǎng		(name) Brown		
+2393	大事	dà shì		major event		
+2394	全球	quán qiú		the whole world		
+2395	结局	jié jú		conclusion; ending; outcome		
+2396	较	jiào		(bound form) to compare		
+2397	蔚	wèi		Artemisia japonica		
+2398	小说	xiǎo shuō		novel		
+2399	艺术家	yì shù jiā		artist		
+2400	外星人	wài xīng rén		space alien; extraterrestrial		
+2401	凯文	kǎi wén		Kevin (person name)		
+2402	商店	shāng diàn		store; shop		
+2403	部落	bù luò		tribe		
+2404	门口	mén kǒu		doorway		
+2405	反抗	fǎn kàng		to resist		
+2406	签	qiān		to sign one's name		
+2407	第二次	dì èr cì		the second time; the second occurrence		
+2408	当初	dāng chū		at that time		
+2409	琵	pí		see 琵琶, pipa lute		
+2410	硬	yìng		hard; stiff; solid		
+2411	观点	guān diǎn		point of view		
+2412	商业	shāng yè		business		
+2413	蠢	chǔn		stupid		
+2414	维持	wéi chí		to keep; to maintain; to preserve		
+2415	俄国	é guó		Russia		
+2416	姐妹	jiě mèi		sisters		
+2417	实际	shí jì		reality		
+2418	屎	shǐ		feces; excrement; a stool		
+2419	新鲜	xīn xiān		fresh (experience, food etc)		
+2420	取得	qǔ dé		to acquire; to get; to obtain		
+2421	女子	nǚ zǐ		woman		
+2422	玻璃	bō li		glass		
+2423	眼前	yǎn qián		before one's eyes		
+2424	身	shēn		body		
+2425	猴子	hóu zi		monkey		
+2426	害	hài		to do harm to		
+2427	圣诞	shèng dàn		Christmas		
+2428	陷入	xiàn rù		to sink into		
+2429	战场	zhàn chǎng		battlefield		
+2430	绳子	shéng zi		cord; string; rope		
+2431	市长	shì zhǎng		mayor		
+2432	将要	jiāng yào		will		
+2433	温柔	wēn róu		gentle and soft; tender; sweet (commonly used to describe a girl or woman)		
+2434	判断	pàn duàn		to judge; to determine; judgment		
+2435	良好	liáng hǎo		good		
+2436	开口	kāi kǒu		to open one's mouth		
+2437	指示	zhǐ shì		to point out		
+2438	打扮	dǎ ban		to decorate		
+2439	卧室	wò shì		bedroom		
+2440	挡	dǎng		to resist		
+2441	不愿	bù yuàn		unwilling		
+2442	大街	dà jiē		street		
+2443	成长	chéng zhǎng		to mature		
+2444	人质	rén zhì		hostage		
+2445	强烈	qiáng liè		strong; intense		
+2446	龙	lóng		Chinese dragon; loong		
+2447	试	shì		to test		
+2448	平静	píng jìng		calm; tranquil; serene		
+2449	走出	zǒu chū		to leave (a room etc); to go out through (a door etc)		
+2450	回报	huí bào		(in) return		
+2451	烦	fán		to feel vexed		
+2452	地下室	dì xià shì		basement		
+2453	各	gè		each		
+2454	佬	lǎo		male		
+2455	最新	zuì xīn		latest		
+2456	侦探	zhēn tàn		detective		
+2457	伊	yī		(old) third person singular pronoun ("he" or "she")		
+2458	加州	jiā zhōu		California		
+2459	大麻	dà má		hemp (Cannabis sativa)		
+2460	手段	shǒu duàn		method; way; means (of doing sth)		
+2461	泰勒	tài lè		Taylor (name)		
+2462	荒谬	huāng miù		absurd; ridiculous		
+2463	贾	jiǎ		surname Jia		
+2464	协助	xié zhù		to provide assistance; to aid		
+2465	这下	zhè xià		this time		
+2466	难以	nán yǐ		hard to (predict, imagine etc)		
+2467	神经	shén jīng		nerve		
+2468	警察局	jǐng chá jú		police station		
+2469	取	qǔ		to take		
+2470	星星	xīng xing		(coll.) a star; the stars in the sky		
+2471	主席	zhǔ xí		chairperson		
+2472	酷	kù		ruthless		
+2473	念	niàn		to read		
+2474	墙	qiáng		wall (CL:面,堵)		
+2475	趁	chèn		to avail oneself of		
+2476	妮	nī		girl		
+2477	老头	lǎo tóu		old fellow		
+2478	改	gǎi		to change		
+2479	帝国	dì guó		empire		
+2480	养	yǎng		to raise (animals)		
+2481	竞选	jìng xuǎn		to take part in an election		
+2482	片名	piān míng		movie title		
+2483	型	xíng		mold		
+2484	温暖	wēn nuǎn		warm		
+2485	下班	xià bān		to finish work; to get off work		
+2486	整理	zhěng lǐ		to arrange		
+2487	老人	lǎo rén		old man or woman		
+2488	眼神	yǎn shén		expression or emotion showing in one's eyes		
+2489	正义	zhèng yì		justice; righteousness		
+2490	圣经	shèng jīng		the Confucian classics		
+2491	卫星	wèi xīng		(aerospace) satellite		
+2492	满	mǎn		to fill		
+2493	不仅仅	bù jǐn jǐn		not only; not just		
+2494	新娘	xīn niáng		bride		
+2495	魅力	mèi lì		charm		
+2496	屋顶	wū dǐng		roof		
+2497	处于	chǔ yú		to be in (some state, position, or condition)		
+2498	公里	gōng lǐ		kilometer		
+2499	形成	xíng chéng		to form; to take shape		
+2500	对抗	duì kàng		to withstand		
