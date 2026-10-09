@@ -1,0 +1,31 @@
+rank	word	reading	pos	english	example	example_english
+1	안녕하세요	annyeonghaseyo	interj	hello	안녕하세요, 잘 지내요?	Hello, how are you?
+2	감사합니다	gamsahamnida	interj	thank you	감사합니다.	Thank you.
+3	네	ne	adv	yes	네, 맞아요.	Yes, that is right.
+4	아니요	aniyo	adv	no	아니요, 괜찮아요.	No, it is okay.
+5	물	mul	noun	water	물 주세요.	Please give me water.
+6	밥	bap	noun	rice; meal	밥을 먹어요.	I eat a meal.
+7	집	jip	noun	house	집이 커요.	The house is big.
+8	친구	chingu	noun	friend	친구를 만나요.	I meet a friend.
+9	가족	gajok	noun	family	가족이 많아요.	I have a big family.
+10	시간	sigan	noun	time	시간이 없어요.	I do not have time.
+11	오늘	oneul	noun	today	오늘 일해요.	Today I work.
+12	내일	naeil	noun	tomorrow	내일 만나요.	See you tomorrow.
+13	좋다	jota	adj	good	날씨가 좋아요.	The weather is good.
+14	나쁘다	nappeuda	adj	bad	날씨가 나빠요.	The weather is bad.
+15	크다	keuda	adj	big	집이 커요.	The house is big.
+16	작다	jakda	adj	small	컵이 작아요.	The cup is small.
+17	나	na	pron	I	나는 학생이에요.	I am a student.
+18	너	neo	pron	you	너는 어때?	How about you?
+19	그	geu	pron	he; that	그는 내 친구예요.	He is my friend.
+20	그녀	geunyeo	pron	she	그녀는 선생님이에요.	She is a teacher.
+21	하다	hada	verb	to do	뭐 해요?	What are you doing?
+22	있다	itda	verb	to have; to exist	시간이 있어요.	I have time.
+23	가다	gada	verb	to go	집에 가요.	I go home.
+24	오다	oda	verb	to come	여기로 오세요.	Come here.
+25	먹다	meokda	verb	to eat	밥을 먹어요.	I eat.
+26	마시다	masida	verb	to drink	물을 마셔요.	I drink water.
+27	말하다	malhada	verb	to speak	한국어를 말해요.	I speak Korean.
+28	보다	boda	verb	to see; to watch	영화를 봐요.	I watch a movie.
+29	사랑	sarang	noun	love	사랑해요.	I love you.
+30	이름	ireum	noun	name	이름이 뭐예요?	What is your name?
