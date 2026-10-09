@@ -15,54 +15,71 @@
 (function(global) {
     'use strict';
 
-    var vowel_RED = 'hsl(0, 76.60%, 54.70%)'; /* red for monograph vowels (a, i, u, e, o) */
-    var k_ORANGE = 'hsl(22, 79.60%, 53.90%)'; /* orange for monographs and digraphs (ka, ki, ku, ke, ko, kya, kyu, kyo) */
-    var k_LIGHT = 'hsl(22, 79.20%, 71.80%)'; /* lighter orange for diacritics and digraphs with diacritics (gyo, gya, gyu, ga, go, gi, ge, gu) */
-    var s_YELLOW = 'hsl(59, 100.00%, 45.10%)'; /* yellow for monographs and digraphs (sa, shi, su, se, so, sha, shu, sho) */
-    var s_LIGHT = 'hsl(54, 76.20%, 72.00%)'; /* lighter yellow for diacritics and digraphs with diacritics (zu, ze, za, zo, ji, ja, ju, jo) */
-    var t_GREEN = 'hsl(140, 65.10%, 53.90%)'; /* green for monographs and digraphs (ta, chi, tsu, te, to, cha, chu, cho) */
-    var t_LIGHT = 'hsl(160, 49.10%, 66.90%)'; /* lighter green for diacritics (da, ji, zu, de, do) */
-    var n_BLUE = 'hsl(207, 81.90%, 49.80%)'; /* blue for monographs and digraphs (na, ni, nu, ne, no, nya, nyu, nyo) */
-    var h_PURPLE = 'hsl(268, 78.30%, 63.90%)'; /* purple for monographs and digraphs (ha, hi, fu, he, ho, hya, hyu, hyo) */
-    var h_LIGHT = 'hsl(268, 68.10%, 72.90%)'; /* lighter purple for diacritics and digraphs with diacritics (bi, ba, bu, be, bo, pa, pi, pu, pe, po, bya, byu, byo, pya, pyu, pyo) */
-    var m_NAVY_BLUE = 'hsl(226, 51.10%, 46.50%)'; /* navy blue for monographs and digraphs (ma, mi, mu, me, mo, mya, myu, myo) */
-    var y_MAGENTA = 'hsl(315, 42.60%, 49.20%)'; /* magenta for monographs (ya, yu, yo) */
-    var r_BROWN = 'hsl(33, 29.60%, 39.00%)'; /* brown for monographs and digraphs (ra, ri, ru, re, ro, rya, ryu, ryo) */
-    var w_GRAY = 'hsl(0, 0.00%, 62.00%)'; /* gray for monographs wa and wo */
+    /* Light-theme palette: every color meets >=4.5:1 on white/card-bg. */
+    var vowel_RED = 'hsl(0, 78%, 40%)';
+    var k_ORANGE = 'hsl(24, 100%, 31%)';
+    var k_LIGHT = 'hsl(28, 95%, 38%)';
+    var s_YELLOW = 'hsl(43, 100%, 26%)';
+    var s_LIGHT = 'hsl(48, 100%, 26%)';
+    var t_GREEN = 'hsl(145, 90%, 25%)';
+    var t_LIGHT = 'hsl(160, 90%, 27%)';
+    var n_BLUE = 'hsl(210, 95%, 33%)';
+    var h_PURPLE = 'hsl(270, 70%, 40%)';
+    var h_LIGHT = 'hsl(280, 65%, 44%)';
+    var m_NAVY_BLUE = 'hsl(226, 65%, 40%)';
+    var y_MAGENTA = 'hsl(315, 60%, 40%)';
+    var r_BROWN = 'hsl(30, 45%, 36%)';
+    var w_GRAY = 'hsl(0, 0%, 38%)';
+
+    /* Dark-theme palette: lighter variants that meet >=4.5:1 on the dark card. */
+    var vowel_RED_D = 'hsl(0, 100%, 72%)';
+    var k_ORANGE_D = 'hsl(28, 100%, 65%)';
+    var k_LIGHT_D = 'hsl(32, 100%, 72%)';
+    var s_YELLOW_D = 'hsl(50, 100%, 68%)';
+    var s_LIGHT_D = 'hsl(55, 100%, 75%)';
+    var t_GREEN_D = 'hsl(140, 75%, 66%)';
+    var t_LIGHT_D = 'hsl(160, 65%, 70%)';
+    var n_BLUE_D = 'hsl(207, 95%, 70%)';
+    var h_PURPLE_D = 'hsl(268, 85%, 78%)';
+    var h_LIGHT_D = 'hsl(280, 85%, 80%)';
+    var m_NAVY_BLUE_D = 'hsl(226, 90%, 78%)';
+    var y_MAGENTA_D = 'hsl(315, 80%, 78%)';
+    var r_BROWN_D = 'hsl(33, 65%, 70%)';
+    var w_GRAY_D = 'hsl(0, 0%, 78%)';
 
     var LIGHT = {
-        vowel: vowel_RED,   
-        k: k_ORANGE,      
-        g: k_LIGHT, 
-        s: s_YELLOW,       
-        z: s_LIGHT, 
-        t: t_GREEN,      
-        d: t_LIGHT, 
-        n: n_BLUE,      
-        h: h_PURPLE,      
-        b: h_LIGHT, 
-        p: h_LIGHT, 
-        m: m_NAVY_BLUE,      
-        y: y_MAGENTA,      
-        r: r_BROWN,      
-        w: w_GRAY       
+        vowel: vowel_RED,
+        k: k_ORANGE,
+        g: k_LIGHT,
+        s: s_YELLOW,
+        z: s_LIGHT,
+        t: t_GREEN,
+        d: t_LIGHT,
+        n: n_BLUE,
+        h: h_PURPLE,
+        b: h_LIGHT,
+        p: h_LIGHT,
+        m: m_NAVY_BLUE,
+        y: y_MAGENTA,
+        r: r_BROWN,
+        w: w_GRAY
     };
     var DARK = {
-        vowel: vowel_RED,   
-        k: k_ORANGE,      
-        g: k_LIGHT, 
-        s: s_YELLOW,       
-        z: s_LIGHT, 
-        t: t_GREEN,      
-        d: t_LIGHT, 
-        n: n_BLUE,      
-        h: h_PURPLE,      
-        b: h_LIGHT, 
-        p: h_LIGHT, 
-        m: m_NAVY_BLUE,      
-        y: y_MAGENTA,      
-        r: r_BROWN,      
-        w: w_GRAY 
+        vowel: vowel_RED_D,
+        k: k_ORANGE_D,
+        g: k_LIGHT_D,
+        s: s_YELLOW_D,
+        z: s_LIGHT_D,
+        t: t_GREEN_D,
+        d: t_LIGHT_D,
+        n: n_BLUE_D,
+        h: h_PURPLE_D,
+        b: h_LIGHT_D,
+        p: h_LIGHT_D,
+        m: m_NAVY_BLUE_D,
+        y: y_MAGENTA_D,
+        r: r_BROWN_D,
+        w: w_GRAY_D
     };
 
     /** Get first syllable from romaji (e.g. "nihon" -> "ni", "ichi" -> "i"). */
