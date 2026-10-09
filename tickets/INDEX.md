@@ -1,12 +1,8 @@
 # SQWease Ticket Backlog
 
-Generated from a full ponytail audit, a bug/edge-case sweep, and an i18n/a11y/perf review of the shipped code. 77 tickets.
+Maintainer view. 84 tickets. Regenerate with `node scripts/build-ticket-index.js`.
 
-Severity: `critical` blocks shipping · `high` next · `medium` soon · `low` / `nit` cleanup. Priority: `P0` immediate, `P1` next, `P2` scheduled, `P3` opportunistic.
-
-Types: `bug`, `edge-case`, `a11y`, `i18n`, `responsive`, `performance`, `over-engineering`, `data`, `data-integrity`, `test`, `docs`, `maintainability`, `privacy`, `delete`, `shrink`, `yagni`, `nit`.
-
-Tags ending in `-audit` come from the ponytail over-engineering pass; the rest are correctness/UX. See `docs/specs/` for the planned work these feed.
+Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`nit` cleanup. Priority: `P0` immediate · `P1` next · `P2` scheduled · `P3` opportunistic.
 
 ## Critical (1)
 
@@ -31,7 +27,7 @@ Tags ending in `-audit` come from the ponytail over-engineering pass; the rest a
 | [T-033](./T-033.md) | Make flip/practice cards and the info toggle keyboard-operable semantic controls | core | a11y | bug-hunt |
 | [T-034](./T-034.md) | Add a non-color cue and fix contrast for syllable coloring | coloring | a11y, coloring | bug-hunt |
 | [T-035](./T-035.md) | Fix low-contrast text tokens (#ccc instruction, #747d8c table headers/loading) | core | a11y | bug-hunt |
-| [T-036](./T-036.md) | Set language metadata correctly (dynamic html lang, lang="ja" on Japanese content) | core | a11y, i18n | bug-hunt |
+| [T-036](./T-036.md) | Set language metadata correctly (dynamic html lang, lang=\"ja\" on Japanese content) | core | a11y, i18n | bug-hunt |
 | [T-045](./T-045.md) | Extract hardcoded UI strings into a locale table with data-i18n | core | i18n | bug-hunt |
 | [T-051](./T-051.md) | Replace fixed flashcard dimensions with fluid min/max-height and clamp() type | flashcards | responsive | bug-hunt |
 | [T-055](./T-055.md) | Defer large data modules and page scripts to reduce blocking parse/execute | core | performance | bug-hunt |
@@ -39,7 +35,7 @@ Tags ending in `-audit` come from the ponytail over-engineering pass; the rest a
 | [T-066](./T-066.md) | Correct top-level docs that claim 263 words / 5% / no SRS / single page | docs | docs | data |
 | [T-067](./T-067.md) | Fix README references to a CSV file that does not exist | docs | docs | data |
 
-## Medium (26)
+## Medium (31)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -69,8 +65,13 @@ Tags ending in `-audit` come from the ponytail over-engineering pass; the rest a
 | [T-068](./T-068.md) | Update srs-status.md: Boxes SRS is implemented | docs | docs | data |
 | [T-069](./T-069.md) | Resolve README build-step contradiction and menu-count drift | docs | docs | data |
 | [T-070](./T-070.md) | Document the content -> build script -> generated JS data pipeline | docs | docs | data |
+| [T-078](./T-078.md) | Flashcards Display-phase selector does nothing and shows for non-Japanese targets | flashcards | ui, bug, i18n | ui-review |
+| [T-079](./T-079.md) | boxes.html overflows horizontally on narrow phones (mode-tabs do not wrap) | boxes | ui, responsive | ui-review |
+| [T-080](./T-080.md) | editor.html overflows horizontally on narrow phones (token table cannot scroll) | editor | ui, responsive | ui-review |
+| [T-081](./T-081.md) | boxes.html controls stay light in dark mode and rating colors fail contrast | boxes | ui, a11y, bug | ui-review |
+| [T-082](./T-082.md) | editor.html inputs and secondary buttons stay light in dark mode | editor | ui, a11y | ui-review |
 
-## Low (22)
+## Low (24)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -96,6 +97,8 @@ Tags ending in `-audit` come from the ponytail over-engineering pass; the rest a
 | [T-071](./T-071.md) | Fix stale dates and broken cross-doc links | docs | docs | data |
 | [T-073](./T-073.md) | Do not show developer build instructions in user-facing errors | core | bug, docs | bug-hunt |
 | [T-076](./T-076.md) | Correct false invariants in README-tokenized.md | docs | docs | bug-hunt, data |
+| [T-083](./T-083.md) | kana-charts dark mode shows a bright table-header band | kana | ui, a11y | ui-review |
+| [T-084](./T-084.md) | index disabled activity cards are still activatable links | index | ui, a11y | ui-review |
 
 ## Nit (8)
 
@@ -109,7 +112,3 @@ Tags ending in `-audit` come from the ponytail over-engineering pass; the rest a
 | [T-074](./T-074.md) | Remove or hide decorative flag emoji in headings | flashcards | nit, a11y | bug-hunt |
 | [T-075](./T-075.md) | Remove leftover commented-out markup in editor.html | editor | delete, nit | bug-hunt |
 | [T-077](./T-077.md) | Repair stale absolute paths in .cursor plans after the repo rename | repo | docs, nit | data |
-
-## Cross-references
-
-Notable clusters: coloring correctness (T-004..T-008, T-016..T-020), accessibility (T-032..T-044), i18n (T-036, T-045..T-050), responsive/perf (T-051..T-059), shared-asset refactor (T-060), docs (T-066..T-076).
