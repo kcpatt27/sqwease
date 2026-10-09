@@ -1,0 +1,104 @@
+/*
+ * SQWease shared theme: design tokens, base typography, focus, reduced-motion,
+ * safe areas and the shared theme toggle. Page-specific CSS stays in each page.
+ * Load this BEFORE a page's own <style> so page rules can override.
+ */
+:root {
+    --primary: #c72633;          /* AA-contrast red on light bg */
+    --primary-strong: #a51d29;
+    --text: #2f3542;
+    --secondary-text: #4a5568;   /* ~7.5:1 on #fff */
+    --muted: #5f6b7a;            /* ~5.5:1 on #fff */
+    --text-muted: #5f6b7a;       /* legacy alias */
+    --bg: #f1f2f6;
+    --card-bg: #ffffff;
+    --border: #dfe4ea;
+    --focus: #1e6feb;
+    --radius: 12px;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    --ui-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --ja-font: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', Meiryo, sans-serif;
+    --ko-font: 'Noto Sans KR', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif;
+    --zh-font: 'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+}
+
+[data-theme="dark"] {
+    --primary: #ff6b81;
+    --primary-strong: #ff8a9b;
+    --text: #e4e4e4;
+    --secondary-text: #c7cdd4;
+    --muted: #a4b0be;
+    --text-muted: #a4b0be;
+    --bg: #1e272e;
+    --card-bg: #2d3436;
+    --border: #57606f;
+    --focus: #7fb2ff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    font-family: var(--ui-font);
+    background-color: var(--bg);
+    color: var(--text);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Language-aware fonts for target-language content. */
+[lang="ja"] { font-family: var(--ja-font); }
+[lang="ko"] { font-family: var(--ko-font); }
+[lang="zh"] { font-family: var(--zh-font); }
+
+:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+}
+
+/* Shared, accessible theme toggle (rendered as a <button>). */
+.theme-toggle {
+    position: fixed;
+    top: max(16px, env(safe-area-inset-top));
+    right: max(16px, env(safe-area-inset-right));
+    background: var(--card-bg);
+    border: 2px solid var(--border);
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 1.4rem;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s, box-shadow 0.2s;
+    user-select: none;
+    z-index: 100;
+    padding: 0;
+}
+.theme-toggle:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+.theme-toggle .icon-dark { display: none; }
+.theme-toggle .icon-light { display: inline; }
+[data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
+[data-theme="dark"] .theme-toggle .icon-light { display: none; }
+
+/* Screen-reader-only helper. */
+.visually-hidden {
+    position: absolute !important;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0 0 0 0);
+    white-space: nowrap; border: 0;
+}
+
+/* Accessibility: honor reduced motion everywhere. */
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
