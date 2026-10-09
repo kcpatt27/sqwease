@@ -12,17501 +12,17501 @@
                 "id": "ko-0001",
                 "w": "내가",
                 "p": "naega",
-                "d": "I (with subject marker -가)",
-                "s": ""
+                "d": "I, me",
+                "s": "보잘것 없지만, 내가 할 수 있는 모든 것을 다 해 도와줄게. (It's not much, but I will do whatever I can to help you.)"
             },
             {
                 "id": "ko-0002",
                 "w": "그",
                 "p": "geu",
                 "d": "that",
-                "s": ""
+                "s": "당신은 그 여자에게 거리를 두고 지낸 것에 대해 사과해야 한다. (You should apologize to her for being so distant.)"
             },
             {
                 "id": "ko-0003",
                 "w": "난",
                 "p": "nan",
-                "d": "I",
-                "s": ""
+                "d": "I, me",
+                "s": "난 톰이 메리가 그 짓을 한 걸 용서하리라고는 생각하지 않는다. (I didn't think that Tom would ever forgive Mary for doing that.)"
             },
             {
                 "id": "ko-0004",
                 "w": "내",
                 "p": "nae",
                 "d": "my",
-                "s": ""
+                "s": "나는 더 이상 톰이 내 친구가 되고 싶어한다고 생각하지 않아. (I don't think Tom wants to be my friend anymore.)"
             },
             {
                 "id": "ko-0005",
                 "w": "안",
                 "p": "an",
                 "d": "not",
-                "s": ""
+                "s": "톰은 마리가 존이 그걸 하면 안 될 거라는 걸 알았다고 말했다. (Tom said that Mary knew that John might not be allowed to do that.)"
             },
             {
                 "id": "ko-0006",
                 "w": "수",
                 "p": "su",
-                "d": "way; means; ability (bound noun)",
-                "s": ""
+                "d": "way",
+                "s": "8시간 동안 운전을 한 후에 톰은 더이상 운전을 할 수 없었다. (After driving for eight hours, Tom just couldn't drive any longer.)"
             },
             {
                 "id": "ko-0007",
                 "w": "이",
                 "p": "i",
-                "d": "This",
-                "s": ""
+                "d": "this",
+                "s": "Tom이 \"Happy Birthday\" 노래를 부르기 시작했다. (Tom began to sing \"Happy Birthday.\")"
             },
             {
                 "id": "ko-0008",
                 "w": "네",
                 "p": "ne",
                 "d": "yes",
-                "s": ""
+                "s": "일 년에는 네 계절이 있습니다: 봄, 여름, 가을, 겨울입니다. (There are four seasons in a year: spring, summer, autumn and winter.)"
             },
             {
                 "id": "ko-0009",
                 "w": "거야",
                 "p": "geoya",
-                "d": "it is; that’s (거 + 이야)",
-                "s": ""
+                "d": "thing",
+                "s": "톰이 그렇게 어리지 않았다면 그걸 함으로써 용서받지 못했을 거야. (I think Tom wouldn't be forgiven for doing that if he weren't so young.)"
             },
             {
                 "id": "ko-0010",
                 "w": "좀",
                 "p": "jom",
-                "d": "kinda",
-                "s": ""
+                "d": "a little",
+                "s": "너무 다그치지말고 여유를 좀 줘봐, 오늘이 처음 일하는 날이잖아. (Cut him some slack, John. It's his first day on the job.)"
             },
             {
                 "id": "ko-0011",
                 "w": "그래",
                 "p": "geurae",
-                "d": "yes; that’s right; like that",
-                "s": ""
+                "d": "like this, like that",
+                "s": "\"허리가 아퍼?\" \"아니, 별로.\" \"그래, 그게 불행 중 다행이야.\" (\"Does your back hurt?\" \"No, not really.\" \"Oh, that's something then, isn't it?\")"
             },
             {
                 "id": "ko-0012",
                 "w": "있어",
                 "p": "isseo",
-                "d": "to exist; to have (informal)",
-                "s": ""
+                "d": "to stay",
+                "s": "우울증은 아스퍼거 증후군을 가진 청년들에게 있어 흔한 질병이야. (Depression is common among young adults who have Asperger syndrome.)"
             },
             {
                 "id": "ko-0013",
                 "w": "왜",
                 "p": "wae",
                 "d": "why",
-                "s": ""
+                "s": "톰은 메리에게 왜 그가 늦게까지 일해야 했는지 알려주지 않았다. (Tom didn't tell Mary why he had to work late.)"
             },
             {
                 "id": "ko-0014",
                 "w": "더",
                 "p": "deo",
-                "d": "more, -er (to a greater extent)",
-                "s": ""
+                "d": "more, -er",
+                "s": "나는 더 이상 톰이 내 친구가 되고 싶어한다고 생각하지 않아. (I don't think Tom wants to be my friend anymore.)"
             },
             {
                 "id": "ko-0015",
                 "w": "그리고",
                 "p": "geurigo",
-                "d": "and, also, in addition (often used at the beginning of a sentence)",
-                "s": ""
+                "d": "and, also, in addition",
+                "s": "그리고 언제나 그랬듯이 그녀가 옳았다. (And she was right again, as she always was.)"
             },
             {
                 "id": "ko-0016",
                 "w": "우리",
                 "p": "uri",
-                "d": "us",
-                "s": ""
+                "d": "we, us",
+                "s": "우리 다 역사에 관심이 있어서 어떤 의미로 우리는 모두 역사가다. (All of us have some interest in history. In a sense, we are all historians.)"
             },
             {
                 "id": "ko-0017",
                 "w": "다",
                 "p": "da",
-                "d": "all; everything",
-                "s": ""
+                "d": "all",
+                "s": "우리 다 역사에 관심이 있어서 어떤 의미로 우리는 모두 역사가다. (All of us have some interest in history. In a sense, we are all historians.)"
             },
             {
                 "id": "ko-0018",
                 "w": "무슨",
                 "p": "museun",
-                "d": "what, what kind of; a certain, some; some kind of",
-                "s": ""
+                "d": "what, what kind of",
+                "s": "그녀는 저기서 무슨 일이 벌어진 것인지 이해할 수 없었다. (She couldn't understand what had happened there.)"
             },
             {
                 "id": "ko-0019",
                 "w": "한",
                 "p": "han",
                 "d": "one",
-                "s": ""
+                "s": "난 톰이 메리가 그 짓을 한 걸 용서하리라고는 생각하지 않는다. (I didn't think that Tom would ever forgive Mary for doing that.)"
             },
             {
                 "id": "ko-0020",
                 "w": "하지만",
                 "p": "hajiman",
-                "d": "But",
-                "s": ""
+                "d": "but, however",
+                "s": "하지만 주인공은 자신의 실수를 인식하고 있다. (However the protagonist is aware of his own mistakes.)"
             },
             {
                 "id": "ko-0021",
                 "w": "잘",
                 "p": "jal",
                 "d": "well",
-                "s": ""
+                "s": "그는 수년간 택시 운전사로 일해 왔기에 이 도시를 잘 안다. (Having worked for several years as a taxi driver, he knows the city well.)"
             },
             {
                 "id": "ko-0022",
                 "w": "어떻게",
                 "p": "eotteoke",
-                "d": "how; adverbial form of 어떻다 (eotteota); what is … ?",
-                "s": ""
+                "d": "how",
+                "s": "코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요? (How can we protect ourselves from the coronavirus?)"
             },
             {
                 "id": "ko-0023",
                 "w": "할",
                 "p": "hal",
-                "d": "do",
-                "s": ""
+                "d": "to do",
+                "s": "나는 지난주에 톰이 보스턴에서 그 일을 할 것이라는 걸 몰랐다. (I didn't know that Tom was going to do that in Boston last week.)"
             },
             {
                 "id": "ko-0024",
                 "w": "그냥",
                 "p": "geunyang",
-                "d": "simply; just like that; just as it is.; for no particular reason",
-                "s": ""
+                "d": "simply",
+                "s": "저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요. (I’m not picky. Anyone who has a good personality is fine for me.)"
             },
             {
                 "id": "ko-0025",
                 "w": "정말",
                 "p": "jeongmal",
                 "d": "really",
-                "s": ""
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
                 "id": "ko-0026",
                 "w": "그럼",
                 "p": "geureom",
-                "d": "Then",
-                "s": ""
+                "d": "then, in that case",
+                "s": "내 오리털 잠바 입어. 그럼 좀 더 나을 거야. (Put on my eiderdown coat. That'll be better.)"
             },
             {
                 "id": "ko-0027",
                 "w": "것",
                 "p": "geot",
-                "d": "thing; that which",
-                "s": ""
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0028",
                 "w": "게",
                 "p": "ge",
-                "d": "crab",
-                "s": ""
+                "d": "thing",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0029",
                 "w": "있어요",
                 "p": "isseoyo",
-                "d": "to exist; to have (polite)",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 방침에 따르면 근로자가 보호 안경을 사용하도록 되어 있어요. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
                 "id": "ko-0030",
                 "w": "있는",
                 "p": "inneun",
-                "d": "existing; that exists",
-                "s": ""
+                "d": "to stay",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
                 "id": "ko-0031",
                 "w": "해",
                 "p": "hae",
-                "d": "to do (informal)",
-                "s": ""
+                "d": "the Sun",
+                "s": "나는 볼리비아에서 왔어. 나는 볼리비아 사람이고 스페인어를 해. (I come from Bolivia. I'm Bolivian, and I speak Spanish.)"
             },
             {
                 "id": "ko-0032",
                 "w": "여기",
                 "p": "yeogi",
                 "d": "here",
-                "s": ""
+                "s": "여기 보스턴에서 캐나다 사람을 만난 적이 있나요? (Have you met any Canadians here in Boston?)"
             },
             {
                 "id": "ko-0033",
                 "w": "넌",
                 "p": "neon",
-                "d": "you (topic)",
-                "s": ""
+                "d": "you",
+                "s": "넌 네가 깨어있는 줄 알지만, 사실은 꿈꾸고 있을 수도 있어. (You think you're awake, but you may, in fact, be dreaming.)"
             },
             {
                 "id": "ko-0034",
                 "w": "제가",
                 "p": "jega",
-                "d": "I (polite, subject)",
-                "s": ""
+                "d": "I, me",
+                "s": "제가 할 수 있는게 뭐라도 있다면 주저하지마시고 알려주세요. (If there's anything I can do for you, don't hesitate to let me know.)"
             },
             {
                 "id": "ko-0035",
                 "w": "날",
                 "p": "nal",
-                "d": "me (object); day",
-                "s": ""
+                "d": "day",
+                "s": "내가 늑대 인간이 아니어도 여전히 날 사랑해 주겠니? (Would you still love me if I wasn't a werewolf?)"
             },
             {
                 "id": "ko-0036",
                 "w": "우리가",
                 "p": "uriga",
-                "d": "we (subject)",
-                "s": ""
+                "d": "we, us",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0037",
                 "w": "건",
                 "p": "geon",
-                "d": "that thing (topic); it is (거 + 는)",
-                "s": ""
+                "d": "thing",
+                "s": "모든 말들이 동등하게 태어난 건 아니야. 몇몇은 이기기 위해 태어났어. (Not all horses were born equal. A few were born to win.)"
             },
             {
                 "id": "ko-0038",
                 "w": "전",
                 "p": "jeon",
-                "d": "before; I (polite, topic)",
-                "s": ""
+                "d": "before",
+                "s": "나는 그녀를 닷새 전, 그러니까 지난 금요일에 역에서 봤다. (I saw her at the station five days ago, that is, last Friday.)"
             },
             {
                 "id": "ko-0039",
                 "w": "이제",
                 "p": "ije",
                 "d": "now, and now",
-                "s": ""
+                "s": "이미 이사했습니다. 이제 자신은 혼자 살고 있습니다. (I've moved out already. Now I live alone.)"
             },
             {
                 "id": "ko-0040",
                 "w": "지금",
                 "p": "jigeum",
                 "d": "now",
-                "s": ""
+                "s": "지금 너무 덥네요. 더위가 조금 가실 때까지 기다렸다가 나가요. (It is very hot right now. Let's wait until the heat eases a little before going out.)"
             },
             {
                 "id": "ko-0041",
                 "w": "그게",
                 "p": "geuge",
-                "d": "that thing (as the subject of the sentence or clause)",
-                "s": ""
+                "d": "that",
+                "s": "나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어. (It is inevitable that I go to France someday, I just don't know when.)"
             },
             {
                 "id": "ko-0042",
                 "w": "걸",
                 "p": "geol",
-                "d": "that thing (object); will (future)",
-                "s": ""
+                "d": "thing",
+                "s": "난 톰이 메리가 그 짓을 한 걸 용서하리라고는 생각하지 않는다. (I didn't think that Tom would ever forgive Mary for doing that.)"
             },
             {
                 "id": "ko-0043",
                 "w": "거",
                 "p": "geo",
-                "d": "thing; that",
-                "s": ""
+                "d": "thing",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
             },
             {
                 "id": "ko-0044",
                 "w": "아니",
                 "p": "ani",
                 "d": "no",
-                "s": ""
+                "s": "\"허리가 아퍼?\" \"아니, 별로.\" \"그래, 그게 불행 중 다행이야.\" (\"Does your back hurt?\" \"No, not really.\" \"Oh, that's something then, isn't it?\")"
             },
             {
                 "id": "ko-0045",
                 "w": "네가",
                 "p": "nega",
-                "d": "allomorph of 너 (neo, “(informal) you”) before -가 (-ga, “nominative case marker”)",
-                "s": ""
+                "d": "you",
+                "s": "나는 네가 그렇게 하도록 강요하지는 않겠지만 그렇게 해야 할거야 (I won't force you to do that, but I think you should.)"
             },
             {
                 "id": "ko-0046",
                 "w": "없어",
                 "p": "eopseo",
-                "d": "to not exist; to not have (informal)",
-                "s": ""
+                "d": "to have none",
+                "s": "그는 그 직업을 위해 훈련은 받았지만, 실제로 일한 적은 없어. (Although he trained in the profession, he never practised it.)"
             },
             {
                 "id": "ko-0047",
                 "w": "돼",
                 "p": "dwae",
-                "d": "infinitive of 되다 (doeda)",
-                "s": ""
+                "d": "to become",
+                "s": "네가 톰한테 집에 가라고 할거야, 아니면 내가 해야 돼? (Are you going to tell Tom to go home, or do I have to?)"
             },
             {
                 "id": "ko-0048",
                 "w": "저",
                 "p": "jeo",
-                "d": "that (distal); I (polite)",
-                "s": ""
+                "d": "that",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
             },
             {
                 "id": "ko-0049",
                 "w": "우린",
                 "p": "urin",
-                "d": "we (topic)",
-                "s": ""
+                "d": "we, us",
+                "s": "우린 충동적으로 사랑의 도피를 벌였지. 그게 너무 로맨틱했어! (We eloped on the spur of the moment. It was so romantic!)"
             },
             {
                 "id": "ko-0050",
                 "w": "제",
                 "p": "je",
-                "d": "my (polite); I (polite, subject)",
-                "s": ""
+                "d": "my",
+                "s": "\"이 차량들 소유자분이십니까?\" \"네. 전부 제 차예요.\" (\"Are these cars yours?\" \"Yes, they are mine.\")"
             },
             {
                 "id": "ko-0051",
                 "w": "못",
                 "p": "mot",
-                "d": "cannot; not",
-                "s": ""
+                "d": "cannot",
+                "s": "난 네가 못 이긴다고 말하는 게 아니야. 그냥 가능성이 낮다는 거야. (I'm not saying that you can't win. I'm just saying it's not likely.)"
             },
             {
                 "id": "ko-0052",
                 "w": "좋아",
                 "p": "joa",
-                "d": "infinitive of 좋다 (jota, “to be good”)",
-                "s": ""
+                "d": "to be good",
+                "s": "누구랑 같이 있으면 아무것도 안 하고 걷기만 해도 좋아. (If I'm with someone, even just walking without doing anything is nice.)"
             },
             {
                 "id": "ko-0053",
                 "w": "당신이",
                 "p": "dangsini",
-                "d": "you (subject)",
-                "s": ""
+                "d": "you",
+                "s": "당신이 세계를 여행하는 동안, 항상 잘먹는 것이 가능하지는 않습니다. (It's not always possible to eat well when you're traveling in this part of the world.)"
             },
             {
                 "id": "ko-0054",
                 "w": "다른",
                 "p": "dareun",
                 "d": "different, other",
-                "s": ""
+                "s": "반품을 하는 데 2시간이나 걸려서 다른 가정 용품을 사봤어. (It takes 2 hours or so to go make a return so I bought some different housewares.)"
             },
             {
                 "id": "ko-0055",
                 "w": "나",
                 "p": "na",
-                "d": "me",
-                "s": ""
+                "d": "I, me",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
                 "id": "ko-0056",
                 "w": "그런",
                 "p": "geureon",
-                "d": "like that",
-                "s": ""
+                "d": "like that, such",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0057",
                 "w": "그건",
                 "p": "geugeon",
-                "d": "that is; that thing (topic)",
-                "s": ""
+                "d": "that",
+                "s": "화성에는 두 개의 작은 달이 있어. 그건 바로 포보스와 데이모스야. (Mars has two small moons, Phobos and Deimos.)"
             },
             {
                 "id": "ko-0058",
                 "w": "너무",
                 "p": "neomu",
-                "d": "too, excessively; so, very, extremely",
-                "s": ""
+                "d": "too, excessively",
+                "s": "해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다. (I found a solution, but I found it so fast that it can't be the right solution.)"
             },
             {
                 "id": "ko-0059",
                 "w": "그래서",
                 "p": "geuraeseo",
-                "d": "So",
-                "s": ""
+                "d": "therefore",
+                "s": "그래서 나는 여행을 사랑하고, 많은 문화와 언어를 경험하고 싶다. (That's why I like traveling, and would like to experience many different cultures.)"
             },
             {
                 "id": "ko-0060",
                 "w": "그렇게",
                 "p": "geureoke",
-                "d": "so, so much; in that way, to that extent",
-                "s": ""
+                "d": "so, so much",
+                "s": "나는 네가 그렇게 하도록 강요하지는 않겠지만 그렇게 해야 할거야 (I won't force you to do that, but I think you should.)"
             },
             {
                 "id": "ko-0061",
                 "w": "다시",
                 "p": "dasi",
-                "d": "again",
-                "s": ""
+                "d": "again, once more",
+                "s": "도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어. (I returned the books I borrowed from the library, and I borrowed some new ones.)"
             },
             {
                 "id": "ko-0062",
                 "w": "이건",
                 "p": "igeon",
-                "d": "this is; this thing (topic)",
-                "s": ""
+                "d": "this",
+                "s": "이건 톰이 가장 좋아하는 프랑스 단어야. (It's Tom's favorite French word.)"
             },
             {
                 "id": "ko-0063",
                 "w": "이런",
                 "p": "ireon",
-                "d": "like this; such",
-                "s": ""
+                "d": "like this",
+                "s": "이런 늦은 시간에 미안해. 목소리 듣고 싶어서 전화를 걸어버렸네. (I'm sorry for calling so late. I just wanted to hear your voice.)"
             },
             {
                 "id": "ko-0064",
                 "w": "나도",
                 "p": "nado",
-                "d": "me too",
-                "s": ""
+                "d": "I, me",
+                "s": "톰은 날 사랑하고 나도 톰을 사랑해. (Tom loves me, and I love Tom.)"
             },
             {
                 "id": "ko-0065",
                 "w": "모든",
                 "p": "modeun",
                 "d": "all, every, each",
-                "s": ""
+                "s": "보잘것 없지만, 내가 할 수 있는 모든 것을 다 해 도와줄게. (It's not much, but I will do whatever I can to help you.)"
             },
             {
                 "id": "ko-0066",
                 "w": "당신",
                 "p": "dangsin",
-                "d": "second person singular plain pronoun; you",
-                "s": ""
+                "d": "you",
+                "s": "내가 있었으니 망정이지 당신 혼자였으면 어쩔 뻔했어요? (You're lucky I was here. What would you have done all by yourself?)"
             },
             {
                 "id": "ko-0067",
                 "w": "거예요",
                 "p": "geoyeyo",
-                "d": "it is (polite)",
-                "s": ""
+                "d": "thing",
+                "s": "선생님께 보스턴을 떠나는 건 꽤나 힘든 일일 거예요. (It's probably going to be hard for you to leave Boston.)"
             },
             {
                 "id": "ko-0068",
                 "w": "당신은",
                 "p": "dangsineun",
-                "d": "you (topic)",
-                "s": ""
+                "d": "you",
+                "s": "당신은 그 여자에게 거리를 두고 지낸 것에 대해 사과해야 한다. (You should apologize to her for being so distant.)"
             },
             {
                 "id": "ko-0069",
                 "w": "아",
                 "p": "a",
-                "d": "Ah",
-                "s": ""
+                "d": "ah",
+                "s": "아, 메리! 톰이 널 찾고 있었어. (Oh, Mary! Tom was just looking for you.)"
             },
             {
                 "id": "ko-0070",
                 "w": "좋은",
                 "p": "joeun",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
+                "d": "to be good",
+                "s": "저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요. (I’m not picky. Anyone who has a good personality is fine for me.)"
             },
             {
                 "id": "ko-0071",
                 "w": "오",
                 "p": "o",
-                "d": "oh",
-                "s": ""
+                "d": "five",
+                "s": "오 곱하기 칠은 삼십오이다. (Five times seven is thirty-five.)"
             },
             {
                 "id": "ko-0072",
                 "w": "때",
                 "p": "ttae",
-                "d": "time; occasion; opportunity",
-                "s": ""
+                "d": "time",
+                "s": "아버지의 사망을 알리는 전화를 받았을 때 나는 완전히 당황했다. (When I got the phone call telling me of my father's death, I was completely flustered.)"
             },
             {
                 "id": "ko-0073",
                 "w": "너",
                 "p": "neo",
-                "d": "you",
-                "s": ""
+                "d": "four",
+                "s": "너 그 사람을 오빠-동생으로 생각하니? 아니면 애인으로 사랑하니? (Do you love him like a brother or do you love-love him?)"
             },
             {
                 "id": "ko-0074",
                 "w": "하는",
                 "p": "haneun",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "d": "to do",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
                 "id": "ko-0075",
                 "w": "하고",
                 "p": "hago",
-                "d": "a conjunctive form of 하다 (hada)",
-                "s": ""
+                "d": "to do",
+                "s": "누군가는 톰에게 그걸 잘못된 방식으로 하고 있다고 말했어야 했다. (Someone should have told Tom that he was doing that the wrong way.)"
             },
             {
                 "id": "ko-0076",
                 "w": "아냐",
                 "p": "anya",
-                "d": "contraction of 아니야 (aniya, “no”)",
-                "s": ""
+                "d": "no",
+                "s": "넌 그다지 좋은 사람이 아냐. 너도 그건 알고 있지? (You are not a good person. You know that, right?)"
             },
             {
                 "id": "ko-0077",
                 "w": "나는",
                 "p": "naneun",
-                "d": "I (topic)",
-                "s": ""
+                "d": "I, me",
+                "s": "나는 네가 그렇게 하도록 강요하지는 않겠지만 그렇게 해야 할거야 (I won't force you to do that, but I think you should.)"
             },
             {
                 "id": "ko-0078",
                 "w": "아니야",
                 "p": "aniya",
-                "d": "it is not (informal)",
-                "s": ""
+                "d": "no",
+                "s": "난 네가 못 이긴다고 말하는 게 아니야. 그냥 가능성이 낮다는 거야. (I'm not saying that you can't win. I'm just saying it's not likely.)"
             },
             {
                 "id": "ko-0079",
                 "w": "알아",
                 "p": "ara",
-                "d": "to know (informal)",
-                "s": ""
+                "d": "to know, understand",
+                "s": "그 사람은 진짜 자신이 우주의 중심에 있는 줄 알아. (He really thinks he's the centre of the universe.)"
             },
             {
                 "id": "ko-0080",
                 "w": "같이",
                 "p": "gachi",
-                "d": "together",
-                "s": ""
+                "d": "together with",
+                "s": "난 오늘 톰과 다른 사람들이랑 같이 노래방에 가는데 너도 같이 갈래? (I'm going with Tom and the others to a karaoke bar today. Are you coming?)"
             },
             {
                 "id": "ko-0081",
                 "w": "응",
                 "p": "eung",
                 "d": "yes",
-                "s": ""
+                "s": "\"이 자동차들 다 네 거야?\" \"응, 다 내 거야.\" (\"Are these cars yours?\" \"Yes, they are mine.\")"
             },
             {
                 "id": "ko-0082",
                 "w": "이게",
                 "p": "ige",
-                "d": "this thing (as the subject of the sentence or clause)",
-                "s": ""
+                "d": "this",
+                "s": "이게 버그인지 아닌지 모르겠는데, 이 소프트웨어는 제대로 동작하지 않아. (I don't know if it's a bug or what, but this software doesn't work right.)"
             },
             {
                 "id": "ko-0083",
                 "w": "없어요",
                 "p": "eopseoyo",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "d": "to have none",
+                "s": "살면서 40분 차 타고 가는게 이렇게 길게 느껴졌던 적이 없어요. (It was the longest forty-minute drive of my life.)"
             },
             {
                 "id": "ko-0084",
                 "w": "괜찮아",
                 "p": "gwaenchana",
-                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
-                "s": ""
+                "d": "to be nice",
+                "s": "뱀파이어는 말했다. \"괜찮아. 안 물게.\" (\"It's okay. I won't bite\", said the vampire.)"
             },
             {
                 "id": "ko-0085",
                 "w": "오늘",
                 "p": "oneul",
                 "d": "today",
-                "s": ""
+                "s": "어제 술을 너무 많이 마셔서 오늘 머리가 깨질 것처럼 아파요. (I drank so much alcohol yesterday that my head feels like it will explode.)"
             },
             {
                 "id": "ko-0086",
                 "w": "말이야",
                 "p": "mariya",
-                "d": "I mean; you see",
-                "s": ""
+                "d": "speech",
+                "s": "솔직히 말이야, 톰, 난 기억이 안 나. 10년도 더 된 일이잖아. (Honestly, Tom, I can't remember. It was more than 10 years ago.)"
             },
             {
                 "id": "ko-0087",
                 "w": "줄",
                 "p": "jul",
-                "d": "line; way; method (bound noun)",
-                "s": ""
+                "d": "ability, method",
+                "s": "넌 네가 깨어있는 줄 알지만, 사실은 꿈꾸고 있을 수도 있어. (You think you're awake, but you may, in fact, be dreaming.)"
             },
             {
                 "id": "ko-0088",
                 "w": "또",
                 "p": "tto",
-                "d": "also; again",
-                "s": ""
+                "d": "also",
+                "s": "난 또 몇 달러를 간신히 구해야 할 것 같아. (I'll have to scrounge up another couple of dollars.)"
             },
             {
                 "id": "ko-0089",
                 "w": "널",
                 "p": "neol",
-                "d": "you (object)",
-                "s": ""
+                "d": "panel, board, plank",
+                "s": "그는 항상 널 지켜봤어. 널 좋아하는 게 분명해. (He's always looking at you. He must love you.)"
             },
             {
                 "id": "ko-0090",
                 "w": "누가",
                 "p": "nuga",
-                "d": "who (subject)",
-                "s": ""
+                "d": "who",
+                "s": "누가 거기에 갈지 나보고 결정하게 하다니 너 참 잔인하구나. (You are so cruel to make me decide who should go there.)"
             },
             {
                 "id": "ko-0091",
                 "w": "어떤",
                 "p": "eotteon",
-                "d": "what kind of; some, any",
-                "s": ""
+                "d": "what kind of",
+                "s": "운좋게도 나는 어떤 중대한 오류도 없이 일을 끝마칠 수 있었어. (Fortunately I was able to finish my work without any serious errors.)"
             },
             {
                 "id": "ko-0092",
                 "w": "아주",
                 "p": "aju",
                 "d": "very",
-                "s": ""
+                "s": "나는 톰이 체스를 아주 잘 둔다는 것을 알고 있어. (I know Tom is a very good chess player.)"
             },
             {
                 "id": "ko-0093",
                 "w": "말",
                 "p": "mal",
-                "d": "word; speech; horse",
-                "s": ""
+                "d": "speech",
+                "s": "그는 사람들에게 말 한 마디 없이 사무실을 떠났다. (He left the office without saying a word to anyone.)"
             },
             {
                 "id": "ko-0094",
                 "w": "아직",
                 "p": "ajik",
-                "d": "still; yet, not yet",
-                "s": ""
+                "d": "still",
+                "s": "나의 사촌이 아직 어려서, 그들은 그에게 좀 더 기회를 줬다. (Because my nephew was still young, they cut him some slack.)"
             },
             {
                 "id": "ko-0095",
                 "w": "안돼",
                 "p": "andwae",
-                "d": "it is not allowed; no",
-                "s": ""
+                "d": "to fail",
+                "s": "네가 이해가 안돼. (I don't understand you.)"
             },
             {
                 "id": "ko-0096",
                 "w": "진짜",
                 "p": "jinjja",
                 "d": "really",
-                "s": ""
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0097",
                 "w": "모두",
                 "p": "modu",
-                "d": "all",
-                "s": ""
+                "d": "all, wholly",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
                 "id": "ko-0098",
                 "w": "마",
                 "p": "ma",
-                "d": "Do",
-                "s": ""
+                "d": "jinx",
+                "s": "그건 내 생각이 아니라 톰의 생각이었어. 내 탓 하지 마. (It was Tom's idea, not mine. Don't blame me.)"
             },
             {
                 "id": "ko-0099",
                 "w": "같은",
                 "p": "gateun",
-                "d": "same",
-                "s": ""
+                "d": "the same",
+                "s": "기름이나 석탄과 같은 원자재의 가격이 계속 상승하고 있다. (The prices of raw materials such as oil or coal continue to rise.)"
             },
             {
                 "id": "ko-0100",
                 "w": "여기서",
                 "p": "yeogiseo",
                 "d": "from here",
-                "s": ""
+                "s": "여기서 나갈 방법이 있다면 우리는 찾을 수 있을거야 (If there's a way out of here, we'll find it.)"
             },
             {
                 "id": "ko-0101",
                 "w": "어서",
                 "p": "eoseo",
-                "d": "quickly; an expression hard to translate in English; usually used with 오다 (oda) and its compounds to show one is welcome somewhere.",
-                "s": ""
+                "d": "quickly",
+                "s": "너 집으로 돌아가는 게 좋을 것 같아. 어서. (You should go back home, quickly.)"
             },
             {
                 "id": "ko-0102",
                 "w": "그는",
                 "p": "geuneun",
-                "d": "he (topic)",
-                "s": ""
+                "d": "to become suntanned",
+                "s": "그는 그 직업을 위해 훈련은 받았지만, 실제로 일한 적은 없어. (Although he trained in the profession, he never practised it.)"
             },
             {
                 "id": "ko-0103",
                 "w": "위해",
                 "p": "wihae",
-                "d": "for; for the sake of",
-                "s": ""
+                "d": "harm",
+                "s": "그는 그 직업을 위해 훈련은 받았지만, 실제로 일한 적은 없어. (Although he trained in the profession, he never practised it.)"
             },
             {
                 "id": "ko-0104",
                 "w": "해요",
                 "p": "haeyo",
-                "d": "informal polite present indicative form of 하다 (hada, “to do”); informal polite present interrogative form of 하다 (hada, “to do”)",
-                "s": ""
+                "d": "to do",
+                "s": "진수 씨가 저를 도와주신 것을 감사하는 뜻으로 저녁에 초대하려고 해요. (I wanted to invite Mr. Jinsu this evening to thank him for helping me earlier.)"
             },
             {
                 "id": "ko-0105",
                 "w": "일이",
                 "p": "iri",
-                "d": "work (subject); matter (subject)",
-                "s": ""
+                "d": "one or two",
+                "s": "그 일이 일어난 이유를 톰이 알고 있다고는 생각하지 않아. (I don't think that Tom knows why it happened.)"
             },
             {
                 "id": "ko-0106",
                 "w": "하지",
                 "p": "haji",
-                "d": "do not (with -지 마); do",
-                "s": ""
+                "d": "summer solstice",
+                "s": "모두 천국에 가고 싶어 하나, 누구도 죽고 싶어 하지 않는다. (Everyone wants to go to heaven, but nobody wants to die.)"
             },
             {
                 "id": "ko-0107",
                 "w": "엄마",
                 "p": "eomma",
                 "d": "mum, mummy",
-                "s": ""
+                "s": "엄마, 난 이걸 입고 싶지 않아요. (Mom, I don't want to wear this.)"
             },
             {
                 "id": "ko-0108",
                 "w": "바로",
                 "p": "baro",
-                "d": "truly, without lie or deception; straight, without curvature",
-                "s": ""
+                "d": "truly",
+                "s": "화성에는 두 개의 작은 달이 있어. 그건 바로 포보스와 데이모스야. (Mars has two small moons, Phobos and Deimos.)"
             },
             {
                 "id": "ko-0109",
                 "w": "가",
                 "p": "ga",
-                "d": "go",
-                "s": ""
+                "d": "border, edge, end",
+                "s": "한때 일주일에 한번 수영하러 가곤 했었는데, 이젠 더 이상 안 가. (I used to go swimming once a week, but I don't anymore.)"
             },
             {
                 "id": "ko-0110",
                 "w": "근데",
                 "p": "geunde",
-                "d": "however; but; by the way",
-                "s": ""
+                "d": "however",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
                 "id": "ko-0111",
                 "w": "알고",
                 "p": "algo",
-                "d": "knowing; to know and",
-                "s": ""
+                "d": "to know, understand",
+                "s": "그 여자는 그 남자의 사생활에 대해 전혀 알고 싶어하질 않던데. (She didn't want to know anything about his personal life.)"
             },
             {
                 "id": "ko-0112",
                 "w": "이렇게",
                 "p": "ireoke",
                 "d": "like this, this way",
-                "s": ""
+                "s": "살면서 40분 차 타고 가는게 이렇게 길게 느껴졌던 적이 없어요. (It was the longest forty-minute drive of my life.)"
             },
             {
                 "id": "ko-0113",
                 "w": "빨리",
                 "p": "ppalli",
-                "d": "quickly, without delay; often used when urging someone to hurry",
-                "s": ""
+                "d": "quickly, without delay",
+                "s": "해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다. (I found a solution, but I found it so fast that it can't be the right solution.)"
             },
             {
                 "id": "ko-0114",
                 "w": "있습니다",
                 "p": "itseumnida",
-                "d": "to exist; to have (formal polite)",
-                "s": ""
+                "d": "to stay",
+                "s": "일 년에는 네 계절이 있습니다: 봄, 여름, 가을, 겨울입니다. (There are four seasons in a year: spring, summer, autumn and winter.)"
             },
             {
                 "id": "ko-0115",
                 "w": "이거",
                 "p": "igeo",
-                "d": "this; this thing",
-                "s": ""
+                "d": "this",
+                "s": "이거 싸구려 같아 보이네. 톰이 좋아하겠어. (It looks tacky. Tom will love it.)"
             },
             {
                 "id": "ko-0116",
                 "w": "전에",
                 "p": "jeone",
-                "d": "before; ago",
-                "s": ""
+                "d": "formerly",
+                "s": "결론을 내기 전에 일단 톰의 의견을 들어 두고 싶구먼. (I'd like to hear Tom's opinion at least once before we come to a conclusion.)"
             },
             {
                 "id": "ko-0117",
                 "w": "어",
                 "p": "eo",
-                "d": "uh",
-                "s": ""
+                "d": "uh-huh, yes",
+                "s": "어, 비가 언제부터 왔냐, 전혀 몰랐네. (Eh? When did it start raining? I didn't notice at all.)"
             },
             {
                 "id": "ko-0118",
                 "w": "아뇨",
                 "p": "anyo",
-                "d": "contraction of 아니요 (aniyo, “no”)",
-                "s": ""
+                "d": "no",
+                "s": "\"지난 주에 티비 보셨나요?\" \"아뇨.\" (\"Did you watch television last week?\" \"No.\")"
             },
             {
                 "id": "ko-0119",
                 "w": "계속",
                 "p": "gyesok",
-                "d": "continue",
-                "s": ""
+                "d": "continuously",
+                "s": "기름이나 석탄과 같은 원자재의 가격이 계속 상승하고 있다. (The prices of raw materials such as oil or coal continue to rise.)"
             },
             {
                 "id": "ko-0120",
-                "w": "닥터",
-                "p": "dakteo",
-                "d": "doctor",
-                "s": ""
+                "w": "얼마나",
+                "p": "eolmana",
+                "d": "how long",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
             },
             {
                 "id": "ko-0121",
-                "w": "얼마나",
-                "p": "eolmana",
-                "d": "how long, how much, how many",
-                "s": ""
+                "w": "될",
+                "p": "doel",
+                "d": "to become",
+                "s": "톰은 마리가 존이 그걸 하면 안 될 거라는 걸 알았다고 말했다. (Tom said that Mary knew that John might not be allowed to do that.)"
             },
             {
                 "id": "ko-0122",
-                "w": "될",
-                "p": "doel",
-                "d": "be",
-                "s": ""
+                "w": "알았어",
+                "p": "arasseo",
+                "d": "to know, understand",
+                "s": "도널드 얘기 때문에 우리 진짜 지루해 죽는 줄 알았어. (Donald's stories bored us to death.)"
             },
             {
                 "id": "ko-0123",
-                "w": "알았어",
-                "p": "arasseo",
-                "d": "Okay",
-                "s": ""
+                "w": "않아",
+                "p": "ana",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그 사람은 자신의 아버지가 가난하다는 사실을 부끄러워하지 않아. (He’s not ashamed of the fact that his father is poor.)"
             },
             {
                 "id": "ko-0124",
-                "w": "않아",
-                "p": "ana",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-0125",
                 "w": "제발",
                 "p": "jebal",
                 "d": "please",
-                "s": ""
+                "s": "제발 제 말 좀 믿어 주세요. (Please believe me.)"
+            },
+            {
+                "id": "ko-0125",
+                "w": "있지",
+                "p": "itji",
+                "d": "to stay",
+                "s": "사실 난 잠자고 있지 않았고, 모든 것을 듣고 있었다. (I actually wasn't asleep, and heard everything.)"
             },
             {
                 "id": "ko-0126",
-                "w": "있지",
-                "p": "itji",
-                "d": "you know; right?",
-                "s": ""
+                "w": "겁니다",
+                "p": "geomnida",
+                "d": "thing",
+                "s": "물이 없었다면 인류의 생존은 가능하지 않았을 겁니다. (If it were not for water, human life would be impossible.)"
             },
             {
                 "id": "ko-0127",
-                "w": "겁니다",
-                "p": "geomnida",
-                "d": "it is (formal polite)",
-                "s": ""
-            },
-            {
-                "id": "ko-0128",
                 "w": "어디",
                 "p": "eodi",
                 "d": "where",
-                "s": ""
+                "s": "지금 몇시라고 생각하는 거야? 이런 늦은 시각까지 어디 있었던 거야? (Do you realize what time it is? What were you up to at this time of night?)"
+            },
+            {
+                "id": "ko-0128",
+                "w": "사람이",
+                "p": "sarami",
+                "d": "human being, person",
+                "s": "톰이 외로워서 누군가 말을 걸 사람이 있었으면 좋겠다고 기도했어. (Tom was lonely and wished he had someone to talk to.)"
             },
             {
                 "id": "ko-0129",
-                "w": "사람이",
-                "p": "sarami",
-                "d": "person (subject)",
-                "s": ""
+                "w": "그가",
+                "p": "geuga",
+                "d": "that",
+                "s": "톰은 메리에게 왜 그가 늦게까지 일해야 했는지 알려주지 않았다. (Tom didn't tell Mary why he had to work late.)"
             },
             {
                 "id": "ko-0130",
-                "w": "그가",
-                "p": "geuga",
-                "d": "he (subject)",
-                "s": ""
+                "w": "안녕",
+                "p": "annyeong",
+                "d": "peace",
+                "s": "안녕! 난 심이라고 해. (Hello! I'll call him Sim.)"
             },
             {
                 "id": "ko-0131",
-                "w": "안녕",
-                "p": "annyeong",
-                "d": "hello",
-                "s": ""
+                "w": "좋아요",
+                "p": "joayo",
+                "d": "like",
+                "s": "저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요. (I’m not picky. Anyone who has a good personality is fine for me.)"
             },
             {
                 "id": "ko-0132",
-                "w": "좋아요",
-                "p": "joayo",
-                "d": "it is good; okay (polite)",
-                "s": ""
+                "w": "같아",
+                "p": "gata",
+                "d": "the same",
+                "s": "내 생각에는 그가 중요한 사실들을 빠뜨리고 있는 것 같아. (I think he could be omitting important facts.)"
             },
             {
                 "id": "ko-0133",
-                "w": "같아",
-                "p": "gata",
-                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
-                "s": ""
+                "w": "우리는",
+                "p": "urineun",
+                "d": "to soak out",
+                "s": "그 연못은 얼어있어서 지금 우리는 아이스 스케이팅을 할 수 있다. (The pond has frozen, so we can now go ice skating.)"
             },
             {
                 "id": "ko-0134",
-                "w": "우리는",
-                "p": "urineun",
-                "d": "we (topic)",
-                "s": ""
+                "w": "그래요",
+                "p": "geuraeyo",
+                "d": "to be thus, in that way",
+                "s": "네, 그래요. 공기 중에 습기가 너무 많아요. (Yes, it is. There's a lot of moisture in the air.)"
             },
             {
                 "id": "ko-0135",
-                "w": "그래요",
-                "p": "geuraeyo",
-                "d": "yes; that is right (polite)",
-                "s": ""
+                "w": "당신을",
+                "p": "dangsineul",
+                "d": "you",
+                "s": "당신을 도와줄 수 있는 괜찮은 변호사를 알고 있습니다. (I know a good lawyer who can help you.)"
             },
             {
                 "id": "ko-0136",
-                "w": "당신을",
-                "p": "dangsineul",
-                "d": "you (object)",
-                "s": ""
+                "w": "자",
+                "p": "ja",
+                "d": "10²⁴",
+                "s": "난 보통 여덟 시간 정도 자. (I usually sleep for eight hours.)"
             },
             {
                 "id": "ko-0137",
-                "w": "자",
-                "p": "ja",
-                "d": "Now",
-                "s": ""
+                "w": "그걸",
+                "p": "geugeol",
+                "d": "that",
+                "s": "톰은 마리가 존이 그걸 하면 안 될 거라는 걸 알았다고 말했다. (Tom said that Mary knew that John might not be allowed to do that.)"
             },
             {
                 "id": "ko-0138",
-                "w": "그걸",
-                "p": "geugeol",
-                "d": "that (object)",
-                "s": ""
-            },
-            {
-                "id": "ko-0139",
                 "w": "두",
                 "p": "du",
                 "d": "two",
-                "s": ""
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
+            },
+            {
+                "id": "ko-0139",
+                "w": "아니에요",
+                "p": "anieyo",
+                "d": "to not be",
+                "s": "그분은 절대 그런 걸 할 사람이 아니에요. (He is above doing such a thing.)"
             },
             {
                 "id": "ko-0140",
-                "w": "아니에요",
-                "p": "anieyo",
-                "d": "to not be (something)",
-                "s": ""
+                "w": "있을",
+                "p": "isseul",
+                "d": "to stay",
+                "s": "넌 네가 깨어있는 줄 알지만, 사실은 꿈꾸고 있을 수도 있어. (You think you're awake, but you may, in fact, be dreaming.)"
             },
             {
                 "id": "ko-0141",
-                "w": "있을",
-                "p": "isseul",
-                "d": "that will exist; will have",
-                "s": ""
+                "w": "때문에",
+                "p": "ttaemune",
+                "d": "because of this",
+                "s": "나는 소음 때문에 내 목소리가 들리게 하는 것이 어려웠다. (I found it difficult to make myself heard because of the noise.)"
             },
             {
                 "id": "ko-0142",
-                "w": "때문에",
-                "p": "ttaemune",
-                "d": "because of this, because of the aforementioned",
-                "s": ""
+                "w": "대해",
+                "p": "daehae",
+                "d": "to pertain or relate to a topic",
+                "s": "당신은 그 여자에게 거리를 두고 지낸 것에 대해 사과해야 한다. (You should apologize to her for being so distant.)"
             },
             {
                 "id": "ko-0143",
-                "w": "대해",
-                "p": "daehae",
-                "d": "about; regarding",
-                "s": ""
-            },
-            {
-                "id": "ko-0144",
                 "w": "아빠",
                 "p": "appa",
                 "d": "dad, papa",
-                "s": ""
+                "s": "그 가족은 아빠, 엄마, 두 아이, 이렇게 네 명입니다. (There are four people in the family: a father, a mother, and two children.)"
+            },
+            {
+                "id": "ko-0144",
+                "w": "몇",
+                "p": "myeot",
+                "d": "how many",
+                "s": "실례합니다. 대전에 가는 다음 기차가 몇 시에 있습니까? (Excuse me. What time is the next train to Taejon?)"
             },
             {
                 "id": "ko-0145",
-                "w": "몇",
-                "p": "myeot",
-                "d": "how many; which number",
-                "s": ""
+                "w": "사람",
+                "p": "saram",
+                "d": "human being, person",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
                 "id": "ko-0146",
-                "w": "사람",
-                "p": "saram",
-                "d": "person",
-                "s": ""
+                "w": "했어",
+                "p": "haesseo",
+                "d": "to do",
+                "s": "톰은 메리가 존한테 뭘 해야 하는지 말해줄 필요는 없다고 했어. (Tom said he didn't think Mary needed to tell John what to do.)"
             },
             {
                 "id": "ko-0147",
-                "w": "했어",
-                "p": "haesseo",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "w": "뭐야",
+                "p": "mwoya",
+                "d": "what",
+                "s": "난 막 버스가 떠난 후에야 버스 정류장에 도착했지 뭐야. (I arrived at the bus stop just after the bus left.)"
             },
             {
                 "id": "ko-0148",
-                "w": "뭐야",
-                "p": "mwoya",
-                "d": "What is it",
-                "s": ""
+                "w": "수도",
+                "p": "sudo",
+                "d": "capital",
+                "s": "넌 네가 깨어있는 줄 알지만, 사실은 꿈꾸고 있을 수도 있어. (You think you're awake, but you may, in fact, be dreaming.)"
             },
             {
                 "id": "ko-0149",
-                "w": "수도",
-                "p": "sudo",
-                "d": "capital; (it) can also",
-                "s": ""
+                "w": "많이",
+                "p": "mani",
+                "d": "many",
+                "s": "어제 술을 너무 많이 마셔서 오늘 머리가 깨질 것처럼 아파요. (I drank so much alcohol yesterday that my head feels like it will explode.)"
             },
             {
                 "id": "ko-0150",
-                "w": "많이",
-                "p": "mani",
-                "d": "many, much, a lot, plenty, in abundance",
-                "s": ""
+                "w": "집에",
+                "p": "jibe",
+                "d": "home, house",
+                "s": "난 집에 이런 쓰레기 들여놓지 않는다, 대놓고 말하마. 꺼져! (I do not take shit home, I tell straight away. Fuck off!)"
             },
             {
                 "id": "ko-0151",
-                "w": "집에",
-                "p": "jibe",
-                "d": "at home; to home",
-                "s": ""
+                "w": "거지",
+                "p": "geoji",
+                "d": "thing",
+                "s": "사실 검정은 색깔이 아니야; 색이 없는 거지. (In reality black is not a color; it is the absence of color.)"
             },
             {
                 "id": "ko-0152",
-                "w": "거지",
-                "p": "geoji",
-                "d": "right?; of course",
-                "s": ""
+                "w": "일을",
+                "p": "ireul",
+                "d": "work",
+                "s": "나는 지난주에 톰이 보스턴에서 그 일을 할 것이라는 걸 몰랐다. (I didn't know that Tom was going to do that in Boston last week.)"
             },
             {
                 "id": "ko-0153",
-                "w": "일을",
-                "p": "ireul",
-                "d": "work (object)",
-                "s": ""
+                "w": "저는",
+                "p": "jeoneun",
+                "d": "I, me",
+                "s": "저는 남은 인생을 그것에 대해 후회하면서 지내고 싶지 않아요. (I don't want to spend the rest of my life regretting it.)"
             },
             {
                 "id": "ko-0154",
-                "w": "저는",
-                "p": "jeoneun",
-                "d": "I (polite, topic)",
-                "s": ""
+                "w": "음",
+                "p": "eum",
+                "d": "hmm, umm, uh",
+                "s": "음, 이건 좀 아니지 않아? (Uh, isn't this kind of wrong?)"
             },
             {
                 "id": "ko-0155",
-                "w": "음",
-                "p": "eum",
-                "d": "um",
-                "s": ""
+                "w": "그렇지",
+                "p": "geureochi",
+                "d": "yes",
+                "s": "그는 사실대로 털어놓았다. 그렇지 않았다면 처벌받았을 것이다. (He told the truth, otherwise he would have been punished.)"
             },
             {
                 "id": "ko-0156",
-                "w": "그렇지",
-                "p": "geureochi",
-                "d": "yes; isn't it? aren't you?, etc. (seeking confirmation)",
-                "s": ""
-            },
-            {
-                "id": "ko-0157",
                 "w": "함께",
                 "p": "hamkke",
                 "d": "together",
-                "s": ""
+                "s": "추워지는 날씨와 함께 어느덧 소설의 절기를 맞이하고 있습니다. (Along with the cold weather, the Minor Snow solar term is coming.)"
+            },
+            {
+                "id": "ko-0157",
+                "w": "만약",
+                "p": "manyak",
+                "d": "if, in the event that",
+                "s": "만약 벽이 말을 할 수 있다면, 그 벽이 어떤 이야기를 하게 될까? (If walls could talk, what stories would they tell us?)"
             },
             {
                 "id": "ko-0158",
-                "w": "만약",
-                "p": "manyak",
-                "d": "if, in the event that.",
-                "s": ""
-            },
-            {
-                "id": "ko-0159",
                 "w": "하나",
                 "p": "hana",
                 "d": "one",
-                "s": ""
+                "s": "하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열. (One, two, three, four, five, six, seven, eight, nine, ten.)"
+            },
+            {
+                "id": "ko-0159",
+                "w": "저기",
+                "p": "jeogi",
+                "d": "over there",
+                "s": "저기 단체로 무슨 일이야? (What happened to all those people?)"
             },
             {
                 "id": "ko-0160",
-                "w": "저기",
-                "p": "jeogi",
-                "d": "over there; excuse me",
-                "s": ""
+                "w": "고마워요",
+                "p": "gomawoyo",
+                "d": "thankful",
+                "s": "도와줘서 고마워요, 톰. (Thanks for your help, Tom.)"
             },
             {
                 "id": "ko-0161",
-                "w": "고마워요",
-                "p": "gomawoyo",
-                "d": "thank you (polite)",
-                "s": ""
-            },
-            {
-                "id": "ko-0162",
                 "w": "항상",
                 "p": "hangsang",
                 "d": "always",
-                "s": ""
+                "s": "당신이 세계를 여행하는 동안, 항상 잘먹는 것이 가능하지는 않습니다. (It's not always possible to eat well when you're traveling in this part of the world.)"
+            },
+            {
+                "id": "ko-0162",
+                "w": "나한테",
+                "p": "nahante",
+                "d": "I, me",
+                "s": "네가 고양이 알레르기가 있다는 걸 톰이 나한테 말했어. (Tom told me you were allergic to cats.)"
             },
             {
                 "id": "ko-0163",
-                "w": "나한테",
-                "p": "nahante",
-                "d": "to me",
-                "s": ""
+                "w": "잠깐",
+                "p": "jamkkan",
+                "d": "for a short time",
+                "s": "잠깐 실례합니다. (Excuse me a minute.)"
             },
             {
                 "id": "ko-0164",
-                "w": "잠깐",
-                "p": "jamkkan",
-                "d": "a moment; wait",
-                "s": ""
+                "w": "가서",
+                "p": "gaseo",
+                "d": "to go",
+                "s": "나는 한국에 가서 맛있는 것을 먹고 싶다. (I'm going to Korea and want to eat good food.)"
             },
             {
                 "id": "ko-0165",
-                "w": "가서",
-                "p": "gaseo",
-                "d": "go and; having gone",
-                "s": ""
+                "w": "가장",
+                "p": "gajang",
+                "d": "most, -est",
+                "s": "나는 너의 가장 친한 친구도 가장 나쁜 적도 될 수 있어. (I can be your best friend or your worst enemy.)"
             },
             {
                 "id": "ko-0166",
-                "w": "가장",
-                "p": "gajang",
-                "d": "most",
-                "s": ""
+                "w": "돼요",
+                "p": "dwaeyo",
+                "d": "to become",
+                "s": "절대 안 돼요. 오늘 너무 추워요. (Absolutely not. It's too cold today.)"
             },
             {
                 "id": "ko-0167",
-                "w": "돼요",
-                "p": "dwaeyo",
-                "d": "it is okay; it works",
-                "s": ""
+                "w": "거죠",
+                "p": "geojyo",
+                "d": "thing",
+                "s": "당신은 아직 은퇴하지 않은 거죠, 그렇죠? (You're not retired yet, are you?)"
             },
             {
                 "id": "ko-0168",
-                "w": "거죠",
-                "p": "geojyo",
-                "d": "right?; that is",
-                "s": ""
+                "w": "가자",
+                "p": "gaja",
+                "d": "Gaza",
+                "s": "뭘 꾸물거리고 있는 거야. 빨리 가자. (What are you lingering for? Hurry up and go.)"
             },
             {
                 "id": "ko-0169",
-                "w": "가자",
-                "p": "gaja",
-                "d": "let us go",
-                "s": ""
+                "w": "맞아",
+                "p": "maja",
+                "d": "to be correct, right",
+                "s": "톰은 핼러윈을 맞아 카우보이처럼 옷을 입었다. (Tom dressed up as cowboy for Halloween.)"
             },
             {
                 "id": "ko-0170",
-                "w": "맞아",
-                "p": "maja",
-                "d": "That's right",
-                "s": ""
+                "w": "보고",
+                "p": "bogo",
+                "d": "report, information",
+                "s": "나는 방과후에 교실을 청소하는 학생들을 보고 몹시 놀랐다. (I was very surprised to see students cleaning their classroom after school.)"
             },
             {
                 "id": "ko-0171",
-                "w": "보고",
-                "p": "bogo",
-                "d": "seeing; see and",
-                "s": ""
+                "w": "와",
+                "p": "wa",
+                "d": "wa",
+                "s": "오늘 오후 두시에서 세시 사이에 여기로 와 주세요. (Please come here between two and three this afternoon.)"
             },
             {
                 "id": "ko-0172",
-                "w": "와",
-                "p": "wa",
-                "d": "Wow",
-                "s": ""
+                "w": "그거",
+                "p": "geugeo",
+                "d": "that",
+                "s": "톰이랑 메리는 그거 자기들끼리 하긴 싫다고 했어. (Tom and Mary said they don't want to do that on their own.)"
             },
             {
                 "id": "ko-0173",
-                "w": "그거",
-                "p": "geugeo",
-                "d": "it, that thing",
-                "s": ""
+                "w": "말을",
+                "p": "mareul",
+                "d": "speech",
+                "s": "톰이 외로워서 누군가 말을 걸 사람이 있었으면 좋겠다고 기도했어. (Tom was lonely and wished he had someone to talk to.)"
             },
             {
                 "id": "ko-0174",
-                "w": "말을",
-                "p": "mareul",
-                "d": "words; speech (object)",
-                "s": ""
+                "w": "괜찮아요",
+                "p": "gwaenchanayo",
+                "d": "to be nice",
+                "s": "손 들고 질문해도 괜찮아요. (It's okay to raise your hand and ask a question.)"
             },
             {
                 "id": "ko-0175",
-                "w": "괜찮아요",
-                "p": "gwaenchanayo",
-                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
-                "s": ""
+                "w": "아무도",
+                "p": "amudo",
+                "d": "anything",
+                "s": "당신이 승인하지 않으면 난 아무도 고용하지 않을 것이다. (I won't hire anyone without your approval.)"
             },
             {
                 "id": "ko-0176",
-                "w": "아무도",
-                "p": "amudo",
-                "d": "anything; nothing (in a negative sentence)",
-                "s": ""
+                "w": "없는",
+                "p": "eopneun",
+                "d": "to have none",
+                "s": "레일라는 정체를 알 수 없는 남자에게 살금살금 쫓기고 있었다. (Layla was being stalked by a mysterious man.)"
             },
             {
                 "id": "ko-0177",
-                "w": "없는",
-                "p": "eomneun",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "w": "안녕하세요",
+                "p": "annyeonghaseyo",
+                "d": "How are you?",
+                "s": "안녕하세요,예약을 했는데요, 제이름은 카오리 요시카와 입니다. 확인카드는 여기있습니다. (Hello, I have a reservation, my name is Kaori Yoshikawa. Here is the confirmation card.)"
             },
             {
                 "id": "ko-0178",
-                "w": "안녕하세요",
-                "p": "annyeonghaseyo",
-                "d": "How are you?; Hello",
-                "s": ""
+                "w": "몰라",
+                "p": "molla",
+                "d": "to not know",
+                "s": "난 이 문장을 러시아어로 어떻게 번역해야 할지 몰라. (I don't know how to translate this sentence into Russian.)"
             },
             {
                 "id": "ko-0179",
-                "w": "몰라",
-                "p": "molla",
-                "d": "informal present form of 모르다 (moreuda, “not to know”); informal interrogative form of 모르다 (moreuda, “not to know”)",
-                "s": ""
-            },
-            {
-                "id": "ko-0180",
                 "w": "일",
                 "p": "il",
                 "d": "work",
-                "s": ""
+                "s": "일 년에는 네 계절이 있습니다: 봄, 여름, 가을, 겨울입니다. (There are four seasons in a year: spring, summer, autumn and winter.)"
+            },
+            {
+                "id": "ko-0180",
+                "w": "많은",
+                "p": "maneun",
+                "d": "many",
+                "s": "그래서 나는 여행을 사랑하고, 많은 문화와 언어를 경험하고 싶다. (That's why I like traveling, and would like to experience many different cultures.)"
             },
             {
                 "id": "ko-0181",
-                "w": "많은",
-                "p": "maneun",
-                "d": "present determiner of 많다 (manta)",
-                "s": ""
+                "w": "당신의",
+                "p": "dangsinui",
+                "d": "you",
+                "s": "당신의 실패를 당신의 부모님 탓으로 돌리는것은 옳지 않습니다 (It's not fair to attribute your failure to your parents.)"
             },
             {
                 "id": "ko-0182",
-                "w": "당신의",
-                "p": "dangsinui",
-                "d": "your",
-                "s": ""
+                "w": "아무것도",
+                "p": "amugeotdo",
+                "d": "any",
+                "s": "내향적인 사람은 아무것도 없는 작은 방에서 더없이 행복하지. (An introvert is perfectly happy in a tiny little room with nothing.)"
             },
             {
                 "id": "ko-0183",
-                "w": "아무것도",
-                "p": "amugeotdo",
-                "d": "nothing",
-                "s": ""
+                "w": "그러니까",
+                "p": "geureonikka",
+                "d": "therefore, accordingly",
+                "s": "나는 그녀를 닷새 전, 그러니까 지난 금요일에 역에서 봤다. (I saw her at the station five days ago, that is, last Friday.)"
             },
             {
                 "id": "ko-0184",
-                "w": "그러니까",
-                "p": "geureonikka",
-                "d": "So",
-                "s": ""
-            },
-            {
-                "id": "ko-0185",
                 "w": "큰",
                 "p": "keun",
                 "d": "big",
-                "s": ""
+                "s": "6시는 큰 바늘이 12에 있고, 작은 바늘이 6에 있을 때야. (Six o'clock is when the big hand is on 12 and the small hand is on 6.)"
+            },
+            {
+                "id": "ko-0185",
+                "w": "알아요",
+                "p": "arayo",
+                "d": "to know, understand",
+                "s": "밖에서 저를 부르고 있는 사람이 누군지 알아요? (Do you know who is calling me from outside?)"
             },
             {
                 "id": "ko-0186",
-                "w": "알아요",
-                "p": "arayo",
-                "d": "to know (polite)",
-                "s": ""
-            },
-            {
-                "id": "ko-0187",
                 "w": "그의",
                 "p": "geuui",
                 "d": "his",
-                "s": ""
+                "s": "톰은 절대 밤 10시 이후에 그의 아이들이 티비를 보게 하지 않는다. (Tom never lets his children watch TV after 10:00 p.m.)"
+            },
+            {
+                "id": "ko-0187",
+                "w": "뭐가",
+                "p": "mwoga",
+                "d": "what",
+                "s": "톰은 뭐가 잘못됐는지 알아챘어. (Tom found out what went wrong.)"
             },
             {
                 "id": "ko-0188",
-                "w": "뭐가",
-                "p": "mwoga",
-                "d": "what (subject)",
-                "s": ""
+                "w": "고마워",
+                "p": "gomawo",
+                "d": "thanks",
+                "s": "적어도 \"고마워\"라고는 해줘야지. (You might at least say \"thank you.\")"
             },
             {
                 "id": "ko-0189",
-                "w": "고마워",
-                "p": "gomawo",
-                "d": "thank you",
-                "s": ""
+                "w": "그만",
+                "p": "geuman",
+                "d": "this much only",
+                "s": "벌써 저녁이네. 피곤해서 글쓰기는 그만 끝내야겠다. 잘자! (It's already evening, I'm tired and have to finish writing. Good night!)"
             },
             {
                 "id": "ko-0190",
-                "w": "그만",
-                "p": "geuman",
-                "d": "this much only; no more. often used in imperatives.",
-                "s": ""
+                "w": "했어요",
+                "p": "haesseoyo",
+                "d": "to do",
+                "s": "내가 그 사람한테 사진 좀 찍어 달라고 했어요. (I asked him to take some pictures.)"
             },
             {
                 "id": "ko-0191",
-                "w": "했어요",
-                "p": "haesseoyo",
-                "d": "did (polite)",
-                "s": ""
-            },
-            {
-                "id": "ko-0192",
                 "w": "젠장",
                 "p": "jenjang",
                 "d": "damn it!",
                 "s": ""
             },
             {
-                "id": "ko-0193",
+                "id": "ko-0192",
                 "w": "사람들이",
                 "p": "saramdeuri",
-                "d": "people",
-                "s": ""
+                "d": "people, persons",
+                "s": "지베르니에는 모네의 집이랑 정원을 보러 온 사람들이 많다. (There were many people at Giverny to see Monet's house and gardens.)"
+            },
+            {
+                "id": "ko-0193",
+                "w": "거에요",
+                "p": "geoeyo",
+                "d": "thing",
+                "s": "나는 친구와 함께 9월 3일에 로스앤젤레스에서 서울에 갈 거에요. (On September 3rd, I will go from Los Angeles to Seoul with a friend.)"
             },
             {
                 "id": "ko-0194",
-                "w": "거에요",
-                "p": "geoeyo",
-                "d": "it is; it will be",
-                "s": ""
+                "w": "이걸",
+                "p": "igeol",
+                "d": "this",
+                "s": "톰은 이걸 어떻게 하는지를 자기 할아버지한테서 배웠어. (Tom learned how to do that from his grandfather.)"
             },
             {
                 "id": "ko-0195",
-                "w": "이걸",
-                "p": "igeol",
-                "d": "this (object)",
-                "s": ""
+                "w": "그럴",
+                "p": "geureol",
+                "d": "to be thus, in that way",
+                "s": "난 톰한테 내가 다음 부턴 절대 안 그럴 거라고 단언했어. (I assured Tom I wouldn't do that anymore.)"
             },
             {
                 "id": "ko-0196",
-                "w": "그럴",
-                "p": "geureol",
-                "d": "will do so; such",
-                "s": ""
+                "w": "것도",
+                "p": "geotdo",
+                "d": "thing",
+                "s": "전혀 위험을 감수하지 않으면, 아무 것도 얻을 수 없다. (One who doesn't take risks will not win.)"
             },
             {
                 "id": "ko-0197",
-                "w": "것도",
-                "p": "geotdo",
-                "d": "thing too; even",
-                "s": ""
+                "w": "말이",
+                "p": "mari",
+                "d": "speech",
+                "s": "다른 할 말이 없으면, 나한테 인사할 필요가 없어. (There's no point saying \"Hi, how are you?\" to me if you have nothing else to say.)"
             },
             {
                 "id": "ko-0198",
-                "w": "말이",
-                "p": "mari",
-                "d": "words (subject); speech (subject)",
-                "s": ""
-            },
-            {
-                "id": "ko-0199",
                 "w": "이미",
                 "p": "imi",
                 "d": "already",
-                "s": ""
+                "s": "러시아인들이 이미 러시아가 이미 도착했는지 물어보세요. (Ask whether the Russians have already flown in.)"
+            },
+            {
+                "id": "ko-0199",
+                "w": "야",
+                "p": "ya",
+                "d": "opposition party",
+                "s": "야, 너! 이리 와 봐. (Hey, you! Come here.)"
             },
             {
                 "id": "ko-0200",
-                "w": "야",
-                "p": "ya",
-                "d": "Hey",
-                "s": ""
+                "w": "그를",
+                "p": "geureul",
+                "d": "to be improper",
+                "s": "마지막으로 그를 봤을때 그는 파란 셔츠에 흰색 바지를 입고 있었다. (When I last saw him, he was wearing a blue shirt and white slacks.)"
             },
             {
                 "id": "ko-0201",
-                "w": "그를",
-                "p": "geureul",
-                "d": "him",
-                "s": ""
+                "w": "뭔가",
+                "p": "mwonga",
+                "d": "what",
+                "s": "\"뭔가 필요하시나요?\" \"네, 대화를 좀 했으면 하는데요.\" (\"Do you need something?\" \"Yes, I need to talk to you.\")"
             },
             {
                 "id": "ko-0202",
-                "w": "뭔가",
-                "p": "mwonga",
-                "d": "something",
-                "s": ""
+                "w": "온",
+                "p": "on",
+                "d": "all, whole, entire",
+                "s": "그 여자가 파티에 입고 온 드레스가 사람들의 눈길을 끌었지. (Her dress attracted everyone's attention at the party.)"
             },
             {
                 "id": "ko-0203",
-                "w": "온",
-                "p": "on",
-                "d": "came; whole",
-                "s": ""
+                "w": "이봐",
+                "p": "ibwa",
+                "d": "hi, hey, hello",
+                "s": "이봐, 나 진짜 바쁘다니까. (Look, I'm really busy.)"
             },
             {
                 "id": "ko-0204",
-                "w": "이봐",
-                "p": "ibwa",
-                "d": "Hey",
-                "s": ""
+                "w": "아니면",
+                "p": "animyeon",
+                "d": "or",
+                "s": "너 그 사람을 오빠-동생으로 생각하니? 아니면 애인으로 사랑하니? (Do you love him like a brother or do you love-love him?)"
             },
             {
                 "id": "ko-0205",
-                "w": "아니면",
-                "p": "animyeon",
-                "d": "Or",
-                "s": ""
+                "w": "같아요",
+                "p": "gatayo",
+                "d": "the same",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0206",
-                "w": "같아요",
-                "p": "gatayo",
-                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
-                "s": ""
+                "w": "그런데",
+                "p": "geureonde",
+                "d": "but",
+                "s": "그런데, 그때 잃어버린 우산은 찾았어? (By the way, did you find the umbrella that you lost that time?)"
             },
             {
                 "id": "ko-0207",
-                "w": "그런데",
-                "p": "geureonde",
-                "d": "But",
-                "s": ""
+                "w": "아니라",
+                "p": "anira",
+                "d": "is not , but rather",
+                "s": "난 여자친구를 갖고 싶은 게 아니라 사랑을 하고 싶은 거야. (It's not that I want a girlfriend, I just want to be in love.)"
             },
             {
                 "id": "ko-0208",
-                "w": "아니라",
-                "p": "anira",
-                "d": "is not […] , but rather; Used other than figuratively or idiomatically: see 아니다 (anida), -라 (-ra).",
-                "s": ""
+                "w": "세상에",
+                "p": "sesange",
+                "d": "on earth, in the world",
+                "s": "이 세상에 메리만큼 요리 잘하는 사람은 거의 없다고 난 확신해. (I'm convinced there are few people in this world who cook as well as Mary does.)"
             },
             {
                 "id": "ko-0209",
-                "w": "세상에",
-                "p": "sesange",
-                "d": "oh my; in the world",
-                "s": ""
+                "w": "있다고",
+                "p": "itdago",
+                "d": "to stay",
+                "s": "누군가는 톰에게 그걸 잘못된 방식으로 하고 있다고 말했어야 했다. (Someone should have told Tom that he was doing that the wrong way.)"
             },
             {
                 "id": "ko-0210",
-                "w": "있다고",
-                "p": "itdago",
-                "d": "There is",
-                "s": ""
+                "w": "있고",
+                "p": "itgo",
+                "d": "to stay",
+                "s": "6시는 큰 바늘이 12에 있고, 작은 바늘이 6에 있을 때야. (Six o'clock is when the big hand is on 12 and the small hand is on 6.)"
             },
             {
                 "id": "ko-0211",
-                "w": "있고",
-                "p": "itgo",
-                "d": "There is",
-                "s": ""
+                "w": "뭐라고",
+                "p": "mworago",
+                "d": "what did you say? huh?",
+                "s": "뭐라고 말해야 할지 정말 모르겠어... (I just don't know what to say.)"
             },
             {
                 "id": "ko-0212",
-                "w": "뭐라고",
-                "p": "mworago",
-                "d": "What",
-                "s": ""
-            },
-            {
-                "id": "ko-0213",
                 "w": "예",
                 "p": "ye",
                 "d": "yes",
-                "s": ""
+                "s": "예 혹은 아니오? (Yes or no?)"
+            },
+            {
+                "id": "ko-0213",
+                "w": "절대",
+                "p": "jeoldae",
+                "d": "absolutely",
+                "s": "난 톰한테 내가 다음 부턴 절대 안 그럴 거라고 단언했어. (I assured Tom I wouldn't do that anymore.)"
             },
             {
                 "id": "ko-0214",
-                "w": "절대",
-                "p": "jeoldae",
-                "d": "absolutely, totally, never",
-                "s": ""
+                "w": "말야",
+                "p": "marya",
+                "d": "speech",
+                "s": "그 사람은 떠났어. 화가난 채로 말야. (He left, furious.)"
             },
             {
                 "id": "ko-0215",
-                "w": "말야",
-                "p": "marya",
-                "d": "I mean",
-                "s": ""
+                "w": "당장",
+                "p": "dangjang",
+                "d": "The exact location",
+                "s": "지금 당장 밖으로 나가는 것은 위험하다. (It's dangerous to go outside right now.)"
             },
             {
                 "id": "ko-0216",
-                "w": "당장",
-                "p": "dangjang",
-                "d": "Right now",
-                "s": ""
-            },
-            {
-                "id": "ko-0217",
                 "w": "그래도",
                 "p": "geuraedo",
                 "d": "nevertheless",
-                "s": ""
+                "s": "원한다면 그래도 돼. (It's okay if you want to.)"
+            },
+            {
+                "id": "ko-0217",
+                "w": "대한",
+                "p": "daehan",
+                "d": "great khan",
+                "s": "이러한 사전에는 냉장고에 대한 적어도 두가지의 예문이 있어야 한다. (In a dictionary like this one there should be at least two sentences with \"fridge\".)"
             },
             {
                 "id": "ko-0218",
-                "w": "대한",
-                "p": "daehan",
-                "d": "about; regarding",
-                "s": ""
+                "w": "말은",
+                "p": "mareun",
+                "d": "speech",
+                "s": "내가 너에게 하고 싶은 말은 정말로 그게 전부다. (That's really all that I want to say to you.)"
             },
             {
                 "id": "ko-0219",
-                "w": "말은",
-                "p": "mareun",
-                "d": "I mean",
-                "s": ""
-            },
-            {
-                "id": "ko-0220",
                 "w": "거기",
                 "p": "geogi",
                 "d": "there",
-                "s": ""
+                "s": "톰이랑 메리는 혼자서 거기 갈 생각이 전혀 없었어. (Tom and Mary had no intention of going there by themselves.)"
             },
             {
-                "id": "ko-0221",
+                "id": "ko-0220",
                 "w": "전부",
                 "p": "jeonbu",
                 "d": "everything, all",
-                "s": ""
+                "s": "톰을 제외한 가족 구성원들 전부 프랑스어를 할 수 있어요. (Except for Tom, everyone in the family can speak French.)"
             },
             {
-                "id": "ko-0222",
+                "id": "ko-0221",
                 "w": "둘",
                 "p": "dul",
                 "d": "two",
-                "s": ""
+                "s": "하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열. (One, two, three, four, five, six, seven, eight, nine, ten.)"
+            },
+            {
+                "id": "ko-0222",
+                "w": "그녀는",
+                "p": "geunyeoneun",
+                "d": "girlfriend",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0223",
-                "w": "그녀는",
-                "p": "geunyeoneun",
-                "d": "she",
-                "s": ""
+                "w": "니가",
+                "p": "niga",
+                "d": "you",
+                "s": "니가 좀 외로울 것 같아서 내가 와인 한 병을 들고 왔지. (I thought you might be lonely, so I came over with a bottle of wine.)"
             },
             {
                 "id": "ko-0224",
-                "w": "니가",
-                "p": "niga",
-                "d": "You",
-                "s": ""
+                "w": "갈",
+                "p": "gal",
+                "d": "common reed",
+                "s": "나는 친구와 함께 9월 3일에 로스앤젤레스에서 서울에 갈 거에요. (On September 3rd, I will go from Los Angeles to Seoul with a friend.)"
             },
             {
                 "id": "ko-0225",
-                "w": "갈",
-                "p": "gal",
-                "d": "will go",
-                "s": ""
+                "w": "않아요",
+                "p": "anayo",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "저는 남은 인생을 그것에 대해 후회하면서 지내고 싶지 않아요. (I don't want to spend the rest of my life regretting it.)"
             },
             {
                 "id": "ko-0226",
-                "w": "않아요",
-                "p": "anayo",
-                "d": "does not; is not (polite)",
-                "s": ""
+                "w": "자기",
+                "p": "jagi",
+                "d": "oneself",
+                "s": "사람들은 등산할 때 흥미롭고 자기 성찰적인 주제에 대해 얘기해. (People talk about interesting and introspective subjects when hiking.)"
             },
             {
                 "id": "ko-0227",
-                "w": "자기",
-                "p": "jagi",
-                "d": "oneself; the self; the ego",
-                "s": ""
+                "w": "있죠",
+                "p": "itjyo",
+                "d": "to stay",
+                "s": "어디서 전화를 걸 수 있죠? (Where can I make a phone call?)"
             },
             {
                 "id": "ko-0228",
-                "w": "있죠",
-                "p": "itjyo",
-                "d": "right?; there is (polite)",
-                "s": ""
+                "w": "하면",
+                "p": "hamyeon",
+                "d": "bottom surface",
+                "s": "톰은 마리가 존이 그걸 하면 안 될 거라는 걸 알았다고 말했다. (Tom said that Mary knew that John might not be allowed to do that.)"
             },
             {
                 "id": "ko-0229",
-                "w": "하면",
-                "p": "hamyeon",
-                "d": "If you do",
-                "s": ""
+                "w": "가지고",
+                "p": "gajigo",
+                "d": "with",
+                "s": "우리는 우리가 가진것을 가지고 사는 법을 배울 필요가 있다. (We need to learn to live with what we have.)"
             },
             {
                 "id": "ko-0230",
-                "w": "가지고",
-                "p": "gajigo",
-                "d": "with; by; by means of",
-                "s": ""
-            },
-            {
-                "id": "ko-0231",
                 "w": "그들이",
                 "p": "geudeuri",
                 "d": "they",
-                "s": ""
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
+            },
+            {
+                "id": "ko-0231",
+                "w": "참",
+                "p": "cham",
+                "d": "truly, really",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0232",
-                "w": "참",
-                "p": "cham",
-                "d": "True",
-                "s": ""
+                "w": "너도",
+                "p": "neodo",
+                "d": "four",
+                "s": "난 오늘 톰과 다른 사람들이랑 같이 노래방에 가는데 너도 같이 갈래? (I'm going with Tom and the others to a karaoke bar today. Are you coming?)"
             },
             {
                 "id": "ko-0233",
-                "w": "너도",
-                "p": "neodo",
-                "d": "You too",
-                "s": ""
+                "w": "됐어",
+                "p": "dwaesseo",
+                "d": "to become",
+                "s": "내가 프랑스어 공부를 시작한지 삼 년이 됐어. (It's been three years since I began studying French.)"
             },
             {
                 "id": "ko-0234",
-                "w": "됐어",
-                "p": "dwaesseo",
-                "d": "That's enough",
-                "s": ""
+                "w": "미안해",
+                "p": "mianhae",
+                "d": "to be ashamed of oneself",
+                "s": "이런 늦은 시간에 미안해. 목소리 듣고 싶어서 전화를 걸어버렸네. (I'm sorry for calling so late. I just wanted to hear your voice.)"
             },
             {
                 "id": "ko-0235",
-                "w": "미안해",
-                "p": "mianhae",
-                "d": "to be ashamed of oneself; to be sorry",
-                "s": ""
+                "w": "것을",
+                "p": "geoseul",
+                "d": "thing",
+                "s": "톰이 왜 그런 짓을 했는지 이해하기 너무 어렵다는 것을 안다. (I know it's very difficult to understand why Tom did what he did.)"
             },
             {
                 "id": "ko-0236",
-                "w": "것을",
-                "p": "geoseul",
-                "d": "that",
-                "s": ""
+                "w": "여긴",
+                "p": "yeogin",
+                "d": "to consider",
+                "s": "여긴 오늘이 꼭 여름의 끝인 듯하다. (Here it really feels today like summer has ended.)"
             },
             {
                 "id": "ko-0237",
-                "w": "여긴",
-                "p": "yeogin",
-                "d": "here (topic)",
-                "s": ""
+                "w": "아무",
+                "p": "amu",
+                "d": "any",
+                "s": "전혀 위험을 감수하지 않으면, 아무 것도 얻을 수 없다. (One who doesn't take risks will not win.)"
             },
             {
                 "id": "ko-0238",
-                "w": "아무",
-                "p": "amu",
-                "d": "Any",
-                "s": ""
+                "w": "사람은",
+                "p": "sarameun",
+                "d": "human being, person",
+                "s": "그 사람은 자신의 아버지가 가난하다는 사실을 부끄러워하지 않아. (He’s not ashamed of the fact that his father is poor.)"
             },
             {
                 "id": "ko-0239",
-                "w": "사람은",
-                "p": "sarameun",
-                "d": "People",
-                "s": ""
-            },
-            {
-                "id": "ko-0240",
                 "w": "감사합니다",
                 "p": "gamsahamnida",
                 "d": "thank you",
-                "s": ""
+                "s": "이렇게 콜렉션의 확실한 예를 보여줘서 정말 감사합니다. (Many thanks for this illustrative collection of examples.)"
             },
             {
-                "id": "ko-0241",
+                "id": "ko-0240",
                 "w": "다들",
                 "p": "dadeul",
                 "d": "everyone",
-                "s": ""
+                "s": "왜 다들 나랑 톰이 멍청하다고 생각해? (Why does everybody think Tom and I are stupid?)"
+            },
+            {
+                "id": "ko-0241",
+                "w": "어때",
+                "p": "eottae",
+                "d": "in what state",
+                "s": "파티에 입을 예쁜 걸 하나 사는 게 어때? (Why don't you go buy yourself something pretty to wear to the party?)"
             },
             {
                 "id": "ko-0242",
-                "w": "어때",
-                "p": "eottae",
-                "d": "How about",
-                "s": ""
+                "w": "씨",
+                "p": "ssi",
+                "d": "seed, kernel",
+                "s": "수아 씨, 요즘 요가 하신다더니 정말 날씬해지셨네요. (Miss Sua, she's been doing yoga recently and really lost a lot of weight!)"
             },
             {
                 "id": "ko-0243",
-                "w": "씨",
-                "p": "ssi",
-                "d": "Mr.",
-                "s": ""
+                "w": "곧",
+                "p": "got",
+                "d": "soon",
+                "s": "의사의 모든 노력이 헛수고로 돌아가고, 그 남자는 곧 세상을 떠났다. (All the doctor's efforts were in vain and the man soon died.)"
             },
             {
                 "id": "ko-0244",
-                "w": "곧",
-                "p": "got",
-                "d": "soon, at once, immediately, shortly, straightway; easily, readily",
-                "s": ""
+                "w": "엄마가",
+                "p": "eommaga",
+                "d": "mum, mummy",
+                "s": "엄마가 울었어. (Mama cried.)"
             },
             {
                 "id": "ko-0245",
-                "w": "엄마가",
-                "p": "eommaga",
-                "d": "Mom",
-                "s": ""
+                "w": "나를",
+                "p": "nareul",
+                "d": "to carry",
+                "s": "나는 네 고양이가 좋은데, 네 고양이는 나를 싫어하네. (I like your cat, but she doesn't like me.)"
             },
             {
                 "id": "ko-0246",
-                "w": "나를",
-                "p": "nareul",
-                "d": "me",
-                "s": ""
+                "w": "이젠",
+                "p": "ijen",
+                "d": "now",
+                "s": "한때 일주일에 한번 수영하러 가곤 했었는데, 이젠 더 이상 안 가. (I used to go swimming once a week, but I don't anymore.)"
             },
             {
                 "id": "ko-0247",
-                "w": "이젠",
-                "p": "ijen",
-                "d": "now (as the topic of the sentence)",
-                "s": ""
+                "w": "아마",
+                "p": "ama",
+                "d": "perhaps, maybe",
+                "s": "메리는 아마 톰에게 그녀가 뭘 사고 싶은지 이야기 할 것이다. (Mary will probably tell Tom what she wants to buy.)"
             },
             {
                 "id": "ko-0248",
-                "w": "아마",
-                "p": "ama",
-                "d": "maybe",
-                "s": ""
+                "w": "그들은",
+                "p": "geudeureun",
+                "d": "they",
+                "s": "나의 사촌이 아직 어려서, 그들은 그에게 좀 더 기회를 줬다. (Because my nephew was still young, they cut him some slack.)"
             },
             {
                 "id": "ko-0249",
-                "w": "그들은",
-                "p": "geudeureun",
-                "d": "they are",
-                "s": ""
+                "w": "얘기",
+                "p": "yaegi",
+                "d": "talk",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
             },
             {
                 "id": "ko-0250",
-                "w": "얘기",
-                "p": "yaegi",
-                "d": "contraction of 이야기 (iyagi): talk; story",
-                "s": ""
+                "w": "꼭",
+                "p": "kkok",
+                "d": "absolutely",
+                "s": "나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어. (It is inevitable that I go to France someday, I just don't know when.)"
             },
             {
                 "id": "ko-0251",
-                "w": "꼭",
-                "p": "kkok",
-                "d": "absolutely; surely; regardless; unreservedly",
-                "s": ""
+                "w": "있잖아",
+                "p": "itjana",
+                "d": "to stay",
+                "s": "우리 그냥 하드 디스크를 새로 포맷하는 건 어때? 너무 그걸로 스트레스 많이 받고 있잖아. (Why don't we just reformat the hard disk? You've been having a lot of trouble with it.)"
             },
             {
                 "id": "ko-0252",
-                "w": "있잖아",
-                "p": "itjana",
-                "d": "You know,",
-                "s": ""
+                "w": "저도",
+                "p": "jeodo",
+                "d": "that",
+                "s": "그게 쉽지 않다는 거는 저도 잘 압니다. (I do understand that it isn't so easy.)"
             },
             {
                 "id": "ko-0253",
-                "w": "저도",
-                "p": "jeodo",
-                "d": "Me too",
-                "s": ""
+                "w": "지금은",
+                "p": "jigeumeun",
+                "d": "now",
+                "s": "지금은 일곱 시 오십 분입니다. (It's 7.50.)"
             },
             {
                 "id": "ko-0254",
-                "w": "지금은",
-                "p": "jigeumeun",
-                "d": "For now",
-                "s": ""
+                "w": "그녀가",
+                "p": "geunyeoga",
+                "d": "girlfriend",
+                "s": "그녀가 케이크를 여섯 조각으로 잘라서 애들에게 한조각씩 줬다. (She cut the cake into six pieces and gave one to each of the children.)"
             },
             {
                 "id": "ko-0255",
-                "w": "그녀가",
-                "p": "geunyeoga",
-                "d": "she",
-                "s": ""
+                "w": "중",
+                "p": "jung",
+                "d": "average",
+                "s": "내 강아지들은 톰이 키우는 고양이 중 한 마리를 죽였어. (My dogs killed one of Tom's cats.)"
             },
             {
                 "id": "ko-0256",
-                "w": "중",
-                "p": "jung",
-                "d": "middle; among",
-                "s": ""
+                "w": "있다",
+                "p": "itda",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
                 "id": "ko-0257",
-                "w": "있다",
-                "p": "itda",
-                "d": "There is",
-                "s": ""
-            },
-            {
-                "id": "ko-0258",
                 "w": "시간",
                 "p": "sigan",
                 "d": "time",
-                "s": ""
+                "s": "8시간 동안 운전을 한 후에 톰은 더이상 운전을 할 수 없었다. (After driving for eight hours, Tom just couldn't drive any longer.)"
             },
             {
-                "id": "ko-0259",
+                "id": "ko-0258",
                 "w": "먼저",
                 "p": "meonjeo",
                 "d": "first in time or sequence",
-                "s": ""
+                "s": "누가 먼저 대답할 지 보겠다. (We'll see who answers first.)"
+            },
+            {
+                "id": "ko-0259",
+                "w": "우릴",
+                "p": "uril",
+                "d": "to soak out",
+                "s": "그가 때때로 우릴 위해 저녁을 차려 준다. (He sometimes makes dinner for us.)"
             },
             {
                 "id": "ko-0260",
-                "w": "우릴",
-                "p": "uril",
-                "d": "us",
-                "s": ""
+                "w": "말고",
+                "p": "malgo",
+                "d": "to not do something",
+                "s": "악한 것은 보지도 말고, 듣지도 말고, 말하지도 말라. (See no evil, Hear no evil, Speak no evil.)"
             },
             {
                 "id": "ko-0261",
-                "w": "말고",
-                "p": "malgo",
-                "d": "not ... but; instead of",
-                "s": ""
+                "w": "사람을",
+                "p": "sarameul",
+                "d": "human being, person",
+                "s": "너 그 사람을 오빠-동생으로 생각하니? 아니면 애인으로 사랑하니? (Do you love him like a brother or do you love-love him?)"
             },
             {
                 "id": "ko-0262",
-                "w": "사람을",
-                "p": "sarameul",
-                "d": "people",
-                "s": ""
+                "w": "수가",
+                "p": "suga",
+                "d": "cost, price",
+                "s": "나는 그가 자신의 인생 경험에 대해 열변을 토하는 것을 참을 수가 없다. (I can't stand him holding forth about his life experience.)"
             },
             {
                 "id": "ko-0263",
-                "w": "수가",
-                "p": "suga",
-                "d": "way; ability (with subject marker)",
-                "s": ""
+                "w": "봐요",
+                "p": "bwayo",
+                "d": "to see",
+                "s": "친구를 만나서 영화를 봐요. (I meet my friend and watch a movie.)"
             },
             {
                 "id": "ko-0264",
-                "w": "봐요",
-                "p": "bwayo",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "w": "있는데",
+                "p": "inneunde",
+                "d": "to stay",
+                "s": "톰은 말더듬이 있는데, 사람들 앞에서 말해야 하면 더 심해져. (Tom has a speech impediment, which gets worse if he has to speak in public.)"
             },
             {
                 "id": "ko-0265",
-                "w": "있는데",
-                "p": "inneunde",
-                "d": "There is",
-                "s": ""
+                "w": "알았어요",
+                "p": "arasseoyo",
+                "d": "to know, understand",
+                "s": "그때 톰을 알았어요? (Did you know Tom then?)"
             },
             {
                 "id": "ko-0266",
-                "w": "알았어요",
-                "p": "arasseoyo",
-                "d": "Okay",
-                "s": ""
+                "w": "해야",
+                "p": "haeya",
+                "d": "to do",
+                "s": "나는 네가 그렇게 하도록 강요하지는 않겠지만 그렇게 해야 할거야 (I won't force you to do that, but I think you should.)"
             },
             {
                 "id": "ko-0267",
-                "w": "해야",
-                "p": "haeya",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "w": "있었어",
+                "p": "isseosseo",
+                "d": "to stay",
+                "s": "운좋게도 나는 어떤 중대한 오류도 없이 일을 끝마칠 수 있었어. (Fortunately I was able to finish my work without any serious errors.)"
             },
             {
                 "id": "ko-0268",
-                "w": "있었어",
-                "p": "isseosseo",
-                "d": "there was",
-                "s": ""
-            },
-            {
-                "id": "ko-0269",
                 "w": "우리의",
                 "p": "uriui",
                 "d": "our",
-                "s": ""
+                "s": "결국에 우리의 기억에 남는 것은, 적들의 말이 아닌 친구의 침묵이 될것이다. (In the end, we will remember not the words of our enemies, but the silence of our friends.)"
+            },
+            {
+                "id": "ko-0269",
+                "w": "않을",
+                "p": "aneul",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "단언컨대, 우린 그런 실수를 두 번 다시 하지 않을 거야. (I can assure you we'll never make that mistake again.)"
             },
             {
                 "id": "ko-0270",
-                "w": "않을",
-                "p": "aneul",
-                "d": "won't",
-                "s": ""
+                "w": "방금",
+                "p": "banggeum",
+                "d": "just a moment ago",
+                "s": "방금 말씀하신 것을 다시 한번 말씀해 주시겠어요? (Could you please repeat what you just said?)"
             },
             {
                 "id": "ko-0271",
-                "w": "방금",
-                "p": "banggeum",
-                "d": "just a moment ago; just now",
-                "s": ""
+                "w": "완전",
+                "p": "wanjeon",
+                "d": "perfection",
+                "s": "나한테 뭐 좀 줄 수 있어? 나 완전 빈털터리야. (Could you give me something? I'm totally broke.)"
             },
             {
                 "id": "ko-0272",
-                "w": "완전",
-                "p": "wanjeon",
-                "d": "completely",
-                "s": ""
+                "w": "된",
+                "p": "doen",
+                "d": "to become",
+                "s": "솔직히 말이야, 톰, 난 기억이 안 나. 10년도 더 된 일이잖아. (Honestly, Tom, I can't remember. It was more than 10 years ago.)"
             },
             {
                 "id": "ko-0273",
-                "w": "된",
-                "p": "doen",
-                "d": "that became",
-                "s": ""
-            },
-            {
-                "id": "ko-0274",
                 "w": "동안",
                 "p": "dongan",
                 "d": "interval, period of time",
-                "s": ""
+                "s": "8시간 동안 운전을 한 후에 톰은 더이상 운전을 할 수 없었다. (After driving for eight hours, Tom just couldn't drive any longer.)"
             },
             {
-                "id": "ko-0275",
+                "id": "ko-0274",
                 "w": "시간이",
                 "p": "sigani",
                 "d": "time",
-                "s": ""
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
+            },
+            {
+                "id": "ko-0275",
+                "w": "싶어",
+                "p": "sipeo",
+                "d": "to be desirous of",
+                "s": "사미는 레일라가 왜 히잡을 쓰지 않기로 했는지 알고 싶어 했다. (Sami wanted to know why Layla decided to take off the hijab.)"
             },
             {
                 "id": "ko-0276",
-                "w": "싶어",
-                "p": "sipeo",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "w": "본",
+                "p": "bon",
+                "d": "root, basis",
+                "s": "누군가를 너무도 많이 사랑하여 그것으로 울어 본 적이 있나요? (Have you ever loved somebody so much that it made you cry?)"
             },
             {
                 "id": "ko-0277",
-                "w": "본",
-                "p": "bon",
-                "d": "seen; main",
-                "s": ""
-            },
-            {
-                "id": "ko-0278",
                 "w": "일은",
                 "p": "ireun",
                 "d": "work",
-                "s": ""
+                "s": "톰은 자기가 해야 할 일은 해낼 수 있을 거야. (Tom will be able to do what he needs to do.)"
+            },
+            {
+                "id": "ko-0278",
+                "w": "친구",
+                "p": "chingu",
+                "d": "friend",
+                "s": "왜 톰한테 우리가 단지 친구 사이라고 말했어? (Why did you tell Tom that we're just friends?)"
             },
             {
                 "id": "ko-0279",
-                "w": "친구",
-                "p": "chingu",
-                "d": "friend; fellow, chap, guy",
-                "s": ""
+                "w": "들어",
+                "p": "deureo",
+                "d": "to listen, to hear",
+                "s": "결론을 내기 전에 일단 톰의 의견을 들어 두고 싶구먼. (I'd like to hear Tom's opinion at least once before we come to a conclusion.)"
             },
             {
                 "id": "ko-0280",
-                "w": "들어",
-                "p": "deureo",
-                "d": "listen",
-                "s": ""
+                "w": "안에",
+                "p": "ane",
+                "d": "intra, within",
+                "s": "난 쇼핑 가야되요, 한 시간 안에 돌아올게요. (I have to go shopping. I'll be back in an hour.)"
             },
             {
                 "id": "ko-0281",
-                "w": "안에",
-                "p": "ane",
-                "d": "inside",
-                "s": ""
+                "w": "번",
+                "p": "beon",
+                "d": "occasion, time",
+                "s": "오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다. (Today will once again be remembered as a great day for us.)"
             },
             {
                 "id": "ko-0282",
-                "w": "번",
-                "p": "beon",
-                "d": "number",
+                "w": "자네",
+                "p": "jane",
+                "d": "you",
                 "s": ""
             },
             {
                 "id": "ko-0283",
-                "w": "자네",
-                "p": "jane",
-                "d": "you, second person pronoun, used generally in addressing a person of distinctly lower status.",
-                "s": ""
+                "w": "합니다",
+                "p": "hamnida",
+                "d": "to do",
+                "s": "우리는 일요일에는 집 가까이에 있는 공원에서 캐치볼을 합니다. (We play catch in the park near our house on Sundays.)"
             },
             {
                 "id": "ko-0284",
-                "w": "합니다",
-                "p": "hamnida",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "w": "사실",
+                "p": "sasil",
+                "d": "fact, reality, truth",
+                "s": "사실 난 잠자고 있지 않았고, 모든 것을 듣고 있었다. (I actually wasn't asleep, and heard everything.)"
             },
             {
                 "id": "ko-0285",
-                "w": "사실",
-                "p": "sasil",
-                "d": "fact",
-                "s": ""
+                "w": "한번",
+                "p": "hanbeon",
+                "d": "sometime",
+                "s": "한때 일주일에 한번 수영하러 가곤 했었는데, 이젠 더 이상 안 가. (I used to go swimming once a week, but I don't anymore.)"
             },
             {
                 "id": "ko-0286",
-                "w": "한번",
-                "p": "hanbeon",
-                "d": "once",
-                "s": ""
+                "w": "대체",
+                "p": "daeche",
+                "d": "main principle",
+                "s": "목사가 결혼에 대해 대체 뭘 알겠어? (What the hell does a priest know about marriage?)"
             },
             {
                 "id": "ko-0287",
-                "w": "대체",
-                "p": "daeche",
-                "d": "how on earth; instead",
-                "s": ""
+                "w": "같은데",
+                "p": "gateunde",
+                "d": "the same",
+                "s": "너희들 둘 다 톰을 아는 것 같은데. (I think you both know Tom.)"
             },
             {
                 "id": "ko-0288",
-                "w": "같은데",
-                "p": "gateunde",
-                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
-                "s": ""
+                "w": "생각해",
+                "p": "saenggakae",
+                "d": "to think",
+                "s": "도대체 누구를 속인다고 생각해? 자기 자신이나 속이지 마. (Who do you think you're fooling? Stop fooling yourself.)"
             },
             {
                 "id": "ko-0289",
-                "w": "생각해",
-                "p": "saenggakae",
-                "d": "think about it",
-                "s": ""
+                "w": "맞아요",
+                "p": "majayo",
+                "d": "to be correct, right",
+                "s": "당신 말이 맞아요. (You're quite right.)"
             },
             {
                 "id": "ko-0290",
-                "w": "맞아요",
-                "p": "majayo",
-                "d": "That's right",
-                "s": ""
+                "w": "볼",
+                "p": "bol",
+                "d": "cheek",
+                "s": "보통 영화를 볼 때 팝콘이랑 코카콜라를 먹는데 이번엔 사탕을 먹으려해. (Normally I eat popcorn and drink Coke when I watch a movie, but this time I'll eat candy.)"
             },
             {
                 "id": "ko-0291",
-                "w": "볼",
-                "p": "bol",
-                "d": "will see; cheek",
-                "s": ""
+                "w": "혼자",
+                "p": "honja",
+                "d": "solitude",
+                "s": "톰은 메리에게 그는 그녀를 혼자 가게 하지는 않겠다고 말했다. (Tom told Mary he wouldn't let her go by herself.)"
             },
             {
                 "id": "ko-0292",
-                "w": "혼자",
-                "p": "honja",
-                "d": "solitude; alone, (all) by oneself, (all) on one's own",
+                "w": "자네가",
+                "p": "janega",
+                "d": "you",
                 "s": ""
             },
             {
                 "id": "ko-0293",
-                "w": "자네가",
-                "p": "janega",
-                "d": "You",
-                "s": ""
+                "w": "절",
+                "p": "jeol",
+                "d": "a verse",
+                "s": "제발, 절 죽이지 마세요. (Please, don't kill me.)"
             },
             {
                 "id": "ko-0294",
-                "w": "절",
-                "p": "jeol",
-                "d": "bow; I (polite, object)",
-                "s": ""
+                "w": "그러니",
+                "p": "geureoni",
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
                 "id": "ko-0295",
-                "w": "그러니",
-                "p": "geureoni",
-                "d": "So",
-                "s": ""
+                "w": "선생님",
+                "p": "seonsaengnim",
+                "d": "teacher",
+                "s": "저는 지각을 많이 해서, 선생님 눈 밖에 났어요. (Because I was tardy a lot, I got on the teacher's bad side.)"
             },
             {
                 "id": "ko-0296",
-                "w": "선생님",
-                "p": "seonsaengnim",
-                "d": "teacher; sir, mister, Ms (polite term of address for an elder male or female)",
-                "s": ""
+                "w": "사람들은",
+                "p": "saramdeureun",
+                "d": "people, persons",
+                "s": "사람들은 등산할 때 흥미롭고 자기 성찰적인 주제에 대해 얘기해. (People talk about interesting and introspective subjects when hiking.)"
             },
             {
                 "id": "ko-0297",
-                "w": "사람들은",
-                "p": "saramdeureun",
-                "d": "people",
-                "s": ""
+                "w": "문제가",
+                "p": "munjega",
+                "d": "problem, issue, question",
+                "s": "컴퓨터에 작은 문제가 하나 있었는데요. (I had a minor issue with my computer.)"
             },
             {
                 "id": "ko-0298",
-                "w": "문제가",
-                "p": "munjega",
-                "d": "problem",
-                "s": ""
-            },
-            {
-                "id": "ko-0299",
                 "w": "다음",
                 "p": "daeum",
                 "d": "the next, the following",
-                "s": ""
+                "s": "난 톰한테 내가 다음 부턴 절대 안 그럴 거라고 단언했어. (I assured Tom I wouldn't do that anymore.)"
+            },
+            {
+                "id": "ko-0299",
+                "w": "물론",
+                "p": "mullon",
+                "d": "of course",
+                "s": "그는 나에게 먹을 것은 물론 돈도 주었다. (He gave me food and money as well.)"
             },
             {
                 "id": "ko-0300",
-                "w": "물론",
-                "p": "mullon",
-                "d": "of course, certainly, naturally",
-                "s": ""
+                "w": "거의",
+                "p": "geoui",
+                "d": "almost, nearly",
+                "s": "이 세상에 메리만큼 요리 잘하는 사람은 거의 없다고 난 확신해. (I'm convinced there are few people in this world who cook as well as Mary does.)"
             },
             {
                 "id": "ko-0301",
-                "w": "거의",
-                "p": "geoui",
-                "d": "almost",
-                "s": ""
+                "w": "일이야",
+                "p": "iriya",
+                "d": "work",
+                "s": "무엇보다도 우리를 지치게 하는 건 이해하는 일이야. 사는 건 생각하는 게 아니야. (What tires us, above all, is understanding. Living is not thinking.)"
             },
             {
                 "id": "ko-0302",
-                "w": "일이야",
-                "p": "iriya",
-                "d": "It's work",
-                "s": ""
+                "w": "없습니다",
+                "p": "eopseumnida",
+                "d": "to have none",
+                "s": "무대에서 쓰러지는 한이 있더라도 공연을 취소할 수는 없습니다. (There is no way to cancel a show even if I collapse on stage.)"
             },
             {
                 "id": "ko-0303",
-                "w": "없습니다",
-                "p": "eopseumnida",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "w": "아빠가",
+                "p": "appaga",
+                "d": "dad, papa",
+                "s": "아빠가 최고야! (Dad's the best!)"
             },
             {
                 "id": "ko-0304",
-                "w": "아빠가",
-                "p": "appaga",
-                "d": "Dad",
-                "s": ""
+                "w": "되는",
+                "p": "doeneun",
+                "d": "to become",
+                "s": "결혼한 남자가 절대 잊으면 안 되는 건 결혼기념일이야. (One thing a married man should never forget is his wedding anniversary.)"
             },
             {
                 "id": "ko-0305",
-                "w": "되는",
-                "p": "doeneun",
-                "d": "become",
-                "s": ""
+                "w": "그러면",
+                "p": "geureomyeon",
+                "d": "if so",
+                "s": "그러면 네가 위험해져. (That'll put you in danger.)"
             },
             {
                 "id": "ko-0306",
-                "w": "그러면",
-                "p": "geureomyeon",
-                "d": "Then",
-                "s": ""
+                "w": "순",
+                "p": "sun",
+                "d": "pure",
+                "s": "과거를 지울 순 없어. (You can't erase the past.)"
             },
             {
                 "id": "ko-0307",
-                "w": "순",
-                "p": "sun",
-                "d": "net",
-                "s": ""
+                "w": "가는",
+                "p": "ganeun",
+                "d": "to go",
+                "s": "비가 오는 것 같으니 톰은 우산을 갖고 가는 게 좋을 것이다. (Tom should take an umbrella because it looks like rain.)"
             },
             {
                 "id": "ko-0308",
-                "w": "가는",
-                "p": "ganeun",
-                "d": "going",
-                "s": ""
+                "w": "말도",
+                "p": "maldo",
+                "d": "speech",
+                "s": "당신이 말한 것은 완전히 말도 안 된다. (What you said is complete nonsense.)"
             },
             {
                 "id": "ko-0309",
-                "w": "말도",
-                "p": "maldo",
-                "d": "nonsense",
-                "s": ""
+                "w": "이리",
+                "p": "iri",
+                "d": "to this place",
+                "s": "야, 너! 이리 와 봐. (Hey, you! Come here.)"
             },
             {
                 "id": "ko-0310",
-                "w": "이리",
-                "p": "iri",
-                "d": "Here",
-                "s": ""
+                "w": "있었어요",
+                "p": "isseosseoyo",
+                "d": "to stay",
+                "s": "제가 최근에 메리를 봤을 때 그녀는 파란 야구 모자를 쓰고 있었어요. (The last time I saw Mary she was wearing a blue baseball cap.)"
             },
             {
                 "id": "ko-0311",
-                "w": "있었어요",
-                "p": "isseosseoyo",
-                "d": "There was",
-                "s": ""
+                "w": "맙소사",
+                "p": "mapsosa",
+                "d": "oh my God!",
+                "s": "맙소사, 이제 어떡해? (Oh my God, what'll we do?)"
             },
             {
                 "id": "ko-0312",
-                "w": "맙소사",
-                "p": "mapsosa",
-                "d": "oh my God!, good heavens!",
-                "s": ""
-            },
-            {
-                "id": "ko-0313",
                 "w": "내일",
                 "p": "naeil",
                 "d": "tomorrow",
-                "s": ""
+                "s": "날씨가 허락한다면, 우리는 내일 여행을 시작할 것이다. (Weather permitting, we'll start on our trip tomorrow.)"
+            },
+            {
+                "id": "ko-0313",
+                "w": "있으면",
+                "p": "isseumyeon",
+                "d": "to stay",
+                "s": "누구랑 같이 있으면 아무것도 안 하고 걷기만 해도 좋아. (If I'm with someone, even just walking without doing anything is nice.)"
             },
             {
                 "id": "ko-0314",
-                "w": "있으면",
-                "p": "isseumyeon",
-                "d": "If there is",
-                "s": ""
+                "w": "잠깐만",
+                "p": "jamkkanman",
+                "d": "just a minute",
+                "s": "잠깐만 기다리십시오. (Please wait a moment.)"
             },
             {
                 "id": "ko-0315",
-                "w": "잠깐만",
-                "p": "jamkkanman",
-                "d": "just a minute, just a moment",
-                "s": ""
+                "w": "싫어",
+                "p": "sireo",
+                "d": "to be disagreeable",
+                "s": "그는 이상하고, 나는 이상한 사람 싫어. (He is strange, and I don't like strange people.)"
             },
             {
                 "id": "ko-0316",
-                "w": "싫어",
-                "p": "sireo",
-                "d": "to be disagreeable; to disapprove; to be hateful",
-                "s": ""
+                "w": "중요한",
+                "p": "jungyohan",
+                "d": "to be important",
+                "s": "내 생각에는 그가 중요한 사실들을 빠뜨리고 있는 것 같아. (I think he could be omitting important facts.)"
             },
             {
                 "id": "ko-0317",
-                "w": "중요한",
-                "p": "jungyohan",
-                "d": "important",
-                "s": ""
+                "w": "내게",
+                "p": "naege",
+                "d": "I, me",
+                "s": "그녀는 내게 프랑스산 와인 한 병을 선물로 주었다. (She gave me a bottle of French wine as a gift.)"
             },
             {
                 "id": "ko-0318",
-                "w": "내게",
-                "p": "naege",
-                "d": "dative form of 나 (na); 내 (nae) + -게 (-ge)",
-                "s": ""
+                "w": "말해",
+                "p": "malhae",
+                "d": "to speak, to talk",
+                "s": "톰이랑 메리는 항상 스포츠에 관심이 있었다고 말해. (Tom and Mary say they've always been interested in sports.)"
             },
             {
                 "id": "ko-0319",
-                "w": "말해",
-                "p": "malhae",
-                "d": "tell me",
-                "s": ""
+                "w": "이상",
+                "p": "isang",
+                "d": "an amount more than",
+                "s": "나는 더 이상 톰이 내 친구가 되고 싶어한다고 생각하지 않아. (I don't think Tom wants to be my friend anymore.)"
             },
             {
                 "id": "ko-0320",
-                "w": "이상",
-                "p": "isang",
-                "d": "an amount more than; an amount greater than or equal to",
-                "s": ""
+                "w": "거라고",
+                "p": "georago",
+                "d": "thing",
+                "s": "나는 톰이 내년까지 그에 대해 준비될 거라고 생각하지 않는다. (I don't think Tom will be ready to do that until next year.)"
             },
             {
                 "id": "ko-0321",
-                "w": "거라고",
-                "p": "georago",
-                "d": "I guess",
-                "s": ""
+                "w": "아는",
+                "p": "aneun",
+                "d": "to know, understand",
+                "s": "네가 아는 사람 중에서 누가 가장 머리가 좋은 사람이야? (Who's the most intelligent person you know?)"
             },
             {
                 "id": "ko-0322",
-                "w": "아는",
-                "p": "aneun",
-                "d": "know",
-                "s": ""
-            },
-            {
-                "id": "ko-0323",
                 "w": "너는",
                 "p": "neoneun",
                 "d": "you",
-                "s": ""
+                "s": "너는 분명히 재능이 있는데 더 많이 못 배워서 아쉽구나. (You have talent, no doubt; it's just a pity that you haven't learned more.)"
             },
             {
-                "id": "ko-0324",
+                "id": "ko-0323",
                 "w": "새",
                 "p": "sae",
                 "d": "bird",
-                "s": ""
+                "s": "내 여동생은 아버지에게 새 자전거를 사 달라고 부탁했다. (My sister asked my father to buy her a new bicycle.)"
             },
             {
-                "id": "ko-0325",
+                "id": "ko-0324",
                 "w": "적",
                 "p": "jeok",
                 "d": "enemy",
-                "s": ""
+                "s": "칼은 한 번도 본 적 없는 아이와 마주 보고 있었어. (Karl was face to face with a kid he had never seen before.)"
+            },
+            {
+                "id": "ko-0325",
+                "w": "전혀",
+                "p": "jeonhyeo",
+                "d": "at all",
+                "s": "그 여자는 그 남자의 사생활에 대해 전혀 알고 싶어하질 않던데. (She didn't want to know anything about his personal life.)"
             },
             {
                 "id": "ko-0326",
-                "w": "전혀",
-                "p": "jeonhyeo",
-                "d": "at all, absolutely, completely",
-                "s": ""
-            },
-            {
-                "id": "ko-0327",
                 "w": "여자",
                 "p": "yeoja",
                 "d": "woman",
-                "s": ""
+                "s": "그녀가 이제까지 온 여자 중 가장 키가 큰 여자다. (She's by far the tallest girl.)"
+            },
+            {
+                "id": "ko-0327",
+                "w": "새로운",
+                "p": "saeroun",
+                "d": "to be new",
+                "s": "도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어. (I returned the books I borrowed from the library, and I borrowed some new ones.)"
             },
             {
                 "id": "ko-0328",
-                "w": "새로운",
-                "p": "saeroun",
-                "d": "new",
-                "s": ""
+                "w": "너희",
+                "p": "neohui",
+                "d": "you",
+                "s": "나는 내가 너희 모두를 믿을 수 있다는 것을 안다. (I know I can count on all of you.)"
             },
             {
                 "id": "ko-0329",
-                "w": "너희",
-                "p": "neohui",
-                "d": "you; you guys; you all",
-                "s": ""
+                "w": "왔어",
+                "p": "wasseo",
+                "d": "to come",
+                "s": "나는 볼리비아에서 왔어. 나는 볼리비아 사람이고 스페인어를 해. (I come from Bolivia. I'm Bolivian, and I speak Spanish.)"
             },
             {
                 "id": "ko-0330",
-                "w": "왔어",
-                "p": "wasseo",
-                "d": "came",
-                "s": ""
-            },
-            {
-                "id": "ko-0331",
                 "w": "아직도",
                 "p": "ajikdo",
                 "d": "yet, still",
-                "s": ""
+                "s": "이 인류학자에 따르면 이 지역에서는 옛날 관습이 아직도 행해지고 있다. (The anthropologist says old customs still prevail in the province.)"
+            },
+            {
+                "id": "ko-0331",
+                "w": "가지",
+                "p": "gaji",
+                "d": "kind, sort",
+                "s": "과학이 답변할 수 없는 몇 가지 중요한 질문들이 있어. (There are some important questions that science cannot answer.)"
             },
             {
                 "id": "ko-0332",
-                "w": "가지",
-                "p": "gaji",
-                "d": "eggplant",
-                "s": ""
+                "w": "나와",
+                "p": "nawa",
+                "d": "to come out, come forth",
+                "s": "나는 톰에게 나와 메리의 관계에 대해 상관하지 말라고 말했다. (I told Tom that my relationship with Mary was none of his business.)"
             },
             {
                 "id": "ko-0333",
-                "w": "나와",
-                "p": "nawa",
-                "d": "come out",
-                "s": ""
+                "w": "알",
+                "p": "al",
+                "d": "egg, roe",
+                "s": "레일라는 정체를 알 수 없는 남자에게 살금살금 쫓기고 있었다. (Layla was being stalked by a mysterious man.)"
             },
             {
                 "id": "ko-0334",
-                "w": "알",
-                "p": "al",
-                "d": "Al",
-                "s": ""
+                "w": "싶지",
+                "p": "sipji",
+                "d": "to be desirous of",
+                "s": "저는 남은 인생을 그것에 대해 후회하면서 지내고 싶지 않아요. (I don't want to spend the rest of my life regretting it.)"
             },
             {
                 "id": "ko-0335",
-                "w": "싶지",
-                "p": "sipji",
-                "d": "I don't want to",
-                "s": ""
+                "w": "여기에",
+                "p": "yeogie",
+                "d": "here, herein, herewith",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
                 "id": "ko-0336",
-                "w": "여기에",
-                "p": "yeogie",
-                "d": "here",
-                "s": ""
+                "w": "원하는",
+                "p": "wonhaneun",
+                "d": "to want, to hope",
+                "s": "내가 갖고 있는 게 어쩌면 네가 원하는 것일 수도 있어. (I think I've got something you might want.)"
             },
             {
                 "id": "ko-0337",
-                "w": "원하는",
-                "p": "wonhaneun",
-                "d": "want",
-                "s": ""
+                "w": "돈",
+                "p": "don",
+                "d": "money",
+                "s": "마지막으로 길바닥에서 돈 찾았던 게 언제야? (When was the last time you found money on the street?)"
             },
             {
                 "id": "ko-0338",
-                "w": "돈",
-                "p": "don",
-                "d": "money; a don, a Korean unit of weight equivalent to about 4 g",
-                "s": ""
+                "w": "필요",
+                "p": "piryo",
+                "d": "need",
+                "s": "나한테 아무것도 증명할 필요 없어. (You don't need to prove anything to me.)"
             },
             {
                 "id": "ko-0339",
-                "w": "필요",
-                "p": "piryo",
-                "d": "need; necessity",
-                "s": ""
+                "w": "도움이",
+                "p": "doumi",
+                "d": "help",
+                "s": "이 문장은 언어 학습자에게 별로 도움이 되지 않는다. (This sentence isn't useful for language learners.)"
             },
             {
                 "id": "ko-0340",
-                "w": "도움이",
-                "p": "doumi",
-                "d": "helpful",
-                "s": ""
+                "w": "그녀를",
+                "p": "geunyeoreul",
+                "d": "girlfriend",
+                "s": "톰은 메리에게 그는 그녀를 혼자 가게 하지는 않겠다고 말했다. (Tom told Mary he wouldn't let her go by herself.)"
             },
             {
                 "id": "ko-0341",
-                "w": "그녀를",
-                "p": "geunyeoreul",
-                "d": "her",
-                "s": ""
+                "w": "몰라요",
+                "p": "mollayo",
+                "d": "to not know",
+                "s": "그 사람을 몰라요. (I don't know him.)"
             },
             {
                 "id": "ko-0342",
-                "w": "몰라요",
-                "p": "mollayo",
-                "d": "informal polite declarative of 모르다 (moreuda)",
-                "s": ""
-            },
-            {
-                "id": "ko-0343",
                 "w": "작은",
                 "p": "jageun",
                 "d": "small",
-                "s": ""
+                "s": "6시는 큰 바늘이 12에 있고, 작은 바늘이 6에 있을 때야. (Six o'clock is when the big hand is on 12 and the small hand is on 6.)"
             },
             {
-                "id": "ko-0344",
+                "id": "ko-0343",
                 "w": "혹시",
                 "p": "hoksi",
                 "d": "by chance",
-                "s": ""
+                "s": "혹시 불분명한 점이 있을 경우 연락 주십시오. (In case something is not clear, please contact us.)"
+            },
+            {
+                "id": "ko-0344",
+                "w": "미안해요",
+                "p": "mianhaeyo",
+                "d": "to be ashamed of oneself",
+                "s": "엄마, 미안해요. (I'm sorry Mother.)"
             },
             {
                 "id": "ko-0345",
-                "w": "미안해요",
-                "p": "mianhaeyo",
-                "d": "to be ashamed of oneself; to be sorry",
-                "s": ""
+                "w": "나쁜",
+                "p": "nappeun",
+                "d": "to be bad",
+                "s": "나는 너의 가장 친한 친구도 가장 나쁜 적도 될 수 있어. (I can be your best friend or your worst enemy.)"
             },
             {
                 "id": "ko-0346",
-                "w": "나쁜",
-                "p": "nappeun",
-                "d": "bad",
-                "s": ""
+                "w": "죄송해요",
+                "p": "joesonghaeyo",
+                "d": "to be sorry",
+                "s": "오랫동안 편지를 못 써서 죄송해요. (Please forgive me for not having written for a long time.)"
             },
             {
                 "id": "ko-0347",
-                "w": "죄송해요",
-                "p": "joesonghaeyo",
-                "d": "I'm sorry",
-                "s": ""
+                "w": "모르겠어",
+                "p": "moreugesseo",
+                "d": "to not know",
+                "s": "나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어. (It is inevitable that I go to France someday, I just don't know when.)"
             },
             {
                 "id": "ko-0348",
-                "w": "모르겠어",
-                "p": "moreugesseo",
-                "d": "I don't know",
-                "s": ""
+                "w": "가요",
+                "p": "gayo",
+                "d": "song",
+                "s": "여기에서 시내까지 어떻게 가요? (How do you get downtown from here?)"
             },
             {
                 "id": "ko-0349",
-                "w": "가요",
-                "p": "gayo",
-                "d": "Let's go",
-                "s": ""
+                "w": "알지",
+                "p": "alji",
+                "d": "to know, understand",
+                "s": "닭을 못 먹는다고? 먹어보지도 않고 어떻게 알지? (You can't eat chicken? How do you know if you never try it?)"
             },
             {
                 "id": "ko-0350",
-                "w": "알지",
-                "p": "alji",
-                "d": "You know",
-                "s": ""
-            },
-            {
-                "id": "ko-0351",
                 "w": "밖에",
                 "p": "bakke",
                 "d": "outside",
-                "s": ""
+                "s": "톰은 메리와 존이 말하는 것을 들으며 창문 밖에 서 있었다. (Tom was standing outside the window, listening to Mary and John talking.)"
+            },
+            {
+                "id": "ko-0351",
+                "w": "직접",
+                "p": "jikjeop",
+                "d": "immediateness",
+                "s": "넌 톰한테 직접 대화할 필요가 있어. (You need to talk to Tom in person.)"
             },
             {
                 "id": "ko-0352",
-                "w": "직접",
-                "p": "jikjeop",
-                "d": "directly",
-                "s": ""
+                "w": "있나",
+                "p": "inna",
+                "d": "to stay",
+                "s": "사랑받고 있는 사람 중에 가난한 사람이 누가 있나? (Who, being loved, is poor?)"
             },
             {
                 "id": "ko-0353",
-                "w": "있나",
-                "p": "inna",
-                "d": "Is there",
-                "s": ""
-            },
-            {
-                "id": "ko-0354",
                 "w": "니",
                 "p": "ni",
                 "d": "you",
-                "s": ""
+                "s": "니 맘대로 하세요. (Do what you want.)"
+            },
+            {
+                "id": "ko-0354",
+                "w": "해도",
+                "p": "haedo",
+                "d": "chart",
+                "s": "누구랑 같이 있으면 아무것도 안 하고 걷기만 해도 좋아. (If I'm with someone, even just walking without doing anything is nice.)"
             },
             {
                 "id": "ko-0355",
-                "w": "해도",
-                "p": "haedo",
-                "d": "chart (of the sea)",
-                "s": ""
+                "w": "하죠",
+                "p": "hajyo",
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
             },
             {
                 "id": "ko-0356",
-                "w": "하죠",
-                "p": "hajyo",
-                "d": "Let's do it",
-                "s": ""
+                "w": "했는데",
+                "p": "haenneunde",
+                "d": "did, past tense of DO",
+                "s": "한 과목 듣긴 했는데, 실전 경험이 훨씬 더 유용한 것 같더라구요. (I took one class, but I've found that real-life experience is much more useful.)"
             },
             {
                 "id": "ko-0357",
-                "w": "했는데",
-                "p": "haenneunde",
-                "d": "I did it",
-                "s": ""
+                "w": "필요해",
+                "p": "piryohae",
+                "d": "to have a need",
+                "s": "원하는 것을 사는 데 있어서 300달러가 더 필요해. (I need another three hundred dollars to buy what I want.)"
             },
             {
                 "id": "ko-0358",
-                "w": "필요해",
-                "p": "piryohae",
-                "d": "to have a need; to be necessary, to be needed",
-                "s": ""
-            },
-            {
-                "id": "ko-0359",
                 "w": "아니요",
                 "p": "aniyo",
                 "d": "no",
-                "s": ""
+                "s": "\"스웨덴 사람이세요?\" \"아니요, 스위스 사람이예요.\" (\"Are you Swedish?\" \"No, I'm Swiss.\")"
             },
             {
-                "id": "ko-0360",
+                "id": "ko-0359",
                 "w": "적이",
                 "p": "jeogi",
                 "d": "enemy",
-                "s": ""
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
+            },
+            {
+                "id": "ko-0360",
+                "w": "있나요",
+                "p": "innayo",
+                "d": "to stay",
+                "s": "누군가를 너무도 많이 사랑하여 그것으로 울어 본 적이 있나요? (Have you ever loved somebody so much that it made you cry?)"
             },
             {
                 "id": "ko-0361",
-                "w": "있나요",
-                "p": "innayo",
-                "d": "Do you have it?",
-                "s": ""
-            },
-            {
-                "id": "ko-0362",
-                "w": "갖고",
-                "p": "gatgo",
-                "d": "have",
-                "s": ""
-            },
-            {
-                "id": "ko-0363",
                 "w": "돈을",
                 "p": "doneul",
                 "d": "money",
-                "s": ""
+                "s": "톰이 정말로 이런 데에 돈을 썼다니 믿을 수가 없다. (I can't believe that Tom actually spent money on this.)"
+            },
+            {
+                "id": "ko-0362",
+                "w": "주세요",
+                "p": "juseyo",
+                "d": "to give",
+                "s": "name@email.com 으로 이메일 보내 주세요. (Please write me at name@email.com.)"
+            },
+            {
+                "id": "ko-0363",
+                "w": "어디서",
+                "p": "eodiseo",
+                "d": "whence",
+                "s": "톰이 어디서 석류를 살 수 있는지 말해 주었다. (Tom told me where I could buy pomegranates.)"
             },
             {
                 "id": "ko-0364",
-                "w": "주세요",
-                "p": "juseyo",
-                "d": "Please",
-                "s": ""
+                "w": "것이",
+                "p": "geosi",
+                "d": "thing",
+                "s": "이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다. (In this horror movie, it is possible for the dead to come back to life.)"
             },
             {
                 "id": "ko-0365",
-                "w": "어디서",
-                "p": "eodiseo",
-                "d": "where",
-                "s": ""
+                "w": "거요",
+                "p": "geoyo",
+                "d": "thing",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
             },
             {
                 "id": "ko-0366",
-                "w": "것이",
-                "p": "geosi",
-                "d": "It is",
-                "s": ""
+                "w": "위한",
+                "p": "wihan",
+                "d": "to help",
+                "s": "그래서 나는 프랑스에 오래 머무르고 싶고, 그러기 위한 돈이 필요하다. (This is why I would like an extended visa, as well as funds for my stay.)"
             },
             {
                 "id": "ko-0367",
-                "w": "거요",
-                "p": "geoyo",
-                "d": "Yes",
-                "s": ""
+                "w": "것은",
+                "p": "geoseun",
+                "d": "thing",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
                 "id": "ko-0368",
-                "w": "위한",
-                "p": "wihan",
-                "d": "for",
-                "s": ""
-            },
-            {
-                "id": "ko-0369",
-                "w": "것은",
-                "p": "geoseun",
-                "d": "The thing is",
-                "s": ""
-            },
-            {
-                "id": "ko-0370",
                 "w": "없이",
                 "p": "eopsi",
                 "d": "without, lacking",
-                "s": ""
+                "s": "운좋게도 나는 어떤 중대한 오류도 없이 일을 끝마칠 수 있었어. (Fortunately I was able to finish my work without any serious errors.)"
             },
             {
-                "id": "ko-0371",
+                "id": "ko-0369",
                 "w": "나중에",
                 "p": "najunge",
                 "d": "later",
-                "s": ""
+                "s": "네가 나중에 후회할 만한 말은 하지마. (Don't say something you'll regret later.)"
             },
             {
-                "id": "ko-0372",
+                "id": "ko-0370",
                 "w": "아버지",
                 "p": "abeoji",
-                "d": "father (parent)",
-                "s": ""
+                "d": "father",
+                "s": "그녀는 그 사람한테서 아버지 같은 모습을 봤어. (She saw a father figure in him.)"
             },
             {
-                "id": "ko-0373",
+                "id": "ko-0371",
                 "w": "나랑",
                 "p": "narang",
                 "d": "country, nation, kingdom",
-                "s": ""
+                "s": "나랑 톰 둘다 코미디 보는 것을 선호해. (Both Tom and I prefer watching comedies.)"
+            },
+            {
+                "id": "ko-0372",
+                "w": "됐어요",
+                "p": "dwaesseoyo",
+                "d": "to become",
+                "s": "그녀는 간호사가 됐어요. (She became a nurse.)"
+            },
+            {
+                "id": "ko-0373",
+                "w": "마세요",
+                "p": "maseyo",
+                "d": "to not do something",
+                "s": "연필을 입에 넣지 마세요, 실수로 입천장을 찌를 수 있습니다. (Don’t put a pencil in your mouth. You might accidentally stab your palate.)"
             },
             {
                 "id": "ko-0374",
-                "w": "됐어요",
-                "p": "dwaesseoyo",
-                "d": "That's it",
-                "s": ""
+                "w": "차",
+                "p": "cha",
+                "d": "vehicle",
+                "s": "살면서 40분 차 타고 가는게 이렇게 길게 느껴졌던 적이 없어요. (It was the longest forty-minute drive of my life.)"
             },
             {
                 "id": "ko-0375",
-                "w": "마세요",
-                "p": "maseyo",
-                "d": "to smash",
-                "s": ""
-            },
-            {
-                "id": "ko-0376",
-                "w": "차",
-                "p": "cha",
-                "d": "tea",
-                "s": ""
-            },
-            {
-                "id": "ko-0377",
                 "w": "언제",
                 "p": "eonje",
                 "d": "when",
-                "s": ""
+                "s": "가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다. (Sometimes I wonder when the first world championship in cyberbullying will take place.)"
+            },
+            {
+                "id": "ko-0376",
+                "w": "그저",
+                "p": "geujeo",
+                "d": "just",
+                "s": "난 그저 최선을 다하고 있을 뿐이다. (I'm just doing my best.)"
+            },
+            {
+                "id": "ko-0377",
+                "w": "생각",
+                "p": "saenggak",
+                "d": "thought",
+                "s": "그걸 하는 것은 그리 좋은 생각 같진 않은데. (I don't think doing that would be such a good idea.)"
             },
             {
                 "id": "ko-0378",
-                "w": "그저",
-                "p": "geujeo",
-                "d": "just (only); constantly",
-                "s": ""
+                "w": "했지",
+                "p": "haetji",
+                "d": "did, past tense of DO",
+                "s": "내가 돼지고기 말고 소고기 사야한다고 했지. (I asked you to buy beef, not pork.)"
             },
             {
                 "id": "ko-0379",
-                "w": "생각",
-                "p": "saenggak",
-                "d": "thought; idea",
-                "s": ""
+                "w": "봤어",
+                "p": "bwasseo",
+                "d": "to see",
+                "s": "나는 릭을 그가 뉴질랜드로 돌아간 뒤에는 못 봤어. (I haven't seen Rick since he returned from New Zealand.)"
             },
             {
                 "id": "ko-0380",
-                "w": "했지",
-                "p": "haetji",
-                "d": "I did it",
-                "s": ""
+                "w": "해서",
+                "p": "haeseo",
+                "d": "regular script",
+                "s": "좋은 영어와 나쁜 영어는 어떻게 해서 구별할 수 있나요? (How can you tell good English from bad English?)"
             },
             {
                 "id": "ko-0381",
-                "w": "봤어",
-                "p": "bwasseo",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
-            },
-            {
-                "id": "ko-0382",
-                "w": "해서",
-                "p": "haeseo",
-                "d": "So",
-                "s": ""
-            },
-            {
-                "id": "ko-0383",
                 "w": "시간을",
                 "p": "siganeul",
                 "d": "time",
-                "s": ""
+                "s": "일주일에 세 시간을 공부하는 것은 언어를 배우기에 충분하지 않아. (Studying three hours a week wouldn't be enough to learn a language well.)"
+            },
+            {
+                "id": "ko-0382",
+                "w": "마지막",
+                "p": "majimak",
+                "d": "the end",
+                "s": "늙은 피와 젊은 피, 우리 모두 마지막 크루즈에 있다. (Old and young, we are all on our last cruise.)"
+            },
+            {
+                "id": "ko-0383",
+                "w": "알겠어",
+                "p": "algesseo",
+                "d": "to know, understand",
+                "s": "목사가 결혼에 대해 대체 뭘 알겠어? (What the hell does a priest know about marriage?)"
             },
             {
                 "id": "ko-0384",
-                "w": "마지막",
-                "p": "majimak",
-                "d": "the end; the last thing",
+                "w": "왜냐면",
+                "p": "waenyamyeon",
+                "d": "because",
                 "s": ""
             },
             {
                 "id": "ko-0385",
-                "w": "알겠어",
-                "p": "algesseo",
-                "d": "Okay",
-                "s": ""
+                "w": "위해서",
+                "p": "wihaeseo",
+                "d": "to help",
+                "s": "오스트리아에서는 고속도로 사용을 위해서 통행료를 지불해야 한다. (In Austria, you have to pay to use the highway.)"
             },
             {
                 "id": "ko-0386",
-                "w": "왜냐면",
-                "p": "waenyamyeon",
-                "d": "alternative form of 왜냐하면 (waenyahamyeon)",
-                "s": ""
-            },
-            {
-                "id": "ko-0387",
-                "w": "위해서",
-                "p": "wihaeseo",
-                "d": "for the sake of",
-                "s": ""
-            },
-            {
-                "id": "ko-0388",
                 "w": "엄청",
                 "p": "eomcheong",
                 "d": "very, really, awful",
-                "s": ""
+                "s": "그 사람 글은 여기저기 참고하라는 표시가 엄청 많았어. (His text was jam-packed with cross references.)"
             },
             {
-                "id": "ko-0389",
+                "id": "ko-0387",
                 "w": "알겠습니다",
                 "p": "algetseumnida",
-                "d": "Okay",
-                "s": ""
+                "d": "to know, understand",
+                "s": "알겠습니다. (All right.)"
             },
             {
-                "id": "ko-0390",
+                "id": "ko-0388",
                 "w": "오래",
                 "p": "orae",
                 "d": "long",
-                "s": ""
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
+            },
+            {
+                "id": "ko-0389",
+                "w": "기다려",
+                "p": "gidaryeo",
+                "d": "to wait for, to await",
+                "s": "제가 올 때까지 기다려 주세요. (Wait here until I come back.)"
+            },
+            {
+                "id": "ko-0390",
+                "w": "아닙니다",
+                "p": "animnida",
+                "d": "to not be",
+                "s": "나는 (언어?)모국어 사용자가 아닙니다. (I am not a native speaker.)"
             },
             {
                 "id": "ko-0391",
-                "w": "기다려",
-                "p": "gidaryeo",
-                "d": "to wait for, to await; to look forward to",
-                "s": ""
+                "w": "있는지",
+                "p": "inneunji",
+                "d": "to stay",
+                "s": "가장 가까운 골동품 가게가 어디 있는지 알려줄 수 있어? (Can you tell me where the nearest antique shop is?)"
             },
             {
                 "id": "ko-0392",
-                "w": "아닙니다",
-                "p": "animnida",
-                "d": "to not be (something)",
-                "s": ""
+                "w": "알겠어요",
+                "p": "algesseoyo",
+                "d": "to know, understand",
+                "s": "이것이 무슨 뜻인지 알겠어요? (Do you know what this means?)"
             },
             {
                 "id": "ko-0393",
-                "w": "있는지",
-                "p": "inneunji",
-                "d": "Is there",
-                "s": ""
+                "w": "제일",
+                "p": "jeil",
+                "d": "most, -est",
+                "s": "술 말고 내가 제일 좋아하는 음료수는 아보카도 쉐이크야. 흑, 너무 맛있어! (My favorite nonalcoholic drink is an avocado shake. Yum, it's so delicious!)"
             },
             {
                 "id": "ko-0394",
-                "w": "알겠어요",
-                "p": "algesseoyo",
-                "d": "Okay",
-                "s": ""
+                "w": "지난",
+                "p": "jinan",
+                "d": "last, past",
+                "s": "나는 그녀를 닷새 전, 그러니까 지난 금요일에 역에서 봤다. (I saw her at the station five days ago, that is, last Friday.)"
             },
             {
                 "id": "ko-0395",
-                "w": "제일",
-                "p": "jeil",
-                "d": "The best",
-                "s": ""
+                "w": "그렇죠",
+                "p": "geureochyo",
+                "d": "to be thus, in that way",
+                "s": "당신은 아직 은퇴하지 않은 거죠, 그렇죠? (You're not retired yet, are you?)"
             },
             {
                 "id": "ko-0396",
-                "w": "지난",
-                "p": "jinan",
-                "d": "past determiner of 지나다 (jinada): last, past",
-                "s": ""
+                "w": "죽은",
+                "p": "jugeun",
+                "d": "to die",
+                "s": "이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다. (In this horror movie, it is possible for the dead to come back to life.)"
             },
             {
                 "id": "ko-0397",
-                "w": "그렇죠",
-                "p": "geureochyo",
-                "d": "That's right",
-                "s": ""
+                "w": "제대로",
+                "p": "jedaero",
+                "d": "properly",
+                "s": "이게 버그인지 아닌지 모르겠는데, 이 소프트웨어는 제대로 동작하지 않아. (I don't know if it's a bug or what, but this software doesn't work right.)"
             },
             {
                 "id": "ko-0398",
-                "w": "죽은",
-                "p": "jugeun",
-                "d": "dead",
-                "s": ""
+                "w": "아니지",
+                "p": "aniji",
+                "d": "i really hope not",
+                "s": "걔네 그렇게 말을 잘 듣는 편은 아니지? (They aren't very obedient, are they?)"
             },
             {
                 "id": "ko-0399",
-                "w": "제대로",
-                "p": "jedaero",
-                "d": "properly, in the appropriate manner; sufficiently",
-                "s": ""
+                "w": "있다면",
+                "p": "itdamyeon",
+                "d": "to stay",
+                "s": "만약 벽이 말을 할 수 있다면, 그 벽이 어떤 이야기를 하게 될까? (If walls could talk, what stories would they tell us?)"
             },
             {
                 "id": "ko-0400",
-                "w": "아니지",
-                "p": "aniji",
-                "d": "No",
-                "s": ""
+                "w": "보면",
+                "p": "bomyeon",
+                "d": "to see",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
             },
             {
                 "id": "ko-0401",
-                "w": "있다면",
-                "p": "itdamyeon",
-                "d": "If there is",
-                "s": ""
+                "w": "우리를",
+                "p": "urireul",
+                "d": "we, us",
+                "s": "걱정하지 마. 결국 누군가 와서 우리를 구출할 거야. (Don't worry. Someone will come and rescue us eventually.)"
             },
             {
                 "id": "ko-0402",
-                "w": "보면",
-                "p": "bomyeon",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "w": "짓을",
+                "p": "jiseul",
+                "d": "a physical act or movement",
+                "s": "난 톰이 메리가 그 짓을 한 걸 용서하리라고는 생각하지 않는다. (I didn't think that Tom would ever forgive Mary for doing that.)"
             },
             {
                 "id": "ko-0403",
-                "w": "우리를",
-                "p": "urireul",
-                "d": "us",
-                "s": ""
-            },
-            {
-                "id": "ko-0404",
-                "w": "짓을",
-                "p": "jiseul",
-                "d": "do",
-                "s": ""
-            },
-            {
-                "id": "ko-0405",
                 "w": "남자",
                 "p": "namja",
                 "d": "man",
-                "s": ""
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
+            },
+            {
+                "id": "ko-0404",
+                "w": "너가",
+                "p": "neoga",
+                "d": "four",
+                "s": "너에게 전화를 걸고 싶었는데, 너가 안 받을까봐 결국 전화 못했어. (I wanted to phone you, but I thought you wouldn't get it so I didn't phone you in the end.)"
+            },
+            {
+                "id": "ko-0405",
+                "w": "있다는",
+                "p": "itdaneun",
+                "d": "to stay",
+                "s": "네가 고양이 알레르기가 있다는 걸 톰이 나한테 말했어. (Tom told me you were allergic to cats.)"
             },
             {
                 "id": "ko-0406",
-                "w": "너가",
-                "p": "neoga",
-                "d": "you",
-                "s": ""
+                "w": "누구",
+                "p": "nugu",
+                "d": "who",
+                "s": "\"이 책 누구 책이지?\" \"제 책이요.\" (\"Whose book is this?\" \"It's mine.\")"
             },
             {
                 "id": "ko-0407",
-                "w": "있다는",
-                "p": "itdaneun",
-                "d": "There is",
-                "s": ""
+                "w": "보여",
+                "p": "boyeo",
+                "d": "to be seen",
+                "s": "현미경 아래에선 몇몇 바이러스는 꽤 아름다워 보여. (Under a microscope, some viruses appear quite beautiful.)"
             },
             {
                 "id": "ko-0408",
-                "w": "누구",
-                "p": "nugu",
-                "d": "who; someone",
-                "s": ""
+                "w": "왔어요",
+                "p": "wasseoyo",
+                "d": "to come",
+                "s": "저는 볼리비아에서 왔어요. 저는 볼리비아 사람이고 스페인어를 합니다. (I come from Bolivia. I'm Bolivian, and I speak Spanish.)"
             },
             {
                 "id": "ko-0409",
-                "w": "보여",
-                "p": "boyeo",
-                "d": "I see it",
-                "s": ""
+                "w": "너한테",
+                "p": "neohante",
+                "d": "four",
+                "s": "너 정말 톰이 너한테 도움받도록 내버려 둘 것 같아? (Do you really think Tom will let you help him?)"
             },
             {
                 "id": "ko-0410",
-                "w": "왔어요",
-                "p": "wasseoyo",
-                "d": "I came",
-                "s": ""
+                "w": "여러분",
+                "p": "yeoreobun",
+                "d": "ladies and gentlemen",
+                "s": "여러분, 조금만 용기를 내주세요. (Everyone, please show more courage.)"
             },
             {
                 "id": "ko-0411",
-                "w": "너한테",
-                "p": "neohante",
-                "d": "To you",
-                "s": ""
-            },
-            {
-                "id": "ko-0412",
-                "w": "여러분",
-                "p": "yeoreobun",
-                "d": "ladies and gentlemen; everyone (present); you; everyone",
-                "s": ""
-            },
-            {
-                "id": "ko-0413",
                 "w": "완전히",
                 "p": "wanjeonhi",
                 "d": "completely, totally",
-                "s": ""
+                "s": "아버지의 사망을 알리는 전화를 받았을 때 나는 완전히 당황했다. (When I got the phone call telling me of my father's death, I was completely flustered.)"
+            },
+            {
+                "id": "ko-0412",
+                "w": "너의",
+                "p": "neoui",
+                "d": "four",
+                "s": "너의 얇고, 곱슬곱슬한 머리카락은 당면만큼 식욕을 돋우어. (Your fine, curly hair looks as appetizing as glass noodles.)"
+            },
+            {
+                "id": "ko-0413",
+                "w": "것이다",
+                "p": "geosida",
+                "d": "thing",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0414",
-                "w": "너의",
-                "p": "neoui",
-                "d": "your",
-                "s": ""
-            },
-            {
-                "id": "ko-0415",
-                "w": "것이다",
-                "p": "geosida",
-                "d": "will",
-                "s": ""
-            },
-            {
-                "id": "ko-0416",
                 "w": "밤",
                 "p": "bam",
                 "d": "night",
-                "s": ""
+                "s": "톰은 절대 밤 10시 이후에 그의 아이들이 티비를 보게 하지 않는다. (Tom never lets his children watch TV after 10:00 p.m.)"
+            },
+            {
+                "id": "ko-0415",
+                "w": "소리",
+                "p": "sori",
+                "d": "sound",
+                "s": "사미는 바텐더에게 소리 지르고 욕하고 있었어. (Sami was screaming and cursing at the bartender.)"
+            },
+            {
+                "id": "ko-0416",
+                "w": "없지",
+                "p": "eopji",
+                "d": "to have none",
+                "s": "너 프랑스어 공부해본 적 없지? (You've never studied French, have you?)"
             },
             {
                 "id": "ko-0417",
-                "w": "소리",
-                "p": "sori",
-                "d": "sound; voice",
-                "s": ""
-            },
-            {
-                "id": "ko-0418",
-                "w": "없지",
-                "p": "eopji",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-0419",
                 "w": "벌써",
                 "p": "beolsseo",
                 "d": "already",
-                "s": ""
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
+            },
+            {
+                "id": "ko-0418",
+                "w": "모르겠어요",
+                "p": "moreugesseoyo",
+                "d": "to not know",
+                "s": "죄송하지만, 무엇을 해야 할 지 모르겠어요. (I'm sorry, but I don't know what to do.)"
+            },
+            {
+                "id": "ko-0419",
+                "w": "올",
+                "p": "ol",
+                "d": "this year",
+                "s": "톰은 몸이 좋지 않아서 오늘 일하러 올 수 없습니다. (Tom can't come to work today because he doesn't feel well.)"
             },
             {
                 "id": "ko-0420",
-                "w": "모르겠어요",
-                "p": "moreugesseoyo",
-                "d": "I don't know",
-                "s": ""
+                "w": "사람들을",
+                "p": "saramdeureul",
+                "d": "people, persons",
+                "s": "혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다. (Every person who is alone is alone because they are afraid of others.)"
             },
             {
                 "id": "ko-0421",
-                "w": "말이지",
-                "p": "mariji",
-                "d": "That's right",
-                "s": ""
+                "w": "처음",
+                "p": "cheoeum",
+                "d": "the first time",
+                "s": "너무 다그치지말고 여유를 좀 줘봐, 오늘이 처음 일하는 날이잖아. (Cut him some slack, John. It's his first day on the job.)"
             },
             {
                 "id": "ko-0422",
-                "w": "올",
-                "p": "ol",
-                "d": "come",
-                "s": ""
+                "w": "사람들",
+                "p": "saramdeul",
+                "d": "people, persons",
+                "s": "톰은 말더듬이 있는데, 사람들 앞에서 말해야 하면 더 심해져. (Tom has a speech impediment, which gets worse if he has to speak in public.)"
             },
             {
                 "id": "ko-0423",
-                "w": "사람들을",
-                "p": "saramdeureul",
-                "d": "people",
-                "s": ""
+                "w": "그녀의",
+                "p": "geunyeoui",
+                "d": "girlfriend",
+                "s": "그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다. (Her husband eats everything she puts in front of him.)"
             },
             {
                 "id": "ko-0424",
-                "w": "처음",
-                "p": "cheoeum",
-                "d": "first time",
-                "s": ""
+                "w": "멋진",
+                "p": "meotjin",
+                "d": "to be cool, splendid",
+                "s": "그 금발 소녀는 정말 멋진 가슴 골을 가지고 있다. (The blonde girl has a really nice cleavage.)"
             },
             {
                 "id": "ko-0425",
-                "w": "말이죠",
-                "p": "marijyo",
-                "d": "I mean",
+                "w": "왜요",
+                "p": "waeyo",
+                "d": "to repeat",
                 "s": ""
             },
             {
                 "id": "ko-0426",
-                "w": "사람들",
-                "p": "saramdeul",
-                "d": "plural of 사람 (saram): people, persons",
-                "s": ""
+                "w": "정말로",
+                "p": "jeongmallo",
+                "d": "really",
+                "s": "톰이 정말로 이런 데에 돈을 썼다니 믿을 수가 없다. (I can't believe that Tom actually spent money on this.)"
             },
             {
                 "id": "ko-0427",
-                "w": "그녀의",
-                "p": "geunyeoui",
-                "d": "her",
-                "s": ""
+                "w": "이름은",
+                "p": "ireumeun",
+                "d": "name",
+                "s": "제 이름은 스테판이고 이 분은 크리스티안입니다. (My name is Stephan and this is Christian.)"
             },
             {
                 "id": "ko-0428",
-                "w": "멋진",
-                "p": "meotjin",
-                "d": "to be cool, splendid",
-                "s": ""
+                "w": "와서",
+                "p": "waseo",
+                "d": "to come",
+                "s": "걱정하지 마. 결국 누군가 와서 우리를 구출할 거야. (Don't worry. Someone will come and rescue us eventually.)"
             },
             {
                 "id": "ko-0429",
-                "w": "왜요",
-                "p": "waeyo",
-                "d": "Why",
-                "s": ""
+                "w": "대해서",
+                "p": "daehaeseo",
+                "d": "to pertain or relate to a topic",
+                "s": "오늘 동료 한명이 본인 직장에 대해서 애기해줬어. (Today one of my colleagues talked about his job.)"
             },
             {
                 "id": "ko-0430",
-                "w": "정말로",
-                "p": "jeongmallo",
-                "d": "really; truly",
-                "s": ""
+                "w": "여보",
+                "p": "yeobo",
+                "d": "darling",
+                "s": "여보, 뭐 하고 있어요? (What are you doing, darling?)"
             },
             {
                 "id": "ko-0431",
-                "w": "이름은",
-                "p": "ireumeun",
-                "d": "The name is",
-                "s": ""
-            },
-            {
-                "id": "ko-0432",
-                "w": "와서",
-                "p": "waseo",
-                "d": "informal non-polite cause/reason form of 오다 (oda, “to come”)",
-                "s": ""
-            },
-            {
-                "id": "ko-0433",
-                "w": "대해서",
-                "p": "daehaeseo",
-                "d": "About",
-                "s": ""
-            },
-            {
-                "id": "ko-0434",
-                "w": "여보",
-                "p": "yeobo",
-                "d": "darling, honey, sweetheart",
-                "s": ""
-            },
-            {
-                "id": "ko-0435",
                 "w": "조금",
                 "p": "jogeum",
                 "d": "a little",
-                "s": ""
+                "s": "지금 너무 덥네요. 더위가 조금 가실 때까지 기다렸다가 나가요. (It is very hot right now. Let's wait until the heat eases a little before going out.)"
+            },
+            {
+                "id": "ko-0432",
+                "w": "않았어",
+                "p": "anasseo",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰이 그렇게 하지 않도록 네가 설득할 수 있을 거라고 생각하지 않았어. (I didn't think that you could persuade Tom not to do that.)"
+            },
+            {
+                "id": "ko-0433",
+                "w": "말이에요",
+                "p": "marieyo",
+                "d": "speech",
+                "s": "그는 사람들에게 말 한 마디 없이 사무실을 떠났다. (He left the office without saying a word to anyone.)"
+            },
+            {
+                "id": "ko-0434",
+                "w": "이름이",
+                "p": "ireumi",
+                "d": "name",
+                "s": "나는 네 이름이 마음에 들지 않는다. (I don't like your name.)"
+            },
+            {
+                "id": "ko-0435",
+                "w": "여보세요",
+                "p": "yeoboseyo",
+                "d": "hello",
+                "s": "네, 여보세요, 마츠이입니다. (Yes, hello? Matsui here.)"
             },
             {
                 "id": "ko-0436",
-                "w": "않았어",
-                "p": "anasseo",
-                "d": "I didn't",
-                "s": ""
+                "w": "서로",
+                "p": "seoro",
+                "d": "mutually",
+                "s": "메리와 앨리스가 서로 자매라는 것을 알고 있었어? (Did you know Mary and Alice were sisters?)"
             },
             {
                 "id": "ko-0437",
-                "w": "말이에요",
-                "p": "marieyo",
-                "d": "I mean",
+                "w": "안돼요",
+                "p": "andwaeyo",
+                "d": "to fail",
                 "s": ""
             },
             {
                 "id": "ko-0438",
-                "w": "이름이",
-                "p": "ireumi",
-                "d": "The name is",
-                "s": ""
+                "w": "죽을",
+                "p": "jugeul",
+                "d": "to die",
+                "s": "나는 아침으로 달걀을 좋아해. 우리 언니는 죽을 더 좋아하고. (I like eggs for breakfast. My sister prefers porridge.)"
             },
             {
                 "id": "ko-0439",
-                "w": "여보세요",
-                "p": "yeoboseyo",
-                "d": "hello (when asking or answering the telephone); hello (when trying to get the attention of someone who does not appear to be listening)",
-                "s": ""
+                "w": "첫",
+                "p": "cheot",
+                "d": "first",
+                "s": "영어는 내 첫 번째 언어가 아니야. (English is not my first language.)"
             },
             {
                 "id": "ko-0440",
-                "w": "서로",
-                "p": "seoro",
-                "d": "each other",
-                "s": ""
-            },
-            {
-                "id": "ko-0441",
-                "w": "안돼요",
-                "p": "andwaeyo",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-0442",
-                "w": "죽을",
-                "p": "jugeul",
-                "d": "die",
-                "s": ""
-            },
-            {
-                "id": "ko-0443",
-                "w": "첫",
-                "p": "cheot",
-                "d": "first; initial",
-                "s": ""
-            },
-            {
-                "id": "ko-0444",
                 "w": "매우",
                 "p": "maeu",
                 "d": "very, extremely",
-                "s": ""
+                "s": "사랑과 우정 사이에 경계선을 긋는 것은 매우 어려운 일이다. (It is very difficult to draw the boundary between love and friendship.)"
             },
             {
-                "id": "ko-0445",
+                "id": "ko-0441",
                 "w": "사랑해",
                 "p": "saranghae",
                 "d": "I love you",
-                "s": ""
+                "s": "내가 늑대 인간이 아니어도 여전히 날 사랑해 주겠니? (Would you still love me if I wasn't a werewolf?)"
+            },
+            {
+                "id": "ko-0442",
+                "w": "오늘은",
+                "p": "oneureun",
+                "d": "today",
+                "s": "오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다. (Today will once again be remembered as a great day for us.)"
+            },
+            {
+                "id": "ko-0443",
+                "w": "싶은",
+                "p": "sipeun",
+                "d": "to be desirous of",
+                "s": "난 여자친구를 갖고 싶은 게 아니라 사랑을 하고 싶은 거야. (It's not that I want a girlfriend, I just want to be in love.)"
+            },
+            {
+                "id": "ko-0444",
+                "w": "어디로",
+                "p": "eodiro",
+                "d": "whereto, whither",
+                "s": "톰은 메리가 어디로 갔는지 모릅니다. (Tom doesn't know where Mary went.)"
+            },
+            {
+                "id": "ko-0445",
+                "w": "단지",
+                "p": "danji",
+                "d": "just, only",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0446",
-                "w": "오늘은",
-                "p": "oneureun",
-                "d": "Today",
-                "s": ""
+                "w": "아닌",
+                "p": "anin",
+                "d": "to not be",
+                "s": "결국에 우리의 기억에 남는 것은, 적들의 말이 아닌 친구의 침묵이 될것이다. (In the end, we will remember not the words of our enemies, but the silence of our friends.)"
             },
             {
                 "id": "ko-0447",
-                "w": "싶은",
-                "p": "sipeun",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "w": "나가",
+                "p": "naga",
+                "d": "to go out",
+                "s": "그것에서 떨어져 나가. (Get away from it.)"
             },
             {
                 "id": "ko-0448",
-                "w": "어디로",
-                "p": "eodiro",
-                "d": "where",
-                "s": ""
+                "w": "뿐이야",
+                "p": "ppuniya",
+                "d": "only, just",
+                "s": "나는 그 누구도 나한테 화를 안냈으면 좋겠을 뿐이야. (I just don't want anyone to be mad at me.)"
             },
             {
                 "id": "ko-0449",
-                "w": "단지",
-                "p": "danji",
-                "d": "just",
-                "s": ""
+                "w": "미안",
+                "p": "mian",
+                "d": "shame",
+                "s": "\"7시에 깨워달라고 했잖아.\" \"미안, 잊어버렸어.\" (\"I told you to wake me up at 7.\" \"Sorry, I forgot.\")"
             },
             {
                 "id": "ko-0450",
-                "w": "아닌",
-                "p": "anin",
-                "d": "to not be (something)",
-                "s": ""
+                "w": "확실히",
+                "p": "hwaksilhi",
+                "d": "surely",
+                "s": "흠, 너는 확실히 톰에게 연애감정을 가지고 있군. (Well, you obviously have romantic feelings for Tom.)"
             },
             {
                 "id": "ko-0451",
-                "w": "나가",
-                "p": "naga",
-                "d": "get out",
-                "s": ""
+                "w": "싶어요",
+                "p": "sipeoyo",
+                "d": "to be desirous of",
+                "s": "산타 할아버지, 크리스마스 선물로 여자친구를 받고 싶어요 (Santa Claus, I want to receive a girlfriend for Christmas.)"
             },
             {
                 "id": "ko-0452",
-                "w": "뿐이야",
-                "p": "ppuniya",
-                "d": "It's just",
-                "s": ""
+                "w": "죄송합니다",
+                "p": "joesonghamnida",
+                "d": "to be sorry",
+                "s": "당신을 너무 오래 기다리게 해서 죄송합니다. (I am sorry to have kept you waiting so long.)"
             },
             {
                 "id": "ko-0453",
-                "w": "미안",
-                "p": "mian",
-                "d": "sorry",
-                "s": ""
+                "w": "때까지",
+                "p": "ttaekkaji",
+                "d": "time",
+                "s": "지금 너무 덥네요. 더위가 조금 가실 때까지 기다렸다가 나가요. (It is very hot right now. Let's wait until the heat eases a little before going out.)"
             },
             {
                 "id": "ko-0454",
-                "w": "확실히",
-                "p": "hwaksilhi",
-                "d": "surely, certainly, definitely, unquestionably, for certain, for sure, without doubt",
-                "s": ""
+                "w": "없고",
+                "p": "eopgo",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
                 "id": "ko-0455",
-                "w": "싶어요",
-                "p": "sipeoyo",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "w": "어때요",
+                "p": "eottaeyo",
+                "d": "in what state",
+                "s": "맥주 한 잔 어때요? (What about a glass of beer?)"
             },
             {
                 "id": "ko-0456",
-                "w": "죄송합니다",
-                "p": "joesonghamnida",
-                "d": "sorry",
-                "s": ""
-            },
-            {
-                "id": "ko-0457",
-                "w": "때까지",
-                "p": "ttaekkaji",
-                "d": "until",
-                "s": ""
-            },
-            {
-                "id": "ko-0458",
-                "w": "없고",
-                "p": "eopgo",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
-            },
-            {
-                "id": "ko-0459",
-                "w": "어때요",
-                "p": "eottaeyo",
-                "d": "How are you?",
-                "s": ""
-            },
-            {
-                "id": "ko-0460",
                 "w": "살",
                 "p": "sal",
                 "d": "flesh",
-                "s": ""
+                "s": "톰이 어디서 석류를 살 수 있는지 말해 주었다. (Tom told me where I could buy pomegranates.)"
             },
             {
-                "id": "ko-0461",
+                "id": "ko-0457",
                 "w": "당연히",
                 "p": "dangyeonhi",
                 "d": "naturally, of course",
-                "s": ""
+                "s": "당연히 돈을 내야한다. 어떻게 생각했니? (Of course you have to pay. What did you think?)"
+            },
+            {
+                "id": "ko-0458",
+                "w": "필요한",
+                "p": "piryohan",
+                "d": "to have a need",
+                "s": "우리에게 필요한 것이 무엇인지 하나님께서는 아신다. (God knows what we need.)"
+            },
+            {
+                "id": "ko-0459",
+                "w": "없다",
+                "p": "eopda",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
+            },
+            {
+                "id": "ko-0460",
+                "w": "후",
+                "p": "hu",
+                "d": "after",
+                "s": "톰은 메리가 보스턴으로 이사 온 후 만난 첫번째 사람이다. (Tom was one the first people Mary met when she moved to Boston.)"
+            },
+            {
+                "id": "ko-0461",
+                "w": "가고",
+                "p": "gago",
+                "d": "to go",
+                "s": "모두 천국에 가고 싶어 하나, 누구도 죽고 싶어 하지 않는다. (Everyone wants to go to heaven, but nobody wants to die.)"
             },
             {
                 "id": "ko-0462",
-                "w": "데리고",
-                "p": "derigo",
-                "d": "take it with you",
+                "w": "글쎄",
+                "p": "geulsse",
+                "d": "well",
                 "s": ""
             },
             {
                 "id": "ko-0463",
-                "w": "필요한",
-                "p": "piryohan",
-                "d": "to have a need; to be necessary, to be needed",
-                "s": ""
+                "w": "않는",
+                "p": "anneun",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아. (I don't like teachers who like students who don't like asking questions.)"
             },
             {
                 "id": "ko-0464",
-                "w": "없다",
-                "p": "eopda",
-                "d": "None",
-                "s": ""
+                "w": "했죠",
+                "p": "haetjyo",
+                "d": "did, past tense of DO",
+                "s": "사미는 레일라가 왜 히잡을 쓰지 않기로 했는지 알고 싶어 했다. (Sami wanted to know why Layla decided to take off the hijab.)"
             },
             {
                 "id": "ko-0465",
-                "w": "후",
-                "p": "hu",
-                "d": "after",
-                "s": ""
+                "w": "나의",
+                "p": "naui",
+                "d": "I, me",
+                "s": "나의 사촌이 아직 어려서, 그들은 그에게 좀 더 기회를 줬다. (Because my nephew was still young, they cut him some slack.)"
             },
             {
                 "id": "ko-0466",
-                "w": "가고",
-                "p": "gago",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
+                "w": "별로",
+                "p": "byeollo",
+                "d": "very",
+                "s": "\"허리가 아퍼?\" \"아니, 별로.\" \"그래, 그게 불행 중 다행이야.\" (\"Does your back hurt?\" \"No, not really.\" \"Oh, that's something then, isn't it?\")"
             },
             {
                 "id": "ko-0467",
-                "w": "글쎄",
-                "p": "geulsse",
-                "d": "well; I'm not sure",
-                "s": ""
+                "w": "않은",
+                "p": "aneun",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
             },
             {
                 "id": "ko-0468",
-                "w": "않는",
-                "p": "anneun",
-                "d": "auxiliary verb used to negate the clause to which the main verb belongs; to not do something",
-                "s": ""
+                "w": "라고",
+                "p": "rago",
+                "d": "라고",
+                "s": "작고 흰 토끼는 \"무슨 일 있니?\" 라고 물어봤습니다. (\"What's the matter?\" asked the little white rabbit.)"
             },
             {
                 "id": "ko-0469",
-                "w": "했죠",
-                "p": "haetjyo",
-                "d": "I did it",
-                "s": ""
+                "w": "집",
+                "p": "jip",
+                "d": "home, house",
+                "s": "우리는 일요일에는 집 가까이에 있는 공원에서 캐치볼을 합니다. (We play catch in the park near our house on Sundays.)"
             },
             {
                 "id": "ko-0470",
-                "w": "나의",
-                "p": "naui",
-                "d": "my",
-                "s": ""
-            },
-            {
-                "id": "ko-0471",
-                "w": "별로",
-                "p": "byeollo",
-                "d": "Not really",
-                "s": ""
-            },
-            {
-                "id": "ko-0472",
-                "w": "않은",
-                "p": "aneun",
-                "d": "not",
-                "s": ""
-            },
-            {
-                "id": "ko-0473",
-                "w": "라고",
-                "p": "rago",
-                "d": "says",
-                "s": ""
-            },
-            {
-                "id": "ko-0474",
-                "w": "집",
-                "p": "jip",
-                "d": "house",
-                "s": ""
-            },
-            {
-                "id": "ko-0475",
                 "w": "여전히",
                 "p": "yeojeonhi",
                 "d": "still, just as before",
-                "s": ""
+                "s": "내가 늑대 인간이 아니어도 여전히 날 사랑해 주겠니? (Would you still love me if I wasn't a werewolf?)"
+            },
+            {
+                "id": "ko-0471",
+                "w": "없을",
+                "p": "eopseul",
+                "d": "to have none",
+                "s": "나는 혼자서는 그걸 할 수 없을 거라는 걸 알아. (I know that I won't be able to do that by myself.)"
+            },
+            {
+                "id": "ko-0472",
+                "w": "딱",
+                "p": "ttak",
+                "d": "while colliding together",
+                "s": "내가 그걸 하지 말아야 할 딱 한 가지 이유만 대봐. (Give me one good reason why I shouldn't do that.)"
+            },
+            {
+                "id": "ko-0473",
+                "w": "있어서",
+                "p": "isseoseo",
+                "d": "to stay",
+                "s": "톰은 메리가 자신한테 있어서 너무 나이가 많다고 여기고 있어. (Tom thinks Mary is too old for him.)"
+            },
+            {
+                "id": "ko-0474",
+                "w": "이야기",
+                "p": "iyagi",
+                "d": "talk",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
+            },
+            {
+                "id": "ko-0475",
+                "w": "엄마는",
+                "p": "eommaneun",
+                "d": "mum, mummy",
+                "s": "우리 엄마는 나이에 비해 여전히 젊어 보여요. (My mom still looks a lot younger than her age.)"
             },
             {
                 "id": "ko-0476",
-                "w": "없을",
-                "p": "eopseul",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "w": "부인",
+                "p": "buin",
+                "d": "wife",
+                "s": "론스쿠 부인, 여쭐 것이 있습니다. (Mrs. Ionescu, I'd like to ask you something.)"
             },
             {
                 "id": "ko-0477",
-                "w": "딱",
-                "p": "ttak",
-                "d": "while colliding together; while stopping suddenly, decisively",
-                "s": ""
+                "w": "하는데",
+                "p": "haneunde",
+                "d": "to do",
+                "s": "그것을 하는데 톰은 메리보다 더 빠를지도 모른다. (Tom may be faster at doing that than Mary.)"
             },
             {
                 "id": "ko-0478",
-                "w": "있어서",
-                "p": "isseoseo",
-                "d": "Because",
-                "s": ""
+                "w": "않고",
+                "p": "anko",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "나는 무릎을 굽히지 않고 양쪽 손바닥을 바닥에 닿게 할 수 있어. (I can place the palms of my hands on the floor without bending my knees.)"
             },
             {
                 "id": "ko-0479",
-                "w": "이야기",
-                "p": "iyagi",
-                "d": "talk; story; anecdote",
-                "s": ""
+                "w": "알았지",
+                "p": "aratji",
+                "d": "to know, understand",
+                "s": "난 톰과 메리가 나를 인질로 잡을 줄 알았지. (I thought Tom and Mary were going to use me as a hostage.)"
             },
             {
                 "id": "ko-0480",
-                "w": "엄마는",
-                "p": "eommaneun",
-                "d": "Mom is",
-                "s": ""
+                "w": "아니고",
+                "p": "anigo",
+                "d": "to not be",
+                "s": "이거 똥 아니고 진흙이야. (It's not shit. It's mud.)"
             },
             {
                 "id": "ko-0481",
-                "w": "부인",
-                "p": "buin",
-                "d": "(another person's) wife; Lady (honorary title bestowed on ladies of the high aristocracy in the Goryeo and Joseon dynasties)",
-                "s": ""
+                "w": "여자가",
+                "p": "yeojaga",
+                "d": "woman",
+                "s": "그 여자가 파티에 입고 온 드레스가 사람들의 눈길을 끌었지. (Her dress attracted everyone's attention at the party.)"
             },
             {
                 "id": "ko-0482",
-                "w": "하는데",
-                "p": "haneunde",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "w": "문",
+                "p": "mun",
+                "d": "door",
+                "s": "너한테 문 닫았다고 말해주지 않았나? (Didn't I tell you to close the door?)"
             },
             {
                 "id": "ko-0483",
-                "w": "않고",
-                "p": "anko",
-                "d": "Without",
-                "s": ""
+                "w": "되지",
+                "p": "doeji",
+                "d": "to become",
+                "s": "이 문장은 언어 학습자에게 별로 도움이 되지 않는다. (This sentence isn't useful for language learners.)"
             },
             {
                 "id": "ko-0484",
-                "w": "알았지",
-                "p": "aratji",
-                "d": "Okay",
-                "s": ""
+                "w": "거기서",
+                "p": "geogiseo",
+                "d": "thereat, whereupon",
+                "s": "톰은 매리한테 거기서 수영하지 말라고 말했다. (Tom told Mary not to swim there.)"
             },
             {
                 "id": "ko-0485",
-                "w": "아니고",
-                "p": "anigo",
-                "d": "to not be (something)",
-                "s": ""
+                "w": "훨씬",
+                "p": "hwolssin",
+                "d": "much more or less",
+                "s": "내가 원어민이랑 공부한다면 내 프랑스어 실력은 훨씬 더 나을 텐데. (My French would likely be much better today if I'd studied with a native speaker.)"
             },
             {
                 "id": "ko-0486",
-                "w": "여자가",
-                "p": "yeojaga",
-                "d": "the woman",
-                "s": ""
+                "w": "아버지가",
+                "p": "abeojiga",
+                "d": "father",
+                "s": "그 사람은 자신의 아버지가 가난하다는 사실을 부끄러워하지 않아. (He’s not ashamed of the fact that his father is poor.)"
             },
             {
                 "id": "ko-0487",
-                "w": "문",
-                "p": "mun",
-                "d": "door; phylum",
-                "s": ""
+                "w": "망할",
+                "p": "manghal",
+                "d": "to fail, to go under",
+                "s": "그 망할 손 치워, 후레자식아! (Take your fucking hands off me, you bastard!)"
             },
             {
                 "id": "ko-0488",
-                "w": "되지",
-                "p": "doeji",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-0489",
-                "w": "거기서",
-                "p": "geogiseo",
-                "d": "there",
-                "s": ""
-            },
-            {
-                "id": "ko-0490",
-                "w": "훨씬",
-                "p": "hwolssin",
-                "d": "much more or less (than normal); a lot; long (before or after); far more",
-                "s": ""
-            },
-            {
-                "id": "ko-0491",
-                "w": "아버지가",
-                "p": "abeojiga",
-                "d": "my father",
-                "s": ""
-            },
-            {
-                "id": "ko-0492",
-                "w": "망할",
-                "p": "manghal",
-                "d": "damn",
-                "s": ""
-            },
-            {
-                "id": "ko-0493",
                 "w": "뭔지",
                 "p": "mwonji",
                 "d": "what it is",
-                "s": ""
+                "s": "그들이 원하는 게 뭔지 모르겠다. (I'm not sure what they want.)"
             },
             {
-                "id": "ko-0494",
+                "id": "ko-0489",
                 "w": "손",
                 "p": "son",
-                "d": "hand (organ of humans and humanoid animals); free hand",
-                "s": ""
+                "d": "hand",
+                "s": "그 망할 손 치워, 후레자식아! (Take your fucking hands off me, you bastard!)"
             },
             {
-                "id": "ko-0495",
+                "id": "ko-0490",
                 "w": "수술",
                 "p": "susul",
                 "d": "surgery",
                 "s": ""
             },
             {
-                "id": "ko-0496",
+                "id": "ko-0491",
                 "w": "듣고",
                 "p": "deutgo",
-                "d": "listen",
-                "s": ""
+                "d": "to listen, to hear",
+                "s": "이런 늦은 시간에 미안해. 목소리 듣고 싶어서 전화를 걸어버렸네. (I'm sorry for calling so late. I just wanted to hear your voice.)"
             },
             {
-                "id": "ko-0497",
+                "id": "ko-0492",
                 "w": "어쩌면",
                 "p": "eojjeomyeon",
-                "d": "maybe",
-                "s": ""
+                "d": "perhaps",
+                "s": "내가 갖고 있는 게 어쩌면 네가 원하는 것일 수도 있어. (I think I've got something you might want.)"
             },
             {
-                "id": "ko-0498",
+                "id": "ko-0493",
                 "w": "보세요",
                 "p": "boseyo",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "d": "to see",
+                "s": "한국 드라마를 보세요? (Do you watch Korean dramas?)"
             },
             {
-                "id": "ko-0499",
+                "id": "ko-0494",
                 "w": "생각이",
                 "p": "saenggagi",
                 "d": "thought",
-                "s": ""
+                "s": "그건 내 생각이 아니라 톰의 생각이었어. 내 탓 하지 마. (It was Tom's idea, not mine. Don't blame me.)"
             },
             {
-                "id": "ko-0500",
+                "id": "ko-0495",
                 "w": "어느",
                 "p": "eoneu",
-                "d": "which; a certain, one, some",
-                "s": ""
+                "d": "which",
+                "s": "샌드위치랑 주먹밥 중에 어느 것이 더 부담스러워? (Which are heavier, sandwiches or onigiris?)"
             },
             {
-                "id": "ko-0501",
+                "id": "ko-0496",
                 "w": "그러지",
                 "p": "geureoji",
-                "d": "That's right",
-                "s": ""
+                "d": "to do so",
+                "s": "톰과 메리는 또 그러지 않을 거야, 그렇지? (Tom and Mary didn't do that again, did they?)"
             },
             {
-                "id": "ko-0502",
+                "id": "ko-0497",
                 "w": "되면",
                 "p": "doemyeon",
-                "d": "If it happens",
-                "s": ""
+                "d": "to become",
+                "s": "만약 돈을 빌려야 되면, 나한테 알려줘. (If you need to borrow some money, let me know.)"
             },
             {
-                "id": "ko-0503",
+                "id": "ko-0498",
                 "w": "아마도",
                 "p": "amado",
                 "d": "maybe",
-                "s": ""
+                "s": "톰은 아마도 거기에 갈 거야. (Tom is probably going to be there.)"
             },
             {
-                "id": "ko-0504",
+                "id": "ko-0499",
                 "w": "준비",
                 "p": "junbi",
                 "d": "readiness, preparation",
-                "s": ""
+                "s": "톰이 자기 갈 준비 됐다고 말했어. (Tom said he was ready to go.)"
             },
             {
-                "id": "ko-0505",
+                "id": "ko-0500",
                 "w": "전화",
                 "p": "jeonhwa",
                 "d": "telephone, phone",
-                "s": ""
+                "s": "너에게 전화를 걸고 싶었는데, 너가 안 받을까봐 결국 전화 못했어. (I wanted to phone you, but I thought you wouldn't get it so I didn't phone you in the end.)"
+            },
+            {
+                "id": "ko-0501",
+                "w": "뒤에",
+                "p": "dwie",
+                "d": "on the backside, behind",
+                "s": "톰의 아버지는 몇 년 뒤에 재혼했어. (Tom's father remarried after a few years.)"
+            },
+            {
+                "id": "ko-0502",
+                "w": "도대체",
+                "p": "dodaeche",
+                "d": "on earth",
+                "s": "도대체 누구를 속인다고 생각해? 자기 자신이나 속이지 마. (Who do you think you're fooling? Stop fooling yourself.)"
+            },
+            {
+                "id": "ko-0503",
+                "w": "너를",
+                "p": "neoreul",
+                "d": "to be wide",
+                "s": "나는 어제밤에 톰과 이야기 했었는데 톰은 너를 좋아한다고 말했었다. (I spoke to Tom last night and he told me that he likes you.)"
+            },
+            {
+                "id": "ko-0504",
+                "w": "당신도",
+                "p": "dangsindo",
+                "d": "you",
+                "s": "당신도 연루되었습니까? (Are you involved?)"
+            },
+            {
+                "id": "ko-0505",
+                "w": "것처럼",
+                "p": "geotcheoreom",
+                "d": "thing",
+                "s": "어제 술을 너무 많이 마셔서 오늘 머리가 깨질 것처럼 아파요. (I drank so much alcohol yesterday that my head feels like it will explode.)"
             },
             {
                 "id": "ko-0506",
-                "w": "뒤에",
-                "p": "dwie",
-                "d": "behind",
-                "s": ""
+                "w": "않으면",
+                "p": "aneumyeon",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "열심히 공부하지 않으면 앞으로도 낮은 점수를 받게 될 거야. (If you don't study hard, you'll continue to get poor scores.)"
             },
             {
                 "id": "ko-0507",
-                "w": "도대체",
-                "p": "dodaeche",
-                "d": "on earth; the hell; not at all, unfortunately",
-                "s": ""
+                "w": "말하는",
+                "p": "malhaneun",
+                "d": "to speak, to talk",
+                "s": "톰은 메리와 존이 말하는 것을 들으며 창문 밖에 서 있었다. (Tom was standing outside the window, listening to Mary and John talking.)"
             },
             {
                 "id": "ko-0508",
-                "w": "너를",
-                "p": "neoreul",
-                "d": "you",
-                "s": ""
+                "w": "최고의",
+                "p": "choegoui",
+                "d": "the peak",
+                "s": "오스트레일리아는 최고의 관광지이다. (Australia is a great place for sightseeing.)"
             },
             {
                 "id": "ko-0509",
-                "w": "당신도",
-                "p": "dangsindo",
-                "d": "You too",
-                "s": ""
+                "w": "말하지",
+                "p": "malhaji",
+                "d": "to speak, to talk",
+                "s": "그는 아무에게도 말하지 않겠다고 내게 약속했다. (He promised me he wouldn't tell anyone.)"
             },
             {
                 "id": "ko-0510",
-                "w": "것처럼",
-                "p": "geotcheoreom",
-                "d": "As if",
-                "s": ""
-            },
-            {
-                "id": "ko-0511",
-                "w": "않으면",
-                "p": "aneumyeon",
-                "d": "If not",
-                "s": ""
-            },
-            {
-                "id": "ko-0512",
-                "w": "말하는",
-                "p": "malhaneun",
-                "d": "talking",
-                "s": ""
-            },
-            {
-                "id": "ko-0513",
-                "w": "최고의",
-                "p": "choegoui",
-                "d": "best",
-                "s": ""
-            },
-            {
-                "id": "ko-0514",
-                "w": "말하지",
-                "p": "malhaji",
-                "d": "tell me",
-                "s": ""
-            },
-            {
-                "id": "ko-0515",
                 "w": "세",
                 "p": "se",
                 "d": "three",
-                "s": ""
+                "s": "일주일에 세 시간을 공부하는 것은 언어를 배우기에 충분하지 않아. (Studying three hours a week wouldn't be enough to learn a language well.)"
             },
             {
-                "id": "ko-0516",
+                "id": "ko-0511",
                 "w": "모르는",
                 "p": "moreuneun",
-                "d": "don't know",
-                "s": ""
+                "d": "to not know",
+                "s": "무슨 말을 할지 모르는 채, 그는 침묵을 지키고 있었다. (Not knowing what to say, he remained silent.)"
             },
             {
-                "id": "ko-0517",
+                "id": "ko-0512",
                 "w": "유일한",
                 "p": "yuilhan",
-                "d": "only",
-                "s": ""
+                "d": "sole, the only",
+                "s": "저는 지금 당신을 도울 수 있는 유일한 사람입니다. (I'm the only person who can help you now.)"
             },
             {
-                "id": "ko-0518",
+                "id": "ko-0513",
                 "w": "갑자기",
                 "p": "gapjagi",
-                "d": "suddenly, all of a sudden",
-                "s": ""
+                "d": "suddenly",
+                "s": "그때 갑자기, 그녀가 웃기 시작했다. (All of a sudden, she began to laugh.)"
             },
             {
-                "id": "ko-0519",
+                "id": "ko-0514",
                 "w": "이봐요",
                 "p": "ibwayo",
                 "d": "hi, hey, hello",
                 "s": ""
             },
             {
-                "id": "ko-0520",
+                "id": "ko-0515",
                 "w": "건가요",
                 "p": "geongayo",
-                "d": "Are you sure",
-                "s": ""
+                "d": "thing",
+                "s": "로또에 당첨되면 그 돈으로 무엇을 사실 건가요? (If you were to win the lottery, what would you buy with the money?)"
+            },
+            {
+                "id": "ko-0516",
+                "w": "없다고",
+                "p": "eopdago",
+                "d": "to have none",
+                "s": "톰은 메리가 존한테 뭘 해야 하는지 말해줄 필요는 없다고 했어. (Tom said he didn't think Mary needed to tell John what to do.)"
+            },
+            {
+                "id": "ko-0517",
+                "w": "것입니다",
+                "p": "geosimnida",
+                "d": "thing",
+                "s": "과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다. (The past can only be known, not changed. The future can only be changed, not known.)"
+            },
+            {
+                "id": "ko-0518",
+                "w": "있잖아요",
+                "p": "itjanayo",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-0519",
+                "w": "되고",
+                "p": "doego",
+                "d": "to become",
+                "s": "나는 더 이상 톰이 내 친구가 되고 싶어한다고 생각하지 않아. (I don't think Tom wants to be my friend anymore.)"
+            },
+            {
+                "id": "ko-0520",
+                "w": "어쨌든",
+                "p": "eojjaetdeun",
+                "d": "anyway",
+                "s": "어쨌든 고마워. (Thanks anyway.)"
             },
             {
                 "id": "ko-0521",
-                "w": "없다고",
-                "p": "eopdago",
-                "d": "There is no",
-                "s": ""
+                "w": "가진",
+                "p": "gajin",
+                "d": "to have, to possess",
+                "s": "우울증은 아스퍼거 증후군을 가진 청년들에게 있어 흔한 질병이야. (Depression is common among young adults who have Asperger syndrome.)"
             },
             {
                 "id": "ko-0522",
-                "w": "것입니다",
-                "p": "geosimnida",
-                "d": "will",
-                "s": ""
+                "w": "이번",
+                "p": "ibeon",
+                "d": "this time",
+                "s": "이번 주에 톰이 호주에 있을 거라는 거 몰랐어? (Didn't you know Tom was going to be in Australia this week?)"
             },
             {
                 "id": "ko-0523",
-                "w": "있잖아요",
-                "p": "itjanayo",
-                "d": "You know,",
-                "s": ""
+                "w": "뭐하는",
+                "p": "mwohaneun",
+                "d": "Used other than figuratively or idiomatically: see 무엇",
+                "s": "지금 뭐하는 건데요? (What are you doing right now?)"
             },
             {
                 "id": "ko-0524",
-                "w": "되고",
-                "p": "doego",
-                "d": "become",
-                "s": ""
+                "w": "후에",
+                "p": "hue",
+                "d": "following",
+                "s": "8시간 동안 운전을 한 후에 톰은 더이상 운전을 할 수 없었다. (After driving for eight hours, Tom just couldn't drive any longer.)"
             },
             {
                 "id": "ko-0525",
-                "w": "어쨌든",
-                "p": "eojjaetdeun",
-                "d": "anyway; after all",
-                "s": ""
-            },
-            {
-                "id": "ko-0526",
-                "w": "가진",
-                "p": "gajin",
-                "d": "with",
-                "s": ""
-            },
-            {
-                "id": "ko-0527",
-                "w": "이번",
-                "p": "ibeon",
-                "d": "this time; this occasion",
-                "s": ""
-            },
-            {
-                "id": "ko-0528",
-                "w": "뭐하는",
-                "p": "mwohaneun",
-                "d": "What are you doing",
-                "s": ""
-            },
-            {
-                "id": "ko-0529",
-                "w": "후에",
-                "p": "hue",
-                "d": "after",
-                "s": ""
-            },
-            {
-                "id": "ko-0530",
                 "w": "친구가",
                 "p": "chinguga",
                 "d": "friend",
-                "s": ""
+                "s": "나는 더 이상 톰이 내 친구가 되고 싶어한다고 생각하지 않아. (I don't think Tom wants to be my friend anymore.)"
+            },
+            {
+                "id": "ko-0526",
+                "w": "지",
+                "p": "ji",
+                "d": "bamboo flute with five fingerholes",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
+            },
+            {
+                "id": "ko-0527",
+                "w": "신경",
+                "p": "singyeong",
+                "d": "nerves",
+                "s": "톰은 자기가 얼마나 미쳐보이는지 신경 안 써. (Tom doesn't care how crazy he looks.)"
+            },
+            {
+                "id": "ko-0528",
+                "w": "그만해",
+                "p": "geumanhae",
+                "d": "to stop",
+                "s": "바보 같은 짓 좀 그만해. (Stop being stupid.)"
+            },
+            {
+                "id": "ko-0529",
+                "w": "누구야",
+                "p": "nuguya",
+                "d": "who",
+                "s": "세상에, 감히 나한테 한밤중에 전화거는 놈이 누구야?! (Holy crap, who's the asshole who dares call me in the middle of the night?!)"
+            },
+            {
+                "id": "ko-0530",
+                "w": "당신에게",
+                "p": "dangsinege",
+                "d": "by you, from you",
+                "s": "당신에게 메시지를 쓸까 했지만, 그럴 새가 전혀 없었다. (I thought about writing you a message, but never got around to it.)"
             },
             {
                 "id": "ko-0531",
-                "w": "지",
-                "p": "ji",
-                "d": "Ji",
-                "s": ""
-            },
-            {
-                "id": "ko-0532",
-                "w": "신경",
-                "p": "singyeong",
-                "d": "nerves; one's feelings on a subject",
-                "s": ""
-            },
-            {
-                "id": "ko-0533",
-                "w": "그만해",
-                "p": "geumanhae",
-                "d": "Stop it",
-                "s": ""
-            },
-            {
-                "id": "ko-0534",
-                "w": "누구야",
-                "p": "nuguya",
-                "d": "who is it",
-                "s": ""
-            },
-            {
-                "id": "ko-0535",
-                "w": "당신에게",
-                "p": "dangsinege",
-                "d": "to you",
-                "s": ""
-            },
-            {
-                "id": "ko-0536",
                 "w": "늘",
                 "p": "neul",
                 "d": "always",
-                "s": ""
+                "s": "톰은 거의 늘 자기방에만 있어. (Tom is in his room most of the time.)"
+            },
+            {
+                "id": "ko-0532",
+                "w": "없었어",
+                "p": "eopseosseo",
+                "d": "to have none",
+                "s": "톰이랑 메리는 혼자서 거기 갈 생각이 전혀 없었어. (Tom and Mary had no intention of going there by themselves.)"
+            },
+            {
+                "id": "ko-0533",
+                "w": "그들을",
+                "p": "geudeureul",
+                "d": "they",
+                "s": "디마는 하룻밤에 25 남자와 자고 그다음에 그들을 죽였다. (Dima slept with 25 men in one night and then killed them.)"
+            },
+            {
+                "id": "ko-0534",
+                "w": "있게",
+                "p": "itge",
+                "d": "to stay",
+                "s": "새 지하철은 20분 만에 학교에 갈 수 있게 해줘. (The new subway enables me to get to school in 20 minutes.)"
+            },
+            {
+                "id": "ko-0535",
+                "w": "알잖아",
+                "p": "aljana",
+                "d": "to know, understand",
+                "s": "상관없는 거 알잖아. (You know it doesn't matter.)"
+            },
+            {
+                "id": "ko-0536",
+                "w": "누군가",
+                "p": "nugunga",
+                "d": "somebody",
+                "s": "톰이 외로워서 누군가 말을 걸 사람이 있었으면 좋겠다고 기도했어. (Tom was lonely and wished he had someone to talk to.)"
             },
             {
                 "id": "ko-0537",
-                "w": "없었어",
-                "p": "eopseosseo",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "w": "분명히",
+                "p": "bunmyeonghi",
+                "d": "In an obvious manner",
+                "s": "너는 분명히 재능이 있는데 더 많이 못 배워서 아쉽구나. (You have talent, no doubt; it's just a pity that you haven't learned more.)"
             },
             {
                 "id": "ko-0538",
-                "w": "그들을",
-                "p": "geudeureul",
-                "d": "them",
-                "s": ""
+                "w": "생각을",
+                "p": "saenggageul",
+                "d": "thought",
+                "s": "저는 다른 사람들의 다양한 생각을 듣고싶어요. (I'd like to hear other people's different thoughts.)"
             },
             {
                 "id": "ko-0539",
-                "w": "있게",
-                "p": "itge",
-                "d": "have",
-                "s": ""
-            },
-            {
-                "id": "ko-0540",
-                "w": "알잖아",
-                "p": "aljana",
-                "d": "You know",
-                "s": ""
-            },
-            {
-                "id": "ko-0541",
-                "w": "누군가",
-                "p": "nugunga",
-                "d": "somebody; someone",
-                "s": ""
-            },
-            {
-                "id": "ko-0542",
-                "w": "분명히",
-                "p": "bunmyeonghi",
-                "d": "In an obvious manner.",
-                "s": ""
-            },
-            {
-                "id": "ko-0543",
-                "w": "생각을",
-                "p": "saenggageul",
-                "d": "think",
-                "s": ""
-            },
-            {
-                "id": "ko-0544",
                 "w": "존",
                 "p": "jon",
                 "d": "zone",
-                "s": ""
+                "s": "톰, 메리, 존, 앨리스는 모두 수영을 할 수 있어. (Tom, Mary, John and Alice can all swim.)"
             },
             {
-                "id": "ko-0545",
+                "id": "ko-0540",
                 "w": "일단",
                 "p": "ildan",
-                "d": "first and foremost; first, for a moment; just for starters",
-                "s": ""
+                "d": "first and foremost",
+                "s": "결론을 내기 전에 일단 톰의 의견을 들어 두고 싶구먼. (I'd like to hear Tom's opinion at least once before we come to a conclusion.)"
             },
             {
-                "id": "ko-0546",
+                "id": "ko-0541",
                 "w": "가야",
                 "p": "gaya",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
+                "d": "Gaya",
+                "s": "나는 톰을 만나러 가야 한다. (I have to visit Tom.)"
             },
             {
-                "id": "ko-0547",
+                "id": "ko-0542",
                 "w": "걱정",
                 "p": "geokjeong",
-                "d": "anxiety; worry",
-                "s": ""
+                "d": "anxiety",
+                "s": "난 그 아이가 길을 잃까봐 걱정 하고 있어요. (I'm worried that he'll get lost.)"
             },
             {
-                "id": "ko-0548",
+                "id": "ko-0543",
                 "w": "보자",
                 "p": "boja",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "d": "to see",
+                "s": "나 시간 거슬러 올라갈 거야. 작년에 보자! (I'm going back in time. See you last year!)"
             },
             {
-                "id": "ko-0549",
+                "id": "ko-0544",
                 "w": "매일",
                 "p": "maeil",
                 "d": "every day",
-                "s": ""
+                "s": "매일 일본어를 공부하지만, 한자를 외울 수 없습니다. (I study Japanese every day, but I can't remember the kanji.)"
+            },
+            {
+                "id": "ko-0545",
+                "w": "수는",
+                "p": "suneun",
+                "d": "way",
+                "s": "무대에서 쓰러지는 한이 있더라도 공연을 취소할 수는 없습니다. (There is no way to cancel a show even if I collapse on stage.)"
+            },
+            {
+                "id": "ko-0546",
+                "w": "아침",
+                "p": "achim",
+                "d": "morning",
+                "s": "간밤에 잘 잤으므로 오늘 아침 기분이 좋다. (Having slept well last night, I feel very fine this morning.)"
+            },
+            {
+                "id": "ko-0547",
+                "w": "말할",
+                "p": "malhal",
+                "d": "to speak, to talk",
+                "s": "저는 오직 제가 아는 것만 말할 수 있습니다. (I can only tell you what I know.)"
+            },
+            {
+                "id": "ko-0548",
+                "w": "말아요",
+                "p": "marayo",
+                "d": "to not do something",
+                "s": "그 여자는 신문지를 말아 길고 가느다란 봉을 만들었다. (She rolled the newspaper into a long, thin rod.)"
+            },
+            {
+                "id": "ko-0549",
+                "w": "모두가",
+                "p": "moduga",
+                "d": "all, wholly",
+                "s": "우리 모두가 같은 한 배를 탔다는 걸 기억해라. (Remember that we're all in the same boat.)"
             },
             {
                 "id": "ko-0550",
-                "w": "수는",
-                "p": "suneun",
-                "d": "The number is",
-                "s": ""
+                "w": "않았어요",
+                "p": "anasseoyo",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
             },
             {
                 "id": "ko-0551",
-                "w": "아침",
-                "p": "achim",
-                "d": "morning; breakfast",
-                "s": ""
-            },
-            {
-                "id": "ko-0552",
-                "w": "말할",
-                "p": "malhal",
-                "d": "say",
-                "s": ""
-            },
-            {
-                "id": "ko-0553",
-                "w": "말아요",
-                "p": "marayo",
-                "d": "Roll it up",
-                "s": ""
-            },
-            {
-                "id": "ko-0554",
-                "w": "모두가",
-                "p": "moduga",
-                "d": "everyone",
-                "s": ""
-            },
-            {
-                "id": "ko-0555",
-                "w": "않았어요",
-                "p": "anasseoyo",
-                "d": "I didn't",
-                "s": ""
-            },
-            {
-                "id": "ko-0556",
                 "w": "얘기를",
                 "p": "yaegireul",
                 "d": "talk",
-                "s": ""
+                "s": "할머니는 구수한 옛날 얘기를 들려주시곤 했다. (My grandmother used to tell me pleasant fairy tales.)"
+            },
+            {
+                "id": "ko-0552",
+                "w": "봤어요",
+                "p": "bwasseoyo",
+                "d": "to see",
+                "s": "오늘 아침 TV에서 뉴스를 봤어요. (I saw the news on TV this morning.)"
+            },
+            {
+                "id": "ko-0553",
+                "w": "대신",
+                "p": "daesin",
+                "d": "substitution",
+                "s": "가는 대신에 집에서 있었어요. ([I, you, he/she...] stayed home instead of going.)"
+            },
+            {
+                "id": "ko-0554",
+                "w": "마치",
+                "p": "machi",
+                "d": "exactly the same",
+                "s": "톰은 내가 마치 집에 있는 것처럼 편안하게 해주었어. (Tom really made me feel at home.)"
+            },
+            {
+                "id": "ko-0555",
+                "w": "건데",
+                "p": "geonde",
+                "d": "to hang, to suspend",
+                "s": "우리, 점심 먹으러 나갈 건데 같이 갈래? (We're going out for lunch. Why don't you come along?)"
+            },
+            {
+                "id": "ko-0556",
+                "w": "했잖아",
+                "p": "haetjana",
+                "d": "did, past tense of DO",
+                "s": "\"7시에 깨워달라고 했잖아.\" \"미안, 잊어버렸어.\" (\"I told you to wake me up at 7.\" \"Sorry, I forgot.\")"
             },
             {
                 "id": "ko-0557",
-                "w": "봤어요",
-                "p": "bwasseoyo",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "w": "둘이",
+                "p": "duri",
+                "d": "two",
+                "s": "둘이 어떻게 된건데? (What happened between the two?)"
             },
             {
                 "id": "ko-0558",
-                "w": "대신",
-                "p": "daesin",
-                "d": "instead",
-                "s": ""
+                "w": "당신과",
+                "p": "dangsingwa",
+                "d": "you",
+                "s": "돈은 별로 없지만, 당신과 함께라서 행복해요. (You don't have much money but I'm happy because I'm with you.)"
             },
             {
                 "id": "ko-0559",
-                "w": "마치",
-                "p": "machi",
-                "d": "As if",
-                "s": ""
+                "w": "집으로",
+                "p": "jibeuro",
+                "d": "home, homeward",
+                "s": "너 집으로 돌아가는 게 좋을 것 같아. 어서. (You should go back home, quickly.)"
             },
             {
                 "id": "ko-0560",
-                "w": "건데",
-                "p": "geonde",
-                "d": "It's going to be",
-                "s": ""
+                "w": "한다",
+                "p": "handa",
+                "d": "to do",
+                "s": "당신은 그 여자에게 거리를 두고 지낸 것에 대해 사과해야 한다. (You should apologize to her for being so distant.)"
             },
             {
                 "id": "ko-0561",
-                "w": "자넨",
-                "p": "janen",
-                "d": "you",
-                "s": ""
+                "w": "두고",
+                "p": "dugo",
+                "d": "to put",
+                "s": "당신은 그 여자에게 거리를 두고 지낸 것에 대해 사과해야 한다. (You should apologize to her for being so distant.)"
             },
             {
                 "id": "ko-0562",
-                "w": "했잖아",
-                "p": "haetjana",
-                "d": "You did it",
-                "s": ""
-            },
-            {
-                "id": "ko-0563",
-                "w": "둘이",
-                "p": "duri",
-                "d": "Two of us",
-                "s": ""
-            },
-            {
-                "id": "ko-0564",
-                "w": "당신과",
-                "p": "dangsingwa",
-                "d": "with you",
-                "s": ""
-            },
-            {
-                "id": "ko-0565",
-                "w": "집으로",
-                "p": "jibeuro",
-                "d": "home",
-                "s": ""
-            },
-            {
-                "id": "ko-0566",
-                "w": "한다",
-                "p": "handa",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
-            },
-            {
-                "id": "ko-0567",
-                "w": "두고",
-                "p": "dugo",
-                "d": "Leave it",
-                "s": ""
-            },
-            {
-                "id": "ko-0568",
                 "w": "이름을",
                 "p": "ireumeul",
                 "d": "name",
-                "s": ""
+                "s": "톰은 그 야구 팀의 모든 선수의 이름을 알고 있었다. (Tom knew the names of every baseball player on that team.)"
+            },
+            {
+                "id": "ko-0563",
+                "w": "있네",
+                "p": "inne",
+                "d": "to stay",
+                "s": "새가 날고 있네. (Birds fly.)"
+            },
+            {
+                "id": "ko-0564",
+                "w": "그들의",
+                "p": "geudeurui",
+                "d": "they",
+                "s": "미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다. (About 65% of American adults are overweight, which isn't good for their health.)"
+            },
+            {
+                "id": "ko-0565",
+                "w": "뭔데",
+                "p": "mwonde",
+                "d": "what",
+                "s": "나한테 뭐 좀 줄 수 있어? 나 완전 빈털터리야. (Could you give me something? I'm totally broke.)"
+            },
+            {
+                "id": "ko-0566",
+                "w": "금방",
+                "p": "geumbang",
+                "d": "soon, shortly",
+                "s": "내가 금방 다시 전화해 줄게. (I'll call you back soon.)"
+            },
+            {
+                "id": "ko-0567",
+                "w": "사는",
+                "p": "saneun",
+                "d": "to buy, to purchase",
+                "s": "우리는 우리가 가진것을 가지고 사는 법을 배울 필요가 있다. (We need to learn to live with what we have.)"
+            },
+            {
+                "id": "ko-0568",
+                "w": "좋아하는",
+                "p": "joahaneun",
+                "d": "to like something or someone",
+                "s": "나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아. (I don't like teachers who like students who don't like asking questions.)"
             },
             {
                 "id": "ko-0569",
-                "w": "있네",
-                "p": "inne",
-                "d": "There is",
-                "s": ""
+                "w": "찾을",
+                "p": "chajeul",
+                "d": "to search, to look for",
+                "s": "아이를 살아 있는 상태로 찾을 희망이 빠르게 사라지고 있다. (Hope of finding the child alive is fading rapidly.)"
             },
             {
                 "id": "ko-0570",
-                "w": "그들의",
-                "p": "geudeurui",
-                "d": "their",
-                "s": ""
+                "w": "맘에",
+                "p": "mame",
+                "d": "mind, heart",
+                "s": "너의 그런 점이 맘에 들어. (I like that about you.)"
             },
             {
                 "id": "ko-0571",
-                "w": "뭔데",
-                "p": "mwonde",
-                "d": "What is it",
-                "s": ""
-            },
-            {
-                "id": "ko-0572",
-                "w": "금방",
-                "p": "geumbang",
-                "d": "soon, shortly; just now, just",
-                "s": ""
-            },
-            {
-                "id": "ko-0573",
-                "w": "사는",
-                "p": "saneun",
-                "d": "living",
-                "s": ""
-            },
-            {
-                "id": "ko-0574",
-                "w": "좋아하는",
-                "p": "joahaneun",
-                "d": "favorite",
-                "s": ""
-            },
-            {
-                "id": "ko-0575",
-                "w": "찾을",
-                "p": "chajeul",
-                "d": "find",
-                "s": ""
-            },
-            {
-                "id": "ko-0576",
-                "w": "맘에",
-                "p": "mame",
-                "d": "I like it",
-                "s": ""
-            },
-            {
-                "id": "ko-0577",
                 "w": "결국",
                 "p": "gyeolguk",
                 "d": "in the end, ultimately",
-                "s": ""
+                "s": "너에게 전화를 걸고 싶었는데, 너가 안 받을까봐 결국 전화 못했어. (I wanted to phone you, but I thought you wouldn't get it so I didn't phone you in the end.)"
+            },
+            {
+                "id": "ko-0572",
+                "w": "이유가",
+                "p": "iyuga",
+                "d": "reason",
+                "s": "톰이 감옥에 가게 된 이유가 무엇인가요? (What's Tom in prison for?)"
+            },
+            {
+                "id": "ko-0573",
+                "w": "필요해요",
+                "p": "piryohaeyo",
+                "d": "to have a need",
+                "s": "저는 베이비 로션이 필요해요. (I need body lotion.)"
+            },
+            {
+                "id": "ko-0574",
+                "w": "중에",
+                "p": "junge",
+                "d": "average",
+                "s": "사랑받고 있는 사람 중에 가난한 사람이 누가 있나? (Who, being loved, is poor?)"
+            },
+            {
+                "id": "ko-0575",
+                "w": "그때",
+                "p": "geuttae",
+                "d": "that time",
+                "s": "그런데, 그때 잃어버린 우산은 찾았어? (By the way, did you find the umbrella that you lost that time?)"
+            },
+            {
+                "id": "ko-0576",
+                "w": "보는",
+                "p": "boneun",
+                "d": "to see",
+                "s": "난 야구 시합을 티비로 보는 것보다 좋아하는 것이 없다. (I like nothing so much as to watch baseball games on television.)"
+            },
+            {
+                "id": "ko-0577",
+                "w": "아이를",
+                "p": "aireul",
+                "d": "child, kid",
+                "s": "아이를 살아 있는 상태로 찾을 희망이 빠르게 사라지고 있다. (Hope of finding the child alive is fading rapidly.)"
             },
             {
                 "id": "ko-0578",
-                "w": "이유가",
-                "p": "iyuga",
-                "d": "the reason",
-                "s": ""
+                "w": "없잖아",
+                "p": "eopjana",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
                 "id": "ko-0579",
-                "w": "필요해요",
-                "p": "piryohaeyo",
-                "d": "to have a need; to be necessary, to be needed",
-                "s": ""
+                "w": "한다고",
+                "p": "handago",
+                "d": "to do",
+                "s": "톰은 마리가 그것을 해야만 한다고 생각하지 않는다고 말했다. (Tom says he doesn't think Mary ought to do that.)"
             },
             {
                 "id": "ko-0580",
-                "w": "중에",
-                "p": "junge",
-                "d": "During",
-                "s": ""
-            },
-            {
-                "id": "ko-0581",
-                "w": "그때",
-                "p": "geuttae",
-                "d": "that time, the given time",
-                "s": ""
-            },
-            {
-                "id": "ko-0582",
-                "w": "보는",
-                "p": "boneun",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
-            },
-            {
-                "id": "ko-0583",
-                "w": "너랑",
-                "p": "neorang",
-                "d": "With you",
-                "s": ""
-            },
-            {
-                "id": "ko-0584",
-                "w": "아이를",
-                "p": "aireul",
-                "d": "child",
-                "s": ""
-            },
-            {
-                "id": "ko-0585",
-                "w": "없잖아",
-                "p": "eopjana",
-                "d": "There isn't any",
-                "s": ""
-            },
-            {
-                "id": "ko-0586",
-                "w": "한다고",
-                "p": "handago",
-                "d": "I do it",
-                "s": ""
-            },
-            {
-                "id": "ko-0587",
                 "w": "기분",
                 "p": "gibun",
                 "d": "feeling, mood",
-                "s": ""
+                "s": "나 지금 기분 나쁘니까 가까이 오지않는 편이 좋아. (I'm in a bad mood right now, so you probably shouldn't get close to me.)"
             },
             {
-                "id": "ko-0588",
+                "id": "ko-0581",
                 "w": "하게",
                 "p": "hage",
-                "d": "do",
-                "s": ""
+                "d": "to do",
+                "s": "만약 벽이 말을 할 수 있다면, 그 벽이 어떤 이야기를 하게 될까? (If walls could talk, what stories would they tell us?)"
             },
             {
-                "id": "ko-0589",
+                "id": "ko-0582",
                 "w": "놈이",
                 "p": "nomi",
-                "d": "This guy",
-                "s": ""
+                "d": "other person",
+                "s": "세상에, 감히 나한테 한밤중에 전화거는 놈이 누구야?! (Holy crap, who's the asshole who dares call me in the middle of the night?!)"
             },
             {
-                "id": "ko-0590",
+                "id": "ko-0583",
                 "w": "못해",
-                "p": "motae",
-                "d": "I can't",
-                "s": ""
+                "p": "mothae",
+                "d": "cannot",
+                "s": "우린 같은 언어를 쓰지만, 서로를 이해하지는 못해. (We speak the same language, yet we don't understand each other.)"
             },
             {
-                "id": "ko-0591",
+                "id": "ko-0584",
                 "w": "우리에게",
                 "p": "uriege",
-                "d": "to us",
-                "s": ""
+                "d": "we, us",
+                "s": "오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다. (Today will once again be remembered as a great day for us.)"
             },
             {
-                "id": "ko-0592",
+                "id": "ko-0585",
                 "w": "가면",
                 "p": "gamyeon",
                 "d": "mask",
-                "s": ""
+                "s": "옆 문으로 가면 톰이 사는 곳이 나온다. (Tom lives next door.)"
+            },
+            {
+                "id": "ko-0586",
+                "w": "저를",
+                "p": "jeoreul",
+                "d": "that",
+                "s": "진수 씨가 저를 도와주신 것을 감사하는 뜻으로 저녁에 초대하려고 해요. (I wanted to invite Mr. Jinsu this evening to thank him for helping me earlier.)"
+            },
+            {
+                "id": "ko-0587",
+                "w": "잡아",
+                "p": "jaba",
+                "d": "to take",
+                "s": "톰을 잡아. (Grab Tom.)"
+            },
+            {
+                "id": "ko-0588",
+                "w": "집에서",
+                "p": "jibeseo",
+                "d": "home, house",
+                "s": "우리가 집에서 너에게 보내줬으면 하는 거 없니? (Is there anything you want us to send you from home?)"
+            },
+            {
+                "id": "ko-0589",
+                "w": "우리도",
+                "p": "urido",
+                "d": "we, us",
+                "s": "지리는 우리에게 반갑게 인사했고, 우리도 인사했어. (Ziri gave us a friendly greeting and we gave him one back.)"
+            },
+            {
+                "id": "ko-0590",
+                "w": "기분이",
+                "p": "gibuni",
+                "d": "feeling, mood",
+                "s": "나는 격려의 말을 할 수 있었다. 나는 최근에 기분이 정말 안 좋았다. (I could use some words of encouragement. I’ve been feeling really down lately.)"
+            },
+            {
+                "id": "ko-0591",
+                "w": "저희",
+                "p": "jeohui",
+                "d": "we",
+                "s": "저희 이 일 내일까지 절대 못 끝낼걸요. (We will never be able to finish this work by tomorrow.)"
+            },
+            {
+                "id": "ko-0592",
+                "w": "찾고",
+                "p": "chatgo",
+                "d": "to search, to look for",
+                "s": "그 여자애가 큰 소리로 울면서 어머니를 찾고 있었다. (The little girl was crying at the top of her lungs trying to find her mom.)"
             },
             {
                 "id": "ko-0593",
-                "w": "저를",
-                "p": "jeoreul",
-                "d": "me",
-                "s": ""
-            },
-            {
-                "id": "ko-0594",
-                "w": "잡아",
-                "p": "jaba",
-                "d": "catch",
-                "s": ""
-            },
-            {
-                "id": "ko-0595",
-                "w": "집에서",
-                "p": "jibeseo",
-                "d": "at home",
-                "s": ""
-            },
-            {
-                "id": "ko-0596",
-                "w": "우리도",
-                "p": "urido",
-                "d": "We too",
-                "s": ""
-            },
-            {
-                "id": "ko-0597",
-                "w": "기분이",
-                "p": "gibuni",
-                "d": "I feel like",
-                "s": ""
-            },
-            {
-                "id": "ko-0598",
-                "w": "저희",
-                "p": "jeohui",
-                "d": "the first person plural polite pronoun; we",
-                "s": ""
-            },
-            {
-                "id": "ko-0599",
-                "w": "찾고",
-                "p": "chatgo",
-                "d": "looking for",
-                "s": ""
-            },
-            {
-                "id": "ko-0600",
                 "w": "손을",
                 "p": "soneul",
                 "d": "hand",
-                "s": ""
+                "s": "톰은 손을 씻으려고 비누랑 물을 썼다. (Tom used soap and water to wash his hands.)"
             },
             {
-                "id": "ko-0601",
+                "id": "ko-0594",
                 "w": "거다",
                 "p": "geoda",
-                "d": "It's going to happen",
-                "s": ""
+                "d": "thing",
+                "s": "3달전에 학생이 너무 적어서 수업이 없어졌던 거다. (Three months ago there were so few students we stopped the class.)"
             },
             {
-                "id": "ko-0602",
+                "id": "ko-0595",
                 "w": "어제",
                 "p": "eoje",
                 "d": "yesterday",
-                "s": ""
+                "s": "어제 술을 너무 많이 마셔서 오늘 머리가 깨질 것처럼 아파요. (I drank so much alcohol yesterday that my head feels like it will explode.)"
             },
             {
-                "id": "ko-0603",
+                "id": "ko-0596",
                 "w": "남자가",
                 "p": "namjaga",
-                "d": "the man",
-                "s": ""
+                "d": "man",
+                "s": "그녀는 그 남자가 자신을 따라온다는 것을 알아차렸을 때 무서워했다. (She became scared when she noticed the man following her.)"
             },
             {
-                "id": "ko-0604",
+                "id": "ko-0597",
                 "w": "뭐지",
                 "p": "mwoji",
-                "d": "What is it",
-                "s": ""
+                "d": "what",
+                "s": "5814를 반올림한 가장 가까운 천 단위 숫자가 뭐지? (What is 5814 rounded to the nearest thousand?)"
             },
             {
-                "id": "ko-0605",
+                "id": "ko-0598",
                 "w": "앞으로",
                 "p": "apeuro",
-                "d": "Used other than figuratively or idiomatically: see 앞 (ap), -으로 (-euro).; from now on; hereafter",
-                "s": ""
+                "d": "Used other than figuratively or idiomatically: see 앞",
+                "s": "나는 앞으로 나아갈 것이다. (I will go on ahead.)"
             },
             {
-                "id": "ko-0606",
+                "id": "ko-0599",
                 "w": "잠깐만요",
                 "p": "jamkkanmanyo",
-                "d": "Wait a minute",
-                "s": ""
+                "d": "just a minute",
+                "s": "잠깐만 기다리십시오. (Please wait a moment.)"
             },
             {
-                "id": "ko-0607",
+                "id": "ko-0600",
                 "w": "자신의",
                 "p": "jasinui",
-                "d": "own",
-                "s": ""
+                "d": "one's body",
+                "s": "그 사람은 자신의 아버지가 가난하다는 사실을 부끄러워하지 않아. (He’s not ashamed of the fact that his father is poor.)"
             },
             {
-                "id": "ko-0608",
+                "id": "ko-0601",
                 "w": "애가",
                 "p": "aega",
                 "d": "mournful song, elegy",
-                "s": ""
+                "s": "초록옷 입은 애가 젤다죠? (The green guy is Zelda, right?)"
             },
             {
-                "id": "ko-0609",
+                "id": "ko-0602",
                 "w": "이상한",
                 "p": "isanghan",
-                "d": "strange",
-                "s": ""
+                "d": "strange, abnormal",
+                "s": "낮잠자는 도중에 나는 이상한 꿈을 꿨어. (While napping, I had a strange dream.)"
             },
             {
-                "id": "ko-0610",
+                "id": "ko-0603",
                 "w": "막",
                 "p": "mak",
-                "d": "Just",
-                "s": ""
+                "d": "carelessly",
+                "s": "난 막 버스가 떠난 후에야 버스 정류장에 도착했지 뭐야. (I arrived at the bus stop just after the bus left.)"
             },
             {
-                "id": "ko-0611",
+                "id": "ko-0604",
                 "w": "먹고",
                 "p": "meokgo",
-                "d": "eat",
-                "s": ""
+                "d": "to eat",
+                "s": "네가 아무것도 안 먹고 싶어 한다고 생각했어. (I thought that you didn't want anything to eat.)"
             },
             {
-                "id": "ko-0612",
+                "id": "ko-0605",
                 "w": "아이",
                 "p": "ai",
-                "d": "child",
-                "s": ""
+                "d": "child, kid",
+                "s": "아이 착하다. (You're a good boy.)"
             },
             {
-                "id": "ko-0613",
+                "id": "ko-0606",
                 "w": "언제나",
                 "p": "eonjena",
-                "d": "always; at some point; eventually",
-                "s": ""
+                "d": "always",
+                "s": "비가 내리는 날엔 우린 언제나 보드게임으로 놀아요. (When it's raining, we always play boardgames.)"
             },
             {
-                "id": "ko-0614",
+                "id": "ko-0607",
                 "w": "여기가",
                 "p": "yeogiga",
-                "d": "Here",
-                "s": ""
+                "d": "here",
+                "s": "난 여기가 만족스러웠었어. (I used to be happy here.)"
             },
             {
-                "id": "ko-0615",
+                "id": "ko-0608",
                 "w": "아들",
                 "p": "adeul",
                 "d": "son",
-                "s": ""
+                "s": "그 아빠에 그 아들. (Like father, like son.)"
+            },
+            {
+                "id": "ko-0609",
+                "w": "알게",
+                "p": "alge",
+                "d": "to know, understand",
+                "s": "네가 책을 많이 읽을수록, 더 많은 걸 알게 될 거야. (The more books you read, the more you'll know.)"
+            },
+            {
+                "id": "ko-0610",
+                "w": "하세요",
+                "p": "haseyo",
+                "d": "to do",
+                "s": "중국까지 안전한 여행 하세요! (Have a safe trip to China!)"
+            },
+            {
+                "id": "ko-0611",
+                "w": "총",
+                "p": "chong",
+                "d": "gun",
+                "s": "톰은 총 쏘는 법을 배우고 싶어 해. (Tom wants to learn how to shoot.)"
+            },
+            {
+                "id": "ko-0612",
+                "w": "스스로",
+                "p": "seuseuro",
+                "d": "by oneself",
+                "s": "너는 스스로 그것을 할 필요가 있다. (You should do that by yourself.)"
+            },
+            {
+                "id": "ko-0613",
+                "w": "방법이",
+                "p": "bangbeobi",
+                "d": "way",
+                "s": "여기서 나갈 방법이 있다면 우리는 찾을 수 있을거야 (If there's a way out of here, we'll find it.)"
+            },
+            {
+                "id": "ko-0614",
+                "w": "있던",
+                "p": "itdeon",
+                "d": "to stay",
+                "s": "향수병은 당신이 있던 곳으로 돌아가고자하는 갈망입니다. (Homesickness is a longing to go back to where you are from.)"
+            },
+            {
+                "id": "ko-0615",
+                "w": "해봐",
+                "p": "haebwa",
+                "d": "to do",
+                "s": "괜찮아. 한 번 해봐. (Come on. Give it a try.)"
             },
             {
                 "id": "ko-0616",
-                "w": "알게",
-                "p": "alge",
-                "d": "get to know",
-                "s": ""
+                "w": "아님",
+                "p": "anim",
+                "d": "to not be",
+                "s": "너는 애견인이야 아님 애묘인이야? (Are you a dog person or a cat person?)"
             },
             {
                 "id": "ko-0617",
-                "w": "하세요",
-                "p": "haseyo",
-                "d": "informal polite present indicative form of 하시다 (hasida, “to do (polite)”); informal polite present interrogative form of 하시다 (hasida, “to do (polite)”)",
-                "s": ""
+                "w": "때가",
+                "p": "ttaega",
+                "d": "time",
+                "s": "내가 마지막으로 여기에 왔었을 때가 일년 전이야. (The last time I came here was a year ago.)"
             },
             {
                 "id": "ko-0618",
-                "w": "총",
-                "p": "chong",
-                "d": "gun; rifle; machine gun",
-                "s": ""
+                "w": "아니죠",
+                "p": "anijyo",
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0619",
-                "w": "스스로",
-                "p": "seuseuro",
-                "d": "yourself",
-                "s": ""
+                "w": "했던",
+                "p": "haetdeon",
+                "d": "did, past tense of DO",
+                "s": "그는 원래 물어보려고 했던 걸 그녀한테 묻는 걸 깜빡했어. (He forgot to ask her what he'd planned to ask her.)"
             },
             {
                 "id": "ko-0620",
-                "w": "방법이",
-                "p": "bangbeobi",
-                "d": "There is a way",
-                "s": ""
-            },
-            {
-                "id": "ko-0621",
-                "w": "있던",
-                "p": "itdeon",
-                "d": "there was",
-                "s": ""
-            },
-            {
-                "id": "ko-0622",
-                "w": "해봐",
-                "p": "haebwa",
-                "d": "Try it",
-                "s": ""
-            },
-            {
-                "id": "ko-0623",
-                "w": "아님",
-                "p": "anim",
-                "d": "Not",
-                "s": ""
-            },
-            {
-                "id": "ko-0624",
-                "w": "때가",
-                "p": "ttaega",
-                "d": "It's time",
-                "s": ""
-            },
-            {
-                "id": "ko-0625",
-                "w": "아니죠",
-                "p": "anijyo",
-                "d": "Nope",
-                "s": ""
-            },
-            {
-                "id": "ko-0626",
-                "w": "했던",
-                "p": "haetdeon",
-                "d": "did",
-                "s": ""
-            },
-            {
-                "id": "ko-0627",
                 "w": "조용히",
                 "p": "joyonghi",
                 "d": "silently, quietly",
-                "s": ""
+                "s": "톰은 침실 문을 조용히 닫았다. (Tom quietly closed the bedroom door.)"
+            },
+            {
+                "id": "ko-0621",
+                "w": "밤에",
+                "p": "bame",
+                "d": "nightly",
+                "s": "독일에서는 삼백만 명의 사람들이 톰처럼 밤에 일해. (In Germany, three million people work at night like Tom.)"
+            },
+            {
+                "id": "ko-0622",
+                "w": "미친",
+                "p": "michin",
+                "d": "to extend, to reach",
+                "s": "너 왜 그렇게 미친 사람처럼 행동해? (Why are you acting so crazy?)"
+            },
+            {
+                "id": "ko-0623",
+                "w": "머리",
+                "p": "meori",
+                "d": "head",
+                "s": "머리 보호를 위해서 헬멧을 써야 한다. (You have to wear a helmet to protect your head.)"
+            },
+            {
+                "id": "ko-0624",
+                "w": "않습니다",
+                "p": "anseumnida",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "당신의 실패를 당신의 부모님 탓으로 돌리는것은 옳지 않습니다 (It's not fair to attribute your failure to your parents.)"
+            },
+            {
+                "id": "ko-0625",
+                "w": "잘못",
+                "p": "jalmot",
+                "d": "mistake",
+                "s": "내가 버스를 잘못 타 가지고 다른 곳으로 갔어. (I took the wrong bus, so I went somewhere else.)"
+            },
+            {
+                "id": "ko-0626",
+                "w": "고맙습니다",
+                "p": "gomapseumnida",
+                "d": "thankful",
+                "s": "도와 주셔서 아주 고맙습니다. (I really appreciate all your help.)"
+            },
+            {
+                "id": "ko-0627",
+                "w": "있어야",
+                "p": "isseoya",
+                "d": "to stay",
+                "s": "이러한 사전에는 냉장고에 대한 적어도 두가지의 예문이 있어야 한다. (In a dictionary like this one there should be at least two sentences with \"fridge\".)"
             },
             {
                 "id": "ko-0628",
-                "w": "밤에",
-                "p": "bame",
-                "d": "at night",
-                "s": ""
+                "w": "왜냐하면",
+                "p": "waenyahamyeon",
+                "d": "because",
+                "s": "왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요. (It's because you don't want to be alone.)"
             },
             {
                 "id": "ko-0629",
-                "w": "미친",
-                "p": "michin",
-                "d": "crazy",
-                "s": ""
+                "w": "앉아",
+                "p": "anja",
+                "d": "to sit, to squat",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
             },
             {
                 "id": "ko-0630",
-                "w": "텐데",
-                "p": "tende",
-                "d": "It would be",
-                "s": ""
+                "w": "아침에",
+                "p": "achime",
+                "d": "mornings",
+                "s": "아침에 늦잠을 자서 하마터면 지각할 뻔했어. (I overslept this morning, and I was almost late.)"
             },
             {
                 "id": "ko-0631",
-                "w": "머리",
-                "p": "meori",
-                "d": "head; intelligence",
-                "s": ""
+                "w": "죽일",
+                "p": "jugil",
+                "d": "to kill, to cause to die",
+                "s": "항생제는 바이러스를 죽일 수 없어. (Antibiotics can't kill viruses.)"
             },
             {
                 "id": "ko-0632",
-                "w": "않습니다",
-                "p": "anseumnida",
-                "d": "does not",
-                "s": ""
+                "w": "환자",
+                "p": "hwanja",
+                "d": "a medical patient",
+                "s": "환자 분은 건강해 보였습니다. (The patient looked healthy.)"
             },
             {
                 "id": "ko-0633",
-                "w": "잘못",
-                "p": "jalmot",
-                "d": "wrong",
+                "w": "양",
+                "p": "yang",
+                "d": "quantity, amount",
                 "s": ""
             },
             {
                 "id": "ko-0634",
-                "w": "고맙습니다",
-                "p": "gomapseumnida",
-                "d": "thank you",
-                "s": ""
+                "w": "없죠",
+                "p": "eopjyo",
+                "d": "to have none",
+                "s": "그들은 왜 그것을 할 수 없죠? (Why can't they do it?)"
             },
             {
                 "id": "ko-0635",
-                "w": "있어야",
-                "p": "isseoya",
-                "d": "Must be",
-                "s": ""
+                "w": "일어나",
+                "p": "ireona",
+                "d": "to arise, get up",
+                "s": "우리는 모두 자리에서 일어나 춤추기 시작했다. (We all got up and started dancing.)"
             },
             {
                 "id": "ko-0636",
-                "w": "왜냐하면",
-                "p": "waenyahamyeon",
-                "d": "because; for the following reason.",
-                "s": ""
+                "w": "믿을",
+                "p": "mideul",
+                "d": "to trust, to believe",
+                "s": "톰이 정말로 이런 데에 돈을 썼다니 믿을 수가 없다. (I can't believe that Tom actually spent money on this.)"
             },
             {
                 "id": "ko-0637",
-                "w": "앉아",
-                "p": "anja",
-                "d": "sit",
-                "s": ""
+                "w": "같네요",
+                "p": "ganneyo",
+                "d": "the same",
+                "s": "우리 서로 아는 사이인 것 같네요. (Seems like we do know each other.)"
             },
             {
                 "id": "ko-0638",
-                "w": "아침에",
-                "p": "achime",
-                "d": "in the morning",
-                "s": ""
+                "w": "건가",
+                "p": "geonga",
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0639",
-                "w": "죽일",
-                "p": "jugil",
-                "d": "kill",
+                "w": "게다가",
+                "p": "gedaga",
+                "d": "moreover",
                 "s": ""
             },
             {
                 "id": "ko-0640",
-                "w": "환자",
-                "p": "hwanja",
-                "d": "a medical patient",
-                "s": ""
+                "w": "타고",
+                "p": "tago",
+                "d": "to burn",
+                "s": "살면서 40분 차 타고 가는게 이렇게 길게 느껴졌던 적이 없어요. (It was the longest forty-minute drive of my life.)"
             },
             {
                 "id": "ko-0641",
-                "w": "양",
-                "p": "yang",
-                "d": "sheep",
-                "s": ""
+                "w": "데",
+                "p": "de",
+                "d": "place",
+                "s": "반품을 하는 데 2시간이나 걸려서 다른 가정 용품을 사봤어. (It takes 2 hours or so to go make a return so I bought some different housewares.)"
             },
             {
                 "id": "ko-0642",
-                "w": "없죠",
-                "p": "eopjyo",
-                "d": "There is no",
-                "s": ""
+                "w": "들었어",
+                "p": "deureosseo",
+                "d": "to listen, to hear",
+                "s": "난 톰이랑 같이 프랑스 수업을 들었어. (Tom and I had French class together.)"
             },
             {
                 "id": "ko-0643",
-                "w": "일어나",
-                "p": "ireona",
-                "d": "wake up",
-                "s": ""
+                "w": "눈을",
+                "p": "nuneul",
+                "d": "eye",
+                "s": "개는 대부분 갈색 눈을 가지고 있어. (Most dogs have brown eyes.)"
             },
             {
                 "id": "ko-0644",
-                "w": "믿을",
-                "p": "mideul",
-                "d": "trustworthy",
-                "s": ""
+                "w": "나에게",
+                "p": "naege",
+                "d": "me",
+                "s": "나의 영어 선생님이 나에게 그 책을 읽으라고 추천하셨다. (My English teacher recommended that I read these books.)"
             },
             {
                 "id": "ko-0645",
-                "w": "같네요",
-                "p": "ganneyo",
-                "d": "Looks like",
-                "s": ""
+                "w": "없었어요",
+                "p": "eopseosseoyo",
+                "d": "to have none",
+                "s": "크리스는 운전할 차가 없었어요. (Chris didn't have a car to drive.)"
             },
             {
                 "id": "ko-0646",
-                "w": "건가",
-                "p": "geonga",
-                "d": "Is it dry?",
-                "s": ""
+                "w": "만나서",
+                "p": "mannaseo",
+                "d": "to meet",
+                "s": "내 이름은 시릴이에요, 만나서 반가워요. (My name's Cyril; pleased to meet you!)"
             },
             {
                 "id": "ko-0647",
-                "w": "게다가",
-                "p": "gedaga",
-                "d": "moreover; there; thereat",
-                "s": ""
+                "w": "진정해",
+                "p": "jinjeonghae",
+                "d": "to relax, to soothe",
+                "s": "잠깐만 진정해 봐. (Relax for a second.)"
             },
             {
                 "id": "ko-0648",
-                "w": "알렉스",
-                "p": "allekseu",
-                "d": "alex",
-                "s": ""
-            },
-            {
-                "id": "ko-0649",
-                "w": "타고",
-                "p": "tago",
-                "d": "riding",
-                "s": ""
-            },
-            {
-                "id": "ko-0650",
-                "w": "데",
-                "p": "de",
-                "d": "having",
-                "s": ""
-            },
-            {
-                "id": "ko-0651",
-                "w": "들었어",
-                "p": "deureosseo",
-                "d": "I heard",
-                "s": ""
-            },
-            {
-                "id": "ko-0652",
-                "w": "눈을",
-                "p": "nuneul",
-                "d": "eyes",
-                "s": ""
-            },
-            {
-                "id": "ko-0653",
-                "w": "나에게",
-                "p": "naege",
-                "d": "to me",
-                "s": ""
-            },
-            {
-                "id": "ko-0654",
-                "w": "없었어요",
-                "p": "eopseosseoyo",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
-            },
-            {
-                "id": "ko-0655",
-                "w": "만나서",
-                "p": "mannaseo",
-                "d": "meet up",
-                "s": ""
-            },
-            {
-                "id": "ko-0656",
-                "w": "진정해",
-                "p": "jinjeonghae",
-                "d": "Calm down",
-                "s": ""
-            },
-            {
-                "id": "ko-0657",
                 "w": "이것",
                 "p": "igeot",
                 "d": "this",
-                "s": ""
+                "s": "히로시는 이것 재미 있을 것 같다고 말한다. (\"This looks pretty interesting,\" Hiroshi says.)"
             },
             {
-                "id": "ko-0658",
+                "id": "ko-0649",
                 "w": "더이상",
                 "p": "deoisang",
-                "d": "anymore",
-                "s": ""
+                "d": "from this point forward",
+                "s": "8시간 동안 운전을 한 후에 톰은 더이상 운전을 할 수 없었다. (After driving for eight hours, Tom just couldn't drive any longer.)"
             },
             {
-                "id": "ko-0659",
+                "id": "ko-0650",
                 "w": "보지",
                 "p": "boji",
-                "d": "pussy, vulva, vagina",
-                "s": ""
+                "d": "preservation",
+                "s": "톰은 몇 달 동안 메리를 보지 못했다고 나에게 말했다. (Tom told me he hasn't seen Mary in months.)"
             },
             {
-                "id": "ko-0660",
+                "id": "ko-0651",
                 "w": "방법을",
                 "p": "bangbeobeul",
                 "d": "way",
-                "s": ""
+                "s": "난 톰이 너한테 하는 방법을 알려줬으면 좋겠어. (I want Tom to show you how to do that.)"
+            },
+            {
+                "id": "ko-0652",
+                "w": "원래",
+                "p": "wollae",
+                "d": "originally",
+                "s": "그는 원래 물어보려고 했던 걸 그녀한테 묻는 걸 깜빡했어. (He forgot to ask her what he'd planned to ask her.)"
+            },
+            {
+                "id": "ko-0653",
+                "w": "솔직히",
+                "p": "soljikhi",
+                "d": "honestly",
+                "s": "솔직히 말이야, 톰, 난 기억이 안 나. 10년도 더 된 일이잖아. (Honestly, Tom, I can't remember. It was more than 10 years ago.)"
+            },
+            {
+                "id": "ko-0654",
+                "w": "좋지",
+                "p": "jochi",
+                "d": "to be good",
+                "s": "미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다. (About 65% of American adults are overweight, which isn't good for their health.)"
+            },
+            {
+                "id": "ko-0655",
+                "w": "하려고",
+                "p": "haryeogo",
+                "d": "to do",
+                "s": "왜 너는 톰에게 말조차 안 하려고 하는 거야? (Why don't you ever talk to Tom?)"
+            },
+            {
+                "id": "ko-0656",
+                "w": "빌어먹을",
+                "p": "bireomeogeul",
+                "d": "damn it!",
+                "s": "빌어먹을, 도대체 뭘 한 거야? (What the hell did you do, damn it?)"
+            },
+            {
+                "id": "ko-0657",
+                "w": "총을",
+                "p": "chongeul",
+                "d": "gun",
+                "s": "경찰은 총을 쓸 수 있도록 훈련받았어. (Police are trained to use weapons.)"
+            },
+            {
+                "id": "ko-0658",
+                "w": "길을",
+                "p": "gireul",
+                "d": "to draw using a bucket or other tools",
+                "s": "톰은 주위를 둘러보고 길을 잃었음을 알아차렸다. (Tom looked around and realized he was lost.)"
+            },
+            {
+                "id": "ko-0659",
+                "w": "아니라고",
+                "p": "anirago",
+                "d": "no",
+                "s": "톰은 네가 나에게 말한것은 사실이 아니라고 말했다. (Tom said that what you told me wasn't true.)"
+            },
+            {
+                "id": "ko-0660",
+                "w": "자신을",
+                "p": "jasineul",
+                "d": "one's body",
+                "s": "그녀는 그 남자가 자신을 따라온다는 것을 알아차렸을 때 무서워했다. (She became scared when she noticed the man following her.)"
             },
             {
                 "id": "ko-0661",
-                "w": "원래",
-                "p": "wollae",
-                "d": "original",
+                "w": "여길",
+                "p": "yeogil",
+                "d": "to consider",
                 "s": ""
             },
             {
                 "id": "ko-0662",
-                "w": "솔직히",
-                "p": "soljikhi",
-                "d": "honestly",
-                "s": ""
+                "w": "있지만",
+                "p": "itjiman",
+                "d": "to stay",
+                "s": "너를 들을 수 있지만, 볼 수 없어요. (I can hear you, but I can't see you.)"
             },
             {
                 "id": "ko-0663",
-                "w": "좋지",
-                "p": "jochi",
-                "d": "Good",
-                "s": ""
+                "w": "얼른",
+                "p": "eolleun",
+                "d": "quickly",
+                "s": "얼른 가 봐! (Come have a look!)"
             },
             {
                 "id": "ko-0664",
-                "w": "하려고",
-                "p": "haryeogo",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "w": "대로",
+                "p": "daero",
+                "d": "the same way as",
+                "s": "내가 말하는 대로 해, 내가 하는 대로 말고. (Do as I say, not as I do.)"
             },
             {
                 "id": "ko-0665",
-                "w": "빌어먹을",
-                "p": "bireomeogeul",
-                "d": "Damn it",
-                "s": ""
+                "w": "만든",
+                "p": "mandeun",
+                "d": "to make",
+                "s": "이런... 아무도 내가 만든 문장을 번역 안 해. (Ouch, nobody translates my sentences...)"
             },
             {
                 "id": "ko-0666",
-                "w": "총을",
-                "p": "chongeul",
-                "d": "gun",
-                "s": ""
+                "w": "놈",
+                "p": "nom",
+                "d": "other person",
+                "s": "...사우는 도망갔드래. 그러니까 사우는 놈이다. (...but his son-in-law had apparently run away. Therefore sons-in-law are like strangers.)"
             },
             {
                 "id": "ko-0667",
-                "w": "길을",
-                "p": "gireul",
-                "d": "the road",
-                "s": ""
+                "w": "조심해",
+                "p": "josimhae",
+                "d": "to be careful",
+                "s": "오븐이 뜨거우니까 화상입지 않게 조심해. (The oven's hot so be careful not to burn yourself.)"
             },
             {
                 "id": "ko-0668",
-                "w": "누군지",
-                "p": "nugunji",
-                "d": "who is",
-                "s": ""
+                "w": "일에",
+                "p": "ire",
+                "d": "work",
+                "s": "나는 친구와 함께 9월 3일에 로스앤젤레스에서 서울에 갈 거에요. (On September 3rd, I will go from Los Angeles to Seoul with a friend.)"
             },
             {
                 "id": "ko-0669",
-                "w": "아니라고",
-                "p": "anirago",
-                "d": "no",
-                "s": ""
+                "w": "따라",
+                "p": "ttara",
+                "d": "to follow",
+                "s": "봉급은 노동자의 나이에 따라 변한다. (Wages vary in relation to the age of the worker.)"
             },
             {
                 "id": "ko-0670",
-                "w": "자신을",
-                "p": "jasineul",
-                "d": "yourself",
-                "s": ""
+                "w": "술",
+                "p": "sul",
+                "d": "alcoholic beverage",
+                "s": "술 말고 내가 제일 좋아하는 음료수는 아보카도 쉐이크야. 흑, 너무 맛있어! (My favorite nonalcoholic drink is an avocado shake. Yum, it's so delicious!)"
             },
             {
                 "id": "ko-0671",
-                "w": "여길",
-                "p": "yeogil",
-                "d": "to consider (as)",
-                "s": ""
+                "w": "정확히",
+                "p": "jeonghwakhi",
+                "d": "exactly",
+                "s": "톰은 메리에게 베개를 던져서 정확히 얼굴을 맞췄다. (Tom threw a pillow at Mary and the pillow hit her squarely in the face.)"
             },
             {
                 "id": "ko-0672",
-                "w": "있지만",
-                "p": "itjiman",
-                "d": "Although there is",
-                "s": ""
+                "w": "자기가",
+                "p": "jagiga",
+                "d": "on one's own",
+                "s": "톰은 자기가 오늘 학교에서 아무것도 배우지 않았다고 했어. (Tom said he didn't learn anything at school today.)"
             },
             {
                 "id": "ko-0673",
-                "w": "얼른",
-                "p": "eolleun",
-                "d": "quickly, at once, without delay",
-                "s": ""
+                "w": "충분히",
+                "p": "chungbunhi",
+                "d": "sufficiently",
+                "s": "나는 당신의 반과학 빈곤을 충분히 겪었습니다. (I've had enough of your anti-science poverty.)"
             },
             {
                 "id": "ko-0674",
-                "w": "얘들아",
-                "p": "yaedeura",
-                "d": "Guys",
-                "s": ""
+                "w": "힘을",
+                "p": "himeul",
+                "d": "strength",
+                "s": "메리는 특별한 힘을 가지고 있는 것 같아. (I think that Mary has special powers.)"
             },
             {
                 "id": "ko-0675",
-                "w": "대로",
-                "p": "daero",
-                "d": "the same way as, the manner of; the same time as, as soon as",
+                "w": "아저씨",
+                "p": "ajeossi",
+                "d": "middle-aged elder male",
                 "s": ""
             },
             {
                 "id": "ko-0676",
-                "w": "만든",
-                "p": "mandeun",
-                "d": "made",
-                "s": ""
+                "w": "알겠지",
+                "p": "algetji",
+                "d": "to know, understand",
+                "s": "그 여자에게 당신이 여기 있다고 말해요. — 알겠어요. 고마워요. 피트 (Tell her you’re here. — Right, thanks, Pete.)"
             },
             {
                 "id": "ko-0677",
-                "w": "놈",
-                "p": "nom",
-                "d": "bastard; kid, boy (from an older perspective)",
-                "s": ""
+                "w": "있었는데",
+                "p": "isseonneunde",
+                "d": "to stay",
+                "s": "내가 뭘 더 할 수 있었는데? (What more could I do?)"
             },
             {
                 "id": "ko-0678",
-                "w": "조심해",
-                "p": "josimhae",
-                "d": "be careful",
-                "s": ""
+                "w": "사랑하는",
+                "p": "saranghaneun",
+                "d": "to love",
+                "s": "난 당신이 날 사랑하는 것보다 더 당신을 사랑한다. (I love you more than you love me.)"
             },
             {
                 "id": "ko-0679",
-                "w": "일에",
-                "p": "ire",
-                "d": "at work",
-                "s": ""
+                "w": "기다리고",
+                "p": "gidarigo",
+                "d": "to wait for, to await",
+                "s": "케이트를 기다리고 있는 동안 난 밥과 메리를 봤어. (Waiting for Kate, I saw Bob and Mary.)"
             },
             {
                 "id": "ko-0680",
-                "w": "따라",
-                "p": "ttara",
-                "d": "follow",
-                "s": ""
+                "w": "살아",
+                "p": "sara",
+                "d": "to live",
+                "s": "아이를 살아 있는 상태로 찾을 희망이 빠르게 사라지고 있다. (Hope of finding the child alive is fading rapidly.)"
             },
             {
                 "id": "ko-0681",
-                "w": "술",
-                "p": "sul",
-                "d": "alcohol",
+                "w": "평생",
+                "p": "pyeongsaeng",
+                "d": "one's entire life",
                 "s": ""
             },
             {
                 "id": "ko-0682",
-                "w": "정확히",
-                "p": "jeonghwakhi",
-                "d": "exactly, accurately, correctly, precisely",
-                "s": ""
+                "w": "아까",
+                "p": "akka",
+                "d": "just now",
+                "s": "아까 한 말 취소야. (I take back what I said.)"
             },
             {
                 "id": "ko-0683",
-                "w": "자기가",
-                "p": "jagiga",
-                "d": "Baby",
+                "w": "얘야",
+                "p": "yaeya",
+                "d": "my own",
                 "s": ""
             },
             {
                 "id": "ko-0684",
-                "w": "충분히",
-                "p": "chungbunhi",
-                "d": "sufficiently",
-                "s": ""
+                "w": "눈",
+                "p": "nun",
+                "d": "eye",
+                "s": "저 눈 안 높아요. 저는 그냥 성격 좋은 사람이면 다 좋아요. (I’m not picky. Anyone who has a good personality is fine for me.)"
             },
             {
                 "id": "ko-0685",
-                "w": "힘을",
-                "p": "himeul",
-                "d": "strength",
-                "s": ""
+                "w": "거기에",
+                "p": "geogie",
+                "d": "thereto",
+                "s": "누가 거기에 갈지 나보고 결정하게 하다니 너 참 잔인하구나. (You are so cruel to make me decide who should go there.)"
             },
             {
                 "id": "ko-0686",
-                "w": "아저씨",
-                "p": "ajeossi",
-                "d": "middle-aged elder male; uncle",
-                "s": ""
+                "w": "애",
+                "p": "ae",
+                "d": "anxiety",
+                "s": "일을 마무리하려고 애쓴다. (He makes an effort to finish the work.)"
             },
             {
                 "id": "ko-0687",
-                "w": "알겠지",
-                "p": "algetji",
-                "d": "Okay",
-                "s": ""
+                "w": "분명",
+                "p": "bunmyeong",
+                "d": "clearly, certainly",
+                "s": "톰은 분명 날 막으려고 할 거야. (Tom is sure to try and stop me.)"
             },
             {
                 "id": "ko-0688",
-                "w": "있었는데",
-                "p": "isseonneunde",
-                "d": "There was",
-                "s": ""
+                "w": "말하고",
+                "p": "malhago",
+                "d": "to speak, to talk",
+                "s": "내 일을 어떻게 하면 되는지 나한테 말하고 있는거에요? (Are you telling me how to do my job?)"
             },
             {
                 "id": "ko-0689",
-                "w": "사랑하는",
-                "p": "saranghaneun",
-                "d": "loving",
+                "w": "역시",
+                "p": "yeoksi",
+                "d": "too, also",
                 "s": ""
             },
             {
                 "id": "ko-0690",
-                "w": "기다리고",
-                "p": "gidarigo",
-                "d": "to wait for, to await; to look forward to",
-                "s": ""
+                "w": "저희가",
+                "p": "jeohuiga",
+                "d": "we",
+                "s": "저희 이 일 내일까지 절대 못 끝낼걸요. (We will never be able to finish this work by tomorrow.)"
             },
             {
                 "id": "ko-0691",
-                "w": "될거야",
-                "p": "doelgeoya",
-                "d": "It will be",
-                "s": ""
+                "w": "찾아",
+                "p": "chaja",
+                "d": "to search, to look for",
+                "s": "모두 미아를 찾아 봤다. (Everyone looked for the missing kid.)"
             },
             {
                 "id": "ko-0692",
-                "w": "살아",
-                "p": "sara",
-                "d": "to live; to dwell",
-                "s": ""
+                "w": "걔가",
+                "p": "gyaega",
+                "d": "that kid",
+                "s": "걔가 집집마다 돌아다니면서 후원 좀 해달라고 했어. (He went from door to door asking for contributions.)"
             },
             {
                 "id": "ko-0693",
-                "w": "평생",
-                "p": "pyeongsaeng",
-                "d": "one's entire life, lifetime",
+                "w": "이럴",
+                "p": "ireol",
+                "d": "like this",
                 "s": ""
             },
             {
                 "id": "ko-0694",
-                "w": "아까",
-                "p": "akka",
-                "d": "Earlier",
-                "s": ""
+                "w": "저기요",
+                "p": "jeogiyo",
+                "d": "over there",
+                "s": "저기 단체로 무슨 일이야? (What happened to all those people?)"
             },
             {
                 "id": "ko-0695",
-                "w": "얘야",
-                "p": "yaeya",
-                "d": "Honey",
-                "s": ""
+                "w": "너와",
+                "p": "neowa",
+                "d": "four",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
                 "id": "ko-0696",
-                "w": "눈",
-                "p": "nun",
-                "d": "eye (organ allowing animals to see); appreciative eye (for), discerning eye (for)",
-                "s": ""
+                "w": "될까요",
+                "p": "doelkkayo",
+                "d": "to become",
+                "s": "제가 당신께 무엇인가 질문해도 될까요? (May I ask you something?)"
             },
             {
                 "id": "ko-0697",
-                "w": "거기에",
-                "p": "geogie",
-                "d": "there",
-                "s": ""
-            },
-            {
-                "id": "ko-0698",
-                "w": "애",
-                "p": "ae",
-                "d": "kid",
-                "s": ""
-            },
-            {
-                "id": "ko-0699",
-                "w": "분명",
-                "p": "bunmyeong",
-                "d": "clearly, certainly",
-                "s": ""
-            },
-            {
-                "id": "ko-0700",
-                "w": "말하고",
-                "p": "malhago",
-                "d": "speaking",
-                "s": ""
-            },
-            {
-                "id": "ko-0701",
-                "w": "역시",
-                "p": "yeoksi",
-                "d": "too, also; just as expected",
-                "s": ""
-            },
-            {
-                "id": "ko-0702",
-                "w": "저희가",
-                "p": "jeohuiga",
-                "d": "We",
-                "s": ""
-            },
-            {
-                "id": "ko-0703",
-                "w": "찾아",
-                "p": "chaja",
-                "d": "find",
-                "s": ""
-            },
-            {
-                "id": "ko-0704",
-                "w": "걔가",
-                "p": "gyaega",
-                "d": "He",
-                "s": ""
-            },
-            {
-                "id": "ko-0705",
-                "w": "이럴",
-                "p": "ireol",
-                "d": "to do this; to act in this way; to say this",
-                "s": ""
-            },
-            {
-                "id": "ko-0706",
-                "w": "저기요",
-                "p": "jeogiyo",
-                "d": "Hey there",
-                "s": ""
-            },
-            {
-                "id": "ko-0707",
-                "w": "너와",
-                "p": "neowa",
-                "d": "with you",
-                "s": ""
-            },
-            {
-                "id": "ko-0708",
-                "w": "될까요",
-                "p": "doelkkayo",
-                "d": "Will it happen?",
-                "s": ""
-            },
-            {
-                "id": "ko-0709",
                 "w": "천천히",
                 "p": "cheoncheonhi",
                 "d": "slowly",
-                "s": ""
+                "s": "자동차가 천천히 따라오는 것 같은 느낌이 든다. (I think that that car is slowly following us.)"
             },
             {
-                "id": "ko-0710",
+                "id": "ko-0698",
                 "w": "문제",
                 "p": "munje",
                 "d": "problem, issue, question",
-                "s": ""
+                "s": "내가 처리할 수 있어, 문제 없어. (I can handle this, no problem.)"
             },
             {
-                "id": "ko-0711",
+                "id": "ko-0699",
                 "w": "수술을",
                 "p": "susureul",
                 "d": "surgery",
                 "s": ""
             },
             {
-                "id": "ko-0712",
+                "id": "ko-0700",
                 "w": "좋았어",
                 "p": "joasseo",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
+                "d": "to be good",
+                "s": "그녀는 지금 안 만나는 것이 좋았어. (You'd better not see her now.)"
             },
             {
-                "id": "ko-0713",
+                "id": "ko-0701",
                 "w": "어디에",
                 "p": "eodie",
                 "d": "where",
-                "s": ""
+                "s": "\"어디에 살고 있어?\" \"호주. 너는?\" \"캐나다.\" (\"Where do you live?\" \"Australia. How about you?\" \"Canada.\")"
             },
             {
-                "id": "ko-0714",
+                "id": "ko-0702",
                 "w": "문을",
                 "p": "muneul",
-                "d": "open the door",
-                "s": ""
+                "d": "door",
+                "s": "침대에 눕기 전에 꼭 문을 잠궈 두시기 바랍니다. (Be sure to lock the door before you go to bed.)"
             },
             {
-                "id": "ko-0715",
+                "id": "ko-0703",
                 "w": "맞지",
                 "p": "matji",
-                "d": "That's right",
-                "s": ""
+                "d": "to be correct, right",
+                "s": "양치기로 사는 건 나에게 맞지 않는 일이다. (I was not made for the life of a shepherd.)"
             },
             {
-                "id": "ko-0716",
-                "w": "어딨어",
-                "p": "eodisseo",
-                "d": "Where are you?",
-                "s": ""
-            },
-            {
-                "id": "ko-0717",
+                "id": "ko-0704",
                 "w": "조지",
                 "p": "joji",
-                "d": "george",
+                "d": "a transliteration of the English male given name George",
                 "s": ""
             },
             {
-                "id": "ko-0718",
-                "w": "아녜요",
-                "p": "anyeyo",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-0719",
+                "id": "ko-0705",
                 "w": "저녁",
                 "p": "jeonyeok",
-                "d": "evening; evening meal; supper; dinner",
-                "s": ""
+                "d": "evening",
+                "s": "오늘 저녁 6시까지 준비될 것이다. (It'll be ready by six this evening.)"
             },
             {
-                "id": "ko-0720",
+                "id": "ko-0706",
                 "w": "됩니다",
                 "p": "doemnida",
-                "d": "It will be done",
-                "s": ""
+                "d": "to become",
+                "s": "만약 당신에게 이 책이 없다면, 그것을 사면 됩니다. (If you do not have this book, you can buy it.)"
             },
             {
-                "id": "ko-0721",
+                "id": "ko-0707",
                 "w": "마요",
                 "p": "mayo",
                 "d": "to smash",
-                "s": ""
+                "s": "신경쓰지 마요! (Never mind!)"
+            },
+            {
+                "id": "ko-0708",
+                "w": "만들어",
+                "p": "mandeureo",
+                "d": "to make",
+                "s": "만약 신이 존재하지 않았다면, 만들어 낼 필요가 있겠지. (If God did not exist, it would be necessary to invent him.)"
+            },
+            {
+                "id": "ko-0709",
+                "w": "적어도",
+                "p": "jeogeodo",
+                "d": "at least",
+                "s": "이러한 사전에는 냉장고에 대한 적어도 두가지의 예문이 있어야 한다. (In a dictionary like this one there should be at least two sentences with \"fridge\".)"
+            },
+            {
+                "id": "ko-0710",
+                "w": "애들",
+                "p": "aedeul",
+                "d": "child, kid",
+                "s": "아이 착하다. (You're a good boy.)"
+            },
+            {
+                "id": "ko-0711",
+                "w": "개",
+                "p": "gae",
+                "d": "dog",
+                "s": "나는 고양이 한 마리와 개 한 마리가 있다. 고양이는 검고 개는 하얗다. (I have a cat and a dog. The cat is black, and the dog is white.)"
+            },
+            {
+                "id": "ko-0712",
+                "w": "잘했어",
+                "p": "jalhaesseo",
+                "d": "to do something well",
+                "s": "마리아는 스페인어를 매우 잘합니다. (Maria speaks Spanish very well.)"
+            },
+            {
+                "id": "ko-0713",
+                "w": "그러나",
+                "p": "geureona",
+                "d": "but, however",
+                "s": "그러나, 그 반대도 또한 항상 진실이다. (And yet, the contrary is always true as well.)"
+            },
+            {
+                "id": "ko-0714",
+                "w": "주",
+                "p": "ju",
+                "d": "week",
+                "s": "그가 충격에서 벗어나는 데는 몇 주 걸렸다. (It took him several weeks to recover from the shock.)"
+            },
+            {
+                "id": "ko-0715",
+                "w": "괜찮은",
+                "p": "gwaenchaneun",
+                "d": "to be nice",
+                "s": "당신을 도와줄 수 있는 괜찮은 변호사를 알고 있습니다. (I know a good lawyer who can help you.)"
+            },
+            {
+                "id": "ko-0716",
+                "w": "생각은",
+                "p": "saenggageun",
+                "d": "thought",
+                "s": "당신의 생각은 전적으로 옳습니다. (You're completely right.)"
+            },
+            {
+                "id": "ko-0717",
+                "w": "위에",
+                "p": "wie",
+                "d": "hereinbefore",
+                "s": "마호가니 책상 위에 금속 컵과 파란색 코스터가 있습니다. (On the mahogany desk, there is a metal cup and a blue coaster.)"
+            },
+            {
+                "id": "ko-0718",
+                "w": "가끔",
+                "p": "gakkeum",
+                "d": "occasionally",
+                "s": "가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다. (Sometimes I wonder when the first world championship in cyberbullying will take place.)"
+            },
+            {
+                "id": "ko-0719",
+                "w": "있었던",
+                "p": "isseotdeon",
+                "d": "to stay",
+                "s": "지금 몇시라고 생각하는 거야? 이런 늦은 시각까지 어디 있었던 거야? (Do you realize what time it is? What were you up to at this time of night?)"
+            },
+            {
+                "id": "ko-0720",
+                "w": "간",
+                "p": "gan",
+                "d": "for",
+                "s": "톰이랑 한번이라도 수영하러 간 적 있어? (Have you ever gone swimming with Tom?)"
+            },
+            {
+                "id": "ko-0721",
+                "w": "잠시",
+                "p": "jamsi",
+                "d": "a moment, short time",
+                "s": "나는 도쿄로 가는 길에 오사카에 잠시 들렀다. (I stopped off at Osaka on my way to Tokyo.)"
             },
             {
                 "id": "ko-0722",
-                "w": "생각엔",
-                "p": "saenggagen",
-                "d": "I think",
-                "s": ""
+                "w": "알아서",
+                "p": "araseo",
+                "d": "to know, understand",
+                "s": "그 여자에게 당신이 여기 있다고 말해요. — 알겠어요. 고마워요. 피트 (Tell her you’re here. — Right, thanks, Pete.)"
             },
             {
                 "id": "ko-0723",
-                "w": "만들어",
-                "p": "mandeureo",
-                "d": "make it",
-                "s": ""
+                "w": "곳에",
+                "p": "gose",
+                "d": "place",
+                "s": "나는 직장에서 1시간 정도 떨어진 곳에 살고 있다. (I live an hour away from work.)"
             },
             {
                 "id": "ko-0724",
-                "w": "적어도",
-                "p": "jeogeodo",
-                "d": "at least; to say the least",
-                "s": ""
+                "w": "집을",
+                "p": "jibeul",
+                "d": "to pick up",
+                "s": "우리 집을 제외하고는 우리 집이 있는 거리의 모든 집들이 모두 파란색이다. (Every house on our street was blue except ours.)"
             },
             {
                 "id": "ko-0725",
-                "w": "애들",
-                "p": "aedeul",
-                "d": "kids",
+                "w": "그렇지만",
+                "p": "geureochiman",
+                "d": "nonetheless",
                 "s": ""
             },
             {
                 "id": "ko-0726",
-                "w": "개",
-                "p": "gae",
-                "d": "dog",
+                "w": "그레이",
+                "p": "geurei",
+                "d": "Gray",
                 "s": ""
             },
             {
                 "id": "ko-0727",
-                "w": "잘했어",
-                "p": "jalhaesseo",
-                "d": "Well done",
-                "s": ""
+                "w": "그럼요",
+                "p": "geureomyo",
+                "d": "then, in that case",
+                "s": "내 오리털 잠바 입어. 그럼 좀 더 나을 거야. (Put on my eiderdown coat. That'll be better.)"
             },
             {
                 "id": "ko-0728",
-                "w": "그러나",
-                "p": "geureona",
-                "d": "but, however; \"like that, but;\" contraction of 그러하나 (geureohana)",
-                "s": ""
+                "w": "삶을",
+                "p": "salmeul",
+                "d": "to boil",
+                "s": "나는 행복한 삶을 살고 싶어요. (I want to live a happy life.)"
             },
             {
                 "id": "ko-0729",
-                "w": "주",
-                "p": "ju",
-                "d": "state",
-                "s": ""
+                "w": "마음에",
+                "p": "maeume",
+                "d": "mind, heart",
+                "s": "그에게는 마음에 들지 않는 구석이 있다. (There is something about him I don't like.)"
             },
             {
                 "id": "ko-0730",
-                "w": "괜찮은",
-                "p": "gwaenchaneun",
-                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
-                "s": ""
+                "w": "살고",
+                "p": "salgo",
+                "d": "to live",
+                "s": "세계 인구의 3분의 1 이상이 해안 근처에 살고 있습니다. (More than a third of the world population lives near a coast.)"
             },
             {
                 "id": "ko-0731",
-                "w": "생각은",
-                "p": "saenggageun",
-                "d": "Thought",
-                "s": ""
+                "w": "들고",
+                "p": "deulgo",
+                "d": "to come in",
+                "s": "니가 좀 외로울 것 같아서 내가 와인 한 병을 들고 왔지. (I thought you might be lonely, so I came over with a bottle of wine.)"
             },
             {
                 "id": "ko-0732",
-                "w": "위에",
-                "p": "wie",
-                "d": "above",
-                "s": ""
+                "w": "분",
+                "p": "bun",
+                "d": "bun",
+                "s": "살면서 40분 차 타고 가는게 이렇게 길게 느껴졌던 적이 없어요. (It was the longest forty-minute drive of my life.)"
             },
             {
                 "id": "ko-0733",
-                "w": "가끔",
-                "p": "gakkeum",
-                "d": "occasionally, from time to time, not frequently or regularly",
-                "s": ""
+                "w": "그랬어",
+                "p": "geuraesseo",
+                "d": "to be thus, in that way",
+                "s": "라일라가 그랬어? (Did Layla do that?)"
             },
             {
                 "id": "ko-0734",
-                "w": "있었던",
-                "p": "isseotdeon",
-                "d": "there was",
-                "s": ""
+                "w": "차를",
+                "p": "chareul",
+                "d": "vehicle",
+                "s": "톰은 새 차를 사는 것을 계속 꿈 꾸고 있다. (Tom keeps dreaming about buying a new car.)"
             },
             {
                 "id": "ko-0735",
-                "w": "간",
-                "p": "gan",
-                "d": "Liver",
-                "s": ""
+                "w": "옆에",
+                "p": "yeope",
+                "d": "sideway",
+                "s": "그는 그녀 옆에 앉기 싫다고 했어. (He said that he didn't want to sit next to her.)"
             },
             {
                 "id": "ko-0736",
-                "w": "잠시",
-                "p": "jamsi",
-                "d": "for a moment",
-                "s": ""
+                "w": "아이가",
+                "p": "aiga",
+                "d": "to not be",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
             },
             {
                 "id": "ko-0737",
-                "w": "알아서",
-                "p": "araseo",
-                "d": "Take care of it",
-                "s": ""
+                "w": "저게",
+                "p": "jeoge",
+                "d": "that",
+                "s": "저게 날 궁금하게 만드네. (That made me curious.)"
             },
             {
                 "id": "ko-0738",
-                "w": "곳에",
-                "p": "gose",
-                "d": "where",
-                "s": ""
+                "w": "아빠는",
+                "p": "appaneun",
+                "d": "dad, papa",
+                "s": "우리 아빠는 알람을 일곱 시로 맞췄어. (My father set the alarm for six o'clock.)"
             },
             {
                 "id": "ko-0739",
-                "w": "집을",
-                "p": "jibeul",
-                "d": "house",
-                "s": ""
+                "w": "괜찮을",
+                "p": "gwaenchaneul",
+                "d": "to be nice",
+                "s": "나는 괜찮을 거야. (I'll be OK.)"
             },
             {
                 "id": "ko-0740",
-                "w": "그렇지만",
-                "p": "geureochiman",
-                "d": "But",
-                "s": ""
+                "w": "하자",
+                "p": "haja",
+                "d": "flaw",
+                "s": "이건 좀 이따 하자. (Let's do this later.)"
             },
             {
                 "id": "ko-0741",
-                "w": "그레이",
-                "p": "geurei",
-                "d": "gray",
-                "s": ""
+                "w": "알았는데",
+                "p": "aranneunde",
+                "d": "to know, understand",
+                "s": "난 텀이 너의 옷을 입는 걸 네가 싫어하는지 알았는데, 그의 옷이 함빡 젖었었어. (I know you didn't want Tom to wear your clothes, but his were all wet.)"
             },
             {
                 "id": "ko-0742",
-                "w": "그럼요",
-                "p": "geureomyo",
-                "d": "Sure",
-                "s": ""
+                "w": "생각해요",
+                "p": "saenggakaeyo",
+                "d": "to think",
+                "s": "다음 학기에 한국어를 배울까 생각해요 (I'm thinking about learning Korean next semester.)"
             },
             {
                 "id": "ko-0743",
-                "w": "삶을",
-                "p": "salmeul",
-                "d": "life",
-                "s": ""
+                "w": "없는데",
+                "p": "eopneunde",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
                 "id": "ko-0744",
-                "w": "마음에",
-                "p": "maeume",
-                "d": "in my heart",
-                "s": ""
+                "w": "생각하는",
+                "p": "saenggakaneun",
+                "d": "to think",
+                "s": "지금 몇시라고 생각하는 거야? 이런 늦은 시각까지 어디 있었던 거야? (Do you realize what time it is? What were you up to at this time of night?)"
             },
             {
                 "id": "ko-0745",
-                "w": "살고",
-                "p": "salgo",
-                "d": "to live; to dwell",
-                "s": ""
+                "w": "아니잖아",
+                "p": "anijana",
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0746",
-                "w": "들고",
-                "p": "deulgo",
-                "d": "carrying",
-                "s": ""
+                "w": "마지막으로",
+                "p": "majimageuro",
+                "d": "last",
+                "s": "마지막으로 그를 봤을때 그는 파란 셔츠에 흰색 바지를 입고 있었다. (When I last saw him, he was wearing a blue shirt and white slacks.)"
             },
             {
                 "id": "ko-0747",
-                "w": "분",
-                "p": "bun",
-                "d": "minutes",
-                "s": ""
-            },
-            {
-                "id": "ko-0748",
-                "w": "그랬어",
-                "p": "geuraesseo",
-                "d": "I did",
-                "s": ""
-            },
-            {
-                "id": "ko-0749",
-                "w": "차를",
-                "p": "chareul",
-                "d": "tea",
-                "s": ""
-            },
-            {
-                "id": "ko-0750",
-                "w": "옆에",
-                "p": "yeope",
-                "d": "next to",
-                "s": ""
-            },
-            {
-                "id": "ko-0751",
-                "w": "아이가",
-                "p": "aiga",
-                "d": "The child",
-                "s": ""
-            },
-            {
-                "id": "ko-0752",
-                "w": "이번엔",
-                "p": "ibeonen",
-                "d": "This time",
-                "s": ""
-            },
-            {
-                "id": "ko-0753",
-                "w": "저게",
-                "p": "jeoge",
-                "d": "that thing (as the subject of the sentence or clause)",
-                "s": ""
-            },
-            {
-                "id": "ko-0754",
-                "w": "아빠는",
-                "p": "appaneun",
-                "d": "Dad is",
-                "s": ""
-            },
-            {
-                "id": "ko-0755",
-                "w": "괜찮을",
-                "p": "gwaenchaneul",
-                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
-                "s": ""
-            },
-            {
-                "id": "ko-0756",
-                "w": "하자",
-                "p": "haja",
-                "d": "Let's do it",
-                "s": ""
-            },
-            {
-                "id": "ko-0757",
-                "w": "알았는데",
-                "p": "aranneunde",
-                "d": "I thought",
-                "s": ""
-            },
-            {
-                "id": "ko-0758",
-                "w": "생각해요",
-                "p": "saenggakaeyo",
-                "d": "I think",
-                "s": ""
-            },
-            {
-                "id": "ko-0759",
-                "w": "없는데",
-                "p": "eomneunde",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
-            },
-            {
-                "id": "ko-0760",
-                "w": "생각하는",
-                "p": "saenggakaneun",
-                "d": "thinking",
-                "s": ""
-            },
-            {
-                "id": "ko-0761",
-                "w": "아니잖아",
-                "p": "anijana",
-                "d": "Nope",
-                "s": ""
-            },
-            {
-                "id": "ko-0762",
-                "w": "마지막으로",
-                "p": "majimageuro",
-                "d": "finally",
-                "s": ""
-            },
-            {
-                "id": "ko-0763",
                 "w": "여자를",
                 "p": "yeojareul",
                 "d": "woman",
-                "s": ""
+                "s": "친구들이 슬퍼하는 여자를 위로해 주었다. (The grieving woman was consoled by her friends.)"
             },
             {
-                "id": "ko-0764",
+                "id": "ko-0748",
                 "w": "죽었어",
                 "p": "jugeosseo",
-                "d": "dead",
-                "s": ""
+                "d": "to die",
+                "s": "전염병 유행중에 수천명의 사람들이 죽었어. (Thousands of people died during the plague.)"
             },
             {
-                "id": "ko-0765",
+                "id": "ko-0749",
                 "w": "멍청한",
                 "p": "meongcheonghan",
-                "d": "stupid",
-                "s": ""
+                "d": "foolish, silly, stupid",
+                "s": "톰은 멍청한 모자를 쓰고 있었다. (Tom was wearing a ridiculous hat.)"
             },
             {
-                "id": "ko-0766",
+                "id": "ko-0750",
                 "w": "훌륭한",
                 "p": "hullyunghan",
-                "d": "great",
-                "s": ""
+                "d": "excellent",
+                "s": "톰은 훌륭한 프랑스어 선생님이야. (Tom is a great French teacher.)"
             },
             {
-                "id": "ko-0767",
+                "id": "ko-0751",
                 "w": "있었지",
                 "p": "isseotji",
-                "d": "There was",
-                "s": ""
+                "d": "to stay",
+                "s": "너는 날 속인 적이 있었지. (You've deceived me before.)"
             },
             {
-                "id": "ko-0768",
+                "id": "ko-0752",
                 "w": "정도",
                 "p": "jeongdo",
-                "d": "degree, extent; an approximate amount",
-                "s": ""
+                "d": "degree, extent",
+                "s": "나는 직장에서 1시간 정도 떨어진 곳에 살고 있다. (I live an hour away from work.)"
             },
             {
-                "id": "ko-0769",
-                "w": "베일리",
-                "p": "beilli",
-                "d": "bailey",
-                "s": ""
-            },
-            {
-                "id": "ko-0770",
+                "id": "ko-0753",
                 "w": "준비가",
                 "p": "junbiga",
-                "d": "ready",
-                "s": ""
+                "d": "readiness, preparation",
+                "s": "톰은 떠날 준비가 거의 다 됐대. (Tom says he's almost ready to leave.)"
             },
             {
-                "id": "ko-0771",
+                "id": "ko-0754",
                 "w": "남은",
                 "p": "nameun",
-                "d": "leftover",
-                "s": ""
+                "d": "to remain",
+                "s": "저는 남은 인생을 그것에 대해 후회하면서 지내고 싶지 않아요. (I don't want to spend the rest of my life regretting it.)"
             },
             {
-                "id": "ko-0772",
+                "id": "ko-0755",
                 "w": "있으니까",
                 "p": "isseunikka",
-                "d": "Because there is",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-0773",
+                "id": "ko-0756",
                 "w": "싫어요",
                 "p": "sireoyo",
-                "d": "I don't like it",
-                "s": ""
+                "d": "dislike",
+                "s": "저는 당신과 결혼하기 싫어요. (I don't want to marry you.)"
             },
             {
-                "id": "ko-0774",
+                "id": "ko-0757",
                 "w": "입니다",
                 "p": "imnida",
-                "d": "to carry on the head",
-                "s": ""
+                "d": "For the Korean copula",
+                "s": "오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다. (Today will once again be remembered as a great day for us.)"
             },
             {
-                "id": "ko-0775",
+                "id": "ko-0758",
                 "w": "영원히",
                 "p": "yeongwonhi",
                 "d": "forever, eternally",
-                "s": ""
+                "s": "이 범죄사건은 영원히 해결될 수 없었다. (This crime case was never able to be solved.)"
             },
             {
-                "id": "ko-0776",
+                "id": "ko-0759",
                 "w": "엄청난",
                 "p": "eomcheongnan",
-                "d": "enormous",
-                "s": ""
+                "d": "amazing",
+                "s": "히틀러가 독일을 통치하였을 때, 독일인들은 그에게 엄청난 충성심을 보여주었다. (The Germans exhibited great loyalty to Hitler during his rule in Germany.)"
             },
             {
-                "id": "ko-0777",
+                "id": "ko-0760",
                 "w": "정신",
                 "p": "jeongsin",
-                "d": "mind; consciousness; pneuma; psyche; mindset",
-                "s": ""
+                "d": "mind",
+                "s": "육신과 정신 (the physical body and the psyche)"
             },
             {
-                "id": "ko-0778",
+                "id": "ko-0761",
                 "w": "는",
                 "p": "neun",
-                "d": "is",
-                "s": ""
+                "d": "A present tense-marking suffix for verbs",
+                "s": "2 더하기 2는 4라는 것을 모두 알고 있어. (Everyone knows two plus two equals four.)"
             },
             {
-                "id": "ko-0779",
+                "id": "ko-0762",
                 "w": "계세요",
                 "p": "gyeseyo",
-                "d": "Are you there?",
-                "s": ""
+                "d": "to stay",
+                "s": "어머니가 케이크를 만들고 계세요. (Mom is making a cake.)"
             },
             {
-                "id": "ko-0780",
+                "id": "ko-0763",
                 "w": "하는지",
                 "p": "haneunji",
-                "d": "Do you do it?",
-                "s": ""
+                "d": "to do",
+                "s": "톰은 메리가 존한테 뭘 해야 하는지 말해줄 필요는 없다고 했어. (Tom said he didn't think Mary needed to tell John what to do.)"
             },
             {
-                "id": "ko-0781",
+                "id": "ko-0764",
                 "w": "좋을",
                 "p": "joeul",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
+                "d": "to be good",
+                "s": "비가 오는 것 같으니 톰은 우산을 갖고 가는 게 좋을 것이다. (Tom should take an umbrella because it looks like rain.)"
             },
             {
-                "id": "ko-0782",
+                "id": "ko-0765",
                 "w": "있었죠",
                 "p": "isseotjyo",
-                "d": "There was",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-0783",
+                "id": "ko-0766",
                 "w": "간다",
                 "p": "ganda",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
+                "d": "to go",
+                "s": "나는 톰이 무슨 꿍꿍이인지 짐작도 안 간다. (I have no idea what Tom's plan is.)"
             },
             {
-                "id": "ko-0784",
+                "id": "ko-0767",
                 "w": "기회를",
                 "p": "gihoereul",
                 "d": "opportunity",
-                "s": ""
+                "s": "나의 사촌이 아직 어려서, 그들은 그에게 좀 더 기회를 줬다. (Because my nephew was still young, they cut him some slack.)"
+            },
+            {
+                "id": "ko-0768",
+                "w": "그대로",
+                "p": "geudaero",
+                "d": "just, exactly",
+                "s": "그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다. (We don't see things as they are, but as we are.)"
+            },
+            {
+                "id": "ko-0769",
+                "w": "하나도",
+                "p": "hanado",
+                "d": "not at all",
+                "s": "여기는 이주 전부터 비가 하나도 오지 않았다. (There has been no rain here for the past two weeks.)"
+            },
+            {
+                "id": "ko-0770",
+                "w": "멈춰",
+                "p": "meomchwo",
+                "d": "to stop",
+                "s": "식사 중에 그런 얘기 멈춰. (Quit talking about that while we're eating.)"
+            },
+            {
+                "id": "ko-0771",
+                "w": "필요가",
+                "p": "piryoga",
+                "d": "need",
+                "s": "우리는 우리가 가진것을 가지고 사는 법을 배울 필요가 있다. (We need to learn to live with what we have.)"
+            },
+            {
+                "id": "ko-0772",
+                "w": "도와줘",
+                "p": "dowajwo",
+                "d": "to help",
+                "s": "톰은 날 절대 안 도와줘. (Tom never helps me.)"
+            },
+            {
+                "id": "ko-0773",
+                "w": "다음에",
+                "p": "daeume",
+                "d": "next, subsequently",
+                "s": "다음에 파티를 여시면 저를 초대해 주세요. (Please invite me the next time you have a party.)"
+            },
+            {
+                "id": "ko-0774",
+                "w": "앞에서",
+                "p": "apeseo",
+                "d": "Used other than figuratively or idiomatically: see 앞",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
+            },
+            {
+                "id": "ko-0775",
+                "w": "뭐든",
+                "p": "mwodeun",
+                "d": "what",
+                "s": "뭐든 잘 이해안되는게 생기면 나한테 와. (If anything comes up that you don't understand, come to me.)"
+            },
+            {
+                "id": "ko-0776",
+                "w": "물",
+                "p": "mul",
+                "d": "water",
+                "s": "톰이 마실 수 있는 것은 오직 물 뿐이야. (Water is the only thing Tom will drink.)"
+            },
+            {
+                "id": "ko-0777",
+                "w": "밖으로",
+                "p": "bakkeuro",
+                "d": "outside",
+                "s": "우리는 시야 밖으로 벗어날 때까지 그를 바라보았다. (We watched him until he was out of sight.)"
+            },
+            {
+                "id": "ko-0778",
+                "w": "오는",
+                "p": "oneun",
+                "d": "to come",
+                "s": "비가 오는 것 같으니 톰은 우산을 갖고 가는 게 좋을 것이다. (Tom should take an umbrella because it looks like rain.)"
+            },
+            {
+                "id": "ko-0779",
+                "w": "그렇다면",
+                "p": "geureotamyeon",
+                "d": "now",
+                "s": "그렇다면 돌아가야지. (Then we should go back.)"
+            },
+            {
+                "id": "ko-0780",
+                "w": "미국",
+                "p": "miguk",
+                "d": "United States of America",
+                "s": "미국 성인은 약 65퍼센트가 비만이고 그건 그들의 건강에 좋지 않다. (About 65% of American adults are overweight, which isn't good for their health.)"
+            },
+            {
+                "id": "ko-0781",
+                "w": "말라고",
+                "p": "mallago",
+                "d": "speech",
+                "s": "나는 톰에게 나와 메리의 관계에 대해 상관하지 말라고 말했다. (I told Tom that my relationship with Mary was none of his business.)"
+            },
+            {
+                "id": "ko-0782",
+                "w": "하지마",
+                "p": "hajima",
+                "d": "to do",
+                "s": "말하려 하지마. 차라리 에너지를 아껴. (Don't try to talk. Save your energy.)"
+            },
+            {
+                "id": "ko-0783",
+                "w": "서",
+                "p": "seo",
+                "d": "west",
+                "s": "톰은 메리와 존이 말하는 것을 들으며 창문 밖에 서 있었다. (Tom was standing outside the window, listening to Mary and John talking.)"
+            },
+            {
+                "id": "ko-0784",
+                "w": "말한",
+                "p": "malhan",
+                "d": "to speak, to talk",
+                "s": "난 톰이 나한테 말한 모든 것을 기억했으면 좋겠어. (I wish I could remember everything Tom told me.)"
             },
             {
                 "id": "ko-0785",
-                "w": "그대로",
-                "p": "geudaero",
-                "d": "just, exactly; just the way something is, without change",
+                "w": "테니까",
+                "p": "tenikka",
+                "d": "something that goes around the outside of something else:",
                 "s": ""
             },
             {
                 "id": "ko-0786",
-                "w": "하나도",
-                "p": "hanado",
-                "d": "Not even one",
-                "s": ""
+                "w": "앞에",
+                "p": "ape",
+                "d": "forward",
+                "s": "우리 앞에 있는 차는 왜 이렇게 느리게 가는 거야? (Why is the car in front of us so slow?)"
             },
             {
                 "id": "ko-0787",
-                "w": "멈춰",
-                "p": "meomchwo",
-                "d": "stop",
-                "s": ""
+                "w": "를",
+                "p": "reul",
+                "d": "this thing, this matter",
+                "s": "5814를 반올림한 가장 가까운 천 단위 숫자가 뭐지? (What is 5814 rounded to the nearest thousand?)"
             },
             {
                 "id": "ko-0788",
-                "w": "필요가",
-                "p": "piryoga",
-                "d": "need",
-                "s": ""
+                "w": "처럼",
+                "p": "cheoreom",
+                "d": "as, like",
+                "s": "톰은 뭔가를 걱정하는 것 처럼 보여. (Tom seems to be worried about something.)"
             },
             {
                 "id": "ko-0789",
-                "w": "도와줘",
-                "p": "dowajwo",
-                "d": "help me",
-                "s": ""
+                "w": "저한테",
+                "p": "jeohante",
+                "d": "that",
+                "s": "그가 여기에 오면 저한테 말해주세요. (Please tell me when he arrives here.)"
             },
             {
                 "id": "ko-0790",
-                "w": "다음에",
-                "p": "daeume",
-                "d": "next time",
-                "s": ""
+                "w": "거고",
+                "p": "geogo",
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0791",
-                "w": "앞에서",
-                "p": "apeseo",
-                "d": "Used other than figuratively or idiomatically: see 앞 (ap), 에서 (eseo).; previously",
-                "s": ""
+                "w": "받아",
+                "p": "bada",
+                "d": "to get",
+                "s": "절도를 한 사람은 벌을 받아 마땅하다. (A person who steals deserves punishment.)"
             },
             {
                 "id": "ko-0792",
-                "w": "뭐든",
-                "p": "mwodeun",
-                "d": "whatever",
-                "s": ""
+                "w": "그것도",
+                "p": "geugeotdo",
+                "d": "that",
+                "s": "그것 때문에 울었다. (That made me cry.)"
             },
             {
                 "id": "ko-0793",
-                "w": "물",
-                "p": "mul",
-                "d": "water",
-                "s": ""
+                "w": "요즘",
+                "p": "yojeum",
+                "d": "recent times",
+                "s": "수아 씨, 요즘 요가 하신다더니 정말 날씬해지셨네요. (Miss Sua, she's been doing yoga recently and really lost a lot of weight!)"
             },
             {
                 "id": "ko-0794",
-                "w": "밖으로",
-                "p": "bakkeuro",
-                "d": "out",
-                "s": ""
+                "w": "믿어",
+                "p": "mideo",
+                "d": "to trust, to believe",
+                "s": "제발 제 말 좀 믿어 주세요. (Please believe me.)"
             },
             {
                 "id": "ko-0795",
-                "w": "오는",
-                "p": "oneun",
-                "d": "coming",
-                "s": ""
+                "w": "뒤로",
+                "p": "dwiro",
+                "d": "aback",
+                "s": "톰은 직업을 잃은 뒤로 레스토랑에서 식사한 적이 없어. (Tom hasn't eaten at a restaurant since he lost his job.)"
             },
             {
                 "id": "ko-0796",
-                "w": "그렇다면",
-                "p": "geureotamyeon",
-                "d": "If so",
-                "s": ""
+                "w": "입고",
+                "p": "ipgo",
+                "d": "to wear, to put on",
+                "s": "그 여자가 파티에 입고 온 드레스가 사람들의 눈길을 끌었지. (Her dress attracted everyone's attention at the party.)"
             },
             {
                 "id": "ko-0797",
-                "w": "미국",
-                "p": "miguk",
-                "d": "united states",
-                "s": ""
+                "w": "보니",
+                "p": "boni",
+                "d": "to see",
+                "s": "깨어나 보니 정오가 다 되어 있었다. (It was almost noon when I woke up.)"
             },
             {
                 "id": "ko-0798",
-                "w": "말라고",
-                "p": "mallago",
-                "d": "Don't tell me",
-                "s": ""
+                "w": "속에",
+                "p": "soge",
+                "d": "into",
+                "s": "우리는 항상 어떠한 위험 속에 처해 있다. (We're always in some kind of danger.)"
             },
             {
                 "id": "ko-0799",
-                "w": "하지마",
-                "p": "hajima",
-                "d": "informal present negative hortative form of 하다 (hada, “to do”); informal present negative imperative form of 하다 (hada, “to do”)",
-                "s": ""
+                "w": "잠시만요",
+                "p": "jamsimanyo",
+                "d": "a moment, short time",
+                "s": "나는 도쿄로 가는 길에 오사카에 잠시 들렀다. (I stopped off at Osaka on my way to Tokyo.)"
             },
             {
                 "id": "ko-0800",
-                "w": "서",
-                "p": "seo",
-                "d": "standing",
-                "s": ""
+                "w": "소리야",
+                "p": "soriya",
+                "d": "sound",
+                "s": "그건 내가 할 소리야. (I said I would do that!)"
             },
             {
                 "id": "ko-0801",
-                "w": "말한",
-                "p": "malhan",
-                "d": "said",
-                "s": ""
+                "w": "들어봐",
+                "p": "deureobwa",
+                "d": "to pick up information by hearing or listening",
+                "s": "나는 그 노래를 들어봤지만 가수 이름은 모르겠다. (I've heard the song before, but I don't know the name of the singer.)"
             },
             {
                 "id": "ko-0802",
-                "w": "테니까",
-                "p": "tenikka",
-                "d": "Because",
-                "s": ""
+                "w": "자기야",
+                "p": "jagiya",
+                "d": "oneself",
+                "s": "자기야, 뭐 하고 있어? (What are you doing, darling?)"
             },
             {
                 "id": "ko-0803",
-                "w": "앞에",
-                "p": "ape",
-                "d": "in front",
+                "w": "헤이",
+                "p": "hei",
+                "d": "to swim",
                 "s": ""
             },
             {
                 "id": "ko-0804",
-                "w": "를",
-                "p": "reul",
-                "d": "to",
-                "s": ""
+                "w": "에",
+                "p": "e",
+                "d": "e",
+                "s": "6시는 큰 바늘이 12에 있고, 작은 바늘이 6에 있을 때야. (Six o'clock is when the big hand is on 12 and the small hand is on 6.)"
             },
             {
                 "id": "ko-0805",
-                "w": "처럼",
-                "p": "cheoreom",
-                "d": "like",
-                "s": ""
+                "w": "이해가",
+                "p": "ihaega",
+                "d": "understanding",
+                "s": "선생님의 말씀은 이해가 안 됩니다. (I don't understand you.)"
             },
             {
                 "id": "ko-0806",
-                "w": "저한테",
-                "p": "jeohante",
-                "d": "To me",
-                "s": ""
+                "w": "옷",
+                "p": "ot",
+                "d": "clothing",
+                "s": "할머니께서는 집을 나설 때마다 나의 옷을 여미어 주시고는 하였다. (My grandmother would straighten my clothes for me every time [I] left the house.)"
             },
             {
                 "id": "ko-0807",
-                "w": "거고",
-                "p": "geogo",
-                "d": "That's it",
-                "s": ""
+                "w": "들어가",
+                "p": "deureoga",
+                "d": "to go into",
+                "s": "나는 인터넷에 들어가 서핑하기를 좋아한다. (I like to surf the internet.)"
             },
             {
                 "id": "ko-0808",
-                "w": "받아",
-                "p": "bada",
-                "d": "take it",
-                "s": ""
+                "w": "아버지는",
+                "p": "abeojineun",
+                "d": "father",
+                "s": "나의 아버지는 다음 주에 한국으로 가기로 되어 있다. (My father is to visit Korea next week.)"
             },
             {
                 "id": "ko-0809",
-                "w": "그것도",
-                "p": "geugeotdo",
-                "d": "That too",
-                "s": ""
+                "w": "않을거야",
+                "p": "aneulgeoya",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "나는 그것을 허락하지 않을거야. (I won't permit it.)"
             },
             {
                 "id": "ko-0810",
-                "w": "요즘",
-                "p": "yojeum",
-                "d": "recent times; recently",
-                "s": ""
+                "w": "있소",
+                "p": "itso",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
                 "id": "ko-0811",
-                "w": "믿어",
-                "p": "mideo",
-                "d": "believe it",
-                "s": ""
-            },
-            {
-                "id": "ko-0812",
-                "w": "뒤로",
-                "p": "dwiro",
-                "d": "back",
-                "s": ""
-            },
-            {
-                "id": "ko-0813",
-                "w": "놈들이",
-                "p": "nomdeuri",
-                "d": "They",
-                "s": ""
-            },
-            {
-                "id": "ko-0814",
-                "w": "입고",
-                "p": "ipgo",
-                "d": "wearing",
-                "s": ""
-            },
-            {
-                "id": "ko-0815",
-                "w": "보니",
-                "p": "boni",
-                "d": "Bonnie",
-                "s": ""
-            },
-            {
-                "id": "ko-0816",
-                "w": "속에",
-                "p": "soge",
-                "d": "Inside",
-                "s": ""
-            },
-            {
-                "id": "ko-0817",
-                "w": "잠시만요",
-                "p": "jamsimanyo",
-                "d": "Wait a minute",
-                "s": ""
-            },
-            {
-                "id": "ko-0818",
-                "w": "소리야",
-                "p": "soriya",
-                "d": "It's a sound",
-                "s": ""
-            },
-            {
-                "id": "ko-0819",
-                "w": "들어봐",
-                "p": "deureobwa",
-                "d": "Listen",
-                "s": ""
-            },
-            {
-                "id": "ko-0820",
-                "w": "자기야",
-                "p": "jagiya",
-                "d": "Baby",
-                "s": ""
-            },
-            {
-                "id": "ko-0821",
-                "w": "헤이",
-                "p": "hei",
-                "d": "hey",
-                "s": ""
-            },
-            {
-                "id": "ko-0822",
-                "w": "에",
-                "p": "e",
-                "d": "to",
-                "s": ""
-            },
-            {
-                "id": "ko-0823",
-                "w": "이해가",
-                "p": "ihaega",
-                "d": "I understand",
-                "s": ""
-            },
-            {
-                "id": "ko-0824",
-                "w": "옷",
-                "p": "ot",
-                "d": "clothing; clothes",
-                "s": ""
-            },
-            {
-                "id": "ko-0825",
-                "w": "들어가",
-                "p": "deureoga",
-                "d": "Go in",
-                "s": ""
-            },
-            {
-                "id": "ko-0826",
-                "w": "아버지는",
-                "p": "abeojineun",
-                "d": "my father",
-                "s": ""
-            },
-            {
-                "id": "ko-0827",
-                "w": "않을거야",
-                "p": "aneulgeoya",
-                "d": "won't",
-                "s": ""
-            },
-            {
-                "id": "ko-0828",
-                "w": "있소",
-                "p": "itso",
-                "d": "There is",
-                "s": ""
-            },
-            {
-                "id": "ko-0829",
                 "w": "자네는",
                 "p": "janeneun",
                 "d": "you",
                 "s": ""
             },
             {
-                "id": "ko-0830",
+                "id": "ko-0812",
                 "w": "모르겠지만",
                 "p": "moreugetjiman",
-                "d": "I don't know, but",
-                "s": ""
+                "d": "to not know",
+                "s": "우리 어디 가고 있는지 모르겠어. (I'm not sure where we're going.)"
             },
             {
-                "id": "ko-0831",
+                "id": "ko-0813",
                 "w": "누구도",
                 "p": "nugudo",
-                "d": "no one",
-                "s": ""
+                "d": "anybody, anyone",
+                "s": "모두 천국에 가고 싶어 하나, 누구도 죽고 싶어 하지 않는다. (Everyone wants to go to heaven, but nobody wants to die.)"
             },
             {
-                "id": "ko-0832",
+                "id": "ko-0814",
                 "w": "입",
                 "p": "ip",
                 "d": "mouth",
-                "s": ""
+                "s": "입 다물어! (Shut up!)"
             },
             {
-                "id": "ko-0833",
+                "id": "ko-0815",
                 "w": "어머니",
                 "p": "eomeoni",
                 "d": "mother",
-                "s": ""
+                "s": "내일은 30분간 어머니 정원 일을 도우려고요. (Tomorrow, I'm going to help my mother in the garden for half an hour.)"
+            },
+            {
+                "id": "ko-0816",
+                "w": "특별한",
+                "p": "teukbyeolhan",
+                "d": "to be special or exceptional",
+                "s": "그들은 아주 특별한 곳에 숨겨둔 것이 틀림없어 (They must've hidden it somewhere very special.)"
+            },
+            {
+                "id": "ko-0817",
+                "w": "좋겠어",
+                "p": "jokesseo",
+                "d": "to be good",
+                "s": "내가 이 책을 쓰면서 즐거웠던 만큼, 네가 읽으면서도 즐거웠으면 좋겠어. (I hope you enjoy reading this book as much as I enjoyed writing it.)"
+            },
+            {
+                "id": "ko-0818",
+                "w": "준",
+                "p": "jun",
+                "d": "A rare Korean family name",
+                "s": "톰은 메리가 그에게 준 와인 한 병에 대하여 메리에게 감사함을 표시했다. (Tom thanked Mary for the bottle of wine she gave him.)"
+            },
+            {
+                "id": "ko-0819",
+                "w": "그것은",
+                "p": "geugeoseun",
+                "d": "that",
+                "s": "그것이 무엇이었는지는 확신할 수는 없지만, 그것은 총소리처럼 들렸다. (I'm not sure what it was, but it sounded like a gunshot.)"
+            },
+            {
+                "id": "ko-0820",
+                "w": "관한",
+                "p": "gwanhan",
+                "d": "to be in relation to",
+                "s": "나는 네덜란드어에 관한 조그만 블로그를 만들어 놨다. (I have a small blog about Dutch.)"
+            },
+            {
+                "id": "ko-0821",
+                "w": "할게",
+                "p": "halge",
+                "d": "a tenth",
+                "s": "식사를 차려 준다면 설거지는 내가 할게. (If you cook, I'll wash the dishes.)"
+            },
+            {
+                "id": "ko-0822",
+                "w": "여기는",
+                "p": "yeogineun",
+                "d": "to consider",
+                "s": "여기는 이주 전부터 비가 하나도 오지 않았다. (There has been no rain here for the past two weeks.)"
+            },
+            {
+                "id": "ko-0823",
+                "w": "언니",
+                "p": "eonni",
+                "d": "older sister of a female",
+                "s": "나 너네 언니 만나고 싶어 (I'd like to meet your older sister.)"
+            },
+            {
+                "id": "ko-0824",
+                "w": "환자가",
+                "p": "hwanjaga",
+                "d": "a medical patient",
+                "s": "이 병원에 환자가 몇 명이나 있어요? (How many patients are there at this hospital?)"
+            },
+            {
+                "id": "ko-0825",
+                "w": "갈게",
+                "p": "galge",
+                "d": "to change",
+                "s": "날씨가 좋으면 내일 갈게. (I'll go tomorrow if the weather is good.)"
+            },
+            {
+                "id": "ko-0826",
+                "w": "나야",
+                "p": "naya",
+                "d": "to be born",
+                "s": "\"누구야?\" \"나다\" (\"Who is it?\" \"It's me.\")"
+            },
+            {
+                "id": "ko-0827",
+                "w": "제게",
+                "p": "jege",
+                "d": "I, me",
+                "s": "당신의 호주 여행에 대해 제게 이야기 해줄래요? (Could you tell me about your trip to Australia?)"
+            },
+            {
+                "id": "ko-0828",
+                "w": "하루",
+                "p": "haru",
+                "d": "a day, 24 hours",
+                "s": "일에는 가지 않았어. 하루 종일 집에 있었어. (I've not been to work. I've stayed at home all day.)"
+            },
+            {
+                "id": "ko-0829",
+                "w": "단",
+                "p": "dan",
+                "d": "sheaf",
+                "s": "내 여동생은 단 것을 좋아한다. (My sister has a sweet tooth.)"
+            },
+            {
+                "id": "ko-0830",
+                "w": "필",
+                "p": "pil",
+                "d": "A bolt or roll of cloth",
+                "s": "한 필의 베적삼 (one bolt of summer silk)"
+            },
+            {
+                "id": "ko-0831",
+                "w": "가세요",
+                "p": "gaseyo",
+                "d": "to go",
+                "s": "앞으로 쭉 가세요. (Go straight.)"
+            },
+            {
+                "id": "ko-0832",
+                "w": "끔찍한",
+                "p": "kkeumjjikan",
+                "d": "to be terrible",
+                "s": "그런 끔찍한 소리는 좀 하지 말아 줘. (Please don't say such terrible things.)"
+            },
+            {
+                "id": "ko-0833",
+                "w": "걸로",
+                "p": "geollo",
+                "d": "thing",
+                "s": "톰은 대부분의 시간을 현관에 앉는 걸로 보내고 있어. (Tom spends most of his time sitting on the porch.)"
             },
             {
                 "id": "ko-0834",
-                "w": "특별한",
-                "p": "teukbyeolhan",
-                "d": "special",
-                "s": ""
+                "w": "사랑",
+                "p": "sarang",
+                "d": "love",
+                "s": "내가 사랑 오크어 언어입니다. (I like the Occitan language.)"
             },
             {
                 "id": "ko-0835",
-                "w": "좋겠어",
-                "p": "jokesseo",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
+                "w": "일도",
+                "p": "ildo",
+                "d": "degrees",
+                "s": "니가 뭐라고 하는지 1도 모르겠다. (I don’t understand what you’re saying at all.)"
             },
             {
                 "id": "ko-0836",
-                "w": "준",
-                "p": "jun",
-                "d": "given: Past determiner form of 주다 (juda, “to give”).; reduced: Past determiner form of 줄다 (julda, “decrease”).",
-                "s": ""
+                "w": "아름다운",
+                "p": "areumdaun",
+                "d": "beautiful",
+                "s": "새미는 그의 아름다운 아내와 지금도 같이 살고 있다. (Sami is still living with his beautiful wife.)"
             },
             {
                 "id": "ko-0837",
-                "w": "그것은",
-                "p": "geugeoseun",
-                "d": "it is",
-                "s": ""
+                "w": "년",
+                "p": "nyeon",
+                "d": "year",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0838",
-                "w": "관한",
-                "p": "gwanhan",
-                "d": "about",
+                "w": "형",
+                "p": "hyeong",
+                "d": "older brother of a male",
                 "s": ""
             },
             {
                 "id": "ko-0839",
-                "w": "할게",
-                "p": "halge",
-                "d": "I'll do it",
-                "s": ""
+                "w": "뭐요",
+                "p": "mwoyo",
+                "d": "what",
+                "s": "나한테 뭐 좀 줄 수 있어? 나 완전 빈털터리야. (Could you give me something? I'm totally broke.)"
             },
             {
                 "id": "ko-0840",
-                "w": "여기는",
-                "p": "yeogineun",
-                "d": "to consider (as)",
-                "s": ""
+                "w": "저런",
+                "p": "jeoreon",
+                "d": "such, that kind of",
+                "s": "톰이 말하길 메리는 저런 것을 한번도 한 적이 없대. (Tom said that Mary has never done that.)"
             },
             {
                 "id": "ko-0841",
-                "w": "언니",
-                "p": "eonni",
-                "d": "older sister of a female; somewhat older female",
-                "s": ""
+                "w": "별",
+                "p": "byeol",
+                "d": "a star",
+                "s": "별 거 아니야. (It's nothing special.)"
             },
             {
                 "id": "ko-0842",
-                "w": "환자가",
-                "p": "hwanjaga",
-                "d": "the patient",
-                "s": ""
+                "w": "아니다",
+                "p": "anida",
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0843",
-                "w": "갈게",
-                "p": "galge",
-                "d": "I'll go",
-                "s": ""
+                "w": "받고",
+                "p": "batgo",
+                "d": "to get",
+                "s": "산타 할아버지, 크리스마스 선물로 여자친구를 받고 싶어요 (Santa Claus, I want to receive a girlfriend for Christmas.)"
             },
             {
                 "id": "ko-0844",
-                "w": "나야",
-                "p": "naya",
-                "d": "to be born; to appear, arise, occur, take place",
-                "s": ""
+                "w": "쓸",
+                "p": "sseul",
+                "d": "to wear, to put on",
+                "s": "탐은 내 비디오 카메라를 쓰고 싶으면 쓸 수 있다. (Tom may use my video camera if he wants to.)"
             },
             {
                 "id": "ko-0845",
-                "w": "제게",
-                "p": "jege",
-                "d": "dative form of 저 (jeo); 제 (je) + -게 (-ge)",
-                "s": ""
-            },
-            {
-                "id": "ko-0846",
-                "w": "하루",
-                "p": "haru",
-                "d": "a day, 24 hours; daytime",
-                "s": ""
-            },
-            {
-                "id": "ko-0847",
-                "w": "단",
-                "p": "dan",
-                "d": "sweet",
-                "s": ""
-            },
-            {
-                "id": "ko-0848",
-                "w": "필",
-                "p": "pil",
-                "d": "Phil",
-                "s": ""
-            },
-            {
-                "id": "ko-0849",
-                "w": "가세요",
-                "p": "gaseyo",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
-            },
-            {
-                "id": "ko-0850",
-                "w": "끔찍한",
-                "p": "kkeumjjikan",
-                "d": "terrible",
-                "s": ""
-            },
-            {
-                "id": "ko-0851",
-                "w": "걸로",
-                "p": "geollo",
-                "d": "form of 거 (geo), alternative form of 것으로 (geos-euro)",
-                "s": ""
-            },
-            {
-                "id": "ko-0852",
-                "w": "사랑",
-                "p": "sarang",
-                "d": "love; affection (emotion); love; beloved (object of one's love)",
-                "s": ""
-            },
-            {
-                "id": "ko-0853",
-                "w": "일도",
-                "p": "ildo",
-                "d": "work",
-                "s": ""
-            },
-            {
-                "id": "ko-0854",
-                "w": "아름다운",
-                "p": "areumdaun",
-                "d": "beautiful",
-                "s": ""
-            },
-            {
-                "id": "ko-0855",
-                "w": "년",
-                "p": "nyeon",
-                "d": "year",
-                "s": ""
-            },
-            {
-                "id": "ko-0856",
-                "w": "형",
-                "p": "hyeong",
-                "d": "brother",
-                "s": ""
-            },
-            {
-                "id": "ko-0857",
-                "w": "뭐요",
-                "p": "mwoyo",
-                "d": "What",
-                "s": ""
-            },
-            {
-                "id": "ko-0858",
-                "w": "저런",
-                "p": "jeoreon",
-                "d": "Like that",
-                "s": ""
-            },
-            {
-                "id": "ko-0859",
-                "w": "별",
-                "p": "byeol",
-                "d": "star",
-                "s": ""
-            },
-            {
-                "id": "ko-0860",
-                "w": "아니다",
-                "p": "anida",
-                "d": "to not be (something)",
-                "s": ""
-            },
-            {
-                "id": "ko-0861",
-                "w": "받고",
-                "p": "batgo",
-                "d": "receive",
-                "s": ""
-            },
-            {
-                "id": "ko-0862",
-                "w": "할거야",
-                "p": "halgeoya",
-                "d": "I will do it",
-                "s": ""
-            },
-            {
-                "id": "ko-0863",
-                "w": "쓸",
-                "p": "sseul",
-                "d": "write",
-                "s": ""
-            },
-            {
-                "id": "ko-0864",
                 "w": "씨발",
                 "p": "ssibal",
                 "d": "fuck! shit!",
-                "s": ""
+                "s": "씨발 누가 상관해? (Who the fuck cares?)"
             },
             {
-                "id": "ko-0865",
+                "id": "ko-0846",
                 "w": "돈이",
                 "p": "doni",
                 "d": "money",
-                "s": ""
+                "s": "그래서 나는 프랑스에 오래 머무르고 싶고, 그러기 위한 돈이 필요하다. (This is why I would like an extended visa, as well as funds for my stay.)"
             },
             {
-                "id": "ko-0866",
+                "id": "ko-0847",
                 "w": "그에게",
                 "p": "geuege",
-                "d": "to him",
-                "s": ""
+                "d": "that",
+                "s": "나의 사촌이 아직 어려서, 그들은 그에게 좀 더 기회를 줬다. (Because my nephew was still young, they cut him some slack.)"
             },
             {
-                "id": "ko-0867",
+                "id": "ko-0848",
                 "w": "뭔가를",
                 "p": "mwongareul",
-                "d": "something",
-                "s": ""
+                "d": "what",
+                "s": "톰은 아마 뭔가를 곰곰히 생각하고 있었을 거야. (Tom was probably pondering something.)"
             },
             {
-                "id": "ko-0868",
+                "id": "ko-0849",
                 "w": "마음을",
                 "p": "maeumeul",
-                "d": "heart",
-                "s": ""
+                "d": "mind, heart",
+                "s": "어떻게 하면 네 마음을 바꿀 수 있을까? (How can I change your mind?)"
             },
             {
-                "id": "ko-0869",
+                "id": "ko-0850",
                 "w": "문제는",
                 "p": "munjeneun",
-                "d": "The problem is",
-                "s": ""
+                "d": "problem, issue, question",
+                "s": "문제는 아이를 너무 오냐오냐 키웠다는 점에 있어. (The problem consists in the fact that the child was overly indulged.)"
             },
             {
-                "id": "ko-0870",
+                "id": "ko-0851",
                 "w": "의",
                 "p": "ui",
-                "d": "righteousness; righteous conduct",
-                "s": ""
+                "d": "righteousness",
+                "s": "그 미스터리(불가사의)의 끝을 나에게 알려주지 말아줘. (Don't tell me the end of the mystery.)"
             },
             {
-                "id": "ko-0871",
+                "id": "ko-0852",
                 "w": "서둘러",
                 "p": "seodulleo",
-                "d": "hurry up",
-                "s": ""
+                "d": "to hurry",
+                "s": "서둘러, 그렇지 않으면 학교에 지각할 거야. (Hurry up, or you'll be late for school.)"
             },
             {
-                "id": "ko-0872",
+                "id": "ko-0853",
                 "w": "못할",
-                "p": "motal",
-                "d": "can't",
-                "s": ""
+                "p": "mothal",
+                "d": "cannot",
+                "s": "우린 어두워지기 전에 보스턴에 다다르지 못할 거야. (We'll never get to Boston before dark.)"
             },
             {
-                "id": "ko-0873",
+                "id": "ko-0854",
                 "w": "없네",
-                "p": "eomne",
-                "d": "There is none",
-                "s": ""
+                "p": "eopne",
+                "d": "to have none",
+                "s": "나의 슬픔을 뭐라 표현할 수가 없네. (I can't describe my sadness.)"
             },
             {
-                "id": "ko-0874",
+                "id": "ko-0855",
                 "w": "끝났어",
                 "p": "kkeunnasseo",
-                "d": "It's over",
-                "s": ""
+                "d": "to come to an end",
+                "s": "전쟁은 대략 3달이 지나고 끝났어. (The war ended about three months later.)"
             },
             {
-                "id": "ko-0875",
+                "id": "ko-0856",
                 "w": "있을거야",
                 "p": "isseulgeoya",
-                "d": "There will be",
-                "s": ""
+                "d": "to stay",
+                "s": "여기서 나갈 방법이 있다면 우리는 찾을 수 있을거야 (If there's a way out of here, we'll find it.)"
             },
             {
-                "id": "ko-0876",
+                "id": "ko-0857",
                 "w": "머리를",
                 "p": "meorireul",
                 "d": "head",
-                "s": ""
+                "s": "아무리 머리를 굴려 봐도 답이 안 나와. (I racked my brain and still could not come up with the answer.)"
             },
             {
-                "id": "ko-0877",
+                "id": "ko-0858",
                 "w": "생각하지",
                 "p": "saenggakaji",
-                "d": "don't think",
-                "s": ""
+                "d": "to think",
+                "s": "난 톰이 메리가 그 짓을 한 걸 용서하리라고는 생각하지 않는다. (I didn't think that Tom would ever forgive Mary for doing that.)"
             },
             {
-                "id": "ko-0878",
+                "id": "ko-0859",
                 "w": "뭐라고요",
                 "p": "mworagoyo",
-                "d": "What?",
-                "s": ""
+                "d": "what did you say? huh?",
+                "s": "뭐라고 말해야 할지 정말 모르겠어... (I just don't know what to say.)"
             },
             {
-                "id": "ko-0879",
+                "id": "ko-0860",
                 "w": "힘든",
                 "p": "himdeun",
-                "d": "tough",
-                "s": ""
+                "d": "difficult",
+                "s": "선생님께 보스턴을 떠나는 건 꽤나 힘든 일일 거예요. (It's probably going to be hard for you to leave Boston.)"
             },
             {
-                "id": "ko-0880",
+                "id": "ko-0861",
                 "w": "보게",
                 "p": "boge",
-                "d": "see",
-                "s": ""
+                "d": "to see",
+                "s": "톰은 절대 밤 10시 이후에 그의 아이들이 티비를 보게 하지 않는다. (Tom never lets his children watch TV after 10:00 p.m.)"
             },
             {
-                "id": "ko-0881",
+                "id": "ko-0862",
                 "w": "가게",
                 "p": "gage",
                 "d": "store, shop",
-                "s": ""
+                "s": "톰은 메리에게 그는 그녀를 혼자 가게 하지는 않겠다고 말했다. (Tom told Mary he wouldn't let her go by herself.)"
             },
             {
-                "id": "ko-0882",
+                "id": "ko-0863",
                 "w": "말해봐",
                 "p": "malhaebwa",
-                "d": "tell me",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "어제 일은 미안하다고 말하고 싶어요. — 괜찮아요. 아나. (I want to say I’m sorry for yesterday. — It’s okay, Anna.)"
             },
             {
-                "id": "ko-0883",
+                "id": "ko-0864",
                 "w": "밥",
                 "p": "bap",
-                "d": "cooked rice; meal",
-                "s": ""
+                "d": "cooked rice",
+                "s": "그 사람 밥 먹는 중에 신문 읽는 버릇이 있어. (He has the habit of reading the newspaper while he eats.)"
             },
             {
-                "id": "ko-0884",
+                "id": "ko-0865",
                 "w": "상황이",
                 "p": "sanghwangi",
-                "d": "situation",
-                "s": ""
+                "d": "conditions",
+                "s": "내가 우려했던 최악의 상황이 현실로 되었어. (My worst fears came true.)"
             },
             {
-                "id": "ko-0885",
+                "id": "ko-0866",
                 "w": "줘요",
                 "p": "jwoyo",
-                "d": "Give it to me",
-                "s": ""
+                "d": "to give",
+                "s": "이거 봐 줄 수 있어? (Can you look over this for [me]?)"
             },
             {
-                "id": "ko-0886",
+                "id": "ko-0867",
                 "w": "만큼",
                 "p": "mankeum",
                 "d": "the degree or extent to which",
-                "s": ""
+                "s": "내가 이 책을 쓰면서 즐거웠던 만큼, 네가 읽으면서도 즐거웠으면 좋겠어. (I hope you enjoy reading this book as much as I enjoyed writing it.)"
+            },
+            {
+                "id": "ko-0868",
+                "w": "했지만",
+                "p": "haetjiman",
+                "d": "did, past tense of DO",
+                "s": "당신에게 메시지를 쓸까 했지만, 그럴 새가 전혀 없었다. (I thought about writing you a message, but never got around to it.)"
+            },
+            {
+                "id": "ko-0869",
+                "w": "같은데요",
+                "p": "gateundeyo",
+                "d": "the same",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
+            },
+            {
+                "id": "ko-0870",
+                "w": "이름",
+                "p": "ireum",
+                "d": "name",
+                "s": "너 톰이랑 같이 있었던 여자애 이름 알아? (Do you know the name of the girl who was with Tom?)"
+            },
+            {
+                "id": "ko-0871",
+                "w": "엄마를",
+                "p": "eommareul",
+                "d": "mum, mummy",
+                "s": "나는 네 엄마를 안다. (I know your mother.)"
+            },
+            {
+                "id": "ko-0872",
+                "w": "전화를",
+                "p": "jeonhwareul",
+                "d": "telephone, phone",
+                "s": "아버지의 사망을 알리는 전화를 받았을 때 나는 완전히 당황했다. (When I got the phone call telling me of my father's death, I was completely flustered.)"
+            },
+            {
+                "id": "ko-0873",
+                "w": "어쩔",
+                "p": "eojjeol",
+                "d": "to be inevitable",
+                "s": "내가 있었으니 망정이지 당신 혼자였으면 어쩔 뻔했어요? (You're lucky I was here. What would you have done all by yourself?)"
+            },
+            {
+                "id": "ko-0874",
+                "w": "있니",
+                "p": "inni",
+                "d": "to stay",
+                "s": "작고 흰 토끼는 \"무슨 일 있니?\" 라고 물어봤습니다. (\"What's the matter?\" asked the little white rabbit.)"
+            },
+            {
+                "id": "ko-0875",
+                "w": "번째",
+                "p": "beonjjae",
+                "d": "a construction equivalent to ordinal numbers",
+                "s": "우리는 톰의 열세 번째 생일을 축하했다. (We celebrated Tom's thirteenth birthday.)"
+            },
+            {
+                "id": "ko-0876",
+                "w": "할까",
+                "p": "halkka",
+                "d": "a tenth",
+                "s": "나는 지난주에 톰이 보스턴에서 그 일을 할 것이라는 걸 몰랐다. (I didn't know that Tom was going to do that in Boston last week.)"
+            },
+            {
+                "id": "ko-0877",
+                "w": "얘길",
+                "p": "yaegil",
+                "d": "this kid",
+                "s": "얘가 항상 문제야. (This is always the problem.)"
+            },
+            {
+                "id": "ko-0878",
+                "w": "찾는",
+                "p": "channeun",
+                "d": "to search, to look for",
+                "s": "이 나라에서 일자리를 찾는 것은 어렵다. (It's hard to find a job in this country.)"
+            },
+            {
+                "id": "ko-0879",
+                "w": "선생님이",
+                "p": "seonsaengnimi",
+                "d": "teacher",
+                "s": "나의 영어 선생님이 나에게 그 책을 읽으라고 추천하셨다. (My English teacher recommended that I read these books.)"
+            },
+            {
+                "id": "ko-0880",
+                "w": "진짜로",
+                "p": "jinjjaro",
+                "d": "really",
+                "s": "진짜로, 우리가 이 문제에 대해 뭔가 해야 된다. (Seriously. We're going to have to do something about this.)"
+            },
+            {
+                "id": "ko-0881",
+                "w": "일이에요",
+                "p": "irieyo",
+                "d": "one or two",
+                "s": "제 생일은 10월 20일이에요. (My birthday is October twentieth.)"
+            },
+            {
+                "id": "ko-0882",
+                "w": "건지",
+                "p": "geonji",
+                "d": "thing",
+                "s": "톰이 어째서 그렇게 화를 내고 있는 건지 모르겠어. (I don't know why Tom is so angry.)"
+            },
+            {
+                "id": "ko-0883",
+                "w": "가족을",
+                "p": "gajogeul",
+                "d": "household",
+                "s": "나는 가족을 먹여 살리기 위해 열심히 일했다. (I worked hard in order to support my family.)"
+            },
+            {
+                "id": "ko-0884",
+                "w": "할지",
+                "p": "halji",
+                "d": "a tenth",
+                "s": "무슨 말을 할지 모르는 채, 그는 침묵을 지키고 있었다. (Not knowing what to say, he remained silent.)"
+            },
+            {
+                "id": "ko-0885",
+                "w": "중이야",
+                "p": "jungiya",
+                "d": "average",
+                "s": "나는 방에서 프랑스어 공부하는 중이야. (I'm in my room studying French.)"
+            },
+            {
+                "id": "ko-0886",
+                "w": "믿지",
+                "p": "mitji",
+                "d": "to trust, to believe",
+                "s": "당신은 내가 그것을 하는것에 믿지 않습니까? (Don't you trust me to do it?)"
             },
             {
                 "id": "ko-0887",
-                "w": "했지만",
-                "p": "haetjiman",
-                "d": "I did it but",
-                "s": ""
+                "w": "닥쳐",
+                "p": "dakchyeo",
+                "d": "to draw near",
+                "s": "닥쳐. 안그러면 쫓아낼거야. (Shut up. If you don't, you'll be thrown out.)"
             },
             {
                 "id": "ko-0888",
-                "w": "같은데요",
-                "p": "gateundeyo",
-                "d": "I think so",
-                "s": ""
+                "w": "여기로",
+                "p": "yeogiro",
+                "d": "hither, towards here",
+                "s": "오늘 오후 두시에서 세시 사이에 여기로 와 주세요. (Please come here between two and three this afternoon.)"
             },
             {
                 "id": "ko-0889",
-                "w": "이름",
-                "p": "ireum",
-                "d": "name; full name; given name (in opposition to a surname)",
-                "s": ""
+                "w": "저건",
+                "p": "jeogeon",
+                "d": "that",
+                "s": "톰은 우리가 저건 할 수 없다는 것을 알고 있어. (Tom knows that we can't do that.)"
             },
             {
                 "id": "ko-0890",
-                "w": "엄마를",
-                "p": "eommareul",
-                "d": "Mom",
-                "s": ""
+                "w": "주고",
+                "p": "jugo",
+                "d": "to give",
+                "s": "톰은 나한테 돈도 주고 조언도 해줬어. (Tom gave me both money and advice.)"
             },
             {
                 "id": "ko-0891",
-                "w": "전화를",
-                "p": "jeonhwareul",
-                "d": "call",
-                "s": ""
+                "w": "멀리",
+                "p": "meolli",
+                "d": "afar, at a distance",
+                "s": "내가 그렇게 오랫동안에 멀리 있지 않았어야 했어. (I shouldn't have stayed away so long.)"
             },
             {
                 "id": "ko-0892",
-                "w": "어쩔",
-                "p": "eojjeol",
-                "d": "to be inevitable; to be in a certain way",
-                "s": ""
+                "w": "어이",
+                "p": "eoi",
+                "d": "hey, yo",
+                "s": "어이, 오늘은 어디 갈까? (Yo, where should we go today?)"
             },
             {
                 "id": "ko-0893",
-                "w": "있니",
-                "p": "inni",
-                "d": "Are you there?",
-                "s": ""
+                "w": "거짓말",
+                "p": "geojinmal",
+                "d": "a lie",
+                "s": "톰은 거짓말 탐지기 테스트를 받는 것에 동의했다. (Tom has agreed to take a lie detector test.)"
             },
             {
                 "id": "ko-0894",
-                "w": "번째",
-                "p": "beonjjae",
-                "d": "a dependent noun used to express the order or relative position of an object; a construction equivalent to ordinal numbers.",
-                "s": ""
+                "w": "약",
+                "p": "yak",
+                "d": "drug",
+                "s": "하루에 약 50개의 새로운 한국어 단어를 외울 수 있습니다. (I can memorize about 50 new Korean words a day.)"
             },
             {
                 "id": "ko-0895",
-                "w": "할까",
-                "p": "halkka",
-                "d": "Should I do it?",
+                "w": "잭",
+                "p": "jaek",
+                "d": "a jack",
                 "s": ""
             },
             {
                 "id": "ko-0896",
-                "w": "얘길",
-                "p": "yaegil",
-                "d": "story",
-                "s": ""
+                "w": "사실은",
+                "p": "sasireun",
+                "d": "as a matter of fact",
+                "s": "넌 네가 깨어있는 줄 알지만, 사실은 꿈꾸고 있을 수도 있어. (You think you're awake, but you may, in fact, be dreaming.)"
             },
             {
                 "id": "ko-0897",
-                "w": "찾는",
-                "p": "channeun",
-                "d": "looking for",
-                "s": ""
+                "w": "받을",
+                "p": "badeul",
+                "d": "to get",
+                "s": "그의 용감한 행동은 메달을 받을 만한 가치가 있다. (His brave actions are worthy of a medal.)"
             },
             {
                 "id": "ko-0898",
-                "w": "선생님이",
-                "p": "seonsaengnimi",
-                "d": "teacher",
-                "s": ""
+                "w": "그러고",
+                "p": "geureogo",
+                "d": "to do so",
+                "s": "간다고 그랬는데. (He said he would go, but...)"
             },
             {
                 "id": "ko-0899",
-                "w": "진짜로",
-                "p": "jinjjaro",
-                "d": "really",
-                "s": ""
+                "w": "겁니까",
+                "p": "geomnikka",
+                "d": "to hang, to suspend",
+                "s": "한국에 언제까지 계실 겁니까? (Until when will you be in South Korea?)"
             },
             {
                 "id": "ko-0900",
-                "w": "일이에요",
-                "p": "irieyo",
-                "d": "It's work",
-                "s": ""
+                "w": "먹을",
+                "p": "meogeul",
+                "d": "to eat",
+                "s": "우리는 먹을 것을 얻기 위해 가게로 들어갔다. (We went into a shop to get some food.)"
             },
             {
                 "id": "ko-0901",
-                "w": "건지",
-                "p": "geonji",
-                "d": "Guernsey",
-                "s": ""
+                "w": "그치만",
+                "p": "geuchiman",
+                "d": "nonetheless",
+                "s": "제 차는 작아요. 그치만 예쁘고 새 거예요. (My car is small. But it's pretty and new.)"
             },
             {
                 "id": "ko-0902",
-                "w": "가족을",
-                "p": "gajogeul",
-                "d": "family",
-                "s": ""
+                "w": "너에게",
+                "p": "neoege",
+                "d": "four",
+                "s": "내가 도울 수 있는 것은 다 했어. 나머지는 너에게 달렸어. (I've done all I can to help you. The rest is up to you.)"
             },
             {
                 "id": "ko-0903",
-                "w": "할지",
-                "p": "halji",
-                "d": "Do you do it?",
-                "s": ""
+                "w": "들었어요",
+                "p": "deureosseoyo",
+                "d": "to listen, to hear",
+                "s": "잘 못 들었어요. (Sorry?)"
             },
             {
                 "id": "ko-0904",
-                "w": "중이야",
-                "p": "jungiya",
-                "d": "I'm in the middle of it",
-                "s": ""
+                "w": "하기",
+                "p": "hagi",
+                "d": "to do",
+                "s": "톰은 그가 하기 위해 고용되었던 일을 할 수 없었으므로 해고되었다. (Tom was fired because he wasn't able to do the job he'd been hired to do.)"
             },
             {
                 "id": "ko-0905",
-                "w": "믿지",
-                "p": "mitji",
-                "d": "believe it",
-                "s": ""
+                "w": "오빠",
+                "p": "oppa",
+                "d": "elder brother of a female",
+                "s": "너 그 사람을 오빠-동생으로 생각하니? 아니면 애인으로 사랑하니? (Do you love him like a brother or do you love-love him?)"
             },
             {
                 "id": "ko-0906",
-                "w": "닥쳐",
-                "p": "dakchyeo",
-                "d": "Shut up",
-                "s": ""
+                "w": "오고",
+                "p": "ogo",
+                "d": "to come",
+                "s": "톰이 오고 있길 바라. (I hope Tom is coming.)"
             },
             {
                 "id": "ko-0907",
-                "w": "여기로",
-                "p": "yeogiro",
-                "d": "here",
-                "s": ""
+                "w": "있을까",
+                "p": "isseulkka",
+                "d": "to stay",
+                "s": "나갈까 집에 있을까? 난 어느 쪽이든 상관없다. (Do you want to go out or stay at home? Either is OK with me.)"
             },
             {
                 "id": "ko-0908",
-                "w": "저건",
-                "p": "jeogeon",
-                "d": "That is",
-                "s": ""
+                "w": "어린",
+                "p": "eorin",
+                "d": "to be young",
+                "s": "새미는 두 어린 아이의 아버지이다. (Sami is the father of two young children.)"
             },
             {
                 "id": "ko-0909",
-                "w": "주고",
-                "p": "jugo",
-                "d": "give",
-                "s": ""
+                "w": "통해",
+                "p": "tonghae",
+                "d": "to pass through",
+                "s": "저희 학교에는 드라마를 통해 한국어를 배우는 수업이 있어요. (Our school has a class where we learn Korean through dramas.)"
             },
             {
                 "id": "ko-0910",
-                "w": "멀리",
-                "p": "meolli",
-                "d": "far away",
-                "s": ""
+                "w": "아닌데",
+                "p": "aninde",
+                "d": "to not be",
+                "s": "난 그러려던 게 아닌데. (I didn't mean to.)"
             },
             {
                 "id": "ko-0911",
-                "w": "어이",
-                "p": "eoi",
-                "d": "Hey",
-                "s": ""
+                "w": "조금만",
+                "p": "jogeumman",
+                "d": "a little",
+                "s": "조금만 더 느리게 말씀해 주시겠어요? (Could you please speak a little slower?)"
             },
             {
                 "id": "ko-0912",
-                "w": "거짓말",
-                "p": "geojinmal",
-                "d": "a lie; a false statement",
-                "s": ""
+                "w": "맞는",
+                "p": "manneun",
+                "d": "to be correct, right",
+                "s": "해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다. (I found a solution, but I found it so fast that it can't be the right solution.)"
             },
             {
                 "id": "ko-0913",
-                "w": "약",
-                "p": "yak",
-                "d": "About",
-                "s": ""
+                "w": "차에",
+                "p": "chae",
+                "d": "vehicle",
+                "s": "그녀는 차 문을 열고 차에 탔어. (She unlocked her car and got in.)"
             },
             {
                 "id": "ko-0914",
-                "w": "잭",
-                "p": "jaek",
-                "d": "a jack (surface mounted connector); a jack",
-                "s": ""
+                "w": "여자는",
+                "p": "yeojaneun",
+                "d": "woman",
+                "s": "그 여자는 그 남자의 사생활에 대해 전혀 알고 싶어하질 않던데. (She didn't want to know anything about his personal life.)"
             },
             {
                 "id": "ko-0915",
-                "w": "사실은",
-                "p": "sasireun",
-                "d": "as a matter of fact; actually",
-                "s": ""
+                "w": "보러",
+                "p": "boreo",
+                "d": "to see",
+                "s": "지베르니에는 모네의 집이랑 정원을 보러 온 사람들이 많다. (There were many people at Giverny to see Monet's house and gardens.)"
             },
             {
                 "id": "ko-0916",
-                "w": "받을",
-                "p": "badeul",
-                "d": "receive",
-                "s": ""
+                "w": "손에",
+                "p": "sone",
+                "d": "hand",
+                "s": "그 망할 손 치워, 후레자식아! (Take your fucking hands off me, you bastard!)"
             },
             {
                 "id": "ko-0917",
-                "w": "그러고",
-                "p": "geureogo",
-                "d": "to do so; to do it; to say so",
-                "s": ""
+                "w": "모르지",
+                "p": "moreuji",
+                "d": "to not know",
+                "s": "우리 어디 가고 있는지 모르겠어. (I'm not sure where we're going.)"
             },
             {
                 "id": "ko-0918",
-                "w": "겁니까",
-                "p": "geomnikka",
-                "d": "Are you afraid?",
-                "s": ""
+                "w": "가까이",
+                "p": "gakkai",
+                "d": "closely, close together",
+                "s": "나 지금 기분 나쁘니까 가까이 오지않는 편이 좋아. (I'm in a bad mood right now, so you probably shouldn't get close to me.)"
             },
             {
                 "id": "ko-0919",
-                "w": "먹을",
-                "p": "meogeul",
-                "d": "eat",
+                "w": "테니",
+                "p": "teni",
+                "d": "something that goes around the outside of something else:",
                 "s": ""
             },
             {
                 "id": "ko-0920",
-                "w": "그치만",
-                "p": "geuchiman",
-                "d": "contraction of 그렇지만 (geureochiman, “nonetheless; however; but”)",
-                "s": ""
+                "w": "되죠",
+                "p": "doejyo",
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
             },
             {
                 "id": "ko-0921",
-                "w": "너에게",
-                "p": "neoege",
-                "d": "to you",
-                "s": ""
+                "w": "점점",
+                "p": "jeomjeom",
+                "d": "gradually, bit by bit",
+                "s": "벌써 새벽 3시였다. 피로감으로 인해 톰은 집중하는 것이 점점 더 버거워졌다. (It was already 3 a.m. The tiredness made it harder for Tom to concentrate.)"
             },
             {
                 "id": "ko-0922",
-                "w": "들었어요",
-                "p": "deureosseoyo",
-                "d": "I heard",
-                "s": ""
+                "w": "잔",
+                "p": "jan",
+                "d": "a drinking cup",
+                "s": "톰은 맥주 한 잔 하고 싶어한다. (Tom wants a beer.)"
             },
             {
                 "id": "ko-0923",
-                "w": "하기",
-                "p": "hagi",
-                "d": "doing",
-                "s": ""
+                "w": "이야기를",
+                "p": "iyagireul",
+                "d": "talk",
+                "s": "친구랑 이야기를 하고 싶지 않다기보다는 그냥 정말 부끄러워요. (I wouldn't say that I don't want to talk with my friend - it's just that I'm really shy.)"
             },
             {
                 "id": "ko-0924",
-                "w": "오빠",
-                "p": "oppa",
-                "d": "elder brother of a female; somewhat older male",
+                "w": "물론이죠",
+                "p": "mullonijyo",
+                "d": "certainly",
                 "s": ""
             },
             {
                 "id": "ko-0925",
-                "w": "오고",
-                "p": "ogo",
-                "d": "Coming",
-                "s": ""
+                "w": "학교",
+                "p": "hakgyo",
+                "d": "school",
+                "s": "톰이 메리한테 어디 학교 나왔냐고 물어봤어. (Tom asked Mary where she'd gone to school.)"
             },
             {
                 "id": "ko-0926",
-                "w": "있을까",
-                "p": "isseulkka",
-                "d": "Is it",
-                "s": ""
+                "w": "주는",
+                "p": "juneun",
+                "d": "to give",
+                "s": "이번 주는 운전연습을 하느라고 바빠요. (I am busy this week because I practice driving.)"
             },
             {
                 "id": "ko-0927",
-                "w": "어린",
-                "p": "eorin",
-                "d": "young",
+                "w": "아가씨",
+                "p": "agassi",
+                "d": "Miss, girl, young lady",
                 "s": ""
             },
             {
                 "id": "ko-0928",
-                "w": "통해",
-                "p": "tonghae",
-                "d": "through",
-                "s": ""
+                "w": "먹어",
+                "p": "meogeo",
+                "d": "to eat",
+                "s": "\"그렇게 소고기만 먹어 대면 소가 돼 버릴 거야.\" \"그럴 리 없거든.\" (\"If you keep eating just beef, you'll turn into a cow!\" \"No way!\")"
             },
             {
                 "id": "ko-0929",
-                "w": "아닌데",
-                "p": "aninde",
-                "d": "to not be (something)",
-                "s": ""
+                "w": "것에",
+                "p": "geose",
+                "d": "thing",
+                "s": "당신은 그 여자에게 거리를 두고 지낸 것에 대해 사과해야 한다. (You should apologize to her for being so distant.)"
             },
             {
                 "id": "ko-0930",
-                "w": "조금만",
-                "p": "jogeumman",
-                "d": "just a little bit",
-                "s": ""
+                "w": "크게",
+                "p": "keuge",
+                "d": "greatly",
+                "s": "1년 전에 비하면 가격은 크게 떨어져 있다. (Compared with the level of a year ago, the price is sharply lower.)"
             },
             {
                 "id": "ko-0931",
-                "w": "맞는",
-                "p": "manneun",
-                "d": "to be correct, right; to suit (one's liking), to meet (one's wishes)",
-                "s": ""
+                "w": "이유는",
+                "p": "iyuneun",
+                "d": "reason",
+                "s": "그게 톰이랑 메리가 그걸 해야 하는 주된 이유는 아니야. (That isn't the main reason Tom and Mary need to do that.)"
             },
             {
                 "id": "ko-0932",
-                "w": "차에",
-                "p": "chae",
-                "d": "in the car",
-                "s": ""
+                "w": "군",
+                "p": "gun",
+                "d": "army",
+                "s": "군에 입대하고자 휴학했습니다. (I took a leave of absence so as to join the army.)"
             },
             {
                 "id": "ko-0933",
-                "w": "여자는",
-                "p": "yeojaneun",
-                "d": "The woman",
-                "s": ""
+                "w": "모두들",
+                "p": "modudeul",
+                "d": "everybody",
+                "s": "모두들 거기 가 있을 거야. (Everyone's going to be there.)"
             },
             {
                 "id": "ko-0934",
-                "w": "보러",
-                "p": "boreo",
-                "d": "to see",
+                "w": "죽인",
+                "p": "jugin",
+                "d": "to kill, to cause to die",
                 "s": ""
             },
             {
                 "id": "ko-0935",
-                "w": "손에",
-                "p": "sone",
-                "d": "in hand",
-                "s": ""
+                "w": "셋",
+                "p": "set",
+                "d": "three",
+                "s": "하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열. (One, two, three, four, five, six, seven, eight, nine, ten.)"
             },
             {
                 "id": "ko-0936",
-                "w": "모르지",
-                "p": "moreuji",
-                "d": "I don't know",
-                "s": ""
+                "w": "알죠",
+                "p": "aljyo",
+                "d": "to know, understand",
+                "s": "그 여자에게 당신이 여기 있다고 말해요. — 알겠어요. 고마워요. 피트 (Tell her you’re here. — Right, thanks, Pete.)"
             },
             {
                 "id": "ko-0937",
-                "w": "가까이",
-                "p": "gakkai",
-                "d": "close",
-                "s": ""
+                "w": "기억",
+                "p": "gieok",
+                "d": "recall",
+                "s": "오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다. (Today will once again be remembered as a great day for us.)"
             },
             {
                 "id": "ko-0938",
-                "w": "테니",
-                "p": "teni",
-                "d": "Teni",
-                "s": ""
+                "w": "경찰",
+                "p": "gyeongchal",
+                "d": "police",
+                "s": "그 현장에 경찰 스무 명이 도착했다. (Twenty police have arrived on the scene.)"
             },
             {
                 "id": "ko-0939",
-                "w": "되죠",
-                "p": "doejyo",
-                "d": "It works",
+                "w": "제이",
+                "p": "jei",
+                "d": "The name of the Latin script letter J/j",
                 "s": ""
             },
             {
                 "id": "ko-0940",
-                "w": "점점",
-                "p": "jeomjeom",
-                "d": "gradually, bit by bit",
-                "s": ""
+                "w": "그래야",
+                "p": "geuraeya",
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
                 "id": "ko-0941",
-                "w": "잔",
-                "p": "jan",
-                "d": "cup",
-                "s": ""
+                "w": "목숨을",
+                "p": "moksumeul",
+                "d": "life",
+                "s": "고양이는 아홉 개의 목숨을 지니고 있다. (Cats have nine lives.)"
             },
             {
                 "id": "ko-0942",
-                "w": "이야기를",
-                "p": "iyagireul",
-                "d": "tell a story",
-                "s": ""
+                "w": "있을까요",
+                "p": "isseulkkayo",
+                "d": "to stay",
+                "s": "코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요? (How can we protect ourselves from the coronavirus?)"
             },
             {
                 "id": "ko-0943",
-                "w": "물론이죠",
-                "p": "mullonijyo",
-                "d": "Of course",
-                "s": ""
+                "w": "아니지만",
+                "p": "anijiman",
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-0944",
-                "w": "학교",
-                "p": "hakgyo",
-                "d": "school",
-                "s": ""
+                "w": "했다",
+                "p": "haetda",
+                "d": "did, past tense of DO",
+                "s": "사미는 레일라가 왜 히잡을 쓰지 않기로 했는지 알고 싶어 했다. (Sami wanted to know why Layla decided to take off the hijab.)"
             },
             {
                 "id": "ko-0945",
-                "w": "주는",
-                "p": "juneun",
-                "d": "giving",
-                "s": ""
+                "w": "딸",
+                "p": "ttal",
+                "d": "daughter",
+                "s": "그는 그의 딸 이마에 뽀뽀를 했다 (He kissed his daughter on the forehead.)"
             },
             {
                 "id": "ko-0946",
-                "w": "아가씨",
-                "p": "agassi",
-                "d": "Miss, girl, young lady; a younger sister of one's husband",
-                "s": ""
+                "w": "많아",
+                "p": "mana",
+                "d": "many",
+                "s": "난 사실 그걸 하는 것에 관심이 많아. (I'm actually very interested in doing that.)"
             },
             {
                 "id": "ko-0947",
-                "w": "먹어",
-                "p": "meogeo",
-                "d": "eat",
-                "s": ""
+                "w": "떨어져",
+                "p": "tteoreojyeo",
+                "d": "to fall",
+                "s": "1년 전에 비하면 가격은 크게 떨어져 있다. (Compared with the level of a year ago, the price is sharply lower.)"
             },
             {
                 "id": "ko-0948",
-                "w": "것에",
-                "p": "geose",
-                "d": "to",
-                "s": ""
+                "w": "사람이야",
+                "p": "saramiya",
+                "d": "human being, person",
+                "s": "네가 아는 사람 중에서 누가 가장 머리가 좋은 사람이야? (Who's the most intelligent person you know?)"
             },
             {
                 "id": "ko-0949",
-                "w": "크게",
-                "p": "keuge",
-                "d": "adverbial form of 크다 (keuda, “to be big, to be great”): greatly",
-                "s": ""
+                "w": "다시는",
+                "p": "dasineun",
+                "d": "to become hot",
+                "s": "난 톰이 저걸 다시는 하기 싫어한다는 걸 알고 있었어. (I knew that Tom didn't want to do that again.)"
             },
             {
                 "id": "ko-0950",
-                "w": "이유는",
-                "p": "iyuneun",
-                "d": "The reason is",
-                "s": ""
+                "w": "거잖아",
+                "p": "geojana",
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
                 "id": "ko-0951",
-                "w": "군",
-                "p": "gun",
-                "d": "military",
-                "s": ""
+                "w": "애들이",
+                "p": "aedeuri",
+                "d": "child, kid",
+                "s": "톰한텐 이제 애들이 있어. (Tom has kids now.)"
             },
             {
                 "id": "ko-0952",
-                "w": "모두들",
-                "p": "modudeul",
-                "d": "everybody",
-                "s": ""
+                "w": "애를",
+                "p": "aereul",
+                "d": "anxiety",
+                "s": "톰은 집중하려고 애를 쓰고 있어. (Tom is having a hard time focusing.)"
             },
             {
                 "id": "ko-0953",
-                "w": "죽인",
-                "p": "jugin",
-                "d": "killed",
-                "s": ""
+                "w": "을",
+                "p": "eul",
+                "d": "B",
+                "s": "수신자부담전화 1-800-446-2581을 이용해주세요. (Call us toll-free at 1-800-446-2581.)"
             },
             {
                 "id": "ko-0954",
-                "w": "셋",
-                "p": "set",
-                "d": "three (independently, without a classifier)",
-                "s": ""
+                "w": "없다는",
+                "p": "eopdaneun",
+                "d": "to have none",
+                "s": "톰은 우리가 저건 할 수 없다는 것을 알고 있어. (Tom knows that we can't do that.)"
             },
             {
                 "id": "ko-0955",
-                "w": "알죠",
-                "p": "aljyo",
-                "d": "I know",
-                "s": ""
+                "w": "만들",
+                "p": "mandeul",
+                "d": "to make",
+                "s": "시대에 맞는 헌법을 만들다 (to establish a constitution suited to the times)"
             },
             {
                 "id": "ko-0956",
-                "w": "기억",
-                "p": "gieok",
-                "d": "recall; the faculty of memory",
-                "s": ""
+                "w": "오면",
+                "p": "omyeon",
+                "d": "to come",
+                "s": "당신이 오면 만나기를 고대하고 있습니다. (I am looking forward to meeting you when you come.)"
             },
             {
                 "id": "ko-0957",
-                "w": "경찰",
-                "p": "gyeongchal",
-                "d": "police; policing; a police officer",
-                "s": ""
+                "w": "할게요",
+                "p": "halgeyo",
+                "d": "a tenth",
+                "s": "저는 이거 할게요. (I'll do it.)"
             },
             {
                 "id": "ko-0958",
-                "w": "제이",
-                "p": "jei",
-                "d": "The name of the Latin script letter J/j.",
+                "w": "아기",
+                "p": "agi",
+                "d": "unweaned baby, child",
                 "s": ""
             },
             {
                 "id": "ko-0959",
-                "w": "그래야",
-                "p": "geuraeya",
-                "d": "so that",
-                "s": ""
+                "w": "영화",
+                "p": "yeonghwa",
+                "d": "movie, film",
+                "s": "나중에 친구랑 같이 영화 보러 갈거다. (Later I'll go to the movies with my friend.)"
             },
             {
                 "id": "ko-0960",
-                "w": "목숨을",
-                "p": "moksumeul",
-                "d": "life",
-                "s": ""
+                "w": "가족",
+                "p": "gajok",
+                "d": "household",
+                "s": "일요일에 모여 앉아서 한 주를 계획하는 것은 가족 전통이 되었다. (It has become a family ritual to sit down together on Sunday and plan out the week.)"
             },
             {
                 "id": "ko-0961",
-                "w": "있을까요",
-                "p": "isseulkkayo",
-                "d": "Is it there?",
-                "s": ""
+                "w": "찾았어",
+                "p": "chajasseo",
+                "d": "to search, to look for",
+                "s": "그나저나, 전에 잃어버렸다던 우산 찾았어? (By the way, did you find the umbrella you said you'd lost the other day?)"
             },
             {
                 "id": "ko-0962",
-                "w": "아니지만",
-                "p": "anijiman",
-                "d": "to not be (something)",
-                "s": ""
+                "w": "특히",
+                "p": "teukhi",
+                "d": "in particular, notably",
+                "s": "저런 상태에서 일하는 것은 특히 어려운 일이었다. (Working in such conditions was especially difficult.)"
             },
             {
                 "id": "ko-0963",
-                "w": "했다",
-                "p": "haetda",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "w": "아들을",
+                "p": "adeureul",
+                "d": "son",
+                "s": "그 여자는 자기 아들을 자랑스럽게 생각했다. (She prides herself on her son.)"
             },
             {
                 "id": "ko-0964",
-                "w": "딸",
-                "p": "ttal",
-                "d": "daughter (female child)",
-                "s": ""
+                "w": "제발요",
+                "p": "jebaryo",
+                "d": "please",
+                "s": "제발 제 말 좀 믿어 주세요. (Please believe me.)"
             },
             {
                 "id": "ko-0965",
-                "w": "많아",
-                "p": "mana",
-                "d": "many, much, a lot, plentiful",
-                "s": ""
+                "w": "꿈을",
+                "p": "kkumeul",
+                "d": "dream",
+                "s": "낮잠자는 도중에 나는 이상한 꿈을 꿨어. (While napping, I had a strange dream.)"
             },
             {
                 "id": "ko-0966",
-                "w": "떨어져",
-                "p": "tteoreojyeo",
-                "d": "away",
-                "s": ""
+                "w": "세상을",
+                "p": "sesangeul",
+                "d": "world",
+                "s": "의사의 모든 노력이 헛수고로 돌아가고, 그 남자는 곧 세상을 떠났다. (All the doctor's efforts were in vain and the man soon died.)"
             },
             {
                 "id": "ko-0967",
-                "w": "사람이야",
-                "p": "saramiya",
-                "d": "It's a person",
-                "s": ""
+                "w": "놈을",
+                "p": "nomeul",
+                "d": "other person",
+                "s": "...사우는 도망갔드래. 그러니까 사우는 놈이다. (...but his son-in-law had apparently run away. Therefore sons-in-law are like strangers.)"
             },
             {
                 "id": "ko-0968",
-                "w": "다시는",
-                "p": "dasineun",
-                "d": "never again",
-                "s": ""
+                "w": "아니었어",
+                "p": "anieosseo",
+                "d": "to not be",
+                "s": "모든 학생이 출석한 건 아니었어. (Not all of the students were present.)"
             },
             {
                 "id": "ko-0969",
-                "w": "거잖아",
-                "p": "geojana",
-                "d": "That's right",
+                "w": "마이크",
+                "p": "maikeu",
+                "d": "mike",
                 "s": ""
             },
             {
                 "id": "ko-0970",
-                "w": "애들이",
-                "p": "aedeuri",
-                "d": "kids",
-                "s": ""
+                "w": "그리",
+                "p": "geuri",
+                "d": "so much",
+                "s": "해가 뜨기까지는 그리 오래 걸리지 않을 것이다. (It won't be long before the sun rises.)"
             },
             {
                 "id": "ko-0971",
-                "w": "애를",
-                "p": "aereul",
-                "d": "I'm struggling",
-                "s": ""
+                "w": "무엇을",
+                "p": "mueoseul",
+                "d": "what - used in questions",
+                "s": "내가 무엇을 하든지 간에 내가 더 잘한다고 말하더라. (No matter what I do, she says I can do better.)"
             },
             {
                 "id": "ko-0972",
-                "w": "을",
-                "p": "eul",
-                "d": "B; used to enumerate the second of a group of unnamed people or objects; the weaker or disadvantaged party in a relationship between two sides",
-                "s": ""
+                "w": "만드는",
+                "p": "mandeuneun",
+                "d": "to make",
+                "s": "흥! 아무도 내가 만드는 문장을 번역 안하고 있어! (Hey! Nobody is translating my sentences!)"
             },
             {
                 "id": "ko-0973",
-                "w": "말이다",
-                "p": "marida",
-                "d": "That's right",
-                "s": ""
+                "w": "얼마",
+                "p": "eolma",
+                "d": "how much, how many",
+                "s": "그 남자 한 달에 얼마 벌어? (How much does he earn per month?)"
             },
             {
                 "id": "ko-0974",
-                "w": "없다는",
-                "p": "eopdaneun",
-                "d": "There is no",
-                "s": ""
+                "w": "보여요",
+                "p": "boyeoyo",
+                "d": "to be seen",
+                "s": "우리 엄마는 나이에 비해 여전히 젊어 보여요. (My mom still looks a lot younger than her age.)"
             },
             {
                 "id": "ko-0975",
-                "w": "만들",
-                "p": "mandeul",
-                "d": "make",
-                "s": ""
+                "w": "사진",
+                "p": "sajin",
+                "d": "photograph, picture",
+                "s": "어떤 것이 네가 가장 좋아하는 사진 편집 소프트웨어야? (What's your favorite image editing software?)"
             },
             {
                 "id": "ko-0976",
-                "w": "오면",
-                "p": "omyeon",
-                "d": "When you come",
-                "s": ""
+                "w": "칼",
+                "p": "kal",
+                "d": "knife, sword",
+                "s": "칼 가는 거 벌써 다 했어? (Have you already sharpened the knives?)"
             },
             {
                 "id": "ko-0977",
-                "w": "할게요",
-                "p": "halgeyo",
-                "d": "I will do it",
-                "s": ""
+                "w": "잠시만",
+                "p": "jamsiman",
+                "d": "a moment, short time",
+                "s": "잠시만 기다려 주시겠습니까? (Please wait a moment.)"
             },
             {
                 "id": "ko-0978",
-                "w": "아기",
-                "p": "agi",
-                "d": "unweaned baby, child; animal baby",
-                "s": ""
+                "w": "병원에",
+                "p": "byeongwone",
+                "d": "hospital",
+                "s": "이 병원에 환자가 몇 명이나 있어요? (How many patients are there at this hospital?)"
             },
             {
                 "id": "ko-0979",
-                "w": "영화",
-                "p": "yeonghwa",
-                "d": "movie, film",
-                "s": ""
+                "w": "같습니다",
+                "p": "gatseumnida",
+                "d": "the same",
+                "s": "해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다. (I found a solution, but I found it so fast that it can't be the right solution.)"
             },
             {
                 "id": "ko-0980",
-                "w": "가족",
-                "p": "gajok",
-                "d": "household; family",
-                "s": ""
+                "w": "바보",
+                "p": "babo",
+                "d": "The Fool",
+                "s": "바보 같은 짓 좀 그만해. (Stop being stupid.)"
             },
             {
                 "id": "ko-0981",
-                "w": "찾았어",
-                "p": "chajasseo",
-                "d": "I found it",
-                "s": ""
+                "w": "열어",
+                "p": "yeoreo",
+                "d": "to open",
+                "s": "그들은 나를 위해 큰 파티를 열어 줬어. (They gave a big party for me.)"
             },
             {
                 "id": "ko-0982",
-                "w": "특히",
-                "p": "teukhi",
-                "d": "in particular, notably",
-                "s": ""
+                "w": "현재",
+                "p": "hyeonjae",
+                "d": "the present",
+                "s": "부르즈 할리파는 현재 세계에서 가장 높은 고층건물이다. (Burj Khalifa is currently the tallest skyscraper in the world.)"
             },
             {
                 "id": "ko-0983",
-                "w": "아들을",
-                "p": "adeureul",
-                "d": "son",
-                "s": ""
+                "w": "해줘",
+                "p": "haejwo",
+                "d": "to do",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
             },
             {
                 "id": "ko-0984",
-                "w": "제발요",
-                "p": "jebaryo",
-                "d": "Please",
-                "s": ""
+                "w": "주지",
+                "p": "juji",
+                "d": "being generally known",
+                "s": "탐은 메리에게 아무런 기회도 주지 않았다. (Tom didn't cut Mary any slack.)"
             },
             {
                 "id": "ko-0985",
-                "w": "꿈을",
-                "p": "kkumeul",
-                "d": "dream",
-                "s": ""
+                "w": "했습니다",
+                "p": "haetseumnida",
+                "d": "to do",
+                "s": "덕으로 나라를 다스리면, 백성들이 편안히 잘살 수 있다고 했습니다. (It is said that people can live comfortably if the nation is ruled with virtue.)"
             },
             {
                 "id": "ko-0986",
-                "w": "세상을",
-                "p": "sesangeul",
-                "d": "the world",
-                "s": ""
+                "w": "자주",
+                "p": "jaju",
+                "d": "often, frequently",
+                "s": "여자애보다는 남자애들이 더 자주 자폐증으로 진단받아. (Boys are more often diagnosed with autism than girls.)"
             },
             {
                 "id": "ko-0987",
-                "w": "놈을",
-                "p": "nomeul",
-                "d": "The guy",
-                "s": ""
+                "w": "있겠지",
+                "p": "itgetji",
+                "d": "to stay",
+                "s": "만약 신이 존재하지 않았다면, 만들어 낼 필요가 있겠지. (If God did not exist, it would be necessary to invent him.)"
             },
             {
                 "id": "ko-0988",
-                "w": "아니었어",
-                "p": "anieosseo",
-                "d": "to not be (something)",
+                "w": "샘",
+                "p": "saem",
+                "d": "spring, fountain",
                 "s": ""
             },
             {
                 "id": "ko-0989",
-                "w": "마이크",
-                "p": "maikeu",
-                "d": "mike; microphone",
-                "s": ""
+                "w": "꺼져",
+                "p": "kkeojyeo",
+                "d": "to be extinguished",
+                "s": "난 집에 이런 쓰레기 들여놓지 않는다, 대놓고 말하마. 꺼져! (I do not take shit home, I tell straight away. Fuck off!)"
             },
             {
                 "id": "ko-0990",
-                "w": "그리",
-                "p": "geuri",
-                "d": "so much; like that; so",
-                "s": ""
+                "w": "가만히",
+                "p": "gamanhi",
+                "d": "still",
+                "s": "날 좀 가만히 내버려 둬. (Why don't you leave me alone?)"
             },
             {
                 "id": "ko-0991",
-                "w": "무엇을",
-                "p": "mueoseul",
-                "d": "what",
-                "s": ""
+                "w": "그랬지",
+                "p": "geuraetji",
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
                 "id": "ko-0992",
-                "w": "만드는",
-                "p": "mandeuneun",
-                "d": "making",
-                "s": ""
+                "w": "지금까지",
+                "p": "jigeumkkaji",
+                "d": "heretofore",
+                "s": "지금까지 한 번 도 그런 걸 들어본 적이 없어. (Never in my life have I heard such a thing.)"
             },
             {
                 "id": "ko-0993",
-                "w": "얼마",
-                "p": "eolma",
-                "d": "how much, how many; some amount or quantity",
-                "s": ""
+                "w": "저거",
+                "p": "jeogeo",
+                "d": "that",
+                "s": "저거 진짜 꼴보기 싫어! (I hate the look of that!)"
             },
             {
                 "id": "ko-0994",
-                "w": "보여요",
-                "p": "boyeoyo",
-                "d": "I can see it",
+                "w": "당연하지",
+                "p": "dangyeonhaji",
+                "d": "to be reasonable or natural",
                 "s": ""
             },
             {
                 "id": "ko-0995",
-                "w": "사진",
-                "p": "sajin",
-                "d": "photograph, picture",
-                "s": ""
+                "w": "나서",
+                "p": "naseo",
+                "d": "to be born",
+                "s": "말은 멈추고 나서 움직이는 걸 거부했어. (The horse stopped and refused to move.)"
             },
             {
                 "id": "ko-0996",
-                "w": "칼",
-                "p": "kal",
-                "d": "knife, sword",
-                "s": ""
+                "w": "그것",
+                "p": "geugeot",
+                "d": "that",
+                "s": "그것 때문에 울었다. (That made me cry.)"
             },
             {
                 "id": "ko-0997",
-                "w": "잠시만",
-                "p": "jamsiman",
-                "d": "Just a moment",
-                "s": ""
-            },
-            {
-                "id": "ko-0998",
-                "w": "병원에",
-                "p": "byeongwone",
-                "d": "to the hospital",
-                "s": ""
-            },
-            {
-                "id": "ko-0999",
-                "w": "같습니다",
-                "p": "gatseumnida",
-                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
-                "s": ""
-            },
-            {
-                "id": "ko-1000",
-                "w": "바보",
-                "p": "babo",
-                "d": "fool, moron, idiot; The Fool (Tarot card)",
-                "s": ""
-            },
-            {
-                "id": "ko-1001",
-                "w": "열어",
-                "p": "yeoreo",
-                "d": "open it",
-                "s": ""
-            },
-            {
-                "id": "ko-1002",
-                "w": "현재",
-                "p": "hyeonjae",
-                "d": "present",
-                "s": ""
-            },
-            {
-                "id": "ko-1003",
-                "w": "해줘",
-                "p": "haejwo",
-                "d": "Do it",
-                "s": ""
-            },
-            {
-                "id": "ko-1004",
-                "w": "주지",
-                "p": "juji",
-                "d": "being generally known; especially in the collocation 주지의 사실 (juji-ui sasil, “well-known fact; common knowledge”).",
-                "s": ""
-            },
-            {
-                "id": "ko-1005",
-                "w": "했습니다",
-                "p": "haetseumnida",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
-            },
-            {
-                "id": "ko-1006",
-                "w": "자주",
-                "p": "jaju",
-                "d": "often",
-                "s": ""
-            },
-            {
-                "id": "ko-1007",
-                "w": "있겠지",
-                "p": "itgetji",
-                "d": "There must be",
-                "s": ""
-            },
-            {
-                "id": "ko-1008",
-                "w": "하는거야",
-                "p": "haneungeoya",
-                "d": "Are you doing it?",
-                "s": ""
-            },
-            {
-                "id": "ko-1009",
-                "w": "샘",
-                "p": "saem",
-                "d": "spring, fountain (source of water); gland",
-                "s": ""
-            },
-            {
-                "id": "ko-1010",
-                "w": "꺼져",
-                "p": "kkeojyeo",
-                "d": "Go away",
-                "s": ""
-            },
-            {
-                "id": "ko-1011",
-                "w": "가만히",
-                "p": "gamanhi",
-                "d": "still; not moving; quietly",
-                "s": ""
-            },
-            {
-                "id": "ko-1012",
-                "w": "그랬지",
-                "p": "geuraetji",
-                "d": "It was like that",
-                "s": ""
-            },
-            {
-                "id": "ko-1013",
-                "w": "지금까지",
-                "p": "jigeumkkaji",
-                "d": "Until now",
-                "s": ""
-            },
-            {
-                "id": "ko-1014",
-                "w": "저거",
-                "p": "jeogeo",
-                "d": "that thing",
-                "s": ""
-            },
-            {
-                "id": "ko-1015",
-                "w": "당연하지",
-                "p": "dangyeonhaji",
-                "d": "Of course",
-                "s": ""
-            },
-            {
-                "id": "ko-1016",
-                "w": "나서",
-                "p": "naseo",
-                "d": "to be born; to appear, arise, occur, take place",
-                "s": ""
-            },
-            {
-                "id": "ko-1017",
-                "w": "그것",
-                "p": "geugeot",
-                "d": "that (thing near the listener); that (thing that has already been mentioned)",
-                "s": ""
-            },
-            {
-                "id": "ko-1018",
                 "w": "또한",
                 "p": "ttohan",
                 "d": "also, too, furthermore",
-                "s": ""
+                "s": "그러나, 그 반대도 또한 항상 진실이다. (And yet, the contrary is always true as well.)"
             },
             {
-                "id": "ko-1019",
+                "id": "ko-0998",
                 "w": "보이지",
                 "p": "boiji",
-                "d": "I can't see it",
-                "s": ""
+                "d": "to be seen",
+                "s": "별로 어려워 보이지 않는 일입니다. (Doing that doesn't look too hard.)"
             },
             {
-                "id": "ko-1020",
+                "id": "ko-0999",
                 "w": "노래",
                 "p": "norae",
-                "d": "song; an incessant request, repeated like the refrain of a song",
-                "s": ""
+                "d": "song",
+                "s": "난 노래 부르고 있을 때가 가장 행복해. (I'm happiest when I'm singing.)"
             },
             {
-                "id": "ko-1021",
+                "id": "ko-1000",
                 "w": "위험한",
                 "p": "wiheomhan",
                 "d": "dangerous",
-                "s": ""
+                "s": "저 산에 혼자서 등반하는 건 위험한 것 같아. (I think it's dangerous to climb that mountain alone.)"
             },
             {
-                "id": "ko-1022",
-                "w": "클레어",
-                "p": "keulleeo",
-                "d": "claire",
-                "s": ""
-            },
-            {
-                "id": "ko-1023",
+                "id": "ko-1001",
                 "w": "쉽게",
                 "p": "swipge",
-                "d": "adverbial form of 쉽다 (swipda, “to be easy”): easily",
-                "s": ""
+                "d": "easily",
+                "s": "빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다. (You can see this easily if you put a straw into a glass of water.)"
             },
             {
-                "id": "ko-1024",
+                "id": "ko-1002",
                 "w": "오지",
                 "p": "oji",
-                "d": "Ozzy",
-                "s": ""
+                "d": "the backwoods",
+                "s": "나는 절대 오스트레일리아에 오지 말았어야 했다. (I should never have come to Australia.)"
             },
             {
-                "id": "ko-1025",
+                "id": "ko-1003",
                 "w": "정말요",
                 "p": "jeongmaryo",
-                "d": "Really",
-                "s": ""
+                "d": "really",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
-                "id": "ko-1026",
+                "id": "ko-1004",
                 "w": "계획이",
                 "p": "gyehoegi",
-                "d": "plan",
-                "s": ""
+                "d": "a plan",
+                "s": "나는 보스턴으로 돌아갈 계획이 없어. (I don't plan to go back to Boston.)"
             },
             {
-                "id": "ko-1027",
+                "id": "ko-1005",
                 "w": "잡고",
                 "p": "japgo",
-                "d": "hold on",
-                "s": ""
+                "d": "to take",
+                "s": "알제는 많은 알제리 대학이 자리 잡고 있는 곳이야. (Algiers is home to many Algerian universities.)"
             },
             {
-                "id": "ko-1028",
+                "id": "ko-1006",
                 "w": "열심히",
                 "p": "yeolsimhi",
-                "d": "enthusiastically, fervently, with dedication",
-                "s": ""
+                "d": "enthusiastically",
+                "s": "열심히 공부하지 않으면 앞으로도 낮은 점수를 받게 될 거야. (If you don't study hard, you'll continue to get poor scores.)"
             },
             {
-                "id": "ko-1029",
+                "id": "ko-1007",
                 "w": "마라",
                 "p": "mara",
                 "d": "to smash",
-                "s": ""
+                "s": "내가 돌아올 때까지 움직이지 마라. (Don't move till I get back.)"
             },
             {
-                "id": "ko-1030",
+                "id": "ko-1008",
                 "w": "경찰이",
                 "p": "gyeongchari",
-                "d": "the police",
-                "s": ""
+                "d": "police",
+                "s": "대통령은 경찰이 석궁을 사용하는 것을 승인했다. (The president approved the use of crossbows by the police.)"
             },
             {
-                "id": "ko-1031",
+                "id": "ko-1009",
                 "w": "말하면",
                 "p": "malhamyeon",
-                "d": "If you say",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "솔칙히 말하면 나는 내가 할 수 있을거란 자신이 없어. (To be honest with you, I don't think I can do that.)"
             },
             {
-                "id": "ko-1032",
+                "id": "ko-1010",
                 "w": "방에",
                 "p": "bange",
-                "d": "in the room",
-                "s": ""
+                "d": "room",
+                "s": "톰은 혼자 자기 방에 있을 것 같아. (I think Tom is alone in his room.)"
             },
             {
-                "id": "ko-1033",
+                "id": "ko-1011",
                 "w": "됐다",
                 "p": "dwaetda",
-                "d": "Done",
-                "s": ""
+                "d": "to become",
+                "s": "개구리가 우는 소리는 내가 잠드는 데 도움이 됐다. (The frogs' croaking helped me fall asleep.)"
             },
             {
-                "id": "ko-1034",
+                "id": "ko-1012",
                 "w": "마음이",
                 "p": "maeumi",
-                "d": "heart",
-                "s": ""
+                "d": "mind, heart",
+                "s": "돈을 사랑하는 마음이 모든 악의 근원이다. (Love of money is the root of all evil.)"
             },
             {
-                "id": "ko-1035",
-                "w": "메러디스",
-                "p": "mereodiseu",
-                "d": "meredith",
-                "s": ""
-            },
-            {
-                "id": "ko-1036",
+                "id": "ko-1013",
                 "w": "운이",
                 "p": "uni",
-                "d": "lucky",
-                "s": ""
+                "d": "luck, fortune, fate",
+                "s": "난 너만큼 운이 좋지 않아. (I'm not as lucky as you.)"
             },
             {
-                "id": "ko-1037",
+                "id": "ko-1014",
                 "w": "드디어",
                 "p": "deudieo",
                 "d": "finally, at last",
-                "s": ""
+                "s": "드디어 그녀는 오랜 친구와 연락을 할 수 있었다. (At last, she was able to contact her old friend.)"
             },
             {
-                "id": "ko-1038",
+                "id": "ko-1015",
                 "w": "정보를",
                 "p": "jeongboreul",
                 "d": "information",
                 "s": ""
             },
             {
-                "id": "ko-1039",
-                "w": "말입니다",
-                "p": "marimnida",
-                "d": "I mean",
-                "s": ""
-            },
-            {
-                "id": "ko-1040",
+                "id": "ko-1016",
                 "w": "때는",
                 "p": "ttaeneun",
-                "d": "When",
-                "s": ""
+                "d": "to make / light",
+                "s": "내가 어릴 때는 바다에 수영하러 가곤 했었지. (I used to go swimming in the sea when I was a child.)"
             },
             {
-                "id": "ko-1041",
+                "id": "ko-1017",
                 "w": "얼굴을",
                 "p": "eolgureul",
                 "d": "face",
+                "s": "톰은 메리에게 베개를 던져서 정확히 얼굴을 맞췄다. (Tom threw a pillow at Mary and the pillow hit her squarely in the face.)"
+            },
+            {
+                "id": "ko-1018",
+                "w": "만난",
+                "p": "mannan",
+                "d": "to meet",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
+            },
+            {
+                "id": "ko-1019",
+                "w": "달",
+                "p": "dal",
+                "d": "moon",
+                "s": "톰은 몇 달 동안 메리를 보지 못했다고 나에게 말했다. (Tom told me he hasn't seen Mary in months.)"
+            },
+            {
+                "id": "ko-1020",
+                "w": "약간",
+                "p": "yakgan",
+                "d": "righteousness",
+                "s": "그녀는 머리가 약간 이상한 사람이다. (She's a basket case.)"
+            },
+            {
+                "id": "ko-1021",
+                "w": "했다고",
+                "p": "haetdago",
+                "d": "did, past tense of DO",
+                "s": "사미는 자기가 했다고 했던 그 일에 대해선 무죄야. (Sami is innocent of what he said he did.)"
+            },
+            {
+                "id": "ko-1022",
+                "w": "일찍",
+                "p": "iljjik",
+                "d": "early",
+                "s": "나는 일찍 자기 때문에 일출을 보려 일찍 일어날 수 있다. (I go to bed early so I can get up to capture the sunrise.)"
+            },
+            {
+                "id": "ko-1023",
+                "w": "굉장히",
+                "p": "goengjanghi",
+                "d": "very, greatly",
+                "s": "일본은 여름에 굉장히 덥다. (In Japan it's very hot in summer.)"
+            },
+            {
+                "id": "ko-1024",
+                "w": "못해요",
+                "p": "mothaeyo",
+                "d": "cannot",
+                "s": "톰은 운전을 정말 못해요. (Tom is an awful driver.)"
+            },
+            {
+                "id": "ko-1025",
+                "w": "진실을",
+                "p": "jinsireul",
+                "d": "the truth",
+                "s": "무슨 일이 일어난 건지 그 진실을 알고 싶지 않아? (Don't you want to know the truth about what happened?)"
+            },
+            {
+                "id": "ko-1026",
+                "w": "줄게",
+                "p": "julge",
+                "d": "to decrease, to shrink",
+                "s": "오랫동안 기억할 수업을 해 줄게. (I'll give you a lesson that you'll remember for a long time.)"
+            },
+            {
+                "id": "ko-1027",
+                "w": "아세요",
+                "p": "aseyo",
+                "d": "to know, understand",
+                "s": "당신은 보스턴에 대해 어떻게 그렇게 잘 아세요? (Why do you know so much about Boston?)"
+            },
+            {
+                "id": "ko-1028",
+                "w": "거라",
+                "p": "geora",
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
+            },
+            {
+                "id": "ko-1029",
+                "w": "가족이",
+                "p": "gajogi",
+                "d": "household",
+                "s": "일요일에 모여 앉아서 한 주를 계획하는 것은 가족 전통이 되었다. (It has become a family ritual to sit down together on Sunday and plan out the week.)"
+            },
+            {
+                "id": "ko-1030",
+                "w": "새로",
+                "p": "saero",
+                "d": "anew",
+                "s": "우리 그냥 하드 디스크를 새로 포맷하는 건 어때? 너무 그걸로 스트레스 많이 받고 있잖아. (Why don't we just reformat the hard disk? You've been having a lot of trouble with it.)"
+            },
+            {
+                "id": "ko-1031",
+                "w": "절대로",
+                "p": "jeoldaero",
+                "d": "absolutely, never",
+                "s": "톰은 절대로 당신을 용서하지 않을 것이다. (Tom will never forgive you.)"
+            },
+            {
+                "id": "ko-1032",
+                "w": "와요",
+                "p": "wayo",
+                "d": "to come",
+                "s": "친구는 도서관에 공부하러 와요 (Friends come back to the library to study.)"
+            },
+            {
+                "id": "ko-1033",
+                "w": "알지만",
+                "p": "aljiman",
+                "d": "to know, understand",
+                "s": "넌 네가 깨어있는 줄 알지만, 사실은 꿈꾸고 있을 수도 있어. (You think you're awake, but you may, in fact, be dreaming.)"
+            },
+            {
+                "id": "ko-1034",
+                "w": "되어",
+                "p": "doeeo",
+                "d": "to become",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-1035",
+                "w": "내려",
+                "p": "naeryeo",
+                "d": "to come down",
+                "s": "가끔 봄비도 내려요. (Sometimes it rains too.)"
+            },
+            {
+                "id": "ko-1036",
+                "w": "같네",
+                "p": "ganne",
+                "d": "the same",
+                "s": "우스운 것 같네. (I think this is ridiculous.)"
+            },
+            {
+                "id": "ko-1037",
+                "w": "그거야",
+                "p": "geugeoya",
+                "d": "that",
+                "s": "그것 때문에 울었다. (That made me cry.)"
+            },
+            {
+                "id": "ko-1038",
+                "w": "크리스티나",
+                "p": "keuriseutina",
+                "d": "Christie",
                 "s": ""
+            },
+            {
+                "id": "ko-1039",
+                "w": "사이에",
+                "p": "saie",
+                "d": "between",
+                "s": "스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다. (Switzerland is situated between France, Italy, Austria and Germany.)"
+            },
+            {
+                "id": "ko-1040",
+                "w": "자꾸",
+                "p": "jakku",
+                "d": "repeatedly",
+                "s": "자꾸 귀찮게 해서 미안해. (I'm sorry to bother you so often.)"
+            },
+            {
+                "id": "ko-1041",
+                "w": "저리",
+                "p": "jeori",
+                "d": "so, like that",
+                "s": "담배를 피울 거면, 저리 가서 피워. (If you're going to smoke, smoke over there.)"
             },
             {
                 "id": "ko-1042",
-                "w": "만난",
-                "p": "mannan",
-                "d": "met",
-                "s": ""
+                "w": "사실을",
+                "p": "sasireul",
+                "d": "fact, reality, truth",
+                "s": "그 사람은 자신의 아버지가 가난하다는 사실을 부끄러워하지 않아. (He’s not ashamed of the fact that his father is poor.)"
             },
             {
                 "id": "ko-1043",
-                "w": "있거든",
-                "p": "itgeodeun",
-                "d": "Because there is",
+                "w": "와우",
+                "p": "wau",
+                "d": "snail",
                 "s": ""
             },
             {
                 "id": "ko-1044",
-                "w": "달",
-                "p": "dal",
-                "d": "moon; the Moon; month",
-                "s": ""
+                "w": "뛰어",
+                "p": "ttwieo",
+                "d": "to run",
+                "s": "톰은 물 속으로 뛰어 들진 않았어. (Tom didn't jump into the water.)"
             },
             {
                 "id": "ko-1045",
-                "w": "약간",
-                "p": "yakgan",
-                "d": "slightly",
-                "s": ""
+                "w": "갔어",
+                "p": "gasseo",
+                "d": "to go",
+                "s": "내가 버스를 잘못 타 가지고 다른 곳으로 갔어. (I took the wrong bus, so I went somewhere else.)"
             },
             {
                 "id": "ko-1046",
-                "w": "했다고",
-                "p": "haetdago",
-                "d": "I did it",
-                "s": ""
-            },
-            {
-                "id": "ko-1047",
-                "w": "일찍",
-                "p": "iljjik",
-                "d": "early",
-                "s": ""
-            },
-            {
-                "id": "ko-1048",
-                "w": "굉장히",
-                "p": "goengjanghi",
-                "d": "very, greatly",
-                "s": ""
-            },
-            {
-                "id": "ko-1049",
-                "w": "못해요",
-                "p": "motaeyo",
-                "d": "I can't",
-                "s": ""
-            },
-            {
-                "id": "ko-1050",
-                "w": "진실을",
-                "p": "jinsireul",
-                "d": "the truth",
-                "s": ""
-            },
-            {
-                "id": "ko-1051",
-                "w": "줄게",
-                "p": "julge",
-                "d": "I'll give it to you",
-                "s": ""
-            },
-            {
-                "id": "ko-1052",
-                "w": "아세요",
-                "p": "aseyo",
-                "d": "Do you know",
-                "s": ""
-            },
-            {
-                "id": "ko-1053",
-                "w": "누굴",
-                "p": "nugul",
-                "d": "who",
-                "s": ""
-            },
-            {
-                "id": "ko-1054",
-                "w": "거라",
-                "p": "geora",
-                "d": "That's it",
-                "s": ""
-            },
-            {
-                "id": "ko-1055",
-                "w": "가족이",
-                "p": "gajogi",
-                "d": "family",
-                "s": ""
-            },
-            {
-                "id": "ko-1056",
-                "w": "새로",
-                "p": "saero",
-                "d": "anew, newly, for the first time",
-                "s": ""
-            },
-            {
-                "id": "ko-1057",
-                "w": "절대로",
-                "p": "jeoldaero",
-                "d": "absolutely, never",
-                "s": ""
-            },
-            {
-                "id": "ko-1058",
-                "w": "와요",
-                "p": "wayo",
-                "d": "Come",
-                "s": ""
-            },
-            {
-                "id": "ko-1059",
-                "w": "알지만",
-                "p": "aljiman",
-                "d": "I know but",
-                "s": ""
-            },
-            {
-                "id": "ko-1060",
-                "w": "되어",
-                "p": "doeeo",
-                "d": "infinitive of 되다 (doeda)",
-                "s": ""
-            },
-            {
-                "id": "ko-1061",
-                "w": "내려",
-                "p": "naeryeo",
-                "d": "get down",
-                "s": ""
-            },
-            {
-                "id": "ko-1062",
-                "w": "같네",
-                "p": "ganne",
-                "d": "It's the same",
-                "s": ""
-            },
-            {
-                "id": "ko-1063",
-                "w": "그거야",
-                "p": "geugeoya",
-                "d": "That's it",
-                "s": ""
-            },
-            {
-                "id": "ko-1064",
-                "w": "크리스티나",
-                "p": "keuriseutina",
-                "d": "Christina",
-                "s": ""
-            },
-            {
-                "id": "ko-1065",
-                "w": "사이에",
-                "p": "saie",
-                "d": "between",
-                "s": ""
-            },
-            {
-                "id": "ko-1066",
-                "w": "자꾸",
-                "p": "jakku",
-                "d": "over and over again",
-                "s": ""
-            },
-            {
-                "id": "ko-1067",
-                "w": "저리",
-                "p": "jeori",
-                "d": "Go away",
-                "s": ""
-            },
-            {
-                "id": "ko-1068",
-                "w": "사실을",
-                "p": "sasireul",
-                "d": "fact",
-                "s": ""
-            },
-            {
-                "id": "ko-1069",
-                "w": "프랭크",
-                "p": "peuraengkeu",
-                "d": "frank",
-                "s": ""
-            },
-            {
-                "id": "ko-1070",
-                "w": "와우",
-                "p": "wau",
-                "d": "wow",
-                "s": ""
-            },
-            {
-                "id": "ko-1071",
-                "w": "뛰어",
-                "p": "ttwieo",
-                "d": "jump",
-                "s": ""
-            },
-            {
-                "id": "ko-1072",
-                "w": "갔어",
-                "p": "gasseo",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
-            },
-            {
-                "id": "ko-1073",
                 "w": "죽게",
                 "p": "jukge",
                 "d": "to die",
-                "s": ""
+                "s": "나 좀 죽게 내버려둬. (Let me die.)"
             },
             {
-                "id": "ko-1074",
+                "id": "ko-1047",
                 "w": "네게",
                 "p": "nege",
-                "d": "dative form of 너 (neo); 네 (ne) + -게 (-ge)",
-                "s": ""
+                "d": "you",
+                "s": "나는 네게 해야 할 일을 알려 주려고 하고 있어. (I'm trying to tell you what needs to be done.)"
             },
             {
-                "id": "ko-1075",
+                "id": "ko-1048",
                 "w": "심지어",
                 "p": "simjieo",
-                "d": "even, what is worse/what was worse",
-                "s": ""
+                "d": "even",
+                "s": "난 심지어 여기에 없었어. (I wasn't even here.)"
             },
             {
-                "id": "ko-1076",
+                "id": "ko-1049",
                 "w": "글쎄요",
                 "p": "geulsseyo",
                 "d": "well, let me see",
                 "s": ""
             },
             {
-                "id": "ko-1077",
+                "id": "ko-1050",
                 "w": "사람의",
                 "p": "saramui",
-                "d": "human",
-                "s": ""
+                "d": "human being, person",
+                "s": "우리 중 아무도 그 사람의 의견에 반대하지 않는다. (None of us are against his idea.)"
             },
             {
-                "id": "ko-1078",
+                "id": "ko-1051",
                 "w": "오랫동안",
                 "p": "oraetdongan",
-                "d": "A long time.",
-                "s": ""
+                "d": "A long time",
+                "s": "오랫동안 기억에 남을 수업을 하겠습니다. (I'll give you a lesson that you'll remember for a long time.)"
             },
             {
-                "id": "ko-1079",
+                "id": "ko-1052",
                 "w": "모습을",
                 "p": "moseubeul",
-                "d": "appearance",
-                "s": ""
+                "d": "the appearance of a person",
+                "s": "그녀는 그 사람한테서 아버지 같은 모습을 봤어. (She saw a father figure in him.)"
             },
             {
-                "id": "ko-1080",
+                "id": "ko-1053",
                 "w": "얘기가",
                 "p": "yaegiga",
-                "d": "The story",
-                "s": ""
+                "d": "talk",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
             },
             {
-                "id": "ko-1081",
+                "id": "ko-1054",
                 "w": "아이고",
                 "p": "aigo",
-                "d": "expression of surprise; oh, ouch",
-                "s": ""
+                "d": "expression of surprise",
+                "s": "아이고 어머나! (Oh! Oh my God!)"
             },
             {
-                "id": "ko-1082",
+                "id": "ko-1055",
                 "w": "상관",
                 "p": "sanggwan",
                 "d": "correlation",
-                "s": ""
+                "s": "나이에 상관 없이 배울 수 있어. (It doesn't matter how old you get, you can learn.)"
             },
             {
-                "id": "ko-1083",
+                "id": "ko-1056",
                 "w": "일하는",
                 "p": "ilhaneun",
-                "d": "working",
-                "s": ""
+                "d": "to work, to do one's job",
+                "s": "너무 다그치지말고 여유를 좀 줘봐, 오늘이 처음 일하는 날이잖아. (Cut him some slack, John. It's his first day on the job.)"
             },
             {
-                "id": "ko-1084",
+                "id": "ko-1057",
                 "w": "짐",
                 "p": "jim",
-                "d": "luggage",
+                "d": "load, burden",
                 "s": ""
             },
             {
-                "id": "ko-1085",
+                "id": "ko-1058",
                 "w": "길",
                 "p": "gil",
-                "d": "road",
-                "s": ""
+                "d": "a road",
+                "s": "지하철로 가는 길 좀 가르쳐 줄 수 있어? (Can you give me directions to the subway station?)"
             },
             {
-                "id": "ko-1086",
+                "id": "ko-1059",
                 "w": "사건",
                 "p": "sageon",
                 "d": "a noteworthy or remarkable incident",
-                "s": ""
+                "s": "경찰은 도심에서 발생한 강도 사건 이후 감시카메라 영상을 샅샅이 수색하고 있다. (Police are scouring security footage following a robbery in the city centre.)"
             },
             {
-                "id": "ko-1087",
+                "id": "ko-1060",
                 "w": "그렇다고",
                 "p": "geureotago",
-                "d": "That's right",
-                "s": ""
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
-                "id": "ko-1088",
+                "id": "ko-1061",
                 "w": "들어요",
                 "p": "deureoyo",
-                "d": "listen",
-                "s": ""
+                "d": "to listen, to hear",
+                "s": "메리는 J-pop과 K-pop을 들어요. (Mary listens to J-pop and K-pop.)"
             },
             {
-                "id": "ko-1089",
+                "id": "ko-1062",
                 "w": "상황을",
                 "p": "sanghwangeul",
-                "d": "the situation",
-                "s": ""
+                "d": "conditions",
+                "s": "현재 상황을 보고하십시요. (Please report what's happening.)"
             },
             {
-                "id": "ko-1090",
+                "id": "ko-1063",
                 "w": "옷을",
                 "p": "oseul",
-                "d": "clothes",
-                "s": ""
+                "d": "clothing",
+                "s": "톰은 핼러윈을 맞아 카우보이처럼 옷을 입었다. (Tom dressed up as cowboy for Halloween.)"
             },
             {
-                "id": "ko-1091",
+                "id": "ko-1064",
                 "w": "일이죠",
                 "p": "irijyo",
-                "d": "It's work",
-                "s": ""
+                "d": "one or two",
+                "s": "그 일이 일어난 이유를 톰이 알고 있다고는 생각하지 않아. (I don't think that Tom knows why it happened.)"
             },
             {
-                "id": "ko-1092",
-                "w": "아니예요",
-                "p": "aniyeyo",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-1093",
+                "id": "ko-1065",
                 "w": "죽어",
                 "p": "jugeo",
-                "d": "die",
-                "s": ""
+                "d": "to die",
+                "s": "누구든 언젠가는 죽어. (Everyone dies sooner or later.)"
             },
             {
-                "id": "ko-1094",
+                "id": "ko-1066",
                 "w": "뿐이에요",
                 "p": "ppunieyo",
-                "d": "It's just that",
-                "s": ""
+                "d": "only, just",
+                "s": "그녀는 다른 아이들이 노는 것을 지켜보기만 했을 뿐, 함께 하지는 않았다. (She watches the other kids playing, but she never joins in.)"
             },
             {
-                "id": "ko-1095",
+                "id": "ko-1067",
                 "w": "필요는",
                 "p": "piryoneun",
                 "d": "need",
-                "s": ""
+                "s": "톰은 메리가 존한테 뭘 해야 하는지 말해줄 필요는 없다고 했어. (Tom said he didn't think Mary needed to tell John what to do.)"
             },
             {
-                "id": "ko-1096",
+                "id": "ko-1068",
                 "w": "여기요",
                 "p": "yeogiyo",
-                "d": "Here",
-                "s": ""
+                "d": "here",
+                "s": "여기 보스턴에서 캐나다 사람을 만난 적이 있나요? (Have you met any Canadians here in Boston?)"
             },
             {
-                "id": "ko-1097",
+                "id": "ko-1069",
                 "w": "사랑해요",
                 "p": "saranghaeyo",
-                "d": "I love you",
-                "s": ""
+                "d": "to love",
+                "s": "사랑은 사랑을 사랑해요. (Love loves love.)"
             },
             {
-                "id": "ko-1098",
+                "id": "ko-1070",
                 "w": "죽는",
                 "p": "jungneun",
-                "d": "dying",
-                "s": ""
+                "d": "to die",
+                "s": "죽는 일보다 고통 받는 일이 더 많은 용기를 필요로 한다. (It requires more courage to suffer than to die.)"
             },
             {
-                "id": "ko-1099",
+                "id": "ko-1071",
                 "w": "누군가가",
                 "p": "nugungaga",
-                "d": "someone",
-                "s": ""
+                "d": "somebody",
+                "s": "그녀가 잠자리에 들려는 순간, 누군가가 문에 노크를 했다. (She was about to go to bed when someone knocked on the door.)"
             },
             {
-                "id": "ko-1100",
+                "id": "ko-1072",
                 "w": "얘기해",
                 "p": "yaegihae",
-                "d": "Talk to me",
-                "s": ""
+                "d": "to talk",
+                "s": "사람들은 등산할 때 흥미롭고 자기 성찰적인 주제에 대해 얘기해. (People talk about interesting and introspective subjects when hiking.)"
             },
             {
-                "id": "ko-1101",
+                "id": "ko-1073",
                 "w": "모두를",
                 "p": "modureul",
-                "d": "everyone",
-                "s": ""
+                "d": "all, wholly",
+                "s": "나는 내가 너희 모두를 믿을 수 있다는 것을 안다. (I know I can count on all of you.)"
             },
             {
-                "id": "ko-1102",
+                "id": "ko-1074",
                 "w": "커피",
                 "p": "keopi",
-                "d": "coffee, especially the beverage",
-                "s": ""
+                "d": "coffee",
+                "s": "톰은 메리가 커피 만드는 방식을 좋아하지 않는다. (Tom doesn't like the way Mary makes coffee.)"
             },
             {
-                "id": "ko-1103",
-                "w": "있는거야",
-                "p": "inneungeoya",
-                "d": "Is it there?",
-                "s": ""
-            },
-            {
-                "id": "ko-1104",
+                "id": "ko-1075",
                 "w": "있으니",
                 "p": "isseuni",
-                "d": "Because",
-                "s": ""
+                "d": "to stay",
+                "s": "영화가 나빠도 친구랑 같이 있으니 즐거울 테지. (Although the film is bad, I will enjoy it because I'm with friends.)"
             },
             {
-                "id": "ko-1105",
+                "id": "ko-1076",
                 "w": "없지만",
                 "p": "eopjiman",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "d": "to have none",
+                "s": "보잘것 없지만, 내가 할 수 있는 모든 것을 다 해 도와줄게. (It's not much, but I will do whatever I can to help you.)"
             },
             {
-                "id": "ko-1106",
+                "id": "ko-1077",
                 "w": "열",
                 "p": "yeol",
-                "d": "heat",
-                "s": ""
+                "d": "ten",
+                "s": "하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열. (One, two, three, four, five, six, seven, eight, nine, ten.)"
             },
             {
-                "id": "ko-1107",
+                "id": "ko-1078",
                 "w": "다신",
                 "p": "dasin",
-                "d": "never again",
-                "s": ""
+                "d": "to become hot",
+                "s": "아마 나는 너를 다신 볼 수 없겠지. (I think I won't be able to see you again?)"
             },
             {
-                "id": "ko-1108",
+                "id": "ko-1079",
                 "w": "만날",
                 "p": "mannal",
-                "d": "every day; always; all the time",
-                "s": ""
+                "d": "every day",
+                "s": "그는 그녀를 다시 만날 정도로 어리석다. (He is foolish to meet her again.)"
             },
             {
-                "id": "ko-1109",
+                "id": "ko-1080",
                 "w": "남자는",
                 "p": "namjaneun",
-                "d": "The man",
-                "s": ""
+                "d": "man",
+                "s": "의사의 모든 노력이 헛수고로 돌아가고, 그 남자는 곧 세상을 떠났다. (All the doctor's efforts were in vain and the man soon died.)"
             },
             {
-                "id": "ko-1110",
+                "id": "ko-1081",
                 "w": "저희는",
                 "p": "jeohuineun",
-                "d": "We are",
-                "s": ""
+                "d": "we",
+                "s": "저희는 그 버스를 타고 학교에 다니고 있습니다. (We go to school by that bus.)"
             },
             {
-                "id": "ko-1111",
+                "id": "ko-1082",
                 "w": "떠날",
                 "p": "tteonal",
-                "d": "leave",
-                "s": ""
+                "d": "to leave",
+                "s": "우리는 내일 아침에 집을 떠날 것이다. (We'll leave the house tomorrow morning.)"
             },
             {
-                "id": "ko-1112",
+                "id": "ko-1083",
                 "w": "맞죠",
                 "p": "matjyo",
-                "d": "That's right",
-                "s": ""
+                "d": "to be correct, right",
+                "s": "이 안경이 너에게 맞다. (Those glasses suit you.)"
             },
             {
-                "id": "ko-1113",
+                "id": "ko-1084",
                 "w": "아들이",
                 "p": "adeuri",
-                "d": "my son",
-                "s": ""
+                "d": "son",
+                "s": "나는 아들이 둘 있는데 하나는 도쿄에 있고 다른 하나는 나고야에 있다. (I have two sons; one is in Tokyo, and the other in Nagoya.)"
             },
             {
-                "id": "ko-1114",
+                "id": "ko-1085",
                 "w": "놈은",
                 "p": "nomeun",
-                "d": "The guy",
-                "s": ""
+                "d": "other person",
+                "s": "...사우는 도망갔드래. 그러니까 사우는 놈이다. (...but his son-in-law had apparently run away. Therefore sons-in-law are like strangers.)"
             },
             {
-                "id": "ko-1115",
+                "id": "ko-1086",
                 "w": "하나가",
                 "p": "hanaga",
-                "d": "There is one",
-                "s": ""
+                "d": "one",
+                "s": "그녀에게는 조그만 빵 하나가 있다. (She has a little bread.)"
             },
             {
-                "id": "ko-1116",
+                "id": "ko-1087",
                 "w": "의사",
                 "p": "uisa",
                 "d": "doctor",
                 "s": ""
             },
             {
-                "id": "ko-1117",
-                "w": "박사님",
-                "p": "baksanim",
-                "d": "Doctor",
-                "s": ""
-            },
-            {
-                "id": "ko-1118",
+                "id": "ko-1088",
                 "w": "나오는",
                 "p": "naoneun",
-                "d": "coming out",
-                "s": ""
+                "d": "to come out, come forth",
+                "s": "학생은 학교에서 나왔어요. (The student came out of school.)"
             },
             {
-                "id": "ko-1119",
+                "id": "ko-1089",
                 "w": "딸이",
                 "p": "ttari",
                 "d": "daughter",
-                "s": ""
+                "s": "그사람한테는 키가 큰 딸이 하나 있어. (She has a daughter who is tall.)"
             },
             {
-                "id": "ko-1120",
+                "id": "ko-1090",
                 "w": "거짓말을",
                 "p": "geojinmareul",
-                "d": "lie",
-                "s": ""
+                "d": "a lie",
+                "s": "너는 톰이 거짓말을 하고 있다고 생각하니? (Do you think Tom is lying?)"
             },
             {
-                "id": "ko-1121",
-                "w": "했고",
-                "p": "haetgo",
-                "d": "I did it",
-                "s": ""
-            },
-            {
-                "id": "ko-1122",
+                "id": "ko-1091",
                 "w": "얼굴",
                 "p": "eolgul",
-                "d": "face; visage",
+                "d": "face",
                 "s": ""
             },
             {
-                "id": "ko-1123",
+                "id": "ko-1092",
                 "w": "보내",
                 "p": "bonae",
-                "d": "send",
-                "s": ""
+                "d": "to send, to dispatch",
+                "s": "name@email.com 으로 이메일 보내 주세요. (Please write me at name@email.com.)"
             },
             {
-                "id": "ko-1124",
+                "id": "ko-1093",
                 "w": "받은",
                 "p": "badeun",
-                "d": "received",
-                "s": ""
+                "d": "to get",
+                "s": "톰은 충격을 받은 것 같다. (Tom looks shocked.)"
             },
             {
-                "id": "ko-1125",
+                "id": "ko-1094",
                 "w": "쓰고",
                 "p": "sseugo",
-                "d": "write",
-                "s": ""
+                "d": "to wear, to put on",
+                "s": "제가 최근에 메리를 봤을 때 그녀는 파란 야구 모자를 쓰고 있었어요. (The last time I saw Mary she was wearing a blue baseball cap.)"
             },
             {
-                "id": "ko-1126",
+                "id": "ko-1095",
                 "w": "곳이",
                 "p": "gosi",
-                "d": "The place is",
-                "s": ""
+                "d": "place",
+                "s": "이 근처에 휴대폰 충전할 수 있는 곳이 있나요? (Is there a place where I can charge my cellphone around here?)"
             },
             {
-                "id": "ko-1127",
+                "id": "ko-1096",
                 "w": "된다고",
                 "p": "doendago",
-                "d": "It's okay",
-                "s": ""
+                "d": "to become",
+                "s": "난 메리한테 그거 안 해도 된다고 말했어. (I told Mary that she didn't need to do that.)"
             },
             {
-                "id": "ko-1128",
+                "id": "ko-1097",
                 "w": "설마",
                 "p": "seolma",
-                "d": "No way",
-                "s": ""
+                "d": "surely",
+                "s": "설마 일이 이렇게 될 줄이야. (How could things have happened this way?)"
             },
             {
-                "id": "ko-1129",
+                "id": "ko-1098",
                 "w": "우리한테",
                 "p": "urihante",
-                "d": "to us",
-                "s": ""
+                "d": "we, us",
+                "s": "우리 큰이모할머니가 우리한테 스트루델을 한 조각씩 주셨어. (Our great-aunt gave us each a piece of strudel.)"
             },
             {
-                "id": "ko-1130",
+                "id": "ko-1099",
                 "w": "방법은",
                 "p": "bangbeobeun",
-                "d": "The method is",
-                "s": ""
+                "d": "way",
+                "s": "내 생각에는 이게 가장 좋은 방법 같아. (I think it's the best way.)"
             },
             {
-                "id": "ko-1131",
+                "id": "ko-1100",
                 "w": "인생을",
                 "p": "insaengeul",
-                "d": "life",
-                "s": ""
+                "d": "one's life",
+                "s": "저는 남은 인생을 그것에 대해 후회하면서 지내고 싶지 않아요. (I don't want to spend the rest of my life regretting it.)"
             },
             {
-                "id": "ko-1132",
+                "id": "ko-1101",
                 "w": "보이는",
                 "p": "boineun",
-                "d": "visible",
-                "s": ""
+                "d": "to be seen",
+                "s": "나에겐 경치 좋은 산이 보이는 방이 있었다. (I had a room with a beautiful view of the mountains.)"
             },
             {
-                "id": "ko-1133",
+                "id": "ko-1102",
                 "w": "정도로",
                 "p": "jeongdoro",
-                "d": "to the extent",
-                "s": ""
+                "d": "degree, extent",
+                "s": "톰은 정말 무책임하다. 믿기지 않을 정도로. (Tom is so irresponsible. I can't believe it.)"
             },
             {
-                "id": "ko-1134",
+                "id": "ko-1103",
                 "w": "아니오",
                 "p": "anio",
-                "d": "misspelling of 아니요 (aniyo)",
-                "s": ""
+                "d": "no",
+                "s": "아니오, 두 번쨉니다. (No, this is my second time.)"
             },
             {
-                "id": "ko-1135",
+                "id": "ko-1104",
                 "w": "여러",
                 "p": "yeoreo",
                 "d": "several, various",
-                "s": ""
+                "s": "여러 모로 바쁘신데도 흔쾌히 도와 주셔서 감사드립니다. (Thank you very much for being so willing to help me being so busy with so many things.)"
             },
             {
-                "id": "ko-1136",
+                "id": "ko-1105",
                 "w": "자고",
                 "p": "jago",
-                "d": "sleeping",
-                "s": ""
+                "d": "to sleep",
+                "s": "디마는 하룻밤에 25 남자와 자고 그다음에 그들을 죽였다. (Dima slept with 25 men in one night and then killed them.)"
             },
             {
-                "id": "ko-1137",
+                "id": "ko-1106",
                 "w": "한다면",
                 "p": "handamyeon",
-                "d": "If you do",
-                "s": ""
+                "d": "to do",
+                "s": "메리가 그걸 한다면 톰이 아주 놀라겠는걸. (Tom would be very surprised if Mary did that.)"
             },
             {
-                "id": "ko-1138",
+                "id": "ko-1107",
                 "w": "실례합니다",
                 "p": "sillyehamnida",
-                "d": "Excuse me",
-                "s": ""
+                "d": "to be rude",
+                "s": "실례합니다. 대전에 가는 다음 기차가 몇 시에 있습니까? (Excuse me. What time is the next train to Taejon?)"
             },
             {
-                "id": "ko-1139",
+                "id": "ko-1108",
                 "w": "기회가",
                 "p": "gihoega",
-                "d": "there is a chance",
-                "s": ""
+                "d": "opportunity",
+                "s": "내가 러시아어를 배울 기회가 있었으면 좋았을 텐데. (I wish I had the chance to learn Russian.)"
             },
             {
-                "id": "ko-1140",
+                "id": "ko-1109",
                 "w": "했을",
                 "p": "haesseul",
-                "d": "would have done",
-                "s": ""
+                "d": "did, past tense of DO",
+                "s": "그녀는 다른 아이들이 노는 것을 지켜보기만 했을 뿐, 함께 하지는 않았다. (She watches the other kids playing, but she never joins in.)"
             },
             {
-                "id": "ko-1141",
+                "id": "ko-1110",
                 "w": "결혼",
                 "p": "gyeolhon",
                 "d": "marriage",
                 "s": ""
             },
             {
-                "id": "ko-1142",
+                "id": "ko-1111",
                 "w": "소리를",
                 "p": "sorireul",
                 "d": "sound",
-                "s": ""
+                "s": "파스타를 후루룩 후루룩 소리를 내면서 먹는 것은 그만 둬. (Stop making that slurping noise when you eat your pasta.)"
             },
             {
-                "id": "ko-1143",
+                "id": "ko-1112",
                 "w": "알았다",
                 "p": "aratda",
-                "d": "Got it",
-                "s": ""
+                "d": "to know, understand",
+                "s": "나는 톰이 그 일을 하는 데 얼마나 시간이 걸릴지 몰랐다는 걸 알았다. (I knew that Tom didn't know how long it was going to take to do that.)"
             },
             {
-                "id": "ko-1144",
+                "id": "ko-1113",
                 "w": "해야지",
                 "p": "haeyaji",
-                "d": "I have to do it",
-                "s": ""
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
             },
             {
-                "id": "ko-1145",
+                "id": "ko-1114",
                 "w": "완벽한",
                 "p": "wanbyeokan",
                 "d": "perfect",
-                "s": ""
+                "s": "완벽한 사람은 없어. (Nobody's perfect.)"
             },
             {
-                "id": "ko-1146",
+                "id": "ko-1115",
                 "w": "있었다",
                 "p": "isseotda",
-                "d": "there was",
-                "s": ""
+                "d": "to stay",
+                "s": "레일라는 정체를 알 수 없는 남자에게 살금살금 쫓기고 있었다. (Layla was being stalked by a mysterious man.)"
             },
             {
-                "id": "ko-1147",
+                "id": "ko-1116",
                 "w": "곳을",
                 "p": "goseul",
                 "d": "place",
+                "s": "그 남자애는 어두운 곳을 무서워해. (The boy is afraid of the dark.)"
+            },
+            {
+                "id": "ko-1117",
+                "w": "겨우",
+                "p": "gyeou",
+                "d": "barely",
                 "s": ""
             },
             {
+                "id": "ko-1118",
+                "w": "없으면",
+                "p": "eopseumyeon",
+                "d": "to have none",
+                "s": "다른 할 말이 없으면, 나한테 인사할 필요가 없어. (There's no point saying \"Hi, how are you?\" to me if you have nothing else to say.)"
+            },
+            {
+                "id": "ko-1119",
+                "w": "아내가",
+                "p": "anaega",
+                "d": "wife",
+                "s": "빌은 이제 막 그의 두번째 아내와 결혼했다. (Bill just married his second wife.)"
+            },
+            {
+                "id": "ko-1120",
+                "w": "있습니까",
+                "p": "itseumnikka",
+                "d": "to stay",
+                "s": "실례합니다. 대전에 가는 다음 기차가 몇 시에 있습니까? (Excuse me. What time is the next train to Taejon?)"
+            },
+            {
+                "id": "ko-1121",
+                "w": "만들고",
+                "p": "mandeulgo",
+                "d": "to make",
+                "s": "어머니가 케이크를 만들고 계세요. (Mom is making a cake.)"
+            },
+            {
+                "id": "ko-1122",
+                "w": "비켜",
+                "p": "bikyeo",
+                "d": "step aside",
+                "s": "옆으로 비켜. (Step aside.)"
+            },
+            {
+                "id": "ko-1123",
+                "w": "그것을",
+                "p": "geugeoseul",
+                "d": "that",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
+            },
+            {
+                "id": "ko-1124",
+                "w": "피를",
+                "p": "pireul",
+                "d": "blood",
+                "s": "톰은 조금의 피를 토해냈다. (Tom coughed up some blood.)"
+            },
+            {
+                "id": "ko-1125",
+                "w": "못한",
+                "p": "mothan",
+                "d": "cannot",
+                "s": "옛 사람이 갖지 못한 정보는 매우 방대했어. (The information the ancients didn’t have was very voluminous.)"
+            },
+            {
+                "id": "ko-1126",
+                "w": "말씀",
+                "p": "malsseum",
+                "d": "word or speech",
+                "s": "전하실 말씀 있으시면 남겨주세요. (I can take a message.)"
+            },
+            {
+                "id": "ko-1127",
+                "w": "자식",
+                "p": "jasik",
+                "d": "one's children",
+                "s": ""
+            },
+            {
+                "id": "ko-1128",
+                "w": "만약에",
+                "p": "manyage",
+                "d": "if, in the event that",
+                "s": "만약에 네가 나쁜 짓을 했다면 알려주는게 좋을거야. (You'd better tell me if you did something wrong.)"
+            },
+            {
+                "id": "ko-1129",
+                "w": "위대한",
+                "p": "widaehan",
+                "d": "great",
+                "s": "오늘은 다시 한 번 우리에게 위대한 날로 기억 될 것 입니다. (Today will once again be remembered as a great day for us.)"
+            },
+            {
+                "id": "ko-1130",
+                "w": "써",
+                "p": "sseo",
+                "d": "with",
+                "s": "톰은 자기가 얼마나 미쳐보이는지 신경 안 써. (Tom doesn't care how crazy he looks.)"
+            },
+            {
+                "id": "ko-1131",
+                "w": "이리와",
+                "p": "iriwa",
+                "d": "to this place",
+                "s": "야, 너! 이리 와 봐. (Hey, you! Come here.)"
+            },
+            {
+                "id": "ko-1132",
+                "w": "눈이",
+                "p": "nuni",
+                "d": "eye",
+                "s": "이곳은 눈이 거의 내리지 않습니다. (It rarely snows here.)"
+            },
+            {
+                "id": "ko-1133",
+                "w": "사람도",
+                "p": "saramdo",
+                "d": "human being, person",
+                "s": "신을 믿는 사람들도 있고 아닌 사람도 있어. (Some people believe in God and others don't.)"
+            },
+            {
+                "id": "ko-1134",
+                "w": "요",
+                "p": "yo",
+                "d": "For the verb-final particle",
+                "s": "요에 당이 과다하게 나타나고 있습니다. (An excessive quantity of sugar is appearing in the urine.)"
+            },
+            {
+                "id": "ko-1135",
+                "w": "자신이",
+                "p": "jasini",
+                "d": "one's body",
+                "s": "학생들은 자신이 수용되고 존중받고 있다고 느낄 때 더 잘 배웁니다. (Students learn better when they feel accepted and valued.)"
+            },
+            {
+                "id": "ko-1136",
+                "w": "당신한테",
+                "p": "dangsinhante",
+                "d": "you",
+                "s": "내가 있었으니 망정이지 당신 혼자였으면 어쩔 뻔했어요? (You're lucky I was here. What would you have done all by yourself?)"
+            },
+            {
+                "id": "ko-1137",
+                "w": "보통",
+                "p": "botong",
+                "d": "averageness",
+                "s": "보통 영화를 볼 때 팝콘이랑 코카콜라를 먹는데 이번엔 사탕을 먹으려해. (Normally I eat popcorn and drink Coke when I watch a movie, but this time I'll eat candy.)"
+            },
+            {
+                "id": "ko-1138",
+                "w": "나갈",
+                "p": "nagal",
+                "d": "to go out",
+                "s": "여기서 나갈 방법이 있다면 우리는 찾을 수 있을거야 (If there's a way out of here, we'll find it.)"
+            },
+            {
+                "id": "ko-1139",
+                "w": "문제를",
+                "p": "munjereul",
+                "d": "problem, issue, question",
+                "s": "네가 아인슈타인이 아니라도 그 문제를 풀 수 있다. (You don't have to be Einstein to work that out.)"
+            },
+            {
+                "id": "ko-1140",
+                "w": "보다",
+                "p": "boda",
+                "d": "to see",
+                "s": "네가 나를 사랑하는 것 보다 내가 너를 더 사랑해. (I love you more than you love me.)"
+            },
+            {
+                "id": "ko-1141",
+                "w": "앉아서",
+                "p": "anjaseo",
+                "d": "to sit, to squat",
+                "s": "일요일에 모여 앉아서 한 주를 계획하는 것은 가족 전통이 되었다. (It has become a family ritual to sit down together on Sunday and plan out the week.)"
+            },
+            {
+                "id": "ko-1142",
+                "w": "도와줘요",
+                "p": "dowajwoyo",
+                "d": "to help",
+                "s": "이 보고서 마치는 걸 좀 도와줄 수 있어요? (Can you help me finish this report?)"
+            },
+            {
+                "id": "ko-1143",
+                "w": "원하지",
+                "p": "wonhaji",
+                "d": "to want, to hope",
+                "s": "나는 톰이 보스턴으로 이사하는 것을 원하지 않아. (I don't want Tom to move to Boston.)"
+            },
+            {
+                "id": "ko-1144",
+                "w": "이쪽으로",
+                "p": "ijjogeuro",
+                "d": "this way",
+                "s": "빨리, 이쪽으로 숨어! (Quick, hide over here!)"
+            },
+            {
+                "id": "ko-1145",
+                "w": "생각하고",
+                "p": "saenggakago",
+                "d": "to think",
+                "s": "남동생은 매우 중요한 인물이야. 적어도 그 녀석은 그렇게 생각하고 있어. (My brother is very important. At least he thinks he is.)"
+            },
+            {
+                "id": "ko-1146",
+                "w": "사랑을",
+                "p": "sarangeul",
+                "d": "love",
+                "s": "나는 사랑을 고수하기로 했다. 증오는 짊어지기에 너무 큰 짐이다. (I have decided to stick with love. Hate is too great a burden to bear.)"
+            },
+            {
+                "id": "ko-1147",
+                "w": "너네",
+                "p": "neone",
+                "d": "you",
+                "s": "나 너네 언니 만나고 싶어 (I'd like to meet your older sister.)"
+            },
+            {
                 "id": "ko-1148",
-                "w": "겨우",
-                "p": "gyeou",
-                "d": "barely; with difficulty",
+                "w": "조",
+                "p": "jo",
+                "d": "foxtail millet",
                 "s": ""
             },
             {
                 "id": "ko-1149",
-                "w": "없으면",
-                "p": "eopseumyeon",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "w": "밖에서",
+                "p": "bakkeseo",
+                "d": "outside",
+                "s": "밖에서 저를 부르고 있는 사람이 누군지 알아요? (Do you know who is calling me from outside?)"
             },
             {
                 "id": "ko-1150",
-                "w": "아내가",
-                "p": "anaega",
-                "d": "my wife",
-                "s": ""
+                "w": "들어와",
+                "p": "deureowa",
+                "d": "to enter, to come in",
+                "s": "우리 안에 들어와 있어. (We're inside.)"
             },
             {
                 "id": "ko-1151",
-                "w": "있습니까",
-                "p": "itseumnikka",
-                "d": "Are there any",
-                "s": ""
+                "w": "그렇군요",
+                "p": "geureokunyo",
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
                 "id": "ko-1152",
-                "w": "만들고",
-                "p": "mandeulgo",
-                "d": "create",
-                "s": ""
+                "w": "척",
+                "p": "cheok",
+                "d": "pretense",
+                "s": "경찰은 톰이 혼자인 척 했던 것이라고 생각하고 있어. (The police think that Tom acted alone.)"
             },
             {
                 "id": "ko-1153",
-                "w": "비켜",
-                "p": "bikyeo",
-                "d": "Get out of the way",
-                "s": ""
+                "w": "나온",
+                "p": "naon",
+                "d": "to come out, come forth",
+                "s": "학생은 학교에서 나왔어요. (The student came out of school.)"
             },
             {
                 "id": "ko-1154",
-                "w": "그것을",
-                "p": "geugeoseul",
-                "d": "it",
-                "s": ""
+                "w": "같지",
+                "p": "gatji",
+                "d": "the same",
+                "s": "톰이 자신이 틀렸다고 인정할 것 같지 않아. (I don't think Tom is going to admit he's wrong.)"
             },
             {
                 "id": "ko-1155",
-                "w": "피를",
-                "p": "pireul",
-                "d": "blood",
-                "s": ""
+                "w": "불러",
+                "p": "bulleo",
+                "d": "to name",
+                "s": "\"왜 톰은 날 메리라고 불러?\" \"메리가 아니야?\" \"메리가 아니라 마리!\" (\"Tom, why are you calling me Mary?\" \"Aren't you Mary?\" \"I'm not Mary, I'm Marie!\")"
             },
             {
                 "id": "ko-1156",
-                "w": "못한",
-                "p": "motan",
-                "d": "couldn't",
-                "s": ""
+                "w": "도움을",
+                "p": "doumeul",
+                "d": "help",
+                "s": "톰이 메리에게 도움을 청해야 할 것 같아. (Tom should probably tell Mary that he needs her help.)"
             },
             {
                 "id": "ko-1157",
-                "w": "말씀",
-                "p": "malsseum",
-                "d": "word or speech",
-                "s": ""
+                "w": "마음",
+                "p": "maeum",
+                "d": "mind, heart",
+                "s": "제 마음 속 깊이 감사드립니다. (I thank you from the bottom of my heart.)"
             },
             {
                 "id": "ko-1158",
-                "w": "자식",
-                "p": "jasik",
-                "d": "one's children, offspring; a somewhat rude term referring to male people, sometimes expressing friendliness when used between friends",
-                "s": ""
+                "w": "최선을",
+                "p": "choeseoneul",
+                "d": "the best",
+                "s": "내가 할 수 있는 건 최선을 다하는 것 뿐이야. (All I can do is to do my best.)"
             },
             {
                 "id": "ko-1159",
-                "w": "만약에",
-                "p": "manyage",
-                "d": "if",
-                "s": ""
+                "w": "된다",
+                "p": "doenda",
+                "d": "to become",
+                "s": "기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다. (Happiness shared returns many-fold, sadness shared comes back halved.)"
             },
             {
                 "id": "ko-1160",
-                "w": "위대한",
-                "p": "widaehan",
-                "d": "great",
-                "s": ""
+                "w": "곳으로",
+                "p": "goseuro",
+                "d": "whither",
+                "s": "향수병은 당신이 있던 곳으로 돌아가고자하는 갈망입니다. (Homesickness is a longing to go back to where you are from.)"
             },
             {
                 "id": "ko-1161",
-                "w": "써",
-                "p": "sseo",
-                "d": "write",
-                "s": ""
+                "w": "아기를",
+                "p": "agireul",
+                "d": "unweaned baby, child",
+                "s": "난 아기를 안 낳고 싶어, 절대로. (I don't want to have a baby, ever.)"
             },
             {
                 "id": "ko-1162",
-                "w": "이리와",
-                "p": "iriwa",
-                "d": "Come here",
-                "s": ""
+                "w": "죽이고",
+                "p": "jugigo",
+                "d": "to kill, to cause to die",
+                "s": "그들이 서로 죽이고 있다는 게 무슨 말이야? (What do you mean they are killing each other?)"
             },
             {
                 "id": "ko-1163",
-                "w": "눈이",
-                "p": "nuni",
-                "d": "snow",
-                "s": ""
+                "w": "대단한",
+                "p": "daedanhan",
+                "d": "to be great",
+                "s": "이건 존나 대단하다. (This is fucking awesome.)"
             },
             {
                 "id": "ko-1164",
-                "w": "사람도",
-                "p": "saramdo",
-                "d": "People too",
-                "s": ""
+                "w": "뭐예요",
+                "p": "mwoyeyo",
+                "d": "what",
+                "s": "이 시끄러운 소리는 뭐예요? (What's all this noise?)"
             },
             {
                 "id": "ko-1165",
-                "w": "요",
-                "p": "yo",
-                "d": "Yo",
-                "s": ""
+                "w": "환자를",
+                "p": "hwanjareul",
+                "d": "a medical patient",
+                "s": "환자 분은 건강해 보였습니다. (The patient looked healthy.)"
             },
             {
                 "id": "ko-1166",
-                "w": "자신이",
-                "p": "jasini",
-                "d": "myself",
-                "s": ""
+                "w": "똑같은",
+                "p": "ttokgateun",
+                "d": "just the same",
+                "s": "지난달에 이와 똑같은 일이 일어났는데. (I had the same thing happen to me last month.)"
             },
             {
                 "id": "ko-1167",
-                "w": "당신한테",
-                "p": "dangsinhante",
-                "d": "To you",
-                "s": ""
+                "w": "가능한",
+                "p": "ganeunghan",
+                "d": "to be possible",
+                "s": "톰은 가능한 한 거기에 남아 있을 거야. (Tom is going to stay there as long as possible.)"
             },
             {
                 "id": "ko-1168",
-                "w": "보통",
-                "p": "botong",
-                "d": "Normal",
+                "w": "친구들",
+                "p": "chingudeul",
+                "d": "companionship, company",
                 "s": ""
             },
             {
                 "id": "ko-1169",
-                "w": "나갈",
-                "p": "nagal",
-                "d": "go out",
-                "s": ""
+                "w": "원해",
+                "p": "wonhae",
+                "d": "to want, to hope",
+                "s": "너 크리스마스에 뭘 원해? (What do you want for Christmas?)"
             },
             {
                 "id": "ko-1170",
-                "w": "문제를",
-                "p": "munjereul",
-                "d": "problem",
-                "s": ""
+                "w": "좋아해",
+                "p": "joahae",
+                "d": "to like something or someone",
+                "s": "나는 아침으로 달걀을 좋아해. 우리 언니는 죽을 더 좋아하고. (I like eggs for breakfast. My sister prefers porridge.)"
             },
             {
                 "id": "ko-1171",
-                "w": "보다",
-                "p": "boda",
-                "d": "see",
-                "s": ""
+                "w": "될까",
+                "p": "doelkka",
+                "d": "to become",
+                "s": "만약 벽이 말을 할 수 있다면, 그 벽이 어떤 이야기를 하게 될까? (If walls could talk, what stories would they tell us?)"
             },
             {
                 "id": "ko-1172",
-                "w": "앉아서",
-                "p": "anjaseo",
-                "d": "sit down",
-                "s": ""
+                "w": "봤지",
+                "p": "bwatji",
+                "d": "to see",
+                "s": "우리 한동안 못 봤지! (We haven't seen you in a while.)"
             },
             {
                 "id": "ko-1173",
-                "w": "도와줘요",
-                "p": "dowajwoyo",
-                "d": "Help me",
-                "s": ""
+                "w": "방",
+                "p": "bang",
+                "d": "room",
+                "s": "나는 방 안으로 들어가는 어떤 남자를 보았다. (I saw a man enter the room.)"
             },
             {
                 "id": "ko-1174",
-                "w": "원하지",
-                "p": "wonhaji",
-                "d": "want",
-                "s": ""
+                "w": "몰라도",
+                "p": "mollado",
+                "d": "to not know",
+                "s": "난 이 문장을 러시아어로 어떻게 번역해야 할지 몰라. (I don't know how to translate this sentence into Russian.)"
             },
             {
                 "id": "ko-1175",
-                "w": "이쪽으로",
-                "p": "ijjogeuro",
-                "d": "this way",
-                "s": ""
+                "w": "갈게요",
+                "p": "galgeyo",
+                "d": "to change",
+                "s": "비가 그치면 갈게요. (I will go if the rain stops.)"
             },
             {
                 "id": "ko-1176",
-                "w": "생각하고",
-                "p": "saenggakago",
-                "d": "thinking",
-                "s": ""
+                "w": "때도",
+                "p": "ttaedo",
+                "d": "time",
+                "s": "아버지의 사망을 알리는 전화를 받았을 때 나는 완전히 당황했다. (When I got the phone call telling me of my father's death, I was completely flustered.)"
             },
             {
                 "id": "ko-1177",
-                "w": "갑시다",
-                "p": "gapsida",
-                "d": "Let's go",
-                "s": ""
+                "w": "움직여",
+                "p": "umjigyeo",
+                "d": "to move",
+                "s": "조용히 움직여. (Move quietly.)"
             },
             {
                 "id": "ko-1178",
-                "w": "사랑을",
-                "p": "sarangeul",
-                "d": "love",
-                "s": ""
+                "w": "눈에",
+                "p": "nune",
+                "d": "eye",
+                "s": "내 눈에 흙이 들어가기 전까지는 그런 꼴 못 보오이다! (Over my dead body shall I witness such a shameful sight.)"
             },
             {
                 "id": "ko-1179",
-                "w": "너네",
-                "p": "neone",
-                "d": "alternative form of 너희 (neohui, “you (plural)”); alternative form of 너의 (neoui, “your; yours (singular)”)",
-                "s": ""
+                "w": "숨을",
+                "p": "sumeul",
+                "d": "to hide, disappear",
+                "s": "톰은 숨을 쉬지 않고 있었다. (Tom wasn't breathing.)"
             },
             {
                 "id": "ko-1180",
-                "w": "조",
-                "p": "jo",
-                "d": "Joe",
-                "s": ""
+                "w": "음악",
+                "p": "eumak",
+                "d": "music",
+                "s": "톰은 음악 공부하는 걸 좋아해. (Tom loves to study music.)"
             },
             {
                 "id": "ko-1181",
-                "w": "밖에서",
-                "p": "bakkeseo",
-                "d": "outside",
-                "s": ""
+                "w": "자는",
+                "p": "janeun",
+                "d": "to sleep",
+                "s": "피곤해 보이니까 일찍 자는 것이 좋겠다. (You look tired, so you should go to bed early.)"
             },
             {
                 "id": "ko-1182",
-                "w": "들어와",
-                "p": "deureowa",
-                "d": "Come in",
-                "s": ""
+                "w": "딸을",
+                "p": "ttareul",
+                "d": "daughter",
+                "s": "딸을 어떻게 대하면 좋을지, 전혀 모르겠다. (I have no idea how to deal with my daughter.)"
             },
             {
                 "id": "ko-1183",
-                "w": "그렇군요",
-                "p": "geureokunyo",
-                "d": "I see.",
-                "s": ""
+                "w": "모르겠네요",
+                "p": "moreugenneyo",
+                "d": "to not know",
+                "s": "우리가 당신의 요구를 충족시켜 드릴 수 있을지 모르겠네요. (I'm not quite sure if we can meet your requirements.)"
             },
             {
                 "id": "ko-1184",
-                "w": "척",
-                "p": "cheok",
-                "d": "pretense; as if",
-                "s": ""
+                "w": "의사가",
+                "p": "uisaga",
+                "d": "doctor",
+                "s": "그는 의사가 된 것이 자랑스럽다. (He is proud of being a doctor.)"
             },
             {
                 "id": "ko-1185",
-                "w": "같군",
-                "p": "gatgun",
-                "d": "Same",
+                "w": "딴",
+                "p": "ttan",
+                "d": "another, other",
                 "s": ""
             },
             {
                 "id": "ko-1186",
-                "w": "나온",
-                "p": "naon",
-                "d": "came out",
-                "s": ""
+                "w": "가져와",
+                "p": "gajyeowa",
+                "d": "to bring something",
+                "s": "와인을 가져와. (Bring wine.)"
             },
             {
                 "id": "ko-1187",
-                "w": "같지",
-                "p": "gatji",
-                "d": "Same",
-                "s": ""
+                "w": "세상에서",
+                "p": "sesangeseo",
+                "d": "world",
+                "s": "프랑스어는 세상에서 가장 아름다운 언어인 것 같아. (I think French is the most beautiful language in the world.)"
             },
             {
                 "id": "ko-1188",
-                "w": "불러",
-                "p": "bulleo",
-                "d": "call me",
-                "s": ""
+                "w": "소리가",
+                "p": "soriga",
+                "d": "sound",
+                "s": "라디오 소리가 안 들려요. 볼륨을 높여주세요. (I cannot hear the radio, please turn it up.)"
             },
             {
                 "id": "ko-1189",
-                "w": "도움을",
-                "p": "doumeul",
-                "d": "help",
-                "s": ""
+                "w": "시간은",
+                "p": "siganeun",
+                "d": "time",
+                "s": "당신과 함께 할 시간은 없습니다. (I don't have time for you.)"
             },
             {
                 "id": "ko-1190",
-                "w": "마음",
-                "p": "maeum",
-                "d": "mind, heart (i.e. one's emotions); intention, will",
-                "s": ""
+                "w": "도울",
+                "p": "doul",
+                "d": "to help",
+                "s": "내가 도울 수 있는 것은 다 했어. 나머지는 너에게 달렸어. (I've done all I can to help you. The rest is up to you.)"
             },
             {
                 "id": "ko-1191",
-                "w": "최선을",
-                "p": "choeseoneul",
-                "d": "Do your best",
-                "s": ""
+                "w": "만한",
+                "p": "manhan",
+                "d": "to be worthy of",
+                "s": "그의 용감한 행동은 메달을 받을 만한 가치가 있다. (His brave actions are worthy of a medal.)"
             },
             {
                 "id": "ko-1192",
-                "w": "된다",
-                "p": "doenda",
-                "d": "It becomes",
+                "w": "남편이",
+                "p": "nampyeoni",
+                "d": "husband",
                 "s": ""
             },
             {
                 "id": "ko-1193",
-                "w": "곳으로",
-                "p": "goseuro",
-                "d": "to the place",
-                "s": ""
+                "w": "한다는",
+                "p": "handaneun",
+                "d": "to do",
+                "s": "나는 톰이 프랑스어를 한다는 것을 잊고 있었다. (I forgot that Tom spoke French.)"
             },
             {
                 "id": "ko-1194",
-                "w": "아기를",
-                "p": "agireul",
-                "d": "baby",
-                "s": ""
+                "w": "아버지를",
+                "p": "abeojireul",
+                "d": "father",
+                "s": "당신은 그녀의 아버지를 알고 있나요? (Do you know her father?)"
             },
             {
                 "id": "ko-1195",
-                "w": "죽이고",
-                "p": "jugigo",
-                "d": "kill",
-                "s": ""
+                "w": "일로",
+                "p": "illo",
+                "d": "over in this direction",
+                "s": "한국에는 무슨 일로 오셨습니까? (Why did you come to Korea?)"
             },
             {
                 "id": "ko-1196",
-                "w": "대단한",
-                "p": "daedanhan",
-                "d": "to be great, huge, immense, enormous, tremendous; to be great, outstanding, incredible, awesome",
-                "s": ""
+                "w": "감옥에",
+                "p": "gamoge",
+                "d": "jail, prison",
+                "s": "톰이 감옥에 가게 된 이유가 무엇인가요? (What's Tom in prison for?)"
             },
             {
                 "id": "ko-1197",
-                "w": "뭐예요",
-                "p": "mwoyeyo",
-                "d": "What is it",
-                "s": ""
+                "w": "됐지",
+                "p": "dwaetji",
+                "d": "to have become, became",
+                "s": "개구리가 우는 소리는 내가 잠드는 데 도움이 됐다. (The frogs' croaking helped me fall asleep.)"
             },
             {
                 "id": "ko-1198",
-                "w": "환자를",
-                "p": "hwanjareul",
-                "d": "the patient",
-                "s": ""
+                "w": "짓",
+                "p": "jit",
+                "d": "a physical act or movement",
+                "s": "바보 같은 짓 좀 그만해. (Stop being stupid.)"
             },
             {
                 "id": "ko-1199",
-                "w": "똑같은",
-                "p": "ttokgateun",
-                "d": "same",
-                "s": ""
+                "w": "순간",
+                "p": "sungan",
+                "d": "an instant",
+                "s": "그녀가 잠자리에 들려는 순간, 누군가가 문에 노크를 했다. (She was about to go to bed when someone knocked on the door.)"
             },
             {
                 "id": "ko-1200",
-                "w": "가능한",
-                "p": "ganeunghan",
-                "d": "possible",
-                "s": ""
+                "w": "도와줄",
+                "p": "dowajul",
+                "d": "to help",
+                "s": "당신을 도와줄 수 있는 괜찮은 변호사를 알고 있습니다. (I know a good lawyer who can help you.)"
             },
             {
                 "id": "ko-1201",
-                "w": "친구들",
-                "p": "chingudeul",
-                "d": "friends",
+                "w": "할머니",
+                "p": "halmeoni",
+                "d": "grandmother",
                 "s": ""
             },
             {
                 "id": "ko-1202",
-                "w": "원해",
-                "p": "wonhae",
-                "d": "want",
-                "s": ""
+                "w": "짓이야",
+                "p": "jisiya",
+                "d": "a physical act or movement",
+                "s": "바보 같은 짓 좀 그만해. (Stop being stupid.)"
             },
             {
                 "id": "ko-1203",
-                "w": "좋아해",
-                "p": "joahae",
-                "d": "I like it",
-                "s": ""
+                "w": "쓰는",
+                "p": "sseuneun",
+                "d": "to wear, to put on",
+                "s": "톰은 자기 이름을 쓰는 법을 아직 안 배웠어. (Tom hasn't yet learned how to write his own name.)"
             },
             {
                 "id": "ko-1204",
-                "w": "될까",
-                "p": "doelkka",
-                "d": "Will it work?",
-                "s": ""
+                "w": "했잖아요",
+                "p": "haetjanayo",
+                "d": "did, past tense of DO",
+                "s": "미안하다고 했잖아요. (I said I'm sorry.)"
             },
             {
                 "id": "ko-1205",
-                "w": "봤지",
-                "p": "bwatji",
-                "d": "I saw it",
-                "s": ""
+                "w": "너희들",
+                "p": "neohuideul",
+                "d": "you all",
+                "s": "너희들 둘 다 톰을 아는 것 같은데. (I think you both know Tom.)"
             },
             {
                 "id": "ko-1206",
-                "w": "방",
-                "p": "bang",
-                "d": "room",
+                "w": "당신들",
+                "p": "dangsindeul",
+                "d": "you",
                 "s": ""
             },
             {
                 "id": "ko-1207",
-                "w": "몰라도",
-                "p": "mollado",
-                "d": "I don't know but",
-                "s": ""
+                "w": "그날",
+                "p": "geunal",
+                "d": "that day",
+                "s": "톰은 그날 오후에 우리랑 같이 없었어. (Tom wasn't with us that afternoon.)"
             },
             {
                 "id": "ko-1208",
-                "w": "갈게요",
-                "p": "galgeyo",
-                "d": "I'll go",
-                "s": ""
+                "w": "화가",
+                "p": "hwaga",
+                "d": "artist",
+                "s": "그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요. (Even though he apologized, I'm still furious.)"
             },
             {
                 "id": "ko-1209",
-                "w": "때도",
-                "p": "ttaedo",
-                "d": "Even when",
-                "s": ""
+                "w": "새끼",
+                "p": "saekki",
+                "d": "young animal",
+                "s": "저 새끼 존나 잘생겼다 (That dude is fucking hot)"
             },
             {
                 "id": "ko-1210",
-                "w": "움직여",
-                "p": "umjigyeo",
-                "d": "move",
-                "s": ""
+                "w": "쓴",
+                "p": "sseun",
+                "d": "to be bitter",
+                "s": "그는 너에게 자기가 쓴 글을 읽어줬다. (He read to you what he wrote.)"
             },
             {
                 "id": "ko-1211",
-                "w": "눈에",
-                "p": "nune",
-                "d": "in the eyes",
-                "s": ""
+                "w": "안에서",
+                "p": "aneseo",
+                "d": "not",
+                "s": "그 여자아이는 버스 안에서 노부인에게 자리를 내주었다. (The girl gave her seat to an old woman in the bus.)"
             },
             {
                 "id": "ko-1212",
-                "w": "숨을",
-                "p": "sumeul",
-                "d": "breathe",
-                "s": ""
+                "w": "최대한",
+                "p": "choedaehan",
+                "d": "maximum limit",
+                "s": "최대한 세게 차세요. (Kick as hard as you can.)"
             },
             {
                 "id": "ko-1213",
-                "w": "음악",
-                "p": "eumak",
-                "d": "music",
-                "s": ""
+                "w": "하네",
+                "p": "hane",
+                "d": "to do",
+                "s": "너 아주 설득력 있는 주장을 하네. (You make a very convincing argument.)"
             },
             {
                 "id": "ko-1214",
-                "w": "자는",
-                "p": "janeun",
-                "d": "sleeping",
-                "s": ""
-            },
-            {
-                "id": "ko-1215",
-                "w": "딸을",
-                "p": "ttareul",
-                "d": "daughter",
-                "s": ""
-            },
-            {
-                "id": "ko-1216",
-                "w": "모르겠네요",
-                "p": "moreugenneyo",
-                "d": "I don't know",
-                "s": ""
-            },
-            {
-                "id": "ko-1217",
-                "w": "의사가",
-                "p": "uisaga",
-                "d": "doctor",
-                "s": ""
-            },
-            {
-                "id": "ko-1218",
-                "w": "셜록",
-                "p": "syeollok",
-                "d": "sherlock",
-                "s": ""
-            },
-            {
-                "id": "ko-1219",
-                "w": "딴",
-                "p": "ttan",
-                "d": "another, other; different",
-                "s": ""
-            },
-            {
-                "id": "ko-1220",
-                "w": "가져와",
-                "p": "gajyeowa",
-                "d": "Bring it",
-                "s": ""
-            },
-            {
-                "id": "ko-1221",
-                "w": "세상에서",
-                "p": "sesangeseo",
-                "d": "in the world",
-                "s": ""
-            },
-            {
-                "id": "ko-1222",
-                "w": "소리가",
-                "p": "soriga",
-                "d": "the sound",
-                "s": ""
-            },
-            {
-                "id": "ko-1223",
-                "w": "시간은",
-                "p": "siganeun",
-                "d": "time is",
-                "s": ""
-            },
-            {
-                "id": "ko-1224",
-                "w": "도울",
-                "p": "doul",
-                "d": "help",
-                "s": ""
-            },
-            {
-                "id": "ko-1225",
-                "w": "만한",
-                "p": "manhan",
-                "d": "worthy",
-                "s": ""
-            },
-            {
-                "id": "ko-1226",
-                "w": "남편이",
-                "p": "nampyeoni",
-                "d": "My husband",
-                "s": ""
-            },
-            {
-                "id": "ko-1227",
-                "w": "한다는",
-                "p": "handaneun",
-                "d": "to say",
-                "s": ""
-            },
-            {
-                "id": "ko-1228",
-                "w": "아버지를",
-                "p": "abeojireul",
-                "d": "my father",
-                "s": ""
-            },
-            {
-                "id": "ko-1229",
-                "w": "일로",
-                "p": "illo",
-                "d": "over in this direction, hither",
-                "s": ""
-            },
-            {
-                "id": "ko-1230",
-                "w": "감옥에",
-                "p": "gamoge",
-                "d": "in jail",
-                "s": ""
-            },
-            {
-                "id": "ko-1231",
-                "w": "됐지",
-                "p": "dwaetji",
-                "d": "Okay",
-                "s": ""
-            },
-            {
-                "id": "ko-1232",
-                "w": "짓",
-                "p": "jit",
-                "d": "a physical act or movement",
-                "s": ""
-            },
-            {
-                "id": "ko-1233",
-                "w": "순간",
-                "p": "sungan",
-                "d": "an instant; a moment",
-                "s": ""
-            },
-            {
-                "id": "ko-1234",
-                "w": "도와줄",
-                "p": "dowajul",
-                "d": "help me",
-                "s": ""
-            },
-            {
-                "id": "ko-1235",
-                "w": "있도록",
-                "p": "itdorok",
-                "d": "so that",
-                "s": ""
-            },
-            {
-                "id": "ko-1236",
-                "w": "할머니",
-                "p": "halmeoni",
-                "d": "grandmother; (by extension) elderly female",
-                "s": ""
-            },
-            {
-                "id": "ko-1237",
-                "w": "짓이야",
-                "p": "jisiya",
-                "d": "It's a joke",
-                "s": ""
-            },
-            {
-                "id": "ko-1238",
-                "w": "쓰는",
-                "p": "sseuneun",
-                "d": "writing",
-                "s": ""
-            },
-            {
-                "id": "ko-1239",
-                "w": "했잖아요",
-                "p": "haetjanayo",
-                "d": "You did it",
-                "s": ""
-            },
-            {
-                "id": "ko-1240",
-                "w": "너희들",
-                "p": "neohuideul",
-                "d": "you all, you people, you folks, you guys",
-                "s": ""
-            },
-            {
-                "id": "ko-1241",
-                "w": "피터",
-                "p": "piteo",
-                "d": "peter",
-                "s": ""
-            },
-            {
-                "id": "ko-1242",
-                "w": "당신들",
-                "p": "dangsindeul",
-                "d": "you (plural)",
-                "s": ""
-            },
-            {
-                "id": "ko-1243",
-                "w": "그날",
-                "p": "geunal",
-                "d": "that day; the day in question; (menstrual) period",
-                "s": ""
-            },
-            {
-                "id": "ko-1244",
-                "w": "화가",
-                "p": "hwaga",
-                "d": "artist (painter)",
-                "s": ""
-            },
-            {
-                "id": "ko-1245",
-                "w": "새끼",
-                "p": "saekki",
-                "d": "young animal; a contemptible person, usually male; a son of a bitch",
-                "s": ""
-            },
-            {
-                "id": "ko-1246",
-                "w": "쓴",
-                "p": "sseun",
-                "d": "bitter",
-                "s": ""
-            },
-            {
-                "id": "ko-1247",
-                "w": "안에서",
-                "p": "aneseo",
-                "d": "inside",
-                "s": ""
-            },
-            {
-                "id": "ko-1248",
-                "w": "최대한",
-                "p": "choedaehan",
-                "d": "as much as possible",
-                "s": ""
-            },
-            {
-                "id": "ko-1249",
-                "w": "하네",
-                "p": "hane",
-                "d": "Yes",
-                "s": ""
-            },
-            {
-                "id": "ko-1250",
                 "w": "팀",
                 "p": "tim",
                 "d": "team",
                 "s": ""
             },
             {
-                "id": "ko-1251",
+                "id": "ko-1215",
                 "w": "이후로",
                 "p": "ihuro",
-                "d": "Since then",
-                "s": ""
+                "d": "the time following a given point in time",
+                "s": "경찰은 도심에서 발생한 강도 사건 이후 감시카메라 영상을 샅샅이 수색하고 있다. (Police are scouring security footage following a robbery in the city centre.)"
             },
             {
-                "id": "ko-1252",
+                "id": "ko-1216",
                 "w": "그들",
                 "p": "geudeul",
                 "d": "they",
-                "s": ""
+                "s": "나는 그들 모두와 이야기하고 싶다. (I want to talk to all of them.)"
             },
             {
-                "id": "ko-1253",
+                "id": "ko-1217",
                 "w": "이지",
                 "p": "iji",
-                "d": "Easy",
-                "s": ""
+                "d": "For the Korean copula",
+                "s": "2 곱하기 7의 결과는 14이다. (Two times seven is fourteen.)"
             },
             {
-                "id": "ko-1254",
+                "id": "ko-1218",
                 "w": "그치",
                 "p": "geuchi",
-                "d": "contraction of 그렇지 (geureochi)",
-                "s": ""
+                "d": "yes",
+                "s": "메리는 지금 할 수 있는 건 다 하고 있지, 그치? (Mary's doing all she can, isn't she?)"
             },
             {
-                "id": "ko-1255",
+                "id": "ko-1219",
                 "w": "죽었어요",
                 "p": "jugeosseoyo",
-                "d": "dead",
-                "s": ""
+                "d": "to die",
+                "s": "그는 이미 죽은 지 오래이다. (He is already long dead.)"
             },
             {
-                "id": "ko-1256",
+                "id": "ko-1220",
                 "w": "곳에서",
                 "p": "goseseo",
-                "d": "in a place",
-                "s": ""
+                "d": "place",
+                "s": "평소와 같은 곳에서 기다리고 있을게. (I'll be waiting for you at the usual place.)"
             },
             {
-                "id": "ko-1257",
+                "id": "ko-1221",
                 "w": "때마다",
                 "p": "ttaemada",
-                "d": "every time",
-                "s": ""
+                "d": "as often as",
+                "s": "나는 이 소설을 읽을 때마다, 매번 이 소설에 흥미를 느낀다. (Every time I read this novel, I find it very interesting.)"
             },
             {
-                "id": "ko-1258",
+                "id": "ko-1222",
                 "w": "몸이",
                 "p": "momi",
                 "d": "body",
-                "s": ""
+                "s": "톰은 몸이 좋지 않아서 오늘 일하러 올 수 없습니다. (Tom can't come to work today because he doesn't feel well.)"
             },
             {
-                "id": "ko-1259",
+                "id": "ko-1223",
                 "w": "모든게",
                 "p": "modeunge",
-                "d": "Everything",
-                "s": ""
+                "d": "all, every, each",
+                "s": "보잘것 없지만, 내가 할 수 있는 모든 것을 다 해 도와줄게. (It's not much, but I will do whatever I can to help you.)"
             },
             {
-                "id": "ko-1260",
+                "id": "ko-1224",
                 "w": "캠",
                 "p": "kaem",
-                "d": "cam (rotating or sliding piece in a mechanical linkage); abbreviation of 카메라 (kamera, “camera”)",
+                "d": "cam",
                 "s": ""
             },
             {
-                "id": "ko-1261",
+                "id": "ko-1225",
                 "w": "어차피",
                 "p": "eochapi",
                 "d": "anyway, after all",
-                "s": ""
+                "s": "갔어도 어차피 못 봤을 거야. (You wouldn't have seen it anyway even if you'd gone.)"
             },
             {
-                "id": "ko-1262",
+                "id": "ko-1226",
                 "w": "압니다",
                 "p": "amnida",
-                "d": "I know",
-                "s": ""
+                "d": "to know, understand",
+                "s": "톰은 매우 게으른 소년이라는 걸 압니다. (I know Tom is a very lazy boy.)"
             },
             {
-                "id": "ko-1263",
+                "id": "ko-1227",
                 "w": "기억이",
                 "p": "gieogi",
-                "d": "I remember",
-                "s": ""
+                "d": "recall",
+                "s": "솔직히 말이야, 톰, 난 기억이 안 나. 10년도 더 된 일이잖아. (Honestly, Tom, I can't remember. It was more than 10 years ago.)"
             },
             {
-                "id": "ko-1264",
-                "w": "어딜",
-                "p": "eodil",
-                "d": "where",
-                "s": ""
-            },
-            {
-                "id": "ko-1265",
+                "id": "ko-1228",
                 "w": "산",
                 "p": "san",
                 "d": "mountain",
-                "s": ""
+                "s": "톰이 어렸을 때 보스턴에 산 줄도 몰랐어? (Didn't you know Tom lived in Boston when he was a child?)"
             },
             {
-                "id": "ko-1266",
+                "id": "ko-1229",
                 "w": "들려",
                 "p": "deullyeo",
-                "d": "I hear it",
+                "d": "to be heard",
                 "s": ""
             },
             {
-                "id": "ko-1267",
+                "id": "ko-1230",
                 "w": "있네요",
                 "p": "inneyo",
-                "d": "There is",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-1268",
+                "id": "ko-1231",
                 "w": "분이",
                 "p": "buni",
-                "d": "The person",
-                "s": ""
+                "d": "bun",
+                "s": "살면서 40분 차 타고 가는게 이렇게 길게 느껴졌던 적이 없어요. (It was the longest forty-minute drive of my life.)"
             },
             {
-                "id": "ko-1269",
+                "id": "ko-1232",
                 "w": "없어서",
                 "p": "eopseoseo",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
+                "d": "to have none",
+                "s": "톰은 같이 놀 사람이 없어서 외로워하고 있어. (Tom is lonely because he has no one to play with.)"
             },
             {
-                "id": "ko-1270",
+                "id": "ko-1233",
                 "w": "이곳에",
                 "p": "igose",
                 "d": "here",
-                "s": ""
+                "s": "너와 나 말고는 아무도 이곳에 대해 몰라. (No one knows about this place but you and me.)"
             },
             {
-                "id": "ko-1271",
+                "id": "ko-1234",
                 "w": "미안하지만",
                 "p": "mianhajiman",
-                "d": "to be ashamed of oneself; to be sorry",
-                "s": ""
+                "d": "to be ashamed of oneself",
+                "s": "미안하지만, 이거 말곤 다른 방법이 없어. (I'm sorry, but there's no other way.)"
             },
             {
-                "id": "ko-1272",
+                "id": "ko-1235",
                 "w": "일어난",
                 "p": "ireonan",
-                "d": "happened",
-                "s": ""
+                "d": "to arise, get up",
+                "s": "그 일이 일어난 이유를 톰이 알고 있다고는 생각하지 않아. (I don't think that Tom knows why it happened.)"
             },
             {
-                "id": "ko-1273",
+                "id": "ko-1236",
                 "w": "왔습니다",
                 "p": "watseumnida",
-                "d": "came",
-                "s": ""
+                "d": "to come",
+                "s": "톰은 버스를 타고 왔습니다. (Tom came by bus.)"
             },
             {
-                "id": "ko-1274",
-                "w": "로스",
-                "p": "roseu",
-                "d": "ross",
-                "s": ""
-            },
-            {
-                "id": "ko-1275",
+                "id": "ko-1237",
                 "w": "속에서",
                 "p": "sogeseo",
-                "d": "in",
-                "s": ""
+                "d": "inward",
+                "s": "그녀는 눈 속에서 얼어 죽을 뻔했어요 (She almost froze to death in the snow.)"
             },
             {
-                "id": "ko-1276",
+                "id": "ko-1238",
                 "w": "친구를",
                 "p": "chingureul",
-                "d": "friends",
-                "s": ""
+                "d": "friend",
+                "s": "새로운 친구를 만드는 건 어려울 수 있다. (It can be hard to make new friends.)"
             },
             {
-                "id": "ko-1277",
+                "id": "ko-1239",
                 "w": "모르지만",
                 "p": "moreujiman",
-                "d": "I don't know but",
-                "s": ""
+                "d": "to not know",
+                "s": "난 어떻게 하는지 모르지만 그 사람은 해냈어. (I don't know how, but she did it.)"
             },
             {
-                "id": "ko-1278",
+                "id": "ko-1240",
                 "w": "예쁜",
                 "p": "yeppeun",
-                "d": "Attributive form of 예쁘다 (yeppeuda) (“to be pretty, beautiful”).",
-                "s": ""
+                "d": "to be pretty",
+                "s": "파티에 입을 예쁜 걸 하나 사는 게 어때? (Why don't you go buy yourself something pretty to wear to the party?)"
             },
             {
-                "id": "ko-1279",
+                "id": "ko-1241",
                 "w": "몸을",
                 "p": "momeul",
                 "d": "body",
-                "s": ""
+                "s": "코로나 바이러스로부터 어떻게 우리 몸을 지킬 수 있을까요? (How can we protect ourselves from the coronavirus?)"
             },
             {
-                "id": "ko-1280",
+                "id": "ko-1242",
                 "w": "잊지",
                 "p": "itji",
-                "d": "forget",
-                "s": ""
+                "d": "to forget",
+                "s": "우리는 우리의 뿌리를 절대 잊지 않았다. (We never forgot our roots.)"
             },
             {
-                "id": "ko-1281",
+                "id": "ko-1243",
                 "w": "엄마한테",
                 "p": "eommahante",
-                "d": "To mom",
-                "s": ""
+                "d": "mum, mummy",
+                "s": "엄마, 난 이걸 입고 싶지 않아요. (Mom, I don't want to wear this.)"
             },
             {
-                "id": "ko-1282",
+                "id": "ko-1244",
                 "w": "왔다",
                 "p": "watda",
-                "d": "came",
-                "s": ""
+                "d": "to come",
+                "s": "자려고 하던 참에 그로부터 전화가 왔다. (I was about to go to bed when he called me up.)"
             },
             {
-                "id": "ko-1283",
-                "w": "했는지",
-                "p": "haenneunji",
-                "d": "Did you do it?",
-                "s": ""
-            },
-            {
-                "id": "ko-1284",
+                "id": "ko-1245",
                 "w": "타",
                 "p": "ta",
-                "d": "ride",
-                "s": ""
+                "d": "others, other people",
+                "s": "내가 버스를 잘못 타 가지고 다른 곳으로 갔어. (I took the wrong bus, so I went somewhere else.)"
             },
             {
-                "id": "ko-1285",
+                "id": "ko-1246",
                 "w": "같군요",
                 "p": "gatgunyo",
-                "d": "It seems like",
-                "s": ""
+                "d": "the same",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
             },
             {
-                "id": "ko-1286",
+                "id": "ko-1247",
                 "w": "명",
                 "p": "myeong",
-                "d": "person",
-                "s": ""
+                "d": "Counter for people",
+                "s": "\"형제가 몇 명이나 있어?\" \"한 명 있어.\" (\"How many brothers have you got?\" \"One.\")"
             },
             {
-                "id": "ko-1287",
-                "w": "모든걸",
-                "p": "modeungeol",
-                "d": "Everything",
-                "s": ""
-            },
-            {
-                "id": "ko-1288",
+                "id": "ko-1248",
                 "w": "하라고",
                 "p": "harago",
-                "d": "Do it",
-                "s": ""
+                "d": "last, lowest",
+                "s": "나는 톰에게 그것을 하라고 말해야 한다. (I need to tell Tom to do that.)"
             },
             {
-                "id": "ko-1289",
+                "id": "ko-1249",
                 "w": "그렇습니다",
                 "p": "geureoseumnida",
-                "d": "to be thus, in that way; to be correct",
-                "s": ""
+                "d": "to be thus, in that way",
+                "s": "저도 그렇습니다. (Me too.)"
             },
             {
-                "id": "ko-1290",
+                "id": "ko-1250",
                 "w": "때문이야",
                 "p": "ttaemuniya",
-                "d": "It's because",
-                "s": ""
+                "d": "cause",
+                "s": "네, 그렇기 때문에 그 회사의 주식이 떨어지고 있어요. (Yes, that company's stocks are failing because of that.)"
             },
             {
-                "id": "ko-1291",
+                "id": "ko-1251",
                 "w": "있겠어",
                 "p": "itgesseo",
-                "d": "There must be",
-                "s": ""
+                "d": "to stay",
+                "s": "답 좀 알아낼 수 있겠어? (Can you figure out the answer?)"
             },
             {
-                "id": "ko-1292",
+                "id": "ko-1252",
                 "w": "덕분에",
                 "p": "deokbune",
-                "d": "thanks",
-                "s": ""
+                "d": "sufferance",
+                "s": "그의 대담한 결의 덕분에 위기를 극복할 수 있었다. (Thanks to his bold decision, he was able to ride out the crisis.)"
             },
             {
-                "id": "ko-1293",
+                "id": "ko-1253",
                 "w": "싶으면",
                 "p": "sipeumyeon",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "d": "to be desirous of",
+                "s": "탐은 내 비디오 카메라를 쓰고 싶으면 쓸 수 있다. (Tom may use my video camera if he wants to.)"
             },
             {
-                "id": "ko-1294",
+                "id": "ko-1254",
                 "w": "나가서",
                 "p": "nagaseo",
-                "d": "go out",
-                "s": ""
+                "d": "to go out",
+                "s": "나가자 조선인민군! 일당백 용맹을 떨치며! (March forward, Korean People's Army! Show off our bravery is a match for a hundred men!)"
             },
             {
-                "id": "ko-1295",
+                "id": "ko-1255",
                 "w": "비밀",
                 "p": "bimil",
                 "d": "secret",
                 "s": ""
             },
             {
-                "id": "ko-1296",
+                "id": "ko-1256",
                 "w": "달라",
                 "p": "dalla",
-                "d": "It's different",
-                "s": ""
+                "d": "to be different",
+                "s": "다음에 파티를 열면 나를 초대해 달라. (Please invite me the next time you have a party.)"
             },
             {
-                "id": "ko-1297",
+                "id": "ko-1257",
                 "w": "것보다",
                 "p": "geotboda",
-                "d": "than",
-                "s": ""
+                "d": "thing",
+                "s": "톰은 한 시간에 내가 일주일 동안 버는 것보다 더 많이 번다. (Tom earns more money in an hour than I do in a week.)"
             },
             {
-                "id": "ko-1298",
+                "id": "ko-1258",
                 "w": "찾았어요",
                 "p": "chajasseoyo",
-                "d": "I found it",
-                "s": ""
+                "d": "to search, to look for",
+                "s": "애타게 찾으려는 그의 모습을 보니 나의 눈에 눈물이 고였다. (Tears welled up in my eyes when I saw him anxiously searching for it.)"
             },
             {
-                "id": "ko-1299",
+                "id": "ko-1259",
                 "w": "대",
                 "p": "dae",
-                "d": "stand",
-                "s": ""
+                "d": "something large",
+                "s": "톰은 컴퓨터를 세 대 가지고 있어. (Tom has three computers.)"
             },
             {
-                "id": "ko-1300",
-                "w": "데릭",
-                "p": "derik",
-                "d": "derrick",
-                "s": ""
-            },
-            {
-                "id": "ko-1301",
+                "id": "ko-1260",
                 "w": "고통을",
                 "p": "gotongeul",
                 "d": "pain",
-                "s": ""
+                "s": "오직 시간만이 고통을 낫게 한다. (Only time will help ease the pain.)"
             },
             {
-                "id": "ko-1302",
+                "id": "ko-1261",
                 "w": "환자는",
                 "p": "hwanjaneun",
-                "d": "The patient",
-                "s": ""
+                "d": "a medical patient",
+                "s": "환자 분은 건강해 보였습니다. (The patient looked healthy.)"
             },
             {
-                "id": "ko-1303",
-                "w": "엄마랑",
-                "p": "eommarang",
-                "d": "With mom",
-                "s": ""
-            },
-            {
-                "id": "ko-1304",
+                "id": "ko-1262",
                 "w": "진정한",
                 "p": "jinjeonghan",
-                "d": "true",
-                "s": ""
+                "d": "to relax, to soothe",
+                "s": "(혼잣말로) 진정하자. ((Talking to oneself) Calm down.)"
             },
             {
-                "id": "ko-1305",
+                "id": "ko-1263",
                 "w": "같다",
                 "p": "gatda",
-                "d": "Same",
-                "s": ""
+                "d": "the same",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
             },
             {
-                "id": "ko-1306",
+                "id": "ko-1264",
                 "w": "생긴",
                 "p": "saenggin",
-                "d": "made",
-                "s": ""
+                "d": "to emerge",
+                "s": "그녀는 평범하게 생긴 여자다. (She's a plain looking girl.)"
             },
             {
-                "id": "ko-1307",
+                "id": "ko-1265",
                 "w": "병원",
                 "p": "byeongwon",
-                "d": "hospital; any facility for healing or treatment of people, animals, or things",
-                "s": ""
+                "d": "hospital",
+                "s": "병원으로 데려가 주세요. (Please take me to the hospital.)"
             },
             {
-                "id": "ko-1308",
+                "id": "ko-1266",
                 "w": "반가워요",
                 "p": "bangawoyo",
-                "d": "to be glad, happy; pleasant; welcome",
-                "s": ""
+                "d": "to be glad, happy",
+                "s": "내 이름은 시릴이에요, 만나서 반가워요. (My name's Cyril; pleased to meet you!)"
             },
             {
-                "id": "ko-1309",
+                "id": "ko-1267",
                 "w": "내내",
                 "p": "naenae",
-                "d": "throughout, through, all the time",
-                "s": ""
+                "d": "throughout",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
-                "id": "ko-1310",
+                "id": "ko-1268",
                 "w": "가도",
                 "p": "gado",
                 "d": "highway",
+                "s": "톰은 다음 주 호주에 안 가도 돼. (Tom doesn't have to go to Australia next week.)"
+            },
+            {
+                "id": "ko-1269",
+                "w": "생각에",
+                "p": "saenggage",
+                "d": "thought",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
+            },
+            {
+                "id": "ko-1270",
+                "w": "오세요",
+                "p": "oseyo",
+                "d": "to come",
+                "s": "비가 오니까 우산을 가지고 오세요. (It's raining, so please bring your umbrella.)"
+            },
+            {
+                "id": "ko-1271",
+                "w": "이러지",
+                "p": "ireoji",
+                "d": "to do this",
+                "s": "이러지 마세요. (Don't do this.)"
+            },
+            {
+                "id": "ko-1272",
+                "w": "따르면",
+                "p": "ttareumyeon",
+                "d": "to follow",
+                "s": "회사 방침에 따르면 근로자가 보호 안경을 사용하도록 되어 있어요. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-1273",
+                "w": "고맙네",
+                "p": "gomamne",
+                "d": "thankful",
+                "s": "서둘러 주시면 고맙겠소이다. (I'd appreciate it if you'd hurry up about it.)"
+            },
+            {
+                "id": "ko-1274",
+                "w": "할까요",
+                "p": "halkkayo",
+                "d": "a tenth",
+                "s": "제가 또 무슨 말을 할까요? (What else can I say?)"
+            },
+            {
+                "id": "ko-1275",
+                "w": "사진을",
+                "p": "sajineul",
+                "d": "photograph, picture",
+                "s": "단체 사진을 찍읍시다. (Let's get a group photo.)"
+            },
+            {
+                "id": "ko-1276",
+                "w": "않게",
+                "p": "anke",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "오븐이 뜨거우니까 화상입지 않게 조심해. (The oven's hot so be careful not to burn yourself.)"
+            },
+            {
+                "id": "ko-1277",
+                "w": "한잔",
+                "p": "hanjan",
+                "d": "one drink",
+                "s": "차 한잔 해, 톰. (Drink your tea, Tom.)"
+            },
+            {
+                "id": "ko-1278",
+                "w": "않는다",
+                "p": "anneunda",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "난 톰이 메리가 그 짓을 한 걸 용서하리라고는 생각하지 않는다. (I didn't think that Tom would ever forgive Mary for doing that.)"
+            },
+            {
+                "id": "ko-1279",
+                "w": "되는데",
+                "p": "doeneunde",
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
+            },
+            {
+                "id": "ko-1280",
+                "w": "남자를",
+                "p": "namjareul",
+                "d": "man",
+                "s": "나는 방 안으로 들어가는 어떤 남자를 보았다. (I saw a man enter the room.)"
+            },
+            {
+                "id": "ko-1281",
+                "w": "안으로",
+                "p": "aneuro",
+                "d": "inward",
+                "s": "나는 방 안으로 들어가는 어떤 남자를 보았다. (I saw a man enter the room.)"
+            },
+            {
+                "id": "ko-1282",
+                "w": "알았죠",
+                "p": "aratjyo",
+                "d": "to know, understand",
+                "s": "거짓말 하지 마세요, 알았죠? (Don't lie anymore, OK?)"
+            },
+            {
+                "id": "ko-1283",
+                "w": "보낸",
+                "p": "bonaen",
+                "d": "to send, to dispatch",
+                "s": "제가 어제 보낸 문자 메시지를 받으셨나요? (Did you receive the message I sent you yesterday?)"
+            },
+            {
+                "id": "ko-1284",
+                "w": "피가",
+                "p": "piga",
+                "d": "blood",
+                "s": "치실질을 할 때마다 잇몸에서 피가 나요. (My gums bleed whenever I floss my teeth.)"
+            },
+            {
+                "id": "ko-1285",
+                "w": "하니까",
+                "p": "hanikka",
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
+            },
+            {
+                "id": "ko-1286",
+                "w": "아가",
+                "p": "aga",
+                "d": "unweaned baby, child",
+                "s": "엄마, 아가가 어디 갔지? (Mom, where did the baby go?)"
+            },
+            {
+                "id": "ko-1287",
+                "w": "반드시",
+                "p": "bandeusi",
+                "d": "surely",
+                "s": "카다잔 어를 배우고 싶다면 반드시 읽어보십시오. (Make sure you read this if you want to learn the Kadazan language.)"
+            },
+            {
+                "id": "ko-1288",
+                "w": "아무리",
+                "p": "amuri",
+                "d": "however much/many",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
+            },
+            {
+                "id": "ko-1289",
+                "w": "얘기는",
+                "p": "yaegineun",
+                "d": "talk",
+                "s": "그 사람은 우리한테 그런 얘기는 안 했어. (She didn't tell us about that.)"
+            },
+            {
+                "id": "ko-1290",
+                "w": "잘못된",
+                "p": "jalmotdoen",
+                "d": "to go wrong, to go awry",
+                "s": "누군가는 톰에게 그걸 잘못된 방식으로 하고 있다고 말했어야 했다. (Someone should have told Tom that he was doing that the wrong way.)"
+            },
+            {
+                "id": "ko-1291",
+                "w": "오케이",
+                "p": "okei",
+                "d": "good",
                 "s": ""
             },
             {
+                "id": "ko-1292",
+                "w": "알아야",
+                "p": "araya",
+                "d": "to know, understand",
+                "s": "세상이 변하고 있다는 사실을 사람들은 알아야 한다. (People should understand that the world is changing.)"
+            },
+            {
+                "id": "ko-1293",
+                "w": "걸요",
+                "p": "georyo",
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
+            },
+            {
+                "id": "ko-1294",
+                "w": "자리를",
+                "p": "jarireul",
+                "d": "space, place, site",
+                "s": "그 여자아이는 버스 안에서 노부인에게 자리를 내주었다. (The girl gave her seat to an old woman in the bus.)"
+            },
+            {
+                "id": "ko-1295",
+                "w": "문제야",
+                "p": "munjeya",
+                "d": "problem, issue, question",
+                "s": "그건 사회적인 문제야. (It's a social problem.)"
+            },
+            {
+                "id": "ko-1296",
+                "w": "이유를",
+                "p": "iyureul",
+                "d": "reason",
+                "s": "그 일이 일어난 이유를 톰이 알고 있다고는 생각하지 않아. (I don't think that Tom knows why it happened.)"
+            },
+            {
+                "id": "ko-1297",
+                "w": "그러다",
+                "p": "geureoda",
+                "d": "to do so",
+                "s": "간다고 그랬는데. (He said he would go, but...)"
+            },
+            {
+                "id": "ko-1298",
+                "w": "약을",
+                "p": "yageul",
+                "d": "cunning, shrewd, sly",
+                "s": "나는 약을 여섯 시간마다 먹어야 해. (I have to take my medicine every six hours.)"
+            },
+            {
+                "id": "ko-1299",
+                "w": "싶었어",
+                "p": "sipeosseo",
+                "d": "to be desirous of",
+                "s": "뭔가 너한테 좋은 것을 해주고 싶었어. (I wanted to do something nice for you.)"
+            },
+            {
+                "id": "ko-1300",
+                "w": "높은",
+                "p": "nopeun",
+                "d": "to be high",
+                "s": "부르즈 할리파는 현재 세계에서 가장 높은 고층건물이다. (Burj Khalifa is currently the tallest skyscraper in the world.)"
+            },
+            {
+                "id": "ko-1301",
+                "w": "같아서",
+                "p": "gataseo",
+                "d": "the same",
+                "s": "니가 좀 외로울 것 같아서 내가 와인 한 병을 들고 왔지. (I thought you might be lonely, so I came over with a bottle of wine.)"
+            },
+            {
+                "id": "ko-1302",
+                "w": "이해",
+                "p": "ihae",
+                "d": "understanding",
+                "s": "열심히 공부했지만 잘 이해가 되지 않았어요. (I studied hard, but I couldn't understand it well.)"
+            },
+            {
+                "id": "ko-1303",
+                "w": "하나만",
+                "p": "hanaman",
+                "d": "one",
+                "s": "나는 내 신용카드를 하나만 빼고 모두 해지했다. (I cut up all but one of my credit cards.)"
+            },
+            {
+                "id": "ko-1304",
+                "w": "돌아올",
+                "p": "doraol",
+                "d": "to return, to come back",
+                "s": "톰이 다시 보스턴으로 돌아올 줄은 생각지도 못했다. (I never thought Tom would come back to Boston again.)"
+            },
+            {
+                "id": "ko-1305",
+                "w": "있는게",
+                "p": "inneunge",
+                "d": "to stay",
+                "s": "제가 할 수 있는게 뭐라도 있다면 주저하지마시고 알려주세요. (If there's anything I can do for you, don't hesitate to let me know.)"
+            },
+            {
+                "id": "ko-1306",
+                "w": "좋습니다",
+                "p": "joseumnida",
+                "d": "to be good",
+                "s": "신선한 과일은 당신의 건강에 좋습니다. (Fresh fruit is good for your health.)"
+            },
+            {
+                "id": "ko-1307",
+                "w": "좋다",
+                "p": "jota",
+                "d": "to be good",
+                "s": "난 야구 시합을 티비로 보는 것이 제일 좋다. (I like nothing so much as to watch baseball games on television.)"
+            },
+            {
+                "id": "ko-1308",
+                "w": "배를",
+                "p": "baereul",
+                "d": "abdomen, belly",
+                "s": "우리 모두가 같은 한 배를 탔다는 걸 기억해라. (Remember that we're all in the same boat.)"
+            },
+            {
+                "id": "ko-1309",
+                "w": "찾아야",
+                "p": "chajaya",
+                "d": "to search, to look for",
+                "s": "난 정확히 뭘 찾아야 할지 알고 있었다. (I knew exactly what to look for.)"
+            },
+            {
+                "id": "ko-1310",
+                "w": "못하게",
+                "p": "mothage",
+                "d": "cannot",
+                "s": "탐은 매리의 질문에 답하지 못하게 했어 (Tom didn't let me answer Mary's question.)"
+            },
+            {
                 "id": "ko-1311",
-                "w": "생각에",
-                "p": "saenggage",
-                "d": "in thoughts",
+                "w": "막을",
+                "p": "mageul",
+                "d": "to stop up",
                 "s": ""
             },
             {
                 "id": "ko-1312",
-                "w": "오세요",
-                "p": "oseyo",
-                "d": "Come",
-                "s": ""
+                "w": "계획을",
+                "p": "gyehoegeul",
+                "d": "a plan",
+                "s": "계획을 세우는 것과 그것을 실행하는 것은 별개의 문제다. (It's one thing to make plans, but quite another to carry them out.)"
             },
             {
                 "id": "ko-1313",
-                "w": "이러지",
-                "p": "ireoji",
-                "d": "Like this",
+                "w": "루크",
+                "p": "rukeu",
+                "d": "rook",
                 "s": ""
             },
             {
                 "id": "ko-1314",
-                "w": "따르면",
-                "p": "ttareumyeon",
-                "d": "According to",
-                "s": ""
+                "w": "이래",
+                "p": "irae",
+                "d": "like this",
+                "s": "1989년 12월 이래로 (since December 1989)"
             },
             {
                 "id": "ko-1315",
-                "w": "고맙네",
-                "p": "gomamne",
-                "d": "Thank you",
-                "s": ""
+                "w": "모르고",
+                "p": "moreugo",
+                "d": "to not know",
+                "s": "톰은 네가 모르고 있는 걸 알고 있어. (Tom knows something you don't.)"
             },
             {
                 "id": "ko-1316",
-                "w": "할까요",
-                "p": "halkkayo",
-                "d": "Should I do it?",
-                "s": ""
+                "w": "없잖아요",
+                "p": "eopjanayo",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
                 "id": "ko-1317",
-                "w": "사진을",
-                "p": "sajineul",
-                "d": "take a picture",
-                "s": ""
+                "w": "그녀",
+                "p": "geunyeo",
+                "d": "girlfriend",
+                "s": "그는 그녀 옆에 앉기 싫다고 했어. (He said that he didn't want to sit next to her.)"
             },
             {
                 "id": "ko-1318",
-                "w": "않게",
-                "p": "anke",
-                "d": "without",
-                "s": ""
+                "w": "그동안",
+                "p": "geudongan",
+                "d": "since our last meeting or conversation",
+                "s": "3년 만에 컴백, 그동안 어떻게 지냈는가. (Since their comeback three years ago, how have they been doing?)"
             },
             {
                 "id": "ko-1319",
-                "w": "한잔",
-                "p": "hanjan",
-                "d": "one drink (of liquor); one glass",
-                "s": ""
+                "w": "거니",
+                "p": "geoni",
+                "d": "thing",
+                "s": "네가 성공을 못 하는 것을 내 탓으로 돌리는 거니? (Are you blaming me for your lack of success?)"
             },
             {
                 "id": "ko-1320",
-                "w": "않는다",
-                "p": "anneunda",
-                "d": "auxiliary verb used to negate the clause to which the main verb belongs; to not do something",
-                "s": ""
+                "w": "빼고",
+                "p": "ppaego",
+                "d": "to pull",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
                 "id": "ko-1321",
-                "w": "있었고",
-                "p": "isseotgo",
-                "d": "There was",
-                "s": ""
+                "w": "이라고",
+                "p": "irago",
+                "d": "this",
+                "s": "독일은 독일어로 \"Deutschland\"이라고 불립니다. (Germany is called \"Deutschland\" in German.)"
             },
             {
                 "id": "ko-1322",
-                "w": "되는데",
-                "p": "doeneunde",
-                "d": "It works",
-                "s": ""
+                "w": "그랬어요",
+                "p": "geuraesseoyo",
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
                 "id": "ko-1323",
-                "w": "남자를",
-                "p": "namjareul",
-                "d": "a man",
-                "s": ""
+                "w": "더는",
+                "p": "deoneun",
+                "d": "to subtract",
+                "s": "톰에게 더는 하지 말라고 부탁했다. (I asked Tom not to do that anymore.)"
             },
             {
                 "id": "ko-1324",
-                "w": "안으로",
-                "p": "aneuro",
-                "d": "in",
-                "s": ""
+                "w": "죽지",
+                "p": "jukji",
+                "d": "shoulder blade",
+                "s": "기사도는 죽지 않았다. (Chivalry isn't dead.)"
             },
             {
                 "id": "ko-1325",
-                "w": "알았죠",
-                "p": "aratjyo",
-                "d": "Okay",
+                "w": "녀석",
+                "p": "nyeoseok",
+                "d": "dude, fellow",
                 "s": ""
             },
             {
                 "id": "ko-1326",
-                "w": "물론이지",
-                "p": "mulloniji",
-                "d": "Of course",
-                "s": ""
+                "w": "몰랐어",
+                "p": "mollasseo",
+                "d": "to not know",
+                "s": "이번 주에 톰이 호주에 있을 거라는 거 몰랐어? (Didn't you know Tom was going to be in Australia this week?)"
             },
             {
                 "id": "ko-1327",
-                "w": "보낸",
-                "p": "bonaen",
-                "d": "sent",
-                "s": ""
+                "w": "리",
+                "p": "ri",
+                "d": "way, reason, sense",
+                "s": "\"그렇게 소고기만 먹어 대면 소가 돼 버릴 거야.\" \"그럴 리 없거든.\" (\"If you keep eating just beef, you'll turn into a cow!\" \"No way!\")"
             },
             {
                 "id": "ko-1328",
-                "w": "피가",
-                "p": "piga",
-                "d": "blood",
+                "w": "박사",
+                "p": "baksa",
+                "d": "doctorate, Ph.D",
                 "s": ""
             },
             {
                 "id": "ko-1329",
-                "w": "하니까",
-                "p": "hanikka",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "w": "죽였어",
+                "p": "jugyeosseo",
+                "d": "to kill, to cause to die",
+                "s": "내 강아지들은 톰이 키우는 고양이 중 한 마리를 죽였어. (My dogs killed one of Tom's cats.)"
             },
             {
                 "id": "ko-1330",
-                "w": "아가",
-                "p": "aga",
-                "d": "Vocative of 아기 (agi, “baby”); hey, baby",
-                "s": ""
+                "w": "믿고",
+                "p": "mitgo",
+                "d": "to trust, to believe",
+                "s": "경찰은 톰이 혼자인 척 했던 것이라고 믿고 있어. (The police believe that Tom acted alone.)"
             },
             {
                 "id": "ko-1331",
-                "w": "반드시",
-                "p": "bandeusi",
-                "d": "surely; certainly; without fail",
-                "s": ""
+                "w": "좋네요",
+                "p": "joneyo",
+                "d": "to be good",
+                "s": "오늘은 어제보다 날씨가 훨씬 좋네요. (Today's weather is way better than yesterday's.)"
             },
             {
                 "id": "ko-1332",
-                "w": "아무리",
-                "p": "amuri",
-                "d": "however much/many; no matter how much/many",
+                "w": "여기까지",
+                "p": "yeogikkaji",
+                "d": "hereunto",
                 "s": ""
             },
             {
                 "id": "ko-1333",
-                "w": "얘기는",
-                "p": "yaegineun",
-                "d": "The story is",
-                "s": ""
+                "w": "이쪽은",
+                "p": "ijjogeun",
+                "d": "This side",
+                "s": "이쪽으로 오세요. (Right this way.)"
             },
             {
                 "id": "ko-1334",
-                "w": "잘못된",
-                "p": "jalmotdoen",
-                "d": "wrong",
-                "s": ""
+                "w": "사람들에게",
+                "p": "saramdeurege",
+                "d": "people, persons",
+                "s": "그는 사람들에게 말 한 마디 없이 사무실을 떠났다. (He left the office without saying a word to anyone.)"
             },
             {
                 "id": "ko-1335",
-                "w": "오케이",
-                "p": "okei",
-                "d": "Okay",
-                "s": ""
+                "w": "아빠를",
+                "p": "appareul",
+                "d": "dad, papa",
+                "s": "나는 우리 아빠를 닮았어. (I'm like my father.)"
             },
             {
                 "id": "ko-1336",
-                "w": "알아야",
-                "p": "araya",
-                "d": "I need to know",
-                "s": ""
+                "w": "어려운",
+                "p": "eoryeoun",
+                "d": "to be difficult",
+                "s": "사랑과 우정 사이에 경계선을 긋는 것은 매우 어려운 일이다. (It is very difficult to draw the boundary between love and friendship.)"
             },
             {
                 "id": "ko-1337",
-                "w": "걸요",
-                "p": "georyo",
-                "d": "Girl",
-                "s": ""
+                "w": "봤는데",
+                "p": "bwanneunde",
+                "d": "to see",
+                "s": "네가 나를 사랑하는 것 보다 내가 너를 더 사랑해. (I love you more than you love me.)"
             },
             {
                 "id": "ko-1338",
-                "w": "해줄",
-                "p": "haejul",
-                "d": "Do it",
-                "s": ""
+                "w": "적은",
+                "p": "jeogeun",
+                "d": "to be little, to be few",
+                "s": "그는 그 직업을 위해 훈련은 받았지만, 실제로 일한 적은 없어. (Although he trained in the profession, he never practised it.)"
             },
             {
                 "id": "ko-1339",
-                "w": "자리를",
-                "p": "jarireul",
-                "d": "place",
-                "s": ""
+                "w": "법을",
+                "p": "beobeul",
+                "d": "law",
+                "s": "우리는 우리가 가진것을 가지고 사는 법을 배울 필요가 있다. (We need to learn to live with what we have.)"
             },
             {
                 "id": "ko-1340",
-                "w": "문제야",
-                "p": "munjeya",
-                "d": "It's a problem",
-                "s": ""
+                "w": "모르겠다",
+                "p": "moreugetda",
+                "d": "to not know",
+                "s": "톰이 도움 없이 그걸 잘 해낼 수 있을지 모르겠다. (I doubt Tom can do that without some help.)"
             },
             {
                 "id": "ko-1341",
-                "w": "이유를",
-                "p": "iyureul",
-                "d": "the reason",
-                "s": ""
+                "w": "신이",
+                "p": "sini",
+                "d": "god, deity",
+                "s": "만약 신이 존재하지 않았다면, 만들어 낼 필요가 있겠지. (If God did not exist, it would be necessary to invent him.)"
             },
             {
                 "id": "ko-1342",
-                "w": "그러다",
-                "p": "geureoda",
-                "d": "to do so; to do it; to say so",
-                "s": ""
+                "w": "그렇고",
+                "p": "geureoko",
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
                 "id": "ko-1343",
-                "w": "약을",
-                "p": "yageul",
-                "d": "medicine",
-                "s": ""
+                "w": "관심",
+                "p": "gwansim",
+                "d": "interest in",
+                "s": "프랑스어 배우는 것은 그다지 관심 없어. (I'm not very interested in learning French.)"
             },
             {
                 "id": "ko-1344",
-                "w": "싶었어",
-                "p": "sipeosseo",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "w": "집이",
+                "p": "jibi",
+                "d": "home, house",
+                "s": "우리 집을 제외하고는 우리 집이 있는 거리의 모든 집들이 모두 파란색이다. (Every house on our street was blue except ours.)"
             },
             {
                 "id": "ko-1345",
-                "w": "높은",
-                "p": "nopeun",
-                "d": "high",
-                "s": ""
+                "w": "오직",
+                "p": "ojik",
+                "d": "only",
+                "s": "오직 톰이 원하는 것은 약간의 자유 시간뿐이다. (All Tom wanted was some free time.)"
             },
             {
                 "id": "ko-1346",
-                "w": "같아서",
-                "p": "gataseo",
-                "d": "the same; like or similar (often used with 와 (wa)/과 (gwa))",
-                "s": ""
+                "w": "좋아해요",
+                "p": "joahaeyo",
+                "d": "to like something or someone",
+                "s": "켄이에요. 그는 정말 그의 개를 좋아해요. (This is Ken. He really likes his dog.)"
             },
             {
                 "id": "ko-1347",
-                "w": "이해",
-                "p": "ihae",
-                "d": "understanding, comprehension of something",
-                "s": ""
+                "w": "있었습니다",
+                "p": "isseotseumnida",
+                "d": "to stay",
+                "s": "당신은 집에 있었습니다. (You stayed at home.)"
             },
             {
                 "id": "ko-1348",
-                "w": "하나만",
-                "p": "hanaman",
-                "d": "Just one",
-                "s": ""
+                "w": "나은",
+                "p": "naeun",
+                "d": "to recover from an illness",
+                "s": "톰이 다가와서 말을 걸기를 기다리기보다는, 네가 그냥 그에게 다가가는 게 낫다. (Instead of waiting for Tom to come up and speak to you, you should just go up to him.)"
             },
             {
                 "id": "ko-1349",
-                "w": "돌아올",
-                "p": "doraol",
-                "d": "come back",
-                "s": ""
+                "w": "않아도",
+                "p": "anado",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰은 다음 주 호주에 가지 않아도 돼. (Tom doesn't have to go to Australia next week.)"
             },
             {
                 "id": "ko-1350",
-                "w": "있는게",
-                "p": "inneunge",
-                "d": "There is something",
-                "s": ""
+                "w": "나면",
+                "p": "namyeon",
+                "d": "to be born",
+                "s": "\"누구야?\" \"나다\" (\"Who is it?\" \"It's me.\")"
             },
             {
                 "id": "ko-1351",
-                "w": "좋습니다",
-                "p": "joseumnida",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
+                "w": "옛날",
+                "p": "yennal",
+                "d": "the past",
+                "s": "이 인류학자에 따르면 이 지역에서는 옛날 관습이 아직도 행해지고 있다. (The anthropologist says old customs still prevail in the province.)"
             },
             {
                 "id": "ko-1352",
-                "w": "좋다",
-                "p": "jota",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
+                "w": "얘가",
+                "p": "yaega",
+                "d": "this kid",
+                "s": "얘가 항상 문제야. (This is always the problem.)"
             },
             {
                 "id": "ko-1353",
-                "w": "배를",
-                "p": "baereul",
-                "d": "ship",
-                "s": ""
+                "w": "식으로",
+                "p": "sigeuro",
+                "d": "ceremony",
+                "s": "많은 사람들이 저런 식으로 행동해. (Many people act like that.)"
             },
             {
                 "id": "ko-1354",
-                "w": "찾아야",
-                "p": "chajaya",
-                "d": "find it",
-                "s": ""
+                "w": "그걸로",
+                "p": "geugeollo",
+                "d": "that",
+                "s": "우리 그냥 하드 디스크를 새로 포맷하는 건 어때? 너무 그걸로 스트레스 많이 받고 있잖아. (Why don't we just reformat the hard disk? You've been having a lot of trouble with it.)"
             },
             {
                 "id": "ko-1355",
-                "w": "못하게",
-                "p": "motage",
-                "d": "Don't let me",
-                "s": ""
+                "w": "냄새가",
+                "p": "naemsaega",
+                "d": "a smell",
+                "s": "낫또는 냄새가 독하지만 맛이 있다. (Natto smells awful, but tastes delicious.)"
             },
             {
                 "id": "ko-1356",
-                "w": "막을",
-                "p": "mageul",
-                "d": "stop it",
-                "s": ""
+                "w": "못하는",
+                "p": "mothaneun",
+                "d": "cannot",
+                "s": "내가 이해하지 못하는 것이 너무 많아 (There's so much I don't understand.)"
             },
             {
                 "id": "ko-1357",
-                "w": "계획을",
-                "p": "gyehoegeul",
-                "d": "plan",
-                "s": ""
+                "w": "인간",
+                "p": "ingan",
+                "d": "human, human being",
+                "s": "스트레스의 일반적 원인은 업무와 인간 관계에 있어. (Common causes of stress are work and human relationships.)"
             },
             {
                 "id": "ko-1358",
-                "w": "루크",
-                "p": "rukeu",
-                "d": "Luke",
-                "s": ""
+                "w": "세상이",
+                "p": "sesangi",
+                "d": "world",
+                "s": "세상이 변하고 있다는 사실을 사람들은 알아야 한다. (People should understand that the world is changing.)"
             },
             {
                 "id": "ko-1359",
-                "w": "이래",
-                "p": "irae",
-                "d": "Like this",
-                "s": ""
+                "w": "책",
+                "p": "chaek",
+                "d": "book",
+                "s": "\"이 책 누구 책이지?\" \"제 책이요.\" (\"Whose book is this?\" \"It's mine.\")"
             },
             {
                 "id": "ko-1360",
-                "w": "모르고",
-                "p": "moreugo",
-                "d": "without knowing",
-                "s": ""
+                "w": "모두에게",
+                "p": "moduege",
+                "d": "all, wholly",
+                "s": "그 여자는 자기의 불행을 만나는 사람 모두에게 말한다. (She tells her tale of misery to everyone she meets.)"
             },
             {
                 "id": "ko-1361",
-                "w": "없잖아요",
-                "p": "eopjanayo",
-                "d": "There isn't any",
-                "s": ""
+                "w": "말해줘",
+                "p": "malhaejwo",
+                "d": "to speak, to talk",
+                "s": "어디가는지 말해줘. (Tell me where you're going.)"
             },
             {
                 "id": "ko-1362",
-                "w": "그녀",
-                "p": "geunyeo",
-                "d": "she",
-                "s": ""
+                "w": "처음으로",
+                "p": "cheoeumeuro",
+                "d": "for the first time",
+                "s": "외국 친구들은 처음으로 피단을 보면 모두 상한 달걀이라고 생각합니다. (When foreign friends first see century eggs, they all think they're rotten eggs.)"
             },
             {
                 "id": "ko-1363",
-                "w": "그동안",
-                "p": "geudongan",
-                "d": "since our last meeting or conversation; the period of time just mentioned (= 그 동안)",
-                "s": ""
+                "w": "그러게",
+                "p": "geureoge",
+                "d": "to do so",
+                "s": "간다고 그랬는데. (He said he would go, but...)"
             },
             {
                 "id": "ko-1364",
-                "w": "거니",
-                "p": "geoni",
-                "d": "Gurney",
-                "s": ""
+                "w": "실제로",
+                "p": "siljero",
+                "d": "in fact, in practice",
+                "s": "그는 그 직업을 위해 훈련은 받았지만, 실제로 일한 적은 없어. (Although he trained in the profession, he never practised it.)"
             },
             {
                 "id": "ko-1365",
-                "w": "빼고",
-                "p": "ppaego",
-                "d": "Except",
-                "s": ""
+                "w": "크리스마스",
+                "p": "keuriseumaseu",
+                "d": "Christmas",
+                "s": "산타 할아버지, 크리스마스 선물로 여자친구를 받고 싶어요 (Santa Claus, I want to receive a girlfriend for Christmas.)"
             },
             {
                 "id": "ko-1366",
-                "w": "거긴",
-                "p": "geogin",
-                "d": "There",
+                "w": "보기",
+                "p": "bogi",
+                "d": "example",
                 "s": ""
             },
             {
                 "id": "ko-1367",
-                "w": "이라고",
-                "p": "irago",
-                "d": "I said",
-                "s": ""
+                "w": "신의",
+                "p": "sinui",
+                "d": "divine",
+                "s": "그는 나에게 신의 축복을 빌어주었다. (He prayed God to bless me.)"
             },
             {
                 "id": "ko-1368",
-                "w": "그랬어요",
-                "p": "geuraesseoyo",
-                "d": "I did",
-                "s": ""
+                "w": "말했잖아",
+                "p": "malhaetjana",
+                "d": "to speak, to talk",
+                "s": "어제 일은 미안하다고 말하고 싶어요. — 괜찮아요. 아나. (I want to say I’m sorry for yesterday. — It’s okay, Anna.)"
             },
             {
                 "id": "ko-1369",
-                "w": "더는",
-                "p": "deoneun",
-                "d": "no more",
-                "s": ""
+                "w": "말했어",
+                "p": "malhaesseo",
+                "d": "to speak, to talk",
+                "s": "네가 고양이 알레르기가 있다는 걸 톰이 나한테 말했어. (Tom told me you were allergic to cats.)"
             },
             {
                 "id": "ko-1370",
-                "w": "죽지",
-                "p": "jukji",
-                "d": "shoulder blade; scapula",
-                "s": ""
+                "w": "돌아갈",
+                "p": "doragal",
+                "d": "to return, to go back",
+                "s": "나는 보스턴으로 돌아갈 계획이 없어. (I don't plan to go back to Boston.)"
             },
             {
                 "id": "ko-1371",
-                "w": "녀석",
-                "p": "nyeoseok",
-                "d": "dude, fellow; endearing term for usually young boys, similar to squirt or scamp",
-                "s": ""
+                "w": "한번도",
+                "p": "hanbeondo",
+                "d": "sometime",
+                "s": "톰이 말하길 메리는 저런 것을 한번도 한 적이 없대. (Tom said that Mary has never done that.)"
             },
             {
                 "id": "ko-1372",
-                "w": "몰랐어",
-                "p": "mollasseo",
-                "d": "I didn't know",
-                "s": ""
+                "w": "긴",
+                "p": "gin",
+                "d": "to be long",
+                "s": "메리는 톰의 자켓에서 긴 금발 머리카락 한올을 발견했다. (Mary found a long blonde hair on Tom's jacket.)"
             },
             {
                 "id": "ko-1373",
-                "w": "리",
-                "p": "ri",
-                "d": "Lee",
-                "s": ""
+                "w": "움직이지",
+                "p": "umjigiji",
+                "d": "to move",
+                "s": "내가 돌아올 때까지 움직이지 마라. (Don't move till I get back.)"
             },
             {
                 "id": "ko-1374",
-                "w": "뭐라",
-                "p": "mwora",
-                "d": "What",
-                "s": ""
+                "w": "착한",
+                "p": "chakan",
+                "d": "to be good-hearted",
+                "s": "부자인데 착한 게 아니라, 부자라서 착한 것이다. (I'm not nice even though I'm rich; I'm nice because I'm rich.)"
             },
             {
                 "id": "ko-1375",
-                "w": "박사",
-                "p": "baksa",
-                "d": "doctorate, Ph.D. (Doctor of Philosophy); doctor (recipient of a doctorate)",
-                "s": ""
+                "w": "일이지",
+                "p": "iriji",
+                "d": "one or two",
+                "s": "그 일이 일어난 이유를 톰이 알고 있다고는 생각하지 않아. (I don't think that Tom knows why it happened.)"
             },
             {
                 "id": "ko-1376",
-                "w": "죽였어",
-                "p": "jugyeosseo",
-                "d": "I killed it",
-                "s": ""
+                "w": "쓰지",
+                "p": "sseuji",
+                "d": "to wear, to put on",
+                "s": "사미는 레일라가 왜 히잡을 쓰지 않기로 했는지 알고 싶어 했다. (Sami wanted to know why Layla decided to take off the hijab.)"
             },
             {
                 "id": "ko-1377",
-                "w": "믿고",
-                "p": "mitgo",
-                "d": "believe it",
-                "s": ""
+                "w": "곳",
+                "p": "got",
+                "d": "place",
+                "s": "타는 곳 5번에서 아무 열차나 타세요. (Take any train from platform 5.)"
             },
             {
                 "id": "ko-1378",
-                "w": "좋네요",
-                "p": "jonneyo",
-                "d": "It's good",
-                "s": ""
+                "w": "도와주세요",
+                "p": "dowajuseyo",
+                "d": "to help",
+                "s": "도와주세요! (Please help!)"
             },
             {
                 "id": "ko-1379",
-                "w": "여기까지",
-                "p": "yeogikkaji",
-                "d": "Until here",
-                "s": ""
+                "w": "그러죠",
+                "p": "geureojyo",
+                "d": "to do so",
+                "s": "간다고 그랬는데. (He said he would go, but...)"
             },
             {
                 "id": "ko-1380",
-                "w": "이쪽은",
-                "p": "ijjogeun",
-                "d": "This is",
-                "s": ""
+                "w": "거니까",
+                "p": "geonikka",
+                "d": "to hang, to suspend",
+                "s": "시계를 벽에 걸다. (Hang a clock on the wall.)"
             },
             {
                 "id": "ko-1381",
-                "w": "사람들에게",
-                "p": "saramdeurege",
-                "d": "to people",
+                "w": "곁에",
+                "p": "gyeote",
+                "d": "alongside, beside, by",
                 "s": ""
             },
             {
                 "id": "ko-1382",
-                "w": "아빠를",
-                "p": "appareul",
-                "d": "Dad",
-                "s": ""
+                "w": "그녀에게",
+                "p": "geunyeoege",
+                "d": "girlfriend",
+                "s": "나는 처음에는 그녀에게 매력을 느끼지 않았다. (I wasn't attracted to her at first.)"
             },
             {
                 "id": "ko-1383",
-                "w": "어려운",
-                "p": "eoryeoun",
-                "d": "to be difficult, to be hard; to be difficult, to be awkward, to be particular (e.g. a person's taste in food)",
-                "s": ""
+                "w": "그러는",
+                "p": "geureoneun",
+                "d": "to do so",
+                "s": "왜 그러는 거야? (What are you doing that for?)"
             },
             {
                 "id": "ko-1384",
-                "w": "봤는데",
-                "p": "bwanneunde",
-                "d": "I saw it",
-                "s": ""
+                "w": "머리에",
+                "p": "meorie",
+                "d": "head",
+                "s": "머리 보호를 위해서 헬멧을 써야 한다. (You have to wear a helmet to protect your head.)"
             },
             {
                 "id": "ko-1385",
-                "w": "적은",
-                "p": "jeogeun",
-                "d": "present determiner of 적다 (jeokda)",
-                "s": ""
+                "w": "확인해",
+                "p": "hwaginhae",
+                "d": "to confirm",
+                "s": "일정은 아래의 첨부파일을 확인해 주십시오. (Please see the attachment below for the schedule.)"
             },
             {
                 "id": "ko-1386",
-                "w": "법을",
-                "p": "beobeul",
-                "d": "the law",
-                "s": ""
+                "w": "싶어서",
+                "p": "sipeoseo",
+                "d": "to be desirous of",
+                "s": "이런 늦은 시간에 미안해. 목소리 듣고 싶어서 전화를 걸어버렸네. (I'm sorry for calling so late. I just wanted to hear your voice.)"
             },
             {
                 "id": "ko-1387",
-                "w": "모르겠다",
-                "p": "moreugetda",
-                "d": "I don't know",
-                "s": ""
+                "w": "데이트",
+                "p": "deiteu",
+                "d": "date",
+                "s": "톰은 마침내 용기를 내어 메리에게 데이트 신청을 했다. (Tom finally mustered up the courage to ask Mary to go out with him.)"
             },
             {
                 "id": "ko-1388",
-                "w": "신이",
-                "p": "sini",
-                "d": "god",
-                "s": ""
+                "w": "사고",
+                "p": "sago",
+                "d": "an accident",
+                "s": "메리는 아마 톰에게 그녀가 뭘 사고 싶은지 이야기 할 것이다. (Mary will probably tell Tom what she wants to buy.)"
             },
             {
                 "id": "ko-1389",
-                "w": "그렇고",
-                "p": "geureoko",
-                "d": "to be thus, in that way; to be correct",
-                "s": ""
+                "w": "세상",
+                "p": "sesang",
+                "d": "world",
+                "s": "세상 참 좁네요! (Such a small world!)"
             },
             {
                 "id": "ko-1390",
-                "w": "관심",
-                "p": "gwansim",
-                "d": "interest in, or inclination to, a topic or activity",
+                "w": "감사해요",
+                "p": "gamsahaeyo",
+                "d": "to be thankful",
                 "s": ""
             },
             {
                 "id": "ko-1391",
-                "w": "집이",
-                "p": "jibi",
-                "d": "The house",
-                "s": ""
+                "w": "책을",
+                "p": "chaegeul",
+                "d": "book",
+                "s": "도서관에서 빌렸던 책은 반납하고, 다시 새로운 책을 빌려왔어. (I returned the books I borrowed from the library, and I borrowed some new ones.)"
             },
             {
                 "id": "ko-1392",
-                "w": "오직",
-                "p": "ojik",
-                "d": "only, solely, alone, exclusively, but",
-                "s": ""
+                "w": "배",
+                "p": "bae",
+                "d": "abdomen, belly",
+                "s": "다니엘이 발이 걸려서 배 밖으로 떨어졌어. (Daniel tripped and fell overboard.)"
             },
             {
                 "id": "ko-1393",
-                "w": "좋아해요",
-                "p": "joahaeyo",
-                "d": "I like it",
-                "s": ""
+                "w": "젊은",
+                "p": "jeolmeun",
+                "d": "to be young",
+                "s": "늙은 피와 젊은 피, 우리 모두 마지막 크루즈에 있다. (Old and young, we are all on our last cruise.)"
             },
             {
                 "id": "ko-1394",
-                "w": "있었습니다",
-                "p": "isseotseumnida",
-                "d": "There was",
-                "s": ""
+                "w": "아닌가",
+                "p": "aninga",
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
                 "id": "ko-1395",
-                "w": "나은",
-                "p": "naeun",
-                "d": "better",
-                "s": ""
+                "w": "좋겠어요",
+                "p": "jokesseoyo",
+                "d": "to be good",
+                "s": "일본에 갈 수 있었으면 좋겠어요. (I wish I could go to Japan.)"
             },
             {
                 "id": "ko-1396",
-                "w": "않아도",
-                "p": "anado",
-                "d": "Even if you don't have to",
-                "s": ""
+                "w": "비행기",
+                "p": "bihaenggi",
+                "d": "airplane",
+                "s": "한국까지 비행기 표가 얼마쯤 해요? (How much is a plane ticket to South Korea?)"
             },
             {
                 "id": "ko-1397",
-                "w": "나면",
-                "p": "namyeon",
-                "d": "to be born; to appear, arise, occur, take place",
-                "s": ""
+                "w": "하잖아",
+                "p": "hajana",
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
             },
             {
                 "id": "ko-1398",
-                "w": "옛날",
-                "p": "yennal",
-                "d": "the past; long ago; once upon a time",
-                "s": ""
+                "w": "없소",
+                "p": "eopso",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
                 "id": "ko-1399",
-                "w": "얘가",
-                "p": "yaega",
-                "d": "This guy",
-                "s": ""
+                "w": "애들은",
+                "p": "aedeureun",
+                "d": "child, kid",
+                "s": "내가 어렸을 적에 근방의 애들은 전부 연을 날리곤 했어. (When I was young, all the kids in the neighborhood used to fly kites.)"
             },
             {
                 "id": "ko-1400",
-                "w": "식으로",
-                "p": "sigeuro",
-                "d": "in this way",
-                "s": ""
+                "w": "오늘밤",
+                "p": "oneulbam",
+                "d": "tonight",
+                "s": "오늘밤 톰이 여기 없을 거라고 확신한다. (I'm sure Tom won't be here tonight.)"
             },
             {
                 "id": "ko-1401",
-                "w": "그걸로",
-                "p": "geugeollo",
-                "d": "With that",
-                "s": ""
+                "w": "고맙다",
+                "p": "gomapda",
+                "d": "thankful",
+                "s": "서둘러 주시면 고맙겠소이다. (I'd appreciate it if you'd hurry up about it.)"
             },
             {
                 "id": "ko-1402",
-                "w": "냄새가",
-                "p": "naemsaega",
-                "d": "it smells",
-                "s": ""
+                "w": "라는",
+                "p": "raneun",
+                "d": "la",
+                "s": "2 더하기 2는 4라는 것을 모두 알고 있어. (Everyone knows two plus two equals four.)"
             },
             {
                 "id": "ko-1403",
-                "w": "못하는",
-                "p": "motaneun",
-                "d": "can't",
-                "s": ""
+                "w": "언젠가",
+                "p": "eonjenga",
+                "d": "at some time",
+                "s": "톰은 언젠가 돈도 많고 유명해지길 바란다. (Tom hopes to be rich and famous someday.)"
             },
             {
                 "id": "ko-1404",
-                "w": "인간",
-                "p": "ingan",
-                "d": "human, human being; fellow, guy",
-                "s": ""
+                "w": "필요할",
+                "p": "piryohal",
+                "d": "to have a need",
+                "s": "톰은 도움이 좀 필요할 거야. (Tom is going to need some support.)"
             },
             {
                 "id": "ko-1405",
-                "w": "세상이",
-                "p": "sesangi",
-                "d": "the world",
-                "s": ""
+                "w": "아이들을",
+                "p": "aideureul",
+                "d": "children",
+                "s": "아이들 모두 어두워지기 전에 침대에 갔었어. (All of the children had gone to bed before it got dark.)"
             },
             {
                 "id": "ko-1406",
-                "w": "책",
-                "p": "chaek",
-                "d": "book",
-                "s": ""
+                "w": "우리와",
+                "p": "uriwa",
+                "d": "we, us",
+                "s": "그녀는 우리와 함께 가고 싶다고 나에게 말했다. (She told me she wants to go with us.)"
             },
             {
                 "id": "ko-1407",
-                "w": "모두에게",
-                "p": "moduege",
-                "d": "to everyone",
-                "s": ""
+                "w": "머리가",
+                "p": "meoriga",
+                "d": "head",
+                "s": "어제 술을 너무 많이 마셔서 오늘 머리가 깨질 것처럼 아파요. (I drank so much alcohol yesterday that my head feels like it will explode.)"
             },
             {
                 "id": "ko-1408",
-                "w": "말해줘",
-                "p": "malhaejwo",
-                "d": "tell me",
-                "s": ""
+                "w": "그것이",
+                "p": "geugeosi",
+                "d": "that",
+                "s": "그것이 무엇이었는지는 확신할 수는 없지만, 그것은 총소리처럼 들렸다. (I'm not sure what it was, but it sounded like a gunshot.)"
             },
             {
                 "id": "ko-1409",
-                "w": "처음으로",
-                "p": "cheoeumeuro",
-                "d": "for the first time",
-                "s": ""
+                "w": "세계",
+                "p": "segye",
+                "d": "the world, the Earth",
+                "s": "세계 인구의 3분의 1 이상이 해안 근처에 살고 있습니다. (More than a third of the world population lives near a coast.)"
             },
             {
                 "id": "ko-1410",
-                "w": "그러게",
-                "p": "geureoge",
-                "d": "That's right",
-                "s": ""
+                "w": "애는",
+                "p": "aeneun",
+                "d": "anxiety",
+                "s": "이 애는 내 아기다. (This is my baby.)"
             },
             {
                 "id": "ko-1411",
-                "w": "실제로",
-                "p": "siljero",
-                "d": "in fact, in practice",
-                "s": ""
+                "w": "죽여",
+                "p": "jugyeo",
+                "d": "to kill, to cause to die",
+                "s": "제발 날 죽여 줘. (Please kill me.)"
             },
             {
                 "id": "ko-1412",
-                "w": "제임스",
-                "p": "jeimseu",
-                "d": "james",
-                "s": ""
+                "w": "차가",
+                "p": "chaga",
+                "d": "your wife`s original home",
+                "s": "차가 있으면서 왜 걸어다니십니까? (Why do you walk when you have a car?)"
             },
             {
                 "id": "ko-1413",
-                "w": "데려다",
-                "p": "deryeoda",
-                "d": "take me",
-                "s": ""
+                "w": "죽고",
+                "p": "jukgo",
+                "d": "to die",
+                "s": "모두 천국에 가고 싶어 하나, 누구도 죽고 싶어 하지 않는다. (Everyone wants to go to heaven, but nobody wants to die.)"
             },
             {
                 "id": "ko-1414",
-                "w": "크리스마스",
-                "p": "keuriseumaseu",
-                "d": "christmas",
+                "w": "따라와",
+                "p": "ttarawa",
+                "d": "to follow, to come after",
                 "s": ""
             },
             {
                 "id": "ko-1415",
-                "w": "보기",
-                "p": "bogi",
-                "d": "view",
-                "s": ""
-            },
-            {
-                "id": "ko-1416",
-                "w": "신의",
-                "p": "sinui",
-                "d": "God's",
-                "s": ""
-            },
-            {
-                "id": "ko-1417",
-                "w": "말했잖아",
-                "p": "malhaetjana",
-                "d": "I told you",
-                "s": ""
-            },
-            {
-                "id": "ko-1418",
-                "w": "말했어",
-                "p": "malhaesseo",
-                "d": "I said",
-                "s": ""
-            },
-            {
-                "id": "ko-1419",
-                "w": "돌아갈",
-                "p": "doragal",
-                "d": "go back",
-                "s": ""
-            },
-            {
-                "id": "ko-1420",
-                "w": "한번도",
-                "p": "hanbeondo",
-                "d": "never once",
-                "s": ""
-            },
-            {
-                "id": "ko-1421",
-                "w": "긴",
-                "p": "gin",
-                "d": "attributive form of 길다 (gilda, “long”)",
-                "s": ""
-            },
-            {
-                "id": "ko-1422",
-                "w": "움직이지",
-                "p": "umjigiji",
-                "d": "Don't move",
-                "s": ""
-            },
-            {
-                "id": "ko-1423",
-                "w": "착한",
-                "p": "chakhan",
-                "d": "to be good-hearted, to be kind, to be nice; to be good, to be pleasing",
-                "s": ""
-            },
-            {
-                "id": "ko-1424",
-                "w": "일이지",
-                "p": "iriji",
-                "d": "It's work",
-                "s": ""
-            },
-            {
-                "id": "ko-1425",
-                "w": "쓰지",
-                "p": "sseuji",
-                "d": "Write it",
-                "s": ""
-            },
-            {
-                "id": "ko-1426",
-                "w": "곳",
-                "p": "got",
-                "d": "place",
-                "s": ""
-            },
-            {
-                "id": "ko-1427",
-                "w": "도와주세요",
-                "p": "dowajuseyo",
-                "d": "please help",
-                "s": ""
-            },
-            {
-                "id": "ko-1428",
-                "w": "그러죠",
-                "p": "geureojyo",
-                "d": "Of course",
-                "s": ""
-            },
-            {
-                "id": "ko-1429",
-                "w": "거니까",
-                "p": "geonikka",
-                "d": "Because it is",
-                "s": ""
-            },
-            {
-                "id": "ko-1430",
-                "w": "곁에",
-                "p": "gyeote",
-                "d": "next to",
-                "s": ""
-            },
-            {
-                "id": "ko-1431",
-                "w": "그녀에게",
-                "p": "geunyeoege",
-                "d": "to her",
-                "s": ""
-            },
-            {
-                "id": "ko-1432",
-                "w": "그러는",
-                "p": "geureoneun",
-                "d": "to do so; to do it; to say so",
-                "s": ""
-            },
-            {
-                "id": "ko-1433",
-                "w": "머리에",
-                "p": "meorie",
-                "d": "on the head",
-                "s": ""
-            },
-            {
-                "id": "ko-1434",
-                "w": "확인해",
-                "p": "hwaginhae",
-                "d": "Check it out",
-                "s": ""
-            },
-            {
-                "id": "ko-1435",
-                "w": "싶어서",
-                "p": "sipeoseo",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
-            },
-            {
-                "id": "ko-1436",
-                "w": "것들을",
-                "p": "geotdeureul",
-                "d": "things",
-                "s": ""
-            },
-            {
-                "id": "ko-1437",
-                "w": "데이트",
-                "p": "deiteu",
-                "d": "date (pre-arranged social meeting, meeting with a lover or a potential lover)",
-                "s": ""
-            },
-            {
-                "id": "ko-1438",
-                "w": "사고",
-                "p": "sago",
-                "d": "accident",
-                "s": ""
-            },
-            {
-                "id": "ko-1439",
-                "w": "한거야",
-                "p": "hangeoya",
-                "d": "I did it",
-                "s": ""
-            },
-            {
-                "id": "ko-1440",
-                "w": "세상",
-                "p": "sesang",
-                "d": "world",
-                "s": ""
-            },
-            {
-                "id": "ko-1441",
-                "w": "감사해요",
-                "p": "gamsahaeyo",
-                "d": "Thank you",
-                "s": ""
-            },
-            {
-                "id": "ko-1442",
-                "w": "책을",
-                "p": "chaegeul",
-                "d": "a book",
-                "s": ""
-            },
-            {
-                "id": "ko-1443",
-                "w": "배",
-                "p": "bae",
-                "d": "abdomen, belly (of a human or animal); abdomen (of an arthropod)",
-                "s": ""
-            },
-            {
-                "id": "ko-1444",
-                "w": "젊은",
-                "p": "jeolmeun",
-                "d": "young",
-                "s": ""
-            },
-            {
-                "id": "ko-1445",
-                "w": "가자고",
-                "p": "gajago",
-                "d": "Let's go",
-                "s": ""
-            },
-            {
-                "id": "ko-1446",
-                "w": "아닌가",
-                "p": "aninga",
-                "d": "Isn't it?",
-                "s": ""
-            },
-            {
-                "id": "ko-1447",
-                "w": "좋겠어요",
-                "p": "jokesseoyo",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
-            },
-            {
-                "id": "ko-1448",
-                "w": "비행기",
-                "p": "bihaenggi",
-                "d": "airplane",
-                "s": ""
-            },
-            {
-                "id": "ko-1449",
-                "w": "맥스",
-                "p": "maekseu",
-                "d": "max",
-                "s": ""
-            },
-            {
-                "id": "ko-1450",
-                "w": "하잖아",
-                "p": "hajana",
-                "d": "You say it",
-                "s": ""
-            },
-            {
-                "id": "ko-1451",
-                "w": "없소",
-                "p": "eopso",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-1452",
-                "w": "애들은",
-                "p": "aedeureun",
-                "d": "The kids",
-                "s": ""
-            },
-            {
-                "id": "ko-1453",
-                "w": "오늘밤",
-                "p": "oneulbam",
-                "d": "tonight",
-                "s": ""
-            },
-            {
-                "id": "ko-1454",
-                "w": "고맙다",
-                "p": "gomapda",
-                "d": "thankful",
-                "s": ""
-            },
-            {
-                "id": "ko-1455",
-                "w": "라는",
-                "p": "raneun",
-                "d": "called",
-                "s": ""
-            },
-            {
-                "id": "ko-1456",
-                "w": "언젠가",
-                "p": "eonjenga",
-                "d": "at some time (in the past or future); at any time",
-                "s": ""
-            },
-            {
-                "id": "ko-1457",
-                "w": "필요할",
-                "p": "piryohal",
-                "d": "to have a need; to be necessary, to be needed",
-                "s": ""
-            },
-            {
-                "id": "ko-1458",
-                "w": "아이들을",
-                "p": "aideureul",
-                "d": "children",
-                "s": ""
-            },
-            {
-                "id": "ko-1459",
-                "w": "우리와",
-                "p": "uriwa",
-                "d": "with us",
-                "s": ""
-            },
-            {
-                "id": "ko-1460",
-                "w": "머리가",
-                "p": "meoriga",
-                "d": "head",
-                "s": ""
-            },
-            {
-                "id": "ko-1461",
-                "w": "그것이",
-                "p": "geugeosi",
-                "d": "that is",
-                "s": ""
-            },
-            {
-                "id": "ko-1462",
-                "w": "세계",
-                "p": "segye",
-                "d": "the world, the Earth; The World (Tarot card)",
-                "s": ""
-            },
-            {
-                "id": "ko-1463",
-                "w": "애는",
-                "p": "aeneun",
-                "d": "The kid",
-                "s": ""
-            },
-            {
-                "id": "ko-1464",
-                "w": "죽여",
-                "p": "jugyeo",
-                "d": "kill it",
-                "s": ""
-            },
-            {
-                "id": "ko-1465",
-                "w": "차가",
-                "p": "chaga",
-                "d": "The car",
-                "s": ""
-            },
-            {
-                "id": "ko-1466",
-                "w": "죽고",
-                "p": "jukgo",
-                "d": "die",
-                "s": ""
-            },
-            {
-                "id": "ko-1467",
-                "w": "따라와",
-                "p": "ttarawa",
-                "d": "Follow me",
-                "s": ""
-            },
-            {
-                "id": "ko-1468",
                 "w": "힘이",
                 "p": "himi",
                 "d": "strength",
-                "s": ""
+                "s": "그 일은 많은 힘이 필요하다. (That job takes a lot of strength.)"
             },
             {
-                "id": "ko-1469",
+                "id": "ko-1416",
                 "w": "확실해",
                 "p": "hwaksilhae",
-                "d": "I'm sure",
-                "s": ""
+                "d": "to be certain or definite",
+                "s": "그 사람이 이제 날 싫어하는 것이 확실해. (I bet he hates me now.)"
             },
             {
-                "id": "ko-1470",
+                "id": "ko-1417",
                 "w": "기억해",
                 "p": "gieokae",
-                "d": "remember",
-                "s": ""
+                "d": "to remember",
+                "s": "한때 인터넷이 얼마나 느렸었는지 기억해? (Do you remember how slow the Internet used to be?)"
             },
             {
-                "id": "ko-1471",
+                "id": "ko-1418",
                 "w": "있어도",
                 "p": "isseodo",
-                "d": "Even if",
-                "s": ""
+                "d": "to stay",
+                "s": "톰은 남아 있어도 돼. 너희 나머지는 나가야 해. (Tom is allowed to stay. The rest of you have to leave.)"
             },
             {
-                "id": "ko-1472",
+                "id": "ko-1419",
                 "w": "자네를",
                 "p": "janereul",
                 "d": "you",
                 "s": ""
             },
             {
-                "id": "ko-1473",
+                "id": "ko-1420",
                 "w": "오래된",
                 "p": "oraedoen",
-                "d": "old",
-                "s": ""
+                "d": "to be old",
+                "s": "지네가 오래된 돌벽의 틈새 사이로 슬쩍 기어들어왔다. (The centipede sneaked through the cracks of the old stone wall.)"
             },
             {
-                "id": "ko-1474",
+                "id": "ko-1421",
                 "w": "기억나",
                 "p": "gieongna",
-                "d": "I remember",
-                "s": ""
+                "d": "to recall",
+                "s": "우리 서로 처음 만났을 때 기억나? (Can you remember the first time we met each other?)"
             },
             {
-                "id": "ko-1475",
-                "w": "루시어스",
-                "p": "rusieoseu",
-                "d": "Lucius",
-                "s": ""
-            },
-            {
-                "id": "ko-1476",
+                "id": "ko-1422",
                 "w": "분은",
                 "p": "buneun",
-                "d": "The person",
-                "s": ""
+                "d": "bun",
+                "s": "제 이름은 스테판이고 이 분은 크리스티안입니다. (My name is Stephan and this is Christian.)"
             },
             {
-                "id": "ko-1477",
+                "id": "ko-1423",
                 "w": "얘기하고",
                 "p": "yaegihago",
-                "d": "talking",
-                "s": ""
+                "d": "to talk",
+                "s": "톰이 우리한테 뭔가 중요한걸 얘기하고 싶다는데. (Tom says he needs to talk to us about something important.)"
             },
             {
-                "id": "ko-1478",
+                "id": "ko-1424",
                 "w": "상관없어",
                 "p": "sanggwaneopseo",
-                "d": "to have nothing to do with something; to be OK, not to matter",
-                "s": ""
+                "d": "to have nothing to do with something",
+                "s": "내 이름이 무엇이든 상관없어. (It doesn't matter what my name is.)"
             },
             {
-                "id": "ko-1479",
+                "id": "ko-1425",
                 "w": "다섯",
                 "p": "daseot",
                 "d": "five",
-                "s": ""
+                "s": "하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열. (One, two, three, four, five, six, seven, eight, nine, ten.)"
             },
             {
-                "id": "ko-1480",
+                "id": "ko-1426",
                 "w": "이제는",
                 "p": "ijeneun",
-                "d": "now",
-                "s": ""
+                "d": "anymore",
+                "s": "톰은 이제는 게으른 소년이 아니다. (Tom is not an idle boy any longer.)"
             },
             {
-                "id": "ko-1481",
+                "id": "ko-1427",
                 "w": "없네요",
-                "p": "eomneyo",
-                "d": "There isn't any",
-                "s": ""
+                "p": "eopneyo",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
-                "id": "ko-1482",
+                "id": "ko-1428",
                 "w": "돌아가",
                 "p": "doraga",
-                "d": "go back",
-                "s": ""
+                "d": "to return, to go back",
+                "s": "너 빨리 집으로 돌아가. (You should go back home fast.)"
             },
             {
-                "id": "ko-1483",
+                "id": "ko-1429",
                 "w": "자리에",
                 "p": "jarie",
-                "d": "in place",
-                "s": ""
+                "d": "space, place, site",
+                "s": "자리에 앉아 주시기 바랍니다. (Please have a seat.)"
             },
             {
-                "id": "ko-1484",
+                "id": "ko-1430",
                 "w": "이만",
                 "p": "iman",
-                "d": "That's it",
-                "s": ""
+                "d": "this",
+                "s": "Tom이 \"Happy Birthday\" 노래를 부르기 시작했다. (Tom began to sing \"Happy Birthday.\")"
             },
             {
-                "id": "ko-1485",
+                "id": "ko-1431",
                 "w": "바랍니다",
                 "p": "baramnida",
-                "d": "please",
-                "s": ""
+                "d": "to wish",
+                "s": "문장에 틀렸거나 어색하다면 꼭 고쳐주시기 바랍니다! (Please edit the sentence if it is wrong or awkward.)"
             },
             {
-                "id": "ko-1486",
+                "id": "ko-1432",
                 "w": "느낌이",
                 "p": "neukkimi",
                 "d": "feeling",
-                "s": ""
+                "s": "요즘 톰이 나한테 차갑게 구는 것 같은 느낌이 들어. (Tom seems cold to me lately.)"
             },
             {
-                "id": "ko-1487",
+                "id": "ko-1433",
                 "w": "어머",
                 "p": "eomeo",
                 "d": "oh, my goodness",
-                "s": ""
+                "s": "어머, 부끄러워. (My goodness, how embarrassing.)"
             },
             {
-                "id": "ko-1488",
-                "w": "뭐든지",
-                "p": "mwodeunji",
-                "d": "whatever",
-                "s": ""
-            },
-            {
-                "id": "ko-1489",
+                "id": "ko-1434",
                 "w": "되요",
                 "p": "doeyo",
-                "d": "It works",
-                "s": ""
+                "d": "A unit of volume equivalent to about 1.8 L",
+                "s": "집 왜간을 다시 패인트 칠해도 되. (You can repaint the house exterior.)"
             },
             {
-                "id": "ko-1490",
+                "id": "ko-1435",
                 "w": "마약",
                 "p": "mayak",
                 "d": "drug, narcotic",
-                "s": ""
+                "s": "멕시코의 마약 카르텔은 수익이 나는 미국행 마약 거래 루트를 놓고 경쟁하고 있다. (Mexican drug cartels are vying over lucrative drug-trafficking routes to the U.S.)"
             },
             {
-                "id": "ko-1491",
+                "id": "ko-1436",
                 "w": "행운을",
                 "p": "haenguneul",
                 "d": "good luck",
-                "s": ""
+                "s": "그는 이웃주민의 행운을 부러워했다. (She was jealous of her neighbor's good fortune.)"
             },
             {
-                "id": "ko-1492",
+                "id": "ko-1437",
                 "w": "봐야",
                 "p": "bwaya",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "d": "to see",
+                "s": "나 내년에 입학시험을 봐야 돼. (I have to take the entrance exams next year.)"
             },
             {
-                "id": "ko-1493",
+                "id": "ko-1438",
                 "w": "선생님은",
                 "p": "seonsaengnimeun",
-                "d": "The teacher",
-                "s": ""
+                "d": "teacher",
+                "s": "선생님은 학생들을 심하게 꾸짖었다. (The teacher scolded his students severely.)"
             },
             {
-                "id": "ko-1494",
+                "id": "ko-1439",
                 "w": "줄은",
                 "p": "jureun",
-                "d": "The line is",
-                "s": ""
+                "d": "ability, method",
+                "s": "톰이 다시 보스턴으로 돌아올 줄은 생각지도 못했다. (I never thought Tom would come back to Boston again.)"
             },
             {
-                "id": "ko-1495",
+                "id": "ko-1440",
                 "w": "몰래",
                 "p": "mollae",
                 "d": "secretly, in secret",
-                "s": ""
+                "s": "몰래 만나다 (to have a secret meeting, to meet in secret)"
             },
             {
-                "id": "ko-1496",
+                "id": "ko-1441",
                 "w": "불쌍한",
                 "p": "bulssanghan",
-                "d": "poor",
-                "s": ""
+                "d": "pitiful",
+                "s": "그 사람이 혼자서 밥을 먹는 걸 보니 불쌍해요. (Seeing him eat alone makes me feel bad for him.)"
             },
             {
-                "id": "ko-1497",
+                "id": "ko-1442",
                 "w": "아니잖아요",
                 "p": "anijanayo",
-                "d": "That's not true",
-                "s": ""
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
-                "id": "ko-1498",
-                "w": "있거든요",
-                "p": "itgeodeunyo",
-                "d": "Because there is",
-                "s": ""
-            },
-            {
-                "id": "ko-1499",
+                "id": "ko-1443",
                 "w": "며칠",
                 "p": "myeochil",
-                "d": "how many days?; which day?, what date?",
-                "s": ""
+                "d": "how many days?",
+                "s": "며칠 전에 메추리알 삶은 거 좀 먹었어. (I ate some boiled quail eggs a few nights ago.)"
             },
             {
-                "id": "ko-1500",
-                "w": "저랑",
-                "p": "jeorang",
-                "d": "With me",
-                "s": ""
-            },
-            {
-                "id": "ko-1501",
+                "id": "ko-1444",
                 "w": "결코",
                 "p": "gyeolko",
                 "d": "at all",
-                "s": ""
+                "s": "나는 결코 너에게 말하지 않을 것이다. (I'll never tell you.)"
             },
             {
-                "id": "ko-1502",
+                "id": "ko-1445",
                 "w": "이걸로",
                 "p": "igeollo",
-                "d": "With this",
-                "s": ""
+                "d": "this",
+                "s": "히로시는 이것 재미 있을 것 같다고 말한다. (\"This looks pretty interesting,\" Hiroshi says.)"
             },
             {
-                "id": "ko-1503",
+                "id": "ko-1446",
                 "w": "안녕히",
                 "p": "annyeonghi",
-                "d": "Goodbye",
-                "s": ""
+                "d": "peacefully, in peace",
+                "s": "안녕히 계십시오. (Goodbye.)"
             },
             {
-                "id": "ko-1504",
+                "id": "ko-1447",
                 "w": "아이는",
                 "p": "aineun",
-                "d": "The child",
-                "s": ""
+                "d": "child, kid",
+                "s": "우린 아이는 없지만, 강아지 세 마리는 있어. (We don't have any kids, but we have three dogs.)"
             },
             {
-                "id": "ko-1505",
+                "id": "ko-1448",
                 "w": "자네의",
                 "p": "janeui",
-                "d": "your",
+                "d": "you",
                 "s": ""
             },
             {
-                "id": "ko-1506",
+                "id": "ko-1449",
                 "w": "입을",
                 "p": "ibeul",
-                "d": "mouth",
-                "s": ""
+                "d": "to wear, to put on",
+                "s": "파티에 입을 예쁜 걸 하나 사는 게 어때? (Why don't you go buy yourself something pretty to wear to the party?)"
             },
             {
-                "id": "ko-1507",
+                "id": "ko-1450",
                 "w": "근처에",
                 "p": "geuncheoe",
                 "d": "nearby",
-                "s": ""
+                "s": "세계 인구의 3분의 1 이상이 해안 근처에 살고 있습니다. (More than a third of the world population lives near a coast.)"
             },
             {
-                "id": "ko-1508",
+                "id": "ko-1451",
                 "w": "들은",
                 "p": "deureun",
-                "d": "heard",
-                "s": ""
+                "d": "to listen, to hear",
+                "s": "나는 내가 들은 걸 너에게 말해주는 것뿐이다. (I'm just telling you what I heard.)"
             },
             {
-                "id": "ko-1509",
-                "w": "뭐하는거야",
-                "p": "mwohaneungeoya",
-                "d": "what are you doing",
-                "s": ""
-            },
-            {
-                "id": "ko-1510",
+                "id": "ko-1452",
                 "w": "기다려요",
                 "p": "gidaryeoyo",
-                "d": "to wait for, to await; to look forward to",
-                "s": ""
+                "d": "to wait for, to await",
+                "s": "기다려 주시겠습니까? (Could you please wait?)"
             },
             {
-                "id": "ko-1511",
-                "w": "뭐라도",
-                "p": "mworado",
-                "d": "Anything",
-                "s": ""
-            },
-            {
-                "id": "ko-1512",
+                "id": "ko-1453",
                 "w": "않지만",
                 "p": "anchiman",
-                "d": "But",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰은 획기적이지는 않지만 좋은 영화는 잘 만든다. (Tom doesn't innovate, but he does make good movies.)"
             },
             {
-                "id": "ko-1513",
+                "id": "ko-1454",
                 "w": "배가",
                 "p": "baega",
-                "d": "hungry",
-                "s": ""
+                "d": "doubling",
+                "s": "기쁨은 나누면 배가 되고 슬픔은 나누면 반이 된다. (Happiness shared returns many-fold, sadness shared comes back halved.)"
             },
             {
-                "id": "ko-1514",
+                "id": "ko-1455",
                 "w": "뒤",
                 "p": "dwi",
-                "d": "back, latter, rear; afterwards, future, next",
-                "s": ""
+                "d": "back, latter, rear",
+                "s": "그 뒤로는 나는 그를 다시는 못 봤다. (I haven't seen him ever since.)"
             },
             {
-                "id": "ko-1515",
+                "id": "ko-1456",
                 "w": "어떡해",
                 "p": "eotteokae",
-                "d": "What should I do?",
-                "s": ""
+                "d": "what is one supposed to do",
+                "s": "어떡해! 그 남자가 날 사랑한대! 난 전혀 몰랐는데. (How! He loves me! I had never noticed.)"
             },
             {
-                "id": "ko-1516",
+                "id": "ko-1457",
                 "w": "몸",
                 "p": "mom",
-                "d": "body (of a human or animal)",
-                "s": ""
+                "d": "body",
+                "s": "우리 몸 속에는 칼륨이 들어 있다. (We have potassium in our bodies.)"
             },
             {
-                "id": "ko-1517",
+                "id": "ko-1458",
                 "w": "죽이지",
                 "p": "jugiji",
-                "d": "Kill me",
-                "s": ""
+                "d": "to kill, to cause to die",
+                "s": "제발, 절 죽이지 마세요. (Please, don't kill me.)"
             },
             {
-                "id": "ko-1518",
+                "id": "ko-1459",
                 "w": "가질",
                 "p": "gajil",
-                "d": "have",
-                "s": ""
+                "d": "to have, to possess",
+                "s": "너는 내 것을 가질 수 있다. (You can have mine.)"
             },
             {
-                "id": "ko-1519",
-                "w": "해주세요",
-                "p": "haejuseyo",
-                "d": "Please do it",
-                "s": ""
-            },
-            {
-                "id": "ko-1520",
+                "id": "ko-1460",
                 "w": "봐라",
                 "p": "bwara",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "d": "to see",
+                "s": "네가 나를 사랑하는 것 보다 내가 너를 더 사랑해. (I love you more than you love me.)"
             },
             {
-                "id": "ko-1521",
+                "id": "ko-1461",
                 "w": "어서요",
                 "p": "eoseoyo",
-                "d": "Come on",
-                "s": ""
+                "d": "quickly",
+                "s": "너 집으로 돌아가는 게 좋을 것 같아. 어서. (You should go back home, quickly.)"
             },
             {
-                "id": "ko-1522",
+                "id": "ko-1462",
                 "w": "어째서",
                 "p": "eojjaeseo",
                 "d": "why",
-                "s": ""
+                "s": "톰이 어째서 그렇게 화를 내고 있는 건지 모르겠어. (I don't know why Tom is so angry.)"
             },
             {
-                "id": "ko-1523",
+                "id": "ko-1463",
                 "w": "놓고",
                 "p": "noko",
-                "d": "let go",
-                "s": ""
+                "d": "to lay, put, set, place",
+                "s": "멕시코의 마약 카르텔은 수익이 나는 미국행 마약 거래 루트를 놓고 경쟁하고 있다. (Mexican drug cartels are vying over lucrative drug-trafficking routes to the U.S.)"
             },
             {
-                "id": "ko-1524",
+                "id": "ko-1464",
                 "w": "지금도",
                 "p": "jigeumdo",
-                "d": "Even now",
-                "s": ""
+                "d": "even now",
+                "s": "새미는 그의 아름다운 아내와 지금도 같이 살고 있다. (Sami is still living with his beautiful wife.)"
             },
             {
-                "id": "ko-1525",
+                "id": "ko-1465",
                 "w": "아나",
                 "p": "ana",
-                "d": "Ana",
-                "s": ""
+                "d": "virgin",
+                "s": "모쏠 아다 새끼 (loveless virgin loser)"
             },
             {
-                "id": "ko-1526",
+                "id": "ko-1466",
                 "w": "맞다",
                 "p": "matda",
-                "d": "That's right",
-                "s": ""
+                "d": "to be correct, right",
+                "s": "이 안경이 너에게 맞다. (Those glasses suit you.)"
             },
             {
-                "id": "ko-1527",
+                "id": "ko-1467",
                 "w": "좋네",
-                "p": "jonne",
-                "d": "Good",
-                "s": ""
+                "p": "jone",
+                "d": "to be good",
+                "s": "톰은 기분이 굉장히 좋네. (Tom is in a very good mood.)"
             },
             {
-                "id": "ko-1528",
+                "id": "ko-1468",
                 "w": "의해",
                 "p": "uihae",
-                "d": "by",
-                "s": ""
+                "d": "to be due to",
+                "s": "사회란 환자에 의해 운영되는 정신병원입니다. (Society is an insane asylum run by the inmates.)"
             },
             {
-                "id": "ko-1529",
+                "id": "ko-1469",
                 "w": "시간에",
                 "p": "sigane",
-                "d": "in time",
-                "s": ""
+                "d": "time",
+                "s": "이런 늦은 시간에 미안해. 목소리 듣고 싶어서 전화를 걸어버렸네. (I'm sorry for calling so late. I just wanted to hear your voice.)"
             },
             {
-                "id": "ko-1530",
+                "id": "ko-1470",
                 "w": "차라리",
                 "p": "charari",
-                "d": "preferably; rather (instead)",
-                "s": ""
+                "d": "preferably",
+                "s": "말하려 하지마. 차라리 에너지를 아껴. (Don't try to talk. Save your energy.)"
             },
             {
-                "id": "ko-1531",
+                "id": "ko-1471",
                 "w": "헨리",
                 "p": "helli",
-                "d": "henry",
-                "s": ""
+                "d": "a transliteration of the English male given name Henry",
+                "s": "제 이름은 헨리 입니다. (My name's Henry.)"
             },
             {
-                "id": "ko-1532",
+                "id": "ko-1472",
                 "w": "가끔은",
                 "p": "gakkeumeun",
-                "d": "Sometimes",
-                "s": ""
+                "d": "occasionally",
+                "s": "가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다. (Sometimes I wonder when the first world championship in cyberbullying will take place.)"
             },
             {
-                "id": "ko-1533",
+                "id": "ko-1473",
                 "w": "생각했어",
                 "p": "saenggakaesseo",
-                "d": "I thought",
-                "s": ""
+                "d": "to think",
+                "s": "나는 톰이 프랑스어를 공부하는 게 좋겠다고 생각했어. (I thought Tom should study French.)"
             },
             {
-                "id": "ko-1534",
+                "id": "ko-1474",
                 "w": "할아버지",
                 "p": "harabeoji",
-                "d": "grandfather; elderly male",
-                "s": ""
+                "d": "grandfather",
+                "s": "산타 할아버지, 크리스마스 선물로 여자친구를 받고 싶어요 (Santa Claus, I want to receive a girlfriend for Christmas.)"
             },
             {
-                "id": "ko-1535",
+                "id": "ko-1475",
                 "w": "덜",
                 "p": "deol",
                 "d": "less",
-                "s": ""
+                "s": "오늘은 어제보다 덜 추워요. (It is less cold today than yesterday.)"
             },
             {
-                "id": "ko-1536",
+                "id": "ko-1476",
                 "w": "곳은",
                 "p": "goseun",
-                "d": "The place is",
-                "s": ""
+                "d": "place",
+                "s": "톰 다친 곳은 그다지 심각하지 않네. (Tom's injuries aren't very serious.)"
             },
             {
-                "id": "ko-1537",
+                "id": "ko-1477",
                 "w": "남편",
                 "p": "nampyeon",
                 "d": "husband",
                 "s": ""
             },
             {
-                "id": "ko-1538",
+                "id": "ko-1478",
                 "w": "애들을",
                 "p": "aedeureul",
-                "d": "The kids",
-                "s": ""
+                "d": "child, kid",
+                "s": "아이 착하다. (You're a good boy.)"
             },
             {
-                "id": "ko-1539",
+                "id": "ko-1479",
                 "w": "구할",
                 "p": "guhal",
-                "d": "save",
-                "s": ""
+                "d": "to look for, to seek",
+                "s": "차표는 자동판매기에서도 구할 수 있습니다. (You can buy the ticket from the vending machine too.)"
             },
             {
-                "id": "ko-1540",
+                "id": "ko-1480",
                 "w": "싶은데",
                 "p": "sipeunde",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "d": "to be desirous of",
+                "s": "집에 가고 싶은데 집에 갈 수 없어. (I want to go home but I can't.)"
             },
             {
-                "id": "ko-1541",
+                "id": "ko-1481",
                 "w": "불",
                 "p": "bul",
                 "d": "fire",
-                "s": ""
+                "s": "폭풍이 불 것이라고 생각한다. (It seems that there will be a storm soon.)"
             },
             {
-                "id": "ko-1542",
+                "id": "ko-1482",
                 "w": "생일",
                 "p": "saengil",
                 "d": "birthday",
-                "s": ""
+                "s": "톰이 나한테 봉투를 내 생일 때까지 열지 말래. (Tom told me to not open the envelope up till it was my birthday.)"
             },
             {
-                "id": "ko-1543",
+                "id": "ko-1483",
                 "w": "저렇게",
                 "p": "jeoreoke",
                 "d": "like that",
                 "s": ""
             },
             {
-                "id": "ko-1544",
+                "id": "ko-1484",
                 "w": "돈은",
                 "p": "doneun",
                 "d": "money",
-                "s": ""
+                "s": "돈은 별로 없지만, 당신과 함께라서 행복해요. (You don't have much money but I'm happy because I'm with you.)"
             },
             {
-                "id": "ko-1545",
+                "id": "ko-1485",
                 "w": "아직은",
                 "p": "ajigeun",
-                "d": "Not yet",
-                "s": ""
+                "d": "still",
+                "s": "아직은 많은 것을 말해 줄 수는 없어. (I can't tell you much yet.)"
             },
             {
-                "id": "ko-1546",
+                "id": "ko-1486",
                 "w": "상태가",
                 "p": "sangtaega",
-                "d": "status",
+                "d": "condition, status",
                 "s": ""
             },
             {
-                "id": "ko-1547",
+                "id": "ko-1487",
                 "w": "위로",
                 "p": "wiro",
-                "d": "consolation, comfort, solace",
-                "s": ""
+                "d": "consolation",
+                "s": "이 엘리베이터는 6층 위로 가지 않는다. (This elevator does not go above the sixth floor.)"
             },
             {
-                "id": "ko-1548",
+                "id": "ko-1488",
                 "w": "가져",
                 "p": "gajyeo",
-                "d": "contraction of 가지다 (gajida)",
-                "s": ""
+                "d": "to have, to possess",
+                "s": "그냥 그거 가져. (Just keep it.)"
             },
             {
-                "id": "ko-1549",
-                "w": "얘긴",
-                "p": "yaegin",
-                "d": "The story",
-                "s": ""
-            },
-            {
-                "id": "ko-1550",
+                "id": "ko-1489",
                 "w": "안전한",
                 "p": "anjeonhan",
                 "d": "to be safe",
+                "s": "중국까지 안전한 여행 하세요! (Have a safe trip to China!)"
+            },
+            {
+                "id": "ko-1490",
+                "w": "실수를",
+                "p": "silsureul",
+                "d": "mistake",
+                "s": "단언컨대, 우린 그런 실수를 두 번 다시 하지 않을 거야. (I can assure you we'll never make that mistake again.)"
+            },
+            {
+                "id": "ko-1491",
+                "w": "미리",
+                "p": "miri",
+                "d": "beforehand, in advance",
                 "s": ""
             },
             {
+                "id": "ko-1492",
+                "w": "모를",
+                "p": "moreul",
+                "d": "to not know",
+                "s": "톰은 아마 어제 메리가 어디에 있었는지 모를 거야. (Tom probably doesn't know where Mary was yesterday.)"
+            },
+            {
+                "id": "ko-1493",
+                "w": "명이",
+                "p": "myeongi",
+                "d": "Counter for people",
+                "s": "이 기숙사에는 미국인 학생 두 명이 살고 있다. (Two American students live in this dorm.)"
+            },
+            {
+                "id": "ko-1494",
+                "w": "사랑에",
+                "p": "sarange",
+                "d": "love",
+                "s": "네가 젊고 사랑에 빠져있다면 세상은 아름다워 보일거야. (When you're young and you're in love, the world seems beautiful.)"
+            },
+            {
+                "id": "ko-1495",
+                "w": "갔어요",
+                "p": "gasseoyo",
+                "d": "to go",
+                "s": "마리아 씨가 의사를 만나러 갔어요. (Maria went to meet a doctor.)"
+            },
+            {
+                "id": "ko-1496",
+                "w": "갖다",
+                "p": "gatda",
+                "d": "to have, to possess",
+                "s": ""
+            },
+            {
+                "id": "ko-1497",
+                "w": "대화를",
+                "p": "daehwareul",
+                "d": "dialogue, conversation",
+                "s": "\"뭔가 필요하시나요?\" \"네, 대화를 좀 했으면 하는데요.\" (\"Do you need something?\" \"Yes, I need to talk to you.\")"
+            },
+            {
+                "id": "ko-1498",
+                "w": "하나는",
+                "p": "hananeun",
+                "d": "one",
+                "s": "나는 아들이 둘 있는데 하나는 도쿄에 있고 다른 하나는 나고야에 있다. (I have two sons; one is in Tokyo, and the other in Nagoya.)"
+            },
+            {
+                "id": "ko-1499",
+                "w": "벤",
+                "p": "ben",
+                "d": "to cut, to chop",
+                "s": ""
+            },
+            {
+                "id": "ko-1500",
+                "w": "지도",
+                "p": "jido",
+                "d": "map",
+                "s": "네가 맞을 지도 모르는데, 난 다른 의견을 갖고 있어. (You may be right, but I have a different view.)"
+            },
+            {
+                "id": "ko-1501",
+                "w": "가능성이",
+                "p": "ganeungseongi",
+                "d": "degree of possibility",
+                "s": "난 네가 못 이긴다고 말하는 게 아니야. 그냥 가능성이 낮다는 거야. (I'm not saying that you can't win. I'm just saying it's not likely.)"
+            },
+            {
+                "id": "ko-1502",
+                "w": "하는게",
+                "p": "haneunge",
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
+            },
+            {
+                "id": "ko-1503",
+                "w": "있는데요",
+                "p": "inneundeyo",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-1504",
+                "w": "실은",
+                "p": "sireun",
+                "d": "actually, in fact",
+                "s": "실은 나 외로웠어. (To tell the truth, I felt lonely.)"
+            },
+            {
+                "id": "ko-1505",
+                "w": "먹는",
+                "p": "meongneun",
+                "d": "to eat",
+                "s": "파스타를 후루룩 후루룩 소리를 내면서 먹는 것은 그만 둬. (Stop making that slurping noise when you eat your pasta.)"
+            },
+            {
+                "id": "ko-1506",
+                "w": "확인",
+                "p": "hwagin",
+                "d": "check",
+                "s": "빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다. (You can see this easily if you put a straw into a glass of water.)"
+            },
+            {
+                "id": "ko-1507",
+                "w": "심각한",
+                "p": "simgakan",
+                "d": "to be severe, profound",
+                "s": "톰은 자폐증과 심각한 우울증으로 진단받았어. (Tom was diagnosed with autism and severe depression.)"
+            },
+            {
+                "id": "ko-1508",
+                "w": "달라고",
+                "p": "dallago",
+                "d": "to beg or ask for something",
+                "s": "내 여동생은 아버지에게 새 자전거를 사 달라고 부탁했다. (My sister asked my father to buy her a new bicycle.)"
+            },
+            {
+                "id": "ko-1509",
+                "w": "것만",
+                "p": "geonman",
+                "d": "thing",
+                "s": "저는 오직 제가 아는 것만 말할 수 있습니다. (I can only tell you what I know.)"
+            },
+            {
+                "id": "ko-1510",
+                "w": "있기",
+                "p": "itgi",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-1511",
+                "w": "그와",
+                "p": "geuwa",
+                "d": "that",
+                "s": "그녀는 작은 아파트에서 그와 함께 살고 있어요. (She lives with him in a small apartment.)"
+            },
+            {
+                "id": "ko-1512",
+                "w": "모르죠",
+                "p": "moreujyo",
+                "d": "to not know",
+                "s": "우리 어디 가고 있는지 모르겠어. (I'm not sure where we're going.)"
+            },
+            {
+                "id": "ko-1513",
+                "w": "몰랐어요",
+                "p": "mollasseoyo",
+                "d": "to not know",
+                "s": "그건 몰랐어요. (I didn't know that.)"
+            },
+            {
+                "id": "ko-1514",
+                "w": "결정을",
+                "p": "gyeoljeongeul",
+                "d": "decision",
+                "s": "나는 그 결정을 나중에서야 후회했어. (I later regretted that decision.)"
+            },
+            {
+                "id": "ko-1515",
+                "w": "파티",
+                "p": "pati",
+                "d": "party",
+                "s": "너랑 같이 파티 갔으면 좋았을텐데 (I wish I could go to the party with you.)"
+            },
+            {
+                "id": "ko-1516",
+                "w": "날이",
+                "p": "nari",
+                "d": "day",
+                "s": "오늘은 재미있는 날이 될 줄 알고 있었다. (I knew that today would be fun.)"
+            },
+            {
+                "id": "ko-1517",
+                "w": "최악의",
+                "p": "choeagui",
+                "d": "the worst",
+                "s": "내가 우려했던 최악의 상황이 현실로 되었어. (My worst fears came true.)"
+            },
+            {
+                "id": "ko-1518",
+                "w": "많아요",
+                "p": "manayo",
+                "d": "many",
+                "s": "네, 그래요. 공기 중에 습기가 너무 많아요. (Yes, it is. There's a lot of moisture in the air.)"
+            },
+            {
+                "id": "ko-1519",
+                "w": "죄송하지만",
+                "p": "joesonghajiman",
+                "d": "to be sorry",
+                "s": "번거롭게 해 드려 죄송하지만, 저 좀 도와주시겠어요? (Sorry to trouble you, but can you help me?)"
+            },
+            {
+                "id": "ko-1520",
+                "w": "미스터",
+                "p": "miseuteo",
+                "d": "Mr, mister",
+                "s": ""
+            },
+            {
+                "id": "ko-1521",
+                "w": "평범한",
+                "p": "pyeongbeomhan",
+                "d": "average",
+                "s": "평범한 폭풍이 아니었다. (That was no ordinary storm.)"
+            },
+            {
+                "id": "ko-1522",
+                "w": "뜻이야",
+                "p": "tteusiya",
+                "d": "meaning",
+                "s": "\"룩\"이란 단어는 산스크리트어에서 유래했고, \"마차\"란 뜻이야. (The word \"rook\" comes from Sanskrit and means \"chariot\".)"
+            },
+            {
+                "id": "ko-1523",
+                "w": "올게",
+                "p": "olge",
+                "d": "this year",
+                "s": "빨리 갔다 올게. (I'll be right back.)"
+            },
+            {
+                "id": "ko-1524",
+                "w": "살인",
+                "p": "sarin",
+                "d": "murder, homicide",
+                "s": "그는 칼로 어머니를 공격한 살인 미수 혐의로 유죄 판결을 받았다. (He was found guilty of attempted murder for attacking his mother with a knife.)"
+            },
+            {
+                "id": "ko-1525",
+                "w": "있겠죠",
+                "p": "itgetjyo",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-1526",
+                "w": "들을",
+                "p": "deureul",
+                "d": "to listen, to hear",
+                "s": "너를 들을 수 있지만, 볼 수 없어요. (I can hear you, but I can't see you.)"
+            },
+            {
+                "id": "ko-1527",
+                "w": "믿어요",
+                "p": "mideoyo",
+                "d": "to trust, to believe",
+                "s": "하나님을 믿어요? (Do you believe in God?)"
+            },
+            {
+                "id": "ko-1528",
+                "w": "우선",
+                "p": "useon",
+                "d": "first, foremost",
+                "s": "우선 손부터 씻어. (Wash your hands first.)"
+            },
+            {
+                "id": "ko-1529",
+                "w": "마시고",
+                "p": "masigo",
+                "d": "to drink",
+                "s": "내가 부엌에서 물을 마시고 있어요. (I'm drinking water in the kitchen.)"
+            },
+            {
+                "id": "ko-1530",
+                "w": "당신들이",
+                "p": "dangsindeuri",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-1531",
+                "w": "자네도",
+                "p": "janedo",
+                "d": "you",
+                "s": ""
+            },
+            {
+                "id": "ko-1532",
+                "w": "혼자서",
+                "p": "honjaseo",
+                "d": "by himself",
+                "s": "난 이 노래를 좋아해. 내가 학생일 때 종종 혼자서 흥얼거리곤 했어. (I like this song. When I was a student, I often used to hum it to myself.)"
+            },
+            {
+                "id": "ko-1533",
+                "w": "심장",
+                "p": "simjang",
+                "d": "heart",
+                "s": "심장병(心臟病) (heart disease, cardiopathy)"
+            },
+            {
+                "id": "ko-1534",
+                "w": "좋은데",
+                "p": "joeunde",
+                "d": "to be good",
+                "s": "나는 네 고양이가 좋은데, 네 고양이는 나를 싫어하네. (I like your cat, but she doesn't like me.)"
+            },
+            {
+                "id": "ko-1535",
+                "w": "그들에게",
+                "p": "geudeurege",
+                "d": "they",
+                "s": "당신이 할 수 있는 일을 그들에게 보여줘라. (Show them what you can do.)"
+            },
+            {
+                "id": "ko-1536",
+                "w": "녀석이",
+                "p": "nyeoseogi",
+                "d": "dude, fellow",
+                "s": ""
+            },
+            {
+                "id": "ko-1537",
+                "w": "하면서",
+                "p": "hamyeonseo",
+                "d": "as, while, during",
+                "s": ""
+            },
+            {
+                "id": "ko-1538",
+                "w": "좋아하지",
+                "p": "joahaji",
+                "d": "to like something or someone",
+                "s": "나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아. (I don't like teachers who like students who don't like asking questions.)"
+            },
+            {
+                "id": "ko-1539",
+                "w": "너희가",
+                "p": "neohuiga",
+                "d": "you",
+                "s": "나는 내가 너희 모두를 믿을 수 있다는 것을 안다. (I know I can count on all of you.)"
+            },
+            {
+                "id": "ko-1540",
+                "w": "처음부터",
+                "p": "cheoeumbuteo",
+                "d": "abovo",
+                "s": ""
+            },
+            {
+                "id": "ko-1541",
+                "w": "심장이",
+                "p": "simjangi",
+                "d": "heart",
+                "s": "심장병(心臟病) (heart disease, cardiopathy)"
+            },
+            {
+                "id": "ko-1542",
+                "w": "보낼",
+                "p": "bonael",
+                "d": "to send, to dispatch",
+                "s": "프랑스어를 공부하며 2년을 보냈다. (I've been studying French for two years.)"
+            },
+            {
+                "id": "ko-1543",
+                "w": "가만",
+                "p": "gaman",
+                "d": "quietly",
+                "s": "가만 있어. (Stay.)"
+            },
+            {
+                "id": "ko-1544",
+                "w": "않는다면",
+                "p": "anneundamyeon",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "네가 톰을 도와주지 않는다면 톰은 어려움을 겪을 거야. (If you don't help Tom, he'll have trouble doing it.)"
+            },
+            {
+                "id": "ko-1545",
+                "w": "심장을",
+                "p": "simjangeul",
+                "d": "heart",
+                "s": "심장병(心臟病) (heart disease, cardiopathy)"
+            },
+            {
+                "id": "ko-1546",
+                "w": "갔다",
+                "p": "gatda",
+                "d": "to go",
+                "s": "톰은 지난 달에 오스트레일리아로 갔다. (Tom went to Australia last month.)"
+            },
+            {
+                "id": "ko-1547",
+                "w": "고양이",
+                "p": "goyangi",
+                "d": "cat",
+                "s": "내 강아지들은 톰이 키우는 고양이 중 한 마리를 죽였어. (My dogs killed one of Tom's cats.)"
+            },
+            {
+                "id": "ko-1548",
+                "w": "위치를",
+                "p": "wichireul",
+                "d": "location",
+                "s": "푸에르토리코의 위치를 지도 위에 보여주세요. (Show me where Puerto Rico is on the map.)"
+            },
+            {
+                "id": "ko-1549",
+                "w": "첫번째",
+                "p": "cheotbeonjjae",
+                "d": "the first one",
+                "s": "톰은 메리가 보스턴으로 이사 온 후 만난 첫번째 사람이다. (Tom was one the first people Mary met when she moved to Boston.)"
+            },
+            {
+                "id": "ko-1550",
+                "w": "생각도",
+                "p": "saenggakdo",
+                "d": "thought",
+                "s": "그걸 하는 것은 그리 좋은 생각 같진 않은데. (I don't think doing that would be such a good idea.)"
+            },
+            {
                 "id": "ko-1551",
-                "w": "실수를",
-                "p": "silsureul",
-                "d": "make a mistake",
+                "w": "동생",
+                "p": "dongsaeng",
+                "d": "younger sibling",
                 "s": ""
             },
             {
                 "id": "ko-1552",
-                "w": "미리",
-                "p": "miri",
-                "d": "in advance",
-                "s": ""
+                "w": "못했어",
+                "p": "mothaesseo",
+                "d": "cannot",
+                "s": "너에게 전화를 걸고 싶었는데, 너가 안 받을까봐 결국 전화 못했어. (I wanted to phone you, but I thought you wouldn't get it so I didn't phone you in the end.)"
             },
             {
                 "id": "ko-1553",
-                "w": "모를",
-                "p": "moreul",
-                "d": "I don't know",
-                "s": ""
+                "w": "않았다",
+                "p": "anatda",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰은 메리에게 왜 그가 늦게까지 일해야 했는지 알려주지 않았다. (Tom didn't tell Mary why he had to work late.)"
             },
             {
                 "id": "ko-1554",
-                "w": "명이",
-                "p": "myeongi",
-                "d": "Myeongseong",
-                "s": ""
+                "w": "내버려",
+                "p": "naebeoryeo",
+                "d": "to throw away",
+                "s": "너 정말 톰이 너한테 도움받도록 내버려 둘 것 같아? (Do you really think Tom will let you help him?)"
             },
             {
                 "id": "ko-1555",
-                "w": "사랑에",
-                "p": "sarange",
-                "d": "in love",
-                "s": ""
+                "w": "진심으로",
+                "p": "jinsimeuro",
+                "d": "wholehearted",
+                "s": "그가 곧 좋아지기를, 진심으로 바랍니다. (I hope with all my heart that he'll be better soon.)"
             },
             {
                 "id": "ko-1556",
-                "w": "전엔",
-                "p": "jeonen",
-                "d": "Before",
+                "w": "당연하죠",
+                "p": "dangyeonhajyo",
+                "d": "to be reasonable or natural",
                 "s": ""
             },
             {
                 "id": "ko-1557",
-                "w": "갔어요",
-                "p": "gasseoyo",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
+                "w": "번도",
+                "p": "beondo",
+                "d": "occasion, time",
+                "s": "톰은 친구들에게 고기를 먹은 적이 한 번도 없다고 했다. (Tom told his friends that he never ate meat.)"
             },
             {
                 "id": "ko-1558",
-                "w": "갖다",
-                "p": "gatda",
-                "d": "contraction of 가지다 (gajida)",
-                "s": ""
+                "w": "둘다",
+                "p": "dulda",
+                "d": "both",
+                "s": "나랑 톰 둘다 코미디 보는 것을 선호해. (Both Tom and I prefer watching comedies.)"
             },
             {
                 "id": "ko-1559",
-                "w": "대화를",
-                "p": "daehwareul",
-                "d": "conversation",
-                "s": ""
+                "w": "마침내",
+                "p": "machimnae",
+                "d": "finally",
+                "s": "톰은 마침내 용기를 내어 메리에게 데이트 신청을 했다. (Tom finally mustered up the courage to ask Mary to go out with him.)"
             },
             {
                 "id": "ko-1560",
-                "w": "하나는",
-                "p": "hananeun",
-                "d": "one is",
-                "s": ""
+                "w": "씨가",
+                "p": "ssiga",
+                "d": "seed, kernel",
+                "s": "진수 씨가 저를 도와주신 것을 감사하는 뜻으로 저녁에 초대하려고 해요. (I wanted to invite Mr. Jinsu this evening to thank him for helping me earlier.)"
             },
             {
                 "id": "ko-1561",
-                "w": "벤",
-                "p": "ben",
-                "d": "ben",
-                "s": ""
+                "w": "검은",
+                "p": "geomeun",
+                "d": "to be black",
+                "s": "그 검은 상자를 저와 함께 열어요. (Would you like to open that black box with me?)"
             },
             {
                 "id": "ko-1562",
-                "w": "지도",
-                "p": "jido",
-                "d": "map",
-                "s": ""
+                "w": "봐도",
+                "p": "bwado",
+                "d": "to see",
+                "s": "아무리 머리를 굴려 봐도 답이 안 나와. (I racked my brain and still could not come up with the answer.)"
             },
             {
                 "id": "ko-1563",
-                "w": "가능성이",
-                "p": "ganeungseongi",
-                "d": "likely",
-                "s": ""
+                "w": "적도",
+                "p": "jeokdo",
+                "d": "equator",
+                "s": "나는 너의 가장 친한 친구도 가장 나쁜 적도 될 수 있어. (I can be your best friend or your worst enemy.)"
             },
             {
                 "id": "ko-1564",
-                "w": "하는게",
-                "p": "haneunge",
-                "d": "Doing it",
-                "s": ""
+                "w": "아닐",
+                "p": "anil",
+                "d": "to not be",
+                "s": "나는 부자가 아닐 뿐더러 그렇게 되고 싶지도 않다. (I am not rich, nor do I wish to be.)"
             },
             {
                 "id": "ko-1565",
-                "w": "있는데요",
-                "p": "inneundeyo",
-                "d": "There is",
-                "s": ""
+                "w": "다리",
+                "p": "dari",
+                "d": "bridge",
+                "s": "물은 다리 밑으로 흐르고 있어. (The water flows under the bridge.)"
             },
             {
                 "id": "ko-1566",
-                "w": "실은",
-                "p": "sireun",
-                "d": "actually, in fact",
-                "s": ""
+                "w": "무기를",
+                "p": "mugireul",
+                "d": "weapon, arms",
+                "s": "우리는 무기를 찾지 못했다. (We didn't find a weapon.)"
             },
             {
                 "id": "ko-1567",
-                "w": "먹는",
-                "p": "meongneun",
-                "d": "eating",
-                "s": ""
+                "w": "주면",
+                "p": "jumyeon",
+                "d": "to give",
+                "s": "이거 봐 줄 수 있어? (Can you look over this for [me]?)"
             },
             {
                 "id": "ko-1568",
-                "w": "확인",
-                "p": "hwagin",
-                "d": "check; confirmation; verification; affirmation",
-                "s": ""
+                "w": "돌아",
+                "p": "dora",
+                "d": "to revolve",
+                "s": "너 언제 론돈에서 돌아 왔어죠? (When did you return from London?)"
             },
             {
                 "id": "ko-1569",
-                "w": "심각한",
-                "p": "simgakan",
-                "d": "serious",
-                "s": ""
+                "w": "뭔가가",
+                "p": "mwongaga",
+                "d": "what",
+                "s": "나는 뭔가가 잘못되었다고 생각했다. (I thought something was wrong.)"
             },
             {
                 "id": "ko-1570",
-                "w": "달라고",
-                "p": "dallago",
-                "d": "ask for it",
+                "w": "따로",
+                "p": "ttaro",
+                "d": "differently",
                 "s": ""
             },
             {
                 "id": "ko-1571",
-                "w": "것만",
-                "p": "geonman",
-                "d": "only",
-                "s": ""
+                "w": "없으니까",
+                "p": "eopseunikka",
+                "d": "to have none",
+                "s": "달에는 공기가 없으니까 소리도 전혀 없어. (Since there is no air on the moon, there is no sound at all.)"
             },
             {
                 "id": "ko-1572",
-                "w": "있기",
-                "p": "itgi",
-                "d": "There is",
-                "s": ""
+                "w": "어디야",
+                "p": "eodiya",
+                "d": "where",
+                "s": "지금 몇시라고 생각하는 거야? 이런 늦은 시각까지 어디 있었던 거야? (Do you realize what time it is? What were you up to at this time of night?)"
             },
             {
                 "id": "ko-1573",
-                "w": "그와",
-                "p": "geuwa",
-                "d": "with him",
+                "w": "끝까지",
+                "p": "kkeutkkaji",
+                "d": "to the very very end",
                 "s": ""
             },
             {
                 "id": "ko-1574",
-                "w": "형사님",
-                "p": "hyeongsanim",
-                "d": "Detective",
+                "w": "준비해",
+                "p": "junbihae",
+                "d": "to prepare",
                 "s": ""
             },
             {
                 "id": "ko-1575",
-                "w": "모르죠",
-                "p": "moreujyo",
-                "d": "I don't know",
-                "s": ""
+                "w": "카메라",
+                "p": "kamera",
+                "d": "camera",
+                "s": "이것은 좋은 카메라 이에요. (This is a nice camera.)"
             },
             {
                 "id": "ko-1576",
-                "w": "몰랐어요",
-                "p": "mollasseoyo",
-                "d": "I didn't know",
-                "s": ""
+                "w": "아무튼",
+                "p": "amuteun",
+                "d": "in any case",
+                "s": "아무튼 좋았겠다. (Anyway, that must have been good.)"
             },
             {
                 "id": "ko-1577",
-                "w": "결정을",
-                "p": "gyeoljeongeul",
-                "d": "make a decision",
-                "s": ""
+                "w": "죽으면",
+                "p": "jugeumyeon",
+                "d": "to die",
+                "s": "그는 이미 죽은 지 오래이다. (He is already long dead.)"
             },
             {
                 "id": "ko-1578",
-                "w": "파티",
-                "p": "pati",
-                "d": "party (social gathering)",
-                "s": ""
+                "w": "않죠",
+                "p": "anchyo",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "보통은 그런 식으로 돌아가지 않죠. (Usually, things don't work like that.)"
             },
             {
                 "id": "ko-1579",
-                "w": "날이",
-                "p": "nari",
-                "d": "the day",
-                "s": ""
+                "w": "만나",
+                "p": "manna",
+                "d": "to meet",
+                "s": "나랑 톰은 월요일마다 만나. (Tom and I meet every Monday.)"
             },
             {
                 "id": "ko-1580",
-                "w": "최악의",
-                "p": "choeagui",
-                "d": "worst",
-                "s": ""
+                "w": "않나",
+                "p": "anna",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그런 일을 내가 알 리 만무하지 않나? (There's no way I could know that, is there?)"
             },
             {
                 "id": "ko-1581",
-                "w": "많아요",
-                "p": "manayo",
-                "d": "many, much, a lot, plentiful",
-                "s": ""
+                "w": "아니라면",
+                "p": "aniramyeon",
+                "d": "is not , but rather",
+                "s": "난 여자친구를 갖고 싶은 게 아니라 사랑을 하고 싶은 거야. (It's not that I want a girlfriend, I just want to be in love.)"
             },
             {
                 "id": "ko-1582",
-                "w": "죄송하지만",
-                "p": "joesonghajiman",
-                "d": "Sorry but",
+                "w": "임마",
+                "p": "imma",
+                "d": "Hey you!",
                 "s": ""
             },
             {
                 "id": "ko-1583",
-                "w": "있었는지",
-                "p": "isseonneunji",
-                "d": "Was there",
-                "s": ""
+                "w": "중이에요",
+                "p": "jungieyo",
+                "d": "tympanum",
+                "s": "그냥 구경 중이에요. (I'm just browsing.)"
             },
             {
                 "id": "ko-1584",
-                "w": "미스터",
-                "p": "miseuteo",
-                "d": "Mr, mister (title)",
-                "s": ""
+                "w": "누군가를",
+                "p": "nugungareul",
+                "d": "somebody",
+                "s": "누군가를 너무도 많이 사랑하여 그것으로 울어 본 적이 있나요? (Have you ever loved somebody so much that it made you cry?)"
             },
             {
                 "id": "ko-1585",
-                "w": "평범한",
-                "p": "pyeongbeomhan",
-                "d": "ordinary",
-                "s": ""
+                "w": "있을지",
+                "p": "isseulji",
+                "d": "to stay",
+                "s": "우리가 당신의 요구를 충족시켜 드릴 수 있을지 모르겠네요. (I'm not quite sure if we can meet your requirements.)"
             },
             {
                 "id": "ko-1586",
-                "w": "뜻이야",
-                "p": "tteusiya",
-                "d": "It means",
-                "s": ""
+                "w": "돌아와",
+                "p": "dorawa",
+                "d": "to return, to come back",
+                "s": "즉시 돌아와. (Return immediately.)"
             },
             {
                 "id": "ko-1587",
-                "w": "올게",
-                "p": "olge",
-                "d": "I'll come",
-                "s": ""
+                "w": "돼서",
+                "p": "dwaeseo",
+                "d": "to become",
+                "s": "여러분께 프랑스어를 가르치게 돼서 기뻐요. (I'd be happy to teach you French.)"
             },
             {
                 "id": "ko-1588",
-                "w": "살인",
-                "p": "sarin",
-                "d": "murder, homicide",
-                "s": ""
+                "w": "들어갈",
+                "p": "deureogal",
+                "d": "to go into",
+                "s": "우리가 안으로 들어갈 수 있는지 보자. (Let's see if we can get inside.)"
             },
             {
                 "id": "ko-1589",
-                "w": "있겠죠",
-                "p": "itgetjyo",
-                "d": "There must be",
-                "s": ""
+                "w": "않지",
+                "p": "anchi",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
             },
             {
                 "id": "ko-1590",
-                "w": "들을",
-                "p": "deureul",
-                "d": "hear",
-                "s": ""
-            },
-            {
-                "id": "ko-1591",
-                "w": "믿어요",
-                "p": "mideoyo",
-                "d": "I believe it",
-                "s": ""
-            },
-            {
-                "id": "ko-1592",
-                "w": "우선",
-                "p": "useon",
-                "d": "First of all",
-                "s": ""
-            },
-            {
-                "id": "ko-1593",
-                "w": "마시고",
-                "p": "masigo",
-                "d": "to smash",
-                "s": ""
-            },
-            {
-                "id": "ko-1594",
-                "w": "당신들이",
-                "p": "dangsindeuri",
-                "d": "you guys",
-                "s": ""
-            },
-            {
-                "id": "ko-1595",
-                "w": "자네도",
-                "p": "janedo",
-                "d": "You too",
-                "s": ""
-            },
-            {
-                "id": "ko-1596",
-                "w": "혼자서",
-                "p": "honjaseo",
-                "d": "alone",
-                "s": ""
-            },
-            {
-                "id": "ko-1597",
-                "w": "심장",
-                "p": "simjang",
-                "d": "heart (an organ)",
-                "s": ""
-            },
-            {
-                "id": "ko-1598",
-                "w": "좋은데",
-                "p": "joeunde",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
-            },
-            {
-                "id": "ko-1599",
-                "w": "그런거",
-                "p": "geureongeo",
-                "d": "Something like that",
-                "s": ""
-            },
-            {
-                "id": "ko-1600",
-                "w": "그들에게",
-                "p": "geudeurege",
-                "d": "to them",
-                "s": ""
-            },
-            {
-                "id": "ko-1601",
-                "w": "녀석이",
-                "p": "nyeoseogi",
-                "d": "This guy",
-                "s": ""
-            },
-            {
-                "id": "ko-1602",
-                "w": "하면서",
-                "p": "hamyeonseo",
-                "d": "While",
-                "s": ""
-            },
-            {
-                "id": "ko-1603",
-                "w": "좋아하지",
-                "p": "joahaji",
-                "d": "I don't like it",
-                "s": ""
-            },
-            {
-                "id": "ko-1604",
-                "w": "너희가",
-                "p": "neohuiga",
-                "d": "you guys",
-                "s": ""
-            },
-            {
-                "id": "ko-1605",
-                "w": "처음부터",
-                "p": "cheoeumbuteo",
-                "d": "from the beginning",
-                "s": ""
-            },
-            {
-                "id": "ko-1606",
-                "w": "심장이",
-                "p": "simjangi",
-                "d": "heart",
-                "s": ""
-            },
-            {
-                "id": "ko-1607",
-                "w": "보낼",
-                "p": "bonael",
-                "d": "send",
-                "s": ""
-            },
-            {
-                "id": "ko-1608",
-                "w": "가만",
-                "p": "gaman",
-                "d": "Still",
-                "s": ""
-            },
-            {
-                "id": "ko-1609",
-                "w": "않는다면",
-                "p": "anneundamyeon",
-                "d": "If not",
-                "s": ""
-            },
-            {
-                "id": "ko-1610",
-                "w": "심장을",
-                "p": "simjangeul",
-                "d": "heart",
-                "s": ""
-            },
-            {
-                "id": "ko-1611",
-                "w": "자넬",
-                "p": "janel",
-                "d": "Janelle",
-                "s": ""
-            },
-            {
-                "id": "ko-1612",
-                "w": "뭐라구요",
-                "p": "mworaguyo",
-                "d": "What?",
-                "s": ""
-            },
-            {
-                "id": "ko-1613",
-                "w": "갔다",
-                "p": "gatda",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
-            },
-            {
-                "id": "ko-1614",
-                "w": "고양이",
-                "p": "goyangi",
-                "d": "cat",
-                "s": ""
-            },
-            {
-                "id": "ko-1615",
-                "w": "위치를",
-                "p": "wichireul",
-                "d": "location",
-                "s": ""
-            },
-            {
-                "id": "ko-1616",
-                "w": "첫번째",
-                "p": "cheotbeonjjae",
-                "d": "first",
-                "s": ""
-            },
-            {
-                "id": "ko-1617",
-                "w": "생각도",
-                "p": "saenggakdo",
-                "d": "Even thinking",
-                "s": ""
-            },
-            {
-                "id": "ko-1618",
-                "w": "동생",
-                "p": "dongsaeng",
-                "d": "younger sibling; friend who is somewhat younger",
-                "s": ""
-            },
-            {
-                "id": "ko-1619",
-                "w": "못했어",
-                "p": "motaesseo",
-                "d": "I couldn't do it",
-                "s": ""
-            },
-            {
-                "id": "ko-1620",
-                "w": "않았다",
-                "p": "anatda",
-                "d": "did",
-                "s": ""
-            },
-            {
-                "id": "ko-1621",
-                "w": "내버려",
-                "p": "naebeoryeo",
-                "d": "Leave it alone",
-                "s": ""
-            },
-            {
-                "id": "ko-1622",
-                "w": "진심으로",
-                "p": "jinsimeuro",
-                "d": "Sincerely",
-                "s": ""
-            },
-            {
-                "id": "ko-1623",
-                "w": "당연하죠",
-                "p": "dangyeonhajyo",
-                "d": "Of course",
-                "s": ""
-            },
-            {
-                "id": "ko-1624",
-                "w": "번도",
-                "p": "beondo",
-                "d": "Even",
-                "s": ""
-            },
-            {
-                "id": "ko-1625",
-                "w": "둘다",
-                "p": "dulda",
-                "d": "both",
-                "s": ""
-            },
-            {
-                "id": "ko-1626",
-                "w": "과장님",
-                "p": "gwajangnim",
-                "d": "Manager",
-                "s": ""
-            },
-            {
-                "id": "ko-1627",
-                "w": "중입니다",
-                "p": "jungimnida",
-                "d": "In progress",
-                "s": ""
-            },
-            {
-                "id": "ko-1628",
-                "w": "마침내",
-                "p": "machimnae",
-                "d": "finally; in the end.",
-                "s": ""
-            },
-            {
-                "id": "ko-1629",
-                "w": "씨가",
-                "p": "ssiga",
-                "d": "Mr.",
-                "s": ""
-            },
-            {
-                "id": "ko-1630",
-                "w": "검은",
-                "p": "geomeun",
-                "d": "black",
-                "s": ""
-            },
-            {
-                "id": "ko-1631",
-                "w": "오말리",
-                "p": "omalli",
-                "d": "O'Malley",
-                "s": ""
-            },
-            {
-                "id": "ko-1632",
-                "w": "봐도",
-                "p": "bwado",
-                "d": "Even if you look at it",
-                "s": ""
-            },
-            {
-                "id": "ko-1633",
-                "w": "적도",
-                "p": "jeokdo",
-                "d": "equator (circle around the earth)",
-                "s": ""
-            },
-            {
-                "id": "ko-1634",
-                "w": "아닐",
-                "p": "anil",
-                "d": "to not be (something)",
-                "s": ""
-            },
-            {
-                "id": "ko-1635",
-                "w": "다리",
-                "p": "dari",
-                "d": "bridge",
-                "s": ""
-            },
-            {
-                "id": "ko-1636",
-                "w": "무기를",
-                "p": "mugireul",
-                "d": "weapons",
-                "s": ""
-            },
-            {
-                "id": "ko-1637",
-                "w": "주면",
-                "p": "jumyeon",
-                "d": "If you give it",
-                "s": ""
-            },
-            {
-                "id": "ko-1638",
-                "w": "돌아",
-                "p": "dora",
-                "d": "turn around",
-                "s": ""
-            },
-            {
-                "id": "ko-1639",
-                "w": "릴리",
-                "p": "rilli",
-                "d": "lily",
-                "s": ""
-            },
-            {
-                "id": "ko-1640",
-                "w": "뭔가가",
-                "p": "mwongaga",
-                "d": "something",
-                "s": ""
-            },
-            {
-                "id": "ko-1641",
-                "w": "따로",
-                "p": "ttaro",
-                "d": "differently; separately",
-                "s": ""
-            },
-            {
-                "id": "ko-1642",
-                "w": "없으니까",
-                "p": "eopseunikka",
-                "d": "to have none; (to be) lacking; (to be) nonexistent",
-                "s": ""
-            },
-            {
-                "id": "ko-1643",
-                "w": "어디야",
-                "p": "eodiya",
-                "d": "Where are you",
-                "s": ""
-            },
-            {
-                "id": "ko-1644",
-                "w": "끝까지",
-                "p": "kkeutkkaji",
-                "d": "till the end",
-                "s": ""
-            },
-            {
-                "id": "ko-1645",
-                "w": "준비해",
-                "p": "junbihae",
-                "d": "get ready",
-                "s": ""
-            },
-            {
-                "id": "ko-1646",
-                "w": "카메라",
-                "p": "kamera",
-                "d": "camera (a device for taking still or moving pictures)",
-                "s": ""
-            },
-            {
-                "id": "ko-1647",
-                "w": "아무튼",
-                "p": "amuteun",
-                "d": "in any case, anyway, anyhow, at any rate",
-                "s": ""
-            },
-            {
-                "id": "ko-1648",
-                "w": "알다시피",
-                "p": "aldasipi",
-                "d": "As you know",
-                "s": ""
-            },
-            {
-                "id": "ko-1649",
-                "w": "죽으면",
-                "p": "jugeumyeon",
-                "d": "If I die",
-                "s": ""
-            },
-            {
-                "id": "ko-1650",
-                "w": "않죠",
-                "p": "anchyo",
-                "d": "Isn't it?",
-                "s": ""
-            },
-            {
-                "id": "ko-1651",
-                "w": "만나",
-                "p": "manna",
-                "d": "meet",
-                "s": ""
-            },
-            {
-                "id": "ko-1652",
-                "w": "않나",
-                "p": "anna",
-                "d": "Isn’t it?",
-                "s": ""
-            },
-            {
-                "id": "ko-1653",
-                "w": "아니라면",
-                "p": "aniramyeon",
-                "d": "If not",
-                "s": ""
-            },
-            {
-                "id": "ko-1654",
-                "w": "임마",
-                "p": "imma",
-                "d": "Dude",
-                "s": ""
-            },
-            {
-                "id": "ko-1655",
-                "w": "중이에요",
-                "p": "jungieyo",
-                "d": "I'm in the middle of it",
-                "s": ""
-            },
-            {
-                "id": "ko-1656",
-                "w": "누군가를",
-                "p": "nugungareul",
-                "d": "someone",
-                "s": ""
-            },
-            {
-                "id": "ko-1657",
-                "w": "있을지",
-                "p": "isseulji",
-                "d": "Will there be",
-                "s": ""
-            },
-            {
-                "id": "ko-1658",
-                "w": "있단",
-                "p": "itdan",
-                "d": "There is",
-                "s": ""
-            },
-            {
-                "id": "ko-1659",
-                "w": "돌아와",
-                "p": "dorawa",
-                "d": "Come back",
-                "s": ""
-            },
-            {
-                "id": "ko-1660",
-                "w": "메리",
-                "p": "meri",
-                "d": "mary",
-                "s": ""
-            },
-            {
-                "id": "ko-1661",
-                "w": "보자고",
-                "p": "bojago",
-                "d": "Let's see",
-                "s": ""
-            },
-            {
-                "id": "ko-1662",
-                "w": "돼서",
-                "p": "dwaeseo",
-                "d": "It's done",
-                "s": ""
-            },
-            {
-                "id": "ko-1663",
-                "w": "들어갈",
-                "p": "deureogal",
-                "d": "go in",
-                "s": ""
-            },
-            {
-                "id": "ko-1664",
-                "w": "않지",
-                "p": "anchi",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-1665",
                 "w": "목을",
                 "p": "mogeul",
                 "d": "neck",
-                "s": ""
+                "s": "목이 말라요. (I am thirsty.)"
             },
             {
-                "id": "ko-1666",
+                "id": "ko-1591",
                 "w": "마크",
                 "p": "makeu",
                 "d": "mark",
                 "s": ""
             },
             {
-                "id": "ko-1667",
+                "id": "ko-1592",
                 "w": "정도는",
                 "p": "jeongdoneun",
-                "d": "To some extent",
-                "s": ""
+                "d": "degree, extent",
+                "s": "나는 직장에서 1시간 정도 떨어진 곳에 살고 있다. (I live an hour away from work.)"
             },
             {
-                "id": "ko-1668",
+                "id": "ko-1593",
                 "w": "아는데",
                 "p": "aneunde",
-                "d": "I know",
-                "s": ""
+                "d": "to know, understand",
+                "s": "그 여자에게 당신이 여기 있다고 말해요. — 알겠어요. 고마워요. 피트 (Tell her you’re here. — Right, thanks, Pete.)"
             },
             {
-                "id": "ko-1669",
+                "id": "ko-1594",
                 "w": "게임",
                 "p": "geim",
-                "d": "game, especially computer games.",
-                "s": ""
+                "d": "game",
+                "s": "이 게임 안에서는 모두가 평등하다. (In this game, everyone is equal.)"
             },
             {
-                "id": "ko-1670",
+                "id": "ko-1595",
                 "w": "강한",
                 "p": "ganghan",
-                "d": "realis adnominal of 강하다 (ganghada, “strong, powerful”)",
-                "s": ""
+                "d": "strong, powerful",
+                "s": "톰은 내가 알고 있는 가장 강한 사람이야. (Tom is the strongest man I know.)"
             },
             {
-                "id": "ko-1671",
+                "id": "ko-1596",
                 "w": "정말이야",
                 "p": "jeongmariya",
-                "d": "Really",
-                "s": ""
+                "d": "really",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
-                "id": "ko-1672",
+                "id": "ko-1597",
                 "w": "받는",
                 "p": "banneun",
-                "d": "receiving",
-                "s": ""
+                "d": "to get",
+                "s": "죽는 일보다 고통 받는 일이 더 많은 용기를 필요로 한다. (It requires more courage to suffer than to die.)"
             },
             {
-                "id": "ko-1673",
+                "id": "ko-1598",
                 "w": "물건을",
                 "p": "mulgeoneul",
-                "d": "stuff",
-                "s": ""
+                "d": "item",
+                "s": "가영이는 암시장에서 물건을 몇 개 샀다. (Tom bought some things on the black market.)"
             },
             {
-                "id": "ko-1674",
+                "id": "ko-1599",
                 "w": "무서워",
                 "p": "museowo",
-                "d": "I'm scared",
-                "s": ""
+                "d": "to be worried",
+                "s": "톰이 여기에 있길 무서워 했어. (Tom was afraid to be here.)"
             },
             {
-                "id": "ko-1675",
+                "id": "ko-1600",
                 "w": "것으로",
                 "p": "geoseuro",
-                "d": "as",
-                "s": ""
+                "d": "thing",
+                "s": "이 흙에서는 아무것도 자라지 않는 것으로 보인다. (Nothing seems to grow in this soil.)"
             },
             {
-                "id": "ko-1676",
+                "id": "ko-1601",
                 "w": "얘기할",
                 "p": "yaegihal",
-                "d": "to talk about",
-                "s": ""
+                "d": "to talk",
+                "s": "같이 얘기할 누군가가 있었으면 좋겠다. (I need somebody to talk to.)"
             },
             {
-                "id": "ko-1677",
+                "id": "ko-1602",
                 "w": "싶었어요",
                 "p": "sipeosseoyo",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "d": "to be desirous of",
+                "s": "중국에 가고 싶었어요 (I wanted to go to China.)"
             },
             {
-                "id": "ko-1678",
+                "id": "ko-1603",
                 "w": "수정",
                 "p": "sujeong",
                 "d": "crystal",
                 "s": ""
             },
             {
-                "id": "ko-1679",
+                "id": "ko-1604",
                 "w": "걱정하지",
                 "p": "geokjeonghaji",
-                "d": "Don't worry",
-                "s": ""
+                "d": "to worry",
+                "s": "걱정하지 마. 결국 누군가 와서 우리를 구출할 거야. (Don't worry. Someone will come and rescue us eventually.)"
             },
             {
-                "id": "ko-1680",
+                "id": "ko-1605",
                 "w": "뭐에요",
                 "p": "mwoeyo",
-                "d": "What is it",
-                "s": ""
+                "d": "what",
+                "s": "계획이 뭐에요? (What's your plan?)"
             },
             {
-                "id": "ko-1681",
+                "id": "ko-1606",
                 "w": "제길",
                 "p": "jegil",
-                "d": "Damn it",
+                "d": "Jeddah",
                 "s": ""
             },
             {
-                "id": "ko-1682",
+                "id": "ko-1607",
                 "w": "가치가",
                 "p": "gachiga",
-                "d": "worth it",
-                "s": ""
+                "d": "value",
+                "s": "그의 용감한 행동은 메달을 받을 만한 가치가 있다. (His brave actions are worthy of a medal.)"
             },
             {
-                "id": "ko-1683",
-                "w": "말인지",
-                "p": "marinji",
-                "d": "Is it true?",
-                "s": ""
-            },
-            {
-                "id": "ko-1684",
+                "id": "ko-1608",
                 "w": "수술이",
                 "p": "susuri",
                 "d": "surgery",
                 "s": ""
             },
             {
-                "id": "ko-1685",
+                "id": "ko-1609",
                 "w": "없다면",
                 "p": "eopdamyeon",
-                "d": "If not",
-                "s": ""
+                "d": "to have none",
+                "s": "만약 당신에게 이 책이 없다면, 그것을 사면 됩니다. (If you do not have this book, you can buy it.)"
             },
             {
-                "id": "ko-1686",
-                "w": "톰",
-                "p": "tom",
-                "d": "tom",
-                "s": ""
-            },
-            {
-                "id": "ko-1687",
-                "w": "클라라",
-                "p": "keullara",
-                "d": "Clara",
-                "s": ""
-            },
-            {
-                "id": "ko-1688",
+                "id": "ko-1610",
                 "w": "삼촌",
                 "p": "samchon",
-                "d": "uncle; male sibling of a parent",
+                "d": "uncle",
                 "s": ""
             },
             {
-                "id": "ko-1689",
+                "id": "ko-1611",
                 "w": "찾은",
                 "p": "chajeun",
-                "d": "found",
-                "s": ""
+                "d": "to search, to look for",
+                "s": "애타게 찾으려는 그의 모습을 보니 나의 눈에 눈물이 고였다. (Tears welled up in my eyes when I saw him anxiously searching for it.)"
             },
             {
-                "id": "ko-1690",
+                "id": "ko-1612",
                 "w": "질문",
                 "p": "jilmun",
                 "d": "a question",
-                "s": ""
+                "s": "질문 해도 될까요? (Can I ask you a question?)"
             },
             {
-                "id": "ko-1691",
-                "w": "저들이",
-                "p": "jeodeuri",
-                "d": "They",
-                "s": ""
-            },
-            {
-                "id": "ko-1692",
+                "id": "ko-1613",
                 "w": "서로를",
                 "p": "seororeul",
-                "d": "each other",
-                "s": ""
+                "d": "mutually",
+                "s": "우린 같은 언어를 쓰지만, 서로를 이해하지는 못해. (We speak the same language, yet we don't understand each other.)"
             },
             {
-                "id": "ko-1693",
+                "id": "ko-1614",
                 "w": "얼굴이",
                 "p": "eolguri",
-                "d": "The face",
-                "s": ""
+                "d": "face",
+                "s": "왜 그래, 톰? 얼굴이 새빨간데. (Tom, what's wrong? Your face is very red.)"
             },
             {
-                "id": "ko-1694",
+                "id": "ko-1615",
                 "w": "아무래도",
                 "p": "amuraedo",
-                "d": "no matter what; anyway; never",
-                "s": ""
+                "d": "no matter what",
+                "s": "아무래도 걔한테 말해야겠어. (Perhaps I should talk to him.)"
             },
             {
-                "id": "ko-1695",
+                "id": "ko-1616",
                 "w": "당신들은",
                 "p": "dangsindeureun",
-                "d": "You guys",
+                "d": "you",
                 "s": ""
             },
             {
-                "id": "ko-1696",
+                "id": "ko-1617",
                 "w": "사건을",
                 "p": "sageoneul",
-                "d": "incident",
-                "s": ""
+                "d": "a noteworthy or remarkable incident",
+                "s": "우리는 그 사건을 검토할 필요가 있다. (We need to review the case.)"
             },
             {
-                "id": "ko-1697",
+                "id": "ko-1618",
                 "w": "됐죠",
                 "p": "dwaetjyo",
-                "d": "That's it",
-                "s": ""
+                "d": "to have become, became",
+                "s": "개구리가 우는 소리는 내가 잠드는 데 도움이 됐다. (The frogs' croaking helped me fall asleep.)"
             },
             {
-                "id": "ko-1698",
+                "id": "ko-1619",
                 "w": "꿈",
                 "p": "kkum",
                 "d": "dream",
-                "s": ""
+                "s": "톰은 새 차를 사는 것을 계속 꿈 꾸고 있다. (Tom keeps dreaming about buying a new car.)"
             },
             {
-                "id": "ko-1699",
+                "id": "ko-1620",
                 "w": "입은",
                 "p": "ibeun",
-                "d": "dressed",
-                "s": ""
+                "d": "to wear, to put on",
+                "s": "초록옷 입은 애가 젤다죠? (The green guy is Zelda, right?)"
             },
             {
-                "id": "ko-1700",
+                "id": "ko-1621",
                 "w": "받았어",
                 "p": "badasseo",
-                "d": "I got it",
-                "s": ""
+                "d": "to get",
+                "s": "난 과학 시험에서 D를 받았어. (I got a D on my science test.)"
             },
             {
-                "id": "ko-1701",
-                "w": "할수",
-                "p": "halsu",
-                "d": "can do",
-                "s": ""
-            },
-            {
-                "id": "ko-1702",
+                "id": "ko-1622",
                 "w": "빠져",
                 "p": "ppajyeo",
-                "d": "Fall in love",
-                "s": ""
+                "d": "to fall out",
+                "s": "저 여자애는 자기가 공주라는 망상에 빠져 있어. (That girl is under the delusion that she is a princess.)"
             },
             {
-                "id": "ko-1703",
+                "id": "ko-1623",
                 "w": "물을",
                 "p": "mureul",
-                "d": "water",
-                "s": ""
+                "d": "to ask",
+                "s": "톰은 우리에게 약간의 음식과 물을 남겨주었다. (Tom left us some food and water.)"
             },
             {
-                "id": "ko-1704",
+                "id": "ko-1624",
                 "w": "아기가",
                 "p": "agiga",
-                "d": "baby",
-                "s": ""
+                "d": "unweaned baby, child",
+                "s": "아기가 침대에서 울고 있었어. (The baby was crying in bed.)"
             },
             {
-                "id": "ko-1705",
+                "id": "ko-1625",
                 "w": "닉",
                 "p": "nik",
-                "d": "a shortening of 닉네임 (ningneim).",
+                "d": "nickname",
                 "s": ""
             },
             {
-                "id": "ko-1706",
+                "id": "ko-1626",
                 "w": "것과",
                 "p": "geotgwa",
-                "d": "and",
-                "s": ""
+                "d": "thing",
+                "s": "계획을 세우는 것과 그것을 실행하는 것은 별개의 문제다. (It's one thing to make plans, but quite another to carry them out.)"
             },
             {
-                "id": "ko-1707",
+                "id": "ko-1627",
                 "w": "명령을",
                 "p": "myeongnyeongeul",
-                "d": "command",
-                "s": ""
+                "d": "order, command",
+                "s": "시정명령을 이행하지 아니한 때 (When he/she fails to comply with any such corrective order)"
             },
             {
-                "id": "ko-1708",
+                "id": "ko-1628",
                 "w": "부터",
                 "p": "buteo",
                 "d": "from",
                 "s": ""
             },
             {
-                "id": "ko-1709",
+                "id": "ko-1629",
                 "w": "거라면",
                 "p": "georamyeon",
-                "d": "If it is",
-                "s": ""
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
-                "id": "ko-1710",
+                "id": "ko-1630",
                 "w": "죽이는",
                 "p": "jugineun",
-                "d": "killing",
+                "d": "to kill, to cause to die",
                 "s": ""
             },
             {
-                "id": "ko-1711",
+                "id": "ko-1631",
                 "w": "정신이",
                 "p": "jeongsini",
-                "d": "out of mind",
-                "s": ""
+                "d": "mind",
+                "s": "톰은 음악에 정신이 팔려 있어요. (Tom is crazy about music.)"
             },
             {
-                "id": "ko-1712",
+                "id": "ko-1632",
                 "w": "아파",
                 "p": "apa",
                 "d": "to be painful, to hurt",
-                "s": ""
+                "s": "창백해 보이네. 너 아파? (You look pale. Are you ill?)"
             },
             {
-                "id": "ko-1713",
+                "id": "ko-1633",
                 "w": "모르겠네",
                 "p": "moreugenne",
-                "d": "I don't know",
-                "s": ""
+                "d": "to not know",
+                "s": "어젯밤에 비가 내렸을 지도 모르겠네. (It may have rained last night.)"
             },
             {
-                "id": "ko-1714",
+                "id": "ko-1634",
                 "w": "똑같이",
                 "p": "ttokgachi",
-                "d": "equally, evenly; impartially",
-                "s": ""
+                "d": "equally, evenly",
+                "s": "남자와 여자는 똑같이 운전을 잘 못한다. (Men and women are equally bad at driving.)"
             },
             {
-                "id": "ko-1715",
+                "id": "ko-1635",
                 "w": "꽤나",
                 "p": "kkwaena",
-                "d": "Quite a bit",
-                "s": ""
+                "d": "really, really good",
+                "s": "선생님께 보스턴을 떠나는 건 꽤나 힘든 일일 거예요. (It's probably going to be hard for you to leave Boston.)"
             },
             {
-                "id": "ko-1716",
+                "id": "ko-1636",
                 "w": "되잖아",
                 "p": "doejana",
-                "d": "It works",
-                "s": ""
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
             },
             {
-                "id": "ko-1717",
+                "id": "ko-1637",
                 "w": "형이",
                 "p": "hyeongi",
-                "d": "My brother",
-                "s": ""
+                "d": "older brother of a male",
+                "s": "형이 나갔다. (My brother is out.)"
             },
             {
-                "id": "ko-1718",
+                "id": "ko-1638",
                 "w": "밑에",
                 "p": "mite",
-                "d": "under",
-                "s": ""
+                "d": "bottom, underneath",
+                "s": "톰의 한쪽 눈 밑에 멍이 들었습니다. (Are you waiting for me to do something?)"
             },
             {
-                "id": "ko-1719",
+                "id": "ko-1639",
                 "w": "아니었어요",
                 "p": "anieosseoyo",
-                "d": "to not be (something)",
-                "s": ""
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
-                "id": "ko-1720",
+                "id": "ko-1640",
                 "w": "어렸을",
                 "p": "eoryeosseul",
-                "d": "I was young",
-                "s": ""
+                "d": "to be young",
+                "s": "내가 어렸을 적에 근방의 애들은 전부 연을 날리곤 했어. (When I was young, all the kids in the neighborhood used to fly kites.)"
             },
             {
-                "id": "ko-1721",
+                "id": "ko-1641",
                 "w": "말했어요",
                 "p": "malhaesseoyo",
-                "d": "I said",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "메리는 비가 오는 것을 좋아한다고 말했어요. (Mary said she liked rain.)"
             },
             {
-                "id": "ko-1722",
+                "id": "ko-1642",
                 "w": "그만해요",
                 "p": "geumanhaeyo",
-                "d": "Stop it",
+                "d": "to stop",
                 "s": ""
             },
             {
-                "id": "ko-1723",
+                "id": "ko-1643",
                 "w": "에서",
                 "p": "eseo",
-                "d": "in",
-                "s": ""
+                "d": "Esau",
+                "s": "오늘 밤에 TV에서 뭐 재밌는 거 해? (Is there anything interesting on television tonight?)"
             },
             {
-                "id": "ko-1724",
+                "id": "ko-1644",
                 "w": "학교에",
                 "p": "hakgyoe",
-                "d": "to school",
-                "s": ""
+                "d": "school",
+                "s": "새 지하철은 20분 만에 학교에 갈 수 있게 해줘. (The new subway enables me to get to school in 20 minutes.)"
             },
             {
-                "id": "ko-1725",
+                "id": "ko-1645",
                 "w": "아무런",
                 "p": "amureon",
-                "d": "of any sort whatsoever; any",
-                "s": ""
+                "d": "of any sort whatsoever",
+                "s": "탐은 메리에게 아무런 기회도 주지 않았다. (Tom didn't cut Mary any slack.)"
             },
             {
-                "id": "ko-1726",
-                "w": "글로리아",
-                "p": "geulloria",
-                "d": "Gloria",
-                "s": ""
-            },
-            {
-                "id": "ko-1727",
+                "id": "ko-1646",
                 "w": "반",
                 "p": "ban",
                 "d": "half",
-                "s": ""
+                "s": "9시 반 이후엔 버스가 다니지 않아요. (There is no bus service after nine-thirty.)"
             },
             {
-                "id": "ko-1728",
+                "id": "ko-1647",
                 "w": "아이들이",
                 "p": "aideuri",
                 "d": "children",
-                "s": ""
+                "s": "톰은 절대 밤 10시 이후에 그의 아이들이 티비를 보게 하지 않는다. (Tom never lets his children watch TV after 10:00 p.m.)"
             },
             {
-                "id": "ko-1729",
-                "w": "그리곤",
-                "p": "geurigon",
-                "d": "And then",
-                "s": ""
-            },
-            {
-                "id": "ko-1730",
+                "id": "ko-1648",
                 "w": "거냐",
                 "p": "geonya",
-                "d": "Are you going?",
-                "s": ""
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
-                "id": "ko-1731",
+                "id": "ko-1649",
                 "w": "한데",
                 "p": "hande",
-                "d": "But",
+                "d": "outdoors",
                 "s": ""
             },
             {
-                "id": "ko-1732",
+                "id": "ko-1650",
                 "w": "아버지의",
                 "p": "abeojiui",
-                "d": "father's",
-                "s": ""
+                "d": "father",
+                "s": "아버지의 사망을 알리는 전화를 받았을 때 나는 완전히 당황했다. (When I got the phone call telling me of my father's death, I was completely flustered.)"
             },
             {
-                "id": "ko-1733",
+                "id": "ko-1651",
                 "w": "받지",
                 "p": "batji",
-                "d": "I don't get it",
-                "s": ""
+                "d": "to get",
+                "s": "나는 더 이상 영감을 받지 못한다. (I'm not inspired anymore.)"
             },
             {
-                "id": "ko-1734",
+                "id": "ko-1652",
                 "w": "일하고",
                 "p": "ilhago",
-                "d": "working",
-                "s": ""
+                "d": "to work, to do one's job",
+                "s": "톰은 소프트웨어 기술자로서 일하고 있어. (Tom is working as a software engineer.)"
             },
             {
-                "id": "ko-1735",
-                "w": "말이오",
-                "p": "mario",
-                "d": "I mean",
-                "s": ""
-            },
-            {
-                "id": "ko-1736",
+                "id": "ko-1653",
                 "w": "없나요",
-                "p": "eomnayo",
-                "d": "Isn't there",
-                "s": ""
+                "p": "eopnayo",
+                "d": "to have none",
+                "s": "저에게 해당되는 할인 티켓은 없나요? (Are there any discount tickets for me?)"
             },
             {
-                "id": "ko-1737",
+                "id": "ko-1654",
                 "w": "원한다면",
                 "p": "wonhandamyeon",
-                "d": "if you want",
-                "s": ""
+                "d": "to want, to hope",
+                "s": "톰이 원한다면, 내 비디오 카메라를 쓸 수 있다. (Tom may use my video camera if he wants to.)"
             },
             {
-                "id": "ko-1738",
+                "id": "ko-1655",
                 "w": "생각할",
                 "p": "saenggakal",
-                "d": "think about",
-                "s": ""
+                "d": "to think",
+                "s": "일어난 일에 대해 그만 생각할 수 있었으면 좋겠다. (I wish I could stop thinking about what's happened.)"
             },
             {
-                "id": "ko-1739",
+                "id": "ko-1656",
                 "w": "버려",
                 "p": "beoryeo",
-                "d": "Throw it away",
-                "s": ""
+                "d": "to throw away",
+                "s": "그 사람에 대해선 잊어 버려. (Forget him.)"
             },
             {
-                "id": "ko-1740",
+                "id": "ko-1657",
                 "w": "즉시",
                 "p": "jeuksi",
                 "d": "immediately, promptly",
-                "s": ""
+                "s": "우리는 그를 즉시 병원으로 보냈다. (We sent him to the hospital immediately.)"
             },
             {
-                "id": "ko-1741",
+                "id": "ko-1658",
                 "w": "거대한",
                 "p": "geodaehan",
                 "d": "huge",
-                "s": ""
+                "s": "오늘 거대한 결정을 내렸어요. (I made a big decision today.)"
             },
             {
-                "id": "ko-1742",
+                "id": "ko-1659",
                 "w": "가봐",
                 "p": "gabwa",
-                "d": "Go",
-                "s": ""
+                "d": "to go",
+                "s": "기억하리 존엄과 명예 지켜낸 영웅들 기억하리 조국을 위해 간 그 생들을 (We Will Remember)"
             },
             {
-                "id": "ko-1743",
+                "id": "ko-1660",
                 "w": "발",
                 "p": "bal",
                 "d": "foot",
-                "s": ""
+                "s": "한 발 한 발 내딛다 (to take one step at a time)"
             },
             {
-                "id": "ko-1744",
+                "id": "ko-1661",
                 "w": "들어가서",
                 "p": "deureogaseo",
-                "d": "go in",
-                "s": ""
+                "d": "to go into",
+                "s": "이제, 그는 너무 멀리 가기 전에, 매우 좁은 통로로 들어갔다. (Now, before he had gone far, he entered into a very narrow passage,)"
             },
             {
-                "id": "ko-1745",
+                "id": "ko-1662",
                 "w": "시작",
                 "p": "sijak",
                 "d": "start, beginning",
-                "s": ""
+                "s": "그가 올때 우리는 경기를 시작 할거에요. (We will begin the match when he comes.)"
             },
             {
-                "id": "ko-1746",
+                "id": "ko-1663",
                 "w": "사람에게",
                 "p": "saramege",
-                "d": "to people",
-                "s": ""
+                "d": "human being, person",
+                "s": "너 그 사람에게 아무말도 안했지? (You didn't tell him anything?)"
             },
             {
-                "id": "ko-1747",
+                "id": "ko-1664",
                 "w": "내놔",
                 "p": "naenwa",
-                "d": "Give it to me",
+                "d": "to let go",
                 "s": ""
             },
             {
-                "id": "ko-1748",
+                "id": "ko-1665",
                 "w": "행복한",
                 "p": "haengbokan",
-                "d": "happy",
-                "s": ""
+                "d": "to be happy",
+                "s": "나는 지구 상에서 가장 행복한 사람이었다. (I was the happiest man on earth.)"
             },
             {
-                "id": "ko-1749",
+                "id": "ko-1666",
                 "w": "나머지",
                 "p": "nameoji",
-                "d": "the rest, remainder, what is left over; so... that (typically for verbs and adjectives of emotion)",
-                "s": ""
+                "d": "the rest",
+                "s": "나는 너무 기쁜 나머지 온몸이 떨렸다. (I was so happy that my entire body trembled [with joy].)"
             },
             {
-                "id": "ko-1750",
-                "w": "윌",
-                "p": "wil",
-                "d": "Will",
-                "s": ""
-            },
-            {
-                "id": "ko-1751",
+                "id": "ko-1667",
                 "w": "도와",
                 "p": "dowa",
-                "d": "help",
-                "s": ""
+                "d": "to help",
+                "s": "여러 모로 바쁘신데도 흔쾌히 도와 주셔서 감사드립니다. (Thank you very much for being so willing to help me being so busy with so many things.)"
             },
             {
-                "id": "ko-1752",
+                "id": "ko-1668",
                 "w": "노래를",
                 "p": "noraereul",
-                "d": "sing a song",
-                "s": ""
+                "d": "song",
+                "s": "Tom이 \"Happy Birthday\" 노래를 부르기 시작했다. (Tom began to sing \"Happy Birthday.\")"
             },
             {
-                "id": "ko-1753",
+                "id": "ko-1669",
                 "w": "왔는데",
                 "p": "wanneunde",
-                "d": "I came",
-                "s": ""
+                "d": "come",
+                "s": "자려고 하던 참에 그로부터 전화가 왔다. (I was about to go to bed when he called me up.)"
             },
             {
-                "id": "ko-1754",
+                "id": "ko-1670",
                 "w": "요원",
                 "p": "yowon",
                 "d": "personnel",
                 "s": ""
             },
             {
-                "id": "ko-1755",
+                "id": "ko-1671",
                 "w": "되게",
                 "p": "doege",
-                "d": "very, extremely, terribly, awfully",
-                "s": ""
+                "d": "very",
+                "s": "톰은 메리를 부자가 되게 했다. (Tom made Mary rich.)"
             },
             {
-                "id": "ko-1756",
+                "id": "ko-1672",
                 "w": "누구죠",
                 "p": "nugujyo",
-                "d": "who is it",
-                "s": ""
+                "d": "who",
+                "s": "저 사람 누구죠? (Who is that person?)"
             },
             {
-                "id": "ko-1757",
+                "id": "ko-1673",
                 "w": "얼굴에",
                 "p": "eolgure",
-                "d": "on the face",
-                "s": ""
+                "d": "face",
+                "s": "감사하는 빛이 그의 얼굴에 역력하다. (His face clearly shows gratitude.)"
             },
             {
-                "id": "ko-1758",
+                "id": "ko-1674",
                 "w": "하실",
                 "p": "hasil",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "d": "to do",
+                "s": "저한테 하실 말씀이 있으신가요? (Is there something that you wish to tell me?)"
             },
             {
-                "id": "ko-1759",
+                "id": "ko-1675",
                 "w": "환영합니다",
                 "p": "hwanyeonghamnida",
-                "d": "welcome",
-                "s": ""
+                "d": "to welcome",
+                "s": "위키낱말사전에 오신 것을 환영합니다. (Welcome to Wiktionary.)"
             },
             {
-                "id": "ko-1760",
+                "id": "ko-1676",
                 "w": "걸까",
                 "p": "geolkka",
-                "d": "Is it",
-                "s": ""
+                "d": "to hang, to suspend",
+                "s": "우리가 우리 언어 기준을 다른 사람들한테 강요하려는 건 비민주적인 걸까? (Are we undemocratic when we try to impose our own linguistic norms on others?)"
             },
             {
-                "id": "ko-1761",
+                "id": "ko-1677",
                 "w": "되겠지",
                 "p": "doegetji",
-                "d": "It will work",
-                "s": ""
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
             },
             {
-                "id": "ko-1762",
+                "id": "ko-1678",
                 "w": "괜찮지",
                 "p": "gwaenchanchi",
-                "d": "It's okay",
-                "s": ""
+                "d": "to be nice",
+                "s": "좀 늦어도 괜찮지 싶어. (It seems fine even if I'm/they're late.)"
             },
             {
-                "id": "ko-1763",
+                "id": "ko-1679",
                 "w": "하던",
                 "p": "hadeon",
-                "d": "used to",
-                "s": ""
+                "d": "to do",
+                "s": "자려고 하던 참에 그로부터 전화가 왔다. (I was about to go to bed when he called me up.)"
             },
             {
-                "id": "ko-1764",
+                "id": "ko-1680",
                 "w": "아내를",
                 "p": "anaereul",
                 "d": "wife",
-                "s": ""
+                "s": "아내를 사랑하십니까? (Do you love your wife?)"
             },
             {
-                "id": "ko-1765",
+                "id": "ko-1681",
                 "w": "놈의",
                 "p": "nomui",
-                "d": "bastard",
-                "s": ""
+                "d": "other person",
+                "s": "...사우는 도망갔드래. 그러니까 사우는 놈이다. (...but his son-in-law had apparently run away. Therefore sons-in-law are like strangers.)"
             },
             {
-                "id": "ko-1766",
+                "id": "ko-1682",
                 "w": "미쳤어",
                 "p": "michyeosseo",
-                "d": "I'm crazy",
-                "s": ""
+                "d": "to extend, to reach",
+                "s": "네가 한 일은 기대에 못 미쳤어. (Your work didn't come up to our expectations.)"
             },
             {
-                "id": "ko-1767",
+                "id": "ko-1683",
                 "w": "이것도",
                 "p": "igeotdo",
-                "d": "This too",
-                "s": ""
+                "d": "this",
+                "s": "히로시는 이것 재미 있을 것 같다고 말한다. (\"This looks pretty interesting,\" Hiroshi says.)"
             },
             {
-                "id": "ko-1768",
+                "id": "ko-1684",
                 "w": "일부러",
                 "p": "ilbureo",
-                "d": "deliberately, intentionally, on purpose",
-                "s": ""
+                "d": "deliberately",
+                "s": "일부러 그랬구나! (You did it on purpose!)"
             },
             {
-                "id": "ko-1769",
+                "id": "ko-1685",
                 "w": "혹은",
                 "p": "hogeun",
-                "d": "or (if not); or else",
-                "s": ""
+                "d": "or",
+                "s": "예 혹은 아니오? (Yes or no?)"
             },
             {
-                "id": "ko-1770",
+                "id": "ko-1686",
                 "w": "나올",
                 "p": "naol",
-                "d": "come out",
-                "s": ""
+                "d": "to come out, come forth",
+                "s": "학생은 학교에서 나왔어요. (The student came out of school.)"
             },
             {
-                "id": "ko-1771",
+                "id": "ko-1687",
                 "w": "찾으러",
                 "p": "chajeureo",
-                "d": "To find it",
-                "s": ""
+                "d": "to search, to look for",
+                "s": "톰을 찾으러 가자. (Let's go and find Tom.)"
             },
             {
-                "id": "ko-1772",
+                "id": "ko-1688",
                 "w": "걔는",
                 "p": "gyaeneun",
-                "d": "He is",
-                "s": ""
+                "d": "that kid",
+                "s": "톰은 직업을 유지할 수 없어. 걔는 항상 해고돼. (Tom can't hold down a job. He's always getting fired.)"
             },
             {
-                "id": "ko-1773",
+                "id": "ko-1689",
                 "w": "잡을",
                 "p": "jabeul",
-                "d": "catch",
-                "s": ""
+                "d": "to take",
+                "s": "난 톰과 메리가 나를 인질로 잡을 줄 알았지. (I thought Tom and Mary were going to use me as a hostage.)"
             },
             {
-                "id": "ko-1774",
+                "id": "ko-1690",
                 "w": "똑바로",
                 "p": "ttokbaro",
-                "d": "straight, upright, even; correctly, properly",
-                "s": ""
+                "d": "straight, upright, even",
+                "s": "똑바로 앉으세요. (Sit up straight.)"
             },
             {
-                "id": "ko-1775",
+                "id": "ko-1691",
                 "w": "얻을",
                 "p": "eodeul",
-                "d": "get",
-                "s": ""
+                "d": "to obtain",
+                "s": "전혀 위험을 감수하지 않으면, 아무 것도 얻을 수 없다. (One who doesn't take risks will not win.)"
             },
             {
-                "id": "ko-1776",
+                "id": "ko-1692",
                 "w": "이해해",
                 "p": "ihaehae",
-                "d": "I understand",
-                "s": ""
+                "d": "to understand or comprehend",
+                "s": "난 네가 왜 그랬는지 이해해. (I understand why you did that.)"
             },
             {
-                "id": "ko-1777",
+                "id": "ko-1693",
                 "w": "무지",
                 "p": "muji",
-                "d": "ignorance",
+                "d": "very, extremely, awfully",
                 "s": ""
             },
             {
-                "id": "ko-1778",
+                "id": "ko-1694",
                 "w": "쪽으로",
                 "p": "jjogeuro",
-                "d": "toward",
-                "s": ""
+                "d": "side",
+                "s": "러시아의 아시아 쪽 영토는 중국보다 넓다. (The Asian part of Russia is larger than China.)"
             },
             {
-                "id": "ko-1779",
-                "w": "무슨일이",
-                "p": "museuniri",
-                "d": "what happened",
-                "s": ""
-            },
-            {
-                "id": "ko-1780",
+                "id": "ko-1695",
                 "w": "이해할",
                 "p": "ihaehal",
-                "d": "understand",
-                "s": ""
+                "d": "to understand or comprehend",
+                "s": "그녀는 저기서 무슨 일이 벌어진 것인지 이해할 수 없었다. (She couldn't understand what had happened there.)"
             },
             {
-                "id": "ko-1781",
+                "id": "ko-1696",
                 "w": "친구야",
                 "p": "chinguya",
-                "d": "Hey friend",
-                "s": ""
+                "d": "friend",
+                "s": "메리랑 케이트는 고등학교 때부터 친구야. (Mary and Kate have been friends since high school.)"
             },
             {
-                "id": "ko-1782",
+                "id": "ko-1697",
                 "w": "어머니가",
                 "p": "eomeoniga",
                 "d": "mother",
-                "s": ""
+                "s": "나는 어머니가 케이크를 숨기는 것을 보았다. (I saw my mother hide the cake.)"
             },
             {
-                "id": "ko-1783",
+                "id": "ko-1698",
                 "w": "질문을",
                 "p": "jilmuneul",
-                "d": "ask a question",
-                "s": ""
+                "d": "a question",
+                "s": "나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아. (I don't like teachers who like students who don't like asking questions.)"
             },
             {
-                "id": "ko-1784",
+                "id": "ko-1699",
                 "w": "워",
                 "p": "wo",
-                "d": "Whoa",
+                "d": "whoa!",
                 "s": ""
             },
             {
-                "id": "ko-1785",
+                "id": "ko-1700",
                 "w": "엎드려",
                 "p": "eopdeuryeo",
-                "d": "Lie down",
+                "d": "to lie face down",
                 "s": ""
             },
             {
-                "id": "ko-1786",
-                "w": "있단다",
-                "p": "itdanda",
-                "d": "There is",
-                "s": ""
-            },
-            {
-                "id": "ko-1787",
+                "id": "ko-1701",
                 "w": "너희들이",
                 "p": "neohuideuri",
-                "d": "You guys",
-                "s": ""
+                "d": "you all",
+                "s": "너희들 둘 다 톰을 아는 것 같은데. (I think you both know Tom.)"
             },
             {
-                "id": "ko-1788",
-                "w": "놈들",
-                "p": "nomdeul",
-                "d": "bastards",
-                "s": ""
-            },
-            {
-                "id": "ko-1789",
+                "id": "ko-1702",
                 "w": "병원에서",
                 "p": "byeongwoneseo",
-                "d": "at the hospital",
-                "s": ""
+                "d": "hospital",
+                "s": "그는 병원에서 일하고 싶어한다. (He wants to work in a hospital.)"
             },
             {
-                "id": "ko-1790",
+                "id": "ko-1703",
                 "w": "친구는",
                 "p": "chinguneun",
-                "d": "Friends are",
-                "s": ""
+                "d": "friend",
+                "s": "톰과 친구는 수영장에서 수영하고 있어. (Tom and his friends are swimming in the pool.)"
             },
             {
-                "id": "ko-1791",
+                "id": "ko-1704",
                 "w": "믿는",
                 "p": "minneun",
-                "d": "believe",
-                "s": ""
+                "d": "to trust, to believe",
+                "s": "신을 믿는 사람들도 있고 아닌 사람도 있어. (Some people believe in God and others don't.)"
             },
             {
-                "id": "ko-1792",
+                "id": "ko-1705",
                 "w": "회사",
                 "p": "hoesa",
                 "d": "a company",
-                "s": ""
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-1793",
+                "id": "ko-1706",
                 "w": "떨어진",
                 "p": "tteoreojin",
-                "d": "fell",
-                "s": ""
+                "d": "to fall",
+                "s": "나는 직장에서 1시간 정도 떨어진 곳에 살고 있다. (I live an hour away from work.)"
             },
             {
-                "id": "ko-1794",
+                "id": "ko-1707",
                 "w": "간에",
                 "p": "gane",
-                "d": "Between",
-                "s": ""
+                "d": "for",
+                "s": "내가 무엇을 하든지 간에 내가 더 잘한다고 말하더라. (No matter what I do, she says I can do better.)"
             },
             {
-                "id": "ko-1795",
+                "id": "ko-1708",
                 "w": "쪽",
                 "p": "jjok",
-                "d": "side; direction of approach or movement",
-                "s": ""
+                "d": "side",
+                "s": "러시아의 아시아 쪽 영토는 중국보다 넓다. (The Asian part of Russia is larger than China.)"
             },
             {
-                "id": "ko-1796",
+                "id": "ko-1709",
                 "w": "다야",
                 "p": "daya",
-                "d": "That's it",
-                "s": ""
+                "d": "all",
+                "s": "그게 다야. 더 이상은 없어. (That's all. There are no more.)"
             },
             {
-                "id": "ko-1797",
+                "id": "ko-1710",
                 "w": "선물",
                 "p": "seonmul",
-                "d": "gift; present",
+                "d": "gift",
                 "s": ""
             },
             {
-                "id": "ko-1798",
+                "id": "ko-1711",
                 "w": "안되는",
                 "p": "andoeneun",
-                "d": "It doesn't work",
+                "d": "to fail",
                 "s": ""
             },
             {
-                "id": "ko-1799",
+                "id": "ko-1712",
                 "w": "찾아서",
                 "p": "chajaseo",
-                "d": "find",
-                "s": ""
+                "d": "to search, to look for",
+                "s": "해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다. (I found a solution, but I found it so fast that it can't be the right solution.)"
             },
             {
-                "id": "ko-1800",
+                "id": "ko-1713",
                 "w": "전쟁을",
                 "p": "jeonjaengeul",
                 "d": "war",
-                "s": ""
+                "s": "1941년 12월에는 일본이 미국에게 전쟁을 선포했다. (Japan declared war on the United States in December, 1941.)"
             },
             {
-                "id": "ko-1801",
+                "id": "ko-1714",
                 "w": "친구들이",
                 "p": "chingudeuri",
-                "d": "friends",
-                "s": ""
+                "d": "companionship, company",
+                "s": "저에게는 프랑스어를 말하는 많은 친구들이 있습니다. (I have many French-speaking friends.)"
             },
             {
-                "id": "ko-1802",
-                "w": "마이클",
-                "p": "maikeul",
-                "d": "michael",
-                "s": ""
-            },
-            {
-                "id": "ko-1803",
+                "id": "ko-1715",
                 "w": "싸울",
                 "p": "ssaul",
                 "d": "to fight or struggle",
-                "s": ""
+                "s": "이건 싸울 가치가 있는 결투야. (This is a battle worth fighting.)"
             },
             {
-                "id": "ko-1804",
+                "id": "ko-1716",
                 "w": "만나고",
                 "p": "mannago",
-                "d": "meet",
-                "s": ""
+                "d": "to meet",
+                "s": "모두가 너를 만나고 싶어해, 너 유명하네! (Everyone wants to meet you. You're famous!)"
             },
             {
-                "id": "ko-1805",
+                "id": "ko-1717",
                 "w": "기다리는",
                 "p": "gidarineun",
-                "d": "to wait for, to await; to look forward to",
-                "s": ""
+                "d": "to wait for, to await",
+                "s": "그쪽의 지시를 기다리는 중이었습니다. (We've been waiting for your instructions.)"
             },
             {
-                "id": "ko-1806",
+                "id": "ko-1718",
                 "w": "쉬운",
                 "p": "swiun",
-                "d": "easy",
-                "s": ""
+                "d": "to be easy",
+                "s": "인생은 쉬운 게 아니다. (Life's not easy.)"
             },
             {
-                "id": "ko-1807",
+                "id": "ko-1719",
                 "w": "매니",
                 "p": "maeni",
-                "d": "Manny",
+                "d": "to tie",
                 "s": ""
             },
             {
-                "id": "ko-1808",
+                "id": "ko-1720",
                 "w": "말로는",
                 "p": "malloneun",
-                "d": "In words",
-                "s": ""
+                "d": "verbally, vocally",
+                "s": "황야를 휩쓸은, 이 길고, 말로 형용할 수 없는 슬픔이 담긴, 낮은 신음. (A long, low moan, indescribably sad, swept over the moor.)"
             },
             {
-                "id": "ko-1809",
+                "id": "ko-1721",
                 "w": "관심이",
                 "p": "gwansimi",
-                "d": "interested",
-                "s": ""
+                "d": "interest in",
+                "s": "우리 다 역사에 관심이 있어서 어떤 의미로 우리는 모두 역사가다. (All of us have some interest in history. In a sense, we are all historians.)"
             },
             {
-                "id": "ko-1810",
-                "w": "에이미",
-                "p": "eimi",
-                "d": "Amy",
-                "s": ""
-            },
-            {
-                "id": "ko-1811",
+                "id": "ko-1722",
                 "w": "사람이에요",
                 "p": "saramieyo",
-                "d": "It's a person",
-                "s": ""
+                "d": "human being, person",
+                "s": "저는 우크라이나 사람이에요. (I'm Ukrainian.)"
             },
             {
-                "id": "ko-1812",
+                "id": "ko-1723",
                 "w": "끝난",
                 "p": "kkeunnan",
-                "d": "finished",
-                "s": ""
+                "d": "to come to an end",
+                "s": "오늘은 진짜 여름이 끝난 것 같은 느낌이야. (Today it really feels like summer has ended.)"
             },
             {
-                "id": "ko-1813",
+                "id": "ko-1724",
                 "w": "원치",
                 "p": "wonchi",
-                "d": "winch (machine)",
-                "s": ""
+                "d": "winch",
+                "s": "폴란드 소녀들은 저스틴 비버가 폴란드를 방문하는 것을 원치 않았다. (Polish girls didn't want Justin Bieber to come to Poland.)"
             },
             {
-                "id": "ko-1814",
+                "id": "ko-1725",
                 "w": "재밌는",
                 "p": "jaeminneun",
-                "d": "contraction of 재미있다 (jaemiitda)",
-                "s": ""
+                "d": "amusing",
+                "s": "나는 톰과 그 친구들과 재밌는 시간을 보냈다. (I had fun with Tom and his friends.)"
             },
             {
-                "id": "ko-1815",
-                "w": "말인데",
-                "p": "marinde",
-                "d": "Speaking of which",
-                "s": ""
-            },
-            {
-                "id": "ko-1816",
+                "id": "ko-1726",
                 "w": "그렇겠지",
                 "p": "geureoketji",
-                "d": "I guess so",
+                "d": "sounds about right",
                 "s": ""
             },
             {
-                "id": "ko-1817",
+                "id": "ko-1727",
                 "w": "피",
                 "p": "pi",
                 "d": "blood",
-                "s": ""
+                "s": "늙은 피와 젊은 피, 우리 모두 마지막 크루즈에 있다. (Old and young, we are all on our last cruise.)"
             },
             {
-                "id": "ko-1818",
+                "id": "ko-1728",
                 "w": "예전에",
                 "p": "yejeone",
-                "d": "In the past",
+                "d": "the old days",
                 "s": ""
             },
             {
-                "id": "ko-1819",
+                "id": "ko-1729",
                 "w": "건배",
                 "p": "geonbae",
-                "d": "cheers!; bottoms up!",
-                "s": ""
+                "d": "cheers!",
+                "s": "건강을 위해 건배. (Drink to my health.)"
             },
             {
-                "id": "ko-1820",
+                "id": "ko-1730",
                 "w": "뭔데요",
                 "p": "mwondeyo",
-                "d": "What is it",
-                "s": ""
+                "d": "what",
+                "s": "나한테 뭐 좀 줄 수 있어? 나 완전 빈털터리야. (Could you give me something? I'm totally broke.)"
             },
             {
-                "id": "ko-1821",
+                "id": "ko-1731",
                 "w": "알면",
                 "p": "almyeon",
-                "d": "If you know",
-                "s": ""
+                "d": "to know, understand",
+                "s": "오늘 누가 왔었는지 알면 넌 아마 깜짝 놀랄걸. (You won't believe who came by today.)"
             },
             {
-                "id": "ko-1822",
+                "id": "ko-1732",
                 "w": "엄마도",
                 "p": "eommado",
-                "d": "Mom too",
-                "s": ""
+                "d": "mum, mummy",
+                "s": "엄마, 난 이걸 입고 싶지 않아요. (Mom, I don't want to wear this.)"
             },
             {
-                "id": "ko-1823",
-                "w": "것들이",
-                "p": "geotdeuri",
-                "d": "things",
-                "s": ""
-            },
-            {
-                "id": "ko-1824",
-                "w": "하려는",
-                "p": "haryeoneun",
-                "d": "want to",
-                "s": ""
-            },
-            {
-                "id": "ko-1825",
+                "id": "ko-1733",
                 "w": "맨날",
                 "p": "maennal",
                 "d": "daily, every day",
-                "s": ""
+                "s": "넌 왜 맨날 학교에 늦니? (Why are you always late for school?)"
             },
             {
-                "id": "ko-1826",
-                "w": "있군",
-                "p": "itgun",
-                "d": "There is",
-                "s": ""
-            },
-            {
-                "id": "ko-1827",
+                "id": "ko-1734",
                 "w": "물러서",
                 "p": "mulleoseo",
-                "d": "Step back",
-                "s": ""
+                "d": "soft, tender",
+                "s": "물러서 있어. (Stay back.)"
             },
             {
-                "id": "ko-1828",
+                "id": "ko-1735",
                 "w": "숨",
                 "p": "sum",
-                "d": "breath, breathing; liveliness, spirit, vigor",
-                "s": ""
+                "d": "breath, breathing",
+                "s": "숨 들이쉬세요. (Breathe in.)"
             },
             {
-                "id": "ko-1829",
+                "id": "ko-1736",
                 "w": "팔",
                 "p": "pal",
                 "d": "arm",
                 "s": ""
             },
             {
-                "id": "ko-1830",
+                "id": "ko-1737",
                 "w": "더러운",
                 "p": "deoreoun",
-                "d": "dirty",
-                "s": ""
+                "d": "to be dirty",
+                "s": "그 식당은 너무 더러워요. (That restaurant is too dirty.)"
             },
             {
-                "id": "ko-1831",
+                "id": "ko-1738",
                 "w": "옳은",
                 "p": "oreun",
-                "d": "correct",
-                "s": ""
+                "d": "to be right",
+                "s": "옳다, 이제 알았다. (OK, now I get it.)"
             },
             {
-                "id": "ko-1832",
+                "id": "ko-1739",
                 "w": "출혈이",
                 "p": "chulhyeori",
                 "d": "bleeding",
                 "s": ""
             },
             {
-                "id": "ko-1833",
+                "id": "ko-1740",
                 "w": "즐거운",
                 "p": "jeulgeoun",
-                "d": "enjoyable",
-                "s": ""
+                "d": "to be pleasant",
+                "s": "우리는 톰과 즐거운 시간을 가졌다. (We had fun with Tom.)"
             },
             {
-                "id": "ko-1834",
-                "w": "다음엔",
-                "p": "daeumen",
-                "d": "Next time",
-                "s": ""
-            },
-            {
-                "id": "ko-1835",
+                "id": "ko-1741",
                 "w": "뭐해",
                 "p": "mwohae",
-                "d": "What are you doing",
-                "s": ""
+                "d": "what",
+                "s": "나한테 뭐 좀 줄 수 있어? 나 완전 빈털터리야. (Could you give me something? I'm totally broke.)"
             },
             {
-                "id": "ko-1836",
-                "w": "준비됐어",
-                "p": "junbidwaesseo",
-                "d": "I'm ready",
-                "s": ""
-            },
-            {
-                "id": "ko-1837",
+                "id": "ko-1742",
                 "w": "검사",
                 "p": "geomsa",
                 "d": "examination",
-                "s": ""
+                "s": "내 시력 검사 부탁해. (Please check my vision.)"
             },
             {
-                "id": "ko-1838",
+                "id": "ko-1743",
                 "w": "제기랄",
                 "p": "jegiral",
-                "d": "damn it!; shoot!",
+                "d": "damn it!",
                 "s": ""
             },
             {
-                "id": "ko-1839",
+                "id": "ko-1744",
                 "w": "길이",
                 "p": "giri",
                 "d": "length",
-                "s": ""
+                "s": "이 길이 어디로 가는지 알려 줄래? (Can you tell where this road goes?)"
             },
             {
-                "id": "ko-1840",
+                "id": "ko-1745",
                 "w": "나만",
                 "p": "naman",
-                "d": "Just me",
-                "s": ""
+                "d": "I, me",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
-                "id": "ko-1841",
+                "id": "ko-1746",
                 "w": "있고요",
                 "p": "itgoyo",
-                "d": "There is",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-1842",
+                "id": "ko-1747",
                 "w": "이것은",
                 "p": "igeoseun",
-                "d": "This is",
-                "s": ""
+                "d": "this",
+                "s": "이것은 내가 본 것 중 가장 큰 고양이이다. (This is the biggest cat that I've ever seen.)"
             },
             {
-                "id": "ko-1843",
+                "id": "ko-1748",
                 "w": "좋겠다",
                 "p": "joketda",
-                "d": "to be good; great; excellent (excellent and satisfactory in features and content); to be good; nice (well-rounded and kind in personality)",
-                "s": ""
+                "d": "to be good",
+                "s": "일어난 일에 대해 그만 생각할 수 있었으면 좋겠다. (I wish I could stop thinking about what's happened.)"
             },
             {
-                "id": "ko-1844",
+                "id": "ko-1749",
                 "w": "전에도",
                 "p": "jeonedo",
-                "d": "Even before",
-                "s": ""
+                "d": "formerly",
+                "s": "결론을 내기 전에 일단 톰의 의견을 들어 두고 싶구먼. (I'd like to hear Tom's opinion at least once before we come to a conclusion.)"
             },
             {
-                "id": "ko-1845",
-                "w": "함장님",
-                "p": "hamjangnim",
-                "d": "Captain",
-                "s": ""
-            },
-            {
-                "id": "ko-1846",
+                "id": "ko-1750",
                 "w": "나쁘지",
                 "p": "nappeuji",
-                "d": "bad",
-                "s": ""
+                "d": "to be bad",
+                "s": "나쁘지 않네. (Not bad.)"
             },
             {
-                "id": "ko-1847",
+                "id": "ko-1751",
                 "w": "관해",
                 "p": "gwanhae",
-                "d": "About",
-                "s": ""
+                "d": "to be in relation to",
+                "s": "이 이야기가 무엇에 관한 이야기라고 생각합니까? (What do you think this story is about?)"
             },
             {
-                "id": "ko-1848",
+                "id": "ko-1752",
                 "w": "원",
                 "p": "won",
-                "d": "won; the official currency of South Korea, sign = ₩ (KRW); won; the official currency of North Korea, sign = ₩ (KPW)",
+                "d": "won",
                 "s": ""
             },
             {
-                "id": "ko-1849",
+                "id": "ko-1753",
                 "w": "죽음을",
                 "p": "jugeumeul",
-                "d": "death",
-                "s": ""
+                "d": "death, dying",
+                "s": "마리아의 죽음 이후 톰은 다시 술에 빠졌다. (After Maria died Tom fell back to alcoholism.)"
             },
             {
-                "id": "ko-1850",
+                "id": "ko-1754",
                 "w": "사람들의",
                 "p": "saramdeurui",
-                "d": "of people",
-                "s": ""
+                "d": "people, persons",
+                "s": "그 여자가 파티에 입고 온 드레스가 사람들의 눈길을 끌었지. (Her dress attracted everyone's attention at the party.)"
             },
             {
-                "id": "ko-1851",
+                "id": "ko-1755",
                 "w": "해라",
                 "p": "haera",
                 "d": "do, make, act",
-                "s": ""
+                "s": "이걸 외우도록 해라. (Memorize this.)"
             },
             {
-                "id": "ko-1852",
+                "id": "ko-1756",
                 "w": "알잖아요",
                 "p": "aljanayo",
-                "d": "You know",
-                "s": ""
+                "d": "to know, understand",
+                "s": "그 여자에게 당신이 여기 있다고 말해요. — 알겠어요. 고마워요. 피트 (Tell her you’re here. — Right, thanks, Pete.)"
             },
             {
-                "id": "ko-1853",
+                "id": "ko-1757",
                 "w": "거란",
                 "p": "georan",
                 "d": "Khitan",
                 "s": ""
             },
             {
-                "id": "ko-1854",
+                "id": "ko-1758",
                 "w": "다리를",
                 "p": "darireul",
-                "d": "legs",
-                "s": ""
+                "d": "bridge",
+                "s": "다리를 움직일 수가 없다. (I can't move my legs.)"
             },
             {
-                "id": "ko-1855",
+                "id": "ko-1759",
                 "w": "어젯밤에",
                 "p": "eojetbame",
                 "d": "last night",
-                "s": ""
+                "s": "나는 어젯밤에 책을 읽느라 두 시간을 보냈어. (I spent two hours reading a book last night.)"
             },
             {
-                "id": "ko-1856",
+                "id": "ko-1760",
                 "w": "보내고",
                 "p": "bonaego",
-                "d": "send",
-                "s": ""
+                "d": "to send, to dispatch",
+                "s": "톰은 대부분의 시간을 현관에 앉는 걸로 보내고 있어. (Tom spends most of his time sitting on the porch.)"
             },
             {
-                "id": "ko-1857",
+                "id": "ko-1761",
                 "w": "쟤가",
                 "p": "jyaega",
-                "d": "He is",
+                "d": "that kid",
                 "s": ""
             },
             {
-                "id": "ko-1858",
+                "id": "ko-1762",
                 "w": "오후",
                 "p": "ohu",
-                "d": "p.m.; afternoon",
-                "s": ""
+                "d": "p.m",
+                "s": "오늘 오후 두시에서 세시 사이에 여기로 와 주세요. (Please come here between two and three this afternoon.)"
             },
             {
-                "id": "ko-1859",
+                "id": "ko-1763",
                 "w": "영향을",
                 "p": "yeonghyangeul",
                 "d": "influence",
-                "s": ""
+                "s": "기후가 우리 성격에 영향을 준다고 생각하십니까? (Do you think our climate has an influence on our character?)"
             },
             {
-                "id": "ko-1860",
+                "id": "ko-1764",
                 "w": "바라는",
                 "p": "baraneun",
-                "d": "wishing",
-                "s": ""
+                "d": "to wish",
+                "s": "바라는 것이 없으면 부족함이 없다. (Not wanting is the same as having.)"
             },
             {
-                "id": "ko-1861",
+                "id": "ko-1765",
                 "w": "만나러",
                 "p": "mannareo",
                 "d": "to meet",
-                "s": ""
+                "s": "톰이 너를 만나러 거기에 갈 거야. (Tom will be there to meet you.)"
             },
             {
-                "id": "ko-1862",
+                "id": "ko-1766",
                 "w": "이러는",
                 "p": "ireoneun",
-                "d": "to do this; to act in this way; to say this",
-                "s": ""
+                "d": "to do this",
+                "s": "이러다 우리 다 죽어. (If this keeps up, we'll all die.)"
             },
             {
-                "id": "ko-1863",
+                "id": "ko-1767",
                 "w": "다음은",
                 "p": "daeumeun",
-                "d": "Next is",
-                "s": ""
+                "d": "the next, the following",
+                "s": "다음은 없어. (There isn't going to be a next time.)"
             },
             {
-                "id": "ko-1864",
+                "id": "ko-1768",
                 "w": "보죠",
                 "p": "bojyo",
-                "d": "Let's see",
-                "s": ""
+                "d": "to see",
+                "s": "네가 나를 사랑하는 것 보다 내가 너를 더 사랑해. (I love you more than you love me.)"
             },
             {
-                "id": "ko-1865",
+                "id": "ko-1769",
                 "w": "말해야",
                 "p": "malhaeya",
-                "d": "I have to say",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "톰은 말더듬이 있는데, 사람들 앞에서 말해야 하면 더 심해져. (Tom has a speech impediment, which gets worse if he has to speak in public.)"
             },
             {
-                "id": "ko-1866",
+                "id": "ko-1770",
                 "w": "몸에",
                 "p": "mome",
-                "d": "on the body",
-                "s": ""
+                "d": "body",
+                "s": "몸에 맞는 옷이 나한테 하나도 없다. (None of my clothes fit.)"
             },
             {
-                "id": "ko-1867",
+                "id": "ko-1771",
                 "w": "아빠한테",
                 "p": "appahante",
-                "d": "To dad",
-                "s": ""
+                "d": "dad, papa",
+                "s": "그 가족은 아빠, 엄마, 두 아이, 이렇게 네 명입니다. (There are four people in the family: a father, a mother, and two children.)"
             },
             {
-                "id": "ko-1868",
+                "id": "ko-1772",
                 "w": "약속을",
                 "p": "yaksogeul",
                 "d": "promise",
-                "s": ""
+                "s": "나는 그와의 약속을 지켰다. (I kept my promise to him.)"
             },
             {
-                "id": "ko-1869",
+                "id": "ko-1773",
                 "w": "드릴게요",
                 "p": "deurilgeyo",
-                "d": "I'll give it to you",
-                "s": ""
+                "d": "drill",
+                "s": "우리가 당신의 요구를 충족시켜 드릴 수 있을지 모르겠네요. (I'm not quite sure if we can meet your requirements.)"
             },
             {
-                "id": "ko-1870",
+                "id": "ko-1774",
                 "w": "미안하다",
                 "p": "mianhada",
-                "d": "I'm sorry",
-                "s": ""
+                "d": "to be ashamed of oneself",
+                "s": "미안하다 사랑한다. (I'm sorry, I love you.)"
             },
             {
-                "id": "ko-1871",
+                "id": "ko-1775",
                 "w": "바람",
                 "p": "baram",
-                "d": "wind, air, draft; fad; vogue",
-                "s": ""
+                "d": "wind, air, draft",
+                "s": "나무 사이로 불어오는 바람 소리가 편안했다. (The sound of the breeze through the trees was relaxing.)"
             },
             {
-                "id": "ko-1872",
+                "id": "ko-1776",
                 "w": "있다고요",
                 "p": "itdagoyo",
-                "d": "There is",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-1873",
+                "id": "ko-1777",
                 "w": "은",
                 "p": "eun",
                 "d": "silver",
-                "s": ""
+                "s": "USSR은 소비에트 사회주의 공화국 연방을 의미합니다. (USSR stands for Union of Soviet Socialist Republics.)"
             },
             {
-                "id": "ko-1874",
+                "id": "ko-1778",
                 "w": "하나를",
                 "p": "hanareul",
                 "d": "one",
-                "s": ""
+                "s": "나는 만년필 하나를 우리 아빠에게 드렸다. (I gave a fountain pen to my father.)"
             },
             {
-                "id": "ko-1875",
+                "id": "ko-1779",
                 "w": "최소한",
                 "p": "choesohan",
                 "d": "at least",
                 "s": ""
             },
             {
-                "id": "ko-1876",
+                "id": "ko-1780",
                 "w": "전하",
                 "p": "jeonha",
-                "d": "Highness (form of address)",
+                "d": "electric charge",
                 "s": ""
             },
             {
-                "id": "ko-1877",
+                "id": "ko-1781",
                 "w": "조니",
                 "p": "joni",
-                "d": "Johnny",
+                "d": "to doze off",
                 "s": ""
             },
             {
-                "id": "ko-1878",
+                "id": "ko-1782",
                 "w": "발사",
                 "p": "balsa",
-                "d": "launch, discharge, fire, shoot",
+                "d": "launch",
                 "s": ""
             },
             {
-                "id": "ko-1879",
+                "id": "ko-1783",
                 "w": "무서운",
                 "p": "museoun",
-                "d": "scary",
-                "s": ""
+                "d": "to be worried",
+                "s": "내가 경험했던 것 중에 가장 무서운 경험이었어. (It was the most frightening experience that I've ever had.)"
             },
             {
-                "id": "ko-1880",
+                "id": "ko-1784",
                 "w": "못하고",
-                "p": "motago",
-                "d": "I can't",
-                "s": ""
+                "p": "mothago",
+                "d": "cannot",
+                "s": "그는 심한 말을 들어도 한마디도 대꾸하지 못하고, 정말 쓸모없는 놈이에요. (He couldn't talk back even when harsh words were thrown at him. What a useless man.)"
             },
             {
-                "id": "ko-1881",
+                "id": "ko-1785",
                 "w": "이길",
                 "p": "igil",
-                "d": "beat",
-                "s": ""
+                "d": "to win",
+                "s": "나는 우리가 이길 가능성이 전혀 없다고 생각했어. (I didn't think we had any chance of winning.)"
             },
             {
-                "id": "ko-1882",
+                "id": "ko-1786",
                 "w": "일어날",
                 "p": "ireonal",
-                "d": "wake up",
-                "s": ""
+                "d": "to arise, get up",
+                "s": "나는 일찍 자기 때문에 일출을 보려 일찍 일어날 수 있다. (I go to bed early so I can get up to capture the sunrise.)"
             },
             {
-                "id": "ko-1883",
+                "id": "ko-1787",
                 "w": "말하자면",
                 "p": "malhajamyeon",
-                "d": "So to speak",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어. (Strictly speaking, Chinese consists of hundreds of dialects.)"
             },
             {
-                "id": "ko-1884",
+                "id": "ko-1788",
                 "w": "까지",
                 "p": "kkaji",
-                "d": "until",
+                "d": "till, to, until",
                 "s": ""
             },
             {
-                "id": "ko-1885",
+                "id": "ko-1789",
                 "w": "나보다",
                 "p": "naboda",
-                "d": "than me",
-                "s": ""
+                "d": "I, me",
+                "s": "우리 엄마는 나보다 동생을 더 좋아해. (My mom likes my brother more than me.)"
             },
             {
-                "id": "ko-1886",
+                "id": "ko-1790",
                 "w": "둘은",
                 "p": "dureun",
-                "d": "The two",
-                "s": ""
+                "d": "two",
+                "s": "너희 둘은 혼자가 되고싶어? (Do you two want to be alone?)"
             },
             {
-                "id": "ko-1887",
-                "w": "놈들은",
-                "p": "nomdeureun",
-                "d": "They are",
-                "s": ""
-            },
-            {
-                "id": "ko-1888",
+                "id": "ko-1791",
                 "w": "능력을",
                 "p": "neungnyeogeul",
-                "d": "ability",
-                "s": ""
+                "d": "capacity, ability",
+                "s": "당신의 능력을 그들에게 펼쳐라. (Show them what you can do.)"
             },
             {
-                "id": "ko-1889",
+                "id": "ko-1792",
                 "w": "차에서",
                 "p": "chaeseo",
-                "d": "in the car",
-                "s": ""
+                "d": "vehicle",
+                "s": "톰은 자기 차에서 자고 있었어. (Tom has been sleeping in his car.)"
             },
             {
-                "id": "ko-1890",
+                "id": "ko-1793",
                 "w": "않네",
                 "p": "anne",
-                "d": "It's not",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰 다친 곳은 그다지 심각하지 않네. (Tom's injuries aren't very serious.)"
             },
             {
-                "id": "ko-1891",
+                "id": "ko-1794",
                 "w": "생각했어요",
                 "p": "saenggakaesseoyo",
-                "d": "I thought",
-                "s": ""
+                "d": "to think",
+                "s": "부탁하신 걸 할 수 있을 거라고 생각했어요. (I thought I'd be able to do what you asked me to do.)"
             },
             {
-                "id": "ko-1892",
+                "id": "ko-1795",
                 "w": "그랬죠",
                 "p": "geuraetjyo",
-                "d": "It was like that",
-                "s": ""
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
-                "id": "ko-1893",
+                "id": "ko-1796",
                 "w": "상처를",
                 "p": "sangcheoreul",
-                "d": "hurt",
-                "s": ""
+                "d": "wound",
+                "s": "레일라는 머리랑 목에 깊은 상처를 입었어. (Layla suffered deep cuts to her head and neck.)"
             },
             {
-                "id": "ko-1894",
+                "id": "ko-1797",
                 "w": "생겼어",
                 "p": "saenggyeosseo",
-                "d": "It looks like",
-                "s": ""
+                "d": "to emerge",
+                "s": "언제 망상증상이 처음으로 생겼어? (When did these delusions first occur?)"
             },
             {
-                "id": "ko-1895",
+                "id": "ko-1798",
                 "w": "물이",
                 "p": "muri",
                 "d": "water",
-                "s": ""
+                "s": "빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다. (You can see this easily if you put a straw into a glass of water.)"
             },
             {
-                "id": "ko-1896",
+                "id": "ko-1799",
                 "w": "가까운",
                 "p": "gakkaun",
-                "d": "close",
-                "s": ""
+                "d": "to be close, to be near",
+                "s": "가장 가까운 골동품 가게가 어디 있는지 알려줄 수 있어? (Can you tell me where the nearest antique shop is?)"
             },
             {
-                "id": "ko-1897",
-                "w": "켄",
-                "p": "ken",
-                "d": "ken",
-                "s": ""
-            },
-            {
-                "id": "ko-1898",
+                "id": "ko-1800",
                 "w": "없나",
-                "p": "eomna",
-                "d": "Is there any?",
-                "s": ""
+                "p": "eopna",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
-                "id": "ko-1899",
+                "id": "ko-1801",
                 "w": "보라고",
                 "p": "borago",
-                "d": "Look",
-                "s": ""
+                "d": "step",
+                "s": "50보 100보 아닌가요? (Isn't 50 steps the same as 100 steps?)"
             },
             {
-                "id": "ko-1900",
+                "id": "ko-1802",
                 "w": "불을",
                 "p": "bureul",
-                "d": "light up",
-                "s": ""
+                "d": "to swell up",
+                "s": "나는 불을 켰다. (I turned on the lights.)"
             },
             {
-                "id": "ko-1901",
+                "id": "ko-1803",
                 "w": "종일",
                 "p": "jongil",
-                "d": "all day",
-                "s": ""
+                "d": "the whole day",
+                "s": "일에는 가지 않았어. 하루 종일 집에 있었어. (I've not been to work. I've stayed at home all day.)"
             },
             {
-                "id": "ko-1902",
+                "id": "ko-1804",
                 "w": "레이",
                 "p": "rei",
-                "d": "Ray",
+                "d": "lei",
                 "s": ""
             },
             {
-                "id": "ko-1903",
+                "id": "ko-1805",
                 "w": "아이구",
                 "p": "aigu",
-                "d": "expression of surprise; oh, ouch",
+                "d": "expression of surprise",
                 "s": ""
             },
             {
-                "id": "ko-1904",
+                "id": "ko-1806",
                 "w": "미래를",
                 "p": "miraereul",
                 "d": "the future",
-                "s": ""
+                "s": "미래를 예언할 수 있는 사람은 아무도 없다. (No one can foretell the future.)"
             },
             {
-                "id": "ko-1905",
+                "id": "ko-1807",
                 "w": "하나의",
                 "p": "hanaui",
                 "d": "one",
-                "s": ""
+                "s": "단 하나의 진실은 현실이다. (The only truth is reality.)"
             },
             {
-                "id": "ko-1906",
+                "id": "ko-1808",
                 "w": "점심",
                 "p": "jeomsim",
-                "d": "lunch, luncheon; midday",
-                "s": ""
+                "d": "lunch, luncheon",
+                "s": "톰은 점심 전에 여기 있기로 되어 있었어. (Tom was supposed to be here before lunch.)"
             },
             {
-                "id": "ko-1907",
+                "id": "ko-1809",
                 "w": "나가요",
                 "p": "nagayo",
-                "d": "I'm going out",
-                "s": ""
+                "d": "to go out",
+                "s": "지금 너무 덥네요. 더위가 조금 가실 때까지 기다렸다가 나가요. (It is very hot right now. Let's wait until the heat eases a little before going out.)"
             },
             {
-                "id": "ko-1908",
+                "id": "ko-1810",
                 "w": "최근에",
                 "p": "choegeune",
-                "d": "recently",
-                "s": ""
+                "d": "lately, recently",
+                "s": "제가 최근에 메리를 봤을 때 그녀는 파란 야구 모자를 쓰고 있었어요. (The last time I saw Mary she was wearing a blue baseball cap.)"
             },
             {
-                "id": "ko-1909",
+                "id": "ko-1811",
                 "w": "있었다고",
                 "p": "isseotdago",
-                "d": "There was",
-                "s": ""
+                "d": "to stay",
+                "s": "톰은 메리가 존이 그걸 해야 할지도 모른다는 걸 알고 있었다고 했어. (Tom said that Mary knew John might have to do that.)"
             },
             {
-                "id": "ko-1910",
+                "id": "ko-1812",
                 "w": "최고",
                 "p": "choego",
-                "d": "the peak, the pinnacle, the topmost point; the best",
+                "d": "the peak",
                 "s": ""
             },
             {
-                "id": "ko-1911",
+                "id": "ko-1813",
                 "w": "가라",
                 "p": "gara",
-                "d": "go",
-                "s": ""
+                "d": "Gaya",
+                "s": "지옥에나 가라! (Go to hell!)"
             },
             {
-                "id": "ko-1912",
+                "id": "ko-1814",
                 "w": "파티에",
                 "p": "patie",
-                "d": "to the party",
-                "s": ""
+                "d": "party",
+                "s": "그 여자가 파티에 입고 온 드레스가 사람들의 눈길을 끌었지. (Her dress attracted everyone's attention at the party.)"
             },
             {
-                "id": "ko-1913",
+                "id": "ko-1815",
                 "w": "진짜야",
                 "p": "jinjjaya",
-                "d": "It's true",
-                "s": ""
+                "d": "really",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
-                "id": "ko-1914",
+                "id": "ko-1816",
                 "w": "아픈",
                 "p": "apeun",
                 "d": "to be painful, to hurt",
-                "s": ""
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
-                "id": "ko-1915",
+                "id": "ko-1817",
                 "w": "리가",
                 "p": "riga",
-                "d": "riga",
-                "s": ""
+                "d": "Riga",
+                "s": "그녀가 그런 일을 했을 리가 없다. (She cannot have done such a thing.)"
             },
             {
-                "id": "ko-1916",
-                "w": "것들",
-                "p": "geotdeul",
-                "d": "things",
-                "s": ""
-            },
-            {
-                "id": "ko-1917",
+                "id": "ko-1818",
                 "w": "전에는",
                 "p": "jeoneneun",
-                "d": "before",
-                "s": ""
+                "d": "formerly",
+                "s": "서류를 읽기 전에는 사인하지 마세요 (Don't sign the document until you've read it.)"
             },
             {
-                "id": "ko-1918",
+                "id": "ko-1819",
                 "w": "맞았어",
                 "p": "majasseo",
-                "d": "That's right",
-                "s": ""
+                "d": "to be correct, right",
+                "s": "봤지, 내가 맞았어. (You see, I'm right.)"
             },
             {
-                "id": "ko-1919",
+                "id": "ko-1820",
                 "w": "걸어",
                 "p": "georeo",
-                "d": "infinitive of 걷다 (geotda, “to walk”); infinitive of 걸다 (geolda, “to hang”)",
-                "s": ""
+                "d": "to walk",
+                "s": "왜 그렇게 빨리 걸어? (Why are you walking so fast?)"
             },
             {
-                "id": "ko-1920",
+                "id": "ko-1821",
                 "w": "않나요",
                 "p": "annayo",
-                "d": "Isn’t it?",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "왜 지금 먹지 않나요? (Why don't you eat now?)"
             },
             {
-                "id": "ko-1921",
+                "id": "ko-1822",
                 "w": "효과가",
                 "p": "hyogwaga",
-                "d": "It works",
-                "s": ""
+                "d": "result, effect",
+                "s": "약의 효과가 점점 없어지기 시작했다. (The effects of the medicine were wearing off.)"
             },
             {
-                "id": "ko-1922",
+                "id": "ko-1823",
                 "w": "때부터",
                 "p": "ttaebuteo",
-                "d": "From when",
-                "s": ""
+                "d": "time",
+                "s": "어렸을 때부터 애니메이션을 아주 좋아했어. (I've loved cartoons since I was little.)"
             },
             {
-                "id": "ko-1923",
+                "id": "ko-1824",
                 "w": "수술에",
                 "p": "susure",
-                "d": "to surgery",
+                "d": "surgery",
                 "s": ""
             },
             {
-                "id": "ko-1924",
+                "id": "ko-1825",
                 "w": "되나요",
                 "p": "doenayo",
-                "d": "Does it work?",
-                "s": ""
+                "d": "to become",
+                "s": "정원에서 키우는 야채의 종류가 얼마나 되나요? (How many kinds of vegetables do you grow in your garden?)"
             },
             {
-                "id": "ko-1925",
+                "id": "ko-1826",
                 "w": "도시",
                 "p": "dosi",
                 "d": "city",
-                "s": ""
+                "s": "해가 도시 위로 떠오는 것을 지켜봤다. (I watched the sun rise over the city.)"
             },
             {
-                "id": "ko-1926",
+                "id": "ko-1827",
                 "w": "아래",
                 "p": "arae",
-                "d": "below, bottom, lower, underneath",
-                "s": ""
+                "d": "below",
+                "s": "책을 책상 아래에 두세요. (Place the book under the desk.)"
             },
             {
-                "id": "ko-1927",
+                "id": "ko-1828",
                 "w": "모릅니다",
                 "p": "moreumnida",
-                "d": "I don't know",
-                "s": ""
+                "d": "to not know",
+                "s": "톰은 제가 왜 여기 있는지 아직 모릅니다. (Tom doesn't know why I'm here yet.)"
             },
             {
-                "id": "ko-1928",
+                "id": "ko-1829",
                 "w": "자리",
                 "p": "jari",
-                "d": "space, place, site (occupied by something or someone); seat, position, role, job, post, -ship",
-                "s": ""
+                "d": "space, place, site",
+                "s": "알제는 많은 알제리 대학이 자리 잡고 있는 곳이야. (Algiers is home to many Algerian universities.)"
             },
             {
-                "id": "ko-1929",
+                "id": "ko-1830",
                 "w": "죄를",
                 "p": "joereul",
-                "d": "sin",
-                "s": ""
+                "d": "fault",
+                "s": "너의 죄를 목숨으로 갚아라. (Repay your sins with your life.)"
             },
             {
-                "id": "ko-1930",
-                "w": "가져다",
-                "p": "gajyeoda",
-                "d": "bring it",
-                "s": ""
-            },
-            {
-                "id": "ko-1931",
+                "id": "ko-1831",
                 "w": "감히",
                 "p": "gamhi",
-                "d": "boldly, fearlessly, daringly",
-                "s": ""
+                "d": "boldly",
+                "s": "세상에, 감히 나한테 한밤중에 전화거는 놈이 누구야?! (Holy crap, who's the asshole who dares call me in the middle of the night?!)"
             },
             {
-                "id": "ko-1932",
+                "id": "ko-1832",
                 "w": "진심이야",
                 "p": "jinsimiya",
-                "d": "I'm serious",
-                "s": ""
+                "d": "sincerity, earnestness",
+                "s": "정말 진심이야! (I really mean it.)"
             },
             {
-                "id": "ko-1933",
+                "id": "ko-1833",
                 "w": "돌려",
                 "p": "dollyeo",
-                "d": "turn",
+                "d": "to turn something",
                 "s": ""
             },
             {
-                "id": "ko-1934",
-                "w": "뭐하고",
-                "p": "mwohago",
-                "d": "What are you doing",
-                "s": ""
-            },
-            {
-                "id": "ko-1935",
+                "id": "ko-1834",
                 "w": "누구지",
                 "p": "nuguji",
-                "d": "who is it",
-                "s": ""
+                "d": "who",
+                "s": "\"이 책 누구 책이지?\" \"제 책이요.\" (\"Whose book is this?\" \"It's mine.\")"
             },
             {
-                "id": "ko-1936",
+                "id": "ko-1835",
                 "w": "아닌가요",
                 "p": "aningayo",
-                "d": "Isn't it?",
-                "s": ""
+                "d": "to not be",
+                "s": "톰은 좋은 친구죠, 아닌가요? (Tom is a good friend of yours, isn't he?)"
             },
             {
-                "id": "ko-1937",
-                "w": "저흰",
-                "p": "jeohuin",
-                "d": "We",
-                "s": ""
-            },
-            {
-                "id": "ko-1938",
+                "id": "ko-1836",
                 "w": "일인지",
                 "p": "irinji",
-                "d": "Is it work?",
-                "s": ""
+                "d": "one person",
+                "s": "무슨 일인지 얘기해 주세요. (Tell me what's going on.)"
             },
             {
-                "id": "ko-1939",
+                "id": "ko-1837",
                 "w": "인간의",
                 "p": "inganui",
-                "d": "human",
-                "s": ""
+                "d": "mortal",
+                "s": "인간의 몸은 수많은 세포들로 구성되어 있어. (A human body consists of a countless number of cells.)"
             },
             {
-                "id": "ko-1940",
+                "id": "ko-1838",
                 "w": "저의",
                 "p": "jeoui",
-                "d": "my",
-                "s": ""
+                "d": "I, me",
+                "s": "이건 저의 컴퓨터예요. (This is my computer.)"
             },
             {
-                "id": "ko-1941",
-                "w": "그땐",
-                "p": "geuttaen",
-                "d": "At that time",
-                "s": ""
-            },
-            {
-                "id": "ko-1942",
+                "id": "ko-1839",
                 "w": "명의",
                 "p": "myeongui",
                 "d": "name, title",
-                "s": ""
+                "s": "독일에서는 삼백만 명의 사람들이 톰처럼 밤에 일해. (In Germany, three million people work at night like Tom.)"
             },
             {
-                "id": "ko-1943",
+                "id": "ko-1840",
                 "w": "남았어",
                 "p": "namasseo",
-                "d": "There's left",
+                "d": "to remain",
                 "s": ""
             },
             {
-                "id": "ko-1944",
-                "w": "하루종일",
-                "p": "harujongil",
-                "d": "all day",
-                "s": ""
-            },
-            {
-                "id": "ko-1945",
+                "id": "ko-1841",
                 "w": "자막",
                 "p": "jamak",
                 "d": "subtitle",
                 "s": ""
             },
             {
-                "id": "ko-1946",
+                "id": "ko-1842",
                 "w": "쉽지",
                 "p": "swipji",
-                "d": "It's easy",
-                "s": ""
+                "d": "to be easy",
+                "s": "내가 하는 일은 네가 하는 것처럼 쉽지 않아. (My work is not as easy as yours.)"
             },
             {
-                "id": "ko-1947",
+                "id": "ko-1843",
                 "w": "하러",
                 "p": "hareo",
                 "d": "to do",
-                "s": ""
+                "s": "작년 여름에 몇 번이나 수영을 하러 갔었습니까? (How often did you go swimming last summer?)"
             },
             {
-                "id": "ko-1948",
+                "id": "ko-1844",
                 "w": "전까지",
                 "p": "jeonkkaji",
-                "d": "Until",
-                "s": ""
+                "d": "before",
+                "s": "통화해서 고객 서비스 상담원에게 말하기 전까지 연결 대기 큐에서 20분이나 기다렸어야 했어. (I had to wait 20 minutes on the phone before reaching the customer service rep.)"
             },
             {
-                "id": "ko-1949",
+                "id": "ko-1845",
                 "w": "냄새",
                 "p": "naemsae",
-                "d": "a smell, whether fragrant or offensive; odour; scent",
-                "s": ""
+                "d": "a smell",
+                "s": "담배 냄새 나. (Smoking stinks.)"
             },
             {
-                "id": "ko-1950",
+                "id": "ko-1846",
                 "w": "갈래",
                 "p": "gallae",
-                "d": "division, separation, split, strand, thread, fork",
-                "s": ""
+                "d": "division",
+                "s": "난 오늘 톰과 다른 사람들이랑 같이 노래방에 가는데 너도 같이 갈래? (I'm going with Tom and the others to a karaoke bar today. Are you coming?)"
             },
             {
-                "id": "ko-1951",
-                "w": "여기선",
-                "p": "yeogiseon",
-                "d": "Here",
-                "s": ""
-            },
-            {
-                "id": "ko-1952",
+                "id": "ko-1847",
                 "w": "생명을",
                 "p": "saengmyeongeul",
                 "d": "life",
                 "s": ""
             },
             {
-                "id": "ko-1953",
+                "id": "ko-1848",
                 "w": "바꿀",
                 "p": "bakkul",
-                "d": "change",
-                "s": ""
+                "d": "to change",
+                "s": "과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다. (The past can only be known, not changed. The future can only be changed, not known.)"
             },
             {
-                "id": "ko-1954",
+                "id": "ko-1849",
                 "w": "아내",
                 "p": "anae",
-                "d": "wife, especially one's own",
-                "s": ""
+                "d": "wife",
+                "s": "빌은 이제 막 그의 두번째 아내와 결혼했다. (Bill just married his second wife.)"
             },
             {
-                "id": "ko-1955",
+                "id": "ko-1850",
                 "w": "어떻게든",
                 "p": "eotteokedeun",
-                "d": "somehow",
+                "d": "anyhow",
                 "s": ""
             },
             {
-                "id": "ko-1956",
+                "id": "ko-1851",
                 "w": "필요로",
                 "p": "piryoro",
                 "d": "need",
-                "s": ""
+                "s": "죽는 일보다 고통 받는 일이 더 많은 용기를 필요로 한다. (It requires more courage to suffer than to die.)"
             },
             {
-                "id": "ko-1957",
+                "id": "ko-1852",
                 "w": "문이",
                 "p": "muni",
-                "d": "the door",
-                "s": ""
+                "d": "door",
+                "s": "내리는 문이 오른쪽인데 왼쪽이라고 표시해 놨다. (The exit door is on the right, but it’s marked as being on the left.)"
             },
             {
-                "id": "ko-1958",
+                "id": "ko-1853",
                 "w": "술을",
                 "p": "sureul",
-                "d": "drink",
-                "s": ""
+                "d": "alcoholic beverage",
+                "s": "어제 술을 너무 많이 마셔서 오늘 머리가 깨질 것처럼 아파요. (I drank so much alcohol yesterday that my head feels like it will explode.)"
             },
             {
-                "id": "ko-1959",
+                "id": "ko-1854",
                 "w": "끝나면",
                 "p": "kkeunnamyeon",
-                "d": "When it's over",
-                "s": ""
+                "d": "to come to an end",
+                "s": "아르바이트는 언제 끝나? (When does your part-time job end?)"
             },
             {
-                "id": "ko-1960",
+                "id": "ko-1855",
                 "w": "왔지",
                 "p": "watji",
-                "d": "came",
-                "s": ""
+                "d": "come",
+                "s": "니가 좀 외로울 것 같아서 내가 와인 한 병을 들고 왔지. (I thought you might be lonely, so I came over with a bottle of wine.)"
             },
             {
-                "id": "ko-1961",
+                "id": "ko-1856",
                 "w": "무기",
                 "p": "mugi",
                 "d": "weapon, arms",
                 "s": ""
             },
             {
-                "id": "ko-1962",
+                "id": "ko-1857",
                 "w": "버리고",
                 "p": "beorigo",
-                "d": "Throw away",
-                "s": ""
+                "d": "to throw away",
+                "s": "나는 그것을 버리고 싶지 않다. (I don't want to throw that away.)"
             },
             {
-                "id": "ko-1963",
+                "id": "ko-1858",
                 "w": "지역",
                 "p": "jiyeok",
-                "d": "area, district, particular geographic region",
-                "s": ""
+                "d": "area",
+                "s": "번호는 932-8647인데, 지역 코드는 몰라. (The number is 932-8647, but I don't know the area code.)"
             },
             {
-                "id": "ko-1964",
+                "id": "ko-1859",
                 "w": "해줘요",
                 "p": "haejwoyo",
-                "d": "Please do it",
-                "s": ""
+                "d": "to do",
+                "s": "아니지. 그 아줌마가 시, 그짓말을 핸거지. (That's not it. That old lady had said a lie.)"
             },
             {
-                "id": "ko-1965",
+                "id": "ko-1860",
                 "w": "어젯밤",
                 "p": "eojetbam",
                 "d": "last night",
-                "s": ""
+                "s": "난 어젯밤 아주 나쁜 꿈을 꿨어. (I had a very bad dream last night.)"
             },
             {
-                "id": "ko-1966",
+                "id": "ko-1861",
                 "w": "된다면",
                 "p": "doendamyeon",
-                "d": "If I could",
-                "s": ""
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
             },
             {
-                "id": "ko-1967",
+                "id": "ko-1862",
                 "w": "올려",
                 "p": "ollyeo",
-                "d": "Put it up",
+                "d": "to raise, to increase",
                 "s": ""
             },
             {
-                "id": "ko-1968",
+                "id": "ko-1863",
                 "w": "싶다면",
                 "p": "sipdamyeon",
-                "d": "If you want",
-                "s": ""
+                "d": "to be desirous of",
+                "s": "카다잔 어를 배우고 싶다면 반드시 읽어보십시오. (Make sure you read this if you want to learn the Kadazan language.)"
             },
             {
-                "id": "ko-1969",
+                "id": "ko-1864",
                 "w": "좋게",
                 "p": "joke",
-                "d": "well",
-                "s": ""
+                "d": "to be good",
+                "s": "좋게 끝날 것 같지 않은 기분이야. (I feel like this isn't going to end well.)"
             },
             {
-                "id": "ko-1970",
+                "id": "ko-1865",
                 "w": "될지",
                 "p": "doelji",
-                "d": "Will it happen?",
-                "s": ""
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
             },
             {
-                "id": "ko-1971",
+                "id": "ko-1866",
                 "w": "끌고",
                 "p": "kkeulgo",
-                "d": "drag",
-                "s": ""
+                "d": "to pull",
+                "s": "한국의 엔터테인먼트 문화는 세계적으로 인기를 끌고 있어요. (Korean entertainment culture is popular worldwide.)"
             },
             {
-                "id": "ko-1972",
+                "id": "ko-1867",
                 "w": "거래를",
                 "p": "georaereul",
-                "d": "make a deal",
-                "s": ""
+                "d": "transaction",
+                "s": "멕시코의 마약 카르텔은 수익이 나는 미국행 마약 거래 루트를 놓고 경쟁하고 있다. (Mexican drug cartels are vying over lucrative drug-trafficking routes to the U.S.)"
             },
             {
-                "id": "ko-1973",
+                "id": "ko-1868",
                 "w": "볼까",
                 "p": "bolkka",
-                "d": "Let's see",
+                "d": "할까",
                 "s": ""
             },
             {
-                "id": "ko-1974",
+                "id": "ko-1869",
                 "w": "조심해요",
                 "p": "josimhaeyo",
-                "d": "Be careful",
+                "d": "to be careful",
                 "s": ""
             },
             {
-                "id": "ko-1975",
+                "id": "ko-1870",
                 "w": "지금부터",
                 "p": "jigeumbuteo",
-                "d": "From now on",
-                "s": ""
+                "d": "now",
+                "s": "지금부터 제 얘기 잘 들으세요. (Now, listen carefully to what I am saying.)"
             },
             {
-                "id": "ko-1976",
+                "id": "ko-1871",
                 "w": "폐하",
                 "p": "pyeha",
-                "d": "His Majesty, Your Majesty",
+                "d": "His Majesty",
                 "s": ""
             },
             {
-                "id": "ko-1977",
+                "id": "ko-1872",
                 "w": "만",
                 "p": "man",
-                "d": "only",
-                "s": ""
+                "d": "ten thousand",
+                "s": "과장하지 말라고 100만 번은 말했을 텐데. (I've told you a million times not to exaggerate.)"
             },
             {
-                "id": "ko-1978",
+                "id": "ko-1873",
                 "w": "미안한데",
                 "p": "mianhande",
-                "d": "to be ashamed of oneself; to be sorry",
-                "s": ""
+                "d": "to be ashamed of oneself",
+                "s": "미안한데, 무슨 말을 하는지 못 알아듣겠어. (Sorry, I don't get your point.)"
             },
             {
-                "id": "ko-1979",
+                "id": "ko-1874",
                 "w": "축하해",
                 "p": "chukahae",
-                "d": "congratulations",
-                "s": ""
+                "d": "to congratulate",
+                "s": "생일 축하해 Muiriel! (Happy birthday, Muiriel!)"
             },
             {
-                "id": "ko-1980",
+                "id": "ko-1875",
                 "w": "하",
                 "p": "ha",
-                "d": "ha",
-                "s": ""
+                "d": "last, lowest",
+                "s": "통치하 (統治下) (under the rule of...)"
             },
             {
-                "id": "ko-1981",
+                "id": "ko-1876",
                 "w": "인생",
                 "p": "insaeng",
-                "d": "one's life; human life generally",
-                "s": ""
+                "d": "one's life",
+                "s": "나는 그가 자신의 인생 경험에 대해 열변을 토하는 것을 참을 수가 없다. (I can't stand him holding forth about his life experience.)"
             },
             {
-                "id": "ko-1982",
+                "id": "ko-1877",
                 "w": "안전하게",
                 "p": "anjeonhage",
-                "d": "safely",
+                "d": "out of harm 's way",
                 "s": ""
             },
             {
-                "id": "ko-1983",
+                "id": "ko-1878",
                 "w": "말하길",
                 "p": "malhagil",
-                "d": "said",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "톰이 말하길 메리는 저런 것을 한번도 한 적이 없대. (Tom said that Mary has never done that.)"
             },
             {
-                "id": "ko-1984",
+                "id": "ko-1879",
                 "w": "언니가",
                 "p": "eonniga",
-                "d": "My sister",
-                "s": ""
+                "d": "older sister of a female",
+                "s": "그녀는 내 언니가 아니라 어머니예요. (She is not my sister but my mother.)"
             },
             {
-                "id": "ko-1985",
+                "id": "ko-1880",
                 "w": "유명한",
                 "p": "yumyeonghan",
-                "d": "famous",
-                "s": ""
+                "d": "to be famous",
+                "s": "내 꿈은 유명한 가수가 되는 것이야. (My dream is to become a famous singer.)"
             },
             {
-                "id": "ko-1986",
+                "id": "ko-1881",
                 "w": "숨어",
                 "p": "sumeo",
-                "d": "hiding",
-                "s": ""
+                "d": "to hide, disappear",
+                "s": "고양이가 덤불 속에 숨어 있었어. (The cat lay hidden in the bushes.)"
             },
             {
-                "id": "ko-1987",
+                "id": "ko-1882",
                 "w": "로",
                 "p": "ro",
-                "d": "by",
-                "s": ""
+                "d": "string, cord",
+                "s": "내일 밤에 TV로 보고 싶은 영화가 있다. (There's a movie I want to watch on TV tomorrow night.)"
             },
             {
-                "id": "ko-1988",
+                "id": "ko-1883",
                 "w": "밤새",
                 "p": "bamsae",
-                "d": "contraction of 밤사이 (bamsai, “all night long; throughout the night”)",
-                "s": ""
+                "d": "overnight",
+                "s": "나는 밤새 일하던 중이었어. (I've been working all night.)"
             },
             {
-                "id": "ko-1989",
-                "w": "처음엔",
-                "p": "cheoeumen",
-                "d": "At first",
-                "s": ""
-            },
-            {
-                "id": "ko-1990",
+                "id": "ko-1884",
                 "w": "나요",
                 "p": "nayo",
-                "d": "to be born; to appear, arise, occur, take place",
-                "s": ""
+                "d": "to be born",
+                "s": "어제 너무 많이 먹어서 이제 난 병이 나요. (Yesterday I ate too much and now I feel sick.)"
             },
             {
-                "id": "ko-1991",
+                "id": "ko-1885",
                 "w": "잠을",
                 "p": "jameul",
-                "d": "sleep",
-                "s": ""
+                "d": "sleep, nap",
+                "s": "톰은 버스에서 잠을 잘 수가 없었다. (Tom wasn't able to sleep on the bus.)"
             },
             {
-                "id": "ko-1992",
+                "id": "ko-1886",
                 "w": "세상은",
                 "p": "sesangeun",
-                "d": "The world",
-                "s": ""
+                "d": "world",
+                "s": "세상은 넓고, 그 안엔 다양한 삶과 언어, 문화들이 존재한다. (In our wide world, there exist countless lifestyles, languages and cultures.)"
             },
             {
-                "id": "ko-1993",
+                "id": "ko-1887",
                 "w": "얘는",
                 "p": "yaeneun",
-                "d": "This is",
-                "s": ""
+                "d": "this kid",
+                "s": "얘가 항상 문제야. (This is always the problem.)"
             },
             {
-                "id": "ko-1994",
+                "id": "ko-1888",
                 "w": "오랜",
                 "p": "oraen",
-                "d": "longstanding; of long duration (of past time); long-time, old",
-                "s": ""
+                "d": "longstanding",
+                "s": "우리는 오랜 시간을 열심히 일한 후에는 게을러 지려는 경향이 있다. (We tend to slack off after many hours of hard work.)"
             },
             {
-                "id": "ko-1995",
+                "id": "ko-1889",
                 "w": "최근",
                 "p": "choegeun",
-                "d": "the latest, the most recent; a close distance",
-                "s": ""
+                "d": "the latest",
+                "s": "최근 결혼을 택하지 않는 사람들이 많아지고 있다. (Nowadays, more and more people are choosing not to get married.)"
             },
             {
-                "id": "ko-1996",
+                "id": "ko-1890",
                 "w": "좋죠",
                 "p": "jochyo",
-                "d": "It's good",
-                "s": ""
+                "d": "to be good",
+                "s": "티켓을 잃어버렸어요. 어떻하면 좋죠? (I lost my ticket. What should I do?)"
             },
             {
-                "id": "ko-1997",
-                "w": "카레브",
-                "p": "karebeu",
-                "d": "Karev",
-                "s": ""
-            },
-            {
-                "id": "ko-1998",
-                "w": "내말은",
-                "p": "naemareun",
-                "d": "I mean",
-                "s": ""
-            },
-            {
-                "id": "ko-1999",
+                "id": "ko-1891",
                 "w": "리처드",
                 "p": "richeodeu",
-                "d": "richard",
+                "d": "Richard",
                 "s": ""
             },
             {
-                "id": "ko-2000",
+                "id": "ko-1892",
                 "w": "사람한테",
                 "p": "saramhante",
-                "d": "To people",
-                "s": ""
+                "d": "human being, person",
+                "s": "내가 그 사람한테 사진 좀 찍어 달라고 했어요. (I asked him to take some pictures.)"
             },
             {
-                "id": "ko-2001",
+                "id": "ko-1893",
                 "w": "학교에서",
                 "p": "hakgyoeseo",
-                "d": "at school",
-                "s": ""
+                "d": "school",
+                "s": "톰은 자기가 오늘 학교에서 아무것도 배우지 않았다고 했어. (Tom said he didn't learn anything at school today.)"
             },
             {
-                "id": "ko-2002",
+                "id": "ko-1894",
                 "w": "달려",
                 "p": "dallyeo",
-                "d": "run",
-                "s": ""
+                "d": "to run, to ride",
+                "s": "나는 매일 10 킬로미터를 달려. (I run 10 kilometers every day.)"
             },
             {
-                "id": "ko-2003",
-                "w": "갈거야",
-                "p": "galgeoya",
-                "d": "I'm going",
-                "s": ""
-            },
-            {
-                "id": "ko-2004",
+                "id": "ko-1895",
                 "w": "왼쪽",
                 "p": "oenjjok",
                 "d": "left side",
-                "s": ""
+                "s": "왼쪽으로 돌아주세요. (Please turn left.)"
             },
             {
-                "id": "ko-2005",
+                "id": "ko-1896",
                 "w": "사실이",
                 "p": "sasiri",
-                "d": "It's true",
-                "s": ""
+                "d": "fact, reality, truth",
+                "s": "톰은 네가 나에게 말한것은 사실이 아니라고 말했다. (Tom said that what you told me wasn't true.)"
             },
             {
-                "id": "ko-2006",
+                "id": "ko-1897",
                 "w": "경우",
                 "p": "gyeongu",
-                "d": "conditions, circumstances; case, event",
-                "s": ""
+                "d": "conditions",
+                "s": "혹시 불분명한 점이 있을 경우 연락 주십시오. (In case something is not clear, please contact us.)"
             },
             {
-                "id": "ko-2007",
+                "id": "ko-1898",
                 "w": "안해",
                 "p": "anhae",
                 "d": "wife",
-                "s": ""
+                "s": "왜 너는 아무 대답을 안해? (Why don't you answer me at all?)"
             },
             {
-                "id": "ko-2008",
+                "id": "ko-1899",
                 "w": "수많은",
                 "p": "sumaneun",
-                "d": "countless",
-                "s": ""
+                "d": "To be many",
+                "s": "인간의 몸은 수많은 세포들로 구성되어 있어. (A human body consists of a countless number of cells.)"
             },
             {
-                "id": "ko-2009",
+                "id": "ko-1900",
                 "w": "가기",
                 "p": "gagi",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
+                "d": "to go",
+                "s": "그는 이제 막 학교에 가기 시작했다. (He just started going to school.)"
             },
             {
-                "id": "ko-2010",
+                "id": "ko-1901",
                 "w": "귀여운",
                 "p": "gwiyeoun",
-                "d": "Attributive form of 귀엽다 (gwiyeopda).",
-                "s": ""
+                "d": "cute",
+                "s": "메리가 앨리스보다 훨씬 더 귀여운 것 같아. (I think Mary is way cuter than Alice.)"
             },
             {
-                "id": "ko-2011",
+                "id": "ko-1902",
                 "w": "채",
                 "p": "chae",
-                "d": "Chae",
-                "s": ""
+                "d": "a whip, a scourge",
+                "s": "무슨 말을 할지 모르는 채, 그는 침묵을 지키고 있었다. (Not knowing what to say, he remained silent.)"
             },
             {
-                "id": "ko-2012",
+                "id": "ko-1903",
                 "w": "크리스",
                 "p": "keuriseu",
-                "d": "chris",
+                "d": "a transliteration of the English unisex given name Chris",
                 "s": ""
             },
             {
-                "id": "ko-2013",
+                "id": "ko-1904",
                 "w": "하니",
                 "p": "hani",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "d": "to do",
+                "s": "톰이 그걸 했다고 하니 기뻐. (I'm glad to hear Tom did that.)"
             },
             {
-                "id": "ko-2014",
+                "id": "ko-1905",
                 "w": "소식을",
                 "p": "sosigeul",
                 "d": "news",
-                "s": ""
+                "s": "나는 톰과 메리 둘 다 해고당했다는 소식을 들었다. (I heard that both Tom and Mary have been fired.)"
             },
             {
-                "id": "ko-2015",
+                "id": "ko-1906",
                 "w": "의미가",
                 "p": "uimiga",
                 "d": "meaning",
-                "s": ""
+                "s": "너 없이는 내 인생은 의미가 없었을 거야. (My life would be meaningless without you.)"
             },
             {
-                "id": "ko-2016",
+                "id": "ko-1907",
                 "w": "사람과",
                 "p": "saramgwa",
-                "d": "with people",
-                "s": ""
+                "d": "human being, person",
+                "s": "너 언제 그 사람과 결혼하자고 할 거야? (When are you going to ask her to marry you?)"
             },
             {
-                "id": "ko-2017",
+                "id": "ko-1908",
                 "w": "받았어요",
                 "p": "badasseoyo",
-                "d": "I received it",
-                "s": ""
+                "d": "to get",
+                "s": "제 문자 못 받았어요? (Did you not get my text?)"
             },
             {
-                "id": "ko-2018",
+                "id": "ko-1909",
                 "w": "됐습니다",
                 "p": "dwaetseumnida",
-                "d": "Done",
-                "s": ""
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
             },
             {
-                "id": "ko-2019",
+                "id": "ko-1910",
                 "w": "전쟁",
                 "p": "jeonjaeng",
                 "d": "war",
-                "s": ""
+                "s": "작은 시골마을이나 섬에는 전쟁 중에도 조용할 수도 있어요. (Small rural villages or islands could be peaceful even in wartime.)"
             },
             {
-                "id": "ko-2020",
+                "id": "ko-1911",
                 "w": "손이",
                 "p": "soni",
                 "d": "hand",
-                "s": ""
+                "s": "네 손이 얼음처럼 차가워. (Your hand is as cold as ice.)"
             },
             {
-                "id": "ko-2021",
+                "id": "ko-1912",
                 "w": "장난",
                 "p": "jangnan",
-                "d": "mischief, fun, practical joke",
-                "s": ""
+                "d": "mischief",
+                "s": "인ᄉᆡᆼ은 쟉난이 안이라고 나ᄂᆞᆫ 인ᄉᆡᆼ을 희롱으로 본다고 그ᄅᆡᆺ지? ([You said] that life is not a joke and I view my life as a joke?)"
             },
             {
-                "id": "ko-2022",
+                "id": "ko-1913",
                 "w": "괜찮니",
                 "p": "gwaenchanni",
-                "d": "Are you okay?",
-                "s": ""
+                "d": "to be nice",
+                "s": "지금까지는 괜찮았지만 정작은 이제부터다. (So far so good, but we shall have to be ready for the worse.)"
             },
             {
-                "id": "ko-2023",
+                "id": "ko-1914",
                 "w": "시작해",
                 "p": "sijakae",
-                "d": "start",
-                "s": ""
+                "d": "to begin",
+                "s": "게임은 2:30에 시작해. (The game starts 2:30.)"
             },
             {
-                "id": "ko-2024",
+                "id": "ko-1915",
                 "w": "아니니까",
                 "p": "aninikka",
-                "d": "to not be (something)",
-                "s": ""
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
             },
             {
-                "id": "ko-2025",
-                "w": "스콧",
-                "p": "seukot",
-                "d": "scott",
-                "s": ""
-            },
-            {
-                "id": "ko-2026",
+                "id": "ko-1916",
                 "w": "드릴까요",
                 "p": "deurilkkayo",
-                "d": "Shall I give it to you?",
-                "s": ""
+                "d": "drill",
+                "s": "제가 좀 도와 드릴까요? (Can I help you?)"
             },
             {
-                "id": "ko-2027",
+                "id": "ko-1917",
                 "w": "마셔",
                 "p": "masyeo",
-                "d": "to smash",
-                "s": ""
+                "d": "to drink",
+                "s": "케이트는 매일 많은 양의 우유를 마셔. (Kate drinks lots of milk every day.)"
             },
             {
-                "id": "ko-2028",
+                "id": "ko-1918",
                 "w": "쿠키",
                 "p": "kuki",
-                "d": "cookie (baked good); HTTP cookie",
+                "d": "cookie",
                 "s": ""
             },
             {
-                "id": "ko-2029",
+                "id": "ko-1919",
                 "w": "보이는데",
                 "p": "boineunde",
-                "d": "I can see it",
-                "s": ""
+                "d": "to be seen",
+                "s": "이 피자 맛있어 보여요. (This pizza looks delicious.)"
             },
             {
-                "id": "ko-2030",
+                "id": "ko-1920",
                 "w": "끝났어요",
                 "p": "kkeunnasseoyo",
-                "d": "It's over",
-                "s": ""
+                "d": "to come to an end",
+                "s": "저희 수업은 30분 전에 끝났어요. (Our class ended half an hour ago.)"
             },
             {
-                "id": "ko-2031",
+                "id": "ko-1921",
                 "w": "방에서",
                 "p": "bangeseo",
-                "d": "in the room",
-                "s": ""
+                "d": "room",
+                "s": "내향적인 사람은 아무것도 없는 작은 방에서 더없이 행복하지. (An introvert is perfectly happy in a tiny little room with nothing.)"
             },
             {
-                "id": "ko-2032",
+                "id": "ko-1922",
                 "w": "카라",
                 "p": "kara",
                 "d": "collar",
                 "s": ""
             },
             {
-                "id": "ko-2033",
+                "id": "ko-1923",
                 "w": "담배",
                 "p": "dambae",
-                "d": "tobacco; cigarette",
-                "s": ""
+                "d": "tobacco",
+                "s": "그 사람 작년에 담배 끊었어. (He stopped smoking last year.)"
             },
             {
-                "id": "ko-2034",
+                "id": "ko-1924",
                 "w": "잘하고",
                 "p": "jalhago",
-                "d": "Doing well",
-                "s": ""
+                "d": "to do something well",
+                "s": "마리아는 스페인어를 매우 잘합니다. (Maria speaks Spanish very well.)"
             },
             {
-                "id": "ko-2035",
-                "w": "내겐",
-                "p": "naegen",
-                "d": "To me",
-                "s": ""
-            },
-            {
-                "id": "ko-2036",
+                "id": "ko-1925",
                 "w": "저에게",
                 "p": "jeoege",
-                "d": "to me",
-                "s": ""
+                "d": "that",
+                "s": "저에게 해당되는 할인 티켓은 없나요? (Are there any discount tickets for me?)"
             },
             {
-                "id": "ko-2037",
+                "id": "ko-1926",
                 "w": "파티를",
                 "p": "patireul",
                 "d": "party",
-                "s": ""
+                "s": "다음에 파티를 여시면 저를 초대해 주세요. (Please invite me the next time you have a party.)"
             },
             {
-                "id": "ko-2038",
+                "id": "ko-1927",
                 "w": "폴",
                 "p": "pol",
-                "d": "Gyeongsang, Hamgyong, and Jeolla dialect form of 팔 (pal, “arm”)",
+                "d": "arm",
                 "s": ""
             },
             {
-                "id": "ko-2039",
-                "w": "뿐이지",
-                "p": "ppuniji",
-                "d": "It's just",
-                "s": ""
-            },
-            {
-                "id": "ko-2040",
+                "id": "ko-1928",
                 "w": "맘대로",
                 "p": "mamdaero",
-                "d": "contraction of 마음대로 (ma'eumdaero): as one pleases/likes",
-                "s": ""
+                "d": "as one pleases/likes",
+                "s": "니 맘대로 하세요. (Do what you want.)"
             },
             {
-                "id": "ko-2041",
+                "id": "ko-1929",
                 "w": "전해",
                 "p": "jeonhae",
-                "d": "conveyed",
-                "s": ""
+                "d": "to pass along",
+                "s": "곧 집에 갈 거라고 톰한테 전해. (Tell Tom I'll be home soon.)"
             },
             {
-                "id": "ko-2042",
+                "id": "ko-1930",
                 "w": "데리러",
                 "p": "derireo",
-                "d": "pick up",
-                "s": ""
+                "d": "to bring or take along",
+                "s": "사미가 너 데리러 올 거야. (Sami will come get you.)"
             },
             {
-                "id": "ko-2043",
+                "id": "ko-1931",
                 "w": "장",
                 "p": "jang",
-                "d": "chapter",
-                "s": ""
+                "d": "sauce",
+                "s": "오늘은 장을 보러 갔다. (I went to the marketplace today.)"
             },
             {
-                "id": "ko-2044",
+                "id": "ko-1932",
                 "w": "삶의",
                 "p": "salmui",
-                "d": "of life",
-                "s": ""
+                "d": "aged",
+                "s": "삶의 경험은 중요한 지식체계이다. (Life experience is the chief body of knowledge.)"
             },
             {
-                "id": "ko-2045",
+                "id": "ko-1933",
                 "w": "괜찮습니다",
                 "p": "gwaenchanseumnida",
-                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
-                "s": ""
+                "d": "to be nice",
+                "s": "괜찮습니다! (Never mind!)"
             },
             {
-                "id": "ko-2046",
-                "w": "찰리",
-                "p": "challi",
-                "d": "charlie",
-                "s": ""
-            },
-            {
-                "id": "ko-2047",
+                "id": "ko-1934",
                 "w": "없었다",
                 "p": "eopseotda",
-                "d": "There wasn't",
-                "s": ""
+                "d": "to have none",
+                "s": "8시간 동안 운전을 한 후에 톰은 더이상 운전을 할 수 없었다. (After driving for eight hours, Tom just couldn't drive any longer.)"
             },
             {
-                "id": "ko-2048",
+                "id": "ko-1935",
                 "w": "영국",
                 "p": "yeongguk",
-                "d": "england",
-                "s": ""
+                "d": "United Kingdom",
+                "s": "영국 영화가 미국 영화보다 낫다. (British films are better than American films.)"
             },
             {
-                "id": "ko-2049",
+                "id": "ko-1936",
                 "w": "왔네",
                 "p": "wanne",
-                "d": "You came",
-                "s": ""
+                "d": "come",
+                "s": "자려고 하던 참에 그로부터 전화가 왔다. (I was about to go to bed when he called me up.)"
             },
             {
-                "id": "ko-2050",
+                "id": "ko-1937",
                 "w": "필요합니다",
                 "p": "piryohamnida",
-                "d": "to have a need; to be necessary, to be needed",
-                "s": ""
+                "d": "to have a need",
+                "s": "외국에 가려면 여권이 필요합니다. (If you are going abroad, it's necessary to have a passport.)"
             },
             {
-                "id": "ko-2051",
+                "id": "ko-1938",
                 "w": "라",
                 "p": "ra",
-                "d": "la (musical note)",
+                "d": "la",
                 "s": ""
             },
             {
-                "id": "ko-2052",
+                "id": "ko-1939",
                 "w": "대니",
                 "p": "daeni",
-                "d": "Danny",
-                "s": ""
+                "d": "To arrive at a given time",
+                "s": "그는 몰래 적군 뒤로 가서 등에 권총을 대고 무장해제를 시켰다. (He went behind the enemy secretly, turned to the handgun to him, and made him disarmed.)"
             },
             {
-                "id": "ko-2053",
+                "id": "ko-1940",
                 "w": "이상해",
                 "p": "isanghae",
-                "d": "to be strange, to be unusual",
-                "s": ""
+                "d": "to be strange",
+                "s": "그렇게 이상해? (Is it strange?)"
             },
             {
-                "id": "ko-2054",
+                "id": "ko-1941",
                 "w": "사건이",
                 "p": "sageoni",
-                "d": "the incident",
-                "s": ""
+                "d": "a noteworthy or remarkable incident",
+                "s": "경찰은 도심에서 발생한 강도 사건 이후 감시카메라 영상을 샅샅이 수색하고 있다. (Police are scouring security footage following a robbery in the city centre.)"
             },
             {
-                "id": "ko-2055",
+                "id": "ko-1942",
                 "w": "매번",
                 "p": "maebeon",
                 "d": "all the time",
-                "s": ""
+                "s": "나는 이 소설을 읽을 때마다, 매번 이 소설에 흥미를 느낀다. (Every time I read this novel, I find it very interesting.)"
             },
             {
-                "id": "ko-2056",
+                "id": "ko-1943",
                 "w": "거잖아요",
                 "p": "geojanayo",
-                "d": "That's right",
-                "s": ""
+                "d": "thing",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
             },
             {
-                "id": "ko-2057",
+                "id": "ko-1944",
                 "w": "보스",
                 "p": "boseu",
-                "d": "boss (criminal organization); boss (enemy)",
+                "d": "boss",
                 "s": ""
             },
             {
-                "id": "ko-2058",
-                "w": "걸세",
-                "p": "geolse",
-                "d": "Girl",
-                "s": ""
-            },
-            {
-                "id": "ko-2059",
+                "id": "ko-1945",
                 "w": "생각해봐",
                 "p": "saenggakaebwa",
-                "d": "Think about it",
-                "s": ""
+                "d": "to think",
+                "s": "친구한테 얘기하는 중이라고 생각해봐. (Suppose you are talking to your friend.)"
             },
             {
-                "id": "ko-2060",
+                "id": "ko-1946",
                 "w": "오신",
                 "p": "osin",
-                "d": "Welcome",
-                "s": ""
+                "d": "to come",
+                "s": "위키낱말사전에 오신 것을 환영합니다. (Welcome to Wiktionary.)"
             },
             {
-                "id": "ko-2061",
+                "id": "ko-1947",
                 "w": "비밀을",
                 "p": "bimireul",
                 "d": "secret",
-                "s": ""
+                "s": "그는 자신의 비밀을 밝히지 않았다. (He didn't reveal his secret.)"
             },
             {
-                "id": "ko-2062",
-                "w": "있긴",
-                "p": "itgin",
-                "d": "There is",
-                "s": ""
-            },
-            {
-                "id": "ko-2063",
+                "id": "ko-1948",
                 "w": "개를",
                 "p": "gaereul",
                 "d": "dog",
-                "s": ""
+                "s": "남아있는 도넛 세 개 중 한 개를 먹었어. (I ate one of the three remaining donuts.)"
             },
             {
-                "id": "ko-2064",
+                "id": "ko-1949",
                 "w": "간다고",
                 "p": "gandago",
-                "d": "I'm going",
-                "s": ""
+                "d": "to go",
+                "s": "톰이 수영하러 간다고 말했어. (Tom said he wanted to go swimming.)"
             },
             {
-                "id": "ko-2065",
+                "id": "ko-1950",
                 "w": "빠르게",
                 "p": "ppareuge",
-                "d": "quickly",
-                "s": ""
+                "d": "allegro",
+                "s": "아이를 살아 있는 상태로 찾을 희망이 빠르게 사라지고 있다. (Hope of finding the child alive is fading rapidly.)"
             },
             {
-                "id": "ko-2066",
+                "id": "ko-1951",
                 "w": "생각합니다",
                 "p": "saenggakamnida",
-                "d": "I think",
-                "s": ""
+                "d": "to think",
+                "s": "외국 친구들은 처음으로 피단을 보면 모두 상한 달걀이라고 생각합니다. (When foreign friends first see century eggs, they all think they're rotten eggs.)"
             },
             {
-                "id": "ko-2067",
+                "id": "ko-1952",
                 "w": "괜찮으세요",
                 "p": "gwaenchaneuseyo",
-                "d": "to be nice, good, passable, OK, all right; to be allowed to ...; may, can; it is OK to ...",
-                "s": ""
+                "d": "to be nice",
+                "s": "괜찮으세요? (Are you alright?)"
             },
             {
-                "id": "ko-2068",
+                "id": "ko-1953",
                 "w": "어찌",
                 "p": "eojji",
-                "d": "How, in what way or for what purpose.",
-                "s": ""
+                "d": "How",
+                "s": "어찌 됐던 간에, 톰은 행복하다. (In spite of everything, Tom is happy.)"
             },
             {
-                "id": "ko-2069",
+                "id": "ko-1954",
                 "w": "오른쪽",
                 "p": "oreunjjok",
-                "d": "right-hand; the right side",
-                "s": ""
+                "d": "right-hand",
+                "s": "톰은 오른쪽 눈밑에 독특한 상처가 있다. (Tom has a distinctive scar under his right eye.)"
             },
             {
-                "id": "ko-2070",
+                "id": "ko-1955",
                 "w": "말로",
                 "p": "mallo",
-                "d": "in words",
-                "s": ""
+                "d": "verbally, vocally",
+                "s": "황야를 휩쓸은, 이 길고, 말로 형용할 수 없는 슬픔이 담긴, 낮은 신음. (A long, low moan, indescribably sad, swept over the moor.)"
             },
             {
-                "id": "ko-2071",
+                "id": "ko-1956",
                 "w": "위험해",
                 "p": "wiheomhae",
                 "d": "dangerous",
-                "s": ""
+                "s": "톰은 조금 위험해 보였어. (Tom seemed a little dangerous.)"
             },
             {
-                "id": "ko-2072",
+                "id": "ko-1957",
                 "w": "범인은",
                 "p": "beomineun",
-                "d": "The culprit is",
+                "d": "criminal",
                 "s": ""
             },
             {
-                "id": "ko-2073",
+                "id": "ko-1958",
                 "w": "가방",
                 "p": "gabang",
-                "d": "bag; briefcase",
-                "s": ""
+                "d": "bag",
+                "s": "내 (여행용) 가방 어디에 두었니? (Where did you put my suitcase?)"
             },
             {
-                "id": "ko-2074",
+                "id": "ko-1959",
                 "w": "떠나지",
                 "p": "tteonaji",
-                "d": "leave",
-                "s": ""
+                "d": "to leave",
+                "s": "톰은 원하는 걸 얻을 때까지는 떠나지 않을 거야. (Tom won't leave until he gets what he wants.)"
             },
             {
-                "id": "ko-2075",
+                "id": "ko-1960",
                 "w": "만들었어",
                 "p": "mandeureosseo",
-                "d": "I made it",
-                "s": ""
+                "d": "to make",
+                "s": "난 톰을 위해서 아주 큰 샌드위치를 만들었어. (I made a really big sandwich for Tom.)"
             },
             {
-                "id": "ko-2076",
+                "id": "ko-1961",
                 "w": "싶다고",
                 "p": "sipdago",
-                "d": "I want to",
-                "s": ""
+                "d": "to be desirous of",
+                "s": "톰은 경험이 있는 사람을 고용하고 싶다고 말했다. (Tom said he wanted to hire someone with experience.)"
             },
             {
-                "id": "ko-2077",
+                "id": "ko-1962",
                 "w": "개가",
                 "p": "gaega",
-                "d": "remarriage (by a woman)",
-                "s": ""
+                "d": "remarriage",
+                "s": "톰은 왜 자기 집에 개가 있었는지 알고 싶었다. (Tom wondered why there was a dog in his house.)"
             },
             {
-                "id": "ko-2078",
+                "id": "ko-1963",
                 "w": "뉴욕",
                 "p": "nyuyok",
-                "d": "new york",
+                "d": "New York",
                 "s": ""
             },
             {
-                "id": "ko-2079",
+                "id": "ko-1964",
                 "w": "그러세요",
                 "p": "geureoseyo",
-                "d": "Please do so",
-                "s": ""
+                "d": "to be thus, in that way",
+                "s": "아무리 그렇다 하더라도 난 매우 자랑스러워. (Nevertheless, I'm extremely proud.)"
             },
             {
-                "id": "ko-2080",
+                "id": "ko-1965",
                 "w": "먼",
                 "p": "meon",
-                "d": "realis adnominal of 멀다 (meolda, “to be far, distant”)",
+                "d": "to be far",
                 "s": ""
             },
             {
-                "id": "ko-2081",
-                "w": "있는거",
-                "p": "inneungeo",
-                "d": "There is something",
-                "s": ""
-            },
-            {
-                "id": "ko-2082",
+                "id": "ko-1966",
                 "w": "이따",
                 "p": "itta",
-                "d": "alternative form of 이따가 (ittaga)",
-                "s": ""
+                "d": "a little later",
+                "s": "이건 좀 이따 하자. (Let's do this later.)"
             },
             {
-                "id": "ko-2083",
+                "id": "ko-1967",
                 "w": "느낄",
                 "p": "neukkil",
-                "d": "feel",
-                "s": ""
+                "d": "to feel",
+                "s": "학생들은 자신이 수용되고 존중받고 있다고 느낄 때 더 잘 배웁니다. (Students learn better when they feel accepted and valued.)"
             },
             {
-                "id": "ko-2084",
+                "id": "ko-1968",
                 "w": "우와",
                 "p": "uwa",
-                "d": "Wow",
-                "s": ""
+                "d": "above",
+                "s": "분노한 시위대들이 대통령궁으로 우 몰려들었다. (The outraged protesters stormed into the presidential palace.)"
             },
             {
-                "id": "ko-2085",
+                "id": "ko-1969",
                 "w": "위하여",
                 "p": "wihayeo",
-                "d": "for",
-                "s": ""
+                "d": "to help",
+                "s": "세계평화를 위하여 (for the sake of world peace)"
             },
             {
-                "id": "ko-2086",
+                "id": "ko-1970",
                 "w": "열쇠",
                 "p": "yeolsoe",
-                "d": "key; means",
-                "s": ""
+                "d": "key",
+                "s": "열쇠로 자물쇠를 열다 (open a lock with a key)"
             },
             {
-                "id": "ko-2087",
+                "id": "ko-1971",
                 "w": "도시를",
                 "p": "dosireul",
-                "d": "the city",
-                "s": ""
+                "d": "city",
+                "s": "그는 수년간 택시 운전사로 일해 왔기에 이 도시를 잘 안다. (Having worked for several years as a taxi driver, he knows the city well.)"
             },
             {
-                "id": "ko-2088",
+                "id": "ko-1972",
                 "w": "낼",
                 "p": "nael",
                 "d": "tomorrow",
-                "s": ""
+                "s": "만약 신이 존재하지 않았다면, 만들어 낼 필요가 있겠지. (If God did not exist, it would be necessary to invent him.)"
             },
             {
-                "id": "ko-2089",
+                "id": "ko-1973",
                 "w": "바닥에",
                 "p": "badage",
-                "d": "on the floor",
-                "s": ""
+                "d": "floor",
+                "s": "나는 무릎을 굽히지 않고 양쪽 손바닥을 바닥에 닿게 할 수 있어. (I can place the palms of my hands on the floor without bending my knees.)"
             },
             {
-                "id": "ko-2090",
+                "id": "ko-1974",
                 "w": "든",
                 "p": "deun",
-                "d": "past adnominal of 들다 (deulda, “to enter, etc.”); past adnominal of 들다 (deulda, “to hold, etc.”)",
-                "s": ""
+                "d": "to come in",
+                "s": "방에 든 빛 (the light which entered the room)"
             },
             {
-                "id": "ko-2091",
+                "id": "ko-1975",
                 "w": "생각했는데",
                 "p": "saenggakaenneunde",
-                "d": "I thought",
-                "s": ""
+                "d": "to think",
+                "s": "난 톰이 너를 다시는 절대 안 볼 거라고 생각했는데. (I thought Tom would never see you again.)"
             },
             {
-                "id": "ko-2092",
+                "id": "ko-1976",
                 "w": "진",
                 "p": "jin",
-                "d": "Jin",
+                "d": "jeans, or jean fabric",
                 "s": ""
             },
             {
-                "id": "ko-2093",
+                "id": "ko-1977",
                 "w": "말했지",
                 "p": "malhaetji",
-                "d": "I said",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "네가 어제 톰에게 말했지? (You talked to Tom yesterday, didn't you?)"
             },
             {
-                "id": "ko-2094",
+                "id": "ko-1978",
                 "w": "가르쳐",
                 "p": "gareuchyeo",
-                "d": "teach",
-                "s": ""
+                "d": "to teach",
+                "s": "멕시코인에 그에게 스페인어를 가르쳐 주었다. (A Mexican taught him Spanish.)"
             },
             {
-                "id": "ko-2095",
+                "id": "ko-1979",
                 "w": "마찬가지야",
                 "p": "machangajiya",
-                "d": "Same thing",
-                "s": ""
+                "d": "being exactly the same",
+                "s": "네가 오늘 가나 내일 가나 마찬가지야. (It makes no difference whether you go today or tomorrow.)"
             },
             {
-                "id": "ko-2096",
+                "id": "ko-1980",
                 "w": "깊은",
                 "p": "gipeun",
-                "d": "present determiner form of 깊다 (gipda)",
-                "s": ""
+                "d": "to be deep",
+                "s": "레일라는 머리랑 목에 깊은 상처를 입었어. (Layla suffered deep cuts to her head and neck.)"
             },
             {
-                "id": "ko-2097",
+                "id": "ko-1981",
                 "w": "났어",
                 "p": "nasseo",
-                "d": "to be born; to appear, arise, occur, take place",
-                "s": ""
+                "d": "to be born",
+                "s": "나 다 기억 났어. (I now remember everything.)"
             },
             {
-                "id": "ko-2098",
+                "id": "ko-1982",
                 "w": "물건",
                 "p": "mulgeon",
-                "d": "item, article, thing, stuff; penis",
-                "s": ""
+                "d": "item",
+                "s": "디아이와이를 하는 사람들이 그들 스스로 물건을 만드는 데에 대한 팁을 나누려고 일주일에 한번씩 모인다. (The DIYers get together once a week to share tips on making things for themselves.)"
             },
             {
-                "id": "ko-2099",
+                "id": "ko-1983",
                 "w": "금지",
                 "p": "geumji",
                 "d": "prohibition, ban",
-                "s": ""
+                "s": "주차 금지. (No parking.)"
             },
             {
-                "id": "ko-2100",
+                "id": "ko-1984",
                 "w": "살아있는",
                 "p": "sarainneun",
-                "d": "alive",
-                "s": ""
+                "d": "breathe",
+                "s": "살아있는 모든 것은 죽는다. (Everything that lives perishes.)"
             },
             {
-                "id": "ko-2101",
+                "id": "ko-1985",
                 "w": "또는",
                 "p": "ttoneun",
-                "d": "if not; alternatively",
+                "d": "if not",
                 "s": ""
             },
             {
-                "id": "ko-2102",
+                "id": "ko-1986",
                 "w": "찾으면",
                 "p": "chajeumyeon",
-                "d": "If you find it",
-                "s": ""
+                "d": "to search, to look for",
+                "s": "애타게 찾으려는 그의 모습을 보니 나의 눈에 눈물이 고였다. (Tears welled up in my eyes when I saw him anxiously searching for it.)"
             },
             {
-                "id": "ko-2103",
+                "id": "ko-1987",
                 "w": "존나",
                 "p": "jonna",
-                "d": "alternative spelling of 좆나 (jonna, “as fuck, fucking (vulgar intensifying adverb)”)",
-                "s": ""
+                "d": "as fuck, fucking",
+                "s": "이건 존나 대단하다. (This is fucking awesome.)"
             },
             {
-                "id": "ko-2104",
+                "id": "ko-1988",
                 "w": "떠나",
                 "p": "tteona",
-                "d": "leave",
-                "s": ""
+                "d": "to leave",
+                "s": "떠나 있는 동안 누가 개를 돌봐주지? (Who'll take care of the dog while we're gone?)"
             },
             {
-                "id": "ko-2105",
+                "id": "ko-1989",
                 "w": "가죠",
                 "p": "gajyo",
-                "d": "Let's go",
-                "s": ""
+                "d": "to go",
+                "s": "기억하리 존엄과 명예 지켜낸 영웅들 기억하리 조국을 위해 간 그 생들을 (We Will Remember)"
             },
             {
-                "id": "ko-2106",
+                "id": "ko-1990",
                 "w": "사람들도",
                 "p": "saramdeuldo",
-                "d": "People too",
-                "s": ""
+                "d": "people, persons",
+                "s": "신을 믿는 사람들도 있고 아닌 사람도 있어. (Some people believe in God and others don't.)"
             },
             {
-                "id": "ko-2107",
+                "id": "ko-1991",
                 "w": "않았습니다",
                 "p": "anatseumnida",
-                "d": "didn't",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
             },
             {
-                "id": "ko-2108",
-                "w": "파블로",
-                "p": "pabeullo",
-                "d": "Pablo",
-                "s": ""
-            },
-            {
-                "id": "ko-2109",
+                "id": "ko-1992",
                 "w": "선물을",
                 "p": "seonmureul",
-                "d": "a gift",
-                "s": ""
+                "d": "gift",
+                "s": "스페인의 아이들은 성탄절이 아니라, 동방 박사의 날에 선물을 받는다. (Kids in Spain don't receive their gifts on Christmas Day, but on Three Kings' Day.)"
             },
             {
-                "id": "ko-2110",
+                "id": "ko-1993",
                 "w": "자격이",
                 "p": "jagyeogi",
-                "d": "qualified",
+                "d": "qualifications",
                 "s": ""
             },
             {
-                "id": "ko-2111",
+                "id": "ko-1994",
                 "w": "스스로를",
                 "p": "seuseuroreul",
-                "d": "yourself",
-                "s": ""
+                "d": "by oneself",
+                "s": "톰은 오늘 아침에 스스로를 쐈다. (Tom shot himself this morning.)"
             },
             {
-                "id": "ko-2112",
+                "id": "ko-1995",
                 "w": "마을",
                 "p": "maeul",
-                "d": "village, hamlet, usually in rural surroundings; the office of a local magistrate",
-                "s": ""
+                "d": "village",
+                "s": "저 마을 물건이 우리 마을 물건보다 저렴하다. (This village has cheaper items than our village)"
             },
             {
-                "id": "ko-2113",
+                "id": "ko-1996",
                 "w": "손으로",
                 "p": "soneuro",
-                "d": "by hand",
-                "s": ""
+                "d": "hand",
+                "s": "너는 네 손으로 그것을 해야 한다. (You should do that by yourself.)"
             },
             {
-                "id": "ko-2114",
+                "id": "ko-1997",
                 "w": "누나",
                 "p": "nuna",
-                "d": "older sister of a male; somewhat older female friend or acquaintance",
-                "s": ""
+                "d": "older sister of a male",
+                "s": "그 누나랑 나랑 나이 차이가 두 살이지? (The age difference between her and me is two years, right?)"
             },
             {
-                "id": "ko-2115",
-                "w": "놈들을",
-                "p": "nomdeureul",
-                "d": "Those guys",
-                "s": ""
-            },
-            {
-                "id": "ko-2116",
-                "w": "때문이지",
-                "p": "ttaemuniji",
-                "d": "Because",
-                "s": ""
-            },
-            {
-                "id": "ko-2117",
+                "id": "ko-1998",
                 "w": "비슷한",
                 "p": "biseuthan",
-                "d": "Attributive form of 비슷하다 (biseuthada) (“to be similar”).",
-                "s": ""
+                "d": "to be similar",
+                "s": "나는 톰이 네 키와 거의 비슷한 것 같다고 생각해. (I think that Tom is about the same height as you.)"
             },
             {
-                "id": "ko-2118",
+                "id": "ko-1999",
                 "w": "없이는",
                 "p": "eopsineun",
-                "d": "without",
-                "s": ""
+                "d": "without, lacking",
+                "s": "너의 동의 없이는 난 아무도 고용하지 않을 것이다. (I won't hire anyone without your approval.)"
             },
             {
-                "id": "ko-2119",
+                "id": "ko-2000",
                 "w": "갑니다",
                 "p": "gamnida",
-                "d": "to go; Marks a continuous action that either stretches from the present into the future, or involves physical movement away from the speaker.",
-                "s": ""
+                "d": "to go",
+                "s": "그분은 학교에 버스로 갑니다. (He goes to school by bus.)"
             },
             {
-                "id": "ko-2120",
+                "id": "ko-2001",
                 "w": "계신",
                 "p": "gyesin",
-                "d": "are you there",
-                "s": ""
+                "d": "to stay",
+                "s": "안녕히 계세요. (Goodbye. (as said by the person leaving to the person staying))"
             },
             {
-                "id": "ko-2121",
+                "id": "ko-2002",
                 "w": "아가야",
                 "p": "agaya",
-                "d": "Baby",
-                "s": ""
+                "d": "unweaned baby, child",
+                "s": "엄마, 아가가 어디 갔지? (Mom, where did the baby go?)"
             },
             {
-                "id": "ko-2122",
+                "id": "ko-2003",
                 "w": "시체를",
                 "p": "sichereul",
-                "d": "the body",
+                "d": "cadaver, corpse, body",
                 "s": ""
             },
             {
-                "id": "ko-2123",
+                "id": "ko-2004",
                 "w": "데려가",
                 "p": "deryeoga",
-                "d": "Take it away",
-                "s": ""
+                "d": "to take someone away",
+                "s": "병원으로 데려가 주세요. (Take me to a hospital.)"
             },
             {
-                "id": "ko-2124",
+                "id": "ko-2005",
                 "w": "말해요",
                 "p": "malhaeyo",
-                "d": "tell me",
-                "s": ""
+                "d": "to speak, to talk",
+                "s": "한국에서 무슨 언어를 말해요? (What language do they speak in Korea?)"
             },
             {
-                "id": "ko-2125",
+                "id": "ko-2006",
                 "w": "자가",
                 "p": "jaga",
-                "d": "self",
+                "d": "private, mine, my own",
                 "s": ""
             },
             {
-                "id": "ko-2126",
+                "id": "ko-2007",
                 "w": "옳지",
                 "p": "olchi",
-                "d": "That's right",
-                "s": ""
+                "d": "to be right",
+                "s": "당신의 실패를 당신의 부모님 탓으로 돌리는것은 옳지 않습니다 (It's not fair to attribute your failure to your parents.)"
             },
             {
-                "id": "ko-2127",
+                "id": "ko-2008",
                 "w": "어릴",
                 "p": "eoril",
-                "d": "young",
-                "s": ""
+                "d": "to be young",
+                "s": "내가 어릴 때는 바다에 수영하러 가곤 했었지. (I used to go swimming in the sea when I was a child.)"
             },
             {
-                "id": "ko-2128",
+                "id": "ko-2009",
                 "w": "듯",
                 "p": "deut",
-                "d": "as if; in a manner suggesting that; leaving it ambiguous whether or not",
-                "s": ""
+                "d": "as if",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
             },
             {
-                "id": "ko-2129",
+                "id": "ko-2010",
                 "w": "된다는",
                 "p": "doendaneun",
-                "d": "It's said",
-                "s": ""
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
             },
             {
-                "id": "ko-2130",
+                "id": "ko-2011",
                 "w": "잘못이",
                 "p": "jalmosi",
-                "d": "It's my fault",
-                "s": ""
+                "d": "mistake",
+                "s": "톰아, 이건 네 잘못이 아니야. (Tom, it isn't your fault.)"
             },
             {
-                "id": "ko-2131",
+                "id": "ko-2012",
                 "w": "아시죠",
                 "p": "asijyo",
-                "d": "You know",
+                "d": "phoenix",
                 "s": ""
             },
             {
-                "id": "ko-2132",
+                "id": "ko-2013",
                 "w": "동시에",
                 "p": "dongsie",
-                "d": "at the same time",
-                "s": ""
+                "d": "concurrently",
+                "s": "우리 딸은 스페인 사람인 동시에 폴란드 사람이다. (My daughter is simultaneously Spanish and Polish.)"
             },
             {
-                "id": "ko-2133",
+                "id": "ko-2014",
                 "w": "형은",
                 "p": "hyeongeun",
-                "d": "My brother",
-                "s": ""
+                "d": "older brother of a male",
+                "s": "내 형은 도쿄에서 대학에 다닌다. (My brother studies at a university in Tokyo.)"
             },
             {
-                "id": "ko-2134",
+                "id": "ko-2015",
                 "w": "안다고",
                 "p": "andago",
-                "d": "I know",
-                "s": ""
+                "d": "to hug, to embrace",
+                "s": "톰이 메리를 아주 잘 안다고 생각하진 않는데. (I don't think Tom knows Mary very well.)"
             },
             {
-                "id": "ko-2135",
+                "id": "ko-2016",
                 "w": "이동",
                 "p": "idong",
-                "d": "movement; migration",
+                "d": "movement",
                 "s": ""
             },
             {
-                "id": "ko-2136",
+                "id": "ko-2017",
                 "w": "음식을",
                 "p": "eumsigeul",
-                "d": "food",
-                "s": ""
+                "d": "food, including drink",
+                "s": "유기농 음식을 먹는 게 그만한 값어치가 있어? (Is eating organic food worth the money?)"
             },
             {
-                "id": "ko-2137",
-                "w": "아빠랑",
-                "p": "apparang",
-                "d": "With dad",
-                "s": ""
-            },
-            {
-                "id": "ko-2138",
-                "w": "전까진",
-                "p": "jeonkkajin",
-                "d": "Until now",
-                "s": ""
-            },
-            {
-                "id": "ko-2139",
+                "id": "ko-2018",
                 "w": "고작",
                 "p": "gojak",
-                "d": "at most; only",
+                "d": "at most",
                 "s": ""
             },
             {
-                "id": "ko-2140",
+                "id": "ko-2019",
                 "w": "만들지",
                 "p": "mandeulji",
-                "d": "I won't make it",
-                "s": ""
+                "d": "to make",
+                "s": "톰은 커피를 만들지 않잖아, 아니야? (Tom isn't making coffee, is he?)"
             },
             {
-                "id": "ko-2141",
+                "id": "ko-2020",
                 "w": "해야할",
                 "p": "haeyahal",
-                "d": "to do",
-                "s": ""
+                "d": "to have to",
+                "s": "우리 좀 바보짓을 해야할 것 같아. (I think we should do something stupid.)"
             },
             {
-                "id": "ko-2142",
+                "id": "ko-2021",
                 "w": "준비를",
                 "p": "junbireul",
-                "d": "get ready",
-                "s": ""
+                "d": "readiness, preparation",
+                "s": "그녀는 아침 준비를 하고 있어. (She is getting breakfast ready.)"
             },
             {
-                "id": "ko-2143",
+                "id": "ko-2022",
                 "w": "못했어요",
-                "p": "motaesseoyo",
-                "d": "I couldn't do it",
-                "s": ""
+                "p": "mothaesseoyo",
+                "d": "cannot",
+                "s": "나는 체계적이지 못하다. (I'm disorganized.)"
             },
             {
-                "id": "ko-2144",
+                "id": "ko-2023",
                 "w": "번역",
                 "p": "beonyeok",
                 "d": "translation",
-                "s": ""
+                "s": "흥! 아무도 내가 만드는 문장을 번역 안하고 있어! (Hey! Nobody is translating my sentences!)"
             },
             {
-                "id": "ko-2145",
+                "id": "ko-2024",
                 "w": "범인이",
                 "p": "beomini",
-                "d": "The culprit",
+                "d": "criminal",
                 "s": ""
             },
             {
-                "id": "ko-2146",
+                "id": "ko-2025",
                 "w": "죽이려고",
                 "p": "jugiryeogo",
-                "d": "to kill",
+                "d": "to kill, to cause to die",
                 "s": ""
             },
             {
-                "id": "ko-2147",
+                "id": "ko-2026",
                 "w": "수술은",
                 "p": "susureun",
-                "d": "Surgery",
+                "d": "surgery",
                 "s": ""
             },
             {
-                "id": "ko-2148",
+                "id": "ko-2027",
                 "w": "뿐",
                 "p": "ppun",
-                "d": "only, just; used with -을, the \"verbal irrealis adnominal suffix\".; Used in -다 뿐이지 (-da ppuniji).",
-                "s": ""
+                "d": "only, just",
+                "s": "그녀는 다른 아이들이 노는 것을 지켜보기만 했을 뿐, 함께 하지는 않았다. (She watches the other kids playing, but she never joins in.)"
             },
             {
-                "id": "ko-2149",
+                "id": "ko-2028",
                 "w": "싶을",
                 "p": "sipeul",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "d": "to be desirous of",
+                "s": "너무 행복해! 온 세상을 안고 싶을 정도야! (I'm so happy! I want to hug the entire world!)"
             },
             {
-                "id": "ko-2150",
+                "id": "ko-2029",
                 "w": "누구나",
                 "p": "nuguna",
-                "d": "anyone",
-                "s": ""
+                "d": "everybody",
+                "s": "난 누구나 실수는 한다고 생각해. (I think everyone makes mistakes.)"
             },
             {
-                "id": "ko-2151",
-                "w": "우리랑",
-                "p": "urirang",
-                "d": "with us",
-                "s": ""
-            },
-            {
-                "id": "ko-2152",
+                "id": "ko-2030",
                 "w": "너희들은",
                 "p": "neohuideureun",
-                "d": "You guys",
-                "s": ""
+                "d": "you all",
+                "s": "그걸 한다면, 너희들은 우습게 보일 거야. (If you do that, you are going to look ridiculous.)"
             },
             {
-                "id": "ko-2153",
+                "id": "ko-2031",
                 "w": "언제부터",
                 "p": "eonjebuteo",
-                "d": "Since when",
-                "s": ""
+                "d": "when",
+                "s": "어, 비가 언제부터 왔냐, 전혀 몰랐네. (Eh? When did it start raining? I didn't notice at all.)"
             },
             {
-                "id": "ko-2154",
+                "id": "ko-2032",
                 "w": "누구든",
                 "p": "nugudeun",
-                "d": "anyone",
-                "s": ""
+                "d": "any",
+                "s": "누구든 음악을 사랑한다. (Everybody loves music.)"
             },
             {
-                "id": "ko-2155",
+                "id": "ko-2033",
                 "w": "관심을",
                 "p": "gwansimeul",
-                "d": "interest",
-                "s": ""
+                "d": "interest in",
+                "s": "프랑스어 배우는 것은 그다지 관심 없어. (I'm not very interested in learning French.)"
             },
             {
-                "id": "ko-2156",
+                "id": "ko-2034",
                 "w": "관련된",
                 "p": "gwallyeondoen",
-                "d": "related",
-                "s": ""
+                "d": "to have a connection",
+                "s": "이 업무는 몇 개 부서가 관련되어 있다. (This work involves several departments.)"
             },
             {
-                "id": "ko-2157",
+                "id": "ko-2035",
                 "w": "음식",
                 "p": "eumsik",
                 "d": "food, including drink",
-                "s": ""
+                "s": "너는 음식 생각 밖에 안 한다. (You only think about food.)"
             },
             {
-                "id": "ko-2158",
+                "id": "ko-2036",
                 "w": "걸릴",
                 "p": "geollil",
-                "d": "take",
-                "s": ""
+                "d": "to hang",
+                "s": "네가 내 차고를 페인트 해주는데 얼마나 걸릴 것 같아? (How long would it take you to paint my garage?)"
             },
             {
-                "id": "ko-2159",
-                "w": "소릴",
-                "p": "soril",
-                "d": "noise",
-                "s": ""
-            },
-            {
-                "id": "ko-2160",
+                "id": "ko-2037",
                 "w": "왕이",
                 "p": "wangi",
                 "d": "king",
                 "s": ""
             },
             {
-                "id": "ko-2161",
+                "id": "ko-2038",
                 "w": "찾지",
                 "p": "chatji",
-                "d": "I can't find it",
-                "s": ""
+                "d": "to search, to look for",
+                "s": "우리는 무기를 찾지 못했다. (We didn't find a weapon.)"
             },
             {
-                "id": "ko-2162",
+                "id": "ko-2039",
                 "w": "약속",
                 "p": "yaksok",
-                "d": "promise; appointment; engagement",
+                "d": "promise",
                 "s": ""
             },
             {
-                "id": "ko-2163",
+                "id": "ko-2040",
                 "w": "들려요",
                 "p": "deullyeoyo",
-                "d": "I can hear you",
-                "s": ""
+                "d": "to be heard",
+                "s": "라디오 소리가 안 들려요. 볼륨을 높여주세요. (I cannot hear the radio, please turn it up.)"
             },
             {
-                "id": "ko-2164",
+                "id": "ko-2041",
                 "w": "온다",
                 "p": "onda",
-                "d": "coming",
-                "s": ""
+                "d": "to come",
+                "s": "알파벳에서는 A 다음에 B가 온다. (In the alphabet, B comes after A.)"
             },
             {
-                "id": "ko-2165",
+                "id": "ko-2042",
                 "w": "어떤지",
                 "p": "eotteonji",
-                "d": "What is it like?",
-                "s": ""
+                "d": "what kind of",
+                "s": "저는 그 상황들이 어떤지 알아요. (I know what those situations are like.)"
             },
             {
-                "id": "ko-2166",
+                "id": "ko-2043",
                 "w": "보여줘",
                 "p": "boyeojwo",
-                "d": "show me",
-                "s": ""
+                "d": "to be seen",
+                "s": "네 모습을 보여줘. (Show yourself.)"
             },
             {
-                "id": "ko-2167",
+                "id": "ko-2044",
                 "w": "생각이야",
                 "p": "saenggagiya",
-                "d": "It's a thought",
-                "s": ""
+                "d": "thought",
+                "s": "내가 아니라 톰 생각이야. 내 탓 하지 마. (It was Tom's idea, not mine. Don't blame me.)"
             },
             {
-                "id": "ko-2168",
+                "id": "ko-2045",
                 "w": "무척",
                 "p": "mucheok",
-                "d": "very, extremely, extraordinarily, exceedingly",
-                "s": ""
+                "d": "very",
+                "s": "톰이 무척 외로웠다고 말했어. (Tom said he was very lonely.)"
             },
             {
-                "id": "ko-2169",
-                "w": "치프",
-                "p": "chipeu",
-                "d": "Chief",
-                "s": ""
-            },
-            {
-                "id": "ko-2170",
+                "id": "ko-2046",
                 "w": "인간이",
                 "p": "ingani",
-                "d": "human",
-                "s": ""
+                "d": "human, human being",
+                "s": "내가 늑대 인간이 아니어도 여전히 날 사랑해 주겠니? (Would you still love me if I wasn't a werewolf?)"
             },
             {
-                "id": "ko-2171",
+                "id": "ko-2047",
                 "w": "선생",
                 "p": "seonsaeng",
                 "d": "teacher",
                 "s": ""
             },
             {
-                "id": "ko-2172",
+                "id": "ko-2048",
                 "w": "알겠죠",
                 "p": "algetjyo",
-                "d": "You understand",
-                "s": ""
+                "d": "to know, understand",
+                "s": "그 여자에게 당신이 여기 있다고 말해요. — 알겠어요. 고마워요. 피트 (Tell her you’re here. — Right, thanks, Pete.)"
             },
             {
-                "id": "ko-2173",
-                "w": "대해선",
-                "p": "daehaeseon",
-                "d": "About",
-                "s": ""
-            },
-            {
-                "id": "ko-2174",
+                "id": "ko-2049",
                 "w": "않네요",
                 "p": "anneyo",
-                "d": "It doesn't work",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
             },
             {
-                "id": "ko-2175",
+                "id": "ko-2050",
                 "w": "개인",
                 "p": "gaein",
-                "d": "an individual or individuals; a private person; personal, individual",
-                "s": ""
+                "d": "an individual or individuals",
+                "s": "커피 메이커를 개인 용도로 쓰든 업무용으로 쓰든 간에 (Whether you want the coffeemaker for personal or for business use.)"
             },
             {
-                "id": "ko-2176",
+                "id": "ko-2051",
                 "w": "전부터",
                 "p": "jeonbuteo",
-                "d": "From before",
-                "s": ""
+                "d": "beforehand",
+                "s": "여기는 이주 전부터 비가 하나도 오지 않았다. (There has been no rain here for the past two weeks.)"
             },
             {
-                "id": "ko-2177",
-                "w": "데이비드",
-                "p": "deibideu",
-                "d": "david",
-                "s": ""
-            },
-            {
-                "id": "ko-2178",
+                "id": "ko-2052",
                 "w": "잘됐네",
                 "p": "jaldwaenne",
-                "d": "That's good",
+                "d": "to do well",
                 "s": ""
             },
             {
-                "id": "ko-2179",
+                "id": "ko-2053",
                 "w": "내려놔",
                 "p": "naeryeonwa",
-                "d": "Put it down",
+                "d": "to take down",
                 "s": ""
             },
             {
-                "id": "ko-2180",
+                "id": "ko-2054",
                 "w": "놀라운",
                 "p": "nollaun",
-                "d": "realis adnominal of 놀랍다 (nollapda)",
-                "s": ""
+                "d": "to be surprising",
+                "s": "톰은 놀라운 배우다. (Tom is an amazing actor.)"
             },
             {
-                "id": "ko-2181",
+                "id": "ko-2055",
                 "w": "엄청나게",
                 "p": "eomcheongnage",
-                "d": "incredibly",
-                "s": ""
+                "d": "amazing",
+                "s": "톰이 엄청나게 지루해했어. (Tom was incredibly bored.)"
             },
             {
-                "id": "ko-2182",
+                "id": "ko-2056",
                 "w": "똑똑한",
                 "p": "ttokttokan",
                 "d": "smart",
-                "s": ""
+                "s": "네가 아는 사람 중에서 누가 가장 똑똑한 사람이야? (Who's the most intelligent person you know?)"
             },
             {
-                "id": "ko-2183",
+                "id": "ko-2057",
                 "w": "행동을",
                 "p": "haengdongeul",
                 "d": "action",
-                "s": ""
+                "s": "톰은 어른이면서도 어른답게 행동을 안 해. (Tom is an adult, but he doesn't act like one.)"
             },
             {
-                "id": "ko-2184",
+                "id": "ko-2058",
                 "w": "위험을",
                 "p": "wiheomeul",
-                "d": "risk",
-                "s": ""
+                "d": "danger",
+                "s": "전혀 위험을 감수하지 않으면, 아무 것도 얻을 수 없다. (One who doesn't take risks will not win.)"
             },
             {
-                "id": "ko-2185",
+                "id": "ko-2059",
                 "w": "연락",
                 "p": "yeollak",
-                "d": "contact, connection, liaison",
-                "s": ""
+                "d": "contact",
+                "s": "혹시 불분명한 점이 있을 경우 연락 주십시오. (In case something is not clear, please contact us.)"
             },
             {
-                "id": "ko-2186",
+                "id": "ko-2060",
                 "w": "도",
                 "p": "do",
-                "d": "degrees",
-                "s": ""
+                "d": "province",
+                "s": "지금까지 한 번 도 그런 걸 들어본 적이 없어. (Never in my life have I heard such a thing.)"
             },
             {
-                "id": "ko-2187",
+                "id": "ko-2061",
                 "w": "화장실",
                 "p": "hwajangsil",
-                "d": "bathroom; restroom; toilet",
-                "s": ""
+                "d": "bathroom",
+                "s": "이 남자를 남자 화장실로 바래다주세요. (Please escort this gentleman to the gentleman's room.)"
             },
             {
-                "id": "ko-2188",
+                "id": "ko-2062",
                 "w": "1년",
                 "p": "1nyeon",
-                "d": "1 year",
+                "d": "year",
                 "s": ""
             },
             {
-                "id": "ko-2189",
+                "id": "ko-2063",
                 "w": "사랑은",
                 "p": "sarangeun",
-                "d": "love is",
-                "s": ""
+                "d": "love",
+                "s": "사랑은 사랑을 사랑해요. (Love loves love.)"
             },
             {
-                "id": "ko-2190",
+                "id": "ko-2064",
                 "w": "부르는",
                 "p": "bureuneun",
-                "d": "calling",
-                "s": ""
+                "d": "to name",
+                "s": "배가 부르다. (My stomach's full.)"
             },
             {
-                "id": "ko-2191",
+                "id": "ko-2065",
                 "w": "생기면",
                 "p": "saenggimyeon",
-                "d": "If it happens",
-                "s": ""
+                "d": "to emerge",
+                "s": "뭐든 잘 이해안되는게 생기면 나한테 와. (If anything comes up that you don't understand, come to me.)"
             },
             {
-                "id": "ko-2192",
+                "id": "ko-2066",
                 "w": "부모님이",
                 "p": "bumonimi",
-                "d": "my parents",
-                "s": ""
+                "d": "parents",
+                "s": "당신의 실패를 당신의 부모님 탓으로 돌리는것은 옳지 않습니다 (It's not fair to attribute your failure to your parents.)"
             },
             {
-                "id": "ko-2193",
+                "id": "ko-2067",
                 "w": "부인이",
                 "p": "buini",
-                "d": "The wife",
-                "s": ""
+                "d": "wife",
+                "s": "론스쿠 부인, 여쭐 것이 있습니다. (Mrs. Ionescu, I'd like to ask you something.)"
             },
             {
-                "id": "ko-2194",
+                "id": "ko-2068",
                 "w": "하겠습니다",
                 "p": "hagetseumnida",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "d": "to do",
+                "s": "저는 내일 오전 6시에 체크아웃 하겠습니다. (I want to check out at 6 tomorrow morning.)"
             },
             {
-                "id": "ko-2195",
+                "id": "ko-2069",
                 "w": "넣어",
                 "p": "neoeo",
-                "d": "put it",
-                "s": ""
+                "d": "to put in",
+                "s": "톰은 가방에 손을 넣어 책을 꺼냈다. (Tom reached into his bag and pulled out a book.)"
             },
             {
-                "id": "ko-2196",
+                "id": "ko-2070",
                 "w": "힘들어",
                 "p": "himdeureo",
-                "d": "It's hard",
-                "s": ""
+                "d": "difficult",
+                "s": "나는 여러가지를 기억하는 게 힘들어. (I have a hard time remembering things.)"
             },
             {
-                "id": "ko-2197",
+                "id": "ko-2071",
                 "w": "감정을",
                 "p": "gamjeongeul",
-                "d": "feelings",
-                "s": ""
+                "d": "emotion, feeling",
+                "s": "목소리의 톤은 감정을 나타낼 수 있다. (Tone of voice can indicate feelings.)"
             },
             {
-                "id": "ko-2198",
+                "id": "ko-2072",
                 "w": "커다란",
                 "p": "keodaran",
-                "d": "big",
-                "s": ""
+                "d": "extremely huge",
+                "s": "커다란 거미를 침대에서 발견하면 어떻게 해야해? (What should you do if you find a big spider on your bed?)"
             },
             {
-                "id": "ko-2199",
+                "id": "ko-2073",
                 "w": "빠진",
                 "p": "ppajin",
-                "d": "missing",
-                "s": ""
+                "d": "to fall out",
+                "s": "정말 한번이라도 사랑에 빠진 적 있어? (Have you ever really been in love?)"
             },
             {
-                "id": "ko-2200",
+                "id": "ko-2074",
                 "w": "위에서",
                 "p": "wieseo",
-                "d": "from above",
-                "s": ""
+                "d": "above",
+                "s": "소행성이 러시아 첼랴빈스크 위에서 폭발했습니다. (An asteroid exploded over Chelyabinsk in Russia.)"
             },
             {
-                "id": "ko-2201",
+                "id": "ko-2075",
                 "w": "진정해요",
                 "p": "jinjeonghaeyo",
-                "d": "Calm down",
-                "s": ""
+                "d": "to relax, to soothe",
+                "s": "(혼잣말로) 진정하자. ((Talking to oneself) Calm down.)"
             },
             {
-                "id": "ko-2202",
+                "id": "ko-2076",
                 "w": "세상의",
                 "p": "sesangui",
-                "d": "of the world",
-                "s": ""
+                "d": "world",
+                "s": "이 세상의 교육이 나를 실망시켜요. (Education in this world disappoints me.)"
             },
             {
-                "id": "ko-2203",
-                "w": "싶진",
-                "p": "sipjin",
-                "d": "I don't want to",
-                "s": ""
-            },
-            {
-                "id": "ko-2204",
+                "id": "ko-2077",
                 "w": "형님",
                 "p": "hyeongnim",
-                "d": "honorific of 형(兄) (hyeong, “older brother of a male”); wife's older brother (a type of brother-in-law)",
+                "d": "older brother of a male",
                 "s": ""
             },
             {
-                "id": "ko-2205",
+                "id": "ko-2078",
                 "w": "돌아오지",
                 "p": "doraoji",
-                "d": "I won't come back",
-                "s": ""
+                "d": "to return, to come back",
+                "s": "돌아오지 않는 다리는 두 한국을 가른다. (The Bridge of No Return separates the two Koreas.)"
             },
             {
-                "id": "ko-2206",
+                "id": "ko-2079",
                 "w": "방을",
                 "p": "bangeul",
-                "d": "the room",
-                "s": ""
+                "d": "room",
+                "s": "그녀는 이 큰 방을 전부 혼자 사용하고 있다. (She has this big room all to herself.)"
             },
             {
-                "id": "ko-2207",
+                "id": "ko-2080",
                 "w": "결과를",
                 "p": "gyeolgwareul",
-                "d": "the result",
-                "s": ""
+                "d": "as a result of",
+                "s": "그 연구의 결과들은 그 주제에 관한 선행 조사들을 확증한다. (The results of the study confirm previous research on the topic.)"
             },
             {
-                "id": "ko-2208",
+                "id": "ko-2081",
                 "w": "있으세요",
                 "p": "isseuseyo",
-                "d": "Do you have",
-                "s": ""
+                "d": "to stay",
+                "s": "내일 오후 미팅에 오실 수 있으세요? (Can you come to the meeting tomorrow afternoon?)"
             },
             {
-                "id": "ko-2209",
+                "id": "ko-2082",
                 "w": "않았지",
                 "p": "anatji",
-                "d": "It wasn't",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰은 말썽에 휘말리고 싶어하지 않았지. (Tom doesn't want to get into trouble.)"
             },
             {
-                "id": "ko-2210",
+                "id": "ko-2083",
                 "w": "소식이",
                 "p": "sosigi",
-                "d": "There is news",
-                "s": ""
+                "d": "news",
+                "s": "신문에는 그 소식이 실리지 않았다. (The paper didn't carry the story.)"
             },
             {
-                "id": "ko-2211",
+                "id": "ko-2084",
                 "w": "임무를",
                 "p": "immureul",
-                "d": "mission",
-                "s": ""
+                "d": "duty",
+                "s": "우린 임무를 성공적으로 수행했어. (We carried out our mission successfully.)"
             },
             {
-                "id": "ko-2212",
-                "w": "사장님",
-                "p": "sajangnim",
-                "d": "boss",
-                "s": ""
-            },
-            {
-                "id": "ko-2213",
+                "id": "ko-2085",
                 "w": "하긴",
                 "p": "hagin",
-                "d": "honestly, in fact, really, indeed (used as a positive feedback for an aforementioned topic in a conversation)",
-                "s": ""
+                "d": "honestly",
+                "s": "톰이랑 메리는 그거 자기들끼리 하긴 싫다고 했어. (Tom and Mary said they don't want to do that on their own.)"
             },
             {
-                "id": "ko-2214",
+                "id": "ko-2086",
                 "w": "하나요",
                 "p": "hanayo",
-                "d": "Do you do it?",
-                "s": ""
+                "d": "one",
+                "s": "그 축구팀은 일주일에 몇 시간이나 연습을 하나요? (How many times a week does the soccer team practice?)"
             },
             {
-                "id": "ko-2215",
+                "id": "ko-2087",
                 "w": "남아",
                 "p": "nama",
-                "d": "remain",
-                "s": ""
+                "d": "to remain",
+                "s": "톰은 남아 있어도 돼. 너희 나머지는 나가야 해. (Tom is allowed to stay. The rest of you have to leave.)"
             },
             {
-                "id": "ko-2216",
+                "id": "ko-2088",
                 "w": "듣지",
                 "p": "deutji",
-                "d": "listen",
-                "s": ""
+                "d": "to listen, to hear",
+                "s": "그녀는 아직 소식을 듣지 못했다. (She hasn't heard the news yet.)"
             },
             {
-                "id": "ko-2217",
+                "id": "ko-2089",
                 "w": "신",
                 "p": "sin",
-                "d": "god",
-                "s": ""
+                "d": "god, deity",
+                "s": "아직 신에게는 열두 척의 배가 남아 있사옵니다. (Your humble servant still has command of no fewer than twelve ships.)"
             },
             {
-                "id": "ko-2218",
+                "id": "ko-2090",
                 "w": "오빠가",
                 "p": "oppaga",
-                "d": "My brother",
-                "s": ""
+                "d": "elder brother of a female",
+                "s": "그 여자는 오빠가 다섯명 있어. (She has five older brothers.)"
             },
             {
-                "id": "ko-2219",
-                "w": "앨리슨",
-                "p": "aelliseun",
-                "d": "Allison",
-                "s": ""
-            },
-            {
-                "id": "ko-2220",
+                "id": "ko-2091",
                 "w": "아내는",
                 "p": "anaeneun",
-                "d": "my wife",
-                "s": ""
+                "d": "wife",
+                "s": "그의 아내는 처음으로 코로나19 증상을 보이기 시작했다. (First his wife began showing COVID-19 symptoms.)"
             },
             {
-                "id": "ko-2221",
-                "w": "하자고",
-                "p": "hajago",
-                "d": "Let's do it",
-                "s": ""
-            },
-            {
-                "id": "ko-2222",
+                "id": "ko-2092",
                 "w": "보안",
                 "p": "boan",
                 "d": "preservation of public security",
                 "s": ""
             },
             {
-                "id": "ko-2223",
+                "id": "ko-2093",
                 "w": "맞습니다",
                 "p": "matseumnida",
-                "d": "That's right",
-                "s": ""
+                "d": "to be correct, right",
+                "s": "톰이 이 일에는 성격이 잘 맞습니다. (Tom certainly has the right temperament for the job.)"
             },
             {
-                "id": "ko-2224",
+                "id": "ko-2094",
                 "w": "아래로",
                 "p": "araero",
-                "d": "down",
+                "d": "below",
                 "s": ""
             },
             {
-                "id": "ko-2225",
-                "w": "버크",
-                "p": "beokeu",
-                "d": "burke",
-                "s": ""
-            },
-            {
-                "id": "ko-2226",
+                "id": "ko-2095",
                 "w": "이러면",
                 "p": "ireomyeon",
-                "d": "to do this; to act in this way; to say this",
+                "d": "like this",
                 "s": ""
             },
             {
-                "id": "ko-2227",
+                "id": "ko-2096",
                 "w": "약간의",
                 "p": "yakganui",
-                "d": "a little",
-                "s": ""
+                "d": "righteousness",
+                "s": "오직 톰이 원하는 것은 약간의 자유 시간뿐이다. (All Tom wanted was some free time.)"
             },
             {
-                "id": "ko-2228",
+                "id": "ko-2097",
                 "w": "모르겠는데",
                 "p": "moreugenneunde",
-                "d": "I don't know",
-                "s": ""
+                "d": "to not know",
+                "s": "이게 버그인지 아닌지 모르겠는데, 이 소프트웨어는 제대로 동작하지 않아. (I don't know if it's a bug or what, but this software doesn't work right.)"
             },
             {
-                "id": "ko-2229",
+                "id": "ko-2098",
                 "w": "대부분",
                 "p": "daebubun",
-                "d": "the majority, the better part",
-                "s": ""
+                "d": "the majority",
+                "s": "재벌적인 뉴스회사들은 대부분 자본주의에 문제점을 무시했다. (Corporate media have largely ignored the problems of capitalism at large.)"
             },
             {
-                "id": "ko-2230",
+                "id": "ko-2099",
                 "w": "없었죠",
                 "p": "eopseotjyo",
-                "d": "There wasn't",
-                "s": ""
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
-                "id": "ko-2231",
+                "id": "ko-2100",
                 "w": "원해요",
                 "p": "wonhaeyo",
-                "d": "I want it",
-                "s": ""
+                "d": "to want, to hope",
+                "s": "그 고양이는 무엇을 원해요? (What does the cat want?)"
             },
             {
-                "id": "ko-2232",
+                "id": "ko-2101",
                 "w": "모르잖아",
                 "p": "moreujana",
-                "d": "You don't know",
-                "s": ""
+                "d": "to not know",
+                "s": "우리 어디 가고 있는지 모르겠어. (I'm not sure where we're going.)"
             },
             {
-                "id": "ko-2233",
+                "id": "ko-2102",
                 "w": "미안합니다",
                 "p": "mianhamnida",
-                "d": "to be ashamed of oneself; to be sorry",
-                "s": ""
+                "d": "to be ashamed of oneself",
+                "s": "늦어서 미안합니다. (Sorry, I'm late.)"
             },
             {
-                "id": "ko-2234",
+                "id": "ko-2103",
                 "w": "누구요",
                 "p": "nuguyo",
-                "d": "Who is it",
-                "s": ""
+                "d": "who",
+                "s": "\"이 책 누구 책이지?\" \"제 책이요.\" (\"Whose book is this?\" \"It's mine.\")"
             },
             {
-                "id": "ko-2235",
+                "id": "ko-2104",
                 "w": "싸우고",
                 "p": "ssaugo",
                 "d": "to fight or struggle",
-                "s": ""
+                "s": "톰은 수년 간 우울증과 싸우고 있어. (Tom has been battling depression for many years.)"
             },
             {
-                "id": "ko-2236",
-                "w": "없군",
-                "p": "eopgun",
-                "d": "No",
-                "s": ""
-            },
-            {
-                "id": "ko-2237",
-                "w": "줬어",
-                "p": "jwosseo",
-                "d": "I gave it to you",
-                "s": ""
-            },
-            {
-                "id": "ko-2238",
+                "id": "ko-2105",
                 "w": "저와",
                 "p": "jeowa",
-                "d": "With me",
-                "s": ""
+                "d": "that",
+                "s": "그 검은 상자를 저와 함께 열어요. (Would you like to open that black box with me?)"
             },
             {
-                "id": "ko-2239",
+                "id": "ko-2106",
                 "w": "할래",
                 "p": "hallae",
-                "d": "I want to do it",
-                "s": ""
+                "d": "a tenth",
+                "s": "졸업 후에 무엇을 할래? (What will you do after graduation?)"
             },
             {
-                "id": "ko-2240",
-                "w": "같구나",
-                "p": "gatguna",
-                "d": "It's the same",
-                "s": ""
-            },
-            {
-                "id": "ko-2241",
+                "id": "ko-2107",
                 "w": "됐네",
                 "p": "dwaenne",
-                "d": "That's it",
-                "s": ""
+                "d": "to have become, became",
+                "s": "개구리가 우는 소리는 내가 잠드는 데 도움이 됐다. (The frogs' croaking helped me fall asleep.)"
             },
             {
-                "id": "ko-2242",
+                "id": "ko-2108",
                 "w": "왔을",
                 "p": "wasseul",
-                "d": "came",
-                "s": ""
+                "d": "come",
+                "s": "내가 여기 왔을 때는 톰이 없었어. (Tom wasn't here when I got here.)"
             },
             {
-                "id": "ko-2243",
+                "id": "ko-2109",
                 "w": "대학",
                 "p": "daehak",
                 "d": "college, university",
-                "s": ""
+                "s": "그를 대학 때부터 알았다. (I've known him since college.)"
             },
             {
-                "id": "ko-2244",
+                "id": "ko-2110",
                 "w": "드릴",
                 "p": "deuril",
                 "d": "drill",
-                "s": ""
+                "s": "우리가 당신의 요구를 충족시켜 드릴 수 있을지 모르겠네요. (I'm not quite sure if we can meet your requirements.)"
             },
             {
-                "id": "ko-2245",
+                "id": "ko-2111",
                 "w": "좀더",
                 "p": "jomdeo",
                 "d": "a little more",
-                "s": ""
+                "s": "좀더 큰소리로 부탁해. (Louder, please.)"
             },
             {
-                "id": "ko-2246",
+                "id": "ko-2112",
                 "w": "검사를",
                 "p": "geomsareul",
-                "d": "inspection",
-                "s": ""
+                "d": "examination",
+                "s": "내 시력 검사 부탁해. (Please check my vision.)"
             },
             {
-                "id": "ko-2247",
+                "id": "ko-2113",
                 "w": "예전",
                 "p": "yejeon",
-                "d": "the old days, the old times, the past, long ago",
+                "d": "the old days",
                 "s": ""
             },
             {
-                "id": "ko-2248",
+                "id": "ko-2114",
                 "w": "싶습니다",
                 "p": "sipseumnida",
-                "d": "to be desirous of, to want; Used after a clause with a sentence ending that expresses a sentiment or subjective speculation, commonly -ㄴ가 (-n'ga), -나 (-na), -ㄹ까 (-lkka), -으면 (-eumyeon), and -다 (-da), to state that the subject feels that certain way.",
-                "s": ""
+                "d": "to be desirous of",
+                "s": "이 소포를 오스트레일리아에 보내고 싶습니다. (I'd like to mail this package to Australia.)"
             },
             {
-                "id": "ko-2249",
-                "w": "스티븐스",
-                "p": "seutibeunseu",
-                "d": "stevens",
-                "s": ""
-            },
-            {
-                "id": "ko-2250",
+                "id": "ko-2115",
                 "w": "이거야",
                 "p": "igeoya",
-                "d": "This is it",
-                "s": ""
+                "d": "this",
+                "s": "내가 말하고자 하는 바는 이거야. (What I mean is this.)"
             },
             {
-                "id": "ko-2251",
+                "id": "ko-2116",
                 "w": "있겠어요",
                 "p": "itgesseoyo",
-                "d": "Is there one?",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-2252",
+                "id": "ko-2117",
                 "w": "않았을",
                 "p": "anasseul",
-                "d": "wouldn't have",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "물이 없었다면 인류의 생존은 가능하지 않았을 겁니다. (If it were not for water, human life would be impossible.)"
             },
             {
-                "id": "ko-2253",
+                "id": "ko-2118",
                 "w": "나가는",
                 "p": "naganeun",
-                "d": "going out",
-                "s": ""
+                "d": "to go out",
+                "s": "지금 당장 밖으로 나가는 것은 위험하다. (It's dangerous to go outside right now.)"
             },
             {
-                "id": "ko-2254",
+                "id": "ko-2119",
                 "w": "반갑습니다",
                 "p": "bangapseumnida",
-                "d": "to be glad, happy; pleasant; welcome",
-                "s": ""
+                "d": "to be glad, happy",
+                "s": "반갑습니다. (Nice to meet you.)"
             },
             {
-                "id": "ko-2255",
+                "id": "ko-2120",
                 "w": "아저씨가",
                 "p": "ajeossiga",
-                "d": "Uncle",
+                "d": "middle-aged elder male",
                 "s": ""
             },
             {
-                "id": "ko-2256",
+                "id": "ko-2121",
                 "w": "질",
                 "p": "jil",
-                "d": "vagina",
-                "s": ""
+                "d": "quality",
+                "s": "톰이 질 거라는 것을 난 알고 있었어. (I knew Tom would lose.)"
             },
             {
-                "id": "ko-2257",
+                "id": "ko-2122",
                 "w": "기억을",
                 "p": "gieogeul",
-                "d": "remember",
-                "s": ""
+                "d": "recall",
+                "s": "기억을 억지로 잊게 할 수는 없어. (You can't force yourself to forget something.)"
             },
             {
-                "id": "ko-2258",
+                "id": "ko-2123",
                 "w": "돕고",
                 "p": "dopgo",
-                "d": "helping",
-                "s": ""
+                "d": "to help",
+                "s": "저는 아버지의 이 일을 돕고 있어요. (I am helping my father with this work.)"
             },
             {
-                "id": "ko-2259",
+                "id": "ko-2124",
                 "w": "죽기",
                 "p": "jukgi",
-                "d": "die",
-                "s": ""
+                "d": "to die",
+                "s": "우리는 죽기 위해 태어났어. (We were born to die.)"
             },
             {
-                "id": "ko-2260",
+                "id": "ko-2125",
                 "w": "봤을",
                 "p": "bwasseul",
-                "d": "saw it",
-                "s": ""
+                "d": "to see",
+                "s": "제가 최근에 메리를 봤을 때 그녀는 파란 야구 모자를 쓰고 있었어요. (The last time I saw Mary she was wearing a blue baseball cap.)"
             },
             {
-                "id": "ko-2261",
+                "id": "ko-2126",
                 "w": "섹스",
                 "p": "sekseu",
-                "d": "sex (act of sexual intercourse)",
+                "d": "sex",
                 "s": ""
             },
             {
-                "id": "ko-2262",
+                "id": "ko-2127",
                 "w": "올게요",
                 "p": "olgeyo",
-                "d": "I'll come",
-                "s": ""
+                "d": "this year",
+                "s": "톰은 몸이 좋지 않아서 오늘 일하러 올 수 없습니다. (Tom can't come to work today because he doesn't feel well.)"
             },
             {
-                "id": "ko-2263",
+                "id": "ko-2128",
                 "w": "떠난",
                 "p": "tteonan",
-                "d": "left",
-                "s": ""
+                "d": "to leave",
+                "s": "난 막 버스가 떠난 후에야 버스 정류장에 도착했지 뭐야. (I arrived at the bus stop just after the bus left.)"
             },
             {
-                "id": "ko-2264",
+                "id": "ko-2129",
                 "w": "하네요",
                 "p": "haneyo",
-                "d": "It does",
-                "s": ""
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
             },
             {
-                "id": "ko-2265",
-                "w": "누구랑",
-                "p": "nugurang",
-                "d": "with whom",
-                "s": ""
-            },
-            {
-                "id": "ko-2266",
+                "id": "ko-2130",
                 "w": "앤",
                 "p": "aen",
-                "d": "Ann",
+                "d": "a transliteration of the English female given name Ann or",
                 "s": ""
             },
             {
-                "id": "ko-2267",
+                "id": "ko-2131",
                 "w": "누군가는",
                 "p": "nugunganeun",
-                "d": "someone",
-                "s": ""
+                "d": "somebody",
+                "s": "누군가는 톰에게 그걸 잘못된 방식으로 하고 있다고 말했어야 했다. (Someone should have told Tom that he was doing that the wrong way.)"
             },
             {
-                "id": "ko-2268",
+                "id": "ko-2132",
                 "w": "아들은",
                 "p": "adeureun",
-                "d": "The son",
-                "s": ""
+                "d": "son",
+                "s": "내 아들은 또래에 비해 키가 작아. (My son is small for his age.)"
             },
             {
-                "id": "ko-2269",
+                "id": "ko-2133",
                 "w": "바",
                 "p": "ba",
-                "d": "bar",
-                "s": ""
+                "d": "thing",
+                "s": "그는 바를 아슬아슬하게 넘어 우승을 차지했다. (He narrowly crossed the bar and won.)"
             },
             {
-                "id": "ko-2270",
+                "id": "ko-2134",
                 "w": "마음대로",
                 "p": "maeumdaero",
                 "d": "as one pleases/likes",
-                "s": ""
+                "s": "마음대로 생각해. (Think whatever you want.)"
             },
             {
-                "id": "ko-2271",
+                "id": "ko-2135",
                 "w": "만나게",
                 "p": "mannage",
-                "d": "meet",
-                "s": ""
+                "d": "to meet",
+                "s": "아, 그를 언제 다시 만나 볼 수 있을지는 알 수 없다. (Alas, I do not know when I will see him again.)"
             },
             {
-                "id": "ko-2272",
+                "id": "ko-2136",
                 "w": "않아서",
                 "p": "anaseo",
-                "d": "Because",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰은 몸이 좋지 않아서 오늘 일하러 올 수 없습니다. (Tom can't come to work today because he doesn't feel well.)"
             },
             {
-                "id": "ko-2273",
+                "id": "ko-2137",
                 "w": "결혼을",
                 "p": "gyeolhoneul",
-                "d": "get married",
-                "s": ""
+                "d": "marriage",
+                "s": "최근 결혼을 택하지 않는 사람들이 많아지고 있다. (Nowadays, more and more people are choosing not to get married.)"
             },
             {
-                "id": "ko-2274",
+                "id": "ko-2138",
                 "w": "보니까",
                 "p": "bonikka",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "d": "to see",
+                "s": "네가 나를 사랑하는 것 보다 내가 너를 더 사랑해. (I love you more than you love me.)"
             },
             {
-                "id": "ko-2275",
+                "id": "ko-2139",
                 "w": "씨는",
                 "p": "ssineun",
-                "d": "Mr.",
-                "s": ""
+                "d": "seed, kernel",
+                "s": "유미 씨는 갈수록 한국어를 잘 해요. (Yumi keeps getting better at Korean.)"
             },
             {
-                "id": "ko-2276",
+                "id": "ko-2140",
                 "w": "잃은",
                 "p": "ireun",
-                "d": "lost",
-                "s": ""
+                "d": "to lose",
+                "s": "톰은 직업을 잃은 뒤로 레스토랑에서 식사한 적이 없어. (Tom hasn't eaten at a restaurant since he lost his job.)"
             },
             {
-                "id": "ko-2277",
+                "id": "ko-2141",
                 "w": "그런게",
                 "p": "geureonge",
-                "d": "Something like that",
-                "s": ""
+                "d": "to do so",
+                "s": "간다고 그랬는데. (He said he would go, but...)"
             },
             {
-                "id": "ko-2278",
+                "id": "ko-2142",
                 "w": "엄만",
                 "p": "eomman",
-                "d": "topic-marked form of 엄마 (eomma)",
+                "d": "mum, mummy",
                 "s": ""
             },
             {
-                "id": "ko-2279",
+                "id": "ko-2143",
                 "w": "해봐요",
                 "p": "haebwayo",
-                "d": "Try it",
-                "s": ""
+                "d": "to do",
+                "s": "아니지. 그 아줌마가 시, 그짓말을 핸거지. (That's not it. That old lady had said a lie.)"
             },
             {
-                "id": "ko-2280",
+                "id": "ko-2144",
                 "w": "빨간",
                 "p": "ppalgan",
-                "d": "realis adnominal of 빨갛다 (ppalgata, “red”)",
-                "s": ""
+                "d": "deep red",
+                "s": "톰은 우리가 어제 봤던 비싸보이는 빨간 자동차가 자기 것이라고 주장했어. (Tom claimed that he owned that expensive-looking red car we saw yesterday.)"
             },
             {
-                "id": "ko-2281",
-                "w": "때문이죠",
-                "p": "ttaemunijyo",
-                "d": "Because",
-                "s": ""
-            },
-            {
-                "id": "ko-2282",
+                "id": "ko-2145",
                 "w": "강력한",
                 "p": "gangnyeokan",
-                "d": "powerful",
-                "s": ""
+                "d": "to be strong or powerful",
+                "s": "침묵은 아주 강력한 무기야. (Silence is a very powerful weapon.)"
             },
             {
-                "id": "ko-2283",
+                "id": "ko-2146",
                 "w": "환자의",
                 "p": "hwanjaui",
-                "d": "patient's",
-                "s": ""
+                "d": "a medical patient",
+                "s": "환자 분은 건강해 보였습니다. (The patient looked healthy.)"
             },
             {
-                "id": "ko-2284",
-                "w": "대통령님",
-                "p": "daetongnyeongnim",
-                "d": "Mr. President",
-                "s": ""
-            },
-            {
-                "id": "ko-2285",
+                "id": "ko-2147",
                 "w": "맥주",
                 "p": "maekju",
                 "d": "beer",
-                "s": ""
+                "s": "톰은 맥주 한 잔 하고 싶어한다. (Tom wants a beer.)"
             },
             {
-                "id": "ko-2286",
-                "w": "아니거든",
-                "p": "anigeodeun",
-                "d": "No.",
-                "s": ""
-            },
-            {
-                "id": "ko-2287",
+                "id": "ko-2148",
                 "w": "얘기하는",
                 "p": "yaegihaneun",
-                "d": "talking",
-                "s": ""
+                "d": "to talk",
+                "s": "친구한테 얘기하는 중이라고 생각해봐. (Suppose you are talking to your friend.)"
             },
             {
-                "id": "ko-2288",
+                "id": "ko-2149",
                 "w": "중요하지",
                 "p": "jungyohaji",
-                "d": "It's not important",
-                "s": ""
+                "d": "to be important",
+                "s": "중요하지 않다. (It's not important.)"
             },
             {
-                "id": "ko-2289",
+                "id": "ko-2150",
                 "w": "늦었어",
                 "p": "neujeosseo",
-                "d": "It's late",
-                "s": ""
+                "d": "to be late",
+                "s": "평소와 같이, 톰은 늦었어. (Tom is late, as always.)"
             },
             {
-                "id": "ko-2290",
+                "id": "ko-2151",
                 "w": "남편은",
                 "p": "nampyeoneun",
-                "d": "My husband",
-                "s": ""
+                "d": "husband",
+                "s": "그녀의 남편은 그녀가 내놓은 것이라면 전부 먹는다. (Her husband eats everything she puts in front of him.)"
             },
             {
-                "id": "ko-2291",
+                "id": "ko-2152",
                 "w": "크고",
                 "p": "keugo",
-                "d": "big and",
-                "s": ""
+                "d": "to be big, large",
+                "s": "카나다는 너무 크고 사람이 많아요. (Canada is really big and there are lots of people.)"
             },
             {
-                "id": "ko-2292",
-                "w": "두번째",
-                "p": "dubeonjjae",
-                "d": "second",
-                "s": ""
-            },
-            {
-                "id": "ko-2293",
+                "id": "ko-2153",
                 "w": "해서요",
                 "p": "haeseoyo",
-                "d": "Because I did it",
-                "s": ""
+                "d": "regular script",
+                "s": "좋은 영어와 나쁜 영어는 어떻게 해서 구별할 수 있나요? (How can you tell good English from bad English?)"
             },
             {
-                "id": "ko-2294",
+                "id": "ko-2154",
                 "w": "연락을",
                 "p": "yeollageul",
-                "d": "contact me",
-                "s": ""
+                "d": "contact",
+                "s": "드디어 그녀는 오랜 친구와 연락을 할 수 있었다. (At last, she was able to contact her old friend.)"
             },
             {
-                "id": "ko-2295",
+                "id": "ko-2155",
                 "w": "왜죠",
                 "p": "waejyo",
-                "d": "Why?",
-                "s": ""
+                "d": "why",
+                "s": "톰은 메리에게 왜 그가 늦게까지 일해야 했는지 알려주지 않았다. (Tom didn't tell Mary why he had to work late.)"
             },
             {
-                "id": "ko-2296",
+                "id": "ko-2156",
                 "w": "나무",
                 "p": "namu",
-                "d": "tree; wood",
-                "s": ""
+                "d": "tree",
+                "s": "나무 사이로 불어오는 바람 소리가 편안했다. (The sound of the breeze through the trees was relaxing.)"
             },
             {
-                "id": "ko-2297",
+                "id": "ko-2157",
                 "w": "만세",
                 "p": "manse",
-                "d": "hurrah, hooray; long live",
+                "d": "hurrah, hooray",
                 "s": ""
             },
             {
-                "id": "ko-2298",
-                "w": "쉐퍼드",
-                "p": "swepeodeu",
-                "d": "Shepherd",
-                "s": ""
-            },
-            {
-                "id": "ko-2299",
+                "id": "ko-2158",
                 "w": "자유",
                 "p": "jayu",
                 "d": "freedom, liberty",
-                "s": ""
+                "s": "오직 톰이 원하는 것은 약간의 자유 시간뿐이다. (All Tom wanted was some free time.)"
             },
             {
-                "id": "ko-2300",
+                "id": "ko-2159",
                 "w": "관계를",
                 "p": "gwangyereul",
-                "d": "relationship",
-                "s": ""
+                "d": "connection",
+                "s": "제니와 마크는 그들이 멕시코로 휴가를 다녀온 이후로 연인 관계에 있다. (Jenny and Mark have been together since they went on holiday to Mexico.)"
             },
             {
-                "id": "ko-2301",
+                "id": "ko-2160",
                 "w": "싸우는",
                 "p": "ssauneun",
                 "d": "to fight or struggle",
-                "s": ""
+                "s": "싸우는 동안 톰은 어디 있었는가? (Where was Tom during the fight?)"
             },
             {
-                "id": "ko-2302",
+                "id": "ko-2161",
                 "w": "거라는",
                 "p": "georaneun",
-                "d": "That's it",
-                "s": ""
+                "d": "thing",
+                "s": "톰은 마리가 존이 그걸 하면 안 될 거라는 걸 알았다고 말했다. (Tom said that Mary knew that John might not be allowed to do that.)"
             },
             {
-                "id": "ko-2303",
+                "id": "ko-2162",
                 "w": "경찰에",
                 "p": "gyeongchare",
-                "d": "to the police",
-                "s": ""
+                "d": "police",
+                "s": "파딜은 경찰에 전화해서 자기 아이가 실종되었다고 신고했다. (Fadil called the police and reported his child missing.)"
             },
             {
-                "id": "ko-2304",
+                "id": "ko-2163",
                 "w": "기다릴",
                 "p": "gidaril",
-                "d": "to wait for, to await; to look forward to",
-                "s": ""
+                "d": "to wait for, to await",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
-                "id": "ko-2305",
+                "id": "ko-2164",
                 "w": "여행",
                 "p": "yeohaeng",
-                "d": "travel; journey, trip, voyage",
-                "s": ""
+                "d": "travel",
+                "s": "요즘 여행 준비하느라 아주 바쁘시지요? (Aren't you extremely busy preparing for your trip these days?)"
             },
             {
-                "id": "ko-2306",
+                "id": "ko-2165",
                 "w": "이제야",
                 "p": "ijeya",
-                "d": "Now",
+                "d": "These days",
                 "s": ""
             },
             {
-                "id": "ko-2307",
-                "w": "여자랑",
-                "p": "yeojarang",
-                "d": "With a woman",
-                "s": ""
-            },
-            {
-                "id": "ko-2308",
+                "id": "ko-2166",
                 "w": "그곳에",
                 "p": "geugose",
                 "d": "there",
-                "s": ""
+                "s": "톰의 카메라는 그가 놔둔 바로 그곳에 있었다. (Tom's camera was just where he'd left it.)"
             },
             {
-                "id": "ko-2309",
+                "id": "ko-2167",
                 "w": "치료를",
                 "p": "chiryoreul",
-                "d": "treatment",
+                "d": "Treatment for a disease or injury",
                 "s": ""
             },
             {
-                "id": "ko-2310",
+                "id": "ko-2168",
                 "w": "자네에게",
                 "p": "janeege",
-                "d": "to you",
+                "d": "you",
                 "s": ""
             },
             {
-                "id": "ko-2311",
+                "id": "ko-2169",
                 "w": "종류의",
                 "p": "jongnyuui",
-                "d": "kind of",
-                "s": ""
+                "d": "type, kind, category",
+                "s": "우리에겐 그런 종류의 바이러스가 존재하는지 증거가 없어. (We have no evidence that such a virus exists.)"
             },
             {
-                "id": "ko-2312",
+                "id": "ko-2170",
                 "w": "연락이",
                 "p": "yeollagi",
-                "d": "Contact me",
-                "s": ""
+                "d": "contact",
+                "s": "저는 최근에 그분한테서 연락이 업서요. (I don't have contact recently from him.)"
             },
             {
-                "id": "ko-2313",
+                "id": "ko-2171",
                 "w": "줄까",
                 "p": "julkka",
-                "d": "Should I give it to you?",
-                "s": ""
+                "d": "to decrease, to shrink",
+                "s": "1982년 이래로, 그것은 250미터 만큼 줄었다. (Since 1982, it has shrunk by 250 meters.)"
             },
             {
-                "id": "ko-2314",
-                "w": "안했어",
-                "p": "anhaesseo",
-                "d": "I didn't do it",
-                "s": ""
-            },
-            {
-                "id": "ko-2315",
+                "id": "ko-2172",
                 "w": "고",
                 "p": "go",
-                "d": "Go",
-                "s": ""
+                "d": "the late, deceased",
+                "s": "고거 너무 귀엽다! (That's so cute!)"
             },
             {
-                "id": "ko-2316",
+                "id": "ko-2173",
                 "w": "만나는",
                 "p": "mannaneun",
-                "d": "meet",
-                "s": ""
+                "d": "to meet",
+                "s": "그 여자는 자기의 불행을 만나는 사람 모두에게 말한다. (She tells her tale of misery to everyone she meets.)"
             },
             {
-                "id": "ko-2317",
+                "id": "ko-2174",
                 "w": "달린",
                 "p": "dallin",
-                "d": "ran",
-                "s": ""
+                "d": "to run, to ride",
+                "s": "생사가 달린 문제이다. (It is a matter of life or death.)"
             },
             {
-                "id": "ko-2318",
+                "id": "ko-2175",
                 "w": "루시",
                 "p": "rusi",
-                "d": "lucy",
+                "d": "Rus",
                 "s": ""
             },
             {
-                "id": "ko-2319",
-                "w": "그렇군",
-                "p": "geureokun",
-                "d": "I see.",
-                "s": ""
-            },
-            {
-                "id": "ko-2320",
+                "id": "ko-2176",
                 "w": "않을까",
                 "p": "aneulkka",
-                "d": "Wouldn't it be",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
             },
             {
-                "id": "ko-2321",
-                "w": "안그래",
-                "p": "angeurae",
-                "d": "Isn't that right?",
-                "s": ""
-            },
-            {
-                "id": "ko-2322",
+                "id": "ko-2177",
                 "w": "전화해서",
                 "p": "jeonhwahaeseo",
-                "d": "By calling",
-                "s": ""
+                "d": "to call by telephone",
+                "s": "파딜은 경찰에 전화해서 자기 아이가 실종되었다고 신고했다. (Fadil called the police and reported his child missing.)"
             },
             {
-                "id": "ko-2323",
+                "id": "ko-2178",
                 "w": "나와서",
                 "p": "nawaseo",
-                "d": "come out",
-                "s": ""
+                "d": "to come out, come forth",
+                "s": "학생은 학교에서 나왔어요. (The student came out of school.)"
             },
             {
-                "id": "ko-2324",
+                "id": "ko-2179",
                 "w": "지금이",
                 "p": "jigeumi",
-                "d": "Now is the time",
-                "s": ""
+                "d": "now",
+                "s": "지금 너무 덥네요. 더위가 조금 가실 때까지 기다렸다가 나가요. (It is very hot right now. Let's wait until the heat eases a little before going out.)"
             },
             {
-                "id": "ko-2325",
+                "id": "ko-2180",
                 "w": "괜찮을거야",
                 "p": "gwaenchaneulgeoya",
-                "d": "It'll be okay",
-                "s": ""
+                "d": "to be nice",
+                "s": "지금까지는 괜찮았지만 정작은 이제부터다. (So far so good, but we shall have to be ready for the worse.)"
             },
             {
-                "id": "ko-2326",
+                "id": "ko-2181",
                 "w": "세게",
                 "p": "sege",
-                "d": "harder",
-                "s": ""
+                "d": "to be strong",
+                "s": "톰은 정말 세게 공을 찼습니다. (Tom kicked the ball really hard.)"
             },
             {
-                "id": "ko-2327",
+                "id": "ko-2182",
                 "w": "이것이",
                 "p": "igeosi",
-                "d": "This is",
-                "s": ""
+                "d": "this",
+                "s": "나는 이것이 범죄라고 생각하지 않는다. (I don't think this is a crime.)"
             },
             {
-                "id": "ko-2328",
+                "id": "ko-2183",
                 "w": "신발",
                 "p": "sinbal",
-                "d": "shoes, footwear, footgear",
-                "s": ""
+                "d": "shoes",
+                "s": "난 그저께 신발 세 켤레를 샀어. (I bought three pairs of shoes the day before yesterday.)"
             },
             {
-                "id": "ko-2329",
+                "id": "ko-2184",
                 "w": "답을",
                 "p": "dabeul",
-                "d": "answer",
-                "s": ""
+                "d": "answer, reply",
+                "s": "실수를 찾으려 하지 말고 답을 찾으려 해. (Don't go looking for a mistake; look for the answer.)"
             },
             {
-                "id": "ko-2330",
+                "id": "ko-2185",
                 "w": "팀이",
                 "p": "timi",
                 "d": "team",
-                "s": ""
+                "s": "축구는 11멍의 선수로 팀이 구성된다. (A soccer team consists of eleven players.)"
             },
             {
-                "id": "ko-2331",
+                "id": "ko-2186",
                 "w": "괜히",
                 "p": "gwaenhi",
                 "d": "for nothing",
                 "s": ""
             },
             {
-                "id": "ko-2332",
-                "w": "헤일리",
-                "p": "heilli",
-                "d": "Hailey",
-                "s": ""
-            },
-            {
-                "id": "ko-2333",
-                "w": "셰퍼드",
-                "p": "syepeodeu",
-                "d": "shepherd",
-                "s": ""
-            },
-            {
-                "id": "ko-2334",
+                "id": "ko-2187",
                 "w": "있을지도",
                 "p": "isseuljido",
-                "d": "maybe",
-                "s": ""
+                "d": "to stay",
+                "s": "톰도 우리와 함께할 수 있을지도 모른다. (Maybe Tom can join us.)"
             },
             {
-                "id": "ko-2335",
+                "id": "ko-2188",
                 "w": "서서",
                 "p": "seoseo",
-                "d": "gradually, slowly, steadily",
+                "d": "gradually",
                 "s": ""
             },
             {
-                "id": "ko-2336",
+                "id": "ko-2189",
                 "w": "애야",
                 "p": "aeya",
-                "d": "Baby",
-                "s": ""
+                "d": "anxiety",
+                "s": "톰은 소심한 애야. (Tom is a timid kid.)"
             },
             {
-                "id": "ko-2337",
+                "id": "ko-2190",
                 "w": "결과가",
                 "p": "gyeolgwaga",
-                "d": "the result",
-                "s": ""
+                "d": "as a result of",
+                "s": "결과가 좋으면 모든 것이 좋다. (All's well that ends well.)"
             },
             {
-                "id": "ko-2338",
+                "id": "ko-2191",
                 "w": "해냈어",
                 "p": "haenaesseo",
-                "d": "I did it",
-                "s": ""
+                "d": "to accomplish",
+                "s": "난 어떻게 하는지 모르지만 그 사람은 해냈어. (I don't know how, but she did it.)"
             },
             {
-                "id": "ko-2339",
+                "id": "ko-2192",
                 "w": "했나",
                 "p": "haenna",
-                "d": "did you do it",
-                "s": ""
+                "d": "did, past tense of DO",
+                "s": "이 일에 대해 알고 있었다면, 왜 말 안 했나? (If you knew about this, why didn't you tell us?)"
             },
             {
-                "id": "ko-2340",
+                "id": "ko-2193",
                 "w": "별거",
                 "p": "byeolgeo",
-                "d": "alternative form of 별것 (byeolgeot)",
-                "s": ""
+                "d": "a rarity",
+                "s": "별거 아니에요. (It's nothing; It's my pleasure. (a polite reaction to receiving thanks))"
             },
             {
-                "id": "ko-2341",
+                "id": "ko-2194",
                 "w": "러시아",
                 "p": "reosia",
                 "d": "Russia",
-                "s": ""
+                "s": "소행성이 러시아 첼랴빈스크 위에서 폭발했습니다. (An asteroid exploded over Chelyabinsk in Russia.)"
             },
             {
-                "id": "ko-2342",
+                "id": "ko-2195",
                 "w": "아빤",
                 "p": "appan",
-                "d": "topic-marked form of 아빠 (appa)",
+                "d": "dad, papa",
                 "s": ""
             },
             {
-                "id": "ko-2343",
+                "id": "ko-2196",
                 "w": "알겠다",
                 "p": "algetda",
-                "d": "I understand",
-                "s": ""
+                "d": "to know, understand",
+                "s": "그 여자에게 당신이 여기 있다고 말해요. — 알겠어요. 고마워요. 피트 (Tell her you’re here. — Right, thanks, Pete.)"
             },
             {
-                "id": "ko-2344",
+                "id": "ko-2197",
                 "w": "밤을",
                 "p": "bameul",
                 "d": "night",
-                "s": ""
+                "s": "톰은 밤을 샌 것처럼 보인다. (Tom looks like he's been up all night.)"
             },
             {
-                "id": "ko-2345",
+                "id": "ko-2198",
                 "w": "루시퍼",
                 "p": "rusipeo",
-                "d": "lucifer",
+                "d": "Lucifer",
                 "s": ""
             },
             {
-                "id": "ko-2346",
+                "id": "ko-2199",
                 "w": "전화해",
                 "p": "jeonhwahae",
-                "d": "call me",
-                "s": ""
+                "d": "to call by telephone",
+                "s": "탐에게 돌아오자 마자 전화해 달라고 물어봐 주세요. (Ask Tom to call me as soon as he returns.)"
             },
             {
-                "id": "ko-2347",
+                "id": "ko-2200",
                 "w": "달리",
                 "p": "dalli",
                 "d": "differently, unlike",
-                "s": ""
+                "s": "톰은 대부분의 흡혈귀와는 달리 관에서 자지 않는다. (Tom doesn't sleep in a coffin like most vampires.)"
             },
             {
-                "id": "ko-2348",
+                "id": "ko-2201",
                 "w": "이야기는",
                 "p": "iyagineun",
-                "d": "The story is",
-                "s": ""
+                "d": "talk",
+                "s": "그의 이야기는 사실로 드러났다. (His story turned out to be true.)"
             },
             {
-                "id": "ko-2349",
+                "id": "ko-2202",
                 "w": "친한",
                 "p": "chinhan",
-                "d": "friendly",
-                "s": ""
+                "d": "to be close, familiar",
+                "s": "나는 너의 가장 친한 친구도 가장 나쁜 적도 될 수 있어. (I can be your best friend or your worst enemy.)"
             },
             {
-                "id": "ko-2350",
+                "id": "ko-2203",
                 "w": "하겠어",
                 "p": "hagesseo",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "d": "to do",
+                "s": "네가 없는 날이란 상상도 못 하겠어. (I can't imagine a day without you.)"
             },
             {
-                "id": "ko-2351",
+                "id": "ko-2204",
                 "w": "어떤가",
                 "p": "eotteonga",
-                "d": "What is it like?",
-                "s": ""
+                "d": "what kind of",
+                "s": "운좋게도 나는 어떤 중대한 오류도 없이 일을 끝마칠 수 있었어. (Fortunately I was able to finish my work without any serious errors.)"
             },
             {
-                "id": "ko-2352",
+                "id": "ko-2205",
                 "w": "증거가",
                 "p": "jeunggeoga",
-                "d": "there is evidence",
-                "s": ""
+                "d": "proof, evidence",
+                "s": "우리에겐 그런 종류의 바이러스가 존재하는지 증거가 없어. (We have no evidence that such a virus exists.)"
             },
             {
-                "id": "ko-2353",
+                "id": "ko-2206",
                 "w": "사랑이",
                 "p": "sarangi",
                 "d": "love",
-                "s": ""
+                "s": "사랑이 사랑을 어떻게 사랑할 수 있니? (How can love love love?)"
             },
             {
-                "id": "ko-2354",
+                "id": "ko-2207",
                 "w": "깜짝",
                 "p": "kkamjjak",
-                "d": "while blinking one's eyes (especially in shock); with surprise, with a shock (often in a positive way)",
-                "s": ""
+                "d": "while blinking one's eyes",
+                "s": "톰은 메리가 토너먼트에서 이기지 못한다면 깜짝 놀랄 것이라고 말했다. (Tom said he'd be very surprised if Mary didn't win the tournament.)"
             },
             {
-                "id": "ko-2355",
+                "id": "ko-2208",
                 "w": "있었을",
                 "p": "isseosseul",
-                "d": "there was",
-                "s": ""
+                "d": "to stay",
+                "s": "톰은 아마 뭔가를 곰곰히 생각하고 있었을 거야. (Tom was probably pondering something.)"
             },
             {
-                "id": "ko-2356",
+                "id": "ko-2209",
                 "w": "가봐야",
                 "p": "gabwaya",
-                "d": "I have to go",
-                "s": ""
+                "d": "to go",
+                "s": "너와 이야기 하는 것은 정말 좋았는데, 근데 진짜 가봐야 해. (It's been nice talking to you, but I really must go now.)"
             },
             {
-                "id": "ko-2357",
+                "id": "ko-2210",
                 "w": "행복해",
                 "p": "haengbokae",
-                "d": "I'm happy",
-                "s": ""
+                "d": "to be happy",
+                "s": "너무 행복해! 온 세상을 안고 싶을 정도야! (I'm so happy! I want to hug the entire world!)"
             },
             {
-                "id": "ko-2358",
+                "id": "ko-2211",
                 "w": "대부분의",
                 "p": "daebubunui",
-                "d": "most",
-                "s": ""
+                "d": "the majority",
+                "s": "톰은 대부분의 시간을 현관에 앉는 걸로 보내고 있어. (Tom spends most of his time sitting on the porch.)"
             },
             {
-                "id": "ko-2359",
+                "id": "ko-2212",
                 "w": "생각한",
                 "p": "saenggakan",
-                "d": "thought",
-                "s": ""
+                "d": "to think",
+                "s": "네가 생각한 바에 난 개의치 않는다. (I don't care what you thought.)"
             },
             {
-                "id": "ko-2360",
+                "id": "ko-2213",
                 "w": "침대",
                 "p": "chimdae",
-                "d": "bed (furniture)",
-                "s": ""
+                "d": "bed",
+                "s": "네 침대 밑에서 이걸 찾았다. (I found this under your bed.)"
             },
             {
-                "id": "ko-2361",
+                "id": "ko-2214",
                 "w": "넣고",
                 "p": "neoko",
-                "d": "put it in",
-                "s": ""
+                "d": "to put in",
+                "s": "나는 탐을 감옥에 넣고 싶어. (I want Tom put in prison.)"
             },
             {
-                "id": "ko-2362",
+                "id": "ko-2215",
                 "w": "밑에서",
                 "p": "miteseo",
-                "d": "from below",
-                "s": ""
+                "d": "under-",
+                "s": "네 침대 밑에서 이걸 찾았다. (I found this under your bed.)"
             },
             {
-                "id": "ko-2363",
+                "id": "ko-2216",
                 "w": "않았죠",
                 "p": "anatjyo",
-                "d": "It wasn't",
-                "s": ""
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다. (This building looks large from the front, but not from the side.)"
             },
             {
-                "id": "ko-2364",
+                "id": "ko-2217",
                 "w": "걸고",
                 "p": "geolgo",
-                "d": "Put it on",
-                "s": ""
+                "d": "to hang, to suspend",
+                "s": "너에게 전화를 걸고 싶었는데, 너가 안 받을까봐 결국 전화 못했어. (I wanted to phone you, but I thought you wouldn't get it so I didn't phone you in the end.)"
             },
             {
-                "id": "ko-2365",
+                "id": "ko-2218",
                 "w": "증거를",
                 "p": "jeunggeoreul",
-                "d": "evidence",
-                "s": ""
+                "d": "proof, evidence",
+                "s": "바로 여기서 증거를 잡았어. (I've got proof right here.)"
             },
             {
-                "id": "ko-2366",
+                "id": "ko-2219",
                 "w": "칼을",
                 "p": "kareul",
-                "d": "a knife",
-                "s": ""
+                "d": "knife, sword",
+                "s": "칼 가는 거 벌써 다 했어? (Have you already sharpened the knives?)"
             },
             {
-                "id": "ko-2367",
+                "id": "ko-2220",
                 "w": "게임을",
                 "p": "geimeul",
-                "d": "play the game",
-                "s": ""
+                "d": "game",
+                "s": "톰은 게임을 하고 있어. (Tom is playing a game.)"
             },
             {
-                "id": "ko-2368",
+                "id": "ko-2221",
                 "w": "침대에",
                 "p": "chimdaee",
-                "d": "in bed",
-                "s": ""
+                "d": "bed",
+                "s": "침대에 눕기 전에 꼭 문을 잠궈 두시기 바랍니다. (Be sure to lock the door before you go to bed.)"
             },
             {
-                "id": "ko-2369",
+                "id": "ko-2222",
                 "w": "가족은",
                 "p": "gajogeun",
-                "d": "family",
-                "s": ""
+                "d": "household",
+                "s": "우리 가족은 매년 오스트레일리아에 간다. (My family goes to Australia every year.)"
             },
             {
-                "id": "ko-2370",
-                "w": "봅시다",
-                "p": "bopsida",
-                "d": "Let's see",
-                "s": ""
-            },
-            {
-                "id": "ko-2371",
+                "id": "ko-2223",
                 "w": "타마오",
                 "p": "tamao",
-                "d": "tamao",
-                "s": ""
+                "d": "something small and round",
+                "s": "다마를 박다 (to insert a penile pearl)"
             },
             {
-                "id": "ko-2372",
+                "id": "ko-2224",
                 "w": "나왔어",
                 "p": "nawasseo",
-                "d": "came out",
-                "s": ""
+                "d": "to come out, come forth",
+                "s": "학생은 학교에서 나왔어요. (The student came out of school.)"
             },
             {
-                "id": "ko-2373",
+                "id": "ko-2225",
                 "w": "거래",
                 "p": "georae",
-                "d": "transaction; trade; give and take (more generally)",
-                "s": ""
+                "d": "transaction",
+                "s": "멕시코의 마약 카르텔은 수익이 나는 미국행 마약 거래 루트를 놓고 경쟁하고 있다. (Mexican drug cartels are vying over lucrative drug-trafficking routes to the U.S.)"
             },
             {
-                "id": "ko-2374",
+                "id": "ko-2226",
                 "w": "행복하게",
                 "p": "haengbokage",
-                "d": "happily",
-                "s": ""
+                "d": "to be happy",
+                "s": "이것은 날 행복하게 만들지 못한다. (This does not make me happy.)"
             },
             {
-                "id": "ko-2375",
+                "id": "ko-2227",
                 "w": "녀석은",
                 "p": "nyeoseogeun",
-                "d": "The guy",
-                "s": ""
+                "d": "dude, fellow",
+                "s": "남동생은 매우 중요한 인물이야. 적어도 그 녀석은 그렇게 생각하고 있어. (My brother is very important. At least he thinks he is.)"
             },
             {
-                "id": "ko-2376",
+                "id": "ko-2228",
                 "w": "영혼을",
                 "p": "yeonghoneul",
-                "d": "the soul",
+                "d": "soul",
                 "s": ""
             },
             {
-                "id": "ko-2377",
+                "id": "ko-2229",
                 "w": "삶은",
                 "p": "salmeun",
-                "d": "boiled",
-                "s": ""
+                "d": "to boil",
+                "s": "며칠 전에 메추리알 삶은 거 좀 먹었어. (I ate some boiled quail eggs a few nights ago.)"
             },
             {
-                "id": "ko-2378",
+                "id": "ko-2230",
                 "w": "위험에",
                 "p": "wiheome",
-                "d": "in danger",
-                "s": ""
+                "d": "danger",
+                "s": "오존층이 없다면 우리는 위험에 빠질 수도 있다. (Without the ozone layer, we would be in danger.)"
             },
             {
-                "id": "ko-2379",
+                "id": "ko-2231",
                 "w": "끝날",
                 "p": "kkeunnal",
-                "d": "It will end",
-                "s": ""
+                "d": "to come to an end",
+                "s": "나는 내 숙제를 끝날 수가 없었다. (I was unable to finish my homework.)"
             },
             {
-                "id": "ko-2380",
+                "id": "ko-2232",
                 "w": "두려워",
                 "p": "duryeowo",
-                "d": "afraid",
-                "s": ""
+                "d": "to be fearful",
+                "s": "톰이 여기에 있길 두려워 했어. (Tom was afraid to be here.)"
             },
             {
-                "id": "ko-2381",
+                "id": "ko-2233",
                 "w": "개인적인",
                 "p": "gaeinjeogin",
-                "d": "personal",
+                "d": "individual",
                 "s": ""
             },
             {
-                "id": "ko-2382",
-                "w": "아버진",
-                "p": "abeojin",
-                "d": "father",
-                "s": ""
-            },
-            {
-                "id": "ko-2383",
-                "w": "저들은",
-                "p": "jeodeureun",
-                "d": "They are",
-                "s": ""
-            },
-            {
-                "id": "ko-2384",
-                "w": "뭡니까",
-                "p": "mwomnikka",
-                "d": "What is it",
-                "s": ""
-            },
-            {
-                "id": "ko-2385",
+                "id": "ko-2234",
                 "w": "즉",
                 "p": "jeuk",
-                "d": "That is",
-                "s": ""
+                "d": "that is to say",
+                "s": "중동은 곧 라마단, 즉 금식 기간으로 접어든다. (The Middle East soon enters the month of Ramadan, that is, the time of the fast.)"
             },
             {
-                "id": "ko-2386",
-                "w": "2년",
-                "p": "2nyeon",
-                "d": "2 years",
-                "s": ""
-            },
-            {
-                "id": "ko-2387",
+                "id": "ko-2235",
                 "w": "미스",
                 "p": "miseu",
                 "d": "mistake, error",
                 "s": ""
             },
             {
-                "id": "ko-2388",
+                "id": "ko-2236",
                 "w": "중국",
                 "p": "jungguk",
-                "d": "china",
-                "s": ""
+                "d": "China",
+                "s": "저는 중국 사람입니다. (I am Chinese.)"
             },
             {
-                "id": "ko-2389",
+                "id": "ko-2237",
                 "w": "속",
                 "p": "sok",
-                "d": "the interior or inside, especially that which is underneath or within a covering; stomach; insides",
-                "s": ""
+                "d": "the interior or inside",
+                "s": "제 마음 속 깊이 감사드립니다. (I thank you from the bottom of my heart.)"
             },
             {
-                "id": "ko-2390",
-                "w": "걱정마",
-                "p": "geokjeongma",
-                "d": "Don't worry",
-                "s": ""
-            },
-            {
-                "id": "ko-2391",
+                "id": "ko-2238",
                 "w": "여지가",
                 "p": "yeojiga",
-                "d": "There is room",
-                "s": ""
+                "d": "room",
+                "s": "사실 우리는 선택의 여지가 없다 (Actually, we don't have a choice.)"
             },
             {
-                "id": "ko-2392",
+                "id": "ko-2239",
                 "w": "가라고",
                 "p": "garago",
-                "d": "Go",
-                "s": ""
+                "d": "border, edge, end",
+                "s": "네가 톰한테 집에 가라고 할거야, 아니면 내가 해야 돼? (Are you going to tell Tom to go home, or do I have to?)"
             },
             {
-                "id": "ko-2393",
+                "id": "ko-2240",
                 "w": "가야지",
                 "p": "gayaji",
-                "d": "I have to go",
-                "s": ""
+                "d": "Gaya",
+                "s": "사회의 찌꺼기는 쓰레기장으로 가야지. (The dregs of society should be taken to the garbage dump.)"
             },
             {
-                "id": "ko-2394",
+                "id": "ko-2241",
                 "w": "집은",
                 "p": "jibeun",
-                "d": "The house is",
-                "s": ""
+                "d": "to pick up",
+                "s": "이 집은 팔려고 내놓은 집 아니에요. (This house is not for sale.)"
             },
             {
-                "id": "ko-2395",
+                "id": "ko-2242",
                 "w": "봐서",
                 "p": "bwaseo",
-                "d": "to see, to look at, to watch (to perceive with the eyes); to look after (a baby, child, house, etc.)",
-                "s": ""
+                "d": "to see",
+                "s": "네가 나를 사랑하는 것 보다 내가 너를 더 사랑해. (I love you more than you love me.)"
             },
             {
-                "id": "ko-2396",
+                "id": "ko-2243",
                 "w": "결혼식",
                 "p": "gyeolhonsik",
                 "d": "wedding ceremony",
                 "s": ""
             },
             {
-                "id": "ko-2397",
+                "id": "ko-2244",
                 "w": "자를",
                 "p": "jareul",
-                "d": "cut",
-                "s": ""
+                "d": "to cut",
+                "s": "얼마나 자주 머리를 자르세요? (How often do you cut your hair?)"
             },
             {
-                "id": "ko-2398",
+                "id": "ko-2245",
                 "w": "기꺼이",
                 "p": "gikkeoi",
-                "d": "readily; gladly; willingly",
-                "s": ""
+                "d": "readily",
+                "s": "기꺼이 오겠습니다. (I'll be glad to come.)"
             },
             {
-                "id": "ko-2399",
+                "id": "ko-2246",
                 "w": "없으니",
                 "p": "eopseuni",
-                "d": "Because there is no",
-                "s": ""
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
-                "id": "ko-2400",
+                "id": "ko-2247",
                 "w": "여기야",
                 "p": "yeogiya",
-                "d": "It's here",
-                "s": ""
+                "d": "here",
+                "s": "여기 보스턴에서 캐나다 사람을 만난 적이 있나요? (Have you met any Canadians here in Boston?)"
             },
             {
-                "id": "ko-2401",
+                "id": "ko-2248",
                 "w": "오게",
                 "p": "oge",
-                "d": "come",
-                "s": ""
+                "d": "to come",
+                "s": "톰은 그들을 못 들어 오게 했다. (Tom wouldn't let them in.)"
             },
             {
-                "id": "ko-2402",
+                "id": "ko-2249",
                 "w": "싫어하는",
                 "p": "sireohaneun",
-                "d": "dislike",
-                "s": ""
+                "d": "to detest, to loathe",
+                "s": "내가 메리를 싫어하는 만큼 그녀도 나를 싫어한다. (Mary hates me as much as I hate her.)"
             },
             {
-                "id": "ko-2403",
+                "id": "ko-2250",
                 "w": "하시는",
                 "p": "hasineun",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
             },
             {
-                "id": "ko-2404",
+                "id": "ko-2251",
                 "w": "몇몇",
                 "p": "myeonmyeot",
                 "d": "some, a few",
-                "s": ""
+                "s": "우리 회사의 몇몇 사람들은 프랑스어를 할 줄 안다. (Several people in our office can speak French.)"
             },
             {
-                "id": "ko-2405",
+                "id": "ko-2252",
                 "w": "있다가",
                 "p": "itdaga",
-                "d": "later",
-                "s": ""
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
-                "id": "ko-2406",
+                "id": "ko-2253",
                 "w": "확실한",
                 "p": "hwaksilhan",
-                "d": "sure",
-                "s": ""
+                "d": "to be certain or definite",
+                "s": "이렇게 콜렉션의 확실한 예를 보여줘서 정말 감사합니다. (Many thanks for this illustrative collection of examples.)"
             },
             {
-                "id": "ko-2407",
+                "id": "ko-2254",
                 "w": "물어봐",
                 "p": "mureobwa",
-                "d": "ask",
-                "s": ""
+                "d": "to ask",
+                "s": "탐에게 돌아오자 마자 전화해 달라고 물어봐 주세요. (Ask Tom to call me as soon as he returns.)"
             },
             {
-                "id": "ko-2408",
+                "id": "ko-2255",
                 "w": "필요하면",
                 "p": "piryohamyeon",
-                "d": "to have a need; to be necessary, to be needed",
-                "s": ""
+                "d": "to have a need",
+                "s": "당신이 날 필요하면, 난 어딘가에있을거야. (If you need me, I'll be somewhere around.)"
             },
             {
-                "id": "ko-2409",
+                "id": "ko-2256",
                 "w": "누구한테",
                 "p": "nuguhante",
-                "d": "To whom",
-                "s": ""
+                "d": "who",
+                "s": "\"이 책 누구 책이지?\" \"제 책이요.\" (\"Whose book is this?\" \"It's mine.\")"
             },
             {
-                "id": "ko-2410",
+                "id": "ko-2257",
                 "w": "결과",
                 "p": "gyeolgwa",
-                "d": "result",
-                "s": ""
+                "d": "as a result of",
+                "s": "그 연구의 결과들은 그 주제에 관한 선행 조사들을 확증한다. (The results of the study confirm previous research on the topic.)"
             },
             {
-                "id": "ko-2411",
+                "id": "ko-2258",
                 "w": "없었지",
                 "p": "eopseotji",
-                "d": "There wasn't",
-                "s": ""
+                "d": "to have none",
+                "s": "어쩔 수 없었지 않니? (It was inevitable, wasn't it?)"
             },
             {
-                "id": "ko-2412",
+                "id": "ko-2259",
                 "w": "말게",
                 "p": "malge",
-                "d": "Don't",
-                "s": ""
+                "d": "to not do something",
+                "s": "그 여자는 신문지를 말아 길고 가느다란 봉을 만들었다. (She rolled the newspaper into a long, thin rod.)"
             },
             {
-                "id": "ko-2413",
+                "id": "ko-2260",
                 "w": "정신을",
                 "p": "jeongsineul",
-                "d": "spirit",
-                "s": ""
+                "d": "mind",
+                "s": "악기를 배우는 건 정신을 훈련시킬 수 있어. (Learning a musical instrument trains the mind.)"
             },
             {
-                "id": "ko-2414",
+                "id": "ko-2261",
                 "w": "부르지",
                 "p": "bureuji",
-                "d": "I'll call you",
-                "s": ""
+                "d": "to name",
+                "s": "톰은 아직 경찰을 부르지 않았다. (Tom hasn't called the police yet.)"
             },
             {
-                "id": "ko-2415",
-                "w": "케빈",
-                "p": "kebin",
-                "d": "kevin",
-                "s": ""
-            },
-            {
-                "id": "ko-2416",
+                "id": "ko-2262",
                 "w": "제시",
                 "p": "jesi",
                 "d": "presentation, showing",
                 "s": ""
             },
             {
-                "id": "ko-2417",
+                "id": "ko-2263",
                 "w": "그쪽",
                 "p": "geujjok",
-                "d": "there, that way; your party, your side, you",
-                "s": ""
+                "d": "there, that way",
+                "s": "어떻게 지내세요? 네, 좋아요. 그쪽은요? (How are you? I'm fine, thanks. And you?)"
             },
             {
-                "id": "ko-2418",
+                "id": "ko-2264",
                 "w": "새끼야",
                 "p": "saekkiya",
-                "d": "You bastard",
-                "s": ""
+                "d": "young animal",
+                "s": "나한테서 손 떼, 이 새끼야. (Take your fucking hands off me, you bastard!)"
             },
             {
-                "id": "ko-2419",
+                "id": "ko-2265",
                 "w": "불이",
                 "p": "buri",
                 "d": "fire",
-                "s": ""
+                "s": "깃발에 불이 붙었다. (The flag caught on fire.)"
             },
             {
-                "id": "ko-2420",
+                "id": "ko-2266",
                 "w": "영화를",
                 "p": "yeonghwareul",
-                "d": "movie",
-                "s": ""
+                "d": "movie, film",
+                "s": "보통 영화를 볼 때 팝콘이랑 코카콜라를 먹는데 이번엔 사탕을 먹으려해. (Normally I eat popcorn and drink Coke when I watch a movie, but this time I'll eat candy.)"
             },
             {
-                "id": "ko-2421",
+                "id": "ko-2267",
                 "w": "맨",
                 "p": "maen",
-                "d": "top",
-                "s": ""
+                "d": "utmost, most",
+                "s": "이 타워의 맨 위에 회전하는 식당이 있다. (There is a rotating restaurant at the top of this tower.)"
             },
             {
-                "id": "ko-2422",
-                "w": "나한텐",
-                "p": "nahanten",
-                "d": "To me",
-                "s": ""
-            },
-            {
-                "id": "ko-2423",
+                "id": "ko-2268",
                 "w": "늦게",
                 "p": "neutge",
-                "d": "late",
-                "s": ""
+                "d": "deep into the night",
+                "s": "그 사람은 집에 아주 늦게 왔어. (She came home very late.)"
             },
             {
-                "id": "ko-2424",
+                "id": "ko-2269",
                 "w": "간단한",
                 "p": "gandanhan",
-                "d": "simple",
-                "s": ""
+                "d": "to be simple or straightforward",
+                "s": "아주 간단합니다. (It's really simple.)"
             },
             {
-                "id": "ko-2425",
+                "id": "ko-2270",
                 "w": "상당히",
                 "p": "sangdanghi",
-                "d": "suitably; to an appropriate degree; rather; quite",
-                "s": ""
+                "d": "suitably",
+                "s": "톰은 상당히 졸려 보인다. (Tom looks pretty sleepy.)"
             },
             {
-                "id": "ko-2426",
-                "w": "너흰",
-                "p": "neohuin",
-                "d": "You guys",
-                "s": ""
-            },
-            {
-                "id": "ko-2427",
+                "id": "ko-2271",
                 "w": "발을",
                 "p": "bareul",
-                "d": "feet",
-                "s": ""
+                "d": "foot",
+                "s": "한 발 한 발 내딛다 (to take one step at a time)"
             },
             {
-                "id": "ko-2428",
+                "id": "ko-2272",
                 "w": "이후",
                 "p": "ihu",
-                "d": "the time following a given point in time; thenceforth",
-                "s": ""
+                "d": "the time following a given point in time",
+                "s": "경찰은 도심에서 발생한 강도 사건 이후 감시카메라 영상을 샅샅이 수색하고 있다. (Police are scouring security footage following a robbery in the city centre.)"
             },
             {
-                "id": "ko-2429",
+                "id": "ko-2273",
                 "w": "이리로",
                 "p": "iriro",
-                "d": "alternative form of 이리 (iri, “here”)",
+                "d": "to this place",
                 "s": ""
             },
             {
-                "id": "ko-2430",
+                "id": "ko-2274",
                 "w": "보입니다",
                 "p": "boimnida",
-                "d": "I see it",
-                "s": ""
+                "d": "to be seen",
+                "s": "당신은 피곤해 보입니다. (You're looking tired.)"
             },
             {
-                "id": "ko-2431",
+                "id": "ko-2275",
                 "w": "줄래",
                 "p": "jullae",
-                "d": "Will you give it to me?",
-                "s": ""
+                "d": "to decrease, to shrink",
+                "s": "이 길이 어디로 가는지 알려 줄래? (Can you tell where this road goes?)"
             },
             {
-                "id": "ko-2432",
+                "id": "ko-2276",
                 "w": "돈도",
                 "p": "dondo",
-                "d": "Money too",
-                "s": ""
+                "d": "money",
+                "s": "그는 나에게 먹을 것은 물론 돈도 주었다. (He gave me food and money as well.)"
             },
             {
-                "id": "ko-2433",
+                "id": "ko-2277",
                 "w": "다르게",
                 "p": "dareuge",
                 "d": "differently",
                 "s": ""
             },
             {
-                "id": "ko-2434",
+                "id": "ko-2278",
                 "w": "삶이",
                 "p": "salmi",
                 "d": "life",
-                "s": ""
+                "s": "그들은 죽은 후의 삶이 있다고 믿는다. (They believe in a life after death.)"
             },
             {
-                "id": "ko-2435",
+                "id": "ko-2279",
                 "w": "다치게",
                 "p": "dachige",
-                "d": "hurt",
-                "s": ""
+                "d": "to get hurt",
+                "s": "이것은 우리 사업을 다치게 할 수도 있다. (This could hurt our business.)"
             },
             {
-                "id": "ko-2436",
-                "w": "뿐입니다",
-                "p": "ppunimnida",
-                "d": "It's just",
-                "s": ""
-            },
-            {
-                "id": "ko-2437",
+                "id": "ko-2280",
                 "w": "생각보다",
                 "p": "saenggakboda",
-                "d": "Than you think",
-                "s": ""
+                "d": "thought",
+                "s": "우리 집을 칠하는데 생각보다 시간이 오래 걸렸다. (Painting our house took much longer than we expected.)"
             },
             {
-                "id": "ko-2438",
+                "id": "ko-2281",
                 "w": "나에",
                 "p": "nae",
-                "d": "To me",
-                "s": ""
+                "d": "I, me",
+                "s": "나 빼고 여기에 있는 사람 모두 그것을 했다. (한 적이 있다.) (Everybody here except me has done that.)"
             },
             {
-                "id": "ko-2439",
+                "id": "ko-2282",
                 "w": "차는",
                 "p": "chaneun",
-                "d": "kicking",
-                "s": ""
+                "d": "to be full",
+                "s": "우리 앞에 있는 차는 왜 이렇게 느리게 가는 거야? (Why is the car in front of us so slow?)"
             },
             {
-                "id": "ko-2440",
+                "id": "ko-2283",
                 "w": "살짝",
                 "p": "saljjak",
-                "d": "subtly, slightly; discreetly, secretly",
-                "s": ""
+                "d": "subtly, slightly",
+                "s": "빵이 살짝 탔다. (The bread is slightly scorched.)"
             },
             {
-                "id": "ko-2441",
+                "id": "ko-2284",
                 "w": "못하면",
-                "p": "motamyeon",
-                "d": "If you can't do it",
-                "s": ""
+                "p": "mothamyeon",
+                "d": "cannot",
+                "s": "나는 체계적이지 못하다. (I'm disorganized.)"
             },
             {
-                "id": "ko-2442",
+                "id": "ko-2285",
                 "w": "상처",
                 "p": "sangcheo",
-                "d": "wound; injury; scar",
-                "s": ""
+                "d": "wound",
+                "s": "그는 마음의 상처를 입었다. (He was hurt on the inside.)"
             },
             {
-                "id": "ko-2443",
+                "id": "ko-2286",
                 "w": "필요도",
                 "p": "piryodo",
-                "d": "No need",
-                "s": ""
+                "d": "need",
+                "s": "나한테 아무것도 증명할 필요 없어. (You don't need to prove anything to me.)"
             },
             {
-                "id": "ko-2444",
+                "id": "ko-2287",
                 "w": "하셨어요",
                 "p": "hasyeosseoyo",
-                "d": "to do; used to vaguely refer to almost any action, in particular; to do; used to vaguely refer to almost any action, in particular:",
-                "s": ""
+                "d": "to do",
+                "s": "지난 주말에 무엇을 하셨어요? (What did you do last weekend?)"
             },
             {
-                "id": "ko-2445",
+                "id": "ko-2288",
                 "w": "곳이야",
                 "p": "gosiya",
-                "d": "It's a place",
-                "s": ""
+                "d": "place",
+                "s": "알제는 많은 알제리 대학이 자리 잡고 있는 곳이야. (Algiers is home to many Algerian universities.)"
             },
             {
-                "id": "ko-2446",
+                "id": "ko-2289",
                 "w": "죽음의",
                 "p": "jugeumui",
-                "d": "of death",
-                "s": ""
+                "d": "death, dying",
+                "s": "삶과 죽음의 문제다. (It is a matter of life or death.)"
             },
             {
-                "id": "ko-2447",
+                "id": "ko-2290",
                 "w": "빈",
                 "p": "bin",
-                "d": "past determiner of 비다 (bida): empty",
+                "d": "Vienna",
                 "s": ""
             },
             {
-                "id": "ko-2448",
-                "w": "필요없어",
-                "p": "piryoeopseo",
-                "d": "No need",
-                "s": ""
-            },
-            {
-                "id": "ko-2449",
+                "id": "ko-2291",
                 "w": "농담",
                 "p": "nongdam",
                 "d": "joke, jest",
-                "s": ""
+                "s": "농담 아니에요? (No kidding?)"
             },
             {
-                "id": "ko-2450",
+                "id": "ko-2292",
                 "w": "번만",
                 "p": "beonman",
-                "d": "Just once",
-                "s": ""
+                "d": "once",
+                "s": "그녀는 이 영화를 딱 한 번만 보았다. (She saw this film ONLY once.)"
             },
             {
-                "id": "ko-2451",
+                "id": "ko-2293",
                 "w": "번이나",
                 "p": "beonina",
-                "d": "once",
-                "s": ""
+                "d": "occasion, time",
+                "s": "메리가 보스턴에 세 번이나 갔다고 톰이 말하더라. (Tom said Mary has been to Boston three times.)"
             },
             {
-                "id": "ko-2452",
-                "w": "있는건",
-                "p": "inneungeon",
-                "d": "What is there",
-                "s": ""
-            },
-            {
-                "id": "ko-2453",
+                "id": "ko-2294",
                 "w": "드세요",
                 "p": "deuseyo",
-                "d": "Enjoy",
-                "s": ""
+                "d": "to eat",
+                "s": "냉장고에 있는 거 아무거나 편하게 마음껏 드세요. (Please feel free to help yourself to anything in the fridge.)"
             },
             {
-                "id": "ko-2454",
+                "id": "ko-2295",
                 "w": "어쩌다",
                 "p": "eojjeoda",
-                "d": "somehow",
-                "s": ""
+                "d": "to be inevitable",
+                "s": "어쩌다가 선생님이 되었지만요. (But somehow, I ended up becoming a teacher.)"
             },
             {
-                "id": "ko-2455",
+                "id": "ko-2296",
                 "w": "잡았어",
                 "p": "jabasseo",
-                "d": "Got it",
-                "s": ""
+                "d": "to take",
+                "s": "톰은 머리 뒤로 손을 꽉 잡았어. (Tom clasped his hands behind his head.)"
             },
             {
-                "id": "ko-2456",
+                "id": "ko-2297",
                 "w": "동생이",
                 "p": "dongsaengi",
-                "d": "My younger brother",
+                "d": "younger sibling",
                 "s": ""
             },
             {
-                "id": "ko-2457",
-                "w": "뭐냐",
-                "p": "mwonya",
-                "d": "What is it",
-                "s": ""
-            },
-            {
-                "id": "ko-2458",
+                "id": "ko-2298",
                 "w": "미첼",
                 "p": "michel",
                 "d": "Mitchell",
                 "s": ""
             },
             {
-                "id": "ko-2459",
+                "id": "ko-2299",
                 "w": "건물",
                 "p": "geonmul",
-                "d": "building, construction, edifice",
-                "s": ""
+                "d": "building",
+                "s": "그 건물은 보수가 몹시 필요한 상태이다. (The building is badly in need of repair.)"
             },
             {
-                "id": "ko-2460",
-                "w": "있대",
-                "p": "itdae",
-                "d": "They say there is",
-                "s": ""
-            },
-            {
-                "id": "ko-2461",
+                "id": "ko-2300",
                 "w": "여자야",
                 "p": "yeojaya",
-                "d": "It's a girl",
-                "s": ""
+                "d": "woman",
+                "s": "그녀가 이제까지 온 여자 중 가장 키가 큰 여자다. (She's by far the tallest girl.)"
             },
             {
-                "id": "ko-2462",
+                "id": "ko-2301",
                 "w": "좋아할",
                 "p": "joahal",
-                "d": "like it",
-                "s": ""
+                "d": "to like something or someone",
+                "s": "우리 고양이가 이것을 좋아할 것이다. (My cat will love this.)"
             },
             {
-                "id": "ko-2463",
+                "id": "ko-2302",
                 "w": "인생은",
                 "p": "insaengeun",
-                "d": "Life is",
-                "s": ""
+                "d": "one's life",
+                "s": "너 없이는 내 인생은 의미가 없었을 거야. (My life would be meaningless without you.)"
             },
             {
-                "id": "ko-2464",
+                "id": "ko-2303",
                 "w": "챙겨",
                 "p": "chaenggyeo",
-                "d": "Take care",
-                "s": ""
+                "d": "to collect or pack",
+                "s": "난 항상 제대로 챙겨 먹는 건 아니야. (I don't always eat properly.)"
             },
             {
-                "id": "ko-2465",
-                "w": "됐고",
-                "p": "dwaetgo",
-                "d": "It's done",
-                "s": ""
-            },
-            {
-                "id": "ko-2466",
+                "id": "ko-2304",
                 "w": "이상하게",
                 "p": "isanghage",
-                "d": "strangely",
-                "s": ""
+                "d": "to be strange",
+                "s": "톰은 지금 진짜 이상하게 행동하고 있어. (Tom is acting really weird right now.)"
             },
             {
-                "id": "ko-2467",
+                "id": "ko-2305",
                 "w": "잃을",
                 "p": "ireul",
-                "d": "lose",
-                "s": ""
+                "d": "to lose",
+                "s": "갖고 다니지 않으면 잃을 것도 없다. (He who carries nothing loses nothing.)"
             },
             {
-                "id": "ko-2468",
+                "id": "ko-2306",
                 "w": "모른다고",
                 "p": "moreundago",
-                "d": "I don't know",
-                "s": ""
+                "d": "to not know",
+                "s": "메리는 프랑스어 하는 법을 전혀 모른다고 시인했다. (Mary admitted that she didn't really know how to speak French.)"
             },
             {
-                "id": "ko-2469",
+                "id": "ko-2307",
                 "w": "생각하면",
                 "p": "saenggakamyeon",
-                "d": "If you think about it",
-                "s": ""
+                "d": "to think",
+                "s": "이번엔 제 차를 가지고 가려고는 생각하지 않습니다. (Well, I don’t think I will bring my car this time.)"
             },
             {
-                "id": "ko-2470",
+                "id": "ko-2308",
                 "w": "거라고요",
                 "p": "georagoyo",
-                "d": "I guess",
-                "s": ""
+                "d": "thing",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
             },
             {
-                "id": "ko-2471",
+                "id": "ko-2309",
                 "w": "인생이",
                 "p": "insaengi",
-                "d": "life",
-                "s": ""
+                "d": "one's life",
+                "s": "나는 그가 자신의 인생 경험에 대해 열변을 토하는 것을 참을 수가 없다. (I can't stand him holding forth about his life experience.)"
             },
             {
-                "id": "ko-2472",
+                "id": "ko-2310",
                 "w": "약속해",
                 "p": "yaksokae",
-                "d": "promise",
-                "s": ""
+                "d": "to promise",
+                "s": "바보같은 짓은 하지 않겠다고 나한테 약속해. (Promise me you won't do anything stupid.)"
             },
             {
-                "id": "ko-2473",
+                "id": "ko-2311",
                 "w": "자동차",
                 "p": "jadongcha",
                 "d": "automobile, car",
-                "s": ""
+                "s": "너 자동차 있으면 내가 네 걸 운전하게 해줄래? (Would you let me drive your car if you had one?)"
             },
             {
-                "id": "ko-2474",
+                "id": "ko-2312",
                 "w": "들어봐요",
                 "p": "deureobwayo",
-                "d": "Listen",
-                "s": ""
+                "d": "to pick up information by hearing or listening",
+                "s": "나는 그 노래를 들어봤지만 가수 이름은 모르겠다. (I've heard the song before, but I don't know the name of the singer.)"
             },
             {
-                "id": "ko-2475",
+                "id": "ko-2313",
                 "w": "없을거야",
                 "p": "eopseulgeoya",
-                "d": "There won't be",
-                "s": ""
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
             },
             {
-                "id": "ko-2476",
+                "id": "ko-2314",
                 "w": "예를",
                 "p": "yereul",
-                "d": "For example",
-                "s": ""
+                "d": "yes",
+                "s": "이렇게 콜렉션의 확실한 예를 보여줘서 정말 감사합니다. (Many thanks for this illustrative collection of examples.)"
             },
             {
-                "id": "ko-2477",
+                "id": "ko-2315",
                 "w": "돌아가서",
                 "p": "doragaseo",
-                "d": "go back",
-                "s": ""
+                "d": "to return, to go back",
+                "s": "저는 9월 1일에 캐나다로 돌아갈 거예요. (I will go back to Canada on September 1st.)"
             },
             {
-                "id": "ko-2478",
+                "id": "ko-2316",
                 "w": "편지를",
                 "p": "pyeonjireul",
-                "d": "a letter",
-                "s": ""
+                "d": "letter",
+                "s": "가끔 편지를 쓰거나 이메일을 보내세요! (Write me a letter or send me an email sometimes!)"
             },
             {
-                "id": "ko-2479",
-                "w": "빌리",
-                "p": "billi",
-                "d": "Billy",
-                "s": ""
-            },
-            {
-                "id": "ko-2480",
-                "w": "10분",
-                "p": "10bun",
-                "d": "10 minutes",
-                "s": ""
-            },
-            {
-                "id": "ko-2481",
+                "id": "ko-2317",
                 "w": "안다",
                 "p": "anda",
-                "d": "to hug, to embrace; to take on (a debt, responsibility, etc.)",
-                "s": ""
+                "d": "to hug, to embrace",
+                "s": "톰이 왜 그런 짓을 했는지 이해하기 너무 어렵다는 것을 안다. (I know it's very difficult to understand why Tom did what he did.)"
             },
             {
-                "id": "ko-2482",
+                "id": "ko-2318",
                 "w": "일하러",
                 "p": "ilhareo",
-                "d": "to work",
-                "s": ""
+                "d": "to work, to do one's job",
+                "s": "톰은 몸이 좋지 않아서 오늘 일하러 올 수 없습니다. (Tom can't come to work today because he doesn't feel well.)"
             },
             {
-                "id": "ko-2483",
+                "id": "ko-2319",
                 "w": "걸린",
                 "p": "geollin",
-                "d": "caught",
-                "s": ""
+                "d": "to hang",
+                "s": "톰은 메리가 향수병에 걸린 것 같다고 말했어. (Tom told me that he thought Mary was homesick.)"
             },
             {
-                "id": "ko-2484",
+                "id": "ko-2320",
                 "w": "질문에",
                 "p": "jilmune",
-                "d": "to the question",
-                "s": ""
+                "d": "a question",
+                "s": "탐은 매리의 질문에 답하지 못하게 했어 (Tom didn't let me answer Mary's question.)"
             },
             {
-                "id": "ko-2485",
+                "id": "ko-2321",
                 "w": "뒤에서",
                 "p": "dwieseo",
                 "d": "from behind",
                 "s": ""
             },
             {
-                "id": "ko-2486",
+                "id": "ko-2322",
                 "w": "미",
                 "p": "mi",
                 "d": "beauty",
                 "s": ""
             },
             {
-                "id": "ko-2487",
+                "id": "ko-2323",
                 "w": "주에",
                 "p": "jue",
-                "d": "in the week",
+                "d": "week",
+                "s": "나의 아버지는 다음 주에 한국으로 가기로 되어 있다. (My father is to visit Korea next week.)"
+            },
+            {
+                "id": "ko-2324",
+                "w": "말했죠",
+                "p": "malhaetjyo",
+                "d": "to speak, to talk",
+                "s": "어제 일은 미안하다고 말하고 싶어요. — 괜찮아요. 아나. (I want to say I’m sorry for yesterday. — It’s okay, Anna.)"
+            },
+            {
+                "id": "ko-2325",
+                "w": "너희는",
+                "p": "neohuineun",
+                "d": "you",
+                "s": "너희는 아직 너무 어려. (You're still too young.)"
+            },
+            {
+                "id": "ko-2326",
+                "w": "끝나고",
+                "p": "kkeunnago",
+                "d": "to come to an end",
+                "s": "너 어제 학교 끝나고 뭐했어? (What did you do after school yesterday?)"
+            },
+            {
+                "id": "ko-2327",
+                "w": "말에",
+                "p": "mare",
+                "d": "speech",
+                "s": "우리는 이달 말에 보스턴으로 이사를 합니다. (We're moving to Boston at the end of this month.)"
+            },
+            {
+                "id": "ko-2328",
+                "w": "대통령",
+                "p": "daetongnyeong",
+                "d": "president of a country",
+                "s": "대통령 탄핵 미국 너네도 할 수 있어. (You guys in America can impeach your president too.)"
+            },
+            {
+                "id": "ko-2329",
+                "w": "보냈어",
+                "p": "bonaesseo",
+                "d": "to send, to dispatch",
+                "s": "톰은 메리와 함께 크리스마스를 보스턴에서 보냈어. (Tom spent Christmas in Boston with Mary.)"
+            },
+            {
+                "id": "ko-2330",
+                "w": "안나",
+                "p": "anna",
+                "d": "to hug, to embrace",
+                "s": "톰이 왜 그런 짓을 했는지 이해하기 너무 어렵다는 것을 안다. (I know it's very difficult to understand why Tom did what he did.)"
+            },
+            {
+                "id": "ko-2331",
+                "w": "시간이야",
+                "p": "siganiya",
+                "d": "time",
+                "s": "대략 네가 침대에 갔었던 시간이야. (It's about time you went to bed.)"
+            },
+            {
+                "id": "ko-2332",
+                "w": "춤을",
+                "p": "chumeul",
+                "d": "dance",
+                "s": "난 춤을 추기엔 너무 늙었어. (I'm too old to dance.)"
+            },
+            {
+                "id": "ko-2333",
+                "w": "오늘이",
+                "p": "oneuri",
+                "d": "today",
+                "s": "너무 다그치지말고 여유를 좀 줘봐, 오늘이 처음 일하는 날이잖아. (Cut him some slack, John. It's his first day on the job.)"
+            },
+            {
+                "id": "ko-2334",
+                "w": "달러",
+                "p": "dalleo",
+                "d": "dollar",
+                "s": "이 CD 는 10 달러 입니다. (This CD costs $10.)"
+            },
+            {
+                "id": "ko-2335",
+                "w": "끝이야",
+                "p": "kkeuchiya",
+                "d": "end, final",
                 "s": ""
+            },
+            {
+                "id": "ko-2336",
+                "w": "거네",
+                "p": "geone",
+                "d": "thing",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
+            },
+            {
+                "id": "ko-2337",
+                "w": "일주일",
+                "p": "iljuil",
+                "d": "A week",
+                "s": "톰은 한 시간에 내가 일주일 동안 버는 것보다 더 많이 번다. (Tom earns more money in an hour than I do in a week.)"
+            },
+            {
+                "id": "ko-2338",
+                "w": "꼬마",
+                "p": "kkoma",
+                "d": "kid",
+                "s": ""
+            },
+            {
+                "id": "ko-2339",
+                "w": "가슴",
+                "p": "gaseum",
+                "d": "chest, breast",
+                "s": "그 금발 소녀는 정말 멋진 가슴 골을 가지고 있다. (The blonde girl has a really nice cleavage.)"
+            },
+            {
+                "id": "ko-2340",
+                "w": "완료",
+                "p": "wallyo",
+                "d": "completion",
+                "s": ""
+            },
+            {
+                "id": "ko-2341",
+                "w": "이야",
+                "p": "iya",
+                "d": "wow, whoa",
+                "s": "4 더하기 16은 20이야. (Four plus sixteen equals twenty.)"
+            },
+            {
+                "id": "ko-2342",
+                "w": "한가지",
+                "p": "hangaji",
+                "d": "underemployed",
+                "s": ""
+            },
+            {
+                "id": "ko-2343",
+                "w": "아니겠지",
+                "p": "anigetji",
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
+            },
+            {
+                "id": "ko-2344",
+                "w": "갈까",
+                "p": "galkka",
+                "d": "to change",
+                "s": "저도 한국에 갈까 해요 (I'm also thinking of going to Korea.)"
+            },
+            {
+                "id": "ko-2345",
+                "w": "아들아",
+                "p": "adeura",
+                "d": "son",
+                "s": "난 네가 자랑스럽단다. 아들아. (I'm proud of you, son.)"
+            },
+            {
+                "id": "ko-2346",
+                "w": "배리",
+                "p": "baeri",
+                "d": "Barrie",
+                "s": ""
+            },
+            {
+                "id": "ko-2347",
+                "w": "땅에",
+                "p": "ttange",
+                "d": "earth, land",
+                "s": "계속 땅 파고 있어봐. (Keep digging.)"
+            },
+            {
+                "id": "ko-2348",
+                "w": "신은",
+                "p": "sineun",
+                "d": "to wear on one's feet",
+                "s": "신은 죽었다. 우리가 그를 죽였다. (God is dead. We killed him.)"
+            },
+            {
+                "id": "ko-2349",
+                "w": "고맙소",
+                "p": "gomapso",
+                "d": "cheer",
+                "s": ""
+            },
+            {
+                "id": "ko-2350",
+                "w": "신경쓰지",
+                "p": "singyeongsseuji",
+                "d": "to focus",
+                "s": "대부분의 사람들은 그런 일에 신경쓰지 않는다. (Most people don't care about things like that.)"
+            },
+            {
+                "id": "ko-2351",
+                "w": "나왔어요",
+                "p": "nawasseoyo",
+                "d": "to come out, come forth",
+                "s": "학생은 학교에서 나왔어요. (The student came out of school.)"
+            },
+            {
+                "id": "ko-2352",
+                "w": "30분",
+                "p": "30bun",
+                "d": "halfhour",
+                "s": ""
+            },
+            {
+                "id": "ko-2353",
+                "w": "있었잖아",
+                "p": "isseotjana",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-2354",
+                "w": "남편을",
+                "p": "nampyeoneul",
+                "d": "husband",
+                "s": ""
+            },
+            {
+                "id": "ko-2355",
+                "w": "비록",
+                "p": "birok",
+                "d": "even if",
+                "s": "저는 비록 베이징에 살고 있지만 중국어를 할 줄 모릅니다. (Although I live in Beijing, I cannot speak Chinese.)"
+            },
+            {
+                "id": "ko-2356",
+                "w": "뒤를",
+                "p": "dwireul",
+                "d": "back, latter, rear",
+                "s": "그 뒤로는 나는 그를 다시는 못 봤다. (I haven't seen him ever since.)"
+            },
+            {
+                "id": "ko-2357",
+                "w": "너야",
+                "p": "neoya",
+                "d": "four",
+                "s": "그걸 하지 말라고 톰한테 말한 게 너야? (Was it you who told Tom not to do that?)"
+            },
+            {
+                "id": "ko-2358",
+                "w": "마십시오",
+                "p": "masipsio",
+                "d": "to drink",
+                "s": "저작권이 있는 출처의 문장을 추가하지 마십시오. (Don't add sentences from copyrighted sources.)"
+            },
+            {
+                "id": "ko-2359",
+                "w": "그만둬",
+                "p": "geumandwo",
+                "d": "To quit",
+                "s": "톰이 그만둬. (Tom quit.)"
+            },
+            {
+                "id": "ko-2360",
+                "w": "받아야",
+                "p": "badaya",
+                "d": "to get",
+                "s": "우리 도움 좀 받아야 해. (We must get some help.)"
+            },
+            {
+                "id": "ko-2361",
+                "w": "마실",
+                "p": "masil",
+                "d": "casually leaving home",
+                "s": "톰이 마실 수 있는 것은 오직 물 뿐이야. (Water is the only thing Tom will drink.)"
+            },
+            {
+                "id": "ko-2362",
+                "w": "심하게",
+                "p": "simhage",
+                "d": "violently",
+                "s": "선생님은 학생들을 심하게 꾸짖었다. (The teacher scolded his students severely.)"
+            },
+            {
+                "id": "ko-2363",
+                "w": "들었는데",
+                "p": "deureonneunde",
+                "d": "to come in",
+                "s": "그 사람들 들고 인자 서이, 너이 장봇짐을 허믄... (If you brought those people and made them wear three, four big backpacks...)"
+            },
+            {
+                "id": "ko-2364",
+                "w": "오기",
+                "p": "ogi",
+                "d": "to come",
+                "s": "갑자기 비가 오기 시작했다. (All of a sudden, it began raining.)"
+            },
+            {
+                "id": "ko-2365",
+                "w": "없게",
+                "p": "eopge",
+                "d": "to have none",
+                "s": "나는 두 시간 내내 기다렸다. 나는 더 이상 기다릴 수 없다. (I've waited two whole hours. I can't wait any longer.)"
+            },
+            {
+                "id": "ko-2366",
+                "w": "소중한",
+                "p": "sojunghan",
+                "d": "To be precious",
+                "s": ""
+            },
+            {
+                "id": "ko-2367",
+                "w": "개의",
+                "p": "gaeui",
+                "d": "dog",
+                "s": "엄밀히 말하자면, 중국어는 수백 개의 방언들로 구성되어 있어. (Strictly speaking, Chinese consists of hundreds of dialects.)"
+            },
+            {
+                "id": "ko-2368",
+                "w": "할아버지가",
+                "p": "harabeojiga",
+                "d": "grandfather",
+                "s": "할아버지가 팔십 구 세 돼셨어요. (My grandfather turned 89 years old.)"
+            },
+            {
+                "id": "ko-2369",
+                "w": "어쩌지",
+                "p": "eojjeoji",
+                "d": "to be inevitable",
+                "s": "어쩌다가 선생님이 되었지만요. (But somehow, I ended up becoming a teacher.)"
+            },
+            {
+                "id": "ko-2370",
+                "w": "가려고",
+                "p": "garyeogo",
+                "d": "to go",
+                "s": "기억하리 존엄과 명예 지켜낸 영웅들 기억하리 조국을 위해 간 그 생들을 (We Will Remember)"
+            },
+            {
+                "id": "ko-2371",
+                "w": "호텔",
+                "p": "hotel",
+                "d": "hotel",
+                "s": ""
+            },
+            {
+                "id": "ko-2372",
+                "w": "듣는",
+                "p": "deunneun",
+                "d": "to listen, to hear",
+                "s": "톰은 메리가 피아노 치는 것을 듣는 것을 좋아했다. (Tom liked to listen to Mary play the piano.)"
+            },
+            {
+                "id": "ko-2373",
+                "w": "나이",
+                "p": "nai",
+                "d": "age of a person or other living thing",
+                "s": ""
+            },
+            {
+                "id": "ko-2374",
+                "w": "일종의",
+                "p": "iljongui",
+                "d": "of a sort",
+                "s": "미루는 것은 일종의 예술이다. (Procrastinating is an art.)"
+            },
+            {
+                "id": "ko-2375",
+                "w": "필요하지",
+                "p": "piryohaji",
+                "d": "to have a need",
+                "s": "그래서 나는 프랑스에 오래 머무르고 싶고, 그러기 위한 돈이 필요하다. (This is why I would like an extended visa, as well as funds for my stay.)"
+            },
+            {
+                "id": "ko-2376",
+                "w": "더욱",
+                "p": "deouk",
+                "d": "more so, even more",
+                "s": "금이 은보다 더욱 가치가 있다. (Gold is more valuable than silver.)"
+            },
+            {
+                "id": "ko-2377",
+                "w": "안되요",
+                "p": "andoeyo",
+                "d": "to hug, to embrace",
+                "s": "난 이렇게 비싼 식당에서 식사를 할 여유가 안되요. (I can't afford to eat in such an expensive restaurant.)"
+            },
+            {
+                "id": "ko-2378",
+                "w": "치워",
+                "p": "chiwo",
+                "d": "to remove",
+                "s": "그 망할 손 치워, 후레자식아! (Take your fucking hands off me, you bastard!)"
+            },
+            {
+                "id": "ko-2379",
+                "w": "저도요",
+                "p": "jeodoyo",
+                "d": "that",
+                "s": "저 남자 아이가 저기에 얼마나 오래 앉아 있었는지 얘기 좀 해줘. (Tell me how long that boy has been sitting there.)"
+            },
+            {
+                "id": "ko-2380",
+                "w": "거였어",
+                "p": "geoyeosseo",
+                "d": "thing",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
+            },
+            {
+                "id": "ko-2381",
+                "w": "엄마의",
+                "p": "eommaui",
+                "d": "mum, mummy",
+                "s": "엄마, 난 이걸 입고 싶지 않아요. (Mom, I don't want to wear this.)"
+            },
+            {
+                "id": "ko-2382",
+                "w": "인생의",
+                "p": "insaengui",
+                "d": "one's life",
+                "s": "나는 그가 자신의 인생 경험에 대해 열변을 토하는 것을 참을 수가 없다. (I can't stand him holding forth about his life experience.)"
+            },
+            {
+                "id": "ko-2383",
+                "w": "할머니가",
+                "p": "halmeoniga",
+                "d": "grandmother",
+                "s": ""
+            },
+            {
+                "id": "ko-2384",
+                "w": "거군요",
+                "p": "geogunyo",
+                "d": "thing",
+                "s": "내 생각에 톰과 메리는 그들이 했다는 걸 하지 않은 거 같다. (I think Tom and Mary didn't do what they said they did.)"
+            },
+            {
+                "id": "ko-2385",
+                "w": "지내",
+                "p": "jinae",
+                "d": "too, excessively",
+                "s": "잘 지내, 고마워. (I'm fine, thanks!)"
+            },
+            {
+                "id": "ko-2386",
+                "w": "아기는",
+                "p": "agineun",
+                "d": "unweaned baby, child",
+                "s": "그 아기는 설 수는 있으나 걷지 못한다. (The baby can stand but can't walk.)"
+            },
+            {
+                "id": "ko-2387",
+                "w": "어떨까",
+                "p": "eotteolkka",
+                "d": "in what state",
+                "s": "내일 저녁은 어때요? — 좋아요. 몇 시예요? (How about tomorrow night? — Ok. What time?)"
+            },
+            {
+                "id": "ko-2388",
+                "w": "아니네",
+                "p": "anine",
+                "d": "to not be",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
+            },
+            {
+                "id": "ko-2389",
+                "w": "경찰을",
+                "p": "gyeongchareul",
+                "d": "police",
+                "s": "톰은 아직 경찰을 부르지 않았다. (Tom hasn't called the police yet.)"
+            },
+            {
+                "id": "ko-2390",
+                "w": "쉬어",
+                "p": "swieo",
+                "d": "to rest",
+                "s": "숨을 쉴 수가 없다! (I can't breathe!)"
+            },
+            {
+                "id": "ko-2391",
+                "w": "해결할",
+                "p": "haegyeolhal",
+                "d": "to resolve a dispute or confusion",
+                "s": "어떻게 하면 이 문제를 해결할 수 있을까. (How can we solve this problem?)"
+            },
+            {
+                "id": "ko-2392",
+                "w": "전화가",
+                "p": "jeonhwaga",
+                "d": "telephone, phone",
+                "s": "부재중에 웨스트라는 사람으로부터 전화가 왔었어. (A person named West called while you were out.)"
+            },
+            {
+                "id": "ko-2393",
+                "w": "공격을",
+                "p": "gonggyeogeul",
+                "d": "attack",
+                "s": ""
+            },
+            {
+                "id": "ko-2394",
+                "w": "아니라는",
+                "p": "aniraneun",
+                "d": "why not?",
+                "s": "거미가 곤충이 아니라는 것은 잘 알려진 사실이야. (It's a well-known fact that spiders aren't insects.)"
+            },
+            {
+                "id": "ko-2395",
+                "w": "신부님",
+                "p": "sinbunim",
+                "d": "priest",
+                "s": ""
+            },
+            {
+                "id": "ko-2396",
+                "w": "별일",
+                "p": "byeoril",
+                "d": "an unusual event",
+                "s": "별일 없으면 영화 보러 갈까요? (If you don't have anything on, shall we go to the movies?)"
+            },
+            {
+                "id": "ko-2397",
+                "w": "하느님",
+                "p": "haneunim",
+                "d": "God, heaven",
+                "s": "누구 하느님 본 사람? (Has anybody seen God?)"
+            },
+            {
+                "id": "ko-2398",
+                "w": "걱정할",
+                "p": "geokjeonghal",
+                "d": "to worry",
+                "s": ""
+            },
+            {
+                "id": "ko-2399",
+                "w": "사고가",
+                "p": "sagoga",
+                "d": "a thinker",
+                "s": "이 기사를 읽는것만으로도 그 사고가 얼마나 심각했는지 알 수 있다. (You have only to read this article to see how serious the accident was.)"
+            },
+            {
+                "id": "ko-2400",
+                "w": "찾기",
+                "p": "chatgi",
+                "d": "to search, to look for",
+                "s": "나는 열쇠를 찾기 위해 현관 매트 아래와 근처 화분 안을 뒤졌다. (I looked for the key under the welcome mat and in the nearby flower pot.)"
+            },
+            {
+                "id": "ko-2401",
+                "w": "길에",
+                "p": "gire",
+                "d": "a road",
+                "s": "나는 도쿄로 가는 길에 오사카에 잠시 들렀다. (I stopped off at Osaka on my way to Tokyo.)"
+            },
+            {
+                "id": "ko-2402",
+                "w": "보이네",
+                "p": "boine",
+                "d": "to be seen",
+                "s": "이거 싸구려 같아 보이네. 톰이 좋아하겠어. (It looks tacky. Tom will love it.)"
+            },
+            {
+                "id": "ko-2403",
+                "w": "나가야",
+                "p": "nagaya",
+                "d": "to go out",
+                "s": "톰은 남아 있어도 돼. 너희 나머지는 나가야 해. (Tom is allowed to stay. The rest of you have to leave.)"
+            },
+            {
+                "id": "ko-2404",
+                "w": "데려와",
+                "p": "deryeowa",
+                "d": "to fetch",
+                "s": ""
+            },
+            {
+                "id": "ko-2405",
+                "w": "사람들과",
+                "p": "saramdeulgwa",
+                "d": "people, persons",
+                "s": "그는 사람들과 잘 지낸다. (He gets on well with people.)"
+            },
+            {
+                "id": "ko-2406",
+                "w": "빠른",
+                "p": "ppareun",
+                "d": "to be fast",
+                "s": "벌써 우리가 만난 지 4년 이에요. 시간이 참 빠른 것 같아요. (It's already been 4 years since we met. How time flies.)"
+            },
+            {
+                "id": "ko-2407",
+                "w": "돌아가는",
+                "p": "doraganeun",
+                "d": "to return, to go back",
+                "s": "너 집으로 돌아가는 게 좋을 것 같아. 어서. (You should go back home, quickly.)"
+            },
+            {
+                "id": "ko-2408",
+                "w": "말해봐요",
+                "p": "malhaebwayo",
+                "d": "to speak, to talk",
+                "s": "어제 일은 미안하다고 말하고 싶어요. — 괜찮아요. 아나. (I want to say I’m sorry for yesterday. — It’s okay, Anna.)"
+            },
+            {
+                "id": "ko-2409",
+                "w": "신을",
+                "p": "sineul",
+                "d": "to wear on one's feet",
+                "s": "신을 믿는 사람들도 있고 아닌 사람도 있어. (Some people believe in God and others don't.)"
+            },
+            {
+                "id": "ko-2410",
+                "w": "걸려",
+                "p": "geollyeo",
+                "d": "to hang",
+                "s": "프랑스어를 배우는 데에는 시간이 걸려. (Learning French takes time.)"
+            },
+            {
+                "id": "ko-2411",
+                "w": "이대로",
+                "p": "idaero",
+                "d": "as it is",
+                "s": ""
+            },
+            {
+                "id": "ko-2412",
+                "w": "에이",
+                "p": "ei",
+                "d": "oh, well, hmph",
+                "s": ""
+            },
+            {
+                "id": "ko-2413",
+                "w": "보내는",
+                "p": "bonaeneun",
+                "d": "to send, to dispatch",
+                "s": "총기 사고가 만연한 나라에서 자녀를 학교에 보내는 것은 매일매일이 두려운 일입니다. (It is terrifying to send your kids to school in a country that is rampant with guns.)"
+            },
+            {
+                "id": "ko-2414",
+                "w": "어머니는",
+                "p": "eomeonineun",
+                "d": "mother",
+                "s": "우리 어머니는 남자 형제가 넷이다. (My mother has four brothers.)"
+            },
+            {
+                "id": "ko-2415",
+                "w": "가득",
+                "p": "gadeuk",
+                "d": "full",
+                "s": "저는 이 버스를 탈 예정이었는데, 근데 너무 가득 차 있어요. (I was going to take this bus, but it's very full.)"
+            },
+            {
+                "id": "ko-2416",
+                "w": "아이의",
+                "p": "aiui",
+                "d": "child, kid",
+                "s": "톰은 아이의 이름을 존으로 지으려고 했습니다. (Tom decided to name his child John.)"
+            },
+            {
+                "id": "ko-2417",
+                "w": "안됩니다",
+                "p": "andoemnida",
+                "d": "to fail",
+                "s": ""
+            },
+            {
+                "id": "ko-2418",
+                "w": "힘",
+                "p": "him",
+                "d": "strength",
+                "s": ""
+            },
+            {
+                "id": "ko-2419",
+                "w": "바람에",
+                "p": "barame",
+                "d": "wind, air, draft",
+                "s": "나무 사이로 불어오는 바람 소리가 편안했다. (The sound of the breeze through the trees was relaxing.)"
+            },
+            {
+                "id": "ko-2420",
+                "w": "및",
+                "p": "mit",
+                "d": "and, additionally",
+                "s": ""
+            },
+            {
+                "id": "ko-2421",
+                "w": "않은데",
+                "p": "aneunde",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "그걸 하는 것은 그리 좋은 생각 같진 않은데. (I don't think doing that would be such a good idea.)"
+            },
+            {
+                "id": "ko-2422",
+                "w": "쓰레기",
+                "p": "sseuregi",
+                "d": "trash, garbage",
+                "s": "난 집에 이런 쓰레기 들여놓지 않는다, 대놓고 말하마. 꺼져! (I do not take shit home, I tell straight away. Fuck off!)"
+            },
+            {
+                "id": "ko-2423",
+                "w": "들었지",
+                "p": "deureotji",
+                "d": "to come in",
+                "s": "그 사람들 들고 인자 서이, 너이 장봇짐을 허믄... (If you brought those people and made them wear three, four big backpacks...)"
+            },
+            {
+                "id": "ko-2424",
+                "w": "도움",
+                "p": "doum",
+                "d": "help",
+                "s": "톰이 도움 없이 그걸 잘 해낼 수 있을지 모르겠다. (I doubt Tom can do that without some help.)"
+            },
+            {
+                "id": "ko-2425",
+                "w": "메시지를",
+                "p": "mesijireul",
+                "d": "message",
+                "s": "당신에게 메시지를 쓸까 했지만, 그럴 새가 전혀 없었다. (I thought about writing you a message, but never got around to it.)"
+            },
+            {
+                "id": "ko-2426",
+                "w": "치고",
+                "p": "chigo",
+                "d": "to hit",
+                "s": "그 소녀들은 내일 테니스를 치고 싶어하지 않는다. (The girls won't play tennis tomorrow.)"
+            },
+            {
+                "id": "ko-2427",
+                "w": "일할",
+                "p": "ilhal",
+                "d": "to work, to do one's job",
+                "s": "그들은 돈을 벌려고 일할 필요는 없었다. (They didn't have to work for money.)"
+            },
+            {
+                "id": "ko-2428",
+                "w": "모른다",
+                "p": "moreunda",
+                "d": "to not know",
+                "s": "톰이 블라디미르를 해고했는데, 아무도 이유를 모른다. (Tom fired Vladimir and nobody knows why.)"
+            },
+            {
+                "id": "ko-2429",
+                "w": "아예",
+                "p": "aye",
+                "d": "Altogether",
+                "s": ""
+            },
+            {
+                "id": "ko-2430",
+                "w": "않잖아",
+                "p": "anchana",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰은 커피를 만들지 않잖아, 아니야? (Tom isn't making coffee, is he?)"
+            },
+            {
+                "id": "ko-2431",
+                "w": "다리가",
+                "p": "dariga",
+                "d": "bridge",
+                "s": "물은 다리 밑으로 흐르고 있어. (The water flows under the bridge.)"
+            },
+            {
+                "id": "ko-2432",
+                "w": "팔을",
+                "p": "pareul",
+                "d": "arm",
+                "s": "메리는 톰의 팔을 가볍게 쳤다. (Mary gently punched Tom's arm.)"
+            },
+            {
+                "id": "ko-2433",
+                "w": "보인다",
+                "p": "boinda",
+                "d": "to be seen",
+                "s": "이 흙에서는 아무것도 자라지 않는 것으로 보인다. (Nothing seems to grow in this soil.)"
+            },
+            {
+                "id": "ko-2434",
+                "w": "죽었다고",
+                "p": "jugeotdago",
+                "d": "napoo",
+                "s": "저 사람은 일주일 전에 폐암으로 죽었다. (That man died of lung cancer a week ago.)"
+            },
+            {
+                "id": "ko-2435",
+                "w": "정보가",
+                "p": "jeongboga",
+                "d": "information",
+                "s": ""
+            },
+            {
+                "id": "ko-2436",
+                "w": "생각하세요",
+                "p": "saenggakaseyo",
+                "d": "to think",
+                "s": "크로아티아어가 재미있는 언어라고 생각하세요? (Do you think Croatian is an interesting language?)"
+            },
+            {
+                "id": "ko-2437",
+                "w": "빌",
+                "p": "bil",
+                "d": "to be empty",
+                "s": "빌,날따라오면,형도떠다닐거야. (Bill, if you'll come with me, you'll float, too.)"
+            },
+            {
+                "id": "ko-2438",
+                "w": "이곳",
+                "p": "igot",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "ko-2439",
+                "w": "계획은",
+                "p": "gyehoegeun",
+                "d": "a plan",
+                "s": "네 계획은 전혀 쓸모가 없어. (Your plan is of no earthly use.)"
+            },
+            {
+                "id": "ko-2440",
+                "w": "그런가",
+                "p": "geureonga",
+                "d": "like that, such",
+                "s": "메리는 진짜 아픈 게 아니다. 그녀는 단지 그런 척하는 것이다. (Mary isn't really sick. She's only pretending to be.)"
+            },
+            {
+                "id": "ko-2441",
+                "w": "좋고",
+                "p": "joko",
+                "d": "to be good",
+                "s": "난 야구 시합을 티비로 보는 것이 제일 좋다. (I like nothing so much as to watch baseball games on television.)"
+            },
+            {
+                "id": "ko-2442",
+                "w": "누구세요",
+                "p": "nuguseyo",
+                "d": "Who is ... ?",
+                "s": ""
+            },
+            {
+                "id": "ko-2443",
+                "w": "굳이",
+                "p": "guji",
+                "d": "strongly",
+                "s": ""
+            },
+            {
+                "id": "ko-2444",
+                "w": "자식이",
+                "p": "jasigi",
+                "d": "one's children",
+                "s": "그녀에게는 자식이 열 명 있다. (She has ten children.)"
+            },
+            {
+                "id": "ko-2445",
+                "w": "언제든",
+                "p": "eonjedeun",
+                "d": "when",
+                "s": "가끔 나는 언제 세계 제 일회 사이버 폭력 챔피언 대회가 열릴지 궁금해한다. (Sometimes I wonder when the first world championship in cyberbullying will take place.)"
+            },
+            {
+                "id": "ko-2446",
+                "w": "완벽하게",
+                "p": "wanbyeokage",
+                "d": "fareyouwell",
+                "s": "그는 노어를 완벽하게 구사한다. (He speaks Russian perfectly.)"
+            },
+            {
+                "id": "ko-2447",
+                "w": "아이들",
+                "p": "aideul",
+                "d": "children",
+                "s": "아이들 모두 어두워지기 전에 침대에 갔었어. (All of the children had gone to bed before it got dark.)"
+            },
+            {
+                "id": "ko-2448",
+                "w": "안전해",
+                "p": "anjeonhae",
+                "d": "to be safe",
+                "s": "전자담배는 얼마나 안전해? (How safe are e-cigarettes?)"
+            },
+            {
+                "id": "ko-2449",
+                "w": "않다고",
+                "p": "antago",
+                "d": "auxiliary adjective used to negate the clause to which the",
+                "s": "톰은 더 이상 기다리고 싶지 않다고 말했다. (Tom says that he won't wait any longer.)"
+            },
+            {
+                "id": "ko-2450",
+                "w": "앉으세요",
+                "p": "anjeuseyo",
+                "d": "to sit, to squat",
+                "s": "바르게 앉으세요. (Sit up straight.)"
+            },
+            {
+                "id": "ko-2451",
+                "w": "받게",
+                "p": "batge",
+                "d": "to get",
+                "s": "열심히 공부하지 않으면 앞으로도 낮은 점수를 받게 될 거야. (If you don't study hard, you'll continue to get poor scores.)"
+            },
+            {
+                "id": "ko-2452",
+                "w": "하셨죠",
+                "p": "hasyeotjyo",
+                "d": "to do",
+                "s": "톰은 운전면허 시험에 떨어질 듯 하다. (Tom isn't likely to pass the driving test.)"
+            },
+            {
+                "id": "ko-2453",
+                "w": "어떠세요",
+                "p": "eotteoseyo",
+                "d": "in what state",
+                "s": "독일 어떠세요? (How is Germany?)"
+            },
+            {
+                "id": "ko-2454",
+                "w": "계속해서",
+                "p": "gyesokaeseo",
+                "d": "to continue",
+                "s": "톰은 메리를 계속해서 지켜보았다. (Tom kept looking at Mary.)"
+            },
+            {
+                "id": "ko-2455",
+                "w": "않았다면",
+                "p": "anatdamyeon",
+                "d": "did not",
+                "s": "그는 사실대로 털어놓았다. 그렇지 않았다면 처벌받았을 것이다. (He told the truth, otherwise he would have been punished.)"
+            },
+            {
+                "id": "ko-2456",
+                "w": "했네",
+                "p": "haenne",
+                "d": "did, past tense of DO",
+                "s": "사미는 레일라가 왜 히잡을 쓰지 않기로 했는지 알고 싶어 했다. (Sami wanted to know why Layla decided to take off the hijab.)"
+            },
+            {
+                "id": "ko-2457",
+                "w": "각자",
+                "p": "gakja",
+                "d": "each person, everyone",
+                "s": "오늘 우리 각자 계산합시다. (Let's pay separately today.)"
+            },
+            {
+                "id": "ko-2458",
+                "w": "단순한",
+                "p": "dansunhan",
+                "d": "to be simple",
+                "s": "저는 단순한 소녀에요. (I'm a simple girl.)"
+            },
+            {
+                "id": "ko-2459",
+                "w": "맛이",
+                "p": "masi",
+                "d": "taste, flavor",
+                "s": "그 케이크는 레몬 맛이 조금 난다. (There was some taste of lemon in the cake.)"
+            },
+            {
+                "id": "ko-2460",
+                "w": "있었나",
+                "p": "isseonna",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-2461",
+                "w": "무릎",
+                "p": "mureup",
+                "d": "knee",
+                "s": "최근에 그녀는 무릎을 다쳤다. (She recently hurt her knees.)"
+            },
+            {
+                "id": "ko-2462",
+                "w": "눈으로",
+                "p": "nuneuro",
+                "d": "eye",
+                "s": "빨대를 물이 담긴 잔에 넣으면 눈으로 쉽게 확인 할 수 있다. (You can see this easily if you put a straw into a glass of water.)"
+            },
+            {
+                "id": "ko-2463",
+                "w": "감옥에서",
+                "p": "gamogeseo",
+                "d": "jail, prison",
+                "s": "톰은 남은 인생을 감옥에서 보내고 싶어하지 않아. (Tom doesn't want to spend the rest of his life in prison.)"
+            },
+            {
+                "id": "ko-2464",
+                "w": "좋겠네요",
+                "p": "jokenneyo",
+                "d": "to be good",
+                "s": "난 야구 시합을 티비로 보는 것이 제일 좋다. (I like nothing so much as to watch baseball games on television.)"
+            },
+            {
+                "id": "ko-2465",
+                "w": "채로",
+                "p": "chaero",
+                "d": "a whip, a scourge",
+                "s": "아이를 살아 있는 채로 찾을 희망이 빠르게 사라지고 있다. (Hope of finding the child alive is fading rapidly.)"
+            },
+            {
+                "id": "ko-2466",
+                "w": "충분한",
+                "p": "chungbunhan",
+                "d": "to be sufficient or adequate",
+                "s": "저희들을 위한 충분한 공간이 있나요? (Is there enough room for us?)"
+            },
+            {
+                "id": "ko-2467",
+                "w": "되겠죠",
+                "p": "doegetjyo",
+                "d": "to become",
+                "s": "언론에서 사건이 지나치게 과장이 되었습니다. (The incident has been excessively exaggerated in the media.)"
+            },
+            {
+                "id": "ko-2468",
+                "w": "싶다",
+                "p": "sipda",
+                "d": "to be desirous of",
+                "s": "그래서 나는 여행을 사랑하고, 많은 문화와 언어를 경험하고 싶다. (That's why I like traveling, and would like to experience many different cultures.)"
+            },
+            {
+                "id": "ko-2469",
+                "w": "물어",
+                "p": "mureo",
+                "d": "to bite",
+                "s": "탐은 우리에게 의견을 물어 보지 않았다. (Tom didn't ask for our opinions.)"
+            },
+            {
+                "id": "ko-2470",
+                "w": "정도면",
+                "p": "jeongdomyeon",
+                "d": "degree, extent",
+                "s": "나는 직장에서 1시간 정도 떨어진 곳에 살고 있다. (I live an hour away from work.)"
+            },
+            {
+                "id": "ko-2471",
+                "w": "어딘가에",
+                "p": "eodingae",
+                "d": "somewhere",
+                "s": "톰과 메리가 공원 어딘가에 있을 가능성이 있어요. (There's a chance that Tom and Mary are here in the park somewhere.)"
+            },
+            {
+                "id": "ko-2472",
+                "w": "군대를",
+                "p": "gundaereul",
+                "d": "army",
+                "s": "나폴레옹은 군대를 러시아로 진격시켰다. (Napoleon marched his armies into Russia.)"
+            },
+            {
+                "id": "ko-2473",
+                "w": "소식은",
+                "p": "sosigeun",
+                "d": "news",
+                "s": ""
+            },
+            {
+                "id": "ko-2474",
+                "w": "보이네요",
+                "p": "boineyo",
+                "d": "to be seen",
+                "s": "창백해 보이네요. 어디 아프세요? (You look pale. Are you ill?)"
+            },
+            {
+                "id": "ko-2475",
+                "w": "포",
+                "p": "po",
+                "d": "gun",
+                "s": ""
+            },
+            {
+                "id": "ko-2476",
+                "w": "멈추지",
+                "p": "meomchuji",
+                "d": "to stop",
+                "s": "톰은 도움을 멈추지 않았다. (Tom didn't stop to help.)"
+            },
+            {
+                "id": "ko-2477",
+                "w": "사",
+                "p": "sa",
+                "d": "four",
+                "s": "내 여동생은 아버지에게 새 자전거를 사 달라고 부탁했다. (My sister asked my father to buy her a new bicycle.)"
+            },
+            {
+                "id": "ko-2478",
+                "w": "경찰은",
+                "p": "gyeongchareun",
+                "d": "police",
+                "s": "경찰은 톰이 혼자인 척 했던 것이라고 생각하고 있어. (The police think that Tom acted alone.)"
+            },
+            {
+                "id": "ko-2479",
+                "w": "신호를",
+                "p": "sinhoreul",
+                "d": "signal",
+                "s": ""
+            },
+            {
+                "id": "ko-2480",
+                "w": "차려",
+                "p": "charyeo",
+                "d": "to prepare",
+                "s": "그가 때때로 우릴 위해 저녁을 차려 준다. (He sometimes makes dinner for us.)"
+            },
+            {
+                "id": "ko-2481",
+                "w": "있을거에요",
+                "p": "isseulgeoeyo",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
+            },
+            {
+                "id": "ko-2482",
+                "w": "문자",
+                "p": "munja",
+                "d": "letter",
+                "s": "제가 어제 보낸 문자 메시지를 받으셨나요? (Did you receive the message I sent you yesterday?)"
+            },
+            {
+                "id": "ko-2483",
+                "w": "불러요",
+                "p": "bulleoyo",
+                "d": "to name",
+                "s": "이것을 뭐라고 불러요? (What do you call this?)"
+            },
+            {
+                "id": "ko-2484",
+                "w": "선택을",
+                "p": "seontaegeul",
+                "d": "selection",
+                "s": "선택 사항이 아니야. (That isn't an option.)"
+            },
+            {
+                "id": "ko-2485",
+                "w": "오셨어요",
+                "p": "osyeosseoyo",
+                "d": "to come",
+                "s": "어디에서 오셨어요? (Where are you from?)"
+            },
+            {
+                "id": "ko-2486",
+                "w": "남의",
+                "p": "namui",
+                "d": "other person",
+                "s": "알베르토는 허락없이 남의 집에 들어가지 않는다. (Alberto doesn't walk into people's houses without permission.)"
+            },
+            {
+                "id": "ko-2487",
+                "w": "나가자",
+                "p": "nagaja",
+                "d": "to go out",
+                "s": "나가자 조선인민군! 일당백 용맹을 떨치며! (March forward, Korean People's Army! Show off our bravery is a match for a hundred men!)"
             },
             {
                 "id": "ko-2488",
-                "w": "말했죠",
-                "p": "malhaetjyo",
-                "d": "I said",
-                "s": ""
+                "w": "등",
+                "p": "deung",
+                "d": "back of a person or animal",
+                "s": "과일에는 사과, 배, 감 등이 있다. (Fruits include apples, pears, persimmons, etc.)"
             },
             {
                 "id": "ko-2489",
-                "w": "너희는",
-                "p": "neohuineun",
-                "d": "you guys",
+                "w": "가짜",
+                "p": "gajja",
+                "d": "fake",
                 "s": ""
             },
             {
                 "id": "ko-2490",
-                "w": "끝나고",
-                "p": "kkeunnago",
-                "d": "After finishing",
-                "s": ""
+                "w": "사건에",
+                "p": "sageone",
+                "d": "a noteworthy or remarkable incident",
+                "s": "경찰은 도심에서 발생한 강도 사건 이후 감시카메라 영상을 샅샅이 수색하고 있다. (Police are scouring security footage following a robbery in the city centre.)"
             },
             {
                 "id": "ko-2491",
-                "w": "말에",
-                "p": "mare",
-                "d": "in words",
-                "s": ""
+                "w": "역할을",
+                "p": "yeokareul",
+                "d": "a role or part",
+                "s": "넌 너의 역할을 받아들일 필요가 있어. (You need to accept your role.)"
             },
             {
                 "id": "ko-2492",
-                "w": "대통령",
-                "p": "daetongnyeong",
-                "d": "president of a country",
-                "s": ""
+                "w": "아파요",
+                "p": "apayo",
+                "d": "to be painful, to hurt",
+                "s": "어제 술을 너무 많이 마셔서 오늘 머리가 깨질 것처럼 아파요. (I drank so much alcohol yesterday that my head feels like it will explode.)"
             },
             {
                 "id": "ko-2493",
-                "w": "보냈어",
-                "p": "bonaesseo",
-                "d": "Sent it",
-                "s": ""
+                "w": "상황에",
+                "p": "sanghwange",
+                "d": "conditions",
+                "s": "난 이 상황에 익숙하지 않아. (I wasn't comfortable with the situation.)"
             },
             {
                 "id": "ko-2494",
-                "w": "안나",
-                "p": "anna",
-                "d": "Anna",
-                "s": ""
+                "w": "아니란",
+                "p": "aniran",
+                "d": "no",
+                "s": "\"허리가 아퍼?\" \"아니, 별로.\" \"그래, 그게 불행 중 다행이야.\" (\"Does your back hurt?\" \"No, not really.\" \"Oh, that's something then, isn't it?\")"
             },
             {
                 "id": "ko-2495",
-                "w": "시간이야",
-                "p": "siganiya",
-                "d": "It's time",
-                "s": ""
+                "w": "이름으로",
+                "p": "ireumeuro",
+                "d": "name",
+                "s": "이름으로 불러줘. (Call me by my name.)"
             },
             {
                 "id": "ko-2496",
-                "w": "춤을",
-                "p": "chumeul",
-                "d": "dance",
-                "s": ""
+                "w": "차로",
+                "p": "charo",
+                "d": "vehicle",
+                "s": "추석이라 도로가 차로 꽉 막혔다. (The roads are packed full of cars because of Cheosok.)"
             },
             {
                 "id": "ko-2497",
-                "w": "오늘이",
-                "p": "oneuri",
-                "d": "Today is",
-                "s": ""
+                "w": "줘야",
+                "p": "jwoya",
+                "d": "to give",
+                "s": "우리 개에게 언제 사료를 줘야 하나요? (When should I feed my dog?)"
             },
             {
                 "id": "ko-2498",
-                "w": "행크",
-                "p": "haengkeu",
-                "d": "Hank",
-                "s": ""
+                "w": "틀렸어",
+                "p": "teullyeosseo",
+                "d": "to become turned",
+                "s": "나는 톰이 지루해할 줄은 몰랐는데, 내가 틀렸어. (I didn't think Tom would get bored, but I was wrong.)"
             },
             {
                 "id": "ko-2499",
-                "w": "달러",
-                "p": "dalleo",
-                "d": "dollar",
-                "s": ""
+                "w": "있어서요",
+                "p": "isseoseoyo",
+                "d": "to stay",
+                "s": "회사 내규에 의하면 근로자가 보호 안경을 사용하도록 되어 있다. (Company regulations mandate that workers use protective eyewear.)"
             },
             {
                 "id": "ko-2500",
-                "w": "끝이야",
-                "p": "kkeuchiya",
-                "d": "It's over",
-                "s": ""
+                "w": "우",
+                "p": "u",
+                "d": "above",
+                "s": "분노한 시위대들이 대통령궁으로 우 몰려들었다. (The outraged protesters stormed into the presidential palace.)"
             }
         ]
     };
