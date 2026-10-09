@@ -1,0 +1,31 @@
+rank	word	reading	pos	english	example	example_english
+1	你好	nǐ hǎo	interj	hello	你好，你好吗？	Hello, how are you?
+2	谢谢	xièxie	interj	thank you	谢谢你。	Thank you.
+3	是	shì	verb	to be	我是学生。	I am a student.
+4	不	bù	adv	not	我不知道。	I do not know.
+5	水	shuǐ	noun	water	我要水。	I want water.
+6	饭	fàn	noun	rice; meal	我吃饭。	I eat a meal.
+7	家	jiā	noun	home	我家很小。	My home is small.
+8	朋友	péngyou	noun	friend	他是我朋友。	He is my friend.
+9	家人	jiārén	noun	family	我家有四人。	My family has four people.
+10	时间	shíjiān	noun	time	我没有时间。	I do not have time.
+11	今天	jīntiān	noun	today	今天很热。	Today is hot.
+12	明天	míngtiān	noun	tomorrow	明天见。	See you tomorrow.
+13	好	hǎo	adj	good	天气很好。	The weather is good.
+14	坏	huài	adj	bad	天气很坏。	The weather is bad.
+15	大	dà	adj	big	这个房子很大。	This house is big.
+16	小	xiǎo	adj	small	这杯咖啡很小。	This cup of coffee is small.
+17	我	wǒ	pron	I	我是老师。	I am a teacher.
+18	你	nǐ	pron	you	你好吗？	How are you?
+19	他	tā	pron	he	他是医生。	He is a doctor.
+20	她	tā	pron	she	她是老师。	She is a teacher.
+21	做	zuò	verb	to do	你在做什么？	What are you doing?
+22	有	yǒu	verb	to have	我有时间。	I have time.
+23	去	qù	verb	to go	我回家去。	I go home.
+24	来	lái	verb	to come	请进来。	Please come in.
+25	吃	chī	verb	to eat	我吃水果。	I eat fruit.
+26	喝	hē	verb	to drink	我喝水。	I drink water.
+27	说	shuō	verb	to speak	我会说中文。	I can speak Chinese.
+28	看	kàn	verb	to see; to watch	我看电影。	I watch a movie.
+29	爱	ài	verb	to love	我爱你。	I love you.
+30	名字	míngzi	noun	name	你叫什么名字？	What is your name?
