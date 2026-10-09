@@ -188,7 +188,7 @@
                 "w": "faire",
                 "p": "fehr",
                 "d": "to do; to make",
-                "s": "Qu est-ce que tu fais ? (What are you doing?)"
+                "s": "Qu'est-ce que tu fais ? (What are you doing?)"
             },
             {
                 "id": "fr-0027",
