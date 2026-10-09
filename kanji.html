@@ -2,37 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kanji · SQWease</title>
-    <script>
-    (function(){
-        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
-        var theme = (s === 'dark' || s === 'light') ? s : 'light';
-        document.documentElement.setAttribute('data-theme', theme);
-    })();
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="Study kanji with readings, meanings, and a personal list.">
+    <title data-i18n="nav.kanji">Kanji · SQWease</title>
+    <link rel="stylesheet" href="assets/theme.css">
+    <script src="assets/theme.js"></script>
     <style>
-        :root {
-            --primary: #ff4757;
-            --text: #2f3542;
-            --bg: #f1f2f6;
-            --card-bg: #ffffff;
-            --border: #dfe4ea;
-            --secondary-text: #747d8c;
-        }
-        [data-theme="dark"] {
-            --primary: #ff6b81;
-            --text: #e4e4e4;
-            --bg: #1e272e;
-            --card-bg: #2d3436;
-            --border: #57606f;
-            --secondary-text: #a4b0be;
-        }
-        * { box-sizing: border-box; }
-        a:focus-visible, button:focus-visible, input:focus-visible, .theme-toggle:focus-visible {
-            outline: 2px solid var(--primary);
-            outline-offset: 2px;
-        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -120,14 +95,14 @@
         .kanji-add button {
             padding: 10px 20px;
             min-height: 44px;
-            background: #e67e22;
+            background: #b35a00;
             color: #fff;
             border: none;
             border-radius: 8px;
             font-weight: 600;
             cursor: pointer;
         }
-        .kanji-add button:hover { background: #d35400; }
+        .kanji-add button:hover { background: #8f4700; }
         button.secondary { background: var(--card-bg); color: var(--text); border: 2px solid var(--border); }
         button.secondary:hover { border-color: var(--primary); color: var(--primary); }
         .view-btn { padding: 8px 14px; border: 2px solid var(--border); border-radius: 8px; background: var(--card-bg); color: var(--text); font-size: 0.9rem; cursor: pointer; }
@@ -194,14 +169,18 @@
     </style>
 </head>
 <body>
-    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
+    <button type="button" class="theme-toggle" aria-label="Toggle dark mode" aria-pressed="false" data-i18n-attr="aria-label:a11y.themeToggle">
+        <span class="icon-light" aria-hidden="true">🌙</span>
+        <span class="icon-dark" aria-hidden="true">☀️</span>
+    </button>
+    <main>
     <div class="container">
-        <nav class="nav">
-            <a href="index.html">← Menu</a>
-            <span>·</span>
-            <span><strong>Kanji</strong></span>
+        <nav class="nav" aria-label="Breadcrumb">
+            <a href="index.html" data-i18n="common.menu">← Menu</a>
+            <span aria-hidden="true">·</span>
+            <span><strong data-i18n="nav.kanji">Kanji</strong></span>
         </nav>
-        <h1>Kanji</h1>
+        <h1 data-i18n="nav.kanji">Kanji</h1>
         <p class="subtitle">Add and remove characters. Readings and meanings are saved in this browser only.</p>
 
         <p class="lookup-hint" style="font-size: 0.9rem; color: var(--secondary-text); margin-bottom: 16px;">
@@ -249,6 +228,10 @@
         </div>
     </div>
 
+    </main>
+    <script src="assets/store.js"></script>
+    <script src="assets/i18n.js"></script>
+    <script src="assets/langs.js"></script>
     <script src="romaji.js"></script>
     <script src="syllable-color.js"></script>
     <script src="content/common-kanji.js"></script>
@@ -553,14 +536,6 @@
 
         updateViewState();
         renderList();
-
-        function toggleTheme() {
-            var html = document.documentElement;
-            var current = html.getAttribute('data-theme');
-            var next = current === 'dark' ? 'light' : 'dark';
-            html.setAttribute('data-theme', next);
-            localStorage.setItem('sqwease-theme', next);
-        }
     </script>
 </body>
 </html>

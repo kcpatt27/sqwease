@@ -2,39 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SQWease · Japanese</title>
-    <script>
-    (function(){
-        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
-        var theme = (s === 'dark' || s === 'light') ? s : 'light';
-        document.documentElement.setAttribute('data-theme', theme);
-    })();
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="SQWease — learn the most common words in a language with spaced-repetition flashcards.">
+    <title data-i18n="app.name">SQWease</title>
+    <link rel="stylesheet" href="assets/theme.css">
+    <script src="assets/theme.js"></script>
     <style>
-        :root {
-            --primary: #ff4757;
-            --text: #2f3542;
-            --bg: #f1f2f6;
-            --card-bg: #ffffff;
-            --border: #dfe4ea;
-        }
-        [data-theme="dark"] {
-            --primary: #ff6b81;
-            --text: #e4e4e4;
-            --bg: #1e272e;
-            --card-bg: #2d3436;
-            --border: #57606f;
-        }
-        * { box-sizing: border-box; }
-        a:focus-visible, button:focus-visible, .theme-toggle:focus-visible {
-            outline: 2px solid var(--primary);
-            outline-offset: 2px;
-        }
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg);
-            color: var(--text);
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -42,53 +16,56 @@
             min-height: 100vh;
             margin: 0;
             padding: 24px;
-            transition: background-color 0.3s, color 0.3s;
         }
-        .theme-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: var(--card-bg);
-            border: 2px solid var(--border);
-            border-radius: 50%;
-            width: 48px;
-            height: 48px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            font-size: 1.4rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-            user-select: none;
-        }
-        .theme-toggle:hover {
-            transform: scale(1.1);
-            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
-        }
-        .theme-toggle .icon-dark { display: none; }
-        .theme-toggle .icon-light { display: inline; }
-        [data-theme="dark"] .theme-toggle .icon-dark { display: inline; }
-        [data-theme="dark"] .theme-toggle .icon-light { display: none; }
         h1 {
             color: var(--primary);
-            margin: 0;
-            margin-bottom: 8px;
-            font-size: 1.75rem;
+            margin: 0 0 4px;
+            font-size: clamp(1.4rem, 1rem + 2vw, 2rem);
+            text-align: center;
         }
-        .mobile-title { display: none; }
-        .pc-tablet-title { display: block; }
+        .brand-sub {
+            color: var(--muted);
+            font-size: 0.9rem;
+            margin: 0 0 4px;
+            text-align: center;
+        }
         .tagline {
-            color: #747d8c;
-            margin-bottom: 40px;
+            color: var(--secondary-text);
+            margin: 0 0 20px;
             font-size: 0.95rem;
+            text-align: center;
+        }
+        .lang-panel {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px 20px;
+            justify-content: center;
+            margin-bottom: 28px;
+        }
+        .lang-panel label {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            font-size: 0.8rem;
+            color: var(--secondary-text);
+            font-weight: 600;
+        }
+        .lang-panel select {
+            min-height: 44px;
+            padding: 8px 12px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            background: var(--card-bg);
+            color: var(--text);
+            font-weight: 600;
+            cursor: pointer;
         }
         .menu {
             display: flex;
             flex-direction: column;
             gap: 16px;
             width: 100%;
-            max-width: 320px;
+            max-width: 340px;
         }
         .menu a {
             display: flex;
@@ -96,55 +73,33 @@
             padding: 20px 24px;
             background: var(--card-bg);
             border: 2px solid var(--primary);
-            border-radius: 12px;
+            border-radius: var(--radius);
             color: var(--primary);
             text-decoration: none;
             font-weight: 700;
             font-size: 1.1rem;
             text-align: center;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            box-shadow: var(--shadow);
             transition: transform 0.2s, box-shadow 0.2s;
+            min-height: 44px;
         }
-        .menu a:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 16px rgba(255, 71, 87, 0.2);
-        }
-        .menu a.boxes {
-            border-color: #2ed573;
-            color: #27ae60;
-        }
-        .menu a.boxes:hover {
-            box-shadow: 0 6px 16px rgba(46, 213, 115, 0.25);
-        }
-        .menu a.kana-charts {
-            border-color: #5352ed;
-            color: #5352ed;
-        }
-        .menu a.kana-charts:hover {
-            box-shadow: 0 6px 16px rgba(83, 82, 237, 0.25);
-        }
-        .menu a.kanji {
-            border-color: #e67e22;
-            color: #d35400;
-        }
-        .menu a.kanji:hover {
-            box-shadow: 0 6px 16px rgba(230, 126, 34, 0.25);
-        }
-        .menu .title {
-            font-size: 1.1rem;
-            font-weight: 700;
-        }
-        .menu .hint {
-            font-size: 0.8rem;
-            color: #a4b0be;
-            font-weight: 400;
-            margin-top: 6px;
-        }
-        .menu .desc {
-            display: none;
-        }
+        .menu a:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(224, 52, 63, 0.2); }
+        .menu a.boxes { border-color: #27ae60; color: #1e8449; }
+        .menu a.kana-charts { border-color: #5352ed; color: #3d3cc9; }
+        .menu a.kanji { border-color: #c9600a; color: #a34d00; }
+        .menu a.editor { border-color: var(--border); color: var(--secondary-text); }
+        .menu a.is-disabled { opacity: 0.55; border-color: var(--border); color: var(--muted); pointer-events: none; }
+        [data-theme="dark"] .menu a.boxes { color: #55d98d; }
+        [data-theme="dark"] .menu a.kana-charts { color: #9d9cff; }
+        [data-theme="dark"] .menu a.kanji { color: #f0a860; }
+        .menu .title { font-size: 1.1rem; font-weight: 700; }
+        .menu .hint { font-size: 0.8rem; color: var(--muted); font-weight: 400; margin-top: 6px; }
+        .menu .desc { display: none; }
+        .menu .note { display: none; color: var(--muted); font-weight: 400; font-size: 0.8rem; margin-top: 6px; }
+        .menu a.is-disabled .note { display: block; }
+        .menu a.is-disabled .hint { display: none; }
         @media (min-width: 768px) {
-            h1 { font-size: 2rem; }
+            .brand-sub { font-size: 1rem; }
             .tagline { margin-bottom: 32px; }
             .menu {
                 flex-direction: row;
@@ -161,73 +116,147 @@
                 padding: 24px 28px;
                 text-align: left;
             }
-            .menu .title {
-                font-size: 1.15rem;
-            }
-            .menu .hint {
-                font-size: 0.85rem;
-                color: #747d8c;
-                margin-top: 6px;
-            }
             .menu .desc {
                 display: block;
-            font-size: 0.9rem;
-                color: #a4b0be;
+                font-size: 0.9rem;
+                color: var(--muted);
                 font-weight: 400;
                 margin-top: 8px;
                 line-height: 1.4;
             }
         }
         @media (max-width: 600px) {
-            h1 { font-size: 1.4rem; }
-            .mobile-title { display: block; }
-            .pc-tablet-title { display: none; }
             .menu a { padding: 18px 20px; min-height: 56px; align-items: center; justify-content: center; }
         }
     </style>
 </head>
 <body>
-    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
-    <h1 class="mobile-title">SQWease · JP</h1>
-    <h1 class="pc-tablet-title">Speak Quite Well with Ease · Japanese</h1>
-    <p class="tagline">Vocab & conversation practice</p>
-    <nav class="menu">
-        <a href="flashcards.html">
-            <span class="title">Flashcards</span>
-            <span class="hint">1,500 high-frequency words</span>
-            <span class="desc">Flip to see romaji, definition, and example sentence.</span>
+    <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode" aria-pressed="false" data-i18n-attr="aria-label:common.toggleTheme">
+        <span class="icon-light" aria-hidden="true">🌙</span>
+        <span class="icon-dark" aria-hidden="true">☀️</span>
+    </button>
+
+    <main>
+    <h1 data-i18n="app.name">SQWease</h1>
+    <p class="brand-sub" data-i18n="app.full">Speak Quite Well with Ease</p>
+    <p class="tagline" data-i18n="app.tagline">Vocabulary and conversation practice</p>
+
+    <div class="lang-panel">
+        <label>
+            <span data-i18n="common.uiLanguage">Interface language</span>
+            <select id="uiLocale" aria-label="Interface language"></select>
+        </label>
+        <label>
+            <span data-i18n="common.targetLanguage">I'm learning</span>
+            <select id="targetLang" aria-label="Language to learn"></select>
+        </label>
+    </div>
+
+    <nav class="menu" aria-label="Activities">
+        <a href="flashcards.html" data-cap="flashcards">
+            <span class="title" data-i18n="nav.flashcards">Flashcards</span>
+            <span class="hint" data-i18n="index.hint.flashcards">1,500 high-frequency words</span>
+            <span class="desc" data-i18n="index.desc.flashcards">Flip to see romaji, definition, and example sentence.</span>
+            <span class="note">Not available for this language yet.</span>
         </a>
-        <a href="boxes.html" class="boxes">
-            <span class="title">1-2-3 Boxes</span>
-            <span class="hint">Verbs with sentence patterns</span>
-            <span class="desc">Build real conversational habits with question and answer sets.</span>
+        <a href="boxes.html" class="boxes" data-cap="boxes">
+            <span class="title" data-i18n="nav.boxes">1-2-3 Boxes</span>
+            <span class="hint" data-i18n="index.hint.boxes">Verbs with sentence patterns</span>
+            <span class="desc" data-i18n="index.desc.boxes">Build real conversational habits with question and answer sets.</span>
+            <span class="note">Not available for this language yet.</span>
         </a>
-        <a href="kana-charts.html" class="kana-charts">
-            <span class="title">Kana Charts</span>
-            <span class="hint">Hiragana & Katakana</span>
-            <span class="desc">Gojuon grid: vowels and consonants with romaji. Reference anytime.</span>
+        <a href="kana-charts.html" class="kana-charts" data-cap="kana">
+            <span class="title" data-i18n="nav.kana">Kana Charts</span>
+            <span class="hint" data-i18n="index.hint.kana">Hiragana &amp; Katakana</span>
+            <span class="desc" data-i18n="index.desc.kana">Gojuon grid: vowels and consonants with romaji. Reference anytime.</span>
+            <span class="note">Not available for this language yet.</span>
         </a>
-        <a href="kanji.html" class="kanji">
-            <span class="title">Kanji List</span>
-            <span class="hint">Characters & meanings</span>
-            <span class="desc">Add and study your own Kanji list. Build a personal reference.</span>
+        <a href="kanji.html" class="kanji" data-cap="kanji">
+            <span class="title" data-i18n="nav.kanji">Kanji List</span>
+            <span class="hint" data-i18n="index.hint.kanji">Characters &amp; meanings</span>
+            <span class="desc" data-i18n="index.desc.kanji">Add and study your own Kanji list. Build a personal reference.</span>
+            <span class="note">Not available for this language yet.</span>
         </a>
-        <a href="editor.html" style="border-color: var(--border); color: var(--secondary-text);">
-            <span class="title">Box 3 Sentence Editor</span>
-            <span class="hint">Authoring</span>
-            <span class="desc">Edit tokenized sentences, kana, romaji, and recompute from kana.</span>
+        <a href="editor.html" class="editor" data-cap="editor">
+            <span class="title" data-i18n="nav.editor">Sentence Editor</span>
+            <span class="hint" data-i18n="index.hint.editor">Authoring</span>
+            <span class="desc" data-i18n="index.desc.editor">Edit tokenized sentences, kana, romaji, and recompute from kana.</span>
+            <span class="note">Not available for this language yet.</span>
         </a>
     </nav>
+    </main>
+
+    <script src="assets/store.js"></script>
+    <script src="assets/i18n.js"></script>
+    <script src="assets/langs.js"></script>
     <script>
-        function toggleTheme() {
-            const html = document.documentElement;
-            const current = html.getAttribute('data-theme');
-            const next = current === 'dark' ? 'light' : 'dark';
-            html.setAttribute('data-theme', next);
-            localStorage.setItem('sqwease-theme', next);
+    (function () {
+        'use strict';
+
+        function fillSelect(select, items, current, labelFn) {
+            select.innerHTML = '';
+            items.forEach(function (item) {
+                var opt = document.createElement('option');
+                opt.value = item.value;
+                opt.textContent = labelFn(item);
+                if (item.value === current) opt.selected = true;
+                select.appendChild(opt);
+            });
         }
-        const saved = localStorage.getItem('sqwease-theme');
-        if (saved) document.documentElement.setAttribute('data-theme', saved);
+
+        function syncCapabilities() {
+            var active = SqweaseLangs.getActiveLang();
+            var caps = (active && active.capabilities) || {};
+            document.querySelectorAll('[data-cap]').forEach(function (a) {
+                var cap = a.getAttribute('data-cap');
+                var ok = !!caps[cap];
+                a.classList.toggle('is-disabled', !ok);
+                a.setAttribute('aria-disabled', ok ? 'false' : 'true');
+                // Keep href for context but make disabled cards non-navigable.
+                if (!ok) { a.setAttribute('tabindex', '-1'); }
+                else { a.removeAttribute('tabindex'); }
+                var note = a.querySelector('.note');
+                if (note) {
+                    note.textContent = SqweaseI18n.t('common.notAvailable', { lang: active ? active.name : '' });
+                }
+            });
+            document.title = 'SQWease · ' + (active ? active.name : 'Japanese');
+        }
+
+        function refresh() {
+            SqweaseI18n.apply();
+            syncCapabilities();
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            var uiSelect = document.getElementById('uiLocale');
+            var targetSelect = document.getElementById('targetLang');
+
+            fillSelect(uiSelect, [
+                { value: 'en', label: 'English' },
+                { value: 'ja', label: '日本語 (Japanese)' },
+                { value: 'es', label: 'Español (Spanish)' },
+                { value: 'fr', label: 'Français (French)' },
+                { value: 'ko', label: '한국어 (Korean)' },
+                { value: 'zh', label: '中文 (Chinese)' }
+            ], SqweaseI18n.getLocale(), function (i) { return i.label; });
+
+            fillSelect(targetSelect, SqweaseLangs.list().map(function (l) {
+                return { value: l.code, label: l.nativeName + ' (' + l.name + ')' };
+            }), SqweaseLangs.getActive(), function (i) { return i.label; });
+
+            uiSelect.addEventListener('change', function () {
+                SqweaseI18n.setLocale(uiSelect.value);
+                refresh();
+            });
+            targetSelect.addEventListener('change', function () {
+                SqweaseLangs.setActive(targetSelect.value);
+                refresh();
+            });
+
+            refresh();
+        });
+    })();
     </script>
 </body>
 </html>

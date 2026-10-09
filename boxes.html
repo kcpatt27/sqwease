@@ -2,37 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1-2-3 Boxes · SQWease</title>
-    <script>
-    (function(){
-        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
-        var theme = (s === 'dark' || s === 'light') ? s : 'light';
-        document.documentElement.setAttribute('data-theme', theme);
-    })();
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="Practice 1-2-3 Boxes sentence patterns and conversation drills.">
+    <title data-i18n="nav.boxes">1-2-3 Boxes · SQWease</title>
+    <link rel="stylesheet" href="assets/theme.css">
+    <script src="assets/theme.js"></script>
     <style>
-        :root {
-            --primary: #ff4757;
-            --text: #2f3542;
-            --bg: #f1f2f6;
-            --card-bg: #ffffff;
-            --border: #dfe4ea;
-            --secondary-text: #747d8c;
-        }
-        [data-theme="dark"] {
-            --primary: #ff6b81;
-            --text: #e4e4e4;
-            --bg: #1e272e;
-            --card-bg: #2d3436;
-            --border: #57606f;
-            --secondary-text: #a4b0be;
-        }
-        * { box-sizing: border-box; }
-        a:focus-visible, button:focus-visible, input:focus-visible, .theme-toggle:focus-visible {
-            outline: 2px solid var(--primary);
-            outline-offset: 2px;
-        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -382,16 +357,21 @@
     </style>
 </head>
 <body>
-    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
+    <button type="button" class="theme-toggle" aria-label="Toggle dark mode" aria-pressed="false" data-i18n-attr="aria-label:a11y.themeToggle">
+        <span class="icon-light" aria-hidden="true">🌙</span>
+        <span class="icon-dark" aria-hidden="true">☀️</span>
+    </button>
+    <main>
     <div class="container">
-    <nav class="nav">
-        <a href="index.html">← Menu</a>
-        <span>·</span>
-        <span><strong>1-2-3 Boxes</strong></span>
+    <nav class="nav" aria-label="Breadcrumb">
+        <a href="index.html" data-i18n="common.menu">← Menu</a>
+        <span aria-hidden="true">·</span>
+        <span><strong data-i18n="nav.boxes">1-2-3 Boxes</strong></span>
     </nav>
     <div class="info-box">
         <h3>
-            <span class="toggle-info" onclick="toggleInfo()">💡 How to use 1-2-3 Boxes ▲</span>
+            <button type="button" class="toggle-info" id="infoToggleBtn" aria-expanded="true" aria-controls="infoToggle"
+                    style="background:none;border:none;padding:0;font:inherit;color:inherit;cursor:pointer;">💡 How to use 1-2-3 Boxes ▲</button>
         </h3>
         <div id="infoToggle">
             <div id="infoDetail" style="display:block; margin-top:12px;">
@@ -477,6 +457,10 @@
     </div>
     <div id="error" class="error hidden"></div>
 
+    </main>
+    <script src="assets/store.js"></script>
+    <script src="assets/i18n.js"></script>
+    <script src="assets/langs.js"></script>
     <script src="tiny-segmenter.js"></script>
     <script src="romaji.js"></script>
     <script src="srs.js"></script>
@@ -500,12 +484,11 @@
 
         const ROMAJI_PHASE_KEY = 'sqwease-romaji-phase';
         function getRomajiPhase() {
-            var v = typeof localStorage !== 'undefined' ? localStorage.getItem(ROMAJI_PHASE_KEY) : null;
-            var n = parseInt(v, 10);
+            var n = SqweaseStore.getInt(ROMAJI_PHASE_KEY, 1);
             return (n === 1 || n === 2 || n === 3) ? n : 1;
         }
         function setRomajiPhase(phase) {
-            if (typeof localStorage !== 'undefined') localStorage.setItem(ROMAJI_PHASE_KEY, String(phase));
+            SqweaseStore.setString(ROMAJI_PHASE_KEY, String(phase));
         }
 
         /** Build tokens from ja + romaji using TinySegmenter for slot-filled items (no pre-tokenized data). */
@@ -663,18 +646,16 @@
             const tokenized = typeof BOXES_TOKENIZED_SENTENCES !== 'undefined' ? BOXES_TOKENIZED_SENTENCES : {};
             for (const set of config.sets) {
                 for (const box of set.boxes) {
-                    const boxType = box.boxType != null ? box.boxType : box.boxType;
+                    const boxType = box.boxType;
                     const boxName = box.name || '';
                     if (box.fixed) {
                         const item = {
                             ja: box.templateJa,
                             romaji: box.templateRomaji,
                             en: box.templateEn,
-                            boxType: box.boxType,
                             boxType: boxType,
                             boxName: boxName,
-                            setName: set.name,
-                            boxName: box.name
+                            setName: set.name
                         };
                         const tok = tokenized[box.templateJa];
                         if (tok && tok.tokens) {
@@ -689,18 +670,13 @@
                         const slotWords = words[box.slot];
                         if (!slotWords) continue;
                         for (const w of slotWords) {
-                            // #region agent log
-                            fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:generateItems',message:'slot',data:{w:w,box:box},timestamp:Date.now(),hypothesisId:'H_Gen'})}).catch(function(){});
-                            // #endregion
                             items.push({
                                 ja: fillTemplate(box.templateJa, w),
                                 romaji: fillTemplate(box.templateRomaji, w),
                                 en: fillTemplate(box.templateEn, w),
-                                boxType: box.boxType,
                                 boxType: boxType,
                                 boxName: boxName,
-                                setName: set.name,
-                                boxName: box.name
+                                setName: set.name
                             });
                         }
                     }
@@ -762,17 +738,11 @@
                     const row = document.createElement('div');
                     row.className = 'box-item';
                     const tokens = item.tokens || buildTokensFromSegmenter(item.ja, item.romaji, item.en);
-                    // #region agent log
-                    if (tokens) fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderList',message:'rendering',data:{ja:item.ja,tokens:tokens},timestamp:Date.now(),hypothesisId:'H_Render'})}).catch(function(){});
-                    // #endregion
                     if (tokens && typeof BoxesColoring !== 'undefined' && BoxesColoring.colorizeBoxesItem) {
                         const isDark = typeof SyllableColor !== 'undefined' && SyllableColor.isDarkTheme ? SyllableColor.isDarkTheme() : (document.documentElement.getAttribute('data-theme') === 'dark');
                         const colored = BoxesColoring.colorizeBoxesItem(item.ja, tokens, isDark, item.en);
                         row.innerHTML = '<span class="ja">' + colored.jaHtml + '</span><span class="romaji">' + colored.romajiHtml + '</span><span class="en">' + (colored.enHtml || escapeHtml(item.en)) + '</span>';
                     } else if (tokens && typeof SyllableColor !== 'undefined' && SyllableColor.colorizeByTokens) {
-                        // #region agent log
-                        fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderList',message:'fallback',data:{path:'SyllableColor'},timestamp:Date.now(),hypothesisId:'H_Path'})}).catch(function(){});
-                        // #endregion
                         const isDark = SyllableColor.isDarkTheme();
                         const colored = SyllableColor.colorizeByTokens(item.ja, tokens, isDark, item.en);
                         let enHtml = colored.enHtml;
@@ -785,9 +755,6 @@
                         }
                         row.innerHTML = '<span class="ja">' + colored.jaHtml + '</span><span class="romaji">' + colored.romajiHtml + '</span><span class="en">' + (enHtml || escapeHtml(item.en)) + '</span>';
                     } else {
-                        // #region agent log
-                        fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderList',message:'no_tokens',data:{ja:item.ja},timestamp:Date.now(),hypothesisId:'H_Path'})}).catch(function(){});
-                        // #endregion
                         row.innerHTML = '<span class="ja">' + escapeHtml(item.ja) + '</span><span class="romaji">' + escapeHtml(item.romaji) + '</span><span class="en">' + escapeHtml(item.en) + '</span>';
                     }
                     var phase = getRomajiPhase();
@@ -832,9 +799,6 @@
             document.getElementById('boxRatingButtons').classList.add('hidden');
             
             const cardTokens = item.tokens || buildTokensFromSegmenter(item.ja, item.romaji, item.en);
-            // #region agent log
-            if (cardTokens) fetch('http://127.0.0.1:7244/ingest/7365a28b-2540-429a-90c2-67173112e213',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'boxes.html:renderPracticeCard',message:'rendering',data:{ja:item.ja,tokens:cardTokens},timestamp:Date.now(),hypothesisId:'H_Render'})}).catch(function(){});
-            // #endregion
             if (cardTokens && typeof BoxesColoring !== 'undefined' && BoxesColoring.colorizeBoxesItem) {
                 var isDark = typeof SyllableColor !== 'undefined' && SyllableColor.isDarkTheme ? SyllableColor.isDarkTheme() : (document.documentElement.getAttribute('data-theme') === 'dark');
                 var colored = BoxesColoring.colorizeBoxesItem(item.ja, cardTokens, isDark, item.en);
@@ -975,22 +939,18 @@
         const WORDLIST_FIELD_LABELS = { j: 'Japanese', r: 'Romaji', e: 'English', tai: '〜たい', tsumori: 'つもり', masu: 'ます形', mashita: 'ました', timeJ: 'Time (ja)', timeR: 'Time (romaji)', timeE: 'Time (en)', verbMasu: 'Verb ます', verbR: 'Verb (romaji)', verbE: 'Verb (en)' };
         let currentWordlistCat = 'nounsLikes';
 
+        function todayKey() { return new Date().toISOString().slice(0, 10); }
+
         function saveSRSBoxes() {
-            localStorage.setItem('sqwease-boxes-srs', JSON.stringify(srsCards));
-            const today = new Date().toDateString();
-            localStorage.setItem('sqwease-boxes-date', today);
-            localStorage.setItem('sqwease-boxes-new-today', newCardsIntroduced.toString());
+            SqweaseStore.set('sqwease-boxes-srs', srsCards);
+            SqweaseStore.setString('sqwease-boxes-date', todayKey());
+            SqweaseStore.setString('sqwease-boxes-new-today', String(newCardsIntroduced));
         }
 
         function loadSRSBoxes() {
-            const stored = localStorage.getItem('sqwease-boxes-srs');
-            if (stored) {
-                srsCards = JSON.parse(stored);
-            }
-            const storedDate = localStorage.getItem('sqwease-boxes-date');
-            const today = new Date().toDateString();
-            if (storedDate === today) {
-                newCardsIntroduced = parseInt(localStorage.getItem('sqwease-boxes-new-today') || '0');
+            srsCards = SqweaseStore.get('sqwease-boxes-srs', {}) || {};
+            if (SqweaseStore.getString('sqwease-boxes-date', '') === todayKey()) {
+                newCardsIntroduced = SqweaseStore.getInt('sqwease-boxes-new-today', 0);
             } else {
                 newCardsIntroduced = 0;
             }
@@ -1008,9 +968,7 @@
         }
 
         function saveWords() {
-            try {
-                localStorage.setItem('sqwease-boxes-words', JSON.stringify(words));
-            } catch (err) {}
+            SqweaseStore.set('sqwease-boxes-words', words);
             generatedItems = generateItems();
             renderList();
             updatePracticeList();
@@ -1131,15 +1089,7 @@
                 }
                 config = BOXES_CONFIG;
                 defaultWords = BOXES_WORDS;
-                // Normalize: config/source may use "boxes"; runtime expects "boxes" and boxType
-                config.sets.forEach(function(s) {
-                    if (!s.boxes && s.boxes) s.boxes = s.boxes;
-                    if (s.boxes) s.boxes.forEach(function(b) {
-                        if (b.boxType === undefined && b.boxType !== undefined) b.boxType = b.boxType;
-                    });
-                });
-                const stored = localStorage.getItem('sqwease-boxes-words');
-                words = stored ? JSON.parse(stored) : JSON.parse(JSON.stringify(defaultWords));
+                words = SqweaseStore.get('sqwease-boxes-words', null) || JSON.parse(JSON.stringify(defaultWords));
                 if (!words.nounsLikes || !Array.isArray(words.nounsLikes)) words = JSON.parse(JSON.stringify(defaultWords));
                 generatedItems = generateItems();
                 currentSetId = config.sets[0]?.id || null;
@@ -1164,34 +1114,23 @@
                     });
                 }
             } catch (e) {
+                console.error('boxes-data.js failed to load or parse.', e);
                 document.getElementById('loading').classList.add('hidden');
                 document.getElementById('error').classList.remove('hidden');
-                document.getElementById('error').textContent = 'Could not load boxes data. Run: node scripts/build-boxes-data.js then open boxes.html (or ensure boxes-data.js is in the same folder as boxes.html).';
+                document.getElementById('error').textContent = 'Could not load the boxes data. Please reload the page; if it keeps failing, the data file may be missing.';
             }
         }
         load();
         
         function toggleInfo() {
             const detail = document.getElementById('infoDetail');
-            const toggle = document.querySelector('.toggle-info');
-            if (detail.style.display === 'none') {
-                detail.style.display = 'block';
-                toggle.textContent = '💡 How to use 1-2-3 Boxes ▲';
-            } else {
-                detail.style.display = 'none';
-                toggle.textContent = '💡 How to use 1-2-3 Boxes ▼';
-            }
+            const toggle = document.getElementById('infoToggleBtn');
+            const expanded = detail.style.display !== 'none';
+            detail.style.display = expanded ? 'none' : 'block';
+            toggle.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+            toggle.textContent = '💡 How to use 1-2-3 Boxes ' + (expanded ? '▼' : '▲');
         }
-        
-        function toggleTheme() {
-            const html = document.documentElement;
-            const current = html.getAttribute('data-theme');
-            const next = current === 'dark' ? 'light' : 'dark';
-            html.setAttribute('data-theme', next);
-            localStorage.setItem('sqwease-theme', next);
-        }
-        const saved = localStorage.getItem('sqwease-theme');
-        if (saved) document.documentElement.setAttribute('data-theme', saved);
+        document.getElementById('infoToggleBtn').addEventListener('click', toggleInfo);
     </script>
 </body>
 </html>
