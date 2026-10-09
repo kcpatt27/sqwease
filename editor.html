@@ -2,37 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tokenized sentences editor · SQWease</title>
-    <script>
-    (function(){
-        var s = typeof localStorage !== 'undefined' ? localStorage.getItem('sqwease-theme') : null;
-        var theme = (s === 'dark' || s === 'light') ? s : 'light';
-        document.documentElement.setAttribute('data-theme', theme);
-    })();
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="Edit tokenized Japanese sentences: kana, romaji, and English tokens.">
+    <title data-i18n="nav.editor">Tokenized sentences editor · SQWease</title>
+    <link rel="stylesheet" href="assets/theme.css">
+    <script src="assets/theme.js"></script>
     <style>
-        :root {
-            --primary: #ff4757;
-            --text: #2f3542;
-            --bg: #f1f2f6;
-            --card-bg: #ffffff;
-            --border: #dfe4ea;
-            --secondary-text: #747d8c;
-        }
-        [data-theme="dark"] {
-            --primary: #ff6b81;
-            --text: #e4e4e4;
-            --bg: #1e272e;
-            --card-bg: #2d3436;
-            --border: #57606f;
-            --secondary-text: #a4b0be;
-        }
-        * { box-sizing: border-box; }
-        a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, .theme-toggle:focus-visible {
-            outline: 2px solid var(--primary);
-            outline-offset: 2px;
-        }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: var(--bg);
@@ -211,14 +186,18 @@
     </style>
 </head>
 <body>
-    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode"><span class="icon-light">🌙</span><span class="icon-dark">☀️</span></div>
+    <button type="button" class="theme-toggle" aria-label="Toggle dark mode" aria-pressed="false" data-i18n-attr="aria-label:a11y.themeToggle">
+        <span class="icon-light" aria-hidden="true">🌙</span>
+        <span class="icon-dark" aria-hidden="true">☀️</span>
+    </button>
+    <main>
     <div class="container">
-        <nav class="nav">
-            <a href="index.html">← Menu</a>
-            <span>·</span>
-            <span><strong>Token Editor</strong></span>
+        <nav class="nav" aria-label="Breadcrumb">
+            <a href="index.html" data-i18n="common.menu">← Menu</a>
+            <span aria-hidden="true">·</span>
+            <span><strong data-i18n="nav.editor">Token Editor</strong></span>
         </nav>
-        <h1>Tokenized Sentence Editor</h1>
+        <h1 data-i18n="nav.editor">Tokenized Sentence Editor</h1>
         <div class="toolbar">
             <button type="button" id="btnLoadDefault">Load default</button>
             <label for="fileInput">Load file</label>
@@ -264,13 +243,13 @@
             <table class="token-table">
                 <thead>
                     <tr>
-                        <th>ja</th>
-                        <th>kana</th>
-                        <th>romaji</th>
-                        <th>en</th>
-                        <th>lemma</th>
-                        <th class="particle-cell">isParticle</th>
-                        <th></th>
+                        <th scope="col">ja</th>
+                        <th scope="col">kana</th>
+                        <th scope="col">romaji</th>
+                        <th scope="col">en</th>
+                        <th scope="col">lemma</th>
+                        <th scope="col" class="particle-cell">isParticle</th>
+                        <th scope="col"><span class="visually-hidden">Actions</span></th>
                     </tr>
                 </thead>
                 <tbody id="tokenTbody"></tbody>
@@ -287,6 +266,10 @@
         </div>
         <div class="no-data" id="noData">Load tokenized JSON to edit sentences.</div>
     </div>
+    </main>
+    <script src="assets/store.js"></script>
+    <script src="assets/i18n.js"></script>
+    <script src="assets/langs.js"></script>
     <script src="tiny-segmenter.js"></script>
     <script src="romaji.js"></script>
     <script src="syllable-color.js"></script>
@@ -296,13 +279,9 @@
     var sentences = [];
     var currentIndex = 0;
 
-    function toggleTheme() {
-        var html = document.documentElement;
-        var next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-        html.setAttribute('data-theme', next);
-        if (typeof localStorage !== 'undefined') localStorage.setItem('sqwease-theme', next);
-        renderCurrent();
-    }
+    window.addEventListener('sqwease:themechange', function () {
+        if (typeof renderCurrent === 'function') renderCurrent();
+    });
 
     function setStatus(msg, isError) {
         var el = document.getElementById('status');
@@ -495,6 +474,7 @@
             cb.type = 'checkbox';
             cb.checked = !!t.isParticle;
             cb.dataset.tokenIndex = String(i);
+            cb.setAttribute('aria-label', 'Mark token ' + (i + 1) + ' as particle');
             cb.addEventListener('change', onParticleChange);
             var tdCb = document.createElement('td');
             tdCb.className = 'particle-cell';
@@ -535,6 +515,12 @@
 
     function createTdWithInput(input) {
         var td = document.createElement('td');
+        if (input && !input.getAttribute('aria-label')) {
+            var field = input.getAttribute('data-field') || (input.type === 'checkbox' ? 'isParticle' : 'field');
+            var rawIdx = input.getAttribute('data-token-index');
+            var tokenNo = rawIdx != null ? (parseInt(rawIdx, 10) + 1) : '';
+            input.setAttribute('aria-label', field + ' (token ' + tokenNo + ')');
+        }
         td.appendChild(input);
         return td;
     }
