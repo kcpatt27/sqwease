@@ -1,31 +1,2501 @@
 rank	word	reading	pos	english	example	example_english
-1	hola	OH-lah	interj	hello	¡Hola! ¿Cómo estás?	Hi! How are you?
-2	sí	see	adv	yes	Sí, quiero.	Yes, I want it.
-3	no	no	adv	no	No, gracias.	No, thank you.
-4	gracias	GRAH-see-as	interj	thank you	Muchas gracias.	Thank you very much.
-5	por favor	por fah-VOR	phrase	please	Un café, por favor.	A coffee, please.
-6	agua	AH-gwah	noun	water	Quiero agua, por favor.	I want water, please.
-7	comida	ko-MEE-dah	noun	food	La comida está lista.	The food is ready.
-8	casa	KAH-sah	noun	house	Mi casa es pequeña.	My house is small.
-9	amigo	ah-MEE-goh	noun	friend	Mi amigo es simpático.	My friend is friendly.
-10	familia	fah-MEE-lee-ah	noun	family	Mi familia es grande.	My family is big.
-11	tiempo	TYEM-poh	noun	time; weather	No tengo tiempo.	I do not have time.
-12	día	DEE-ah	noun	day	Buen día.	Good day.
-13	noche	NOH-cheh	noun	night	Buenas noches.	Good night.
-14	hoy	oy	adv	today	Hoy trabajo.	Today I work.
-15	mañana	mah-NYAH-nah	noun	tomorrow; morning	Hasta mañana.	See you tomorrow.
-16	bueno	BWEH-noh	adj	good	Es un buen día.	It is a good day.
-17	malo	MAH-loh	adj	bad	El tiempo es malo.	The weather is bad.
-18	grande	GRAN-deh	adj	big	Es una casa grande.	It is a big house.
-19	pequeño	peh-KEH-nyoh	adj	small	Un café pequeño.	A small coffee.
-20	yo	yoh	pron	I	Yo soy estudiante.	I am a student.
-21	tú	too	pron	you	¿Tú quieres?	Do you want it?
-22	él	el	pron	he	Él es mi amigo.	He is my friend.
-23	ella	EH-yah	pron	she	Ella es mi hermana.	She is my sister.
-24	querer	keh-RER	verb	to want	Quiero aprender.	I want to learn.
-25	tener	teh-NER	verb	to have	Tengo un perro.	I have a dog.
-26	hacer	ah-SER	verb	to do; to make	¿Qué haces?	What are you doing?
-27	ir	eer	verb	to go	Voy a casa.	I am going home.
-28	comer	ko-MER	verb	to eat	Como fruta.	I eat fruit.
-29	beber	beh-BER	verb	to drink	Bebo agua.	I drink water.
-30	hablar	ah-BLAR	verb	to speak	Hablo español.	I speak Spanish.
+1	de	de	prep	of; from; by	¡Ay de mí!	Oh, woe is me!
+2	que	ke	conj	that; than	¿A que sí?	Isn't that right?
+3	no	ˈno	adv	no; not	Yo no fui.	It wasn't me.
+4	la	la	det	the (feminine singular)	Él la ama.	He loves her.
+5	el	el	det	the (masculine singular)	Amo el sol.	I love the sun.
+6	es	ˈes	verb	is (third-person singular of ser)	¿Quién es?	Who is it?
+7	en	en	prep	in; on; at	Creo en ti.	I believe in you.
+8	lo	lo	pron	it; him	No lo veo.	I don't see it.
+9	un	un	det	a; an	Es un pez.	It's a fish.
+10	por	poɾ	prep	by; for; through	¡A por él!	Get him!
+11	qué	ˈke	pron	what; which	¿Para qué?	For what?
+12	me	me	pron	me; myself	No me reí.	I didn't laugh.
+13	una	ˈuna	det	a; an (feminine); one	Es la una.	It's one o'clock.
+14	los	los	det	the (masculine plural)	Ya los veo.	I see them now.
+15	se	se	pron	himself; herself; itself; oneself (reflexive)	Él se rio.	He laughed.
+16	te	te	pron	you; yourself (familiar)	No te veo.	I don't see you.
+17	con	kon	prep	with	¿Y con vos?	How about with you?
+18	para	paɾa	prep	for; to; in order to	Es para ti.	That's for you.
+19	está	esˈta	verb	is (located or in a state; estar)	¡Ahí está!	There she is!
+20	mi	mi	det	my	Es mi tío.	He's my uncle.
+21	pero	ˈpeɾo	conj	but	Gracias, pero no.	Thanks, but no.
+22	sí	ˈsi	adv	yes	¿A que sí?	Isn't that right?
+23	si	si	conj	if	¿Y si no es?	And if it’s not?
+24	bien	ˈbjen	adv	well; fine	Está bien.	It's OK.
+25	eso	ˈeso	pron	that; it	Yo sé eso.	I know that.
+26	su	su	det	his; her; its; their; your	Es su coche.	That's her car.
+27	las	las	det	the (feminine plural)	Son las 9.	It's nine o'clock.
+28	yo	ˈʝo	pron	I	No sos yo.	You're not me.
+29	del	del	prep	of the; from the (de + el)	Soy del FBI.	I'm from the FBI.
+30	como	komo	prep	like; as	Nunca como.	I never eat.
+31	aquí	aˈki	adv	here	Vivo aquí.	I live here.
+32	tu	tu	det	your	Sé tu edad.	I know how old you are.
+33	al	al	prep	to the; at the (a + el)	Ve al sur.	Head south.
+34	más	ˈmas	adv	more	¿Algo más?	Anything else?
+35	le	le	pron	him; her; to him; to her	No le trago.	I can't stand him.
+36	esto	ˈesto	pron	this; it	Coma esto.	Eat this up.
+37	todo	ˈtodo	det	all; everything	Dime todo.	Tell me everything.
+38	ya	ˈʝa	adv	already; now	¡Hazlo ya!	Do it now.
+39	estoy	esˈtoi	verb	I am (estar)	Acá estoy.	Here I am.
+40	ahora	aˈoɾa	adv	now	Ven ahora.	Come now.
+41	muy	ˈmwi	adv	very	Es muy sexy.	He's very sexy.
+42	ha	ˈa	verb	has (haber)	Se ha roto.	It broke.
+43	esta	ˈesta	det	this (feminine)	Usad esta.	Use this one.
+44	así	aˈsi	adv	like this; so; thus	Hazlo así.	Do it this way.
+45	vamos	ˈbamos	verb	we go; let's go (ir)	Nos vamos.	We're going.
+46	algo	ˈalɡo	pron	something	¡Haz algo!	Do something!
+47	hay	ˈai	verb	there is; there are (haber)	No hay sal.	There's no salt.
+48	bueno	ˈbweno	adj	good	Soy bueno.	I am good.
+49	tengo	ˈtenɡo	verb	I have (tener)	¡Lo tengo!	Got it!
+50	él	ˈel	pron	he; him	¡A por él!	Get him!
+51	cuando	ˈkwando	conj	when	Ven cuando quieras.	Come anytime.
+52	estás	esˈtas	verb	you are (estar)	Ahí estás.	There you are.
+53	sé	ˈse	verb	I know (saber)	Yo sé eso.	I know that.
+54	tú	ˈtu	pron	you (familiar)	Decide tú.	You decide.
+55	nos	nos	pron	us; ourselves	Tom nos vio.	Tom saw us.
+56	nada	ˈnada	pron	nothing	Para nada.	Not at all.
+57	cómo	ˈkomo	adv	how	No sé cómo.	I don't know how.
+58	este	ˈeste	det	this (masculine)	Usad este.	Use this one.
+59	he	ˈe	verb	I have (haber)	Yo he ido.	I have gone.
+60	ser	ˈseɾ	verb	to be	Puede ser.	It may be.
+61	tiene	ˈtjene	verb	has (tener)	¿Qué tiene?	What do you have?
+62	puedo	ˈpwedo	verb	I can (poder)	Sí, puedo.	Yes, I can.
+63	ella	ˈeʝa	pron	she; her	Es de ella.	It's hers.
+64	quiero	ˈkjeɾo	verb	I want (querer)	Te quiero.	I love you.
+65	hacer	aˈθeɾ	verb	to do; to make	¿Qué hacer?	What can be done?
+66	fue	ˈfwe	verb	was; went (ser; ir)	Él se fue.	He walked away.
+67	gracias	ˈɡɾaθjas/ [ˈɡɾa.θjas	interj	thank you; thanks	No, gracias.	No, thanks.
+68	vez	ˈbeθ	noun	time; occasion	¡Otra vez!	Again!
+69	era	ˈeɾa	verb	was (imperfect of ser)	¿Cómo era?	What was it like?
+70	soy	ˈsoi	verb	I am (ser)	Yo soy tú.	I am you.
+71	sólo	ˈsolo	adv	only; just	Déjenlo sólo.	Leave him alone.
+72	todos	ˈtodos	det	all; everyone	Oigan todos.	Everyone, listen up.
+73	porque	ˈpoɾke	conj	because	Vine porque quería.	I came because I wanted to.
+74	son	ˈson	verb	they are (ser)	No son míos.	They're not mine.
+75	tienes	ˈtjenes	verb	you have (tener)	¿Lo tienes?	Do you have it?
+76	creo	ˈkɾeo	verb	I believe; I think (creer)	¡Eso creo!	I think so!
+77	voy	ˈboi	verb	I go (ir)	Ya me voy.	I'm leaving now.
+78	sabes	ˈsabes	verb	you know (saber)	¿Lo sabes?	Do you know?
+79	estaba	esˈtaba	verb	was (imperfect of estar)	Él estaba solo.	He was alone.
+80	puede	ˈpwede	verb	can (poder)	Se puede ir.	You may go.
+81	eres	ˈeɾes	verb	you are (ser)	¿Qué eres?	What are you?
+82	ese	ˈese	det	that	¿Es ese Tom?	Is he Tom?
+83	usted	usˈted	pron	you (formal)	¿Es usted?	Is that you?
+84	entonces	enˈtonθes	adv	then; so	¿Y entonces?	And then?
+85	hola	ˈola	interj	hello; hi	Decí hola.	Say hello.
+86	solo	ˈsolo	adv	only; alone	Está solo.	He is alone.
+87	verdad	beɾˈda	noun	truth	Es verdad.	It's true.
+88	casa	ˈkasa	noun	house; home	Fui a casa.	I went home.
+89	tan	tan	adv	so; such	Es tan caro.	It is too expensive.
+90	quién	ˈkjen	pron	who	Sé quién es.	I know who he is.
+91	sus	sus	det	his; her; their; your	Abran sus ojos.	Open your eyes.
+92	tiempo	ˈtjempo	noun	time; weather	Dale tiempo.	Give him time.
+93	dos	ˈdos	num	two	Lleve dos.	Take two.
+94	esa	ˈesa	det	that (feminine)	¡Chúpate esa!	Suck it!
+95	nunca	ˈnunka	adv	never	Hasta nunca.	Good riddance.
+96	dónde	ˈdonde	adv	where	¿De dónde?	From where?
+97	va	ˈba	verb	goes (ir)	Eso no va.	That's broken.
+98	oh	ˈo	interj	oh	No me abandones, oh querida.	Do not forsake me, oh my darling.
+99	favor	faˈboɾ	noun	favor	¡Por favor!	Please.
+100	mucho	ˈmut͡ʃo	det	much; a lot of	Leo mucho.	I read a lot.
+101	mí	ˈmi	pron	me (stressed)	¡Ay de mí!	Oh, woe is me!
+102	quieres	quieres	verb	you want (querer)	Si quieres.	If you want.
+103	siento	ˈsjento	verb	I feel; I am sorry (sentir)	Lo siento.	Sorry.
+104	señor	seˈɲoɾ	noun	sir; mister; lord	Mi señor...	Hail, milord.
+105	mejor	meˈxoɾ	adj	better; best	Soy mejor.	I am better.
+106	hace	ˈaθe	verb	does; makes (hacer)	¿Qué hace?	What does he do?
+107	has	ˈas	verb	you have (haber)	¿Lo has oído?	Did you hear it?
+108	decir	deˈθiɾ	verb	to say; to tell	Déjame decir.	Let me say.
+109	también	tamˈbjen	adv	also; too	Yo también.	Me too.
+110	sobre	ˈsobɾe	prep	on; over; about	Rasgué el sobre.	I ripped the envelope open.
+111	dios	ˈdjos	noun	god	No hay dios.	There is no god.
+112	sin	ˈsin	prep	without	Iré sin ti.	I'll go without you.
+113	tenemos	teˈnemos	verb	we have (tener)	Lo tenemos.	We've got it.
+114	están	esˈtan	verb	they are (estar)	Ahí están.	That's them.
+115	ti	ˈti	pron	you (after a preposition)	Creo en ti.	I believe in you.
+116	puedes	ˈpwedes	verb	you can (poder)	No puedes ir.	You can't go.
+117	ver	ˈbeɾ	verb	to see	Deseo ver.	I wish to see.
+118	hombre	ˈombɾe	noun	man	Soy hombre.	I'm a man.
+119	vida	ˈbida	noun	life	¡Qué vida!	What a life!
+120	alguien	ˈalɡjen	pron	someone; somebody	Vi a alguien.	I saw somebody.
+121	cosas	ˈkosas	noun	things	Yo sé cosas.	I know things.
+122	siempre	ˈsjempɾe	adv	always	Casi siempre.	Almost always.
+123	hasta	ˈasta	prep	until; up to	OK, hasta mañana.	OK, I'll see you tomorrow.
+124	ahí	aˈi	adv	there	Ponlo ahí.	Put it there.
+125	ir	ˈiɾ	verb	to go	Puedes ir.	You can go.
+126	años	ˈaɲos	noun	years	Tengo 8 años.	I'm eight years old.
+127	antes	ˈantes	adv	before; earlier	Llamé antes.	I called earlier.
+128	estar	esˈtaɾ	verb	to be	Aquí debe estar.	He's got to be here.
+129	ni	ˈni	conj	nor; not even	Yo ni voto.	I don't even vote.
+130	poco	ˈpoko	det	little; few	¿A poco sí?	Is that right?
+131	día	ˈdia	noun	day	¡Buen día!	Good day!
+132	uno	ˈuno	det	one; a	Tengo uno.	I have one.
+133	noche	ˈnot͡ʃe	noun	night	¡Qué noche!	What a night!
+134	hecho	ˈet͡ʃo	noun	fact; deed	Bien hecho.	Well done.
+135	mis	mis	det	my (plural)	Son mis primos.	They're my cousins.
+136	estamos	esˈtamos	verb	we are (estar)	Aquí estamos.	Here we are.
+137	otra	ˈotɾa	det	other; another (feminine)	Tomá otra.	Have another.
+138	acuerdo	aˈkweɾdo	noun	agreement	De acuerdo.	I agree.
+139	trabajo	tɾaˈbaxo	noun	work; job	Yo trabajo.	I work.
+140	nosotros	noˈsotɾos	pron	we	Ven a nosotros.	Come to us.
+141	parece	paˈɾeθe	verb	seems (parecer)	No parece, es.	It doesn't seem; it is.
+142	gente	ˈxente	noun	people	Son buena gente.	They're good people.
+143	sea	ˈsea	verb	be (subjunctive of ser)	Quien sea.	Anybody will do.
+144	padre	ˈpadɾe	noun	father	¡Qué padre!	Cool!
+145	mira	ˈmiɾa	verb	look at; look! (mirar)	Ven y mira.	Come and see.
+146	mismo	ˈmismo	adj	same; self	Sé tú mismo.	Be yourself.
+147	dijo	ˈdixo	verb	said (decir)	¿Qué dijo?	What did he say?
+148	nadie	ˈnadje	pron	nobody; no one	No vino nadie.	Nobody came.
+149	quiere	ˈkjeɾe	verb	wants (querer)	Si quiere.	If you like.
+150	podría	podría	verb	could (poder)	No podría parar.	I couldn't stop.
+151	hablar	aˈblaɾ	verb	to speak; to talk	Debo hablar.	I can talk.
+152	vas	ˈbas	verb	you go (ir)	¿Cómo vas?	How are you going?
+153	ellos	ˈeʝos	pron	they; them	Son ellos.	That's them.
+154	tal	ˈtal	adj	such	¿Qué tal tú?	And you?
+155	pasa	ˈpasa	verb	happens; passes (pasar)	¿Qué pasa?	What gives?
+156	fuera	ˈfweɾa	adv	outside	Sal fuera.	Come outside.
+157	después	desˈpwes	adv	after; later	¿Y después?	And afterward?
+158	han	ˈan	verb	they have (haber)	Se han ido.	They've left.
+159	desde	ˈdesde	prep	from; since	Vengo desde allí.	I come from there.
+160	dinero	diˈneɾo	noun	money	Roba dinero.	Steal money.
+161	mundo	ˈmundo	noun	world	¡Hola mundo!	Hello world!
+162	claro	ˈklaɾo	adv	of course; clearly	Sí, claro.	Yes, of course.
+163	momento	moˈmento	noun	moment	Un momento.	Stand by.
+164	les	les	pron	them; to them	No les creí.	I didn't believe them.
+165	tener	teˈneɾ	verb	to have	Quería tener hijos.	I wanted to have children.
+166	estado	esˈtado	noun	state	¿Es un estado?	Is it a state?
+167	otro	ˈotɾo	det	other; another	Tomá otro.	Have another.
+168	había	aˈbia	verb	there was; had (haber)	No había baño.	There was no bathroom.
+169	mañana	maˈɲana	noun	tomorrow; morning	Iré mañana.	I'll come tomorrow.
+170	tenía	teˈnia	verb	had (tener)	Él tenía sed.	He was thirsty.
+171	madre	ˈmadɾe	noun	mother	Eres mi madre.	You're my mother.
+172	vale	ˈbale	interj	okay; all right	¿Eso vale?	Does that count?
+173	lugar	luˈɡaɾ	noun	place	Hay lugar.	There's room.
+174	haciendo	aˈθjendo	verb	doing; making (gerund of hacer)	Lo sigo haciendo.	I still do that.
+175	donde	ˈdonde	adv	where	Iré donde ti.	I'll come to your place.
+176	seguro	seˈɡuɾo	adj	sure; safe	Es seguro.	It's a sure thing.
+177	sabe	ˈsabe	verb	knows (saber)	Nadie sabe.	No one knows.
+178	podemos	poˈdemos	verb	we can (poder)	Sí, podemos.	Yes, we can.
+179	tus	tus	det	your (plural)	Coge tus cosas.	Get your things.
+180	espera	esˈpeɾa	verb	waits; wait! (esperar)	¿Qué espera?	What does he expect?
+181	nuevo	ˈnwebo	adj	new	¿Es nuevo?	Is it new?
+182	sido	ˈsido	verb	been (past participle of ser)	He sido amado.	I have been loved.
+183	cosa	ˈkosa	noun	thing	Es cosa de dos.	It takes two to tango.
+184	hijo	ˈixo	noun	son; child	Es mi hijo.	He's my son.
+185	allí	aˈʝi	adv	there	Mira allí.	Look there.
+186	menos	ˈmenos	adv	less; fewer	Más o menos.	More or less.
+187	tipo	ˈtipo	noun	type; guy	Eres mi tipo.	You're my type.
+188	amigo	aˈmiɡo	noun	friend	Es mi amigo.	He's my friend.
+189	gran	ˈɡɾan	adj	great; big (apocope of grande)	¡Qué gran idea!	What a great idea!
+190	nuestro	ˈnwestɾo	det	our	Es nuestro.	It's ours.
+191	mujer	muˈxeɾ	noun	woman; wife	Soy mujer.	I'm a woman.
+192	mamá	maˈma	noun	mom; mum	Mary es mamá.	Mary is a mom.
+193	luego	ˈlweɡo	adv	then; later	Hasta luego.	See ya.
+194	papá	paˈpa	noun	dad	¡No, papá!	No, Dad!
+195	días	días	noun	days	Buenos días.	G'day.
+196	dice	ˈdiθe	verb	says (decir)	¿Cómo dice?	Pardon?
+197	hoy	ˈoi	adv	today	Pagaré hoy.	I'll pay today.
+198	tres	ˈtɾes	num	three	Casi tres.	Almost three.
+199	buena	ˈbwena	adj	good (feminine)	Sea buena.	Be good.
+200	necesito	necesito	verb	I need (necesitar)	Te necesito.	I need you.
+201	dije	ˈdixe	verb	I said (decir)	Te lo dije.	I told you.
+202	oye	ˈoʝe	verb	listen!; hey (oír)	Tom no oye nada.	Tom can't hear anything.
+203	gusta	ˈɡusta	verb	pleases; is pleasing (gustar)	¿Te gusta?	You like it?
+204	quería	quería	verb	wanted (querer)	Yo la quería.	I loved her.
+205	será	seˈɾa	verb	will be (ser)	No será fácil.	It won't be easy.
+206	haber	aˈbeɾ	verb	to have (auxiliary)	Debe de haber más.	There must be more.
+207	parte	ˈpaɾte	noun	part	¿Quién parte?	Who'll start?
+208	todas	ˈtodas	det	all (feminine plural)	De todas formas.	Anyway.
+209	crees	ˈkɾees	verb	you believe; you think (creer)	¿Le crees?	Do you believe him?
+210	buen	ˈbwen	adj	good (apocope of bueno)	¡Qué buen ojo!	Good catch.
+211	conmigo	komˈmiɡo	pron	with me	Ven conmigo.	Come with me.
+212	nombre	ˈnombɾe	noun	name	Sé su nombre.	I know his name.
+213	mierda	ˈmjeɾda	noun	shit	¿Qué mierda?	What the fuck?
+214	nuestra	ˈnwestɾa	det	our (feminine)	Es nuestra.	It is ours.
+215	mal	ˈmal	adv	badly	¿Está mal?	Do you feel bad?
+216	debe	ˈdebe	verb	must; owes (deber)	Ziri debe irse.	Ziri must go.
+217	realmente	reˌalˈmente	adv	really; actually	¿Viene realmente?	Are you really coming?
+218	estas	ˈestas	det	these (feminine)	Qué bando estas?	What side are you on?
+219	aún	aˈun	adv	still; yet	No, aún no.	No, not yet.
+220	mío	ˈmio	det	mine; my	No es mío.	It isn't mine.
+221	toda	ˈtoda	det	all (feminine)	Lloré toda la noche.	I cried all night.
+222	hacerlo	hacerlo	verb	to do it (hacer + lo)	Sé hacerlo.	I know how to do it.
+223	cada	ˈkada	det	each; every	Voy cada año.	I go every year.
+224	visto	ˈbisto	adj	seen	Lo he visto.	I've seen it.
+225	importa	importa	verb	matters (importar)	Me importa.	It is important for me.
+226	contigo	konˈtiɡo	pron	with you	¿Y contigo?	How about with you?
+227	tienen	ˈtjenen	verb	they have (tener)	¿Qué tienen?	What do you have?
+228	hemos	ˈemos	verb	we have (haber)	No hemos roto.	We didn't break up.
+229	razón	raˈθon	noun	reason	Tengo razón.	I'm right.
+230	alguna	alˈɡuna	det	some; any (feminine)	Ven alguna vez.	Come anytime.
+231	tanto	ˈtanto	adv	so much; so	Dolió tanto.	It hurt so much.
+232	saber	saˈbeɾ	verb	to know	Házmelo saber.	Let me know.
+233	hizo	ˈiθo	verb	did; made (hacer)	Él lo hizo.	He did it.
+234	veces	ˈbeθes	noun	times; occasions	A veces pasa.	It happens sometimes.
+235	serio	ˈseɾjo	adj	serious	¿En serio?	Really?
+236	ven	ˈben	verb	come! (venir)	Tú, ven acá.	You, come here.
+237	idea	iˈdea	noun	idea	¡Qué idea!	What an idea!
+238	eh	ˈe	interj	eh; hey	Impactante, ¿eh?	Isn't that terrific?
+239	tarde	ˈtaɾde	adv	late	Muy tarde.	Too late.
+240	problema	pɾoˈblema	noun	problem	Sin problema.	No problem.
+241	hora	ˈoɾa	noun	hour; time	Es la hora.	It's time.
+242	cierto	ˈθjeɾto	adj	certain; true	Es cierto.	It's true.
+243	dicho	ˈdit͡ʃo	adj	said; aforementioned	¡Bien dicho!	Well said!
+244	quien	ˈkjen	pron	who	Ya sé quien sos.	I already know who you are.
+245	demasiado	demaˈsjado	adv	too much; too	Comí demasiado.	I ate too much.
+246	amor	aˈmoɾ	noun	love	Sí, mi amor.	Yes, my love.
+247	entre	ˈentɾe	prep	between	Ahora entre.	Now get in.
+248	ve	ˈbe	verb	see! (ver)	¿Se ve mal?	Does it look bad?
+249	pasado	paˈsado	adj	past; last	Ya ha pasado.	That's over.
+250	familia	faˈmilja	noun	family	Son familia.	They're family.
+251	estos	ˈestos	det	these (masculine)	Pruébate estos.	Try these on.
+252	policía	poliˈθia	noun	police; police officer	Soy policía.	I'm a policeman.
+253	debería	debeˈɾia	verb	should (deber)	Me debería ir.	I should go.
+254	ustedes	usˈtedes	pron	you (plural)	¿Y ustedes?	And you?
+255	chica	ˈt͡ʃika	noun	girl	Soy una chica.	I'm a girl.
+256	esos	ˈesos	det	those (masculine)	Deme esos.	Give me those.
+257	chicos	chicos	noun	boys; guys	Son chicos.	They're boys.
+258	cuenta	ˈkwenta	noun	account; bill; count	Eso no cuenta.	That doesn't count.
+259	haces	ˈaθes	verb	you do; you make (hacer)	¿Qué haces?	What do you make?
+260	todavía	todaˈbia	adv	still; yet	¿Ya o todavía no?	Already, or not yet?
+261	salir	saˈliɾ	verb	to go out; to leave	Le oí salir.	I heard him go out.
+262	algún	alˈɡun	det	some; any	¿Hay algún otro?	Is there another?
+263	vaya	ˈbaʝa	interj	wow; come on	Oiga, no vaya.	Hey, don't go.
+264	unos	ˈunos	det	some; a few	Sois unos niños.	You are children.
+265	veo	ˈbeo	verb	I see (ver)	No lo veo.	I don't see it.
+266	amigos	aˈmiɡos	noun	friends	Son amigos.	They're friends.
+267	hermano	eɾˈmano	noun	brother	Es mi hermano.	He's my brother.
+268	pensé	pensé	verb	I thought (pensar)	Es lo que pensé.	I thought as much.
+269	sabía	sabía	verb	knew (saber)	¡Lo sabía!	I knew it!
+270	cabeza	kaˈbeθa	noun	head	¡Usa la cabeza!	Use your head!
+271	ah	ˈa	interj	ah		
+272	cariño	kaˈɾiɲo	noun	affection; darling	Hola, cariño.	Hello, Honey.
+273	digo	ˈdiɡo	verb	I say (decir)	¡Sólo digo!	I'm just saying!
+274	van	ˈban	verb	they go (ir)	¿Ya se van?	You're leaving already?
+275	hombres	ˈombɾes	noun	men	Somos hombres.	We are men.
+276	buenas	ˈbwenas	interj	hello	Sed buenas.	Be good.
+277	somos	ˈsomos	verb	we are (ser)	Así somos.	That's how we are.
+278	cualquier	kwalˈkjeɾ	det	any; whatever	De cualquier forma.	By all means.
+279	forma	ˈfoɾma	noun	way; shape; form	¡De esa forma!	That way!
+280	mientras	ˈmjentɾas	conj	while	Viva mientras pueda.	Live while you can.
+281	lado	ˈlado	noun	side	¡A un lado!	Stand aside!
+282	debo	ˈdebo	verb	I must; I owe (deber)	Se lo debo.	I owe it to her.
+283	sería	seˈɾia	verb	would be (ser)	Yo sería amado.	I would be loved.
+284	caso	ˈkaso	noun	case	Hazme caso.	Pay attention to me.
+285	pueden	ˈpweden	verb	they can (poder)	No pueden verme.	They can't see me.
+286	pasó	paˈso	verb	happened (pasar)	¿Qué pasó?	What happened?
+287	primera	pɾiˈmeɾa	adj	first (feminine)	Tú primera.	You go first.
+288	genial	xeˈnjal	adj	great; brilliant	Eres genial.	You're great.
+289	chico	ˈt͡ʃiko	noun	boy; guy	Buen chico.	That a boy!
+290	supuesto	suˈpwesto	adj	supposed	Por supuesto.	Certainly.
+291	hice	ˈiθe	verb	I did; I made (hacer)	¿Qué hice?	What did I do?
+292	pues	ˈpwes	conj	well; so; then	Si tiene hambre, pues coma.	If you're hungry, then eat.
+293	adiós	aˈdjos	interj	goodbye	Decí adiós.	Say goodbye.
+294	muchas	ˈmut͡ʃas	det	many (feminine)	Sé muchas cosas.	I know a lot of things.
+295	personas	personas	noun	people; persons	Somos personas.	We're people.
+296	señora	seˈɲoɾa	noun	lady; Mrs.	Sí, señora.	Yes, mistress.
+297	volver	bolˈbeɾ	verb	to return; to come back	Debo volver.	I must go back.
+298	esas	ˈesas	det	those (feminine)	Es una de esas.	It's one of those.
+299	quizá	kiˈθa	adv	maybe; perhaps	Quizá sí, quizá no…	Maybe, maybe not...
+300	contra	kontɾa	prep	against	Solo contra todos.	Alone against everybody.
+301	camino	kaˈmino	noun	path; road; way	Yo camino.	I walk.
+302	durante	duˈɾante	prep	during	Llovió durante días.	It rained for days.
+303	hablando	aˈblando	verb	speaking (gerund of hablar)	Estoy hablando.	I'm talking.
+304	manera	maˈneɾa	noun	way; manner	Hay manera.	That's one way to do it.
+305	muerto	ˈmweɾto	adj	dead	Está muerto.	He's dead.
+306	persona	peɾˈsona	noun	person	Soy una persona.	I am a man.
+307	rápido	ˈrapido	adv	fast; quickly	¡Ve rápido!	Go fast!
+308	cuál	ˈkwal	pron	which; what	¿En cuál calle?	In which street?
+309	ayuda	aˈʝuda	noun	help	Eso ayuda.	It helps.
+310	historia	isˈtoɾja	noun	story; history	Esa es la historia.	That's the story.
+311	iba	ˈiba	verb	was going (ir)	Ya me iba.	I was just leaving.
+312	supongo	supongo	verb	I suppose (suponer)	Lo supongo.	I guess so.
+313	nueva	ˈnweba	adj	new (feminine)	¿Eres nueva?	Are you new?
+314	entiendo	entiendo	verb	I understand (entender)	No entiendo.	I don't get it.
+315	dentro	ˈdentɾo	adv	inside; within	Están dentro.	They're inside.
+316	casi	ˈkasi	adv	almost; nearly	Ya casi está.	Nearly finished.
+317	puerta	ˈpweɾta	noun	door	Abre la puerta.	Just open the door.
+318	ves	ˈbes	verb	you see (ver)	Te ves sano.	You look healthy.
+319	pasar	paˈsaɾ	verb	to pass; to happen; to spend	Deja pasar.	Move over.
+320	primero	pɾiˈmeɾo	adv	first	Tú primero.	After you.
+321	significa	siɡniˈfika	verb	means (significar)	¿Qué significa?	What does it mean?
+322	semana	seˈmana	noun	week	Es fin de semana.	It's the weekend.
+323	hacia	ˈaθja	prep	toward	Id hacia el sur.	Head south.
+324	quizás	kiˈθas	adv	maybe; perhaps	Quizás vaya, quizás no.	Maybe I'll go, and maybe I won't.
+325	espero	esˈpeɾo	verb	I hope; I wait (esperar)	Te espero.	I'll wait for you.
+326	juntos	juntos	adj	together	Venid juntos.	Come together.
+327	año	ˈaɲo	noun	year	¡Feliz año!	Happy New Year!
+328	niños	ˈniɲos	noun	children; kids	Son niños.	They're children.
+329	pronto	ˈpɾonto	adv	soon	Ven pronto.	Come here soon.
+330	tío	ˈtio	noun	uncle; guy	Es mi tío.	He's my uncle.
+331	suerte	ˈsweɾte	noun	luck	Tuve suerte.	I was lucky.
+332	ciudad	θjuˈdad	noun	city	Deja la ciudad.	Leave town.
+333	siquiera	siˈkjeɾa	adv	even; at least	Ni siquiera lo vi.	I didn't even see it.
+334	feliz	feˈliθ	adj	happy	Soy feliz.	I'm happy.
+335	venir	beˈniɾ	verb	to come	Hazlo venir.	Have him come.
+336	hija	ˈixa	noun	daughter	Eres mi hija.	You're my daughter.
+337	gustaría	gustaría	verb	would like (gustar)	Te gustaría.	You'd like it.
+338	minutos	minutos	noun	minutes	Dame dos minutos.	Give me two minutes.
+339	cuánto	ˈkwanto	adv	how much	¿A cuánto queda?	How far?
+340	os	os	pron	you (plural; Spain)	No os culpo.	I don't blame you.
+341	hey	ˈei	interj	hey		
+342	muerte	ˈmweɾte	noun	death	Huí de la muerte.	I escaped death.
+343	dejar	deˈxaɾ	verb	to leave; to let	No te voy a dejar.	I am not leaving you.
+344	realidad	realiˈdad	noun	reality	En realidad.	In fact.
+345	deja	ˈdexa	verb	leaves; lets (dejar)	¿Me deja verles?	Can I see them?
+346	problemas	pɾoˈblemas	noun	problems	¡Sin problemas!	No problem!
+347	vi	ˈbi	verb	I saw (ver)	No vi nada.	I didn't see anything.
+348	da	ˈda	verb	gives (dar)	Me da igual.	I don't care.
+349	importante	impoɾˈtante	adj	important	Es importante.	It's important.
+350	dijiste	diˈxiste	verb	you said (decir)	¿Le dijiste?	Did you tell him?
+351	corazón	koɾaˈθon	noun	heart	Te amo, corazón.	I love you, sweetheart.
+352	miedo	ˈmjedo	noun	fear	Das miedo.	You are scary.
+353	jefe	ˈxefe	noun	boss; chief	Era mi jefe.	He was my boss.
+354	agua	ˈaɡwa	noun	water	Dame agua.	Give me water.
+355	haré	aˈɾe	verb	I will do; I will make (hacer)	¿Qué haré?	What will I do?
+356	justo	ˈxusto	adj	fair; just	Soy justo.	I'm fair.
+357	horas	horas	noun	hours	Llevará horas.	It'll take hours.
+358	poder	poˈdeɾ	verb	to be able; can	Desearía poder.	I wish I could.
+359	buenos	ˈbwenos	adj	good (masculine plural)	Son buenos.	They're good.
+360	esposa	esˈposa	noun	wife	Es mi esposa.	She's my wife.
+361	manos	manos	noun	hands	¡Baja las manos!	Put your hands down!
+362	debes	ˈdebes	verb	you must; you owe (deber)	Sí, debes.	Yes, you must.
+363	viene	ˈbjene	verb	comes (venir)	Aquí viene.	Here he comes.
+364	venga	ˈbenɡa	interj	come on; go ahead	Ojalá venga.	Let's hope she comes.
+365	nuestros	ˈnwestɾos	det	our (masculine plural)	Son nuestros amigos.	They're our friends.
+366	ojos	ˈoxos	noun	eyes	Abre los ojos.	Get real.
+367	adelante	adeˈlante	adv	forward; go ahead	Sigamos adelante.	Let's push on.
+368	encontrar	enkonˈtɾaɾ	verb	to find	Me van a encontrar.	They'll find me.
+369	mano	ˈmano	noun	hand	¿Qué, mano?	Bruh, what?
+370	cinco	ˈθinko	num	five	Son las cinco.	It's five o'clock.
+371	niño	ˈniɲo	noun	child; boy	Veo al niño.	I see the boy.
+372	ninguna	ninˈɡuna	det	no; none (feminine)	No hay ninguna.	There aren't any.
+373	otros	ˈotɾos	det	others; other	Mostrame otros.	Show me some others.
+374	cara	ˈkaɾa	noun	face	Lávate la cara.	Wash your face.
+375	cuidado	kwiˈdado	noun	care; watch out	Ten cuidado.	Watch yourself.
+376	bajo	ˈbaxo	prep	under; below	Eres bajo.	You are short.
+377	cerca	ˈθeɾka	adv	close; near	Está cerca.	It's close.
+378	viejo	ˈbjexo	adj	old	Soy viejo.	I'm old.
+379	déjame	déjame	verb	let me (dejar + me)	Solo déjame solo.	Just leave me alone.
+380	noches	noches	noun	nights	Buenas noches.	Goodnight.
+381	bastante	basˈtante	adv	quite; enough	Habrá bastante.	There'll be plenty.
+382	fin	ˈfin	noun	end	Al fin cedió.	At last he yielded.
+383	tomar	toˈmaɾ	verb	to take; to drink	¿Va a tomar pan?	Would you like bread?
+384	único	ˈuniko	adj	only; unique	Soy único.	I'm unique.
+385	misma	misma	adj	same (feminine)	Sé tú misma.	Be yourself.
+386	escucha	esˈkut͡ʃa	verb	listen! (escuchar)	Tom escucha.	Tom listens.
+387	ningún	ninˈɡun	det	no; none	¡De ningún modo!	No way!
+388	suficiente	sufiˈθjente	adj	enough; sufficient	Es suficiente.	That's enough.
+389	punto	ˈpunto	noun	point	¡Buen punto!	Good catch.
+390	cuándo	ˈkwando	adv	when	¿Desde cuándo?	Since when?
+391	sigue	ˈsiɡe	verb	continues; follows (seguir)	¿Qué sigue?	What's next?
+392	haya	ˈaʝa	verb	be (subjunctive of haber)	¡Que haya paz!	Let there be peace!
+393	equipo	eˈkipo	noun	team; equipment	¡Qué equipo!	What a team!
+394	grande	ˈɡɾande	adj	big; large	Es grande.	It's big.
+395	necesita	neθeˈsita	verb	needs (necesitar)	Lo necesita.	He needs it.
+396	llegar	ʝeˈɡaɾ	verb	to arrive	Acabo de llegar.	I just arrived now.
+397	incluso	inˈkluso	adv	even; including	Me riñó incluso mi esposa.	I even got scolded by my wife.
+398	algunos	alˈɡunos	det	some	Dame algunos.	Give me a few.
+399	doctor	doɡˈtoɾ	noun	doctor	Soy doctor.	I'm a doctor.
+400	difícil	diˈfiθil	adj	difficult	Es difícil.	It's difficult.
+401	aunque	ˈaunke	conj	although; even though	Iré aunque llueva.	I will go even if it rains.
+402	hubiera	uˈbjeɾa	verb	had (subjunctive of haber)	Me hubiera agradado.	I would've liked that.
+403	primer	pɾiˈmeɾ	adj	first	Es mi primer día.	It's my first day.
+404	coche	ˈkot͡ʃe	noun	car	Es su coche.	That's her car.
+405	hago	ˈaɡo	verb	I do; I make (hacer)	¿Qué hago?	What do I do?
+406	clase	ˈklase	noun	class; lesson	No fue a clase.	He didn't go to class.
+407	cuatro	ˈkwatɾo	num	four	Son las cuatro.	It's four o'clock.
+408	mas	mas	conj	but	Qué piernas mas sexis tienes.	You have very sexy legs.
+409	dices	ˈdiθes	verb	you say (decir)	¿Qué dices?	What say you?
+410	pequeño	peˈkeɲo	adj	small; little	Eres pequeño.	You're small.
+411	llama	ˈʝama	verb	calls (llamar)	¿Quién llama?	Who's calling?
+412	toma	ˈtoma	verb	take! (tomar)	Él toma té.	He is drinking tea.
+413	hiciste	iˈθiste	verb	you did; you made (hacer)	¡Lo hiciste!	You did it!
+414	allá	aˈʝa	adv	there	Viven allá.	They live there.
+415	última	ˈultima	adj	last (feminine)	Quedé última.	I came last.
+416	arriba	aˈriba	adv	up; above	Está arriba.	He's upstairs.
+417	tierra	ˈtjera	noun	earth; land	La tierra gira.	The earth rotates.
+418	guerra	ˈɡera	noun	war	No a la guerra.	No to war.
+419	pensar	penˈsaɾ	verb	to think	Duele pensar.	It hurts to think.
+420	pueda	ˈpweda	verb	can (subjunctive of poder)	Tal vez pueda.	Maybe she can.
+421	igual	iˈɡwal	adj	equal; same	Me da igual.	I don't care.
+422	loco	ˈloko	adj	crazy	Está loco.	He's crazy.
+423	sangre	ˈsanɡɾe	noun	blood	Done sangre.	Donate blood.
+424	mujeres	muˈxeɾes	noun	women	Somos mujeres.	We are women.
+425	vuelta	ˈbwelta	noun	turn; return	Da la vuelta.	Turn around.
+426	fui	ˈfwi	verb	I was; I went (ser; ir)	Yo no fui.	It wasn't me.
+427	trabajar	tɾabaˈxaɾ	verb	to work	Odio trabajar.	I hate working.
+428	tenido	teˈnido	verb	had (past participle of tener)	Yo lo he tenido.	I have had it.
+429	juego	ˈxweɡo	noun	game	¡Mal juego!	Bad game!
+430	deberías	debeˈɾias	verb	you should (deber)	No deberías ir.	You shouldn't go.
+431	cuerpo	ˈkweɾpo	noun	body	Es tu cuerpo.	It's your body.
+432	algunas	alˈɡunas	det	some (feminine)	Tengo algunas casas.	I have some houses.
+433	entrar	enˈtɾaɾ	verb	to enter; to go in	No entrar.	Keep out.
+434	cree	ˈkɾee	verb	believes; thinks (creer)	¿Usted cree?	Do you think so?
+435	podía	poˈdia	verb	could (poder)	No podía ir.	I couldn't go.
+436	debemos	deˈbemos	verb	we must (deber)	Nos debemos ir.	We must go.
+437	oportunidad	opoɾtuniˈdad	noun	opportunity; chance	Deme una oportunidad.	Give me a chance.
+438	teléfono	teˈlefono	noun	telephone; phone	Coge el teléfono.	Answer the phone.
+439	necesitamos	necesitamos	verb	we need (necesitar)	Te necesitamos.	We need you.
+440	final	fiˈnal	adj	final	Al final fracasé.	I failed after all.
+441	listo	ˈlisto	adj	ready; smart	Soy listo.	I'm wise.
+442	fiesta	ˈfjesta	noun	party	Es mi fiesta.	It's my party.
+443	muchos	ˈmut͡ʃos	det	many	Leo muchos libros.	I read a lot of books.
+444	estabas	esˈtabas	verb	you were (estar)	¿Dónde estabas?	Where were you?
+445	quieren	quieren	verb	they want (querer)	Me quieren.	They want me.
+446	vete	ˈbete	verb	go away (ir + te)	Mejor vete.	You'd better go.
+447	auto	ˈauto	noun	car	Iré en auto.	I'll go by car.
+448	dar	ˈdaɾ	verb	to give	Quiero dar.	I want to give.
+449	vivir	biˈbiɾ	verb	to live	Quiero vivir.	I want to live.
+450	posible	poˈsible	adj	possible	¿Es posible?	Is it possible?
+451	hermana	eɾˈmana	noun	sister	¡Y tu hermana!	And your sister!
+452	número	ˈnumeɾo	noun	number	Dame el número.	Give me the number.
+453	meses	meses	noun	months	Dadme tres meses.	Give me three months.
+454	exactamente	eɡˌsaɡtaˈmente	adv	exactly	No sé exactamente.	I don't know exactly.
+455	culpa	ˈkulpa	noun	fault; blame	Es tu culpa.	It's your fault.
+456	abajo	aˈbaxo	adv	down; below	Firme abajo.	Sign it at the bottom.
+457	escuela	esˈkwela	noun	school	Odio la escuela.	I hate school.
+458	ido	ˈido	verb	gone (past participle of ir)	Yo he ido.	I have gone.
+459	fuerte	ˈfweɾte	adj	strong; loud	Sé fuerte.	Be brave.
+460	diciendo	diˈθjendo	verb	saying (gerund of decir)	¿Qué está diciendo?	What is he saying?
+461	habla	ˈabla	verb	speaks (hablar)	¡Cómo habla!	How she talks!
+462	esté	esˈte	verb	be (subjunctive of estar)	Espero que esté bien.	I hope he'll be OK.
+463	ello	ˈeʝo	pron	it	Ponte a ello.	Get to it.
+464	pregunta	pɾeˈɡunta	noun	question	Buena pregunta.	Good question!
+465	chicas	chicas	noun	girls	Hola, chicas.	Hi, girls.
+466	eran	ˈeɾan	verb	they were (ser)	¿Cuántos eran?	How many were they?
+467	unas	ˈunas	det	some (feminine)	Dame unas pocas.	Give me a few.
+468	pasando	pasando	verb	happening; passing (gerund of pasar)	¿Está pasando?	Is it happening?
+469	atrás	aˈtɾas	adv	back; behind	Mira atrás.	Look back.
+470	malo	ˈmalo	adj	bad	Eres malo.	You're mean.
+471	capitán	kapiˈtan	noun	captain	Soy el capitán.	I'm the captain.
+472	bebé	beˈbe	noun	baby	Es mi bebé.	That's my doll.
+473	segundo	seˈɡundo	adj	second	¡Un segundo!	Hang on!
+474	sabemos	saˈbemos	verb	we know (saber)	No sabemos.	We don't know.
+475	mayor	maˈʝoɾ	adj	older; bigger	Tom es mayor.	Tom's older.
+476	comida	koˈmida	noun	food; meal	La comida!	Food!
+477	morir	moˈɾiɾ	verb	to die	Deben morir.	They must die.
+478	conozco	koˈnoθko	verb	I know (conocer)	Lo conozco.	I know him.
+479	dame	ˈdame	verb	give me (dar + me)	Tom, dame el pan.	Tom, give me the bread.
+480	fácil	ˈfaθil	adj	easy	¡Es fácil!	This is easy!
+481	comer	koˈmeɾ	verb	to eat	Puedo comer.	I can eat.
+482	vino	ˈbino	verb	came (venir)	Ella vino.	She came.
+483	lista	ˈlista	adj	ready (feminine)	Sos lista.	You're smart.
+484	haga	ˈaɡa	verb	do; make (subjunctive of hacer)	¡No lo haga!	Don't do it!
+485	necesitas	necesitas	verb	you need (necesitar)	Lo necesitas.	You need it.
+486	hijos	ˈixos	noun	children; sons	¿Tiene hijos?	Do you have kids?
+487	probablemente	pɾoˌbableˈmente	adv	probably	Ella probablemente vendrá.	She'll probably come.
+488	padres	ˈpadɾes	noun	parents; fathers	Somos padres.	We're parents.
+489	habitación	abitaˈθjon	noun	room	Barre mi habitación.	Sweep my room.
+490	creer	kɾeˈeɾ	verb	to believe	Quiero creer.	I want to believe.
+491	pensando	penˈsando	verb	thinking (gerund of pensar)	Estoy pensando.	I'm thinking.
+492	fueron	ˈfweɾon	verb	they were; they went (ser; ir)	Se fueron.	They left.
+493	dime	ˈdime	verb	tell me (decir + me)	¡Oh, dime tu nombre!	Oh, tell me your name!
+494	trata	ˈtɾata	verb	tries; treats (tratar)	¿De qué trata?	What is it about?
+495	buscando	busˈkando	verb	looking for (gerund of buscar)	Sigue buscando.	Keep searching.
+496	tuve	ˈtube	verb	I had (tener)	No tuve miedo.	I wasn't frightened.
+497	tampoco	tamˈpoko	adv	neither; either	Yo tampoco.	Me neither.
+498	amo	ˈamo	noun	master; owner	Yo lo amo.	I love him.
+499	joven	ˈxoben	adj	young	Soy joven.	I'm young.
+500	podrías	podrías	verb	you could (poder)	Sabía que podrías.	I knew you would.
+501	sola	ˈsola	adj	alone (feminine)	Estoy sola.	I'm alone.
+502	par	ˈpaɾ	adj	even (divisible by two)	¡Un par más!	A couple more!
+503	única	ˈunika	adj	only; unique (feminine)	Soy única.	I'm unique.
+504	hacen	ˈaθen	verb	they do; they make (hacer)	¿Qué hacen?	What are they doing?
+505	seguir	seˈɡiɾ	verb	to follow; to continue	¿Vas a seguir?	Are you going along?
+506	simplemente	ˌsimpleˈmente	adv	simply	Es simplemente obvio.	It's simply obvious.
+507	dicen	ˈdiθen	verb	they say (decir)	¿Qué dicen?	What are they saying?
+508	medio	ˈmedjo	noun	means; medium; half	Es medio pelo.	It's mediocre.
+509	puta	ˈputa	noun	whore; slut	Pinche puta.	Fucking whore.
+510	saben	ˈsaben	verb	they know (saber)	¿No saben?	Don't you know?
+511	sentido	senˈtido	noun	sense; meaning	Tiene sentido.	Makes sense.
+512	hagas	ˈaɡas	verb	do; make (subjunctive of hacer)	No lo hagas.	Don't do this.
+513	segura	seˈɡuɾa	adj	safe; sure (feminine)	¿Está segura?	Are you sure?
+514	esperar	espeˈɾaɾ	verb	to wait; to hope	Voy a esperar.	I'm going to wait.
+515	lejos	ˈlexos	adv	far; far away	¡Qué lejos!	So far!
+516	arma	ˈaɾma	noun	weapon; gun	Es un arma.	It's a weapon.
+517	alto	ˈalto	adj	tall; high; stop!	Él es alto.	He is tall.
+518	pequeña	peˈkeɲa	adj	small; little (feminine)	Mi casa es pequeña.	My house is small.
+519	dólares	ˈdolaɾes	noun	dollars	Te doy 5 dólares.	I'll give you five dollars.
+520	seis	ˈseis	num	six	Son las seis.	It's six o'clock.
+521	estaban	esˈtaban	verb	they were (estar)	¿Dónde estaban?	Where were they?
+522	seguridad	seɡuɾiˈdad	noun	safety; security	Ten seguridad.	Be confident.
+523	maldita	malˈdita	adj	damned; cursed (feminine)	¡Apaga la maldita cámara!	Turn off the damn camera!
+524	estuvo	esˈtubo	verb	was (preterite of estar)	Nada estuvo mal.	Nothing was wrong.
+525	preocupes	preocupes	verb	worry (subjunctive of preocupar)	No te preocupes.	Don't worry.
+526	palabra	paˈlabɾa	noun	word	Di mi palabra.	I gave my word.
+527	esperando	espeˈɾando	verb	waiting; hoping (gerund of esperar)	Está esperando.	He is waiting.
+528	queda	ˈkeda	verb	stays; remains (quedar)	No me queda.	It doesn't fit me.
+529	oficina	ofiˈθina	noun	office	¿Voy a tu oficina?	Shall I come to your office?
+530	matar	maˈtaɾ	verb	to kill	Te voy a matar.	I'll kill you.
+531	iré	iˈɾe	verb	I will go (ir)	No me iré.	I won't leave.
+532	cama	ˈkama	noun	bed	Haz tu cama.	Make your bed.
+533	además	adeˈmas	adv	besides; in addition	Es astuto, y además, es guapo.	He is clever, and moreover, he is handsome.
+534	último	ˈultimo	adj	last; final	Quedé último.	I came last.
+535	oído	oˈido	noun	ear; hearing	Te he oído.	I heard you.
+536	habría	aˈbɾia	verb	would have (haber)	Lo habría hecho.	I would've done it.
+537	estará	estaˈɾa	verb	will be (estar)	Tom estará ahí.	Tom will be there.
+538	dio	ˈdjo	verb	gave (dar)	Me dio sed.	I got thirsty.
+539	recuerdo	reˈkweɾdo	noun	memory	Te recuerdo.	I remember you.
+540	siendo	ˈsjendo	verb	being (gerund of ser)	Estás siendo evasivo.	You're being evasive.
+541	acerca	aˈθeɾka	adv	about; concerning (as in "acerca de")	Tom se acerca.	Tom approaches.
+542	tenga	ˈtenɡa	verb	have (subjunctive of tener)	Tal vez lo tenga.	Maybe he has it.
+543	luz	ˈluθ	noun	light	Veo una luz.	I see a light.
+544	correcto	koˈreɡto	adj	correct; right	Es correcto.	It's right.
+545	demonios	deˈmonjos	interj	damn; hell	¡Mil demonios!	Oh crap!
+546	nuestras	ˈnwestɾas	det	our (feminine plural)	Estas son nuestras.	These are ours.
+547	verte	ˈbeɾte	verb	to see you	Puedo verte.	I can see you.
+548	dormir	doɾˈmiɾ	verb	to sleep	Voy a dormir.	I'm going to sleep.
+549	sitio	ˈsitjo	noun	place; site	Deja sitio.	Move over.
+550	ayudar	aʝuˈdaɾ	verb	to help	Debo ayudar.	I have to help.
+551	conseguir	konseˈɡiɾ	verb	to get; to achieve	Necesito conseguir uno.	I need to get one.
+552	di	ˈdi	verb	say! (imperative of decir)	Le di todo.	I gave her everything.
+553	marido	maˈɾido	noun	husband	Él es mi marido.	He's my husband.
+554	paz	ˈpaθ	noun	peace	Amor y paz.	Love and Peace.
+555	idiota	iˈdjota	adj	idiotic; stupid	Eres idiota.	You're an idiot.
+556	plan	ˈplan	noun	plan	Tengo un plan.	I've got a plan.
+557	dado	ˈdado	prep	given	Tira el dado.	Throw the dice.
+558	cuanto	ˈkwanto	det	as much; as many	Aré cuanto pude.	I plowed as much as I could.
+559	peor	peˈoɾ	adj	worse; worst	Se pone peor.	It gets worse.
+560	murió	muˈɾjo	verb	died (morir)	Tom murió.	Tom died.
+561	pueblo	ˈpweblo	noun	town; village; people	Al pueblo.	To the village.
+562	vivo	ˈbibo	adj	alive; living	Sigo vivo.	I'm still alive.
+563	venido	beˈnido	verb	come (past participle of venir)	¡Ha venido!	He has come!
+564	basta	ˈbasta	interj	enough!	¡Ya basta!	Enough already!
+565	paso	ˈpaso	noun	step; pass	Ceda el paso.	Let me pass.
+566	deberíamos	debeˈɾiamos	verb	we should (deber)	Todos deberíamos ir.	All of us should go.
+567	música	ˈmusika	noun	music	Soy música.	I'm a musician.
+568	diga	ˈdiɡa	verb	say (subjunctive of decir)	¡No me diga!	Don't talk to me!
+569	minuto	miˈnuto	noun	minute	Un minuto.	Just a minute.
+570	anoche	aˈnot͡ʃe	adv	last night	Heló anoche.	It frosted last night.
+571	llamar	ʝaˈmaɾ	verb	to call	Quiero llamar...	I want to call...
+572	piensa	piensa	verb	thinks (pensar)	¿Ya piensa irse?	Are you already thinking of leaving?
+573	país	paˈis	noun	country	¡Qué país!	What a country!
+574	digas	ˈdiɡas	verb	say (subjunctive of decir)	No me digas.	Duh.
+575	rey	ˈrei	noun	king	Soy tu rey.	I am your king.
+576	perdón	peɾˈdon	noun	pardon; forgiveness	Pido perdón.	Excuse me.
+577	mucha	ˈmut͡ʃa	det	much; a lot of (feminine)	Usa mucha miel.	He uses a lot of honey.
+578	falta	ˈfalta	noun	lack; absence; fault	¿Qué falta?	What is missing?
+579	pienso	ˈpjenso	verb	I think (pensar)	Eso pienso yo.	I do think so.
+580	diablos	ˈdjablos	interj	damn; hell	¿Qué diablos haces?	What on earth are you doing?
+581	perdido	peɾˈdido	adj	lost	He perdido.	I've lost.
+582	niña	ˈniɲa	noun	girl; child (feminine)	Es una niña.	She's a girl.
+583	señorita	seɲoˈɾita	noun	miss; young lady	La señorita quiere esto.	The young lady wants this.
+584	diez	ˈdjeθ	num	ten	Éramos diez.	There were ten of us.
+585	lleva	ˈʝeba	verb	carries; takes; wears (llevar)	Él lleva gafas.	He wears glasses.
+586	hospital	ospiˈtal	noun	hospital	Ve al hospital.	Go to the hospital.
+587	grandes	ˈɡɾandes	adj	big; large (plural)	Son grandes.	They're big.
+588	maldito	malˈdito	adj	damned; cursed	El anillo está maldito.	The ring is cursed.
+589	otras	ˈotɾas	det	others; other (feminine plural)	¿Hay otras opciones?	Are there other options?
+590	llamado	ʝaˈmado	adj	called; named	Te he llamado.	I called you.
+591	hacemos	aˈθemos	verb	we do; we make (hacer)	No hacemos nada.	We don't do anything.
+592	llevar	ʝeˈbaɾ	verb	to carry; to take; to wear	¿Para llevar?	Is it to go?
+593	fuego	ˈfweɡo	noun	fire	¿Tienes fuego?	Do you have a light?
+594	aqui	aqui	adv	here		
+595	tuvo	ˈtubo	verb	had (preterite of tener)	Tom tuvo sed.	Tom was thirsty.
+596	poner	poˈneɾ	verb	to put; to place	Lo puede poner ahí.	You can put it there.
+597	calle	ˈkaʝe	noun	street	¡A la calle!	Go away!
+598	acaba	aˈkaba	verb	finishes; ends (acabar)	¿Cúando acaba?	When does it end?
+599	prueba	ˈpɾweba	noun	proof; test; evidence	Él prueba.	He tries.
+600	increíble	inkɾeˈible	adj	incredible; unbelievable	Es increíble.	It's incredible.
+601	real	reˈal	adj	real; royal	¿Sos real?	Are you real?
+602	libro	ˈlibɾo	noun	book	Es tu libro.	It's your book.
+603	orden	ˈoɾden	noun	order; command	Es una orden.	This is an order.
+604	semanas	seˈmanas	noun	weeks	En unas dos semanas.	In about two weeks.
+605	especial	espeˈθjal	adj	special	Nada especial.	Nothing special.
+606	mía	ˈmia	det	mine; my (feminine)	Culpa mía.	My bad.
+607	café	kaˈfe	noun	coffee	Haré café.	I'll make coffee.
+608	duro	ˈduɾo	adj	hard; tough	Eres duro.	You're tough.
+609	empezar	empeˈθaɾ	verb	to start; to begin	Voy a empezar.	I'm going to start.
+610	afuera	aˈfweɾa	adv	outside; out	Están afuera.	They're outside.
+611	queremos	queremos	verb	we want (querer)	Lo queremos.	We want it.
+612	perro	ˈpero	noun	dog	Es mi perro.	It is my dog.
+613	cielo	ˈθjelo	noun	sky; heaven	¡Santo cielo!	Good grief!
+614	puesto	ˈpwesto	noun	position; post; stand; job	Se ha puesto frío.	It's got cold.
+615	viaje	biˈaxe	noun	trip; journey	¡Buen viaje!	Bon voyage!
+616	detrás	deˈtɾas	adv	behind	Está detrás de él.	I'm behind him.
+617	cuarto	ˈkwaɾto	noun	room; quarter	¿Tiene cuarto?	Do you have a vacancy?
+618	querida	keˈɾida	adj	dear (feminine)	No mientas, querida.	Don't lie, Honey.
+619	haría	aˈɾia	verb	would do; would make (hacer)	Tom lo haría.	Tom would do it.
+620	preguntas	preguntas	noun	questions	¿Hay preguntas?	Any questions?
+621	piensas	piensas	verb	you think (pensar)	¿Qué piensas?	What's your position?
+622	querido	keˈɾido	adj	dear	No es muy querido.	He isn't well-liked.
+623	libre	ˈlibɾe	adj	free	¡Soy libre!	I'm free!
+624	buscar	busˈkaɾ	verb	to look for; to search	Supe dónde buscar.	I knew where to seek.
+625	cual	ˈkwal	pron	which; who	Era tal cual.	It was like that.
+626	diré	diˈɾe	verb	I will say (decir)	Le diré eso.	I'll tell him that.
+627	suena	suena	verb	sounds; rings (sonar)	No me suena.	That doesn't ring a bell.
+628	jugar	xuˈɡaɾ	verb	to play	¿Sabe jugar?	Do you know how to play?
+629	cambio	ˈkambjo	noun	change	Corto y cambio.	Over and out.
+630	película	peˈlikula	noun	movie; film	Veo una película.	I'm watching a movie.
+631	millones	millones	noun	millions	Ya somos siete mil millones.	We're already 7 billion.
+632	habrá	aˈbɾa	verb	there will be (haber)	¿Adónde habrá ido?	Where will he have gone?
+633	llamada	ʝaˈmada	noun	call	¡Última llamada!	Last call!
+634	resto	ˈresto	noun	rest; remainder	¿Quieres el resto?	Do you want the rest?
+635	vemos	ˈbemos	verb	we see (ver)	Nos vemos.	See you.
+636	extraño	e(ɡ)sˈtɾaɲo	adj	strange; foreign	Te extraño.	I miss you.
+637	mala	ˈmala	adj	bad (feminine)	Eres mala.	You're bad.
+638	presidente	pɾesiˈdente	noun	president	El presidente se negó.	The president refused.
+639	irme	ˈiɾme	verb	to leave; to go away	Déjame irme.	Just let me go.
+640	ropa	ˈropa	noun	clothes; clothing	Nos da ropa.	She gives us clothes.
+641	perder	peɾˈdeɾ	verb	to lose; to miss	Odio perder.	I hate losing.
+642	vuelve	ˈbwelbe	verb	returns; comes back (volver)	Me vuelve loco.	It drives me crazy.
+643	agente	aˈxente	noun	agent	Soy agente.	I'm an agent.
+644	palabras	paˈlabɾas	noun	words	Dulces palabras.	That was really sweet.
+645	información	infoɾmaˈθjon	noun	information	Tengo información.	I have information.
+646	raro	ˈraɾo	adj	strange; rare	¡Qué raro!	How weird!
+647	hará	aˈɾa	verb	will do; will make (hacer)	Tom lo hará.	Tom will do it.
+648	entiendes	entiendes	verb	you understand (entender)	¿Me entiendes?	Do you understand me?
+649	éste	ˈeste	pron	this one	Quiero éste.	I want this one.
+650	trabajando	trabajando	verb	working (gerund of trabajar)	Sigue trabajando.	Keep on working.
+651	tratando	tratando	verb	trying; treating (gerund of tratar)	Estás tratando.	You're trying.
+652	general	xeneˈɾal	adj	general	Hubo un vitoreo general.	Everyone cheered.
+653	trato	ˈtɾato	noun	treatment; deal	¡Es un trato!	It's a deal!
+654	usar	uˈsaɾ	verb	to use	Iba a usar eso.	I was going to use that.
+655	perfecto	peɾˈfeɡto	adj	perfect	Es perfecto.	He's perfect.
+656	derecho	deˈɾet͡ʃo	noun	right; law	¡Siga derecho!	Keep straight on!
+657	modo	ˈmodo	noun	way; manner	¡De ningún modo!	No way!
+658	ayer	aˈʝeɾ	adv	yesterday	Pasó ayer.	It happened yesterday.
+659	conoces	koˈnoθes	verb	you know (conocer)	Le conoces.	You know him.
+660	demás	deˈmas	det	other; the rest	Alcancé a los demás.	I caught up with the others.
+661	quieras	quieras	verb	want (subjunctive of querer)	Como quieras.	As you wish.
+662	podríamos	podríamos	verb	we could (poder)	Pensé que podríamos charlar.	I thought we could talk.
+663	noticias	noˈtiθjas	noun	news	Traigo noticias.	I have news.
+664	asesino	aseˈsino	noun	murderer; assassin	Vi al asesino.	I saw the killer.
+665	encontrado	enkonˈtɾado	adj	found	Lo he encontrado.	I've found it.
+666	control	konˈtɾol	noun	control	Toma el control.	Take over.
+667	odio	ˈodjo	noun	hatred; hate	No me odio.	I don't hate myself.
+668	frente	ˈfɾente	noun	front; forehead	Mire al frente.	Look forward.
+669	sexo	ˈseɡso	noun	sex	El sexo vende.	Sex sells.
+670	decirle	decirle	verb	to tell him/her	Mejor no decirle.	You'd better not tell him.
+671	estaré	estaˈɾe	verb	I will be (estar)	No estaré listo.	I won't be ready.
+672	divertido	dibeɾˈtido	adj	fun; amusing	Es divertido.	It's fun.
+673	armas	ˈaɾmas	noun	weapons; guns	¡A las armas!	To arms!
+674	recuerdas	recuerdas	verb	you remember (recordar)	¿Lo recuerdas?	Do you remember?
+675	amiga	aˈmiɡa	noun	friend (feminine)	Es mi amiga.	She's my friend.
+676	grupo	ˈɡɾupo	noun	group	El grupo es bueno.	The group is good.
+677	asunto	aˈsunto	noun	matter; business	Es asunto suyo.	That's his business.
+678	acabo	aˈkabo	verb	I finish (acabar)	Enseguida acabo.	I'm almost ready.
+679	mensaje	menˈsaxe	noun	message	Oí el mensaje.	I heard the message.
+680	encima	enˈθima	adv	on top; above	Él vive encima mío.	He lives above me.
+681	atención	atenˈθjon	noun	attention	¡Pon atención!	Pay attention!
+682	diferente	difeˈɾente	adj	different	Es diferente.	It's different.
+683	uh	u	interj	uh		
+684	cállate	ˈkaʝate	verb	shut up	¡Tú cállate!	You, be quiet!
+685	daño	ˈdaɲo	noun	damage; harm	Te harás daño.	You will hurt yourself.
+686	sucede	sucede	verb	happens (suceder)	¿Qué sucede?	What's going on?
+687	cambiar	kamˈbjaɾ	verb	to change	Quiero cambiar.	I want to change.
+688	siguiente	siˈɡjente	adj	next; following	Tom es el siguiente.	Tom is next.
+689	sino	ˈsino	conj	but rather	No eres sino un alumno.	You're nothing but a student.
+690	seas	ˈseas	verb	be (subjunctive of ser)	No seas malo.	Don't be bad.
+691	médico	ˈmediko	noun	doctor; physician	Es médico.	He's a doctor.
+692	boca	ˈboka	noun	mouth	Es mi boca.	It is my mouth.
+693	dejó	dejó	verb	left; let (preterite of dejar)	La dejó ir.	She let her go.
+694	error	eˈroɾ	noun	error; mistake	Es un error.	It's a mistake.
+695	jamás	xaˈmas	adv	never; ever	Él jamás se ríe.	He never laughs.
+696	largo	ˈlaɾɡo	adj	long	¿Un viaje largo?	Long journey?
+697	pena	ˈpena	noun	sorrow; pity; penalty	¡Qué pena!	What a pity!
+698	voz	ˈboθ	noun	voice	Baja la voz.	Quiet down.
+699	futuro	fuˈtuɾo	noun	future	No tengo futuro.	I have no future.
+700	siente	ˈsjente	verb	feels; sits (sentir; sentar)	¿Cómo se siente?	How do you feel?
+701	secreto	seˈkɾeto	noun	secret	Es secreto.	It's secret.
+702	baño	ˈbaɲo	noun	bathroom; bath	Ve al baño.	Go to the toilet.
+703	mil	ˈmil	num	thousand	Dame mil besos.	Give me a thousand kisses.
+704	decirte	decirte	verb	to tell you	Intenté decirte.	I tried to tell you.
+705	pensaba	pensaba	verb	thought; was thinking (pensar)	Eso pensaba.	I thought as much.
+706	novia	ˈnobja	noun	girlfriend; bride	Es mi novia.	She is my girlfriend.
+707	propia	ˈpɾopja	adj	own (feminine)	Fue su propia culpa.	It was his own fault.
+708	sueño	ˈsweɲo	noun	dream; sleep	Tengo sueño.	I'm sleepy!
+709	haz	ˈaθ	verb	do!; make! (imperative of hacer)	Por favor, haz algo.	Please do something.
+710	fuerza	ˈfweɾθa	noun	strength; force	Perdí mi fuerza.	I've lost my strength.
+711	deben	ˈdeben	verb	they must; they owe (deber)	Todos deben morir.	Everyone must die.
+712	supone	supone	verb	supposes; assumes (suponer)	No se supone que pase.	It's not supposed to happen.
+713	estábamos	esˈtabamos	verb	we were (estar)	¿Dónde estábamos?	Where were we?
+714	ambos	ˈambos	det	both	Vengan ambos.	Come together.
+715	ay	ˈai	interj	ow; oh	¡Ay, ay! ¡Me he mordido la lengua!	Ow, ow! I bit my tongue!
+716	estuve	esˈtube	verb	I was (preterite of estar)	Nunca estuve ahí.	I've never been there.
+717	encontré	encontré	verb	I found (encontrar)	Lo encontré.	I found it.
+718	vuelto	ˈbwelto	verb	returned (past participle of volver)	He vuelto.	I'm back.
+719	dolor	doˈloɾ	noun	pain; ache	Qué dolor.	What a pain!
+720	dile	ˈdile	verb	tell him (decir + le)	Por favor, dile hola.	Please say hello to her.
+721	encanta	enˈkanta	verb	enchants; love (encantar)	Me encanta.	I love it.
+722	edad	eˈdad	noun	age	Sé tu edad.	I know how old you are.
+723	darle	ˈdaɾle	verb	to give him/her	Quiero darle una cosa.	I want to give you something.
+724	pie	ˈpje	noun	foot	Iba a pie.	I was going on foot.
+725	negro	ˈneɡɾo	adj	black	Era negro.	It was black.
+726	ganar	ɡaˈnaɾ	verb	to win; to earn	Adoro ganar.	I love winning.
+727	aire	ˈaiɾe	noun	air	Necesito aire.	I need air.
+728	lamento	laˈmento	noun	regret; sorrow	Lo lamento.	I regret it.
+729	verlo	ˈbeɾlo	verb	to see it/him	Voy a verlo.	I'm going to see it.
+730	asesinato	asesiˈnato	noun	murder; assassination	El aborto es asesinato.	Abortion is murder.
+731	vio	ˈbjo	verb	saw (preterite of ver)	Él me vio.	He saw me.
+732	adónde	aˈdonde	adv	where to	¿Tú adónde vas?	Where are you going?
+733	llegado	ʝeˈɡado	verb	arrived (past participle of llegar)	¿Ha llegado?	Has it arrived?
+734	disculpe	disˈkulpe	verb	excuse me (disculpar)	Quiero que se disculpe.	I want you to apologize.
+735	cita	ˈθita	noun	appointment; date	Pida cita.	Make an appointment.
+736	estaría	estaˈɾia	verb	would be (estar)	Eso estaría bueno.	That would be fine.
+737	fuiste	ˈfwiste	verb	you were; you went (ser; ir)	Tú fuiste ahí.	You went there.
+738	sistema	sisˈtema	noun	system	Amamos el sistema.	We love the system.
+739	gusto	ˈɡusto	noun	taste; pleasure	¿Te gusto?	Do you love me?
+740	pobre	ˈpobɾe	adj	poor	Soy pobre.	I'm poor.
+741	negocio	neˈɡoθjo	noun	business	Su negocio va bien.	His business is doing well.
+742	mente	ˈmente	noun	mind	Abre tu mente.	Open your mind.
+743	tuyo	ˈtuʝo	det	yours; your	Es todo tuyo.	It's all yours.
+744	campo	ˈkampo	noun	field; countryside	Fuimos al campo.	We went to the countryside.
+745	mire	ˈmiɾe	verb	look (subjunctive/imperative of mirar)	¡No la mire!	Don't look at her!
+746	situación	sitwaˈθjon	noun	situation	¡Qué situación!	What a situation!
+747	tras	ˈtɾas	prep	after; behind	Voy tras él.	I'm after him.
+748	hotel	oˈtel	noun	hotel	Es un hotel.	This is a hotel.
+749	vosotros	boˈsotɾos	pron	you (plural; Spain)	¿Y vosotros?	And you?
+750	funciona	funciona	verb	works; functions (funcionar)	Eso funciona.	That works.
+751	foto	ˈfoto	noun	photo	Es una foto.	It's a photo.
+752	abogado	aboˈɡado	noun	lawyer	Es abogado.	He's a lawyer.
+753	loca	ˈloka	adj	crazy (feminine)	Está loca.	She's crazy.
+754	propio	ˈpɾopjo	adj	own	Soy mi propio jefe.	I'm my own boss.
+755	alrededor	alredeˈdoɾ	adv	around	Mire a su alrededor.	Look around.
+756	próxima	ˈpɾoɡsima	adj	next; near (feminine)	Hasta la próxima.	Until next time.
+757	terminado	teɾmiˈnado	adj	finished; done	He terminado.	I'm done.
+758	hablas	ˈablas	verb	you speak (hablar)	Tú hablas.	You speak.
+759	pagar	paˈɡaɾ	verb	to pay	Voy a pagar.	I'm going to pay.
+760	mató	mató	verb	killed (matar)	Él la mató.	He killed her.
+761	llamo	ˈʝamo	verb	I call (llamar)	Me llamo Tom.	My name's Tom.
+762	personal	peɾsoˈnal	adj	personal; staff	Eso es personal.	That's personal.
+763	sientes	sientes	verb	you feel (sentir)	¿Lo sientes?	Are you sorry?
+764	ocurre	ocurre	verb	happens (ocurrir)	¿Qué ocurre?	What is happening?
+765	ésta	ˈesta	pron	this one (feminine)	No quiero ésta.	I don't want this one.
+766	recuerda	recuerda	verb	remembers (recordar)	¿No recuerda?	You don't remember?
+767	mitad	miˈtad	noun	half	Dame la mitad.	Give me half.
+768	quiera	quiera	verb	want (subjunctive of querer)	Como usted quiera.	As you like.
+769	pelo	ˈpelo	noun	hair	Es medio pelo.	It's mediocre.
+770	tenías	teˈnias	verb	you had (tener)	Tú tenías razón.	You were right.
+771	viste	ˈbiste	verb	you saw (ver)	¿Lo viste?	Did you see it?
+772	oficial	ofiˈθjal	adj	official	Es oficial.	It's official.
+773	llegó	llegó	verb	arrived (llegar)	Tom llegó.	Tom arrived.
+774	compañía	kompaˈɲia	noun	company	Tienes compañía.	You've got company.
+775	relación	relaˈθjon	noun	relationship; relation	Tenemos una relación.	We have a relationship.
+776	conoce	koˈnoθe	verb	knows; meets (conocer)	Me conoce.	He knows me.
+777	pase	ˈpase	verb	pass; go in (subjunctive of pasar)	¿Quieres que pase?	You want me to come in?
+778	montón	monˈton	noun	pile; lot	¡Es un montón!	That's a lot!
+779	mejores	mejores	adj	better; best (plural)	Somos mejores.	We're better.
+780	creí	kɾeˈi	verb	I believed (creer)	No te creí.	I didn't believe you.
+781	cena	ˈθena	noun	dinner; supper	Juan cena.	Juan has dinner.
+782	sentir	senˈtiɾ	verb	to feel; to be sorry	Me hizo sentir mal.	It made me feel bad.
+783	través	tɾaˈbes	noun	through (as in "a través de")	Él nadó a través del río.	He swam across the river.
+784	accidente	aɡθiˈdente	noun	accident	Fue un accidente.	It was an accident.
+785	ellas	ˈeʝas	pron	they; them (feminine)	¿Qué leen ellas?	What do they read?
+786	caja	ˈkaxa	noun	box; cash register	Abrí la caja.	Open the box.
+787	tranquilo	tɾanˈkilo	adj	calm; quiet	Estoy tranquilo.	I'm cool.
+788	bonito	boˈnito	adj	pretty; nice	¡Qué bonito!	How lovely!
+789	eras	ˈeɾas	verb	you were (ser)	Tú eras mi amigo.	You were my friend.
+790	asi	asi	adv	like this; so		
+791	pudo	ˈpudo	verb	could (preterite of poder)	No pudo moverse.	He was unable to move.
+792	vive	ˈbibe	verb	lives (vivir)	¿Dónde vive?	Where do you live?
+793	vista	ˈbista	noun	sight; view	Hasta la vista.	Goodbye!
+794	estúpido	esˈtupido	adj	stupid	Eres estúpido.	You're stupid.
+795	línea	ˈlinea	noun	line	Estoy en línea.	I am online.
+796	caballeros	caballeros	noun	gentlemen	Adelante, caballeros.	Go ahead, gentlemen.
+797	haremos	aˈɾemos	verb	we will do; we will make (hacer)	Lo haremos.	We'll do it.
+798	dan	ˈdan	verb	they give (dar)	No dan nada.	They give nothing.
+799	quédate	quédate	verb	stay! (quedarse)	Por favor quédate.	Please stay.
+800	tienda	ˈtjenda	noun	shop; store	Fue a la tienda.	He went to the shop.
+801	comprar	komˈpɾaɾ	verb	to buy	Quiero comprar.	I want to buy.
+802	entendido	entenˈdido	adj	understood	No lo has entendido.	You didn't understand.
+803	centro	ˈθentɾo	noun	center; downtown	Vamos al centro.	Let's go downtown.
+804	salvo	ˈsalbo	prep	except; save	Estás a salvo.	You're safe.
+805	mes	ˈmes	noun	month	Fue hace un mes.	That was a month ago.
+806	sol	ˈsol	noun	sun	Amo el sol.	I love the sun.
+807	tonto	ˈtonto	adj	silly; stupid	Eres tonto.	You're stupid.
+808	hambre	ˈambɾe	noun	hunger	Tenía hambre.	I was hungry.
+809	mesa	ˈmesa	noun	table	Veo mi mesa.	I see my table.
+810	respuesta	resˈpwesta	noun	answer; response	Sé la respuesta.	I know the answer.
+811	completamente	komˌpletaˈmente	adv	completely	Es completamente nuevo.	It's brand new.
+812	carta	ˈkaɾta	noun	letter; menu	Leo una carta.	I read a letter.
+813	totalmente	toˌtalˈmente	adv	totally	Comprendo totalmente.	I totally get it.
+814	imposible	impoˈsible	adj	impossible	Es imposible.	It's impossible.
+815	pruebas	ˈpɾwebas	noun	proofs; tests	Quiero pruebas.	I want evidence.
+816	novio	ˈnobjo	noun	boyfriend	Es su novio.	That's her boyfriend.
+817	normal	noɾˈmal	adj	normal	Es normal.	It's normal.
+818	gustan	ˈɡustan	verb	please; like (gustar)	Me gustan.	I like them.
+819	pude	pude	verb	I could (preterite of poder)	No pude parar.	I couldn't stop.
+820	traje	ˈtɾaxe	noun	suit	Buen traje.	Nice costume.
+821	dirección	diɾeɡˈθjon	noun	address; direction	Sé su dirección.	I know his address.
+822	siete	ˈsjete	num	seven	¡Seis, siete!	Six, seven!
+823	dijeron	diˈxeɾon	verb	they said (decir)	No dijeron eso.	They didn't say that.
+824	placer	plaˈθeɾ	noun	pleasure	Con placer.	I'll be glad to.
+825	sean	ˈsean	verb	be (subjunctive of ser)	No sean egoístas.	Don't be selfish.
+826	tendrá	tenˈdɾa	verb	will have (tener)	Tom tendrá éxito.	Tom will succeed.
+827	barco	ˈbaɾko	noun	boat; ship	Veo mi barco.	I see my ship.
+828	blanco	ˈblanko	adj	white	Es blanco.	It's white.
+829	profesor	pɾofeˈsoɾ	noun	teacher; professor	Sos profesor.	You're a teacher.
+830	servicio	seɾˈbiθjo	noun	service	A su servicio, señor.	I'm at your service, sir.
+831	muchacho	muˈt͡ʃat͡ʃo	noun	boy; young man	Es un muchacho.	He's a boy.
+832	reunión	reuˈnjon	noun	meeting	Iré a la reunión.	I'll go to the meeting.
+833	dejado	deˈxado	verb	left (past participle of dejar)	He dejado pistas.	I've left clues.
+834	ley	ˈlei	noun	law	Es la ley.	It's the law.
+835	quisiera	kiˈsjeɾa	verb	I would like (querer)	Yo quisiera poder ir.	I wish I could go.
+836	hubo	ˈubo	verb	there was (haber)	Ayer hubo sol.	Yesterday there was sun.
+837	programa	pɾoˈɡɾama	noun	program; show	Él ve ese programa.	He watches that programme.
+838	carrera	kaˈreɾa	noun	race; career	Tom ganó la carrera.	Tom won the race.
+839	cumpleaños	kumpleˈaɲos	noun	birthday	Feliz cumpleaños.	Happy birthday.
+840	muchachos	muˈt͡ʃat͡ʃos	noun	boys; guys	Son muchachos.	They're boys.
+841	culo	ˈkulo	noun	ass; butt	¡Lindo culo!	Nice ass!
+842	canción	kanˈθjon	noun	song	Odio esa canción.	I hate that song.
+843	hermosa	eɾˈmosa	adj	beautiful (feminine)	Soy hermosa.	I'm beautiful.
+844	universidad	unibeɾsiˈdad	noun	university	Añoro la universidad.	I miss university.
+845	boda	ˈboda	noun	wedding	Su boda es mañana.	Their wedding is tomorrow.
+846	decirme	decirme	verb	to tell me	¿Qué quería decirme?	What did you want to tell me?
+847	cualquiera	kwalˈkjeɾa	det	any; anyone	Podría ser cualquiera.	It could be anyone.
+848	tengas	ˈtenɡas	verb	have (subjunctive of tener)	No tengas pena.	Don't be shy.
+849	hacía	aˈθia	verb	did; made (imperfect of hacer)	Ayer hacía frío.	It was cold yesterday.
+850	estés	esˈtes	verb	be (subjunctive of estar)	No estés triste.	Don't be sad.
+851	sala	ˈsala	noun	room; hall	Anda a la sala.	Go to the living room.
+852	llevo	llevo	verb	I carry; I take; I wear (llevar)	¿Te llevo?	Can I give you a ride?
+853	decisión	deθiˈsjon	noun	decision	Es tu decisión.	It's up to you.
+854	espere	esˈpeɾe	verb	wait (subjunctive of esperar)	No me espere.	Don't wait up for me.
+855	don	ˈdon	noun	sir; gift; Mr.	Tiene un don.	She has a gift.
+856	necesario	neθeˈsaɾjo	adj	necessary	Es necesario.	It's necessary.
+857	sal	ˈsal	noun	salt	No hay sal.	There's no salt.
+858	entra	entra	verb	enters; come in (entrar)	Ven, entra.	Come on inside.
+859	prisa	ˈpɾisa	noun	hurry; rush	Daos prisa.	Hurry up.
+860	carajo	kaˈɾaxo	interj	damn; hell	¡Al carajo!	Fuck that!
+861	embargo	emˈbaɾɡo	noun	embargo; hindrance	Es sin embargo cierto.	It is nonetheless true.
+862	interesante	inteɾeˈsante	adj	interesting	Es interesante.	It's interesting.
+863	tendrás	tenˈdɾas	verb	you will have (tener)	No tendrás valor.	You won't have the guts.
+864	escuchar	eskuˈt͡ʃaɾ	verb	to listen	Hazte escuchar.	Make yourself heard.
+865	abuela	aˈbwela	noun	grandmother	Mary es abuela.	Mary is a grandmother.
+866	hicieron	iˈθjeɾon	verb	they did; they made (hacer)	Lo hicieron.	They did it.
+867	detective	deteɡˈtibe	noun	detective	Soy detective.	I'm a detective.
+868	horrible	oˈrible	adj	horrible	¡Fue horrible!	It was awful.
+869	suelo	ˈswelo	noun	floor; ground; soil	¡Al suelo!	Get down!
+870	fotos	fotos	noun	photos	Tenemos fotos.	We have pictures.
+871	cárcel	ˈkaɾθel	noun	prison; jail	Estoy en la cárcel.	I'm in jail.
+872	acá	aˈka	adv	here	Ven p'acá.	Come over here.
+873	siéntate	ˈsjentate	verb	sit down	No, siéntate.	No, sit down.
+874	decía	deˈθia	verb	said; was saying (imperfect of decir)	Yo decía que sí.	I said yes.
+875	intentando	intentando	verb	trying (gerund of intentar)	Siga intentando.	Keep on trying.
+876	vámonos	ˈbamonos	verb	let's go (ir + nos)	Pues vámonos.	Well, let's go.
+877	maldición	maldiˈθjon	noun	curse	Es una maldición.	It's a curse.
+878	silencio	siˈlenθjo	noun	silence	¡Qué silencio!	How peaceful!
+879	muerta	muerta	adj	dead (feminine)	Está muerta.	She is dead.
+880	capaz	kaˈpaθ	adj	capable	Tom es muy capaz.	Tom is very capable.
+881	salió	salió	verb	left; went out (salir)	Ella salió.	She went out.
+882	club	ˈklub	noun	club	Bienvenido al club.	Welcome to the club.
+883	terminar	teɾmiˈnaɾ	verb	to finish; to end	Déjame terminar.	Let me finish.
+884	temo	ˈtemo	verb	I fear (temer)	No temo nada.	I fear nothing.
+885	broma	ˈbɾoma	noun	joke	¡Es broma!	Just kidding!
+886	gobierno	ɡoˈbjeɾno	noun	government	¡Abajo el gobierno!	Down with the Government!
+887	prometo	prometo	verb	I promise (prometer)	¡Lo prometo!	I promise!
+888	cámara	ˈkamaɾa	noun	camera; chamber	Deja mi cámara.	Leave my camera alone.
+889	media	ˈmedja	noun	half; average; stocking	Tengo media hora.	I've got half an hour.
+890	terrible	teˈrible	adj	terrible; awful	Es terrible.	It's terrible.
+891	llamó	ʝaˈmo	verb	called (llamar)	Tom llamó.	Tom called.
+892	regalo	reˈɡalo	noun	gift; present	Era un regalo.	It was a gift.
+893	amable	aˈmable	adj	kind	Sé amable.	Be kind.
+894	dulce	ˈdulθe	adj	sweet	¿Es dulce?	Is that sweet?
+895	muertos	ˈmweɾtos	adj	dead (plural)	Están muertos.	They're dead.
+896	querías	querías	verb	you wanted (querer)	¿Me querías?	Did you love me?
+897	ataque	aˈtake	noun	attack	¡Al ataque!	Attack!
+898	das	ˈdas	verb	you give (dar)	Me das asco.	You disgust me.
+899	navidad	navidad	noun	Christmas	Es navidad.	It's Christmas.
+900	negocios	neˈɡoθjos	noun	business; businesses	Son negocios.	It's business.
+901	pudiera	pudiera	verb	could (subjunctive of poder)	Ojalá pudiera.	I wish I could.
+902	ocho	ˈot͡ʃo	num	eight	Son las ocho.	It's eight o'clock.
+903	avión	aˈbjon	noun	plane; airplane	Vi un avión.	I saw a plane.
+904	investigación	imbestiɡaˈθjon	noun	investigation; research	¿Cómo va la investigación?	How is the investigation going?
+905	acabó	akaˈbo	verb	finished; ended (acabar)	Ya se acabó.	It's all over.
+906	juro	ˈxuɾo	verb	I swear (jurar)	Te lo juro, John.	I swear, John.
+907	mantener	manteˈneɾ	verb	to keep; to maintain	Debe mantener su promesa.	You have to keep your promise.
+908	ejército	eˈxeɾθito	noun	army	El ejército llegó.	The army arrived.
+909	papel	paˈpel	noun	paper; role	Quiero papel.	I want paper.
+910	partes	ˈpaɾtes	noun	parts	Va a todas partes.	He gets around a lot.
+911	ten	ˈten	verb	have! (imperative of tener)	¡Tom, ten cuidado!	Tom, be careful!
+912	gracioso	ɡɾaˈθjoso	adj	funny; amusing	¡Qué gracioso!	That's funny!
+913	diría	diˈɾia	verb	would say (decir)	Nadie lo diría.	No one would say it.
+914	principio	pɾinˈθipjo	noun	beginning; principle	Sólo es el principio.	It's only the beginning.
+915	delante	deˈlante	adv	in front	Ve por delante.	Go on ahead.
+916	teniente	teˈnjente	noun	lieutenant	Estás teniente.	
+917	deseo	deˈseo	noun	wish; desire	Yo te deseo.	I want you.
+918	vayas	ˈbaʝas	verb	go (subjunctive of ir)	No te vayas.	Don't go.
+919	nave	ˈnabe	noun	ship; spacecraft	La nave zarpó.	The ship set sail.
+920	sale	ˈsale	verb	leaves; goes out (salir)	El sol sale.	The sun rises.
+921	basura	baˈsuɾa	noun	trash; garbage	¡Es basura!	It's rubbish!
+922	vine	ˈbine	verb	I came (venir)	Por eso vine.	That's why I came.
+923	contacto	konˈtaɡto	noun	contact	Estaré en contacto.	I'll keep in touch.
+924	esposo	esˈposo	noun	husband	Agarra tu esposo.	Hold onto your husband.
+925	tren	ˈtɾen	noun	train	¿Irás en tren?	Will you go by train?
+926	encontramos	enkonˈtɾamos	verb	we found; we find (encontrar)	Los encontramos.	We found them.
+927	dale	ˈdale	verb	give him; hit it (dar + le)	Solo dale un minuto.	Just give it a minute.
+928	verdadero	beɾdaˈdeɾo	adj	true; real	Es mi verdadero amor.	He's my true love.
+929	tuya	ˈtuʝa	det	yours; your (feminine)	Esta es tuya.	This one's yours.
+930	alma	ˈalma	noun	soul	¿Él tiene alma?	Does he have a soul?
+931	hazlo	ˈaθlo	verb	do it (hacer + lo)	Vamos, hazlo.	Come on, do it.
+932	disculpa	disˈkulpa	noun	apology; excuse	Quiero una disculpa.	I want an apology.
+933	junto	ˈxunto	adj	together; joined	Camino junto a ella.	I'm walking beside her.
+934	anda	ˈanda	verb	walk!; come on (andar)	Ella anda.	She walks.
+935	tendré	tenˈdɾe	verb	I will have (tener)	No tendré miedo.	I will not be afraid.
+936	matrimonio	matɾiˈmonjo	noun	marriage	¿Te propuso matrimonio?	Did he propose marriage to you?
+937	saberlo	saberlo	verb	to know it	Deben saberlo.	They must know it.
+938	locura	loˈkuɾa	noun	madness	Es una locura.	That's crazy.
+939	oro	ˈoɾo	noun	gold	Vales oro.	You're worth gold.
+940	permiso	peɾˈmiso	noun	permission; permit	Con permiso.	Excuse me.
+941	director	diɾeɡˈtoɾ	noun	director; manager	Hablo con el director.	I'm speaking with the principal.
+942	peligro	peˈliɡɾo	noun	danger	No hay peligro.	There's no danger.
+943	libertad	libeɾˈta	noun	freedom; liberty	Habla de libertad.	He speaks of liberty.
+944	alegro	aˈleɡɾo	verb	I am glad (alegrar)	Me alegro por ti.	I'm happy for you.
+945	baja	ˈbaxa	adj	low; short (feminine)	Eres baja.	You are short.
+946	tendremos	tenˈdɾemos	verb	we will have (tener)	Lo tendremos en cuenta.	We'll take that into consideration.
+947	derecha	deˈɾet͡ʃa	noun	right (side)	Gire a la derecha.	Turn right.
+948	encuentra	encuentra	verb	finds (encontrar)	¿Se encuentra bien?	Is he right?
+949	pies	ˈpjes	noun	feet	Lávate los pies.	Wash your feet.
+950	segunda	seˈɡunda	adj	second (feminine)	Es de segunda mano.	It's second-hand.
+951	maravilloso	maɾabiˈʝoso	adj	wonderful; marvelous	Es maravilloso.	It's marvellous.
+952	espacio	esˈpaθjo	noun	space	Danos espacio.	Give us some space.
+953	rato	ˈrato	noun	while; moment	Esperé un rato.	I waited a while.
+954	abuelo	aˈbwelo	noun	grandfather	Hola, abuelo.	Hello, Grandfather.
+955	esperaba	esperaba	verb	waited; was waiting; hoped (esperar)	Os esperaba.	I was waiting for you.
+956	mirando	miˈɾando	verb	looking (gerund of mirar)	¿Está mirando?	Is he looking?
+957	salud	saˈlud	noun	health	¡A tu salud!	To your health!
+958	sorpresa	soɾˈpɾesa	noun	surprise	¡Qué sorpresa!	What a surprise!
+959	ninguno	ninˈɡuno	det	none; no	No hay ninguno.	There's no one.
+960	miren	miren	verb	look (imperative/subjunctive of mirar)	¡No miren!	Don't look!
+961	triste	ˈtɾiste	adj	sad	Es triste.	It's sad.
+962	aun	aˈun	adv	even	Tom no ha vuelto aun.	Tom has not come back yet.
+963	pensado	penˈsado	verb	thought (past participle of pensar)	¡Bien pensado!	Good thinking!
+964	maestro	maˈestɾo	noun	teacher; master	Soy maestro.	I'm a teacher.
+965	según	seˈɡun	prep	according to	Todo va según el plan.	Everything is going according to plan.
+966	infierno	inˈfjeɾno	noun	hell	¡Vete al infierno!	Go to hell!
+967	podrían	podrían	verb	they could (poder)	Tom y Mary podrían terminar.	Tom and Mary might break up.
+968	tipos	tipos	noun	types; guys	¿Cuántos tipos hay?	How many kinds are there?
+969	tía	ˈtia	noun	aunt	Es tu tía, ¿no?	She's your aunt, isn't she?
+970	crimen	ˈkɾimen	noun	crime	El crimen no paga.	Crime doesn't pay.
+971	conocido	konoˈθido	adj	known; well-known	¿Ya lo has conocido?	Have you met him already?
+972	consejo	konˈsexo	noun	advice; counsel	Dale un consejo.	Give him a piece of advice.
+973	ante	ˈante	prep	before; in front of	Se inclinó ante mí.	He bowed before me.
+974	iglesia	iˈɡlesja	noun	church	Veo una iglesia.	I see a church.
+975	intento	inˈtento	noun	attempt	Lo intento.	I try.
+976	mayoría	maʝoˈɾia	noun	majority	Tom no es como la mayoría.	Tom isn't conventional.
+977	doy	ˈdoi	verb	I give (dar)	Se lo doy.	I'm giving it to him.
+978	hicimos	iˈθimos	verb	we did; we made (hacer)	Lo hicimos.	We made it.
+979	escena	esˈθena	noun	scene	No hagas una escena.	Don't make a scene.
+980	piso	ˈpiso	noun	floor; apartment	Buscas piso.	You're looking for an apartment.
+981	señal	seˈɲal	noun	sign; signal	No hay señal.	No signal.
+982	honor	oˈnoɾ	noun	honor	Fue un honor.	It was an honor.
+983	llamas	ˈʝamas	verb	you call (llamar)	¿Te llamas Tom?	Is your name Tom?
+984	abre	ˈabɾe	verb	opens (abrir)	¿Cuándo abre?	When does it open?
+985	cerebro	θeˈɾebɾo	noun	brain	Me duele el cerebro.	My brain hurts.
+986	veras	ˈbeɾas	noun	truth; reality (as in "de veras")	Ahora va de veras.	Now it's the real thing.
+987	viendo	ˈbjendo	verb	seeing (gerund of ver)	Te estoy viendo.	I'm watching you.
+988	pone	pone	verb	puts (poner)	Se pone peor.	It gets worse.
+989	pregunto	pregunto	verb	I ask (preguntar)	Solo pregunto.	I'm just asking.
+990	cocina	koˈθina	noun	kitchen; cooking	Ziri cocina.	Ziri cooks.
+991	vestido	besˈtido	noun	dress	Lindo vestido.	Nice dress.
+992	inteligente	inteliˈxente/ [ĩn̪.t̪e.liˈxẽn̪.t̪e	adj	intelligent; smart	Es inteligente.	He's smart.
+993	vieja	ˈbjexa	adj	old (feminine)	Estás vieja.	You're old.
+994	caballo	kaˈbaʝo	noun	horse	Es mi caballo.	It's my horse.
+995	vienen	vienen	verb	they come (venir)	Aquí vienen.	Here they come.
+996	vidas	ˈbidas	noun	lives	Tengo nueve vidas.	I have nine lives.
+997	bar	ˈbaɾ	noun	bar	Voy al bar.	I'm going to the bar.
+998	corte	ˈkoɾte	noun	cut; court	¿Mal corte de pelo?	Bad haircut?
+999	sucedió	sucedió	verb	happened (suceder)	Eso sucedió.	It happened.
+1000	adentro	aˈdentɾo	adv	inside	Ve adentro.	Go on inside.
+1001	drogas	ˈdɾoɡas	noun	drugs	No tomo drogas.	I'm not on drugs.
+1002	enseguida	enseˈɡida	adv	immediately; right away	Voy enseguida.	Be right there.
+1003	busca	ˈbuska	verb	looks for; searches (buscar)	¿Qué busca?	What's he looking for?
+1004	agradable	aɡɾaˈdable	adj	pleasant; nice	Es agradable.	It's nice.
+1005	carne	ˈkaɾne	noun	meat; flesh	Añade carne.	Add meat.
+1006	parecía	parecía	verb	seemed; looked like (parecer)	Él parecía joven.	He appeared young.
+1007	departamento	depaɾtaˈmento	noun	apartment; department	Vivo en un departamento.	I live in a flat.
+1008	lindo	ˈlindo	adj	pretty; cute	¡Qué lindo!	Pretty!
+1009	mar	ˈmaɾ	noun	sea	El mar es azul.	The sea is blue.
+1010	duda	ˈduda	noun	doubt	¡Sin duda!	Certainly!
+1011	edificio	ediˈfiθjo	noun	building	¿Ese edificio gris?	That gray building?
+1012	conocer	konoˈθeɾ	verb	to know; to meet	Quiero conocer a Tom.	I want to meet Tom.
+1013	cargo	ˈkaɾɡo	noun	position; charge; burden	Estás a cargo.	You're in charge.
+1014	víctima	ˈbiɡtima	noun	victim	La víctima fui yo.	I was the victim.
+1015	luna	ˈluna	noun	moon	Se ve la luna.	The moon is out.
+1016	energía	eneɾˈxia	noun	energy	Usa energía solar.	It uses solar power.
+1017	frío	ˈfɾio	adj	cold	Hace frío.	It's cold.
+1018	hablo	ˈablo	verb	I speak (hablar)	Te hablo a ti.	I talk to you.
+1019	baile	ˈbaile	noun	dance	Fui solo al baile.	I went stag to the prom.
+1020	trabaja	trabaja	verb	works (trabajar)	¿Él trabaja?	Does he work?
+1021	misión	miˈsjon	noun	mission	Esta es mi misión.	This is my mission.
+1022	listos	listos	adj	ready (plural)	Son listos.	You're smart.
+1023	ayudarte	ayudarte	verb	to help you	Puedo ayudarte.	I can help you.
+1024	izquierda	iθˈkjeɾda	noun	left (side)	Gira a la izquierda.	Turn to the left.
+1025	beber	beˈbeɾ	verb	to drink	¿Para beber?	What to drink?
+1026	deje	ˈdexe	verb	leave; let (subjunctive of dejar)	No nos deje.	Don't leave us.
+1027	finalmente	fiˌnalˈmente	adv	finally; in the end	Yo finalmente gané.	I finally won.
+1028	simple	ˈsimple	adj	simple	Es simple.	It's simple.
+1029	daré	daˈɾe	verb	I will give (dar)	Te lo daré.	I'll give it to you.
+1030	sabías	sabías	verb	you knew (saber)	¡Lo sabías!	You knew!
+1031	puedas	ˈpwedas	verb	can (subjunctive of poder)	Haz lo que puedas.	You do what you can.
+1032	puso	ˈpuso	verb	put; placed (preterite of poner)	Se puso verde.	It turned green.
+1033	creía	creía	verb	believed; thought (creer)	Nadie la creía.	No one believed her.
+1034	regresar	reɡɾeˈsaɾ	verb	to return; to come back	Debo regresar.	I must go back.
+1035	llega	llega	verb	arrives (llegar)	¿Cuándo llega?	When does it arrive?
+1036	entender	entenˈdeɾ	verb	to understand	Van a entender.	They'll understand.
+1037	mirar	miˈɾaɾ	verb	to look; to watch	Puedes mirar.	You may look.
+1038	sacar	saˈkaɾ	verb	to take out; to get	Voy a sacar dinero.	I am going to take out money.
+1039	cambiado	kamˈbjado	adj	changed	Ha cambiado.	He has changed.
+1040	trae	trae	verb	brings (traer)	¿Qué se trae él?	What is he up to?
+1041	hermoso	eɾˈmoso	adj	beautiful; handsome	Es hermoso.	It's beautiful.
+1042	opinión	opiˈnjon	noun	opinion	Dame tu opinión.	Give me your opinion.
+1043	verás	beˈɾas	verb	you will see (ver)	¡Hazlo y verás!	Do it! I dare you!
+1044	linda	linda	adj	pretty; cute (feminine)	¿Soy linda?	Am I pretty?
+1045	apenas	aˈpenas	adv	barely; hardly	Ella apenas comió.	She hardly ate anything.
+1046	segundos	seˈɡundos	noun	seconds	Tienes tres segundos.	You have three seconds.
+1047	cerveza	θeɾˈbeθa	noun	beer	Tengo cerveza.	I've got beer.
+1048	harás	aˈɾas	verb	you will do; you will make (hacer)	¿Lo harás?	Will you do it?
+1049	estuviera	estuˈbjeɾa	verb	were (subjunctive of estar)	Ojalá estuviera aquí.	I wish he were here.
+1050	creen	ˈkɾeen	verb	they believe; they think (creer)	No me creen.	They don't believe me.
+1051	oír	oˈiɾ	verb	to hear	Hazte oír.	Make yourself heard.
+1052	tendría	tenˈdɾia	verb	would have (tener)	Él tendría que rendirse.	He would have to surrender.
+1053	cuántos	ˈkwantos	adv	how many	¿Para cuántos días?	For how many days?
+1054	hablado	aˈblado	verb	spoken (past participle of hablar)	¿Tomás ha hablado?	Has Tom spoken?
+1055	hablamos	aˈblamos	verb	we speak; we spoke (hablar)	Nunca hablamos.	We never talk.
+1056	reina	ˈreina	noun	queen	Siiii reina!	Yaas queen!
+1057	temprano	temˈpɾano	adv	early	Es temprano.	It's early.
+1058	tema	ˈtema	noun	topic; theme	¡Cíñete al tema!	Stick to the subject.
+1059	prisión	pɾiˈsjon	noun	prison	Él está en prisión.	He's in prison.
+1060	porqué	poɾˈke	noun	reason; why	Entiendo el porqué.	I understand why.
+1061	vuelva	ˈbwelba	verb	return (subjunctive of volver)	Quizá vuelva.	He may return.
+1062	público	ˈpubliko	noun	public; audience	El público lo sabe.	The public knows that.
+1063	ocurrió	ocurrió	verb	happened (ocurrir)	¿Qué ocurrió?	What happened?
+1064	veré	beˈɾe	verb	I will see (ver)	Lo veré hoy.	I'll see him today.
+1065	salvar	salˈbaɾ	verb	to save; to rescue	Quería salvar a Tom.	I wanted to save Tom.
+1066	partido	paɾˈtido	noun	game; match; political party	Gané el partido.	I won the game.
+1067	bonita	bonita	adj	pretty; nice (feminine)	No es bonita.	She is not beautiful.
+1068	joder	xoˈdeɾ	interj	fuck; damn	¡Dejá de joder!	Stop bullying me!
+1069	causa	ˈkausa	noun	cause	¿Qué lo causa?	What causes it?
+1070	caliente	kaˈljente	adj	hot; warm	Está caliente.	It's hot.
+1071	sargento	saɾˈxento	noun	sergeant	Él ascendió al rango de sargento.	He rose to the rank of sergeant.
+1072	cenar	θeˈnaɾ	verb	to have dinner	Voy a cenar.	I'll have dinner.
+1073	compañero	kompaˈɲeɾo	noun	companion; partner; colleague	No tengo un compañero.	I don't have a partner.
+1074	llevó	ʝeˈbo	verb	carried; took; wore (preterite of llevar)	Te las llevó.	He brought you them.
+1075	banco	ˈbanko	noun	bank; bench	Voy al banco.	I'm going to the bank.
+1076	existe	eɡˈsiste	verb	exists (existir)	No existe.	It doesn't exist.
+1077	zona	ˈθona	noun	zone; area	Él me mostró la zona.	He showed me around.
+1078	destino	desˈtino	noun	destiny; destination	Es mi destino.	This is my fate.
+1079	base	ˈbase	noun	base	Todo empieza desde la base.	Everything starts from a basis.
+1080	solía	soˈlia	verb	used to (soler)	Él solía beber.	He used to drink.
+1081	cliente	ˈkljente	noun	client; customer	Soy un cliente.	I'm a client.
+1082	irse	ˈiɾse	verb	to leave; to go away	Pueden irse.	You may go.
+1083	perra	ˈpera	noun	bitch; female dog	Esa perra saltó.	That dog jumped.
+1084	encuentro	enˈkwentɾo	noun	encounter; meeting	Ya los encuentro.	I've found them.
+1085	encontró	encontró	verb	found (preterite of encontrar)	Él lo encontró.	He found it.
+1086	pelea	peˈlea	noun	fight	Vi una pelea.	I saw a fight.
+1087	san	ˈsan	adj	Saint (before a name)	Nosotros le llamamos Goro-san.	We call him Goro-san.
+1088	norte	ˈnoɾte	noun	north	Vivo en el norte.	I live upstate.
+1089	quise	ˈkise	verb	I wanted (preterite of querer)	Yo te quise.	I loved you.
+1090	coronel	koɾoˈnel	noun	colonel	Fue ascendido a coronel hace dos años.	He was promoted to colonel two years ago.
+1091	apuesto	aˈpwesto	verb	I bet (apostar)	¿Soy apuesto o no?	Am I handsome or not?
+1092	peligroso	peliˈɡɾoso	adj	dangerous	Es peligroso.	It's dangerous!
+1093	viva	ˈbiba	interj	long live!; hurray	¡Está viva!	She's alive!
+1094	vienes	ˈbjenes	verb	you come (venir)	¿Te vienes?	Are you coming?
+1095	necesitan	necesitan	verb	they need (necesitar)	Lo necesitan.	They need it.
+1096	té	ˈte	noun	tea	¿Bebes té?	Do you drink tea?
+1097	excepto	e(ɡ)ˈθebto	prep	except	Todos vinieron excepto él.	Everyone came except him.
+1098	juicio	ˈxwiθjo	noun	trial; judgment	Hubo un juicio.	There was a trial.
+1099	podamos	poˈdamos	verb	can (subjunctive of poder)	Quizá podamos.	Maybe we can.
+1100	llave	ˈʝabe	noun	key	Usa la llave.	Unlock.
+1101	equivocado	ekiboˈkado	adj	mistaken; wrong	Estás equivocado.	You're wrong.
+1102	posición	posiˈθjon	noun	position	Mantén tu posición.	Hold your position.
+1103	trasero	tɾaˈseɾo	noun	butt; rear	¡Te patearé el trasero!	I'll kick your butt!
+1104	irnos	ˈiɾnos	verb	to leave; to go away	Debemos irnos.	We must go.
+1105	espalda	esˈpalda	noun	back (body part)	Cubre mi espalda.	Watch my back.
+1106	excelente	eɡsθeˈlente	adj	excellent	Eso sería excelente.	That would be outstanding.
+1107	éxito	ˈeɡsito	noun	success; hit	¡Mucho éxito!	Good luck!
+1108	modos	modos	noun	ways; manners	De todos modos.	Anyway.
+1109	ventana	benˈtana	noun	window	Abre la ventana.	Open the window.
+1110	veamos	beˈamos	verb	let's see (ver)	Esperemos y veamos.	Let's wait and see.
+1111	especie	esˈpeθje	noun	species; kind	Es una especie de naranja.	It's a kind of orange.
+1112	teníamos	teˈniamos	verb	we had (tener)	No teníamos esa opción.	We didn't have that option.
+1113	diferencia	difeˈɾenθja	noun	difference	Sé la diferencia.	I know the difference.
+1114	formas	ˈfoɾmas	noun	forms; ways	De todas formas.	Anyway.
+1115	pedir	peˈdiɾ	verb	to ask for; to request	No sé qué pedir.	I don't know what to order.
+1116	últimos	ˈultimos	adj	last; final (plural)	Llegamos los últimos.	We were the last ones to arrive.
+1117	escúchame	esˈkut͡ʃame	verb	listen to me	Oye, escúchame.	Hey, listen to me.
+1118	ejemplo	eˈxemplo	noun	example	Dame un ejemplo.	Give me an example.
+1119	ése	ˈese	pron	that one	¿Es mío ése?	Is that mine?
+1120	radio	ˈradjo	noun	radio	Apaga la radio.	Turn off the radio.
+1121	lee	ˈlee	verb	reads (leer)	Se lee bien.	It reads well.
+1122	calma	ˈkalma	noun	calm; calmness	Mantén la calma.	Stay calm.
+1123	hogar	oˈɡaɾ	noun	home; household	¿Tienes hogar?	Do you have a house?
+1124	volveré	bolbeˈɾe	verb	I will return (volver)	Nunca más volveré.	I'll never come back.
+1125	fondo	ˈfondo	noun	bottom; background	¡Hasta el fondo!	Bottoms up!
+1126	humano	uˈmano	adj	human	Soy humano.	I'm a human.
+1127	tí	tí	pron	you (after a preposition)	Pagaré por tí.	I'll pay for you.
+1128	iremos	iˈɾemos	verb	we will go (ir)	¿Cómo iremos?	How will we go?
+1129	unidos	uˈnidos	adj	united; joined	Estábamos muy unidos.	We were really tight.
+1130	habían	aˈbian	verb	they had (haber)	Ya me lo habían dicho.	They already told me.
+1131	planeta	plaˈneta	noun	planet	Venus es planeta.	Venus is a planet.
+1132	verme	ˈbeɾme	verb	to see me	Ven a verme.	Come see me.
+1133	respecto	resˈpeɡto	noun	respect; regard	Piensa al respecto.	Think about it.
+1134	regreso	reˈɡɾeso	noun	return	Voy de regreso.	I'm going back.
+1135	debido	deˈbido	adj	due; owed	Esto es debido a ti.	This is because of you.
+1136	seré	seˈɾe	verb	I will be (ser)	Yo seré amado.	I will be loved.
+1137	tenían	teˈnian	verb	they had (tener)	No tenían frio.	They weren't cold.
+1138	leer	leˈeɾ	verb	to read	Odio leer.	I hate reading.
+1139	parar	paˈɾaɾ	verb	to stop	No pude parar.	I couldn't stop.
+1140	lleno	ˈʝeno	adj	full	Está lleno.	It's full.
+1141	dejé	dejé	verb	I left (dejar)	Yo no lo dejé.	I didn't quit.
+1142	respeto	resˈpeto	noun	respect	Yo te respeto.	I respect you.
+1143	debajo	deˈbaxo	adv	under; underneath	Estoy debajo del árbol.	I'm under the tree.
+1144	escribir	eskɾiˈbiɾ	verb	to write	Debo escribir.	I must write.
+1145	estación	estaˈθjon	noun	station; season	Fui a la estación.	I went to the station.
+1146	pidió	pidió	verb	asked for; requested (pedir)	Tom pidió más.	Tom asked for more.
+1147	alta	ˈalta	adj	high; tall (feminine)	María es alta.	Mary is tall.
+1148	pista	ˈpista	noun	track; clue	Dame una pista.	Give me a tip.
+1149	estrella	esˈtɾeʝa	noun	star	Veo una estrella.	I see a star.
+1150	enfermo	enˈfeɾmo	adj	sick; ill	Estoy enfermo.	I'm ill.
+1151	duele	ˈdwele	verb	hurts (doler)	Sí, duele.	Yes, it hurts.
+1152	sueños	ˈsweɲos	noun	dreams	¡Ni en sueños!	In your dreams!
+1153	veremos	beˈɾemos	verb	we will see (ver)	Ya veremos.	We'll see.
+1154	miles	ˈmiles	noun	thousands	Él sacudió miles de manos.	He shook thousands of hands.
+1155	darme	ˈdaɾme	verb	to give me	¿Debo darme prisa?	Must I hurry?
+1156	órdenes	ˈoɾdenes	noun	orders	Seguía órdenes.	He was acting on orders.
+1157	ocupado	okuˈpado	adj	busy; occupied	Está ocupado.	It's occupied.
+1158	sigues	ˈsiɡes	verb	you continue; you follow (seguir)	¿Me sigues?	Do you follow?
+1159	corre	ˈkore	verb	runs (correr)	Ella corre.	She runs.
+1160	podido	poˈdido	verb	been able (past participle of poder)	No he podido verlo.	I was not able to see him.
+1161	dejes	dejes	verb	leave (subjunctive of dejar)	No me dejes.	Don't leave me.
+1162	nivel	niˈbel	noun	level	Bienvenido al nivel 3.	Welcome to Level Three.
+1163	habéis	aˈbeis	verb	you have (Spain plural)	¿Lo habéis oído?	Did you hear it?
+1164	experiencia	eɡspeˈɾjenθja	noun	experience	¡Qué experiencia!	What an experience!
+1165	darte	ˈdaɾte	verb	to give you	Voy a darte algo.	I'm going to give you something.
+1166	salida	saˈlida	noun	exit; departure	No hay salida.	There's no exit.
+1167	decirlo	decirlo	verb	to say it	Déjame decirlo.	Let me tell it!
+1168	confiar	konˈfjaɾ	verb	to trust	Puedo confiar en él.	I can trust him.
+1169	hacerte	hacerte	verb	to do to you; to make you	Podrías hacerte daño.	You could hurt yourself.
+1170	necesitaba	necesitaba	verb	needed (necesitar)	Te necesitaba.	I needed you.
+1171	hermanos	hermanos	noun	brothers; siblings	¿Son hermanos?	Are you brothers?
+1172	zapatos	zapatos	noun	shoes	Vendo zapatos.	I sell shoes.
+1173	color	koˈloɾ	noun	color	¡Es tu color!	It's your color!
+1174	vistazo	bisˈtaθo	noun	glance; look	Da un vistazo.	Have a look.
+1175	nena	ˈnena	noun	girl; baby (feminine)	Ven acá, nena.	Come here, kid.
+1176	tratar	tɾaˈtaɾ	verb	to try; to treat	¡Tienes que tratar!	You have to try!
+1177	parecer	paɾeˈθeɾ	verb	to seem; to appear	Puede parecer raro.	It may seem odd.
+1178	juez	ˈxweθ	noun	judge	El juez es injusto.	The judge is unfair.
+1179	próximo	ˈpɾoɡsimo	adj	next; near	¡Este es el próximo!	This is the next one!
+1180	paciente	paˈθjente	adj	patient	Sea paciente.	Be patient.
+1181	hayas	ˈaʝas	verb	have (subjunctive of haber)	Quizás hayas oído de eso.	You may have heard of that.
+1182	bolsa	ˈbolsa	noun	bag; stock market	Dame mi bolsa.	Give me my bag.
+1183	arte	ˈaɾte	noun	art	¿Es esto arte?	Is this art?
+1184	jugando	xuˈɡando	verb	playing (gerund of jugar)	Estaba jugando.	I was playing.
+1185	llevas	llevas	verb	you carry; you take; you wear (llevar)	¿Me llevas?	Can you give me a ride?
+1186	alegra	alegra	verb	gladdens; makes happy (alegrar)	Me alegra verla.	I am glad to see her.
+1187	bailar	baiˈlaɾ	verb	to dance	Sé bailar.	I can dance.
+1188	diablo	ˈdjablo	noun	devil	Soy el diablo.	I'm the devil.
+1189	oí	oˈi	verb	I heard (oír)	Lo oí todo.	I heard every word.
+1190	sepa	ˈsepa	verb	know (subjunctive of saber)	No que yo sepa.	Not that I know of.
+1191	estarás	estaˈɾas	verb	you will be (estar)	¿Dónde estarás?	Where will you be?
+1192	sur	ˈsuɾ	noun	south	Ve al sur.	Head south.
+1193	banda	ˈbanda	noun	band; gang	Toco en una banda.	I play in a band.
+1194	aprender	apɾenˈdeɾ	verb	to learn	Adoro aprender.	I love learning.
+1195	precio	ˈpɾeθjo	noun	price	Mira el precio.	Look at the price.
+1196	completo	komˈpleto	adj	complete; full	Soy un completo idiota.	I'm a complete idiot.
+1197	santo	ˈsanto	adj	holy; saint	No soy un santo.	I'm no saint.
+1198	culpable	kulˈpable	adj	guilty	Soy culpable.	I'm guilty.
+1199	ganas	ˈɡanas	noun	desire; urge	¿Cuánto ganas?	How much do you earn?
+1200	tuvimos	tuˈbimos	verb	we had (tener)	No tuvimos éxito.	We were unsuccessful.
+1201	verla	ˈbeɾla	verb	to see her; to see it	Espero verla.	I hope that I'll see her.
+1202	volvió	volvió	verb	returned (volver)	Yanni volvió.	Yanni returned.
+1203	libros	libros	noun	books	Leo libros.	I read books.
+1204	ojo	ˈoxo	noun	eye	Ojo por ojo.	An eye for an eye.
+1205	serán	seˈɾan	verb	they will be (ser)	Solo serán tres días.	It's only for three days.
+1206	cielos	ˈθjelos	interj	heavens!	El águila vuela por los cielos.	The eagle flies through the sky.
+1207	matado	maˈtado	verb	killed (past participle of matar)	Me han matado.	They killed me.
+1208	azul	aˈθul	adj	blue	Uno es azul.	One is blue.
+1209	diferentes	difeˈɾentes	adj	different (plural)	Son diferentes.	They're different.
+1210	irte	ˈiɾte	verb	to leave; to go	Podés irte.	You may go.
+1211	comandante	komanˈdante	noun	commander	Él es el comandante Joki.	He is Commander Joki.
+1212	acción	aɡˈθjon	noun	action	Es un hombre de acción.	He is a man of action.
+1213	reglas	reglas	noun	rules	Hay reglas.	There are rules.
+1214	obra	ˈobɾa	noun	work; play	Dimos fin a la obra.	We finished the work.
+1215	esperanza	espeˈɾanθa	noun	hope	Tiene esperanza.	She has hope.
+1216	cuestión	kwesˈtjon	noun	question; matter	Es cuestión de gustos.	It's a question of taste.
+1217	molesta	moˈlesta	verb	bothers; annoys (molestar)	Me molesta.	It just bugs me.
+1218	teniendo	teˈnjendo	verb	having (gerund of tener)	Estoy teniendo dificultades.	I'm having difficulties.
+1219	informe	inˈfoɾme	noun	report	Escribe un informe.	Write a report.
+1220	río	ˈrio	noun	river	Nunca río.	I never laugh.
+1221	bienvenido	bjembeˈnido	adj	welcome	Fui bienvenido.	I was welcomed.
+1222	abrir	aˈbɾiɾ	verb	to open	¿Puede abrir esto?	Can you open this?
+1223	tocar	toˈkaɾ	verb	to touch; to play (music)	¿Qué vas a tocar?	What are you going to play?
+1224	contar	konˈtaɾ	verb	to count; to tell	Empieza a contar.	Start counting.
+1225	sigo	ˈsiɡo	verb	I continue; I follow (seguir)	Ahora sigo yo.	My turn comes next.
+1226	interior	inteˈɾjoɾ	adj	inner; interior	No llevo ropa interior.	I'm not wearing any underwear.
+1227	apartamento	apaɾtaˈmento	noun	apartment	Vivo en un apartamento.	I live in an apartment.
+1228	vea	ˈbea	verb	see (subjunctive of ver)	No creo que lo vea.	I probably won't watch this.
+1229	estados	esˈtados	noun	states	Los estados buenos no existen.	Good states don't exist.
+1230	estáis	esˈtais	verb	you are (Spain plural)	¿Cómo estáis?	How do you do?
+1231	preocupa	preocupa	verb	worries (preocupar)	Te preocupa.	It concerns you.
+1232	tomó	tomó	verb	took; drank (preterite of tomar)	Tom lo tomó.	Tom took it.
+1233	principal	pɾinθiˈpal	adj	main; principal	Eso es lo principal.	That's the main thing.
+1234	empieza	emˈpjeθa	verb	starts; begins (empezar)	Tú empieza.	You start.
+1235	empezó	empezó	verb	started; began (preterite of empezar)	Ya empezó.	It's started already.
+1236	vayan	ˈbaʝan	verb	go (subjunctive of ir)	Quizá vayan.	They may go.
+1237	llaman	ˈʝaman	verb	they call (llamar)	Me llaman.	They're calling me.
+1238	ojalá	oxaˈla	interj	hopefully; I wish	Ojalá no existiera la palabra "ojalá".	If only the term "if only" didn't exist.
+1239	perdona	perdona	verb	forgive!; excuse (perdonar)	Tom te perdona.	Tom forgives you.
+1240	vuelvo	ˈbwelbo	verb	I return (volver)	Ya vuelvo.	I'll be right back.
+1241	golpe	ˈɡolpe	noun	hit; blow	Tuve un golpe.	I had a stroke.
+1242	quedarme	quedarme	verb	to stay; to remain	Puedo quedarme.	I can stay.
+1243	llamaré	ʝamaˈɾe	verb	I will call (llamar)	Te llamaré.	I'll call you.
+1244	acabado	akaˈbado	adj	finished; worn out	Estás acabado.	You're through.
+1245	estilo	esˈtilo	noun	style	No es mi estilo.	It's not my style.
+1246	nueve	ˈnwebe	num	nine	Son las nueve.	It's nine o'clock.
+1247	definitivamente	definiˌtibaˈmente	adv	definitely	Él definitivamente no vendrá.	He's definitely not coming.
+1248	quedar	keˈdaɾ	verb	to stay; to remain; to be left	¿Me puedo quedar?	Can I stay?
+1249	cartas	cartas	noun	letters	¿Saco las cartas?	Should I take out the letters?
+1250	bomba	ˈbomba	noun	bomb	Eres la bomba.	You're something else.
+1251	guardia	ˈɡwaɾdja	noun	guard; police	¡En guardia!	En garde!
+1252	pistola	pisˈtola	noun	pistol; gun	Dame una pistola.	Give me a gun.
+1253	probar	pɾoˈbaɾ	verb	to try; to taste; to prove	Déjame probar.	Let me have a try.
+1254	majestad	maxesˈtad	noun	majesty	Quien una vez fue rey nunca pierde su majestad.	
+1255	traer	tɾaˈeɾ	verb	to bring	Ve a traer café.	Go get coffee.
+1256	marcha	ˈmaɾt͡ʃa	noun	march; rhythm; departure	Me fui de marcha.	I went hiking.
+1257	pareces	pareces	verb	you seem (parecer)	No pareces feliz.	You don't seem to be happy.
+1258	común	koˈmun	adj	common	Es un error común.	It's a common mistake.
+1259	aquel	aˈkel	det	that (over there)	¿Este o aquel?	This one or that one?
+1260	hacerle	hacerle	verb	to do to him/her	No deberías hacerle caso.	You shouldn't listen to him.
+1261	vuelo	ˈbwelo	noun	flight	Buen vuelo.	Have a nice flight.
+1262	nota	ˈnota	noun	note; grade	Toma nota.	Take note.
+1263	humanos	uˈmanos	adj	human (plural)	Somos humanos.	We are human.
+1264	estaremos	estaˈɾemos	verb	we will be (estar)	Ahí estaremos.	We'll be there.
+1265	valor	baˈloɾ	noun	value; courage	Admiro su valor.	I admire his courage.
+1266	suyo	ˈsuʝo	det	his; hers; theirs; yours	Esto es suyo.	This is his.
+1267	objetivo	obxeˈtibo	noun	goal; objective	Sé objetivo.	Be objective.
+1268	repente	reˈpente	noun	sudden (as in "de repente")	Pasó de repente.	It happened suddenly.
+1269	debía	deˈbia	verb	had to; owed (deber)	Él le debía mucho.	He owed a lot to her.
+1270	rojo	ˈroxo	adj	red	El Sol es rojo.	The sun is red.
+1271	bromeando	bromeando	verb	joking (gerund of bromear)	Estoy bromeando.	I am joking.
+1272	irá	iˈɾa	verb	will go (ir)	Él no irá.	He will not go.
+1273	entrada	enˈtɾada	noun	entrance; ticket; input	Cierra la entrada.	Lock the gate.
+1274	doble	ˈdoble	adj	double	Veo doble.	I see double.
+1275	dejaré	dexaˈɾe	verb	I will leave (dejar)	Lo dejaré.	I'll stop.
+1276	evitar	ebiˈtaɾ	verb	to avoid	No se puede evitar.	It can't be helped.
+1277	máquina	ˈmakina	noun	machine	¡Inguia su máquina!	Holy cow!
+1278	cuello	ˈkweʝo	noun	neck; collar	¡Ay! ¡Mi cuello!	Ow! My neck!
+1279	conocí	konoˈθi	verb	I met; I knew (conocer)	Lo conocí.	I met him for the first time.
+1280	tiempos	tiempos	noun	times	Son tiempos duros.	Times are tough.
+1281	tome	tome	verb	take (subjunctive of tomar)	Adelante, tome otro.	Please take another one.
+1282	animales	animales	noun	animals	Amo los animales.	I love animals.
+1283	acaso	aˈkaso	adv	perhaps; maybe	¿Es acaso paranoia mía?	Am I just being paranoid?
+1284	tuviera	tuˈbjeɾa	verb	had (subjunctive of tener)	¡Si solo tuviera alas!	If only I had wings!
+1285	pareja	paˈɾexa	noun	couple; partner	Son una pareja.	They're a couple.
+1286	verano	beˈɾano	noun	summer	Es verano.	It is summer.
+1287	escuché	escuché	verb	I listened; I heard (escuchar)	No escuché.	I didn't listen.
+1288	ama	ˈama	verb	loves (amar)	Él la ama.	He loves her.
+1289	serás	seˈɾas	verb	you will be (ser)	¿Qué serás?	What are you going to be?
+1290	mentira	menˈtiɾa	noun	lie	Era mentira.	That was a lie.
+1291	tarjeta	taɾˈxeta	noun	card	Pago con tarjeta.	I'll pay with my card.
+1292	hagan	ˈaɡan	verb	do; make (subjunctive of hacer)	¡No lo hagan!	Don't do it.
+1293	perdí	perdí	verb	I lost (perder)	No los perdí.	I didn't lose them.
+1294	correr	koˈreɾ	verb	to run	Sé correr.	I can run.
+1295	traído	tɾaˈido	verb	brought (past participle of traer)	Se las han traído.	They've been brought to them.
+1296	llegue	ˈʝeɡe	verb	arrive (subjunctive of llegar)	No llegue tarde.	Don't be late.
+1297	preparado	pɾepaˈɾado	adj	prepared; ready	Está preparado.	He's prepared.
+1298	haberlo	aˈbeɾlo	verb	to have it	Negó haberlo hecho.	He denied having done it.
+1299	usa	ˈusa	verb	uses; wears (usar)	Él usa lentes.	He wears glasses.
+1300	intentar	intenˈtaɾ	verb	to try	Dejame intentar.	Let me have a try.
+1301	ayudarme	ayudarme	verb	to help me	Ven a ayudarme.	Come help me.
+1302	flores	ˈfloɾes	noun	flowers	Vendo flores.	I sell flowers.
+1303	dando	ˈdando	verb	giving (gerund of dar)	Estaba dando un paseo.	I was taking a walk.
+1304	vos	ˈbos	pron	you (vos)	¡Che, vos!	Hey, you!
+1305	opción	obˈθjon	noun	option	No hay opción.	There is no choice.
+1306	isla	ˈisla	noun	island	¿Qué isla es ésta?	What island is this?
+1307	cierra	ˈθjera	verb	closes (cerrar)	¿A qué hora cierra?	What time does it close?
+1308	piel	ˈpjel	noun	skin; leather	Su piel es lisa.	Her skin is smooth.
+1309	enemigo	eneˈmiɡo	noun	enemy	Es mi enemigo.	You're my enemy.
+1310	dejo	ˈdexo	noun	accent; trace	Te lo dejo.	You can have it.
+1311	exacto	eɡˈsaɡto	adj	exact	Es exacto.	It's accurate.
+1312	imbécil	imˈbeθil	adj	stupid; imbecile	¡Qué imbécil!	What a jerk!
+1313	jóvenes	ˈxobenes	adj	young (plural)	Son jóvenes.	They're young.
+1314	pedido	peˈdido	noun	order; request	He pedido pan.	I ordered bread.
+1315	larga	ˈlaɾɡa	adj	long (feminine)	Se larga a llorar.	He's beginning to cry.
+1316	entiende	entiende	verb	understands (entender)	No entiende.	You don't understand.
+1317	justicia	xusˈtiθja	noun	justice	Quiero justicia.	I want justice.
+1318	nuevos	ˈnwebos	adj	new (plural)	Son nuevos.	They're new.
+1319	obviamente	ˌobbjaˈmente	adv	obviously	Esto obviamente me preocupa.	This obviously concerns me.
+1320	despierta	desˈpjeɾta	verb	wakes (despertar)	Tom, despierta.	Tom, wake up.
+1321	pido	ˈpido	verb	I ask for; I order (pedir)	Me lo pido.	Dibs.
+1322	calor	kaˈloɾ	noun	heat	Hace calor.	It's hot.
+1323	luces	ˈluθes	noun	lights	No hay luces.	There're no lights.
+1324	refiero	refiero	verb	I refer (referir)	A eso me refiero.	I mean that.
+1325	fuimos	ˈfwimos	verb	we were; we went (ser; ir)	Todos nos fuimos.	We all quit.
+1326	batalla	baˈtaʝa	noun	battle	¡A la batalla!	To battle!
+1327	déjalo	déjalo	verb	leave it; let it (dejar + lo)	Bah, déjalo.	Ah, whatever.
+1328	intenta	intenta	verb	tries (intentar)	Él lo intenta.	He tries.
+1329	fantástico	fanˈtastiko	adj	fantastic	Fue fantástico.	It was fantastic.
+1330	brazo	ˈbɾaθo	noun	arm	Alzó su brazo.	He raised his arm.
+1331	absolutamente	absoˌlutaˈmente	adv	absolutely	Es absolutamente falso.	It's absolutely false.
+1332	llena	ˈʝena	adj	full (feminine)	Estoy llena.	I'm full.
+1333	hacerme	hacerme	verb	to do to me	Quería hacerme rico.	I wanted to become rich.
+1334	salga	ˈsalɡa	verb	leave; go out (subjunctive of salir)	Entre o salga.	Enter or exit.
+1335	recordar	rekoɾˈdaɾ	verb	to remember	Quería recordar.	I wanted to remember.
+1336	escapar	eskaˈpaɾ	verb	to escape	Logré escapar.	I managed to escape.
+1337	bosque	ˈboske	noun	forest; woods	Entré en el bosque.	I entered the forest.
+1338	gay	ˈɡei	adj	gay	Él es gay.	He's gay.
+1339	señores	señores	noun	gentlemen; sirs	Señoras y señores...	Ladies and gentlemen...
+1340	quedan	quedan	verb	remain; stay (quedar)	¿Te quedan balas?	Do you have any bullets left?
+1341	piernas	ˈpjeɾnas	noun	legs	Estiré las piernas.	I stretched out my legs.
+1342	visita	biˈsita	noun	visit; visitor	Tenemos visita.	We have a guest.
+1343	parís	parís	noun	Paris		
+1344	usando	uˈsando	verb	using (gerund of usar)	Estoy usando esto.	I'm using this.
+1345	ganado	ɡaˈnado	noun	livestock; cattle	¡He ganado!	I won!
+1346	movimiento	mobiˈmjento	noun	movement	Aquí hay mucho movimiento.	There's lots of movement here.
+1347	blanca	ˈblanka	adj	white (feminine)	Está sin blanca.	He's broke.
+1348	rico	ˈriko	adj	rich; tasty	Eres rico.	You're rich.
+1349	inocente	inoˈθente	adj	innocent	Es inocente.	He's innocent.
+1350	pesar	peˈsaɾ	noun	grief; sorrow	Me reí a pesar de mi.	I laughed in spite of myself.
+1351	absoluto	absoˈluto	adj	absolute	No, en absoluto.	No, not at all.
+1352	vacaciones	bakaˈθjones	noun	vacation; holidays	Felices vacaciones.	Happy holidays.
+1353	mismos	ˈmismos	adj	same (plural)	Servíos vosotros mismos.	Help yourself.
+1354	tomado	toˈmado	verb	taken; drunk (past participle of tomar)	Has tomado todo.	You've taken everything.
+1355	habías	aˈbias	verb	you had (haber)	¿No habías salido?	Didn't you go out?
+1356	planes	ˈplanes	noun	plans	Tengo planes.	I have plans.
+1357	cine	ˈθine	noun	cinema; movies	Voy al cine.	I'm going to the cinema.
+1358	toca	ˈtoka	verb	touches; plays; it is time (tocar)	¿Ya me toca?	Is it my turn?
+1359	brillante	bɾiˈʝante	adj	bright; brilliant	¡Sé brillante!	Be brilliant!
+1360	confianza	konˈfjanθa	noun	trust; confidence	Ten confianza.	Be confident.
+1361	vuestra	ˈbwestɾa	det	your (feminine; Spain)	Fue culpa vuestra.	It was your fault.
+1362	nombres	ˈnombɾes	noun	names	¿Sabes sus nombres?	Do you know their names?
+1363	especialmente	espeˌθjalˈmente	adv	especially	Hoy no hace calor especialmente.	It isn't especially hot today.
+1364	embarazada	embaɾaˈθada	adj	pregnant	Estoy embarazada.	I'm pregnant.
+1365	esperen	esperen	verb	wait (subjunctive of esperar)	¡No esperen!	Don't wait.
+1366	pantalones	pantaˈlones	noun	pants; trousers	Quiero pantalones.	I want trousers.
+1367	defensa	deˈfensa	noun	defense	Nadie alzó la voz en su defensa.	No one spoke up in his defense.
+1368	terminó	terminó	verb	finished; ended (terminar)	Se terminó.	It's over.
+1369	salido	saˈlido	verb	gone out; left (past participle of salir)	Han salido.	They've left.
+1370	estupendo	estuˈpendo	adj	great; wonderful	Es estupendo.	It's great.
+1371	presión	pɾeˈsjon	noun	pressure	Tengo presión alta.	I have high blood pressure.
+1372	inmediatamente	immeˌdjataˈmente	adv	immediately	Ven inmediatamente.	Come here immediately!
+1373	testigo	tesˈtiɡo	noun	witness	Soy testigo.	I'm a witness.
+1374	deberían	debeˈɾian	verb	they should (deber)	No deberían salir.	They shouldn't go out.
+1375	olvidado	olbiˈdado	adj	forgotten	¿Te has olvidado?	Did you forget?
+1376	soldados	solˈdados	noun	soldiers	Eran soldados.	They were soldiers.
+1377	resulta	resulta	verb	turns out; results (resultar)	Me resulta familiar.	It looks familiar.
+1378	depende	depende	verb	depends (depender)	No depende de mí.	It's not up to me.
+1379	motivo	moˈtibo	noun	reason; motive	¿Por cuál motivo?	On what account?
+1380	inglés	inˈɡles	adj	English	Es inglés.	He's English.
+1381	suya	ˈsuʝa	det	his; hers; theirs; yours (feminine)	Ésta es suya.	This is his.
+1382	estudio	esˈtudjo	noun	study	No estudio.	I don't study.
+1383	acabar	akaˈbaɾ	verb	to finish; to end	Acabo de acabar.	I just finished.
+1384	sentimientos	sentiˈmjentos	noun	feelings	No tengo sentimientos.	I have no feelings.
+1385	tomando	tomando	verb	taking; drinking (gerund of tomar)	Están tomando té.	They're drinking tea.
+1386	dieron	ˈdjeɾon	verb	they gave (dar)	Me dieron.	I got hit.
+1387	parecen	parecen	verb	they seem (parecer)	Se me parecen.	They look alike to me.
+1388	llaves	ˈʝabes	noun	keys	Dame las llaves.	Give me the keys.
+1389	perros	perros	noun	dogs	No sois perros.	You're not dogs.
+1390	propósito	pɾoˈposito	noun	purpose	Fallé a propósito.	I failed on purpose.
+1391	noticia	noˈtiθja	noun	news item; notice	¡Qué mala noticia!	What bad news!
+1392	partir	paɾˈtiɾ	verb	to leave; to split	Los vimos partir.	We saw them leave.
+1393	vuestro	ˈbwestɾo	det	your (Spain)	¿Es vuestro?	Is it yours?
+1394	metros	ˈmetɾos	noun	meters	Mide casi dos metros.	He's almost two meters tall.
+1395	santa	ˈsanta	adj	saint; holy (feminine)	¡Caballa santa!	Holy cow!
+1396	quedarse	quedarse	verb	to stay; to remain	Querían quedarse.	They wanted to stay.
+1397	clientes	clientes	noun	clients; customers	No hay clientes.	There are no customers.
+1398	podrá	podrá	verb	will be able (poder)	¿Qué podrá ser?	What can it be?
+1399	cuántas	ˈkwantas	adv	how many (feminine)	¿Para cuántas noches?	For how many nights?
+1400	ridículo	riˈdikulo	adj	ridiculous	Es ridículo.	It's ridiculous.
+1401	damas	ˈdamas	noun	ladies	Las damas primero.	Ladies first.
+1402	estuviste	estuˈbiste	verb	you were (preterite of estar)	Nunca estuviste solo.	You were never alone.
+1403	tranquila	tɾanˈkila	adj	calm; quiet (feminine)	Es tranquila.	She is quiet.
+1404	operación	opeɾaˈθjon	noun	operation	¿Necesito una operación?	Do I need an operation?
+1405	come	ˈkome	verb	eats (comer)	Paul come.	Paul eats.
+1406	empresa	emˈpɾesa	noun	company; business	Adoro esta empresa.	I love this company.
+1407	ayúdame	ayúdame	verb	help me	Ven y ayúdame.	Come and help me.
+1408	laboratorio	laboɾaˈtoɾjo	noun	laboratory; lab	Voy al laboratorio.	I'm going to the lab.
+1409	elección	eleɡˈθjon	noun	election; choice	Haz tu elección.	Make your choice.
+1410	menudo	meˈnudo	adj	small; insignificant	Viajo a menudo.	I travel often.
+1411	beso	ˈbeso	noun	kiss	Dame un beso.	Give me a kiss.
+1412	copa	ˈkopa	noun	glass (of wine); cup	Has roto mi copa.	You broke my cup.
+1413	conversación	kombeɾsaˈθjon	noun	conversation	Grabé nuestra conversación.	I recorded our conversation.
+1414	brazos	ˈbɾaθos	noun	arms	Tengo dos brazos.	I have two arms.
+1415	espíritu	esˈpiɾitu	noun	spirit	Ese es el espíritu.	That's the spirit.
+1416	dejas	ˈdexas	verb	you leave; you let (dejar)	¿Ya nos dejas?	Are you already leaving us?
+1417	cansado	kanˈsado	adj	tired	Estoy cansado.	I'm tired.
+1418	interesa	interesa	verb	interests (interesar)	Me interesa.	I'm interested in it.
+1419	refieres	refieres	verb	you refer (referir)	¿Te refieres a mí?	Do you refer to me?
+1420	casado	kaˈsado	adj	married	Soy casado.	I'm married.
+1421	enorme	eˈnoɾme	adj	enormous; huge	¡Es enorme!	It's enormous!
+1422	asuntos	asuntos	noun	matters; affairs	¡Métete en tus asuntos!	Mind your own business!
+1423	fe	ˈfe	noun	faith	Tengan fe.	Have faith.
+1424	muestra	ˈmwestɾa	noun	sample; sign	María muestra el espejo.	Mary shows the mirror.
+1425	trampa	ˈtɾampa	noun	trap; cheat	Hizo trampa.	You cheated.
+1426	memoria	meˈmoɾja	noun	memory	¡Qué memoria!	What memory!
+1427	contrario	konˈtɾaɾjo	adj	contrary; opposite	Hizo lo contrario.	He did the opposite.
+1428	soldado	solˈdado	noun	soldier	Tom es soldado.	Tom is a soldier.
+1429	subir	suˈbiɾ	verb	to go up; to raise	¿Vas a subir?	Are you coming up?
+1430	turno	ˈtuɾno	noun	turn; shift	Es tu turno.	It's your move.
+1431	encantaría	enkantaˈɾia	verb	would love; would enchant (encantar)	Me encantaría eso.	I would love that.
+1432	preocupado	pɾeokuˈpado	adj	worried	No fui preocupado.	I wasn't careful.
+1433	restaurante	restauˈɾante	noun	restaurant	Voy al restaurante.	I'm going to the restaurant.
+1434	saliendo	saliendo	verb	leaving; going out (gerund of salir)	Voy saliendo.	I'm leaving now.
+1435	escrito	esˈkɾito	adj	written	Ponlo por escrito.	Write it up.
+1436	cálmate	cálmate	verb	calm down	Hey, cálmate.	Hey, relax.
+1437	bienvenida	bjembeˈnida	noun	welcome	Te doy la bienvenida.	I bid you welcome.
+1438	caer	kaˈeɾ	verb	to fall	Te vas a caer.	You'll fall down.
+1439	llevaré	llevaré	verb	I will carry; I will take (llevar)	Lo llevaré.	I'll take him.
+1440	leche	ˈlet͡ʃe	noun	milk	Tomé leche.	I drank milk.
+1441	estrellas	esˈtɾeʝas	noun	stars	Mira las estrellas.	Look at the stars.
+1442	prefiero	prefiero	verb	I prefer (preferir)	Yo prefiero café.	I prefer coffee.
+1443	red	ˈred	noun	net; network	Reparó la red.	He fixed the net.
+1444	viejos	viejos	adj	old (plural)	Son viejos.	They're old.
+1445	solamente	ˌsolaˈmente	adv	only; merely	Uso externo solamente.	External application only.
+1446	oiga	ˈoiɡa	verb	hear!; hello (oír)	¡Dios te oiga!	Let's hope so!
+1447	estén	esˈten	verb	be (subjunctive of estar)	No estén conformes.	Do not agree.
+1448	cuentas	ˈkwentas	noun	accounts; bills	¿Qué me cuentas?	What's new?
+1449	taxi	ˈtaɡsi	noun	taxi	Iré en taxi.	I'll go by taxi.
+1450	anillo	aˈniʝo	noun	ring	Llevaba mi anillo.	I wore my ring.
+1451	preguntar	pɾeɡunˈtaɾ	verb	to ask	Me gustaría preguntar.	I would like to ask.
+1452	victoria	biɡˈtoɾja	noun	victory	Esa es tu victoria.	That is your victory.
+1453	quiénes	quiénes	pron	who (plural)	Sé quiénes son.	I know who they are.
+1454	héroe	ˈeɾoe	noun	hero	Soy un héroe.	I'm a hero.
+1455	pequeños	peˈkeɲos	adj	small; little (plural)	Son pequeños.	They're small.
+1456	decidido	deθiˈdido	adj	decided	Eres decidido.	You're driven.
+1457	películas	películas	noun	movies; films	Odio ver películas.	I hate watching movies.
+1458	responsable	responˈsable	adj	responsible	Soy responsable.	I'm responsible.
+1459	trago	ˈtɾaɡo	noun	drink; sip; gulp	No le trago.	I can't stand him.
+1460	volverá	bolbeˈɾa	verb	will return (volver)	Tom no volverá.	Tom won't come back.
+1461	árbol	ˈaɾbol	noun	tree	Veo un árbol.	I see a tree.
+1462	ibas	ˈibas	verb	you were going (ir)	¿Adónde ibas?	Where were you going?
+1463	dientes	dientes	noun	teeth	¡Lávate los dientes!	Clean your teeth!
+1464	encantado	enkanˈtado	adj	delighted; enchanted	Tom estará encantado.	Tom will be thrilled.
+1465	camión	kaˈmjon	noun	truck; lorry	El camión pasó.	The truck passed.
+1466	vender	benˈdeɾ	verb	to sell	No lo voy a vender.	I'm not going to sell it.
+1467	llame	ˈʝame	verb	call (subjunctive of llamar)	No me llame.	Don't call me.
+1468	detente	deˈtente	verb	stop! (detener)	¡Sam, detente!	
+1469	luchar	luˈt͡ʃaɾ	verb	to fight; to struggle	Quería luchar.	I wanted to fight.
+1470	cabo	ˈkabo	noun	end; cape; corporal	Tiene galones de cabo.	He has corporal's stripes.
+1471	ruido	ˈrwido	noun	noise	¡Haz ruido!	Make some noise!
+1472	lucha	ˈlut͡ʃa	noun	fight; struggle	Jennifer lucha.	Jennifer fights.
+1473	muere	muere	verb	dies (morir)	Nadie muere.	Nobody dies.
+1474	reloj	reˈlox	noun	clock; watch	Perdí el reloj.	I lost the watch.
+1475	gato	ˈɡato	noun	cat	Pobre gato.	Poor cat.
+1476	averiguar	abeɾiˈɡwaɾ	verb	to find out	Pude averiguar su dirección.	I was able to find out his address.
+1477	volar	boˈlaɾ	verb	to fly	Odio volar.	I hate flying.
+1478	vayamos	baˈʝamos	verb	let's go (ir)	No vayamos.	Let's not go.
+1479	tanta	ˈtanta	det	so much; so many (feminine)	Tengo tanta sed.	I'm so thirsty.
+1480	vendrá	vendrá	verb	will come (venir)	Él vendrá.	He will come.
+1481	corriendo	corriendo	verb	running (gerund of correr)	Siga corriendo.	Keep running.
+1482	yendo	ˈʝendo	verb	going (gerund of ir)	Estamos yendo a casa.	We're going home.
+1483	colegio	koˈlexjo	noun	school	Fui al colegio.	I went to school.
+1484	sonido	soˈnido	noun	sound	El sonido cesó.	The sound ceased.
+1485	caballero	kabaˈʝeɾo	noun	gentleman; knight	Sé un caballero.	Please be gentle.
+1486	pasada	paˈsada	noun	passing; crossing	Eso es una pasada.	That is a hell of a thing.
+1487	código	ˈkodiɡo	noun	code	Sé código Morse.	I know Morse code.
+1488	hagamos	aˈɡamos	verb	let's do; let's make (hacer)	No hagamos el trabajo.	Let's not do the work.
+1489	imagen	iˈmaxen	noun	image	Vi la imagen.	I saw the picture.
+1490	riesgo	ˈrjesɡo	noun	risk	No hay riesgo.	There's no risk.
+1491	llegamos	llegamos	verb	we arrived; we arrive (llegar)	¡Ya llegamos!	Here we are!
+1492	alguno	alˈɡuno	det	some; any	Coge alguno.	Have some.
+1493	pan	ˈpan	noun	bread	Comen pan.	They eat bread.
+1494	millón	miˈʝon	noun	million	Ni en un millón de años.	Not in a million years.
+1495	malas	malas	adj	bad (feminine plural)	No seáis malas.	Don't be evil.
+1496	dama	ˈdama	noun	lady	Capturé a tu dama.	I captured your queen.
+1497	hielo	ˈʝelo	noun	ice	Té sin hielo.	Tea without ice.
+1498	coño	ˈkoɲo	interj	damn; fuck	Éste es mi coño.	That's my pussy.
+1499	cayó	kaˈʝo	verb	fell (caer)	Tom se cayó.	Tom fell.
+1500	prensa	ˈpɾensa	noun	press	Esa es la libertad de prensa.	That's the press freedom.
+1501	querer	keˈɾeɾ	verb	to want; to love	Quiero querer.	I wanna want.
+1502	vengan	vengan	verb	come (subjunctive of venir)	Quizá vengan.	They may come.
+1503	caminar	kamiˈnaɾ	verb	to walk	¡A caminar!	Walk!
+1504	televisión	telebiˈsjon	noun	television; TV	Veo la televisión.	I watch television.
+1505	pasará	pasará	verb	will happen; will pass (pasar)	Se te pasará.	You'll get over it.
+1506	momentos	moˈmentos	noun	moments	Es uno de esos momentos.	It's one of those moments.
+1507	coger	koˈxeɾ	verb	to take; to grab	¿Puedes coger esto?	Can you take this?
+1508	posibilidad	posibiliˈdad	noun	possibility	Es una posibilidad.	I think it's a possibility.
+1509	hubiese	uˈbjese	verb	had (subjunctive of haber)	¡Ojalá hubiese seguido tu consejo!	If I'd only taken your advice!
+1510	asiento	aˈsjento	noun	seat	Toma asiento.	Have a seat.
+1511	tuviste	tuˈbiste	verb	you had (tener)	Oímos que tuviste problemas.	We heard that you had trouble.
+1512	herido	eˈɾido	adj	injured; wounded	Estoy herido.	I'm hurt.
+1513	maría	maˈɾia	noun	Mary	Layla fumaba maría.	Layla smoked pot.
+1514	seguramente	seˌɡuɾaˈmente	adv	surely; certainly	Tom seguramente vendrá.	Tom will surely come.
+1515	proyecto	pɾoˈʝeɡto	noun	project	El proyecto falló.	The project failed.
+1516	pared	paˈɾed	noun	wall	Esa es la pared.	That's the wall.
+1517	sentí	sentí	verb	I felt (sentir)	Me sentí mal.	I felt ill.
+1518	sospechoso	sospeˈt͡ʃoso	adj	suspicious	Parece sospechoso.	It looks suspicious.
+1519	naturaleza	natuɾaˈleθa	noun	nature	Amo la naturaleza.	I love nature.
+1520	ésa	ˈesa	pron	that one (feminine)	¿Es ésa tuya?	Is that yours?
+1521	silla	ˈsiʝa	noun	chair	Es una silla.	It's a chair.
+1522	perdió	perdió	verb	lost (perder)	Tom perdió.	Tom lost.
+1523	policías	policías	noun	police officers	Los policías mienten.	Cops lie.
+1524	arreglar	areˈɡlaɾ	verb	to fix; to arrange	La puedo arreglar.	I can fix her.
+1525	sentado	senˈtado	adj	seated	¡Siga sentado!	Remain seated!
+1526	papi	ˈpapi	noun	daddy	Feliz cumpleaños, papi.	Happy birthday, Dad.
+1527	ideas	iˈdeas	noun	ideas	No le des ideas.	Don't give him any ideas.
+1528	obtener	obteˈneɾ	verb	to obtain; to get	Quiero obtener mucho.	I want to get a lot.
+1529	felices	feˈliθes	adj	happy (plural)	Son felices.	They're happy.
+1530	señoría	seɲoˈɾia	noun	Your Honor; lordship		
+1531	cantidad	kantiˈdad	noun	amount; quantity	Hay una cantidad limitada.	Quantities are limited.
+1532	bebe	ˈbebe	verb	drinks (beber)	Ella bebe.	She drinks.
+1533	mírame	mírame	verb	look at me	Por favor, mírame.	Please, look at me.
+1534	papa	ˈpapa	noun	pope; dad	No sé ni papa.	I know nothing.
+1535	llorar	ʝoˈɾaɾ	verb	to cry	Te vi llorar.	I saw you crying.
+1536	quedó	quedó	verb	stayed; remained; was left (quedar)	Él quedó mal.	He lost face.
+1537	familiar	famiˈljaɾ	adj	family; familiar	Suena familiar.	It sounds familiar.
+1538	desastre	deˈsastɾe	noun	disaster	¡Qué desastre!	What a mess!
+1539	locos	ˈlokos	adj	crazy (plural)	Están locos.	They're crazy.
+1540	escuche	esˈkut͡ʃe	verb	listen (subjunctive of escuchar)	No nos escuche.	Don't listen to us.
+1541	quedarte	quedarte	verb	to stay	Puedes quedarte.	You can stay.
+1542	política	poˈlitika	noun	politics; policy	Odio la política.	I hate politics.
+1543	pedí	peˈdi	verb	I asked for (pedir)	No los pedí.	I didn't order them.
+1544	sois	ˈsois	verb	you are (Spain plural)	¿Cuántos sois?	How many are you?
+1545	nosotras	noˈsotɾas	pron	we (feminine)	Ven con nosotras.	Come with us.
+1546	enfermedad	enfeɾmeˈdad	noun	illness; disease	¿Qué enfermedad tengo?	What illness do I have?
+1547	encontraron	encontraron	verb	they found (encontrar)	Lo encontraron.	They found it.
+1548	colega	koˈleɡa	noun	colleague; mate	Él es mi colega.	He's my workmate.
+1549	príncipe	ˈpɾinθipe	noun	prince	Él es mi príncipe azul.	He is my Mr Right.
+1550	verde	ˈbeɾde	adj	green	Está verde.	It's green.
+1551	bajar	baˈxaɾ	verb	to go down; to lower	¿Vas a bajar?	Are you coming down?
+1552	nervioso	neɾˈbjoso	adj	nervous	Eres nervioso.	You're restless.
+1553	vengo	ˈbenɡo	verb	I come (venir)	Aquí vengo.	Here I come.
+1554	inspector	inspeɡˈtoɾ	noun	inspector	Retenlos un par de minutos hasta que llegue el inspector.	
+1555	sirve	sirve	verb	serves; works (servir)	Ya no sirve.	It is no longer useful.
+1556	puertas	puertas	noun	doors	Abrí las puertas.	I opened the doors.
+1557	fuerzas	ˈfweɾθas	noun	strength; forces	Ya no tengo fuerzas.	I've got no strength left.
+1558	playa	ˈplaʝa	noun	beach	Amo la playa.	I love the beach.
+1559	cantar	kanˈtaɾ	verb	to sing	Ama cantar.	He loves singing.
+1560	déjeme	déjeme	verb	let me (formal)	Váyase y déjeme en paz.	Go away and leave me alone.
+1561	velocidad	beloθiˈdad	noun	speed; velocity	Él corrió a toda velocidad	He ran at full speed.
+1562	total	toˈtal	adv	in short; altogether	Somos ocho en total.	We are eight altogether.
+1563	cabello	kaˈbeʝo	noun	hair	Él tocó su cabello.	He touched her hair.
+1564	suficientemente	sufiˌθjenteˈmente	adv	sufficiently	Soy suficientemente mayor.	I'm old enough.
+1565	huellas	huellas	noun	footprints; traces	Tomaron mis huellas.	They fingerprinted me.
+1566	haberte	aˈbeɾte	verb	to have you	Creí haberte oído.	I thought I heard you.
+1567	debí	deˈbi	verb	I had to; I should have (deber)	No debí meterme.	I shouldn't have gotten involved.
+1568	unidad	uniˈdad	noun	unit; unity	A la mierda la unidad.	Fuck unity.
+1569	estan	esˈtan	verb	they are (misspelling of están)	Tomás y María todavía no estan seguros por qué Juan quiere que hagan eso.	Tom and Mary are still not sure why John wants them to do that.
+1570	cuchillo	kuˈt͡ʃiʝo	noun	knife	Hay un cuchillo.	There is a knife.
+1571	oigan	ˈoiɡan	verb	listen! (oír)	Haz que te oigan.	Make them listen to you.
+1572	quienes	ˈkjenes	pron	who (plural)	Tomás sabe quienes son.	Tom knows who they are.
+1573	gana	ˈɡana	noun	appetite; desire	¿Quién gana?	Who's winning?
+1574	tonterías	tonterías	noun	nonsense; silly things	No digas tonterías.	Don't say crazy things.
+1575	emergencia	emeɾˈxenθja	noun	emergency	Es una emergencia.	It's an emergency.
+1576	perfecta	peɾˈfeɡta	adj	perfect (feminine)	¡Fue perfecta!	It was perfect!
+1577	hable	ˈable	verb	speak (subjunctive of hablar)	No hable por mí.	Don't speak for me.
+1578	gustaba	gustaba	verb	pleased; used to like (gustar)	Me gustaba.	I liked him.
+1579	lugares	lugares	noun	places	¿Qué lugares disfrutas?	What places do you enjoy?
+1580	show	ˈʃow	noun	show	No veo ese show.	I don't watch that show.
+1581	robo	ˈrobo	noun	robbery; theft	Yo no robo.	I don't steal.
+1582	permite	peɾˈmite	verb	allows; permits (permitir)	¿Me permite?	May I?
+1583	parque	ˈpaɾke	noun	park	Va al parque.	He's going to the park.
+1584	roto	ˈroto	adj	broken	Está roto.	It's broken.
+1585	serie	ˈseɾje	noun	series	¡Qué serie de mierda!	What a shitty series!
+1586	puse	ˈpuse	verb	I put (poner)	Me puse malo.	I got sick.
+1587	nuevas	ˈnwebas	adj	new (feminine plural)	Están nuevas.	They're new.
+1588	evidencia	ebiˈdenθja	noun	evidence	Tengo evidencia.	I've got evidence.
+1589	conocerte	conocerte	verb	to meet you; to know you	Quiero conocerte.	I want to know you.
+1590	estúpida	estúpida	adj	stupid (feminine)	No es estúpida.	She's not stupid.
+1591	preocupe	preocupe	verb	worry (subjunctive of preocupar)	No se preocupe.	Don't concern yourself.
+1592	perdone	perdone	verb	forgive (subjunctive of perdonar)	Que Dios me perdone.	Astaghfirullah.
+1593	botella	boˈteʝa	noun	bottle	Es una botella.	It's a bottle.
+1594	viento	ˈbjento	noun	wind	Hace viento.	It's windy.
+1595	mando	ˈmando	noun	control; command; remote	Tomas el mando.	You're taking over.
+1596	extraña	e(ɡ)sˈtɾaɲa	adj	strange (feminine)	Ella lo extraña.	She misses him.
+1597	historias	historias	noun	stories	Se inventa historias.	He makes up stories.
+1598	aquella	aˈkeʝa	det	that (over there; feminine)	Mira aquella casa.	Look at that house.
+1599	tenéis	teˈneis	verb	you have (Spain plural)	¿Qué tenéis?	What do you have?
+1600	solos	ˈsolos	adj	alone (plural)	Están solos.	They're alone.
+1601	apoyo	aˈpoʝo	noun	support	Yo lo apoyo.	I support him.
+1602	bala	ˈbala	noun	bullet	El borrego bala.	The sheep bleats.
+1603	verdadera	verdadera	adj	true; real (feminine)	¡Es una verdadera bruja!	She is a true witch!
+1604	tiro	ˈtiɾo	noun	shot; throw	¡Buen tiro!	Nice shot!
+1605	época	ˈepoka	noun	era; time	Yo era estudiante en esa época.	I was a student at that time.
+1606	puente	ˈpwente	noun	bridge	El puente cedió.	The bridge gave way.
+1607	olvídalo	olvídalo	verb	forget it	Por favor, olvídalo.	Please forget it.
+1608	distancia	disˈtanθja	noun	distance	¿A qué distancia?	How far?
+1609	desea	desea	verb	wishes; desires (desear)	¿Qué desea?	What does she desire?
+1610	dejarlo	dejarlo	verb	to leave it	¿Deseas dejarlo?	Do you want to quit?
+1611	pelear	peleˈaɾ	verb	to fight	Odio pelear.	I hate fighting.
+1612	pierna	ˈpjeɾna	noun	leg	¿Qué pierna duele?	Which leg hurts?
+1613	echar	eˈt͡ʃaɾ	verb	to throw; to fire; to pour	Lo voy a echar.	I'll fire them.
+1614	descanso	desˈkanso	noun	rest; break	Tómate un descanso.	Take a break.
+1615	área	ˈaɾea	noun	area	¿Tú eres del área?	Are you from around here?
+1616	orgulloso	oɾɡuˈʝoso	adj	proud	Estoy orgulloso.	I'm proud.
+1617	datos	ˈdatos	noun	data	Verifique sus datos.	Check your facts.
+1618	espectáculo	espeɡˈtakulo	noun	show; spectacle	¡Buen espectáculo!	Good show!
+1619	sube	sube	verb	goes up; rises (subir)	El sonido sube y baja.	The sound rises and falls.
+1620	dejaste	dejaste	verb	you left (dejar)	Lo dejaste morir.	You let him die.
+1621	acabas	aˈkabas	verb	you finish (acabar)	¿Lo acabas de robar?	Did you just steal this?
+1622	verá	beˈɾa	verb	will see (ver)	No nos verá nadie.	No one will see us.
+1623	magia	ˈmaxja	noun	magic	Eso fue magia.	That was magic.
+1624	nacional	naθjoˈnal	adj	national	Él se volvió un héroe nacional.	He became a national hero.
+1625	universo	uniˈbeɾso	noun	universe	El universo me odia.	The universe hates me.
+1626	llevaba	llevaba	verb	carried; was wearing; led (llevar)	Él llevaba gafas.	He wore glasses.
+1627	necesitar	neθesiˈtaɾ	verb	to need	Voy a necesitar tu ayuda.	I'm going to need your help.
+1628	nariz	naˈɾiθ	noun	nose	Sonate la nariz.	Wipe your nose.
+1629	aquellos	aˈkeʝos	det	those (over there)	Es uno de aquellos.	It's one of those.
+1630	clases	ˈklases	noun	classes; lessons	¿Tienes clases hoy?	Do you have school today?
+1631	casas	ˈkasas	noun	houses	Construyo casas.	I build houses.
+1632	vergüenza	beɾˈɡwenθa	noun	shame; embarrassment	¡Qué vergüenza!	What a shame!
+1633	estarán	estaˈɾan	verb	they will be (estar)	Pronto estarán casados.	They'll soon be married.
+1634	monstruo	ˈmonstɾwo	noun	monster	Soy un monstruo.	I'm a monster.
+1635	princesa	pɾinˈθesa	noun	princess	Sos mi princesa.	You're my princess.
+1636	autobús	autoˈbus	noun	bus	Llegó en autobús.	He came by bus.
+1637	cuidar	kwiˈdaɾ	verb	to take care of; to look after	Debes cuidar de mí.	You must take care of me.
+1638	huevos	ˈw̝ebos	noun	eggs	Son huevos.	They're eggs.
+1639	pocos	ˈpokos	det	few	Quedan pocos.	There aren't many left.
+1640	podrás	podrás	verb	you will be able (poder)	Pronto te podrás ir.	You'll be allowed to go out soon.
+1641	enferma	enˈfeɾma	adj	sick (feminine)	Me enferma.	It sickens me.
+1642	paseo	paˈseo	noun	walk; stroll	Yo di un paseo.	I took a walk.
+1643	detalles	detalles	noun	details	Espero detalles.	I expect details.
+1644	llamadas	ʝaˈmadas	noun	calls	Retenga mis llamadas.	Hold my calls.
+1645	belleza	beˈʝeθa	noun	beauty	¡Que belleza!	What a beauty!
+1646	abierto	aˈbjeɾto	adj	open	Está abierto.	It's open.
+1647	viviendo	viviendo	verb	living (gerund of vivir)	Estoy viviendo solo.	I'm living alone.
+1648	envió	envió	verb	sent (enviar)	¿Quién te envió?	Who sent you?
+1649	puntos	puntos	noun	points	Ha necesitado cinco puntos.	He needed five stitches.
+1650	ministro	miˈnistɾo	noun	minister	El primer ministro dimitió ayer.	The Prime Minister resigned yesterday.
+1651	conducir	konduˈθiɾ	verb	to drive; to lead	Sé conducir.	I know how to drive.
+1652	aceptar	aθebˈtaɾ	verb	to accept	No puedo aceptar.	I cannot accept.
+1653	borracho	boˈrat͡ʃo	adj	drunk	Estoy borracho.	I'm drunk.
+1654	animal	aniˈmal	noun	animal	Sos un animal.	You're an animal.
+1655	caballos	kaˈbaʝos	noun	horses	Tenemos caballos.	We have horses.
+1656	trajo	trajo	verb	brought (traer)	¿Qué trajo Tom?	What did Tom bring?
+1657	contrato	konˈtɾato	noun	contract	Se firmó el contrato.	The contract was signed.
+1658	viernes	ˈbjeɾnes	noun	Friday	Hoy es viernes.	Today is Friday.
+1659	bienvenidos	bienvenidos	adj	welcome (plural)	Sed bienvenidos.	Welcome.
+1660	ex	ˈeɡs	adj	former; ex-	Tom es mi ex.	Tom is my ex.
+1661	hechos	ˈet͡ʃos	noun	facts; deeds	Negó los hechos.	He denied the facts.
+1662	sociedad	soθjeˈdad	noun	society	Somos la sociedad.	We are the society.
+1663	tengan	ˈtenɡan	verb	have (subjunctive of tener)	Quizás ellas tengan algo.	Maybe they have something.
+1664	quede	quede	verb	stay (subjunctive of quedar)	Deja que me quede.	Permit me to stay.
+1665	carga	ˈkaɾɡa	noun	load; cargo; charge	Es un barco de carga.	It's a cargo ship.
+1666	diste	ˈdiste	verb	you gave (dar)	Me lo diste.	You gave it to me.
+1667	puto	ˈputo	adj	fucking; damn	¡Qué puto frío!	It's so fucking cold!
+1668	lleve	lleve	verb	carry (subjunctive of llevar)	No lleve eso.	Don't wear that.
+1669	presente	pɾeˈsente	noun	present; gift	Estaré presente.	I'll attend.
+1670	conocía	conocía	verb	knew (imperfect of conocer)	Él me conocía.	He knew me.
+1671	uso	ˈuso	noun	use	Yo lo uso.	I use it.
+1672	dedos	dedos	noun	fingers	Mirá mis dedos.	Watch my fingers.
+1673	oferta	oˈfeɾta	noun	offer; deal	Haz una oferta.	Make an offer.
+1674	sentía	sentía	verb	felt (imperfect of sentir)	Me sentía mal.	I felt bad.
+1675	proteger	pɾoteˈxeɾ	verb	to protect	Tom te va a proteger.	Tom will protect you.
+1676	date	ˈdate	verb	hurry up (darse)	Mejor date prisa.	You better hurry.
+1677	hiciera	iˈθjeɾa	verb	did; made (subjunctive of hacer)	Ojalá hiciera eso.	I wish I had done that.
+1678	hablé	aˈble	verb	I spoke (hablar)	¡Ya hablé!	I have spoken!
+1679	recibir	reθiˈbiɾ	verb	to receive	Quiero recibir.	I want to receive.
+1680	agradezco	aɡɾaˈdeθko	verb	I thank; I appreciate (agradecer)	Te lo agradezco.	Thank you.
+1681	robar	roˈbaɾ	verb	to rob; to steal	Copiar no es robar.	Copying is not theft.
+1682	enamorado	enamoˈɾado	adj	in love	Está enamorado.	He's in love.
+1683	sepas	ˈsepas	verb	know (subjunctive of saber)	Espero que lo sepas.	I hope you know that.
+1684	oeste	oˈeste	noun	west	Vamos al oeste.	Let's go west.
+1685	herida	eˈɾida	noun	wound; injury	Estás herida.	You're wounded.
+1686	despacio	desˈpaθjo	adv	slowly	Más despacio.	Slow down.
+1687	ayude	ayude	verb	help (subjunctive of ayudar)	Dile que le ayude.	Tell her to help him.
+1688	supe	ˈsupe	verb	I found out; I knew (saber)	Yo no supe.	I didn't know.
+1689	directamente	diˌɾeɡtaˈmente	adv	directly	No hablé directamente con Tom.	I didn't speak with Tom directly.
+1690	inmediato	immeˈdjato	adj	immediate	Hazlo de inmediato.	Do it at once.
+1691	profesional	pɾofesjoˈnal	adj	professional	No soy un profesional.	I am not a professional.
+1692	oscuro	osˈkuɾo	adj	dark	Está oscuro.	It's dark.
+1693	mercado	meɾˈkado	noun	market	Voy al mercado.	I go to the market.
+1694	cerdo	ˈθeɾdo	noun	pig	Sos un cerdo.	You're a pig.
+1695	tardes	tardes	noun	afternoons	¡No tardes!	Don't be late!
+1696	líder	ˈlideɾ	noun	leader	Eres el líder.	You're the leader.
+1697	grave	ˈɡɾabe	adj	serious; grave	¿Es grave?	Is it bad?
+1698	llegué	ʝeˈɡe	verb	I arrived (llegar)	¡Ya llegué!	I already arrived!
+1699	jurado	xuˈɾado	noun	jury	Perjuró ante el jurado.	She perjured herself before the jury.
+1700	casos	ˈkasos	noun	cases	Son los casos extremos.	They are the extreme cases.
+1701	acuerdas	acuerdas	verb	you remember (acordar)	¿Te acuerdas?	Do you remember?
+1702	ahi	ahi	adv	there (misspelling of ahí)		
+1703	desaparecido	desapaɾeˈθido	adj	missing; disappeared	La nieve ha desaparecido.	The snow has disappeared.
+1704	debió	deˈbjo	verb	must have; owed (deber)	Tom debió haber llamado.	Tom should've called.
+1705	hubieras	uˈbjeɾas	verb	had (subjunctive of haber)	Ojalá hubieras estado allí.	I wish you had been there.
+1706	últimamente	ˌultimaˈmente	adv	lately; recently	He engordado últimamente.	I've put on weight recently.
+1707	piedra	ˈpjedɾa	noun	stone; rock	Cogió una piedra.	He picked up a stone.
+1708	éramos	ˈeɾamos	verb	we were (imperfect of ser)	Solo éramos amigos.	We were just friends.
+1709	habló	aˈblo	verb	spoke (hablar)	Tom habló.	Tom spoke.
+1710	paga	ˈpaɡa	noun	pay; payment	¿Quién paga?	Who's paying?
+1711	secretos	secretos	noun	secrets	Tengo más secretos.	I've got more secrets.
+1712	digamos	diˈɡamos	verb	let's say; so to speak	Haz exactamente lo que te digamos.	Do exactly what we tell you.
+1713	intención	intenˈθjon	noun	intention	No era mi intención.	It wasn't my intention.
+1714	humor	uˈmoɾ	noun	mood; humor	Esta de mal humor.	He's cranky.
+1715	dura	ˈduɾa	adj	hard; tough (feminine)	El amor dura.	Love lasts.
+1716	dará	daˈɾa	verb	will give (dar)	Me dará hambre.	I'll get hungry.
+1717	seguros	seˈɡuɾos	adj	sure; safe (plural)	¿Están seguros?	Are you sure?
+1718	leo	ˈleo	verb	I read (leer)	Yo no leo.	I don't read.
+1719	ángeles	ˈanxeles	noun	angels	¿Crees en los ángeles?	Do you believe in angels?
+1720	querría	querría	verb	would want; would like (querer)	¿Qué querría Tom?	What would Tom want?
+1721	cerrar	θeˈraɾ	verb	to close	¿Debería cerrar?	Should I close?
+1722	conseguido	konseˈɡido	adj	achieved; obtained	Lo has conseguido.	You made it.
+1723	peso	ˈpeso	noun	weight; peso	Pierde peso.	Lose weight.
+1724	víctimas	ˈbiɡtimas	noun	victims	¿Cuántas víctimas hubo?	How many victims were there?
+1725	asesinado	asesiˈnado	adj	murdered	¿Quién fue asesinado?	Who was murdered?
+1726	humana	uˈmana	adj	human (feminine)	Ella es humana.	She is human.
+1727	directo	diˈɾeɡto	adj	direct	Seré directo.	I'll be direct.
+1728	central	θenˈtɾal	adj	central	Sami visitó el parque central.	Sami visited Central Park.
+1729	termina	teɾˈmina	verb	finishes; ends (terminar)	¿Cuándo termina?	When's it over?
+1730	compañeros	compañeros	noun	companions; partners; colleagues	Somos compañeros de clase.	We're classmates.
+1731	escuchado	eskuˈt͡ʃado	verb	listened; heard (past participle of escuchar)	Te he escuchado tocar.	I've heard you play.
+1732	contento	konˈtento	adj	happy; content	Estoy contento.	I'm glad.
+1733	llevan	llevan	verb	they carry; they take (llevar)	Se llevan a matar.	They really hate each other.
+1734	podré	podré	verb	I will be able (poder)	No podré ir.	I won't be able to make it.
+1735	oscuridad	oskuɾiˈdad	noun	darkness	No ve en la oscuridad.	You can't see in the dark.
+1736	actuar	aɡˈtwaɾ	verb	to act	Hay que actuar.	We must act.
+1737	siga	ˈsiɡa	verb	continue (subjunctive of seguir)	Tom quiere que lo siga.	Tom wants me to follow him.
+1738	llevado	ʝeˈbado	verb	carried; taken (past participle of llevar)	Ellos se la han llevado.	They have taken her away.
+1739	comenzó	komenˈθo	verb	began; started (comenzar)	Mary comenzó.	Mary began.
+1740	regresa	regresa	verb	returns (regresar)	¿Cuándo regresa Tom?	When is Tom coming back?
+1741	privado	pɾiˈbado	adj	private	¿Es privado?	Is it private?
+1742	mirada	miˈɾada	noun	look; gaze	Ella apartó la mirada.	She averted her eyes.
+1743	demonio	deˈmonjo	noun	demon; devil	¡Vete al demonio!	Go to hell!
+1744	abierta	aˈbjeɾta	adj	open (feminine)	Está abierta.	It's open.
+1745	llámame	ˈʝamame	verb	call me	Si llueve, llámame.	If it rains, call me.
+1746	siguen	siguen	verb	they continue; they follow (seguir)	Ellas me siguen.	They're following me.
+1747	romper	romˈpeɾ	verb	to break	Se puede romper.	It may break.
+1748	cambia	ˈkambja	verb	changes (cambiar)	Todo cambia.	Everything changes.
+1749	fiscal	fisˈkal	noun	prosecutor; district attorney	Tom es asesor fiscal.	Tom is a tax consultant.
+1750	jardín	xaɾˈdin	noun	garden	Vengo del jardín.	I'm coming from the garden.
+1751	natural	natuˈɾal	adj	natural	No es natural.	It's not natural.
+1752	gratis	ˈɡɾatis	adv	free; for free	Es gratis.	It's free.
+1753	cuesta	ˈkwesta	verb	costs (costar)	¿Cuánto cuesta?	How much is it?
+1754	amenaza	ameˈnaθa	noun	threat	Sois una amenaza.	You're a menace.
+1755	pon	ˈpon	verb	put! (poner)	Ahora pon atención.	Now pay attention.
+1756	marca	ˈmaɾka	noun	brand; mark	Adoro esa marca.	I love that brand.
+1757	comenzar	komenˈθaɾ	verb	to begin	¿Puedo comenzar?	Can I begin?
+1758	ponte	ponte	verb	put on; stand (poner + te)	Túmbate y ponte cómodo.	Lie down and make yourself comfortable.
+1759	medicina	mediˈθina	noun	medicine	Toma la medicina.	Take the medicine.
+1760	podremos	podremos	verb	we will be able (poder)	No podremos escapar.	We won't be able to escape.
+1761	tomé	tomé	verb	I took; I drank (tomar)	Ya tomé café.	I've had coffee already.
+1762	preciosa	pɾeˈθjosa	adj	precious; beautiful	Estás preciosa.	You're gorgeous.
+1763	sexual	seɡˈswal	adj	sexual	Yanni no tiene deseo sexual.	Yanni has no sexual desire.
+1764	acceso	aɡˈθeso	noun	access	No hay acceso a la playa.	No access to the beach.
+1765	necesidad	neθesiˈdad	noun	need; necessity	Fui allí por necesidad.	I went there of necessity.
+1766	dueño	ˈdweɲo	noun	owner	No soy el dueño.	I'm not the owner.
+1767	merece	merece	verb	deserves (merecer)	Él merece más.	He deserves more.
+1768	rayos	ˈraʝos	interj	damn; heck	¿Qué rayos es esto?	What in the world is this?
+1769	mintiendo	mintiendo	verb	lying (gerund of mentir)	Está mintiendo.	He is lying.
+1770	tantas	ˈtantas	det	so many (feminine)	Tengo tantas ideas.	I have so many ideas.
+1771	imagino	imaˈxino	verb	I imagine (imaginar)	Lo imagino.	I guess so.
+1772	fantasma	fanˈtasma	noun	ghost	¿Sos un fantasma?	Are you a ghost?
+1773	creerlo	creerlo	verb	to believe it	¿Podés creerlo?	Can you believe that?
+1774	llamé	ʝaˈme	verb	I called (llamar)	Los llamé.	I called them.
+1775	ponga	ponga	verb	put (subjunctive of poner)	No ponga excusas.	Don't make excuses.
+1776	dé	ˈde	verb	give (subjunctive of dar)	No me lo dé.	Don't give me that.
+1777	pollo	ˈpoʝo	noun	chicken	Sabe a pollo.	It tastes like chicken.
+1778	varios	ˈbaɾjos	det	several; various	Gané varios premios.	I won several prizes.
+1779	efecto	eˈfeɡto	noun	effect	En efecto.	Indeed.
+1780	felicidad	feliθiˈdad	noun	happiness	Eres mi felicidad.	You are my happiness.
+1781	espada	esˈpada	noun	sword	Dame mi espada.	Give me my sword.
+1782	relaciones	relaciones	noun	relationships; relations	Hemos roto relaciones con ellos.	We've broken off relations with them.
+1783	entró	entró	verb	entered; went in (entrar)	Yanni entró.	Yanni came in.
+1784	resultado	resulˈtado	noun	result	¿Has resultado herido?	Have you been injured?
+1785	sombrero	somˈbɾeɾo	noun	hat	Trae mi sombrero.	Bring my hat.
+1786	menor	meˈnoɾ	adj	smaller; younger; minor	Yo soy menor que él.	I'm younger than he is.
+1787	recibido	reθiˈbido	verb	received (past participle of recibir)	He recibido tu carta.	I got your letter.
+1788	negra	ˈneɡɾa	adj	black (feminine)	Era negra.	It was black.
+1789	to	to	interj	whoa; stop	Has oído alguna vez decir: "Lying leads to thieving?"	Have you ever heard the saying: "Lying leads to thieving?"
+1790	habido	aˈbido	verb	been (past participle of haber)	Ha habido un robo.	There's been a burglary.
+1791	limpio	ˈlimpjo	adj	clean	Soy limpio.	I'm clean.
+1792	china	ˈt͡ʃina	noun	Chinese woman	Soy china.	I'm Chinese.
+1793	juegos	ˈxweɡos	noun	games	Nos gustan los juegos.	We like games.
+1794	correo	koˈreo	noun	mail; post office	Tienes correo.	You've got mail.
+1795	confía	confía	verb	trusts (confiar)	Tom confía en mí.	Tom trusts me.
+1796	video	biˈdeo	noun	video	Vea este video.	Watch this video.
+1797	perfectamente	peɾˌfeɡtaˈmente	adv	perfectly	Estoy perfectamente.	I'm fine.
+1798	harán	aˈɾan	verb	they will do; they will make (hacer)	¿Lo harán?	Will you do it?
+1799	teatro	teˈatɾo	noun	theater	Voy al teatro.	I go to the theatre.
+1800	dormido	doɾˈmido	adj	asleep	Está dormido.	He's asleep.
+1801	local	loˈkal	adj	local	El local está vacío.	The premises are empty.
+1802	quedado	keˈdado	verb	stayed (past participle of quedar)	Me he quedado ronco.	My voice got hoarse.
+1803	lástima	ˈlastima	noun	pity; shame	Qué lástima.	What a pity!
+1804	calles	ˈkaʝes	noun	streets	¡Te dije que te calles!	I said shut up!
+1805	créeme	créeme	verb	believe me	Solo créeme.	Just believe me.
+1806	responsabilidad	responsabiliˈdad	noun	responsibility	Es tu responsabilidad.	That is your responsibility.
+1807	búsqueda	ˈbuskeda	noun	search	Tom renunció a su búsqueda.	Tom abandoned his search.
+1808	dedo	ˈdedo	noun	finger	Fue mi dedo.	That was my finger.
+1809	tonta	ˈtonta	adj	silly; stupid (feminine)	Bésame, tonta!	Kiss me, you fool!
+1810	recuerdos	recuerdos	noun	memories	Se venden recuerdos.	Souvenirs are sold or are for sale.
+1811	razones	razones	noun	reasons	Di tus razones.	State your reasons.
+1812	escuchando	escuchando	verb	listening (gerund of escuchar)	Estoy escuchando.	I'm listening.
+1813	elegir	eleˈxiɾ	verb	to choose	Debes elegir.	You should choose.
+1814	amas	ˈamas	verb	you love (amar)	¿Qué amas?	What do you like?
+1815	huele	ˈw̝ele	verb	smells (oler)	Yanni huele.	Yanni smells.
+1816	almuerzo	alˈmweɾθo	noun	lunch	Traje almuerzo.	I've brought lunch.
+1817	cien	ˈθjen	num	one hundred	Tiene cien años.	He is 100 years old.
+1818	tantos	ˈtantos	det	so many	¡No des tantos rodeos!	Let's not beat around the bush.
+1819	pago	ˈpaɡo	noun	payment	¿Dónde pago?	Where should I pay?
+1820	normalmente	noɾˌmalˈmente	adv	normally; usually	Almuerzo ahí normalmente.	I generally have lunch there.
+1821	pastel	pasˈtel	noun	cake; pastry	¿Quiere pastel?	Would you like some cake?
+1822	bastardo	basˈtaɾdo	adj	bastard; bastardly	También pensamos que él es bastardo.	We also think that he's a bastard.
+1823	cinta	ˈθinta	noun	tape; ribbon	Desaté la cinta.	I untied the ribbon.
+1824	pasé	pasé	verb	I passed; I spent (pasar)	La pasé bien.	I had a good time.
+1825	dígame	ˈdiɡame	verb	tell me (formal)	¡Sólo dígame qué hacer!	Just tell me what to do!
+1826	costa	ˈkosta	noun	coast	Fue costa abajo.	It went downhill.
+1827	levántate	levántate	verb	get up; stand up	Solo levántate.	Just stand up.
+1828	llamando	ʝaˈmando	verb	calling (gerund of llamar)	Te estoy llamando.	I'm calling you.
+1829	cerrado	θeˈrado	adj	closed	Caso cerrado.	Case closed.
+1830	interés	inteˈɾes	noun	interest	Perdí el interés.	I lost interest.
+1831	enfermera	enfeɾˈmeɾa	noun	nurse	Soy enfermera.	I'm a nurse.
+1832	comienzo	koˈmjenθo	noun	beginning	Es un buen comienzo.	It's a good start.
+1833	olvidé	olvidé	verb	I forgot (olvidar)	Me olvidé.	I forgot.
+1834	fuese	ˈfwese	verb	were; went (subjunctive of ser; ir)	Ojalá fuese rico.	I wish I were rich.
+1835	militar	miliˈtaɾ	adj	military	Hice mi servicio militar en Ankara.	I had my military service in Ankara.
+1836	polvo	ˈpolbo	noun	dust; powder	Estoy hecho polvo.	I'm all tuckered out.
+1837	bella	ˈbeʝa	adj	beautiful (feminine)	Sos bella.	You're beautiful.
+1838	quedo	ˈkedo	adv	quietly	¿Me quedo?	Should I stay?
+1839	encontraste	enkonˈtɾaste	verb	you found (encontrar)	¿Los encontraste?	Did you find them?
+1840	voluntad	bolunˈtad	noun	will; wish	Mentí contra mi voluntad.	I told a lie against my will.
+1841	varias	ˈbaɾjas	det	several (feminine)	Lo vi varias veces.	I've seen him several times.
+1842	teoría	teoˈɾia	noun	theory	Esa es mi teoría.	That's my theory.
+1843	roja	ˈroxa	adj	red (feminine)	¡Alerta roja!	Red alert!
+1844	cuento	ˈkwento	noun	story; tale	Cuéntame un cuento.	Tell me a story.
+1845	escenario	esθeˈnaɾjo	noun	stage; scenario	Tomás salió del escenario.	Tom walked out on stage.
+1846	diario	ˈdjaɾjo	adj	daily	Es un diario.	This is a daily newspaper.
+1847	propiedad	pɾopjeˈdad	noun	property	La propiedad es mía.	The property is mine.
+1848	agujero	aɡuˈxeɾo	noun	hole	Él cavó un agujero.	He dug a hole.
+1849	aspecto	asˈpeɡto	noun	aspect; appearance	Tiene buen aspecto.	He looks well.
+1850	campamento	kampaˈmento	noun	camp	Tom llegó al campamento a salvo.	Tom arrived at the camp safely.
+1851	descansar	deskanˈsaɾ	verb	to rest	Debo descansar.	I must rest.
+1852	matarme	matarme	verb	to kill me	Va a matarme.	She's going to kill me.
+1853	metido	meˈtido	adj	involved; into	¿Qué se te ha metido?	What's gotten into you?
+1854	quiso	ˈkiso	verb	wanted (preterite of querer)	Tom lo quiso.	Tom wanted it.
+1855	ángel	ˈanxel	noun	angel	Es un ángel.	She's an angel.
+1856	enviar	emˈbjaɾ	verb	to send	Le voy a enviar el enlace.	I'll send you the link.
+1857	impresionante	impɾesjoˈnante	adj	impressive	Te ves impresionante.	You look stunning!
+1858	proceso	pɾoˈθeso	noun	process; trial	El proceso fue rápido.	The process was quick.
+1859	intentado	intenˈtado	verb	tried (past participle of intentar)	Lo has intentado.	You've tried.
+1860	mio	ˈmjo	interj	meow	Anda, llévate otra, cariño mio.	
+1861	fuente	ˈfwente	noun	fountain; source	Conozco la fuente.	I know the source.
+1862	alcalde	alˈkalde	noun	mayor	¿Eres tú el alcalde?	Are you the mayor?
+1863	ocurrido	okuˈrido	adj	happened; occurred	¿Qué ha ocurrido?	What happened?
+1864	malos	malos	adj	bad (plural)	Son malos.	They're bad.
+1865	carretera	kareˈteɾa	noun	road; highway	Me salí de la carretera.	I went off the road.
+1866	desapareció	desapareció	verb	disappeared (desaparecer)	Tom desapareció.	Tom disappeared.
+1867	desayuno	desaˈʝuno	noun	breakfast	Hice el desayuno.	I made breakfast.
+1868	débil	ˈdebil	adj	weak	Estás débil.	You're weak.
+1869	roma	roma	adj	blunt; flat	Puede que mi espada esté roma, pero es más que suficiente para alguien como tú.	My sword may be blunt, but that's more than enough for someone like you.
+1870	sabido	saˈbido	adj	known	Debí haberlo sabido.	I should have known.
+1871	comienza	comienza	verb	begins; starts (comenzar)	La aventura comienza.	The adventure begins.
+1872	tambien	tambien	adv	also; too (misspelling)	"Te amo." "¡Yo tambien te amo, tontito!"	"I love you." "I love you, too, silly!"
+1873	intentarlo	intentarlo	verb	to try it	Puedo intentarlo.	I can give it a try.
+1874	miembro	ˈmjembɾo	noun	member; limb	No soy miembro.	I'm not a member.
+1875	perdiendo	perdiendo	verb	losing (gerund of perder)	Estamos perdiendo.	We're losing.
+1876	hayan	ˈaʝan	verb	have (subjunctive of haber)	No creo que hayan entendido.	I don't believe they understood.
+1877	fueras	ˈfweɾas	verb	were; went (subjunctive of ser; ir)	Desearía que no fueras.	I wish you wouldn't go.
+1878	resultados	resulˈtados	noun	results	Graba los resultados.	Record the results.
+1879	mata	ˈmata	verb	kills (matar)	Fumar mata.	Smoking kills.
+1880	sr	sr	noun	Mr.	El sr Kojima fumó después del desayuno.	Mr Kojima had a smoke after breakfast.
+1881	valiente	baˈljente	adj	brave	Sé valiente.	Have courage.
+1882	deber	deˈbeɾ	verb	to have to; to owe	Es tu deber.	It's your duty.
+1883	pecho	ˈpet͡ʃo	noun	chest; breast	A lo hecho pecho.	It's no use crying over spilt milk.
+1884	gustó	gustó	verb	pleased; liked (preterite of gustar)	¿Te gustó?	Did you like it?
+1885	oyes	ˈoʝes	verb	you hear (oír)	¿Qué oyes?	What do you hear?
+1886	periódico	peˈɾjodiko	noun	newspaper	Dobló el periódico.	He folded the newspaper.
+1887	mami	ˈmami	noun	mommy	¿Ayudaste a mami?	You helped Mommy?
+1888	piensan	ˈpjensan	verb	they think (pensar)	Todos piensan así.	Everyone thinks so.
+1889	tv	teˈbe	noun	TV	Después de ver la tv me fui a la cama.	After I watched TV, I went to bed.
+1890	cansada	kanˈsada	adj	tired (feminine)	Estoy cansada.	I'm tired.
+1891	limpiar	limˈpjaɾ	verb	to clean	Quiero limpiar.	I want to clean.
+1892	crear	kɾeˈaɾ	verb	to create	Quiero crear mi mundo.	I want to create my own world.
+1893	explicar	eɡspliˈkaɾ	verb	to explain	Déjame explicar.	Let me explain.
+1894	robado	roˈbado	adj	stolen	Nos ha robado.	She has stolen from us.
+1895	resolver	resolˈbeɾ	verb	to solve; to resolve	Voy a resolver esto.	I'm going to solve this.
+1896	maté	maté	verb	I killed (matar)	Yo los maté.	I killed them.
+1897	guapo	ˈɡwapo	adj	handsome; good-looking	Soy guapo.	I'm handsome.
+1898	continuar	kontiˈnwaɾ	verb	to continue	Debo continuar.	I've got to keep going.
+1899	sheriff	ˈʃeɾif	noun	sheriff	Hay un gran tiroteo en mitad de la película y el sheriff acaba muerto.	There's a big gunfight in the middle of the movie and the sheriff gets killed.
+1900	funcionar	funθjoˈnaɾ	verb	to work; to function	Va a funcionar.	It's going to work.
+1901	extra	ˈeɡstɾa	adj	extra	Pagaré la extra.	I'll pay extra.
+1902	primo	ˈpɾimo	noun	cousin	Eres mi primo.	You're my cousin.
+1903	manejar	maneˈxaɾ	verb	to handle; to drive	Ya sé manejar.	I already know how to drive.
+1904	primeros	pɾiˈmeɾos	adj	first (plural)	Yo necesito primeros auxilios.	I need first aid.
+1905	acto	ˈaɡto	noun	act	Lo hizo en el acto.	He did it right away.
+1906	poniendo	poniendo	verb	putting (gerund of poner)	Me estoy poniendo ropa.	I am getting dressed.
+1907	números	ˈnumeɾos	noun	numbers	Estos números están mal.	These numbers are wrong.
+1908	kilómetros	kilómetros	noun	kilometers	Corrimos 10 kilómetros.	We ran for 10 kilometers.
+1909	llevará	llevará	verb	will carry; will take (llevar)	Esto llevará tiempo.	This will take time.
+1910	niñas	ˈniɲas	noun	girls	Las niñas trabajan.	The girls work.
+1911	premio	ˈpɾemjo	noun	prize; award	Qué premio ganó?	What prize did he win?
+1912	internet	inteɾˈnet	noun	internet	¿Tienes internet en casa?	Do you have internet at home?
+1913	harías	aˈɾias	verb	you would do; you would make (hacer)	¿Tú lo harías?	Would you do it?
+1914	inútil	iˈnutil	adj	useless	Es inútil.	It's futile.
+1915	domingo	doˈminɡo	noun	Sunday	Hoy es domingo.	Today is Sunday.
+1916	tomas	ˈtomas	verb	you take (tomar)	¿Me tomas el pelo?	Isn't that terrific?
+1917	sensación	sensaˈθjon	noun	sensation; feeling	Esta sensación me gusta.	I like this sensation.
+1918	alcohol	alˈkol	noun	alcohol	¿Bebes alcohol?	Do you drink alcohol?
+1919	tercera	teɾˈθeɾa	adj	third (feminine)	Ella va la tercera.	She goes third.
+1920	agentes	agentes	noun	agents; officers	Somos agentes del FBI.	We're FBI agents.
+1921	disculpas	disculpas	noun	apologies	Mis disculpas.	I apologise.
+1922	antiguo	anˈtiɡwo	adj	old; former; ancient	El carro azul es antiguo.	The blue car is antique.
+1923	guapa	ˈɡwapa	adj	pretty; good-looking (feminine)	Soy guapa.	I'm beautiful.
+1924	asustado	asusˈtado	adj	scared; frightened	Estoy asustado.	I'm scared.
+1925	puedan	ˈpwedan	verb	can (subjunctive of poder)	No vienen aunque puedan.	They are not coming even if they can.
+1926	sexy	ˈseɡsi	adj	sexy	Es muy sexy.	He's very sexy.
+1927	genio	ˈxenjo	noun	genius; genie	Es un genio.	He is a genius.
+1928	recuperar	rekupeˈɾaɾ	verb	to recover; to get back	Déjame recuperar mi aliento.	Let me catch my breath.
+1929	creemos	creemos	verb	we believe (creer)	No creemos eso.	We don't believe that.
+1930	lengua	ˈlenɡwa	noun	tongue; language	Saca la lengua.	Stick out your tongue.
+1931	ladrón	laˈdɾon	noun	thief	Es un ladrón.	He's a thief.
+1932	intenté	intenté	verb	I tried (intentar)	Lo intenté.	I tried.
+1933	examen	eɡˈsamen	noun	exam; test	Era un examen.	It was a test.
+1934	deprisa	deˈpɾisa	adv	quickly; fast	Ven deprisa.	Come quick!
+1935	montaña	monˈtaɲa	noun	mountain	Voy a la montaña.	I go to the mountain.
+1936	durmiendo	durmiendo	verb	sleeping (gerund of dormir)	Está durmiendo.	She's sleeping.
+1937	disparar	dispaˈɾaɾ	verb	to shoot; to fire	Deja de disparar.	Stop shooting.
+1938	entrenador	entɾenaˈdoɾ	noun	coach; trainer	Ziri era entrenador.	Ziri was a coach.
+1939	queso	ˈkeso	noun	cheese	Amo el queso.	I love cheese.
+1940	entero	enˈteɾo	adj	whole; entire	Leí el libro entero.	I read the entire book.
+1941	papeles	paˈpeles	noun	papers; roles	Perdió los papeles.	He lost the papers.
+1942	pones	pones	verb	you put (poner)	¿Por qué pones esa cara?	Why are you making faces?
+1943	modelo	moˈdelo	noun	model	Ella es modelo.	She's a model.
+1944	fútbol	ˈfudbol	noun	soccer; football	Odio el fútbol.	I hate soccer.
+1945	detener	deteˈneɾ	verb	to stop; to detain; to arrest	Los voy a detener.	I'm going to stop them.
+1946	lados	lados	noun	sides	Miré en todos lados.	I looked everywhere.
+1947	miembros	miembros	noun	members	El frío entumece los miembros.	Cold numbs the limbs.
+1948	sábado	ˈsabado	noun	Saturday	Es sábado.	It's Saturday.
+1949	pongo	ˈponɡo	verb	I put (poner)	Me pongo el pijama.	I put on my pajamas.
+1950	mataron	maˈtaɾon	verb	they killed (matar)	Ellos lo mataron.	They killed him.
+1951	vuelvas	ˈbwelbas	verb	return (subjunctive of volver)	Quizá vuelvas.	You may return.
+1952	talento	taˈlento	noun	talent	Tienes talento.	You're talented.
+1953	descubrir	deskuˈbɾiɾ	verb	to discover	Hay mucho más por descubrir.	There's a lot more to discover.
+1954	gordo	ˈɡoɾdo	adj	fat	Estoy gordo.	I'm fat.
+1955	tribunal	tɾibuˈnal	noun	court; tribunal	Nos vemos en el tribunal.	See you in court.
+1956	toque	ˈtoke	noun	touch	¡No lo toque!	Don't touch it!
+1957	wow	ˈwau	interj	wow		
+1958	hables	ˈables	verb	speak (subjunctive of hablar)	No hables.	Don't talk.
+1959	conocemos	konoˈθemos	verb	we know (conocer)	Lo conocemos.	We know him.
+1960	haberme	aˈbeɾme	verb	to have me	Puede haberme mentido.	She may have told me a lie.
+1961	dispuesto	disˈpwesto	adj	willing; ready	Estoy dispuesto a todo.	I'm game for anything.
+1962	tamaño	taˈmaɲo	noun	size	El tamaño no importa.	Size doesn't matter.
+1963	dejen	dejen	verb	leave (subjunctive of dejar)	No lo dejen tomar.	Don't let him drink.
+1964	maravillosa	maravillosa	adj	wonderful (feminine)	¡Qué idea maravillosa!	What a wonderful idea!
+1965	invitado	imbiˈtado	noun	guest	Está invitado.	You're invited.
+1966	importantes	importantes	adj	important (plural)	Ustedes son importantes.	You are important.
+1967	derechos	deˈɾet͡ʃos	noun	rights	Yo tengo derechos.	I have rights.
+1968	declaración	deklaɾaˈθjon	noun	statement; declaration	¡Qué declaración más absurda!	What a foolish statement!
+1969	claramente	ˌklaɾaˈmente	adv	clearly	Dilo claramente.	Say it clearly.
+1970	pacientes	paˈθjentes	noun	patients	Somos pacientes.	We're patient.
+1971	pérdida	ˈpeɾdida	noun	loss	¡Qué pérdida!	What a loss!
+1972	iban	ˈiban	verb	they were going (ir)	¿Adónde iban ellos?	Where were they going?
+1973	pudiste	pudiste	verb	you could (poder)	Tom, ¿cómo pudiste?	Tom, how could you?
+1974	profundo	pɾoˈfundo	adj	deep	¿Qué tan profundo?	How deep?
+1975	gas	ˈɡas	noun	gas	Tengo gas.	I have gas.
+1976	aeropuerto	ˌaeɾoˈpweɾto	noun	airport	Voy al aeropuerto.	I'm going to the airport.
+1977	consigue	consigue	verb	gets; achieves (conseguir)	Nada consigue enternecerlo.	Nothing can move him.
+1978	olvidar	olbiˈdaɾ	verb	to forget	Bebe para olvidar.	He drinks in order to forget.
+1979	gloria	ˈɡloɾja	noun	glory	He visto su gloria.	I have seen his glory.
+1980	olvides	olˈbides	verb	forget (subjunctive of olvidar)	No me olvides.	Don't forget about me.
+1981	volviendo	volviendo	verb	returning (gerund of volver)	Ellas están volviendo.	They're coming back.
+1982	coge	coge	verb	takes; grabs (coger)	Toma, coge esto.	Here, take this.
+1983	fué	fué	verb	was (old spelling of fue)	Kaoru se fué a América.	Kaoru has gone to America.
+1984	llamaba	ʝaˈmaba	verb	called; was calling (llamar)	Se llamaba Tom.	His name was Tom.
+1985	pete	ˈpete	noun	blowjob	No solamente lo aconsejé, sino también le hice un pete.	I not only gave him some advice, I also gave him a blowjob.
+1986	tendrán	tenˈdɾan	verb	they will have (tener)	No tendrán frío.	They won't be cold.
+1987	instituto	instiˈtuto	noun	institute; high school	Tom dejó el instituto.	Tom dropped out of high school.
+1988	disparo	disˈpaɾo	noun	shot	Alto o disparo.	Stop, or I'll shoot.
+1989	encuentras	encuentras	verb	you find (encontrar)	¿Cómo te encuentras?	How do you feel?
+1990	querían	querían	verb	they wanted (querer)	Te querían.	They loved you.
+1991	hablemos	aˈblemos	verb	let's talk (hablar)	No le hablemos a ella.	Let's not talk to her.
+1992	dia	dia	noun	day (misspelling of día)	¡Qué dia tan guay!	
+1993	enviado	emˈbjado	verb	sent (past participle of enviar)	El archivo fue enviado.	The file has been sent.
+1994	pertenece	pertenece	verb	belongs (pertenecer)	Eso me pertenece.	That's mine.
+1995	sienta	sienta	verb	sits; feels (sentar; sentir)	Deja que lo sienta.	Let me feel it.
+1996	pensó	pensó	verb	thought (pensar)	Ella pensó en todo.	She thought about everything.
+1997	cadáver	kaˈdabeɾ	noun	corpse; cadaver	¡Sobre mi cadáver!	Over my dead body.
+1998	gracia	ˈɡɾaθja	noun	grace; charm; joke	Tiene gracia.	It's funny.
+1999	doctora	doɡˈtoɾa	noun	female doctor	Soy doctora.	I'm a doctor.
+2000	escuchen	escuchen	verb	listen (subjunctive/imperative of escuchar)	¡Che, escuchen!	Hey, listen!
+2001	amante	aˈmante	noun	lover	¡Ella es mi amante!	She is my mistress!
+2002	temporada	tempoˈɾada	noun	season	Es temporada de venados.	It's deer season.
+2003	cuerpos	cuerpos	noun	bodies	Su caballo ganó por tres cuerpos.	His horse won by three lengths.
+2004	amigas	aˈmiɡas	noun	friends (feminine)	Son amigas.	They're friends.
+2005	preguntaba	preguntaba	verb	asked; was asking (preguntar)	Vale, yo sólo preguntaba.	OK, I was just asking.
+2006	francés	fɾanˈθes	adj	French	Es francés.	It's French.
+2007	mataste	maˈtaste	verb	you killed (matar)	Lo mataste.	You killed him.
+2008	techo	ˈtet͡ʃo	noun	roof; ceiling	El techo gotea.	The roof leaks.
+2009	íbamos	ˈibamos	verb	we were going (ir)	No íbamos a hacer eso.	We weren't going to do that.
+2010	protección	pɾoteɡˈθjon	noun	protection	Querían protección.	They wanted protection.
+2011	médicos	médicos	noun	doctors	Sois médicos.	You are doctors.
+2012	lisa	ˈlisa	adj	smooth; plain (feminine)	Su piel es lisa.	Her skin is smooth.
+2013	venganza	benˈɡanθa	noun	revenge	Quiero venganza.	I want revenge.
+2014	pensamos	penˈsamos	verb	we think (pensar)	No pensamos en eso.	We didn't think of that.
+2015	contó	contó	verb	told; counted (preterite of contar)	Tom les contó.	Tom told them.
+2016	discutir	diskuˈtiɾ	verb	to argue; to discuss	Deja de discutir.	Stop arguing.
+2017	comprendo	comprendo	verb	I understand (comprender)	No comprendo.	I don't get it.
+2018	idiotas	iˈdjotas	adj	stupid; idiotic (plural)	Son idiotas.	They're idiots.
+2019	enemigos	eneˈmiɡos	noun	enemies	Somos enemigos.	We're enemies.
+2020	camisa	kaˈmisa	noun	shirt	Lavo la camisa.	I wash the blouse.
+2021	superior	supeˈɾjoɾ	adj	superior; upper	Es superior a mí.	It's beyond me.
+2022	criminal	kɾimiˈnal	noun	criminal	¡Qué criminal!	Cool!
+2023	preocupada	pɾeokuˈpada	adj	worried (feminine)	Estoy preocupada.	I'm worried.
+2024	bote	ˈbote	noun	boat; can; jar	Ese es un bote.	That's a boat.
+2025	escribió	escribió	verb	wrote (escribir)	Me escribió ayer.	He wrote to me yesterday.
+2026	llevamos	ʝeˈbamos	verb	we carry; we take (llevar)	Lo llevamos bien.	We're doing fine.
+2027	testigos	testigos	noun	witnesses	¿Hubo testigos?	Were there any witnesses?
+2028	recoger	rekoˈxeɾ	verb	to pick up; to collect	¿Lo puedes recoger?	Can you pick it up?
+2029	truco	ˈtɾuko	noun	trick	No es un truco.	It's not a trick.
+2030	original	oɾixiˈnal	adj	original	Mi frase es original.	My sentence is original.
+2031	pide	ˈpide	verb	asks for; orders (pedir)	Se me pide algo.	Something is asked of me.
+2032	rosa	ˈrosa	noun	rose; pink	Veo tu rosa.	I see your rose.
+2033	mama	ˈmama	noun	mom	Tiene cáncer de mama.	She has breast cancer.
+2034	negros	negros	adj	black (plural)	Tengo los ojos negros.	I have black eyes.
+2035	sobrevivir	sobɾebiˈbiɾ	verb	to survive	Puedo sobrevivir solo.	I can survive alone.
+2036	rostro	ˈrostɾo	noun	face	Su rostro palideció.	Her face turned pale.
+2037	crédito	ˈkɾedito	noun	credit	¿Puedo pagar a crédito?	Can I pay on credit?
+2038	compartir	kompaɾˈtiɾ	verb	to share	Puedo compartir.	I can share.
+2039	saca	ˈsaka	verb	takes out; gets (sacar)	Un clavo saca otro clavo.	One nail drives out another.
+2040	irás	iˈɾas	verb	you will go (ir)	¿Cómo irás?	How are you going?
+2041	pequeñas	peˈkeɲas	adj	small; little (feminine plural)	Sois pequeñas.	You're small.
+2042	veía	beˈia	verb	saw; was seeing (ver)	Se veía barato.	It looked cheap.
+2043	empezando	empezando	verb	starting (gerund of empezar)	Estoy empezando.	I'm starting.
+2044	registro	reˈxistɾo	noun	record; registry; search	Decide el registro.	Decide the register.
+2045	continúa	continúa	verb	continues (continuar)	Solo continúa.	Just keep going.
+2046	grandioso	ɡɾanˈdjoso	adj	great; grandiose	Es grandioso.	It's great.
+2047	viniste	viniste	verb	you came (venir)	¿Cuándo viniste?	When did you come?
+2048	esquina	esˈkina	noun	corner	Está en la esquina.	It's at the corner.
+2049	contado	konˈtado	adj	counted	Me lo han contado.	They told me.
+2050	tengamos	tenˈɡamos	verb	have (subjunctive of tener)	Quizá tengamos suerte	Maybe we'll get lucky.
+2051	cientos	ˈθjentos	noun	hundreds	Ella tiene cientos de libros.	She has hundreds of books.
+2052	tormenta	toɾˈmenta	noun	storm	La tormenta amainó.	The storm abated.
+2053	relájate	reˈlaxate	verb	relax	"Oh cariño," dijo ella, "siéntate, relájate y cierra tus ojos."	"Oh, darling," she said, "sit down, relax, and close your eyes."
+2054	siéntese	siéntese	verb	sit down (formal)	Por favor, siéntese.	Please sit.
+2055	chocolate	t͡ʃokoˈlate	noun	chocolate	Como chocolate.	I eat chocolate.
+2056	pedazo	peˈdaθo	noun	piece; chunk	Es un pedazo de mierda.	It's a piece of shit.
+2057	tomo	ˈtomo	noun	volume; tome	Yo no tomo.	I don't drink.
+2058	olor	oˈloɾ	noun	smell; odor	¿Qué es ese olor?	What's that smell?
+2059	ciencia	ˈθjenθja	noun	science	¡Creé en la ciencia!	Believe in science!
+2060	conexión	koneɡˈsjon	noun	connection	¿Cuál es la conexión?	What's the connection?
+2061	vieron	ˈbjeɾon	verb	they saw (ver)	Me vieron.	They saw me.
+2062	salón	saˈlon	noun	living room; hall	Éste es el salón.	It is a lounge.
+2063	sucio	ˈsuθjo	adj	dirty	Está sucio.	It's dirty.
+2064	firma	ˈfiɾma	noun	signature; firm	Sólo firma aquí.	Just sign here.
+2065	vimos	ˈbimos	verb	we saw (ver)	Los vimos.	We saw them.
+2066	pidiendo	pidiendo	verb	asking for (gerund of pedir)	Grité pidiendo ayuda.	I screamed for help.
+2067	casarse	casarse	verb	to get married	¡Hora de casarse!	Time to get married!
+2068	bebida	beˈbida	noun	drink; beverage	Su bebida, señor.	Here's your drink, sir.
+2069	tercer	teɾˈθeɾ	adj	third	Es nuestro tercer hijo.	He's our third son.
+2070	propios	ˈpɾopjos	adj	own (plural)	Lo vi con mis propios ojos.	I saw it with my own eyes.
+2071	fuertes	fuertes	adj	strong (plural)	Son fuertes.	They're strong.
+2072	lluvia	ˈʝubja	noun	rain	Parece lluvia.	It looks like rain.
+2073	recién	reˈθjen	adv	recently; just	Somos recién casados.	We're newlyweds.
+2074	tomaré	tomaré	verb	I will take; I will drink (tomar)	No tomaré helado.	I will not eat ice cream.
+2075	complicado	kompliˈkado	adj	complicated	Es complicado.	It's complicated.
+2076	toques	ˈtokes	noun	touches	No toques.	Don't touch.
+2077	cámaras	cámaras	noun	cameras; chambers	Tengo dos cámaras.	I have two cameras.
+2078	visión	biˈsjon	noun	vision	He tenido una visión.	I had a vision.
+2079	llego	ˈʝeɡo	verb	I arrive (llegar)	¿Cómo llego?	How can I get there?
+2080	americano	ameɾiˈkano	adj	American	Es americano.	He's American.
+2081	diversión	dibeɾˈsjon	noun	fun; entertainment	Miento por diversión.	I lie for fun.
+2082	pareció	pareció	verb	seemed (parecer)	Tom pareció derrotado.	Tom seemed unsuccessful.
+2083	libras	ˈlibɾas	noun	pounds	Subió unas libras.	He has gained a few pounds.
+2084	curso	ˈkuɾso	noun	course	Está en el cuarto curso.	He's in the fourth year.
+2085	disco	ˈdisko	noun	record; disc; club	Pareces un disco rayado.	You sound like a broken record.
+2086	probable	pɾoˈbable	adj	probable; likely	No es probable.	It's not likely.
+2087	precioso	pɾeˈθjoso	adj	precious; beautiful	El día está precioso.	The day is beautiful.
+2088	tenia	ˈtenja	noun	tapeworm	Él tenia un anhelo de encontrar la paz interior.	
+2089	lago	ˈlaɡo	noun	lake	El lago es grande.	The lake is big.
+2090	leído	leˈido	adj	well-read	Habías leído.	You had read.
+2091	consiguió	consiguió	verb	got; achieved (conseguir)	Lo consiguió.	He made it.
+2092	parecido	paɾeˈθido	adj	similar	Es parecido.	It's similar.
+2093	material	mateˈɾjal	noun	material	¿Es un buen material?	Is it a good material?
+2094	discurso	disˈkuɾso	noun	speech; discourse	Él dio un discurso.	He delivered a speech.
+2095	entera	enˈteɾa	adj	whole; entire (feminine)	Su familia entera es así.	His whole family is like that.
+2096	corta	ˈkoɾta	adj	short (feminine)	La vida es corta.	Life's short.
+2097	completa	komˈpleta	adj	complete; full (feminine)	Mi vida está completa.	My life is complete.
+2098	decirles	decirles	verb	to tell them	Debo decirles algo.	I must tell you something.
+2099	lunes	ˈlunes	noun	Monday	No es lunes.	It's not Monday.
+2100	efectivo	efeɡˈtibo	noun	cash	No es efectivo.	It's not effective.
+2101	cura	ˈkuɾa	noun	cure; priest	Tom es cura.	Tom is a priest.
+2102	antigua	anˈtiɡwa	adj	old; former (feminine)	La casa es antigua.	The house is old.
+2103	hablan	ˈablan	verb	they speak (hablar)	No hablan inglés.	They do not speak English.
+2104	juntas	ˈxuntas	adj	together (feminine plural)	Cenamos juntas.	We have dinner together.
+2105	cáncer	ˈkanθeɾ	noun	cancer	¿Es cáncer?	Is it cancer?
+2106	funeral	funeˈɾal	noun	funeral	Ese es tu funeral.	That's your funeral.
+2107	jodido	xoˈdido	adj	fucked; screwed; damn	Me has jodido la vida.	You fucked up my life.
+2108	artista	aɾˈtista	noun	artist	Soy un artista.	I'm an artist.
+2109	favorito	faboˈɾito	adj	favorite	Sos mi favorito.	You're my favorite.
+2110	guste	guste	verb	please (subjunctive of gustar)	Como usted guste.	As you like.
+2111	cae	ˈkae	verb	falls (caer)	Me cae mal.	I don't like him.
+2112	termine	teɾˈmine	verb	finish (subjunctive of terminar)	Deja que lo termine.	Let him finish it.
+2113	entrevista	entɾeˈbista	noun	interview	¿Cómo fue la entrevista?	How did the interview go?
+2114	pintura	pinˈtuɾa	noun	painting; paint	Necesito pintura.	I need paint.
+2115	quieto	ˈkjeto	adj	still; calm	Estate quieto.	Be quiet.
+2116	falso	ˈfalso	adj	false; fake	Sos falso.	You are two-faced.
+2117	india	ˈindja	noun	Indian woman	Muiriel es india.	Muiriel is an Indian.
+2118	corto	ˈkoɾto	adj	short	Es muy corto.	It's too short.
+2119	inteligencia	inteliˈxenθja	noun	intelligence	No insultes mi inteligencia.	Don't insult my intelligence.
+2120	destruir	desˈtɾwiɾ	verb	to destroy	Debemos destruir al diablo.	We must destroy the devil.
+2121	cargos	cargos	noun	positions; charges	Niego todos esos cargos.	I deny all those charges.
+2122	podías	poˈdias	verb	you could (poder)	No podías escoger.	You couldn't choose.
+2123	mentiras	mentiras	noun	lies	Dice mentiras.	He lies.
+2124	señoras	señoras	noun	ladies	Estas señoras son mis tías.	These women are my aunts.
+2125	helado	eˈlado	noun	ice cream	Es helado.	It's ice cream.
+2126	felicidades	feliθiˈdades	interj	congratulations; happy birthday	Amar y ser amado es la mayor de las felicidades en esta vida.	It is the greatest happiness in life to love and to be loved.
+2127	camioneta	kamjoˈneta	noun	pickup truck; van	Subamos a la camioneta.	Let's get in the truck.
+2128	mueve	ˈmwebe	verb	moves (mover)	No se mueve.	He isn't moving.
+2129	aparte	aˈpaɾte	adv	aside; apart	Eso es cuestión aparte.	That's another issue.
+2130	rock	ˈrok	noun	rock (music)	Me gusta el rock.	I love rock.
+2131	tumba	ˈtumba	noun	grave; tomb	El oso en la tumba.	Bear in the grave.
+2132	seguimos	seguimos	verb	we continue; we follow (seguir)	Pero seguimos sin él.	But we carried on without him.
+2133	hablaba	aˈblaba	verb	spoke; was speaking (hablar)	¿De qué hablaba?	What did you talk about?
+2134	verle	ˈbeɾle	verb	to see him/her	No puedo verle.	I don't see him.
+2135	mapa	ˈmapa	noun	map	Dame el mapa.	Give me the map.
+2136	tarea	taˈɾea	noun	task; homework	Tengo tarea.	I have homework.
+2137	cambió	cambió	verb	changed (cambiar)	Tom cambió.	Tom changed.
+2138	móvil	ˈmobil	noun	cell phone	¿Tiene móvil?	Do you have a cellphone?
+2139	equivocada	ekiboˈkada	adj	mistaken; wrong (feminine)	¿Estoy equivocada?	Am I wrong?
+2140	responder	responˈdeɾ	verb	to answer	No pude responder.	I couldn't answer.
+2141	vacío	baˈθio	adj	empty	Está vacío.	It's empty.
+2142	felicitaciones	felicitaciones	noun	congratulations	¡Hablas muy bien esperanto, felicitaciones!	Your Esperanto is very good, congratulations!
+2143	computadora	komputaˈdoɾa	noun	computer	¿Tienen computadora?	Do they have a computer?
+2144	estudiante	estuˈdjante	noun	student	Es estudiante.	He's a student.
+2145	muriendo	muriendo	verb	dying (gerund of morir)	Estáis muriendo.	You're dying.
+2146	construir	konsˈtɾwiɾ	verb	to build	¿Qué deberían construir?	What should they build?
+2147	conocen	koˈnoθen	verb	they know (conocer)	Te conocen.	They know you.
+2148	clara	ˈklaɾa	adj	clear (feminine)	La ley es clara.	The law is clear.
+2149	solución	soluˈθjon	noun	solution	Tengo la solución.	I have the solution.
+2150	mundial	munˈdjal	adj	worldwide; global	Queremos la paz mundial.	We want world peace.
+2151	plato	ˈplato	noun	plate; dish	Usé este plato.	I used this plate.
+2152	famoso	faˈmoso	adj	famous	Soy famoso.	I'm famous.
+2153	des	ˈdes	prep	since; from	No se lo des.	Don't give it to him.
+2154	dirá	diˈɾa	verb	will say (decir)	¿Qué dirá?	What'll he say?
+2155	ambas	ˈambas	det	both (feminine)	Gracias a ambas.	Thanks to both of you.
+2156	tecnología	tecnología	noun	technology	¿Usas tecnología moderna?	Do you use current technology?
+2157	notas	ˈnotas	noun	notes; grades	Toma notas.	Take notes.
+2158	malditos	malˈditos	adj	damned; cursed (plural)	Todos los policías son malditos.	All cops are bastards.
+2159	cabrón	kaˈbɾon	noun	bastard	No seas cabrón.	Don't be a dick.
+2160	condiciones	kondiˈθjones	noun	conditions	Tengo dos condiciones.	I have two conditions.
+2161	dudo	dudo	verb	I doubt (dudar)	No lo dudo.	I don't doubt it.
+2162	robó	robó	verb	stole; robbed (robar)	Él lo robó.	He stole it.
+2163	escucho	escucho	verb	I listen (escuchar)	Veo y escucho.	I see and hear.
+2164	rápidamente	ˌrapidaˈmente	adv	quickly; rapidly	Hazlo rápidamente.	Do it quickly.
+2165	bordo	ˈboɾdo	noun	board (as in "a bordo", on board)	Sube a bordo.	Come aboard.
+2166	nieve	ˈnjebe	noun	snow	Come nieve.	Eat snow.
+2167	mensajes	mensajes	noun	messages	Tiene tres mensajes.	You have three messages.
+2168	fecha	ˈfet͡ʃa	noun	date	Cambié la fecha.	I rescheduled.
+2169	violencia	bjoˈlenθja	noun	violence	No hubo violencia.	There was no violence.
+2170	sujeto	suˈxeto	noun	subject; individual	Soy un buen sujeto.	I'm a nice guy.
+2171	acciones	aɡˈθjones	noun	actions; shares	Sus acciones me confunden.	His actions confuse me.
+2172	fría	ˈfɾia	adj	cold (feminine)	¿Está fría?	Is it cold?
+2173	droga	ˈdɾoɡa	noun	drug	Tom se droga.	Tom does drugs.
+2174	saldrá	saldrá	verb	will leave; will go out (salir)	Creo que saldrá.	I think he'll go out.
+2175	suponía	supoˈnia	verb	supposed; assumed (suponer)	No se suponía que pasara esto.	This wasn't supposed to happen.
+2176	empezamos	empezamos	verb	we start; we began (empezar)	¿Cómo empezamos?	How do we begin?
+2177	errores	errores	noun	errors; mistakes	No hubo errores.	There were no mistakes.
+2178	siglo	ˈsiɡlo	noun	century	Un siglo es cien años.	A century is one hundred years.
+2179	molesto	moˈlesto	adj	annoyed; annoying	Tom es molesto.	Tom is annoying.
+2180	acabamos	akaˈbamos	verb	we finish (acabar)	Nos acabamos de casar.	We just got married.
+2181	sabéis	saˈbeis	verb	you know (Spain plural)	¿No sabéis?	You don't know?
+2182	cortar	koɾˈtaɾ	verb	to cut	Odio cortar el césped.	I hate mowing the lawn.
+2183	seria	ˈseɾja	adj	serious (feminine)	La situación es seria.	The situation is serious.
+2184	muevas	muevas	verb	move (subjunctive of mover)	No te muevas.	Be still.
+2185	fortuna	foɾˈtuna	noun	fortune	Vale una fortuna.	It's worth a fortune.
+2186	imaginar	imaxiˈnaɾ	verb	to imagine	¿Te lo puedes imaginar?	Can you imagine?
+2187	archivos	archivos	noun	files	No hay archivos.	There are no files.
+2188	presencia	pɾeˈsenθja	noun	presence	Su presencia es vital.	It is vital that you be present.
+2189	familias	familias	noun	families	Tienen familias.	They have families.
+2190	ey	ˈei	interj	hey		
+2191	quedas	ˈkedas	verb	you stay (quedar)	¿Te vas o te quedas?	Are you going or staying?
+2192	solas	ˈsolas	adj	alone (feminine plural)	¿Están solas?	Are you by yourselves?
+2193	oficiales	ofiˈθjales	noun	officers	La UE tiene 24 lenguas oficiales.	The EU has 24 official languages.
+2194	aventura	abenˈtuɾa	noun	adventure	La aventura comienza.	The adventure begins.
+2195	gira	ˈxiɾa	noun	tour	La rueda gira.	The wheel revolves.
+2196	social	soˈθjal	adj	social	El tuvo poca vida social.	He had little social life.
+2197	comunidad	komuniˈdad	noun	community	Tatoeba es una comunidad.	Tatoeba is a community.
+2198	cero	ˈθeɾo	num	zero	Lo hice desde cero.	I made it from scratch.
+2199	esperamos	espeˈɾamos	verb	we wait; we hope (esperar)	Te esperamos allá.	We'll wait for you there.
+2200	ocupada	okuˈpada	adj	busy; occupied (feminine)	Estoy ocupada.	I am busy.
+2201	muévete	muévete	verb	move! (moverse)	Actívate y muévete.	
+2202	convertido	kombeɾˈtido	adj	converted	Me he convertido en mujer.	I became a woman.
+2203	pieza	ˈpjeθa	noun	piece; part	Limpia la pieza.	Clean the room.
+2204	estómago	esˈtomaɡo	noun	stomach	Me duele el estómago.	My stomach hurts.
+2205	disparó	disparó	verb	shot; fired (disparar)	Le disparó.	She shot him.
+2206	legal	leˈɡal	adj	legal	¿Eso es legal?	Is that legal?
+2207	conseguí	conseguí	verb	I got; I achieved (conseguir)	Lo conseguí gratis.	I got it for free.
+2208	california	kaliˈfoɾnja	noun	California		
+2209	rara	ˈraɾa	adj	strange; rare (feminine)	María es rara.	Mary is weird.
+2210	estudiantes	estudiantes	noun	students	Son estudiantes.	They're students.
+2211	reino	ˈreino	noun	kingdom	Él fue exiliado del reino.	He was exiled from the kingdom.
+2212	alegría	aleˈɡɾia	noun	joy; happiness	Salté de alegría.	I jumped for joy.
+2213	barrio	ˈbarjo	noun	neighborhood	Él se mudó al barrio.	He moved into my neighborhood.
+2214	granja	ˈɡɾanxa	noun	farm	Trabajé en una granja.	I worked on a farm.
+2215	podéis	poˈdeis	verb	you can (Spain plural)	No podéis nadar.	You can't swim.
+2216	esfuerzo	esˈfweɾθo	noun	effort	Haz un esfuerzo.	Make an effort!
+2217	trabajaba	trabajaba	verb	worked; was working (trabajar)	¿Dónde trabajaba?	Where did he work?
+2218	perdóname	perdóname	verb	forgive me	Por favor, perdóname.	Please forgive me.
+2219	tesoro	teˈsoɾo	noun	treasure	El tesoro es tuyo.	The treasure is yours.
+2220	empleo	emˈpleo	noun	job; employment	Buscas empleo.	You're looking for work.
+2221	compré	compré	verb	I bought (comprar)	Lo compré.	I bought it.
+2222	cirugía	θiɾuˈxia	noun	surgery	Necesito cirugía.	I need surgery.
+2223	dejamos	deˈxamos	verb	we leave; we let (dejar)	Lo dejamos.	We broke up.
+2224	busco	ˈbusko	verb	I look for (buscar)	No es lo que busco.	That isn't what I'm looking for.
+2225	trabajas	tɾaˈbaxas	verb	you work (trabajar)	¿Hoy trabajas?	Are you working today?
+2226	clave	ˈklabe	noun	key; code	Perdí mi clave.	I lost my key.
+2227	aparentemente	apaˌɾenteˈmente	adv	apparently	Tom aparentemente quiere hacer eso.	Tom apparently wants to do that.
+2228	bravo	ˈbɾabo	adj	brave; fierce	Cuidado, es un toro bravo.	Be careful. It's a fierce bull.
+2229	desearía	desearía	verb	would like; would wish (desear)	¿Qué desearía tomar hoy?	What would you like to drink today?
+2230	cerrada	θeˈrada	adj	closed (feminine)	La tapa está cerrada.	The lid is closed.
+2231	controlar	kontɾoˈlaɾ	verb	to control	No me puedo controlar.	I can't control myself.
+2232	pregunté	pregunté	verb	I asked (preguntar)	Yo le pregunté.	I asked him.
+2233	mostrar	mosˈtɾaɾ	verb	to show	Te voy a mostrar.	I'll show you.
+2234	piloto	piˈloto	noun	pilot	Tom es piloto.	Tom is a pilot.
+2235	pocas	ˈpokas	det	few (feminine)	Quedan pocas.	There aren't many left.
+2236	tuvieron	tuˈbjeɾon	verb	they had (tener)	Ellos tuvieron miedo.	They were afraid.
+2237	ayudarle	aʝuˈdaɾle	verb	to help him/her	¿Puedo ayudarle?	Can I help you?
+2238	bolso	ˈbolso	noun	purse; handbag	Este es su bolso.	This is her handbag.
+2239	llorando	ʝoˈɾando	verb	crying (gerund of llorar)	Estaba llorando.	She was crying.
+2240	duerme	ˈdweɾme	verb	sleeps (dormir)	Ya duerme.	She is already sleeping.
+2241	dejarme	dejarme	verb	to leave me; to let me	No puedes dejarme.	You can't leave me.
+2242	intentó	intentó	verb	tried (intentar)	Ella lo intentó.	She tried.
+2243	respirar	respiˈɾaɾ	verb	to breathe	¿Podés respirar?	Can you breathe?
+2244	aparece	apaˈɾeθe	verb	appears (aparecer)	Un tigre aparece aquí cerca.	A tiger appears near here.
+2245	campaña	kamˈpaɲa	noun	campaign	Él rehusó hacer mucha campaña.	He refused to do much campaigning.
+2246	amistad	amisˈtad	noun	friendship	Creo en la amistad.	I believe in friendship.
+2247	corriente	koˈrjente	adj	current; flowing	Son gente corriente.	They're normal people.
+2248	viven	viven	verb	they live (vivir)	Ambos viven.	Both are alive.
+2249	huesos	huesos	noun	bones	Estos son huesos humanos.	These are bones from a human.
+2250	invitados	invitados	noun	guests	Somos invitados.	We're guests.
+2251	planta	ˈplanta	noun	plant; floor	¿Qué planta es?	What floor?
+2252	ritmo	ˈridmo	noun	rhythm	Trata de seguir el ritmo.	Try to keep up.
+2253	respuestas	respuestas	noun	answers	Necesito respuestas.	I need answers.
+2254	socio	ˈsoθjo	noun	partner; member	No soy socio.	I'm not a member.
+2255	esperas	esˈpeɾas	verb	you wait (esperar)	¿Qué esperas?	What are you waiting for?
+2256	caído	kaˈido	adj	fallen	El régimen ha caído.	The regime has fallen.
+2257	motor	moˈtoɾ	noun	engine; motor	Apaga el motor.	Cut the engine.
+2258	mono	ˈmono	noun	monkey	Es carne de mono.	It's monkey meat.
+2259	llevaron	llevaron	verb	they carried; they took (llevar)	¿Dónde ellos lo llevaron?	Where did they take him?
+2260	página	ˈpaxina	noun	page	Falta una página.	There is a page missing.
+2261	poquito	poˈkito	adv	a little bit	Sí, un poquito.	Yes, a little bit.
+2262	habíamos	aˈbiamos	verb	we had (haber)	¿No la habíamos visto antes?	Haven't we seen her before?
+2263	encontraremos	enkontɾaˈɾemos	verb	we will find (encontrar)	Lo encontraremos.	We'll find him.
+2264	ruego	ˈrweɡo	noun	plea; request	Te lo ruego.	I beg you.
+2265	dejan	ˈdexan	verb	they leave; they let (dejar)	¿Me dejan la goma?	May I borrow your eraser?
+2266	aburrido	abuˈrido	adj	bored; boring	Es aburrido.	It's boring.
+2267	paquete	paˈkete	noun	package; parcel	El paquete está aquí.	The package is here.
+2268	casada	kaˈsada	adj	married (feminine)	Soy casada.	I'm married.
+2269	llevarte	llevarte	verb	to take you	Intenta llevarte bien.	Try to get along.
+2270	combate	komˈbate	noun	combat; fight	Murieron en combate.	They died in battle.
+2271	útil	ˈutil	adj	useful	¿Fue útil?	Was that useful?
+2272	castillo	kasˈtiʝo	noun	castle	¿Es eso un castillo?	Is that a castle?
+2273	bola	ˈbola	noun	ball	Tiró la bola.	He threw the ball.
+2274	canciones	kanˈθjones	noun	songs	Ya no escribo canciones.	I don't write songs anymore.
+2275	mataré	mataré	verb	I will kill (matar)	Te mataré.	I'll kill you.
+2276	muchísimo	muˈt͡ʃisimo	det	a lot; very much	Llueve muchísimo.	It's raining a lot.
+2277	asistente	asisˈtente	noun	assistant; attendee	No eres mi asistente.	You're not my assistant.
+2278	llegaron	llegaron	verb	they arrived (llegar)	Apenas llegaron.	They just got here.
+2279	correcta	correcta	adj	correct (feminine)	¿Cuál es correcta?	Which is correct?
+2280	pondré	ponˈdɾe	verb	I will put (poner)	Me pondré firme.	I'll put my foot down.
+2281	comido	koˈmido	verb	eaten (past participle of comer)	He comido.	I've eaten.
+2282	salgan	salgan	verb	leave; go out (subjunctive of salir)	Él gritó "¡salgan!".	He shouted, "Get out!"
+2283	empecé	empeˈθe	verb	I started (empezar)	Me empecé a preparar.	I started getting ready.
+2284	tirar	tiˈɾaɾ	verb	to throw; to throw away	Tengo que tirar una pared.	I have to knock down a wall.
+2285	pasan	pasan	verb	they pass; they happen (pasar)	Las cosas pasan.	Stuff happens.
+2286	cierta	ˈθjeɾta	adj	certain (feminine)	Su historia es cierta.	Her story is true.
+2287	honesto	oˈnesto	adj	honest	Soy honesto.	I'm honest.
+2288	carro	ˈkaro	noun	car; cart	¿Tienes carro?	Do you have a car?
+2289	limpia	ˈlimpja	adj	clean (feminine)	¿Está limpia?	Is it clean?
+2290	volví	volví	verb	I returned (volver)	Me volví rico.	I became rich.
+2291	confío	confío	verb	I trust (confiar)	No confío en él.	I don't trust him.
+2292	venta	ˈbenta	noun	sale	Estaba en venta.	It was on sale.
+2293	huir	ˈw̝iɾ	verb	to flee; to run away	Lo vi huir.	I saw him run away.
+2294	apareció	apareció	verb	appeared (aparecer)	No apareció.	He didn't show up.
+2295	vais	ˈbais	verb	you go (Spain plural)	¿Adónde vais?	Where're you going?
+2296	compromiso	kompɾoˈmiso	noun	commitment; engagement	Tenía un compromiso.	I had a commitment.
+2297	gustas	gustas	verb	you please; you like (gustar)	Me gustas.	I like you.
+2298	aseguro	aseguro	verb	I assure (asegurar)	Te lo aseguro.	You may take my word for it.
+2299	ira	ˈiɾa	noun	anger; wrath	La ira es tóxica.	Anger is poisonous.
+2300	promesa	pɾoˈmesa	noun	promise	Es una promesa.	That's a promise.
+2301	decírselo	decírselo	verb	to tell it to him/her	Debes decírselo.	You have to tell it to him.
+2302	cuáles	ˈkwales	pron	which ones	No sé cuáles son sus intenciones.	I don't know what her intentions are.
+2303	compras	ˈkompɾas	noun	purchases	¿Qué compras?	What are you buying?
+2304	importancia	impoɾˈtanθja	noun	importance	No tiene importancia.	It's no big deal.
+2305	lección	leɡˈθjon	noun	lesson	La lección empezará.	The lesson will start.
+2306	hablaré	ablaˈɾe	verb	I will speak (hablar)	Te hablaré de él.	I will tell you about him.
+2307	hacerse	hacerse	verb	to become; to be done	Puede hacerse.	It can be done.
+2308	personalmente	peɾˌsonalˈmente	adv	personally	Me invitó personalmente.	He invited me personally.
+2309	bolsillo	bolˈsiʝo	noun	pocket	Está en mi bolsillo.	It's in my pocket.
+2310	enojado	enoˈxado	adj	angry	Estoy enojado.	I'm mad.
+2311	desgracia	desˈɡɾaθja	noun	misfortune; disgrace	¡Qué desgracia!	What rotten luck!
+2312	artículo	aɾˈtikulo	noun	article	Lee el artículo.	Read the article.
+2313	labios	ˈlabjos	noun	lips	Leo labios.	I read lips.
+2314	cola	ˈkola	noun	tail; line; queue	Bebieron cola.	They drank cola.
+2315	estemos	esˈtemos	verb	be (subjunctive of estar)	No importa dónde estemos.	It doesn't matter where we are.
+2316	whisky	ˈw̝iski	noun	whisky; whiskey	¿Bebes whisky?	Do you drink whiskey?
+2317	taza	ˈtaθa	noun	cup; mug	Ves una taza.	You see a cup.
+2318	despues	despues	adv	after; later (misspelling)	Estudio despues.	
+2319	preguntarte	preguntarte	verb	to ask you	No pude preguntarte.	I couldn't ask you.
+2320	pelota	peˈlota	noun	ball	Dame la pelota.	Give me the ball.
+2321	caminando	caminando	verb	walking (gerund of caminar)	Seguí caminando.	Keep walking.
+2322	andar	anˈdaɾ	verb	to walk; to go	¿Puedes andar?	Can you walk?
+2323	crea	ˈkɾea	verb	creates (crear)	Le ruego que crea.	I'm asking you to believe.
+2324	chaqueta	t͡ʃaˈketa	noun	jacket	Olvidé mi chaqueta.	I forgot my jacket.
+2325	importaría	importaría	verb	would mind; would matter (importar)	No me importaría.	I wouldn't care.
+2326	den	ˈden	verb	give (subjunctive of dar)	No me lo den.	Don't give me that.
+2327	llegará	ʝeɡaˈɾa	verb	will arrive (llegar)	Tom llegará pronto.	Tom will arrive soon.
+2328	interesado	inteɾeˈsado	adj	interested	Estoy interesado.	I'm interested.
+2329	atrapado	atɾaˈpado	adj	trapped; caught	Estás atrapado.	You're trapped.
+2330	supiera	supiera	verb	knew (subjunctive of saber)	¡Ojalá lo supiera!	If only I knew!
+2331	matarlo	matarlo	verb	to kill him; to kill it	Los vi matarlo.	I saw them kill it.
+2332	árboles	ˈaɾboles	noun	trees	Planté árboles.	I planted trees.
+2333	obvio	ˈobbjo	adj	obvious	No es obvio.	It's not obvious.
+2334	amaba	aˈmaba	verb	loved; was loving (amar)	Los amaba.	I loved them.
+2335	hablaremos	ablaˈɾemos	verb	we will speak (hablar)	El lunes hablaremos con él.	We'll talk with him on Monday.
+2336	entrenamiento	entɾenaˈmjento	noun	training; workout	Tom necesita entrenamiento.	Tom needs training.
+2337	pescado	pesˈkado	noun	fish (food)	Hay pescado.	There's fish.
+2338	últimas	ˈultimas	adj	last (feminine plural)	Estas son las últimas lágrimas.	These are the last tears.
+2339	pobres	ˈpobɾes	adj	poor (plural)	Somos pobres.	We're poor.
+2340	dioses	dioses	noun	gods	No existen dioses.	There are no gods.
+2341	nerviosa	neɾˈbjosa	adj	nervous (feminine)	Estoy muy nerviosa.	I'm very nervous.
+2342	vueltas	ˈbweltas	noun	turns; laps	Mi cabeza da vueltas.	My head is spinning.
+2343	encontrarlo	encontrarlo	verb	to find it; to find him	Debo encontrarlo.	I must find out.
+2344	autos	ˈautos	noun	cars	Vendo autos.	I sell cars.
+2345	preguntarle	preguntarle	verb	to ask him/her	Vamos a preguntarle.	Let's ask him.
+2346	abrigo	aˈbɾiɡo	noun	coat; shelter	Ponte el abrigo.	Put on your coat.
+2347	okay	oˈkei	interj	okay		
+2348	estudiar	estuˈdjaɾ	verb	to study	Odio estudiar.	I hate studying.
+2349	sonrisa	sonˈrisa	noun	smile	Amo tu sonrisa.	I love your smile.
+2350	cobarde	koˈbaɾde	adj	cowardly	Soy un cobarde.	I'm a coward.
+2351	olvida	olˈbida	verb	forgets (olvidar)	Casi se me olvida.	I almost forgot it.
+2352	secundaria	sekunˈdaɾja	noun	high school	Soy estudiante de secundaria.	I'm a junior high school student.
+2353	descubierto	deskuˈbjeɾto	adj	discovered	Hemos descubierto dónde vive.	We found out where he lives.
+2354	convirtió	convirtió	verb	turned; became (convertir)	Tom se convirtió al islam.	Tom converted to Islam.
+2355	coches	coches	noun	cars	Vendo coches.	I sell cars.
+2356	venía	venía	verb	came; was coming (venir)	Ella venía.	She was coming.
+2357	charla	ˈt͡ʃaɾla	noun	talk; chat	Di una breve charla.	I gave a short talk.
+2358	vives	ˈbibes	verb	you live (vivir)	¿Dónde vives?	Where do you live?
+2359	bruja	ˈbɾuxa	noun	witch	Era bruja.	She was an enchantress.
+2360	celular	θeluˈlaɾ	noun	cell phone	¿Tenés celular?	Do you have a cellphone?
+2361	rompió	rompió	verb	broke (romper)	No se rompió.	It didn't break.
+2362	andando	anˈdando	verb	walking (gerund of andar)	Iré andando.	I will go on foot.
+2363	vean	ˈbean	verb	see (subjunctive of ver)	No dejes que te vean.	Don't let them see you.
+2364	conseguiste	konseˈɡiste	verb	you got; you achieved (conseguir)	Lo conseguiste.	You've done it.
+2365	veinte	ˈbeinte	num	twenty	Duró veinte años.	It lasted for twenty years.
+2366	encargo	enˈkaɾɡo	noun	order; errand	Yo me encargo de eso.	I deal with that.
+2367	matarte	maˈtaɾte	verb	to kill you	Podría matarte.	I could kill you.
+2368	palacio	paˈlaθjo	noun	palace	Tengo un palacio.	I've got a mansion.
+2369	convierte	convierte	verb	turns; becomes (convertir)	El agua se convierte en vapor.	Water changes into steam.
+2370	ja	ˈxa	interj	ha	¡Sí... ja ja ja... sí!	Yes... ha ha ha... yes!
+2371	vivos	vivos	adj	alive (plural)	Están vivos.	They're alive.
+2372	pasamos	pasamos	verb	we passed; we spent (pasar)	Lo pasamos bien.	We had fun.
+2373	firme	ˈfiɾme	adj	firm; steady	Me pondré firme.	I'll put my foot down.
+2374	daría	daˈɾia	verb	would give (dar)	Él no daría la orden.	He would not give the order.
+2375	piense	piense	verb	think (subjunctive of pensar)	No piense ahora en eso.	Don't think about it now.
+2376	oigo	ˈoiɡo	verb	I hear (oír)	Yo te oigo.	I hear you.
+2377	sorprende	sorprende	verb	surprises (sorprender)	Me sorprende.	It surprises me.
+2378	alemanes	aleˈmanes	noun	Germans	Sois alemanes, ¿verdad?	You're Germans, aren't you?
+2379	milagro	miˈlaɡɾo	noun	miracle	¡Qué milagro!	What a miracle!
+2380	soportar	sopoɾˈtaɾ	verb	to bear; to tolerate	No podía soportar verla.	I couldn't bear to look at her.
+2381	dejaron	dejaron	verb	they left; they let (dejar)	Me dejaron ir.	They let me go.
+2382	disculpen	disculpen	verb	excuse (plural formal)	Quiero que se disculpen.	I want you to apologize.
+2383	moda	ˈmoda	noun	fashion	¡Es la moda!	It's fashion!
+2384	despacho	desˈpat͡ʃo	noun	office; dispatch	¿Él sigue en mi despacho?	Is he still in my office?
+2385	vecinos	beˈθinos	noun	neighbors	Son vecinos.	They are neighbours.
+2386	vaso	ˈbaso	noun	glass (drinking)	Rompí un vaso.	I broke a glass.
+2387	dejarte	dejarte	verb	to leave you; to let you	Voy a dejarte.	I'm going to leave you.
+2388	explosión	eɡsploˈsjon	noun	explosion	Hubo una explosión.	There was an explosion.
+2389	poderes	poderes	noun	powers	¡Él tiene poderes supernaturales!	He has otherwordly powers!
+2390	regla	ˈreɡla	noun	rule; ruler	Tengo la regla.	I'm on my period.
+2391	acaban	aˈkaban	verb	they finish (acabar)	Me acaban de ascender.	I just got a promotion.
+2392	copia	ˈkopja	noun	copy	Esa es una copia.	That's a copy.
+2393	siguiendo	siguiendo	verb	following; continuing (gerund of seguir)	¿Te están siguiendo?	Are you being followed?
+2394	viajar	bjaˈxaɾ	verb	to travel	Odio viajar.	I hate traveling.
+2395	cadena	kaˈdena	noun	chain; channel	No cambies de cadena.	Don't change the channel.
+2396	fábrica	ˈfabɾika	noun	factory	Vayamos a la fábrica.	Let's go to the factory.
+2397	mantiene	manˈtjene	verb	keeps; maintains (mantener)	Correr lo mantiene joven.	Running keeps him young.
+2398	meter	meˈteɾ	verb	to put in; to insert	Entraron sin meter ruido.	They entered cautiously.
+2399	contenta	konˈtenta	adj	happy; content (feminine)	Parecía contenta.	She seemed happy.
+2400	comiendo	koˈmjendo	verb	eating (gerund of comer)	Está comiendo.	He's eating.
+2401	educación	edukaˈθjon	noun	education; manners	La corregí con educación.	I politely corrected her.
+2402	maneras	maneras	noun	ways; manners	De todas maneras iremos.	In any case, we'll go.
+2403	fumar	fuˈmaɾ	verb	to smoke	¿Puedo fumar?	May I smoke?
+2404	encantador	enkantaˈdoɾ	adj	charming	Tom es encantador.	Tom's charming.
+2405	cuantos	ˈkwantos	det	as many	Tenemos unos cuantos.	We have some.
+2406	homicidio	omiˈθidjo	noun	homicide; manslaughter	¿Quién cometió este homicidio?	Who committed this murder?
+2407	madera	maˈdeɾa	noun	wood	¡Toco madera!	Touch wood!
+2408	mayores	mayores	adj	older; elderly	Son mayores.	They're old.
+2409	grado	ˈɡɾado	noun	degree; grade	Aceptó de mal grado.	He accepted reluctantly.
+2410	tratamiento	tɾataˈmjento	noun	treatment	Tom está recibiendo tratamiento.	Tom is receiving treatment.
+2411	blancos	ˈblankos	adj	white (plural)	Ellos son blancos.	They're white.
+2412	lord	ˈloɾd	noun	lord		
+2413	anterior	anteˈɾjoɾ	adj	previous; former	¿Qué pasó el mes anterior?	What happened last month?
+2414	comisario	komiˈsaɾjo	noun	commissioner; inspector	Descuide, comisario.	Not to worry, sir.
+2415	pizza	ˈpitsa	noun	pizza	Pedí pizza.	I ordered pizza.
+2416	millas	millas	noun	miles	Él corrió cinco millas.	He ran five miles.
+2417	tira	ˈtiɾa	noun	strip; band	Ziri se tira pedos.	Ziri farts.
+2418	fueran	ˈfweɾan	verb	were; went (subjunctive of ser; ir)	Probablemente fueran ricos.	They were probably rich.
+2419	cumplir	kumˈpliɾ	verb	to fulfill; to comply	Debe cumplir con ella.	You must meet with her.
+2420	plata	ˈplata	noun	silver; money	No tengo plata.	I'm broke.
+2421	quedará	quedará	verb	will stay; will remain (quedar)	Tom se quedará.	Tom will remain.
+2422	quedaré	quedaré	verb	I will stay (quedar)	Me quedaré.	I'll stay.
+2423	aléjate	aléjate	verb	go away; move away		
+2424	decidir	deθiˈdiɾ	verb	to decide	Déjame decidir.	Let me decide.
+2425	lío	ˈlio	noun	mess; trouble	¡Menudo lío!	What a hassle!
+2426	preguntó	preguntó	verb	asked (preguntar)	Nadie preguntó.	Nobody asked.
+2427	agencia	aˈxenθja	noun	agency	Trabajo en una agencia de viajes.	I work for a travel agency.
+2428	humanidad	umaniˈdad	noun	humanity	¡Oh, la humanidad!	Oh, the humanity!
+2429	usado	uˈsado	adj	used	No, es usado.	No, it's second hand.
+2430	guardias	guardias	noun	guards	¿Cuántos guardias había?	How many guards were there?
+2431	parada	paˈɾada	noun	stop (bus stop)	Esta es tu parada.	This is your stop.
+2432	leyes	ˈleʝes	noun	laws	Estudio leyes.	I study law.
+2433	funcionó	funcionó	verb	worked (funcionar)	No funcionó.	It didn't work.
+2434	odia	odia	verb	hates (odiar)	Tom te odia.	Tom hates you.
+2435	levanta	levanta	verb	lifts; gets up (levantar)	Él levanta el pie.	He raises his foot.
+2436	mires	ˈmiɾes	verb	look (subjunctive of mirar)	¡No mires!	No peeking!
+2437	respira	respira	verb	breathes (respirar)	¡No respira!	He's not breathing!
+2438	escaleras	escaleras	noun	stairs	Sube las escaleras.	Go up the stairs.
+2439	decisiones	deθiˈsjones	noun	decisions	Tomamos decisiones juntas.	We make decisions together.
+2440	queréis	queréis	verb	you want (Spain plural)	¿Lo queréis?	Do you want it?
+2441	salvaje	salˈbaxe	adj	wild; savage	El jabalí es salvaje.	The boar is wild.
+2442	preguntando	preguntando	verb	asking (gerund of preguntar)	No te estoy preguntando eso.	I'm not asking you about that.
+2443	pasos	pasos	noun	steps	Avanza dos pasos.	Advance two steps.
+2444	ambulancia	ambuˈlanθja	noun	ambulance	Vino una ambulancia.	An ambulance came.
+2445	traducción	tɾaduɡˈθjon	noun	translation	¿Qué es traducción libre?	What is free translation?
+2446	trabajado	tɾabaˈxado	verb	worked (past participle of trabajar)	Has trabajado duro.	You've worked hard.
+2447	básicamente	ˌbasikaˈmente	adv	basically	Es básicamente lo mismo.	It's basically the same thing.
+2448	tratado	tɾaˈtado	noun	treaty	El tratado fue firmado.	The treaty was signed.
+2449	parado	paˈɾado	adj	stopped; unemployed	Estoy parado.	I'm unemployed.
+2450	especiales	especiales	adj	special (plural)	Son especiales.	They're special.
+2451	mentiroso	mentiˈɾoso	noun	liar	Él es mentiroso.	He is a liar.
+2452	libres	ˈlibɾes	adj	free (plural)	Son libres.	They're free.
+2453	servicios	servicios	noun	services	Aquí están los servicios.	The toilet is there.
+2454	pedirle	pedirle	verb	to ask him/her	Puedo pedirle ayuda.	I can ask her to help.
+2455	vivía	vivía	verb	lived; was living (vivir)	Tom vivía ahí.	Tom lived there.
+2456	medios	ˈmedjos	noun	media; means	El fin justifica los medios.	The end justifies the means.
+2457	compra	ˈkompɾa	noun	purchase	Él compra ropa.	He buys clothes.
+2458	conocimiento	konoθiˈmjento	noun	knowledge	Doy conocimiento.	I give knowledge.
+2459	armario	aɾˈmaɾjo	noun	closet; wardrobe	Miré en el armario.	I looked in the cupboard.
+2460	lobo	ˈlobo	noun	wolf	¿Es un lobo?	Is it a wolf?
+2461	quedamos	quedamos	verb	we stay; we remain (quedar)	Nos quedamos.	We're staying.
+2462	ciertamente	ˌθjeɾtaˈmente	adv	certainly	Sí, ciertamente.	Yes, of course.
+2463	permitir	peɾmiˈtiɾ	verb	to allow; to permit	Voy a permitir esto.	I'll allow this.
+2464	tráfico	ˈtɾafiko	noun	traffic	Hay mucho tráfico.	There's a lot of traffic.
+2465	uniforme	uniˈfoɾme	noun	uniform	Ponte tu uniforme.	Put on your uniform.
+2466	estuvimos	estuˈbimos	verb	we were (preterite of estar)	Ayer estuvimos aquí.	We were here yesterday.
+2467	suave	ˈswabe	adj	soft; smooth	Su piel es suave.	Her skin is soft.
+2468	propias	ˈpɾopjas	adj	own (feminine plural)	Tengo mis propias razones.	I have my own reasons.
+2469	balas	ˈbalas	noun	bullets	¿Te quedan balas?	Do you have any bullets left?
+2470	asqueroso	askeˈɾoso	adj	disgusting	Es asqueroso.	He's disgusting.
+2471	ciento	ˈθjento	num	one hundred	Cien por ciento.	One hundred percent.
+2472	invierno	imˈbjeɾno	noun	winter	Es invierno.	It's winter.
+2473	consigo	konˈsiɡo	pron	with himself; with herself; with themselves	No consigo hacerlo.	I'm unable to do so.
+2474	encuentre	encuentre	verb	find (subjunctive of encontrar)	Puede que lo encuentre.	I may be able to find it.
+2475	conductor	konduɡˈtoɾ	noun	driver	Él es mal conductor.	He is a bad driver.
+2476	equipos	equipos	noun	teams; equipment	¿Qué equipos jugaban?	What teams were playing?
+2477	arena	aˈɾena	noun	sand	Comí arena.	I ate sand.
+2478	licencia	liˈθenθja	noun	license	¿Tienes licencia de caza?	Do you have a hunting license?
+2479	tíos	ˈtios	noun	uncles; guys	Tengo tres tíos.	I have three uncles.
+2480	dijera	diˈxeɾa	verb	said (subjunctive of decir)	No creo que dijera eso.	I don't think that I said that.
+2481	espejo	esˈpexo	noun	mirror	Hay un espejo.	There's a mirror.
+2482	marina	maˈɾina	noun	navy	Me fui a la marina.	I went into the navy.
+2483	matando	maˈtando	verb	killing (gerund of matar)	Estoy matando el tiempo.	I'm killing time.
+2484	seres	ˈseɾes	noun	beings	Todos los seres son hermosos.	All beings are beautiful.
+2485	fiestas	ˈfjestas	noun	parties; holidays	No más fiestas.	No more parties.
+2486	mover	moˈbeɾ	verb	to move	No me puedo mover.	I can't move.
+2487	coincidencia	koinθiˈdenθja	noun	coincidence	¡Qué coincidencia!	What a coincidence!
+2488	análisis	aˈnalisis	noun	analysis	Continúe su análisis.	Continue your analysis.
+2489	llegando	llegando	verb	arriving (gerund of llegar)	Sí, estoy llegando.	Yes, I'm coming.
+2490	azúcar	aˈθukaɾ	noun	sugar	¿Hay azúcar?	Is there any sugar?
+2491	casar	kaˈsaɾ	verb	to marry	Me voy a casar.	I'm getting married.
+2492	sótano	ˈsotano	noun	basement; cellar	¿Tienes sótano?	Do you have a basement?
+2493	volvamos	bolˈbamos	verb	let's return (volver)	No nos volvamos locos.	Let's not get crazy.
+2494	sabrá	sabrá	verb	will know (saber)	Nadie sabrá.	No one will know.
+2495	ocasión	okaˈsjon	noun	occasion; opportunity	Aprovecha la ocasión.	Seize the opportunity.
+2496	cheque	ˈt͡ʃeke	noun	check; cheque	Pagaré por cheque.	I'll pay by cheque.
+2497	revisar	rebiˈsaɾ	verb	to check; to review	Vamos a revisar.	We'll check.
+2498	ponerme	ponerme	verb	to put myself; to put on (clothes)	No sé qué ponerme.	I can't decide what to wear.
+2499	suceder	suθeˈdeɾ	verb	to happen; to succeed	Podría suceder.	It might happen.
+2500	acusado	akuˈsado	adj	accused	Tom es el acusado.	Tom is the defendant.

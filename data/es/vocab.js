@@ -10,213 +10,17503 @@
         "words": [
             {
                 "id": "es-0001",
-                "w": "hola",
-                "p": "OH-lah",
-                "d": "hello",
-                "s": "¡Hola! ¿Cómo estás? (Hi! How are you?)"
+                "w": "de",
+                "p": "de",
+                "d": "of; from; by",
+                "s": "¡Ay de mí! (Oh, woe is me!)"
             },
             {
                 "id": "es-0002",
-                "w": "sí",
-                "p": "see",
-                "d": "yes",
-                "s": "Sí, quiero. (Yes, I want it.)"
+                "w": "que",
+                "p": "ke",
+                "d": "that; than",
+                "s": "¿A que sí? (Isn't that right?)"
             },
             {
                 "id": "es-0003",
                 "w": "no",
-                "p": "no",
-                "d": "no",
-                "s": "No, gracias. (No, thank you.)"
+                "p": "ˈno",
+                "d": "no; not",
+                "s": "Yo no fui. (It wasn't me.)"
             },
             {
                 "id": "es-0004",
-                "w": "gracias",
-                "p": "GRAH-see-as",
-                "d": "thank you",
-                "s": "Muchas gracias. (Thank you very much.)"
+                "w": "la",
+                "p": "la",
+                "d": "the (feminine singular)",
+                "s": "Él la ama. (He loves her.)"
             },
             {
                 "id": "es-0005",
-                "w": "por favor",
-                "p": "por fah-VOR",
-                "d": "please",
-                "s": "Un café, por favor. (A coffee, please.)"
+                "w": "el",
+                "p": "el",
+                "d": "the (masculine singular)",
+                "s": "Amo el sol. (I love the sun.)"
             },
             {
                 "id": "es-0006",
-                "w": "agua",
-                "p": "AH-gwah",
-                "d": "water",
-                "s": "Quiero agua, por favor. (I want water, please.)"
+                "w": "es",
+                "p": "ˈes",
+                "d": "is (third-person singular of ser)",
+                "s": "¿Quién es? (Who is it?)"
             },
             {
                 "id": "es-0007",
-                "w": "comida",
-                "p": "ko-MEE-dah",
-                "d": "food",
-                "s": "La comida está lista. (The food is ready.)"
+                "w": "en",
+                "p": "en",
+                "d": "in; on; at",
+                "s": "Creo en ti. (I believe in you.)"
             },
             {
                 "id": "es-0008",
-                "w": "casa",
-                "p": "KAH-sah",
-                "d": "house",
-                "s": "Mi casa es pequeña. (My house is small.)"
+                "w": "lo",
+                "p": "lo",
+                "d": "it; him",
+                "s": "No lo veo. (I don't see it.)"
             },
             {
                 "id": "es-0009",
-                "w": "amigo",
-                "p": "ah-MEE-goh",
-                "d": "friend",
-                "s": "Mi amigo es simpático. (My friend is friendly.)"
+                "w": "un",
+                "p": "un",
+                "d": "a; an",
+                "s": "Es un pez. (It's a fish.)"
             },
             {
                 "id": "es-0010",
-                "w": "familia",
-                "p": "fah-MEE-lee-ah",
-                "d": "family",
-                "s": "Mi familia es grande. (My family is big.)"
+                "w": "por",
+                "p": "poɾ",
+                "d": "by; for; through",
+                "s": "¡A por él! (Get him!)"
             },
             {
                 "id": "es-0011",
-                "w": "tiempo",
-                "p": "TYEM-poh",
-                "d": "time; weather",
-                "s": "No tengo tiempo. (I do not have time.)"
+                "w": "qué",
+                "p": "ˈke",
+                "d": "what; which",
+                "s": "¿Para qué? (For what?)"
             },
             {
                 "id": "es-0012",
-                "w": "día",
-                "p": "DEE-ah",
-                "d": "day",
-                "s": "Buen día. (Good day.)"
+                "w": "me",
+                "p": "me",
+                "d": "me; myself",
+                "s": "No me reí. (I didn't laugh.)"
             },
             {
                 "id": "es-0013",
-                "w": "noche",
-                "p": "NOH-cheh",
-                "d": "night",
-                "s": "Buenas noches. (Good night.)"
+                "w": "una",
+                "p": "ˈuna",
+                "d": "a; an (feminine); one",
+                "s": "Es la una. (It's one o'clock.)"
             },
             {
                 "id": "es-0014",
-                "w": "hoy",
-                "p": "oy",
-                "d": "today",
-                "s": "Hoy trabajo. (Today I work.)"
+                "w": "los",
+                "p": "los",
+                "d": "the (masculine plural)",
+                "s": "Ya los veo. (I see them now.)"
             },
             {
                 "id": "es-0015",
-                "w": "mañana",
-                "p": "mah-NYAH-nah",
-                "d": "tomorrow; morning",
-                "s": "Hasta mañana. (See you tomorrow.)"
+                "w": "se",
+                "p": "se",
+                "d": "himself; herself; itself; oneself (reflexive)",
+                "s": "Él se rio. (He laughed.)"
             },
             {
                 "id": "es-0016",
-                "w": "bueno",
-                "p": "BWEH-noh",
-                "d": "good",
-                "s": "Es un buen día. (It is a good day.)"
+                "w": "te",
+                "p": "te",
+                "d": "you; yourself (familiar)",
+                "s": "No te veo. (I don't see you.)"
             },
             {
                 "id": "es-0017",
-                "w": "malo",
-                "p": "MAH-loh",
-                "d": "bad",
-                "s": "El tiempo es malo. (The weather is bad.)"
+                "w": "con",
+                "p": "kon",
+                "d": "with",
+                "s": "¿Y con vos? (How about with you?)"
             },
             {
                 "id": "es-0018",
-                "w": "grande",
-                "p": "GRAN-deh",
-                "d": "big",
-                "s": "Es una casa grande. (It is a big house.)"
+                "w": "para",
+                "p": "paɾa",
+                "d": "for; to; in order to",
+                "s": "Es para ti. (That's for you.)"
             },
             {
                 "id": "es-0019",
-                "w": "pequeño",
-                "p": "peh-KEH-nyoh",
-                "d": "small",
-                "s": "Un café pequeño. (A small coffee.)"
+                "w": "está",
+                "p": "esˈta",
+                "d": "is (located or in a state; estar)",
+                "s": "¡Ahí está! (There she is!)"
             },
             {
                 "id": "es-0020",
-                "w": "yo",
-                "p": "yoh",
-                "d": "I",
-                "s": "Yo soy estudiante. (I am a student.)"
+                "w": "mi",
+                "p": "mi",
+                "d": "my",
+                "s": "Es mi tío. (He's my uncle.)"
             },
             {
                 "id": "es-0021",
-                "w": "tú",
-                "p": "too",
-                "d": "you",
-                "s": "¿Tú quieres? (Do you want it?)"
+                "w": "pero",
+                "p": "ˈpeɾo",
+                "d": "but",
+                "s": "Gracias, pero no. (Thanks, but no.)"
             },
             {
                 "id": "es-0022",
-                "w": "él",
-                "p": "el",
-                "d": "he",
-                "s": "Él es mi amigo. (He is my friend.)"
+                "w": "sí",
+                "p": "ˈsi",
+                "d": "yes",
+                "s": "¿A que sí? (Isn't that right?)"
             },
             {
                 "id": "es-0023",
-                "w": "ella",
-                "p": "EH-yah",
-                "d": "she",
-                "s": "Ella es mi hermana. (She is my sister.)"
+                "w": "si",
+                "p": "si",
+                "d": "if",
+                "s": "¿Y si no es? (And if it’s not?)"
             },
             {
                 "id": "es-0024",
-                "w": "querer",
-                "p": "keh-RER",
-                "d": "to want",
-                "s": "Quiero aprender. (I want to learn.)"
+                "w": "bien",
+                "p": "ˈbjen",
+                "d": "well; fine",
+                "s": "Está bien. (It's OK.)"
             },
             {
                 "id": "es-0025",
-                "w": "tener",
-                "p": "teh-NER",
-                "d": "to have",
-                "s": "Tengo un perro. (I have a dog.)"
+                "w": "eso",
+                "p": "ˈeso",
+                "d": "that; it",
+                "s": "Yo sé eso. (I know that.)"
             },
             {
                 "id": "es-0026",
-                "w": "hacer",
-                "p": "ah-SER",
-                "d": "to do; to make",
-                "s": "¿Qué haces? (What are you doing?)"
+                "w": "su",
+                "p": "su",
+                "d": "his; her; its; their; your",
+                "s": "Es su coche. (That's her car.)"
             },
             {
                 "id": "es-0027",
-                "w": "ir",
-                "p": "eer",
-                "d": "to go",
-                "s": "Voy a casa. (I am going home.)"
+                "w": "las",
+                "p": "las",
+                "d": "the (feminine plural)",
+                "s": "Son las 9. (It's nine o'clock.)"
             },
             {
                 "id": "es-0028",
-                "w": "comer",
-                "p": "ko-MER",
-                "d": "to eat",
-                "s": "Como fruta. (I eat fruit.)"
+                "w": "yo",
+                "p": "ˈʝo",
+                "d": "I",
+                "s": "No sos yo. (You're not me.)"
             },
             {
                 "id": "es-0029",
-                "w": "beber",
-                "p": "beh-BER",
-                "d": "to drink",
-                "s": "Bebo agua. (I drink water.)"
+                "w": "del",
+                "p": "del",
+                "d": "of the; from the (de + el)",
+                "s": "Soy del FBI. (I'm from the FBI.)"
             },
             {
                 "id": "es-0030",
+                "w": "como",
+                "p": "komo",
+                "d": "like; as",
+                "s": "Nunca como. (I never eat.)"
+            },
+            {
+                "id": "es-0031",
+                "w": "aquí",
+                "p": "aˈki",
+                "d": "here",
+                "s": "Vivo aquí. (I live here.)"
+            },
+            {
+                "id": "es-0032",
+                "w": "tu",
+                "p": "tu",
+                "d": "your",
+                "s": "Sé tu edad. (I know how old you are.)"
+            },
+            {
+                "id": "es-0033",
+                "w": "al",
+                "p": "al",
+                "d": "to the; at the (a + el)",
+                "s": "Ve al sur. (Head south.)"
+            },
+            {
+                "id": "es-0034",
+                "w": "más",
+                "p": "ˈmas",
+                "d": "more",
+                "s": "¿Algo más? (Anything else?)"
+            },
+            {
+                "id": "es-0035",
+                "w": "le",
+                "p": "le",
+                "d": "him; her; to him; to her",
+                "s": "No le trago. (I can't stand him.)"
+            },
+            {
+                "id": "es-0036",
+                "w": "esto",
+                "p": "ˈesto",
+                "d": "this; it",
+                "s": "Coma esto. (Eat this up.)"
+            },
+            {
+                "id": "es-0037",
+                "w": "todo",
+                "p": "ˈtodo",
+                "d": "all; everything",
+                "s": "Dime todo. (Tell me everything.)"
+            },
+            {
+                "id": "es-0038",
+                "w": "ya",
+                "p": "ˈʝa",
+                "d": "already; now",
+                "s": "¡Hazlo ya! (Do it now.)"
+            },
+            {
+                "id": "es-0039",
+                "w": "estoy",
+                "p": "esˈtoi",
+                "d": "I am (estar)",
+                "s": "Acá estoy. (Here I am.)"
+            },
+            {
+                "id": "es-0040",
+                "w": "ahora",
+                "p": "aˈoɾa",
+                "d": "now",
+                "s": "Ven ahora. (Come now.)"
+            },
+            {
+                "id": "es-0041",
+                "w": "muy",
+                "p": "ˈmwi",
+                "d": "very",
+                "s": "Es muy sexy. (He's very sexy.)"
+            },
+            {
+                "id": "es-0042",
+                "w": "ha",
+                "p": "ˈa",
+                "d": "has (haber)",
+                "s": "Se ha roto. (It broke.)"
+            },
+            {
+                "id": "es-0043",
+                "w": "esta",
+                "p": "ˈesta",
+                "d": "this (feminine)",
+                "s": "Usad esta. (Use this one.)"
+            },
+            {
+                "id": "es-0044",
+                "w": "así",
+                "p": "aˈsi",
+                "d": "like this; so; thus",
+                "s": "Hazlo así. (Do it this way.)"
+            },
+            {
+                "id": "es-0045",
+                "w": "vamos",
+                "p": "ˈbamos",
+                "d": "we go; let's go (ir)",
+                "s": "Nos vamos. (We're going.)"
+            },
+            {
+                "id": "es-0046",
+                "w": "algo",
+                "p": "ˈalɡo",
+                "d": "something",
+                "s": "¡Haz algo! (Do something!)"
+            },
+            {
+                "id": "es-0047",
+                "w": "hay",
+                "p": "ˈai",
+                "d": "there is; there are (haber)",
+                "s": "No hay sal. (There's no salt.)"
+            },
+            {
+                "id": "es-0048",
+                "w": "bueno",
+                "p": "ˈbweno",
+                "d": "good",
+                "s": "Soy bueno. (I am good.)"
+            },
+            {
+                "id": "es-0049",
+                "w": "tengo",
+                "p": "ˈtenɡo",
+                "d": "I have (tener)",
+                "s": "¡Lo tengo! (Got it!)"
+            },
+            {
+                "id": "es-0050",
+                "w": "él",
+                "p": "ˈel",
+                "d": "he; him",
+                "s": "¡A por él! (Get him!)"
+            },
+            {
+                "id": "es-0051",
+                "w": "cuando",
+                "p": "ˈkwando",
+                "d": "when",
+                "s": "Ven cuando quieras. (Come anytime.)"
+            },
+            {
+                "id": "es-0052",
+                "w": "estás",
+                "p": "esˈtas",
+                "d": "you are (estar)",
+                "s": "Ahí estás. (There you are.)"
+            },
+            {
+                "id": "es-0053",
+                "w": "sé",
+                "p": "ˈse",
+                "d": "I know (saber)",
+                "s": "Yo sé eso. (I know that.)"
+            },
+            {
+                "id": "es-0054",
+                "w": "tú",
+                "p": "ˈtu",
+                "d": "you (familiar)",
+                "s": "Decide tú. (You decide.)"
+            },
+            {
+                "id": "es-0055",
+                "w": "nos",
+                "p": "nos",
+                "d": "us; ourselves",
+                "s": "Tom nos vio. (Tom saw us.)"
+            },
+            {
+                "id": "es-0056",
+                "w": "nada",
+                "p": "ˈnada",
+                "d": "nothing",
+                "s": "Para nada. (Not at all.)"
+            },
+            {
+                "id": "es-0057",
+                "w": "cómo",
+                "p": "ˈkomo",
+                "d": "how",
+                "s": "No sé cómo. (I don't know how.)"
+            },
+            {
+                "id": "es-0058",
+                "w": "este",
+                "p": "ˈeste",
+                "d": "this (masculine)",
+                "s": "Usad este. (Use this one.)"
+            },
+            {
+                "id": "es-0059",
+                "w": "he",
+                "p": "ˈe",
+                "d": "I have (haber)",
+                "s": "Yo he ido. (I have gone.)"
+            },
+            {
+                "id": "es-0060",
+                "w": "ser",
+                "p": "ˈseɾ",
+                "d": "to be",
+                "s": "Puede ser. (It may be.)"
+            },
+            {
+                "id": "es-0061",
+                "w": "tiene",
+                "p": "ˈtjene",
+                "d": "has (tener)",
+                "s": "¿Qué tiene? (What do you have?)"
+            },
+            {
+                "id": "es-0062",
+                "w": "puedo",
+                "p": "ˈpwedo",
+                "d": "I can (poder)",
+                "s": "Sí, puedo. (Yes, I can.)"
+            },
+            {
+                "id": "es-0063",
+                "w": "ella",
+                "p": "ˈeʝa",
+                "d": "she; her",
+                "s": "Es de ella. (It's hers.)"
+            },
+            {
+                "id": "es-0064",
+                "w": "quiero",
+                "p": "ˈkjeɾo",
+                "d": "I want (querer)",
+                "s": "Te quiero. (I love you.)"
+            },
+            {
+                "id": "es-0065",
+                "w": "hacer",
+                "p": "aˈθeɾ",
+                "d": "to do; to make",
+                "s": "¿Qué hacer? (What can be done?)"
+            },
+            {
+                "id": "es-0066",
+                "w": "fue",
+                "p": "ˈfwe",
+                "d": "was; went (ser; ir)",
+                "s": "Él se fue. (He walked away.)"
+            },
+            {
+                "id": "es-0067",
+                "w": "gracias",
+                "p": "ˈɡɾaθjas/ [ˈɡɾa.θjas",
+                "d": "thank you; thanks",
+                "s": "No, gracias. (No, thanks.)"
+            },
+            {
+                "id": "es-0068",
+                "w": "vez",
+                "p": "ˈbeθ",
+                "d": "time; occasion",
+                "s": "¡Otra vez! (Again!)"
+            },
+            {
+                "id": "es-0069",
+                "w": "era",
+                "p": "ˈeɾa",
+                "d": "was (imperfect of ser)",
+                "s": "¿Cómo era? (What was it like?)"
+            },
+            {
+                "id": "es-0070",
+                "w": "soy",
+                "p": "ˈsoi",
+                "d": "I am (ser)",
+                "s": "Yo soy tú. (I am you.)"
+            },
+            {
+                "id": "es-0071",
+                "w": "sólo",
+                "p": "ˈsolo",
+                "d": "only; just",
+                "s": "Déjenlo sólo. (Leave him alone.)"
+            },
+            {
+                "id": "es-0072",
+                "w": "todos",
+                "p": "ˈtodos",
+                "d": "all; everyone",
+                "s": "Oigan todos. (Everyone, listen up.)"
+            },
+            {
+                "id": "es-0073",
+                "w": "porque",
+                "p": "ˈpoɾke",
+                "d": "because",
+                "s": "Vine porque quería. (I came because I wanted to.)"
+            },
+            {
+                "id": "es-0074",
+                "w": "son",
+                "p": "ˈson",
+                "d": "they are (ser)",
+                "s": "No son míos. (They're not mine.)"
+            },
+            {
+                "id": "es-0075",
+                "w": "tienes",
+                "p": "ˈtjenes",
+                "d": "you have (tener)",
+                "s": "¿Lo tienes? (Do you have it?)"
+            },
+            {
+                "id": "es-0076",
+                "w": "creo",
+                "p": "ˈkɾeo",
+                "d": "I believe; I think (creer)",
+                "s": "¡Eso creo! (I think so!)"
+            },
+            {
+                "id": "es-0077",
+                "w": "voy",
+                "p": "ˈboi",
+                "d": "I go (ir)",
+                "s": "Ya me voy. (I'm leaving now.)"
+            },
+            {
+                "id": "es-0078",
+                "w": "sabes",
+                "p": "ˈsabes",
+                "d": "you know (saber)",
+                "s": "¿Lo sabes? (Do you know?)"
+            },
+            {
+                "id": "es-0079",
+                "w": "estaba",
+                "p": "esˈtaba",
+                "d": "was (imperfect of estar)",
+                "s": "Él estaba solo. (He was alone.)"
+            },
+            {
+                "id": "es-0080",
+                "w": "puede",
+                "p": "ˈpwede",
+                "d": "can (poder)",
+                "s": "Se puede ir. (You may go.)"
+            },
+            {
+                "id": "es-0081",
+                "w": "eres",
+                "p": "ˈeɾes",
+                "d": "you are (ser)",
+                "s": "¿Qué eres? (What are you?)"
+            },
+            {
+                "id": "es-0082",
+                "w": "ese",
+                "p": "ˈese",
+                "d": "that",
+                "s": "¿Es ese Tom? (Is he Tom?)"
+            },
+            {
+                "id": "es-0083",
+                "w": "usted",
+                "p": "usˈted",
+                "d": "you (formal)",
+                "s": "¿Es usted? (Is that you?)"
+            },
+            {
+                "id": "es-0084",
+                "w": "entonces",
+                "p": "enˈtonθes",
+                "d": "then; so",
+                "s": "¿Y entonces? (And then?)"
+            },
+            {
+                "id": "es-0085",
+                "w": "hola",
+                "p": "ˈola",
+                "d": "hello; hi",
+                "s": "Decí hola. (Say hello.)"
+            },
+            {
+                "id": "es-0086",
+                "w": "solo",
+                "p": "ˈsolo",
+                "d": "only; alone",
+                "s": "Está solo. (He is alone.)"
+            },
+            {
+                "id": "es-0087",
+                "w": "verdad",
+                "p": "beɾˈda",
+                "d": "truth",
+                "s": "Es verdad. (It's true.)"
+            },
+            {
+                "id": "es-0088",
+                "w": "casa",
+                "p": "ˈkasa",
+                "d": "house; home",
+                "s": "Fui a casa. (I went home.)"
+            },
+            {
+                "id": "es-0089",
+                "w": "tan",
+                "p": "tan",
+                "d": "so; such",
+                "s": "Es tan caro. (It is too expensive.)"
+            },
+            {
+                "id": "es-0090",
+                "w": "quién",
+                "p": "ˈkjen",
+                "d": "who",
+                "s": "Sé quién es. (I know who he is.)"
+            },
+            {
+                "id": "es-0091",
+                "w": "sus",
+                "p": "sus",
+                "d": "his; her; their; your",
+                "s": "Abran sus ojos. (Open your eyes.)"
+            },
+            {
+                "id": "es-0092",
+                "w": "tiempo",
+                "p": "ˈtjempo",
+                "d": "time; weather",
+                "s": "Dale tiempo. (Give him time.)"
+            },
+            {
+                "id": "es-0093",
+                "w": "dos",
+                "p": "ˈdos",
+                "d": "two",
+                "s": "Lleve dos. (Take two.)"
+            },
+            {
+                "id": "es-0094",
+                "w": "esa",
+                "p": "ˈesa",
+                "d": "that (feminine)",
+                "s": "¡Chúpate esa! (Suck it!)"
+            },
+            {
+                "id": "es-0095",
+                "w": "nunca",
+                "p": "ˈnunka",
+                "d": "never",
+                "s": "Hasta nunca. (Good riddance.)"
+            },
+            {
+                "id": "es-0096",
+                "w": "dónde",
+                "p": "ˈdonde",
+                "d": "where",
+                "s": "¿De dónde? (From where?)"
+            },
+            {
+                "id": "es-0097",
+                "w": "va",
+                "p": "ˈba",
+                "d": "goes (ir)",
+                "s": "Eso no va. (That's broken.)"
+            },
+            {
+                "id": "es-0098",
+                "w": "oh",
+                "p": "ˈo",
+                "d": "oh",
+                "s": "No me abandones, oh querida. (Do not forsake me, oh my darling.)"
+            },
+            {
+                "id": "es-0099",
+                "w": "favor",
+                "p": "faˈboɾ",
+                "d": "favor",
+                "s": "¡Por favor! (Please.)"
+            },
+            {
+                "id": "es-0100",
+                "w": "mucho",
+                "p": "ˈmut͡ʃo",
+                "d": "much; a lot of",
+                "s": "Leo mucho. (I read a lot.)"
+            },
+            {
+                "id": "es-0101",
+                "w": "mí",
+                "p": "ˈmi",
+                "d": "me (stressed)",
+                "s": "¡Ay de mí! (Oh, woe is me!)"
+            },
+            {
+                "id": "es-0102",
+                "w": "quieres",
+                "p": "quieres",
+                "d": "you want (querer)",
+                "s": "Si quieres. (If you want.)"
+            },
+            {
+                "id": "es-0103",
+                "w": "siento",
+                "p": "ˈsjento",
+                "d": "I feel; I am sorry (sentir)",
+                "s": "Lo siento. (Sorry.)"
+            },
+            {
+                "id": "es-0104",
+                "w": "señor",
+                "p": "seˈɲoɾ",
+                "d": "sir; mister; lord",
+                "s": "Mi señor... (Hail, milord.)"
+            },
+            {
+                "id": "es-0105",
+                "w": "mejor",
+                "p": "meˈxoɾ",
+                "d": "better; best",
+                "s": "Soy mejor. (I am better.)"
+            },
+            {
+                "id": "es-0106",
+                "w": "hace",
+                "p": "ˈaθe",
+                "d": "does; makes (hacer)",
+                "s": "¿Qué hace? (What does he do?)"
+            },
+            {
+                "id": "es-0107",
+                "w": "has",
+                "p": "ˈas",
+                "d": "you have (haber)",
+                "s": "¿Lo has oído? (Did you hear it?)"
+            },
+            {
+                "id": "es-0108",
+                "w": "decir",
+                "p": "deˈθiɾ",
+                "d": "to say; to tell",
+                "s": "Déjame decir. (Let me say.)"
+            },
+            {
+                "id": "es-0109",
+                "w": "también",
+                "p": "tamˈbjen",
+                "d": "also; too",
+                "s": "Yo también. (Me too.)"
+            },
+            {
+                "id": "es-0110",
+                "w": "sobre",
+                "p": "ˈsobɾe",
+                "d": "on; over; about",
+                "s": "Rasgué el sobre. (I ripped the envelope open.)"
+            },
+            {
+                "id": "es-0111",
+                "w": "dios",
+                "p": "ˈdjos",
+                "d": "god",
+                "s": "No hay dios. (There is no god.)"
+            },
+            {
+                "id": "es-0112",
+                "w": "sin",
+                "p": "ˈsin",
+                "d": "without",
+                "s": "Iré sin ti. (I'll go without you.)"
+            },
+            {
+                "id": "es-0113",
+                "w": "tenemos",
+                "p": "teˈnemos",
+                "d": "we have (tener)",
+                "s": "Lo tenemos. (We've got it.)"
+            },
+            {
+                "id": "es-0114",
+                "w": "están",
+                "p": "esˈtan",
+                "d": "they are (estar)",
+                "s": "Ahí están. (That's them.)"
+            },
+            {
+                "id": "es-0115",
+                "w": "ti",
+                "p": "ˈti",
+                "d": "you (after a preposition)",
+                "s": "Creo en ti. (I believe in you.)"
+            },
+            {
+                "id": "es-0116",
+                "w": "puedes",
+                "p": "ˈpwedes",
+                "d": "you can (poder)",
+                "s": "No puedes ir. (You can't go.)"
+            },
+            {
+                "id": "es-0117",
+                "w": "ver",
+                "p": "ˈbeɾ",
+                "d": "to see",
+                "s": "Deseo ver. (I wish to see.)"
+            },
+            {
+                "id": "es-0118",
+                "w": "hombre",
+                "p": "ˈombɾe",
+                "d": "man",
+                "s": "Soy hombre. (I'm a man.)"
+            },
+            {
+                "id": "es-0119",
+                "w": "vida",
+                "p": "ˈbida",
+                "d": "life",
+                "s": "¡Qué vida! (What a life!)"
+            },
+            {
+                "id": "es-0120",
+                "w": "alguien",
+                "p": "ˈalɡjen",
+                "d": "someone; somebody",
+                "s": "Vi a alguien. (I saw somebody.)"
+            },
+            {
+                "id": "es-0121",
+                "w": "cosas",
+                "p": "ˈkosas",
+                "d": "things",
+                "s": "Yo sé cosas. (I know things.)"
+            },
+            {
+                "id": "es-0122",
+                "w": "siempre",
+                "p": "ˈsjempɾe",
+                "d": "always",
+                "s": "Casi siempre. (Almost always.)"
+            },
+            {
+                "id": "es-0123",
+                "w": "hasta",
+                "p": "ˈasta",
+                "d": "until; up to",
+                "s": "OK, hasta mañana. (OK, I'll see you tomorrow.)"
+            },
+            {
+                "id": "es-0124",
+                "w": "ahí",
+                "p": "aˈi",
+                "d": "there",
+                "s": "Ponlo ahí. (Put it there.)"
+            },
+            {
+                "id": "es-0125",
+                "w": "ir",
+                "p": "ˈiɾ",
+                "d": "to go",
+                "s": "Puedes ir. (You can go.)"
+            },
+            {
+                "id": "es-0126",
+                "w": "años",
+                "p": "ˈaɲos",
+                "d": "years",
+                "s": "Tengo 8 años. (I'm eight years old.)"
+            },
+            {
+                "id": "es-0127",
+                "w": "antes",
+                "p": "ˈantes",
+                "d": "before; earlier",
+                "s": "Llamé antes. (I called earlier.)"
+            },
+            {
+                "id": "es-0128",
+                "w": "estar",
+                "p": "esˈtaɾ",
+                "d": "to be",
+                "s": "Aquí debe estar. (He's got to be here.)"
+            },
+            {
+                "id": "es-0129",
+                "w": "ni",
+                "p": "ˈni",
+                "d": "nor; not even",
+                "s": "Yo ni voto. (I don't even vote.)"
+            },
+            {
+                "id": "es-0130",
+                "w": "poco",
+                "p": "ˈpoko",
+                "d": "little; few",
+                "s": "¿A poco sí? (Is that right?)"
+            },
+            {
+                "id": "es-0131",
+                "w": "día",
+                "p": "ˈdia",
+                "d": "day",
+                "s": "¡Buen día! (Good day!)"
+            },
+            {
+                "id": "es-0132",
+                "w": "uno",
+                "p": "ˈuno",
+                "d": "one; a",
+                "s": "Tengo uno. (I have one.)"
+            },
+            {
+                "id": "es-0133",
+                "w": "noche",
+                "p": "ˈnot͡ʃe",
+                "d": "night",
+                "s": "¡Qué noche! (What a night!)"
+            },
+            {
+                "id": "es-0134",
+                "w": "hecho",
+                "p": "ˈet͡ʃo",
+                "d": "fact; deed",
+                "s": "Bien hecho. (Well done.)"
+            },
+            {
+                "id": "es-0135",
+                "w": "mis",
+                "p": "mis",
+                "d": "my (plural)",
+                "s": "Son mis primos. (They're my cousins.)"
+            },
+            {
+                "id": "es-0136",
+                "w": "estamos",
+                "p": "esˈtamos",
+                "d": "we are (estar)",
+                "s": "Aquí estamos. (Here we are.)"
+            },
+            {
+                "id": "es-0137",
+                "w": "otra",
+                "p": "ˈotɾa",
+                "d": "other; another (feminine)",
+                "s": "Tomá otra. (Have another.)"
+            },
+            {
+                "id": "es-0138",
+                "w": "acuerdo",
+                "p": "aˈkweɾdo",
+                "d": "agreement",
+                "s": "De acuerdo. (I agree.)"
+            },
+            {
+                "id": "es-0139",
+                "w": "trabajo",
+                "p": "tɾaˈbaxo",
+                "d": "work; job",
+                "s": "Yo trabajo. (I work.)"
+            },
+            {
+                "id": "es-0140",
+                "w": "nosotros",
+                "p": "noˈsotɾos",
+                "d": "we",
+                "s": "Ven a nosotros. (Come to us.)"
+            },
+            {
+                "id": "es-0141",
+                "w": "parece",
+                "p": "paˈɾeθe",
+                "d": "seems (parecer)",
+                "s": "No parece, es. (It doesn't seem; it is.)"
+            },
+            {
+                "id": "es-0142",
+                "w": "gente",
+                "p": "ˈxente",
+                "d": "people",
+                "s": "Son buena gente. (They're good people.)"
+            },
+            {
+                "id": "es-0143",
+                "w": "sea",
+                "p": "ˈsea",
+                "d": "be (subjunctive of ser)",
+                "s": "Quien sea. (Anybody will do.)"
+            },
+            {
+                "id": "es-0144",
+                "w": "padre",
+                "p": "ˈpadɾe",
+                "d": "father",
+                "s": "¡Qué padre! (Cool!)"
+            },
+            {
+                "id": "es-0145",
+                "w": "mira",
+                "p": "ˈmiɾa",
+                "d": "look at; look! (mirar)",
+                "s": "Ven y mira. (Come and see.)"
+            },
+            {
+                "id": "es-0146",
+                "w": "mismo",
+                "p": "ˈmismo",
+                "d": "same; self",
+                "s": "Sé tú mismo. (Be yourself.)"
+            },
+            {
+                "id": "es-0147",
+                "w": "dijo",
+                "p": "ˈdixo",
+                "d": "said (decir)",
+                "s": "¿Qué dijo? (What did he say?)"
+            },
+            {
+                "id": "es-0148",
+                "w": "nadie",
+                "p": "ˈnadje",
+                "d": "nobody; no one",
+                "s": "No vino nadie. (Nobody came.)"
+            },
+            {
+                "id": "es-0149",
+                "w": "quiere",
+                "p": "ˈkjeɾe",
+                "d": "wants (querer)",
+                "s": "Si quiere. (If you like.)"
+            },
+            {
+                "id": "es-0150",
+                "w": "podría",
+                "p": "podría",
+                "d": "could (poder)",
+                "s": "No podría parar. (I couldn't stop.)"
+            },
+            {
+                "id": "es-0151",
                 "w": "hablar",
-                "p": "ah-BLAR",
-                "d": "to speak",
-                "s": "Hablo español. (I speak Spanish.)"
+                "p": "aˈblaɾ",
+                "d": "to speak; to talk",
+                "s": "Debo hablar. (I can talk.)"
+            },
+            {
+                "id": "es-0152",
+                "w": "vas",
+                "p": "ˈbas",
+                "d": "you go (ir)",
+                "s": "¿Cómo vas? (How are you going?)"
+            },
+            {
+                "id": "es-0153",
+                "w": "ellos",
+                "p": "ˈeʝos",
+                "d": "they; them",
+                "s": "Son ellos. (That's them.)"
+            },
+            {
+                "id": "es-0154",
+                "w": "tal",
+                "p": "ˈtal",
+                "d": "such",
+                "s": "¿Qué tal tú? (And you?)"
+            },
+            {
+                "id": "es-0155",
+                "w": "pasa",
+                "p": "ˈpasa",
+                "d": "happens; passes (pasar)",
+                "s": "¿Qué pasa? (What gives?)"
+            },
+            {
+                "id": "es-0156",
+                "w": "fuera",
+                "p": "ˈfweɾa",
+                "d": "outside",
+                "s": "Sal fuera. (Come outside.)"
+            },
+            {
+                "id": "es-0157",
+                "w": "después",
+                "p": "desˈpwes",
+                "d": "after; later",
+                "s": "¿Y después? (And afterward?)"
+            },
+            {
+                "id": "es-0158",
+                "w": "han",
+                "p": "ˈan",
+                "d": "they have (haber)",
+                "s": "Se han ido. (They've left.)"
+            },
+            {
+                "id": "es-0159",
+                "w": "desde",
+                "p": "ˈdesde",
+                "d": "from; since",
+                "s": "Vengo desde allí. (I come from there.)"
+            },
+            {
+                "id": "es-0160",
+                "w": "dinero",
+                "p": "diˈneɾo",
+                "d": "money",
+                "s": "Roba dinero. (Steal money.)"
+            },
+            {
+                "id": "es-0161",
+                "w": "mundo",
+                "p": "ˈmundo",
+                "d": "world",
+                "s": "¡Hola mundo! (Hello world!)"
+            },
+            {
+                "id": "es-0162",
+                "w": "claro",
+                "p": "ˈklaɾo",
+                "d": "of course; clearly",
+                "s": "Sí, claro. (Yes, of course.)"
+            },
+            {
+                "id": "es-0163",
+                "w": "momento",
+                "p": "moˈmento",
+                "d": "moment",
+                "s": "Un momento. (Stand by.)"
+            },
+            {
+                "id": "es-0164",
+                "w": "les",
+                "p": "les",
+                "d": "them; to them",
+                "s": "No les creí. (I didn't believe them.)"
+            },
+            {
+                "id": "es-0165",
+                "w": "tener",
+                "p": "teˈneɾ",
+                "d": "to have",
+                "s": "Quería tener hijos. (I wanted to have children.)"
+            },
+            {
+                "id": "es-0166",
+                "w": "estado",
+                "p": "esˈtado",
+                "d": "state",
+                "s": "¿Es un estado? (Is it a state?)"
+            },
+            {
+                "id": "es-0167",
+                "w": "otro",
+                "p": "ˈotɾo",
+                "d": "other; another",
+                "s": "Tomá otro. (Have another.)"
+            },
+            {
+                "id": "es-0168",
+                "w": "había",
+                "p": "aˈbia",
+                "d": "there was; had (haber)",
+                "s": "No había baño. (There was no bathroom.)"
+            },
+            {
+                "id": "es-0169",
+                "w": "mañana",
+                "p": "maˈɲana",
+                "d": "tomorrow; morning",
+                "s": "Iré mañana. (I'll come tomorrow.)"
+            },
+            {
+                "id": "es-0170",
+                "w": "tenía",
+                "p": "teˈnia",
+                "d": "had (tener)",
+                "s": "Él tenía sed. (He was thirsty.)"
+            },
+            {
+                "id": "es-0171",
+                "w": "madre",
+                "p": "ˈmadɾe",
+                "d": "mother",
+                "s": "Eres mi madre. (You're my mother.)"
+            },
+            {
+                "id": "es-0172",
+                "w": "vale",
+                "p": "ˈbale",
+                "d": "okay; all right",
+                "s": "¿Eso vale? (Does that count?)"
+            },
+            {
+                "id": "es-0173",
+                "w": "lugar",
+                "p": "luˈɡaɾ",
+                "d": "place",
+                "s": "Hay lugar. (There's room.)"
+            },
+            {
+                "id": "es-0174",
+                "w": "haciendo",
+                "p": "aˈθjendo",
+                "d": "doing; making (gerund of hacer)",
+                "s": "Lo sigo haciendo. (I still do that.)"
+            },
+            {
+                "id": "es-0175",
+                "w": "donde",
+                "p": "ˈdonde",
+                "d": "where",
+                "s": "Iré donde ti. (I'll come to your place.)"
+            },
+            {
+                "id": "es-0176",
+                "w": "seguro",
+                "p": "seˈɡuɾo",
+                "d": "sure; safe",
+                "s": "Es seguro. (It's a sure thing.)"
+            },
+            {
+                "id": "es-0177",
+                "w": "sabe",
+                "p": "ˈsabe",
+                "d": "knows (saber)",
+                "s": "Nadie sabe. (No one knows.)"
+            },
+            {
+                "id": "es-0178",
+                "w": "podemos",
+                "p": "poˈdemos",
+                "d": "we can (poder)",
+                "s": "Sí, podemos. (Yes, we can.)"
+            },
+            {
+                "id": "es-0179",
+                "w": "tus",
+                "p": "tus",
+                "d": "your (plural)",
+                "s": "Coge tus cosas. (Get your things.)"
+            },
+            {
+                "id": "es-0180",
+                "w": "espera",
+                "p": "esˈpeɾa",
+                "d": "waits; wait! (esperar)",
+                "s": "¿Qué espera? (What does he expect?)"
+            },
+            {
+                "id": "es-0181",
+                "w": "nuevo",
+                "p": "ˈnwebo",
+                "d": "new",
+                "s": "¿Es nuevo? (Is it new?)"
+            },
+            {
+                "id": "es-0182",
+                "w": "sido",
+                "p": "ˈsido",
+                "d": "been (past participle of ser)",
+                "s": "He sido amado. (I have been loved.)"
+            },
+            {
+                "id": "es-0183",
+                "w": "cosa",
+                "p": "ˈkosa",
+                "d": "thing",
+                "s": "Es cosa de dos. (It takes two to tango.)"
+            },
+            {
+                "id": "es-0184",
+                "w": "hijo",
+                "p": "ˈixo",
+                "d": "son; child",
+                "s": "Es mi hijo. (He's my son.)"
+            },
+            {
+                "id": "es-0185",
+                "w": "allí",
+                "p": "aˈʝi",
+                "d": "there",
+                "s": "Mira allí. (Look there.)"
+            },
+            {
+                "id": "es-0186",
+                "w": "menos",
+                "p": "ˈmenos",
+                "d": "less; fewer",
+                "s": "Más o menos. (More or less.)"
+            },
+            {
+                "id": "es-0187",
+                "w": "tipo",
+                "p": "ˈtipo",
+                "d": "type; guy",
+                "s": "Eres mi tipo. (You're my type.)"
+            },
+            {
+                "id": "es-0188",
+                "w": "amigo",
+                "p": "aˈmiɡo",
+                "d": "friend",
+                "s": "Es mi amigo. (He's my friend.)"
+            },
+            {
+                "id": "es-0189",
+                "w": "gran",
+                "p": "ˈɡɾan",
+                "d": "great; big (apocope of grande)",
+                "s": "¡Qué gran idea! (What a great idea!)"
+            },
+            {
+                "id": "es-0190",
+                "w": "nuestro",
+                "p": "ˈnwestɾo",
+                "d": "our",
+                "s": "Es nuestro. (It's ours.)"
+            },
+            {
+                "id": "es-0191",
+                "w": "mujer",
+                "p": "muˈxeɾ",
+                "d": "woman; wife",
+                "s": "Soy mujer. (I'm a woman.)"
+            },
+            {
+                "id": "es-0192",
+                "w": "mamá",
+                "p": "maˈma",
+                "d": "mom; mum",
+                "s": "Mary es mamá. (Mary is a mom.)"
+            },
+            {
+                "id": "es-0193",
+                "w": "luego",
+                "p": "ˈlweɡo",
+                "d": "then; later",
+                "s": "Hasta luego. (See ya.)"
+            },
+            {
+                "id": "es-0194",
+                "w": "papá",
+                "p": "paˈpa",
+                "d": "dad",
+                "s": "¡No, papá! (No, Dad!)"
+            },
+            {
+                "id": "es-0195",
+                "w": "días",
+                "p": "días",
+                "d": "days",
+                "s": "Buenos días. (G'day.)"
+            },
+            {
+                "id": "es-0196",
+                "w": "dice",
+                "p": "ˈdiθe",
+                "d": "says (decir)",
+                "s": "¿Cómo dice? (Pardon?)"
+            },
+            {
+                "id": "es-0197",
+                "w": "hoy",
+                "p": "ˈoi",
+                "d": "today",
+                "s": "Pagaré hoy. (I'll pay today.)"
+            },
+            {
+                "id": "es-0198",
+                "w": "tres",
+                "p": "ˈtɾes",
+                "d": "three",
+                "s": "Casi tres. (Almost three.)"
+            },
+            {
+                "id": "es-0199",
+                "w": "buena",
+                "p": "ˈbwena",
+                "d": "good (feminine)",
+                "s": "Sea buena. (Be good.)"
+            },
+            {
+                "id": "es-0200",
+                "w": "necesito",
+                "p": "necesito",
+                "d": "I need (necesitar)",
+                "s": "Te necesito. (I need you.)"
+            },
+            {
+                "id": "es-0201",
+                "w": "dije",
+                "p": "ˈdixe",
+                "d": "I said (decir)",
+                "s": "Te lo dije. (I told you.)"
+            },
+            {
+                "id": "es-0202",
+                "w": "oye",
+                "p": "ˈoʝe",
+                "d": "listen!; hey (oír)",
+                "s": "Tom no oye nada. (Tom can't hear anything.)"
+            },
+            {
+                "id": "es-0203",
+                "w": "gusta",
+                "p": "ˈɡusta",
+                "d": "pleases; is pleasing (gustar)",
+                "s": "¿Te gusta? (You like it?)"
+            },
+            {
+                "id": "es-0204",
+                "w": "quería",
+                "p": "quería",
+                "d": "wanted (querer)",
+                "s": "Yo la quería. (I loved her.)"
+            },
+            {
+                "id": "es-0205",
+                "w": "será",
+                "p": "seˈɾa",
+                "d": "will be (ser)",
+                "s": "No será fácil. (It won't be easy.)"
+            },
+            {
+                "id": "es-0206",
+                "w": "haber",
+                "p": "aˈbeɾ",
+                "d": "to have (auxiliary)",
+                "s": "Debe de haber más. (There must be more.)"
+            },
+            {
+                "id": "es-0207",
+                "w": "parte",
+                "p": "ˈpaɾte",
+                "d": "part",
+                "s": "¿Quién parte? (Who'll start?)"
+            },
+            {
+                "id": "es-0208",
+                "w": "todas",
+                "p": "ˈtodas",
+                "d": "all (feminine plural)",
+                "s": "De todas formas. (Anyway.)"
+            },
+            {
+                "id": "es-0209",
+                "w": "crees",
+                "p": "ˈkɾees",
+                "d": "you believe; you think (creer)",
+                "s": "¿Le crees? (Do you believe him?)"
+            },
+            {
+                "id": "es-0210",
+                "w": "buen",
+                "p": "ˈbwen",
+                "d": "good (apocope of bueno)",
+                "s": "¡Qué buen ojo! (Good catch.)"
+            },
+            {
+                "id": "es-0211",
+                "w": "conmigo",
+                "p": "komˈmiɡo",
+                "d": "with me",
+                "s": "Ven conmigo. (Come with me.)"
+            },
+            {
+                "id": "es-0212",
+                "w": "nombre",
+                "p": "ˈnombɾe",
+                "d": "name",
+                "s": "Sé su nombre. (I know his name.)"
+            },
+            {
+                "id": "es-0213",
+                "w": "mierda",
+                "p": "ˈmjeɾda",
+                "d": "shit",
+                "s": "¿Qué mierda? (What the fuck?)"
+            },
+            {
+                "id": "es-0214",
+                "w": "nuestra",
+                "p": "ˈnwestɾa",
+                "d": "our (feminine)",
+                "s": "Es nuestra. (It is ours.)"
+            },
+            {
+                "id": "es-0215",
+                "w": "mal",
+                "p": "ˈmal",
+                "d": "badly",
+                "s": "¿Está mal? (Do you feel bad?)"
+            },
+            {
+                "id": "es-0216",
+                "w": "debe",
+                "p": "ˈdebe",
+                "d": "must; owes (deber)",
+                "s": "Ziri debe irse. (Ziri must go.)"
+            },
+            {
+                "id": "es-0217",
+                "w": "realmente",
+                "p": "reˌalˈmente",
+                "d": "really; actually",
+                "s": "¿Viene realmente? (Are you really coming?)"
+            },
+            {
+                "id": "es-0218",
+                "w": "estas",
+                "p": "ˈestas",
+                "d": "these (feminine)",
+                "s": "Qué bando estas? (What side are you on?)"
+            },
+            {
+                "id": "es-0219",
+                "w": "aún",
+                "p": "aˈun",
+                "d": "still; yet",
+                "s": "No, aún no. (No, not yet.)"
+            },
+            {
+                "id": "es-0220",
+                "w": "mío",
+                "p": "ˈmio",
+                "d": "mine; my",
+                "s": "No es mío. (It isn't mine.)"
+            },
+            {
+                "id": "es-0221",
+                "w": "toda",
+                "p": "ˈtoda",
+                "d": "all (feminine)",
+                "s": "Lloré toda la noche. (I cried all night.)"
+            },
+            {
+                "id": "es-0222",
+                "w": "hacerlo",
+                "p": "hacerlo",
+                "d": "to do it (hacer + lo)",
+                "s": "Sé hacerlo. (I know how to do it.)"
+            },
+            {
+                "id": "es-0223",
+                "w": "cada",
+                "p": "ˈkada",
+                "d": "each; every",
+                "s": "Voy cada año. (I go every year.)"
+            },
+            {
+                "id": "es-0224",
+                "w": "visto",
+                "p": "ˈbisto",
+                "d": "seen",
+                "s": "Lo he visto. (I've seen it.)"
+            },
+            {
+                "id": "es-0225",
+                "w": "importa",
+                "p": "importa",
+                "d": "matters (importar)",
+                "s": "Me importa. (It is important for me.)"
+            },
+            {
+                "id": "es-0226",
+                "w": "contigo",
+                "p": "konˈtiɡo",
+                "d": "with you",
+                "s": "¿Y contigo? (How about with you?)"
+            },
+            {
+                "id": "es-0227",
+                "w": "tienen",
+                "p": "ˈtjenen",
+                "d": "they have (tener)",
+                "s": "¿Qué tienen? (What do you have?)"
+            },
+            {
+                "id": "es-0228",
+                "w": "hemos",
+                "p": "ˈemos",
+                "d": "we have (haber)",
+                "s": "No hemos roto. (We didn't break up.)"
+            },
+            {
+                "id": "es-0229",
+                "w": "razón",
+                "p": "raˈθon",
+                "d": "reason",
+                "s": "Tengo razón. (I'm right.)"
+            },
+            {
+                "id": "es-0230",
+                "w": "alguna",
+                "p": "alˈɡuna",
+                "d": "some; any (feminine)",
+                "s": "Ven alguna vez. (Come anytime.)"
+            },
+            {
+                "id": "es-0231",
+                "w": "tanto",
+                "p": "ˈtanto",
+                "d": "so much; so",
+                "s": "Dolió tanto. (It hurt so much.)"
+            },
+            {
+                "id": "es-0232",
+                "w": "saber",
+                "p": "saˈbeɾ",
+                "d": "to know",
+                "s": "Házmelo saber. (Let me know.)"
+            },
+            {
+                "id": "es-0233",
+                "w": "hizo",
+                "p": "ˈiθo",
+                "d": "did; made (hacer)",
+                "s": "Él lo hizo. (He did it.)"
+            },
+            {
+                "id": "es-0234",
+                "w": "veces",
+                "p": "ˈbeθes",
+                "d": "times; occasions",
+                "s": "A veces pasa. (It happens sometimes.)"
+            },
+            {
+                "id": "es-0235",
+                "w": "serio",
+                "p": "ˈseɾjo",
+                "d": "serious",
+                "s": "¿En serio? (Really?)"
+            },
+            {
+                "id": "es-0236",
+                "w": "ven",
+                "p": "ˈben",
+                "d": "come! (venir)",
+                "s": "Tú, ven acá. (You, come here.)"
+            },
+            {
+                "id": "es-0237",
+                "w": "idea",
+                "p": "iˈdea",
+                "d": "idea",
+                "s": "¡Qué idea! (What an idea!)"
+            },
+            {
+                "id": "es-0238",
+                "w": "eh",
+                "p": "ˈe",
+                "d": "eh; hey",
+                "s": "Impactante, ¿eh? (Isn't that terrific?)"
+            },
+            {
+                "id": "es-0239",
+                "w": "tarde",
+                "p": "ˈtaɾde",
+                "d": "late",
+                "s": "Muy tarde. (Too late.)"
+            },
+            {
+                "id": "es-0240",
+                "w": "problema",
+                "p": "pɾoˈblema",
+                "d": "problem",
+                "s": "Sin problema. (No problem.)"
+            },
+            {
+                "id": "es-0241",
+                "w": "hora",
+                "p": "ˈoɾa",
+                "d": "hour; time",
+                "s": "Es la hora. (It's time.)"
+            },
+            {
+                "id": "es-0242",
+                "w": "cierto",
+                "p": "ˈθjeɾto",
+                "d": "certain; true",
+                "s": "Es cierto. (It's true.)"
+            },
+            {
+                "id": "es-0243",
+                "w": "dicho",
+                "p": "ˈdit͡ʃo",
+                "d": "said; aforementioned",
+                "s": "¡Bien dicho! (Well said!)"
+            },
+            {
+                "id": "es-0244",
+                "w": "quien",
+                "p": "ˈkjen",
+                "d": "who",
+                "s": "Ya sé quien sos. (I already know who you are.)"
+            },
+            {
+                "id": "es-0245",
+                "w": "demasiado",
+                "p": "demaˈsjado",
+                "d": "too much; too",
+                "s": "Comí demasiado. (I ate too much.)"
+            },
+            {
+                "id": "es-0246",
+                "w": "amor",
+                "p": "aˈmoɾ",
+                "d": "love",
+                "s": "Sí, mi amor. (Yes, my love.)"
+            },
+            {
+                "id": "es-0247",
+                "w": "entre",
+                "p": "ˈentɾe",
+                "d": "between",
+                "s": "Ahora entre. (Now get in.)"
+            },
+            {
+                "id": "es-0248",
+                "w": "ve",
+                "p": "ˈbe",
+                "d": "see! (ver)",
+                "s": "¿Se ve mal? (Does it look bad?)"
+            },
+            {
+                "id": "es-0249",
+                "w": "pasado",
+                "p": "paˈsado",
+                "d": "past; last",
+                "s": "Ya ha pasado. (That's over.)"
+            },
+            {
+                "id": "es-0250",
+                "w": "familia",
+                "p": "faˈmilja",
+                "d": "family",
+                "s": "Son familia. (They're family.)"
+            },
+            {
+                "id": "es-0251",
+                "w": "estos",
+                "p": "ˈestos",
+                "d": "these (masculine)",
+                "s": "Pruébate estos. (Try these on.)"
+            },
+            {
+                "id": "es-0252",
+                "w": "policía",
+                "p": "poliˈθia",
+                "d": "police; police officer",
+                "s": "Soy policía. (I'm a policeman.)"
+            },
+            {
+                "id": "es-0253",
+                "w": "debería",
+                "p": "debeˈɾia",
+                "d": "should (deber)",
+                "s": "Me debería ir. (I should go.)"
+            },
+            {
+                "id": "es-0254",
+                "w": "ustedes",
+                "p": "usˈtedes",
+                "d": "you (plural)",
+                "s": "¿Y ustedes? (And you?)"
+            },
+            {
+                "id": "es-0255",
+                "w": "chica",
+                "p": "ˈt͡ʃika",
+                "d": "girl",
+                "s": "Soy una chica. (I'm a girl.)"
+            },
+            {
+                "id": "es-0256",
+                "w": "esos",
+                "p": "ˈesos",
+                "d": "those (masculine)",
+                "s": "Deme esos. (Give me those.)"
+            },
+            {
+                "id": "es-0257",
+                "w": "chicos",
+                "p": "chicos",
+                "d": "boys; guys",
+                "s": "Son chicos. (They're boys.)"
+            },
+            {
+                "id": "es-0258",
+                "w": "cuenta",
+                "p": "ˈkwenta",
+                "d": "account; bill; count",
+                "s": "Eso no cuenta. (That doesn't count.)"
+            },
+            {
+                "id": "es-0259",
+                "w": "haces",
+                "p": "ˈaθes",
+                "d": "you do; you make (hacer)",
+                "s": "¿Qué haces? (What do you make?)"
+            },
+            {
+                "id": "es-0260",
+                "w": "todavía",
+                "p": "todaˈbia",
+                "d": "still; yet",
+                "s": "¿Ya o todavía no? (Already, or not yet?)"
+            },
+            {
+                "id": "es-0261",
+                "w": "salir",
+                "p": "saˈliɾ",
+                "d": "to go out; to leave",
+                "s": "Le oí salir. (I heard him go out.)"
+            },
+            {
+                "id": "es-0262",
+                "w": "algún",
+                "p": "alˈɡun",
+                "d": "some; any",
+                "s": "¿Hay algún otro? (Is there another?)"
+            },
+            {
+                "id": "es-0263",
+                "w": "vaya",
+                "p": "ˈbaʝa",
+                "d": "wow; come on",
+                "s": "Oiga, no vaya. (Hey, don't go.)"
+            },
+            {
+                "id": "es-0264",
+                "w": "unos",
+                "p": "ˈunos",
+                "d": "some; a few",
+                "s": "Sois unos niños. (You are children.)"
+            },
+            {
+                "id": "es-0265",
+                "w": "veo",
+                "p": "ˈbeo",
+                "d": "I see (ver)",
+                "s": "No lo veo. (I don't see it.)"
+            },
+            {
+                "id": "es-0266",
+                "w": "amigos",
+                "p": "aˈmiɡos",
+                "d": "friends",
+                "s": "Son amigos. (They're friends.)"
+            },
+            {
+                "id": "es-0267",
+                "w": "hermano",
+                "p": "eɾˈmano",
+                "d": "brother",
+                "s": "Es mi hermano. (He's my brother.)"
+            },
+            {
+                "id": "es-0268",
+                "w": "pensé",
+                "p": "pensé",
+                "d": "I thought (pensar)",
+                "s": "Es lo que pensé. (I thought as much.)"
+            },
+            {
+                "id": "es-0269",
+                "w": "sabía",
+                "p": "sabía",
+                "d": "knew (saber)",
+                "s": "¡Lo sabía! (I knew it!)"
+            },
+            {
+                "id": "es-0270",
+                "w": "cabeza",
+                "p": "kaˈbeθa",
+                "d": "head",
+                "s": "¡Usa la cabeza! (Use your head!)"
+            },
+            {
+                "id": "es-0271",
+                "w": "ah",
+                "p": "ˈa",
+                "d": "ah",
+                "s": ""
+            },
+            {
+                "id": "es-0272",
+                "w": "cariño",
+                "p": "kaˈɾiɲo",
+                "d": "affection; darling",
+                "s": "Hola, cariño. (Hello, Honey.)"
+            },
+            {
+                "id": "es-0273",
+                "w": "digo",
+                "p": "ˈdiɡo",
+                "d": "I say (decir)",
+                "s": "¡Sólo digo! (I'm just saying!)"
+            },
+            {
+                "id": "es-0274",
+                "w": "van",
+                "p": "ˈban",
+                "d": "they go (ir)",
+                "s": "¿Ya se van? (You're leaving already?)"
+            },
+            {
+                "id": "es-0275",
+                "w": "hombres",
+                "p": "ˈombɾes",
+                "d": "men",
+                "s": "Somos hombres. (We are men.)"
+            },
+            {
+                "id": "es-0276",
+                "w": "buenas",
+                "p": "ˈbwenas",
+                "d": "hello",
+                "s": "Sed buenas. (Be good.)"
+            },
+            {
+                "id": "es-0277",
+                "w": "somos",
+                "p": "ˈsomos",
+                "d": "we are (ser)",
+                "s": "Así somos. (That's how we are.)"
+            },
+            {
+                "id": "es-0278",
+                "w": "cualquier",
+                "p": "kwalˈkjeɾ",
+                "d": "any; whatever",
+                "s": "De cualquier forma. (By all means.)"
+            },
+            {
+                "id": "es-0279",
+                "w": "forma",
+                "p": "ˈfoɾma",
+                "d": "way; shape; form",
+                "s": "¡De esa forma! (That way!)"
+            },
+            {
+                "id": "es-0280",
+                "w": "mientras",
+                "p": "ˈmjentɾas",
+                "d": "while",
+                "s": "Viva mientras pueda. (Live while you can.)"
+            },
+            {
+                "id": "es-0281",
+                "w": "lado",
+                "p": "ˈlado",
+                "d": "side",
+                "s": "¡A un lado! (Stand aside!)"
+            },
+            {
+                "id": "es-0282",
+                "w": "debo",
+                "p": "ˈdebo",
+                "d": "I must; I owe (deber)",
+                "s": "Se lo debo. (I owe it to her.)"
+            },
+            {
+                "id": "es-0283",
+                "w": "sería",
+                "p": "seˈɾia",
+                "d": "would be (ser)",
+                "s": "Yo sería amado. (I would be loved.)"
+            },
+            {
+                "id": "es-0284",
+                "w": "caso",
+                "p": "ˈkaso",
+                "d": "case",
+                "s": "Hazme caso. (Pay attention to me.)"
+            },
+            {
+                "id": "es-0285",
+                "w": "pueden",
+                "p": "ˈpweden",
+                "d": "they can (poder)",
+                "s": "No pueden verme. (They can't see me.)"
+            },
+            {
+                "id": "es-0286",
+                "w": "pasó",
+                "p": "paˈso",
+                "d": "happened (pasar)",
+                "s": "¿Qué pasó? (What happened?)"
+            },
+            {
+                "id": "es-0287",
+                "w": "primera",
+                "p": "pɾiˈmeɾa",
+                "d": "first (feminine)",
+                "s": "Tú primera. (You go first.)"
+            },
+            {
+                "id": "es-0288",
+                "w": "genial",
+                "p": "xeˈnjal",
+                "d": "great; brilliant",
+                "s": "Eres genial. (You're great.)"
+            },
+            {
+                "id": "es-0289",
+                "w": "chico",
+                "p": "ˈt͡ʃiko",
+                "d": "boy; guy",
+                "s": "Buen chico. (That a boy!)"
+            },
+            {
+                "id": "es-0290",
+                "w": "supuesto",
+                "p": "suˈpwesto",
+                "d": "supposed",
+                "s": "Por supuesto. (Certainly.)"
+            },
+            {
+                "id": "es-0291",
+                "w": "hice",
+                "p": "ˈiθe",
+                "d": "I did; I made (hacer)",
+                "s": "¿Qué hice? (What did I do?)"
+            },
+            {
+                "id": "es-0292",
+                "w": "pues",
+                "p": "ˈpwes",
+                "d": "well; so; then",
+                "s": "Si tiene hambre, pues coma. (If you're hungry, then eat.)"
+            },
+            {
+                "id": "es-0293",
+                "w": "adiós",
+                "p": "aˈdjos",
+                "d": "goodbye",
+                "s": "Decí adiós. (Say goodbye.)"
+            },
+            {
+                "id": "es-0294",
+                "w": "muchas",
+                "p": "ˈmut͡ʃas",
+                "d": "many (feminine)",
+                "s": "Sé muchas cosas. (I know a lot of things.)"
+            },
+            {
+                "id": "es-0295",
+                "w": "personas",
+                "p": "personas",
+                "d": "people; persons",
+                "s": "Somos personas. (We're people.)"
+            },
+            {
+                "id": "es-0296",
+                "w": "señora",
+                "p": "seˈɲoɾa",
+                "d": "lady; Mrs.",
+                "s": "Sí, señora. (Yes, mistress.)"
+            },
+            {
+                "id": "es-0297",
+                "w": "volver",
+                "p": "bolˈbeɾ",
+                "d": "to return; to come back",
+                "s": "Debo volver. (I must go back.)"
+            },
+            {
+                "id": "es-0298",
+                "w": "esas",
+                "p": "ˈesas",
+                "d": "those (feminine)",
+                "s": "Es una de esas. (It's one of those.)"
+            },
+            {
+                "id": "es-0299",
+                "w": "quizá",
+                "p": "kiˈθa",
+                "d": "maybe; perhaps",
+                "s": "Quizá sí, quizá no… (Maybe, maybe not...)"
+            },
+            {
+                "id": "es-0300",
+                "w": "contra",
+                "p": "kontɾa",
+                "d": "against",
+                "s": "Solo contra todos. (Alone against everybody.)"
+            },
+            {
+                "id": "es-0301",
+                "w": "camino",
+                "p": "kaˈmino",
+                "d": "path; road; way",
+                "s": "Yo camino. (I walk.)"
+            },
+            {
+                "id": "es-0302",
+                "w": "durante",
+                "p": "duˈɾante",
+                "d": "during",
+                "s": "Llovió durante días. (It rained for days.)"
+            },
+            {
+                "id": "es-0303",
+                "w": "hablando",
+                "p": "aˈblando",
+                "d": "speaking (gerund of hablar)",
+                "s": "Estoy hablando. (I'm talking.)"
+            },
+            {
+                "id": "es-0304",
+                "w": "manera",
+                "p": "maˈneɾa",
+                "d": "way; manner",
+                "s": "Hay manera. (That's one way to do it.)"
+            },
+            {
+                "id": "es-0305",
+                "w": "muerto",
+                "p": "ˈmweɾto",
+                "d": "dead",
+                "s": "Está muerto. (He's dead.)"
+            },
+            {
+                "id": "es-0306",
+                "w": "persona",
+                "p": "peɾˈsona",
+                "d": "person",
+                "s": "Soy una persona. (I am a man.)"
+            },
+            {
+                "id": "es-0307",
+                "w": "rápido",
+                "p": "ˈrapido",
+                "d": "fast; quickly",
+                "s": "¡Ve rápido! (Go fast!)"
+            },
+            {
+                "id": "es-0308",
+                "w": "cuál",
+                "p": "ˈkwal",
+                "d": "which; what",
+                "s": "¿En cuál calle? (In which street?)"
+            },
+            {
+                "id": "es-0309",
+                "w": "ayuda",
+                "p": "aˈʝuda",
+                "d": "help",
+                "s": "Eso ayuda. (It helps.)"
+            },
+            {
+                "id": "es-0310",
+                "w": "historia",
+                "p": "isˈtoɾja",
+                "d": "story; history",
+                "s": "Esa es la historia. (That's the story.)"
+            },
+            {
+                "id": "es-0311",
+                "w": "iba",
+                "p": "ˈiba",
+                "d": "was going (ir)",
+                "s": "Ya me iba. (I was just leaving.)"
+            },
+            {
+                "id": "es-0312",
+                "w": "supongo",
+                "p": "supongo",
+                "d": "I suppose (suponer)",
+                "s": "Lo supongo. (I guess so.)"
+            },
+            {
+                "id": "es-0313",
+                "w": "nueva",
+                "p": "ˈnweba",
+                "d": "new (feminine)",
+                "s": "¿Eres nueva? (Are you new?)"
+            },
+            {
+                "id": "es-0314",
+                "w": "entiendo",
+                "p": "entiendo",
+                "d": "I understand (entender)",
+                "s": "No entiendo. (I don't get it.)"
+            },
+            {
+                "id": "es-0315",
+                "w": "dentro",
+                "p": "ˈdentɾo",
+                "d": "inside; within",
+                "s": "Están dentro. (They're inside.)"
+            },
+            {
+                "id": "es-0316",
+                "w": "casi",
+                "p": "ˈkasi",
+                "d": "almost; nearly",
+                "s": "Ya casi está. (Nearly finished.)"
+            },
+            {
+                "id": "es-0317",
+                "w": "puerta",
+                "p": "ˈpweɾta",
+                "d": "door",
+                "s": "Abre la puerta. (Just open the door.)"
+            },
+            {
+                "id": "es-0318",
+                "w": "ves",
+                "p": "ˈbes",
+                "d": "you see (ver)",
+                "s": "Te ves sano. (You look healthy.)"
+            },
+            {
+                "id": "es-0319",
+                "w": "pasar",
+                "p": "paˈsaɾ",
+                "d": "to pass; to happen; to spend",
+                "s": "Deja pasar. (Move over.)"
+            },
+            {
+                "id": "es-0320",
+                "w": "primero",
+                "p": "pɾiˈmeɾo",
+                "d": "first",
+                "s": "Tú primero. (After you.)"
+            },
+            {
+                "id": "es-0321",
+                "w": "significa",
+                "p": "siɡniˈfika",
+                "d": "means (significar)",
+                "s": "¿Qué significa? (What does it mean?)"
+            },
+            {
+                "id": "es-0322",
+                "w": "semana",
+                "p": "seˈmana",
+                "d": "week",
+                "s": "Es fin de semana. (It's the weekend.)"
+            },
+            {
+                "id": "es-0323",
+                "w": "hacia",
+                "p": "ˈaθja",
+                "d": "toward",
+                "s": "Id hacia el sur. (Head south.)"
+            },
+            {
+                "id": "es-0324",
+                "w": "quizás",
+                "p": "kiˈθas",
+                "d": "maybe; perhaps",
+                "s": "Quizás vaya, quizás no. (Maybe I'll go, and maybe I won't.)"
+            },
+            {
+                "id": "es-0325",
+                "w": "espero",
+                "p": "esˈpeɾo",
+                "d": "I hope; I wait (esperar)",
+                "s": "Te espero. (I'll wait for you.)"
+            },
+            {
+                "id": "es-0326",
+                "w": "juntos",
+                "p": "juntos",
+                "d": "together",
+                "s": "Venid juntos. (Come together.)"
+            },
+            {
+                "id": "es-0327",
+                "w": "año",
+                "p": "ˈaɲo",
+                "d": "year",
+                "s": "¡Feliz año! (Happy New Year!)"
+            },
+            {
+                "id": "es-0328",
+                "w": "niños",
+                "p": "ˈniɲos",
+                "d": "children; kids",
+                "s": "Son niños. (They're children.)"
+            },
+            {
+                "id": "es-0329",
+                "w": "pronto",
+                "p": "ˈpɾonto",
+                "d": "soon",
+                "s": "Ven pronto. (Come here soon.)"
+            },
+            {
+                "id": "es-0330",
+                "w": "tío",
+                "p": "ˈtio",
+                "d": "uncle; guy",
+                "s": "Es mi tío. (He's my uncle.)"
+            },
+            {
+                "id": "es-0331",
+                "w": "suerte",
+                "p": "ˈsweɾte",
+                "d": "luck",
+                "s": "Tuve suerte. (I was lucky.)"
+            },
+            {
+                "id": "es-0332",
+                "w": "ciudad",
+                "p": "θjuˈdad",
+                "d": "city",
+                "s": "Deja la ciudad. (Leave town.)"
+            },
+            {
+                "id": "es-0333",
+                "w": "siquiera",
+                "p": "siˈkjeɾa",
+                "d": "even; at least",
+                "s": "Ni siquiera lo vi. (I didn't even see it.)"
+            },
+            {
+                "id": "es-0334",
+                "w": "feliz",
+                "p": "feˈliθ",
+                "d": "happy",
+                "s": "Soy feliz. (I'm happy.)"
+            },
+            {
+                "id": "es-0335",
+                "w": "venir",
+                "p": "beˈniɾ",
+                "d": "to come",
+                "s": "Hazlo venir. (Have him come.)"
+            },
+            {
+                "id": "es-0336",
+                "w": "hija",
+                "p": "ˈixa",
+                "d": "daughter",
+                "s": "Eres mi hija. (You're my daughter.)"
+            },
+            {
+                "id": "es-0337",
+                "w": "gustaría",
+                "p": "gustaría",
+                "d": "would like (gustar)",
+                "s": "Te gustaría. (You'd like it.)"
+            },
+            {
+                "id": "es-0338",
+                "w": "minutos",
+                "p": "minutos",
+                "d": "minutes",
+                "s": "Dame dos minutos. (Give me two minutes.)"
+            },
+            {
+                "id": "es-0339",
+                "w": "cuánto",
+                "p": "ˈkwanto",
+                "d": "how much",
+                "s": "¿A cuánto queda? (How far?)"
+            },
+            {
+                "id": "es-0340",
+                "w": "os",
+                "p": "os",
+                "d": "you (plural; Spain)",
+                "s": "No os culpo. (I don't blame you.)"
+            },
+            {
+                "id": "es-0341",
+                "w": "hey",
+                "p": "ˈei",
+                "d": "hey",
+                "s": ""
+            },
+            {
+                "id": "es-0342",
+                "w": "muerte",
+                "p": "ˈmweɾte",
+                "d": "death",
+                "s": "Huí de la muerte. (I escaped death.)"
+            },
+            {
+                "id": "es-0343",
+                "w": "dejar",
+                "p": "deˈxaɾ",
+                "d": "to leave; to let",
+                "s": "No te voy a dejar. (I am not leaving you.)"
+            },
+            {
+                "id": "es-0344",
+                "w": "realidad",
+                "p": "realiˈdad",
+                "d": "reality",
+                "s": "En realidad. (In fact.)"
+            },
+            {
+                "id": "es-0345",
+                "w": "deja",
+                "p": "ˈdexa",
+                "d": "leaves; lets (dejar)",
+                "s": "¿Me deja verles? (Can I see them?)"
+            },
+            {
+                "id": "es-0346",
+                "w": "problemas",
+                "p": "pɾoˈblemas",
+                "d": "problems",
+                "s": "¡Sin problemas! (No problem!)"
+            },
+            {
+                "id": "es-0347",
+                "w": "vi",
+                "p": "ˈbi",
+                "d": "I saw (ver)",
+                "s": "No vi nada. (I didn't see anything.)"
+            },
+            {
+                "id": "es-0348",
+                "w": "da",
+                "p": "ˈda",
+                "d": "gives (dar)",
+                "s": "Me da igual. (I don't care.)"
+            },
+            {
+                "id": "es-0349",
+                "w": "importante",
+                "p": "impoɾˈtante",
+                "d": "important",
+                "s": "Es importante. (It's important.)"
+            },
+            {
+                "id": "es-0350",
+                "w": "dijiste",
+                "p": "diˈxiste",
+                "d": "you said (decir)",
+                "s": "¿Le dijiste? (Did you tell him?)"
+            },
+            {
+                "id": "es-0351",
+                "w": "corazón",
+                "p": "koɾaˈθon",
+                "d": "heart",
+                "s": "Te amo, corazón. (I love you, sweetheart.)"
+            },
+            {
+                "id": "es-0352",
+                "w": "miedo",
+                "p": "ˈmjedo",
+                "d": "fear",
+                "s": "Das miedo. (You are scary.)"
+            },
+            {
+                "id": "es-0353",
+                "w": "jefe",
+                "p": "ˈxefe",
+                "d": "boss; chief",
+                "s": "Era mi jefe. (He was my boss.)"
+            },
+            {
+                "id": "es-0354",
+                "w": "agua",
+                "p": "ˈaɡwa",
+                "d": "water",
+                "s": "Dame agua. (Give me water.)"
+            },
+            {
+                "id": "es-0355",
+                "w": "haré",
+                "p": "aˈɾe",
+                "d": "I will do; I will make (hacer)",
+                "s": "¿Qué haré? (What will I do?)"
+            },
+            {
+                "id": "es-0356",
+                "w": "justo",
+                "p": "ˈxusto",
+                "d": "fair; just",
+                "s": "Soy justo. (I'm fair.)"
+            },
+            {
+                "id": "es-0357",
+                "w": "horas",
+                "p": "horas",
+                "d": "hours",
+                "s": "Llevará horas. (It'll take hours.)"
+            },
+            {
+                "id": "es-0358",
+                "w": "poder",
+                "p": "poˈdeɾ",
+                "d": "to be able; can",
+                "s": "Desearía poder. (I wish I could.)"
+            },
+            {
+                "id": "es-0359",
+                "w": "buenos",
+                "p": "ˈbwenos",
+                "d": "good (masculine plural)",
+                "s": "Son buenos. (They're good.)"
+            },
+            {
+                "id": "es-0360",
+                "w": "esposa",
+                "p": "esˈposa",
+                "d": "wife",
+                "s": "Es mi esposa. (She's my wife.)"
+            },
+            {
+                "id": "es-0361",
+                "w": "manos",
+                "p": "manos",
+                "d": "hands",
+                "s": "¡Baja las manos! (Put your hands down!)"
+            },
+            {
+                "id": "es-0362",
+                "w": "debes",
+                "p": "ˈdebes",
+                "d": "you must; you owe (deber)",
+                "s": "Sí, debes. (Yes, you must.)"
+            },
+            {
+                "id": "es-0363",
+                "w": "viene",
+                "p": "ˈbjene",
+                "d": "comes (venir)",
+                "s": "Aquí viene. (Here he comes.)"
+            },
+            {
+                "id": "es-0364",
+                "w": "venga",
+                "p": "ˈbenɡa",
+                "d": "come on; go ahead",
+                "s": "Ojalá venga. (Let's hope she comes.)"
+            },
+            {
+                "id": "es-0365",
+                "w": "nuestros",
+                "p": "ˈnwestɾos",
+                "d": "our (masculine plural)",
+                "s": "Son nuestros amigos. (They're our friends.)"
+            },
+            {
+                "id": "es-0366",
+                "w": "ojos",
+                "p": "ˈoxos",
+                "d": "eyes",
+                "s": "Abre los ojos. (Get real.)"
+            },
+            {
+                "id": "es-0367",
+                "w": "adelante",
+                "p": "adeˈlante",
+                "d": "forward; go ahead",
+                "s": "Sigamos adelante. (Let's push on.)"
+            },
+            {
+                "id": "es-0368",
+                "w": "encontrar",
+                "p": "enkonˈtɾaɾ",
+                "d": "to find",
+                "s": "Me van a encontrar. (They'll find me.)"
+            },
+            {
+                "id": "es-0369",
+                "w": "mano",
+                "p": "ˈmano",
+                "d": "hand",
+                "s": "¿Qué, mano? (Bruh, what?)"
+            },
+            {
+                "id": "es-0370",
+                "w": "cinco",
+                "p": "ˈθinko",
+                "d": "five",
+                "s": "Son las cinco. (It's five o'clock.)"
+            },
+            {
+                "id": "es-0371",
+                "w": "niño",
+                "p": "ˈniɲo",
+                "d": "child; boy",
+                "s": "Veo al niño. (I see the boy.)"
+            },
+            {
+                "id": "es-0372",
+                "w": "ninguna",
+                "p": "ninˈɡuna",
+                "d": "no; none (feminine)",
+                "s": "No hay ninguna. (There aren't any.)"
+            },
+            {
+                "id": "es-0373",
+                "w": "otros",
+                "p": "ˈotɾos",
+                "d": "others; other",
+                "s": "Mostrame otros. (Show me some others.)"
+            },
+            {
+                "id": "es-0374",
+                "w": "cara",
+                "p": "ˈkaɾa",
+                "d": "face",
+                "s": "Lávate la cara. (Wash your face.)"
+            },
+            {
+                "id": "es-0375",
+                "w": "cuidado",
+                "p": "kwiˈdado",
+                "d": "care; watch out",
+                "s": "Ten cuidado. (Watch yourself.)"
+            },
+            {
+                "id": "es-0376",
+                "w": "bajo",
+                "p": "ˈbaxo",
+                "d": "under; below",
+                "s": "Eres bajo. (You are short.)"
+            },
+            {
+                "id": "es-0377",
+                "w": "cerca",
+                "p": "ˈθeɾka",
+                "d": "close; near",
+                "s": "Está cerca. (It's close.)"
+            },
+            {
+                "id": "es-0378",
+                "w": "viejo",
+                "p": "ˈbjexo",
+                "d": "old",
+                "s": "Soy viejo. (I'm old.)"
+            },
+            {
+                "id": "es-0379",
+                "w": "déjame",
+                "p": "déjame",
+                "d": "let me (dejar + me)",
+                "s": "Solo déjame solo. (Just leave me alone.)"
+            },
+            {
+                "id": "es-0380",
+                "w": "noches",
+                "p": "noches",
+                "d": "nights",
+                "s": "Buenas noches. (Goodnight.)"
+            },
+            {
+                "id": "es-0381",
+                "w": "bastante",
+                "p": "basˈtante",
+                "d": "quite; enough",
+                "s": "Habrá bastante. (There'll be plenty.)"
+            },
+            {
+                "id": "es-0382",
+                "w": "fin",
+                "p": "ˈfin",
+                "d": "end",
+                "s": "Al fin cedió. (At last he yielded.)"
+            },
+            {
+                "id": "es-0383",
+                "w": "tomar",
+                "p": "toˈmaɾ",
+                "d": "to take; to drink",
+                "s": "¿Va a tomar pan? (Would you like bread?)"
+            },
+            {
+                "id": "es-0384",
+                "w": "único",
+                "p": "ˈuniko",
+                "d": "only; unique",
+                "s": "Soy único. (I'm unique.)"
+            },
+            {
+                "id": "es-0385",
+                "w": "misma",
+                "p": "misma",
+                "d": "same (feminine)",
+                "s": "Sé tú misma. (Be yourself.)"
+            },
+            {
+                "id": "es-0386",
+                "w": "escucha",
+                "p": "esˈkut͡ʃa",
+                "d": "listen! (escuchar)",
+                "s": "Tom escucha. (Tom listens.)"
+            },
+            {
+                "id": "es-0387",
+                "w": "ningún",
+                "p": "ninˈɡun",
+                "d": "no; none",
+                "s": "¡De ningún modo! (No way!)"
+            },
+            {
+                "id": "es-0388",
+                "w": "suficiente",
+                "p": "sufiˈθjente",
+                "d": "enough; sufficient",
+                "s": "Es suficiente. (That's enough.)"
+            },
+            {
+                "id": "es-0389",
+                "w": "punto",
+                "p": "ˈpunto",
+                "d": "point",
+                "s": "¡Buen punto! (Good catch.)"
+            },
+            {
+                "id": "es-0390",
+                "w": "cuándo",
+                "p": "ˈkwando",
+                "d": "when",
+                "s": "¿Desde cuándo? (Since when?)"
+            },
+            {
+                "id": "es-0391",
+                "w": "sigue",
+                "p": "ˈsiɡe",
+                "d": "continues; follows (seguir)",
+                "s": "¿Qué sigue? (What's next?)"
+            },
+            {
+                "id": "es-0392",
+                "w": "haya",
+                "p": "ˈaʝa",
+                "d": "be (subjunctive of haber)",
+                "s": "¡Que haya paz! (Let there be peace!)"
+            },
+            {
+                "id": "es-0393",
+                "w": "equipo",
+                "p": "eˈkipo",
+                "d": "team; equipment",
+                "s": "¡Qué equipo! (What a team!)"
+            },
+            {
+                "id": "es-0394",
+                "w": "grande",
+                "p": "ˈɡɾande",
+                "d": "big; large",
+                "s": "Es grande. (It's big.)"
+            },
+            {
+                "id": "es-0395",
+                "w": "necesita",
+                "p": "neθeˈsita",
+                "d": "needs (necesitar)",
+                "s": "Lo necesita. (He needs it.)"
+            },
+            {
+                "id": "es-0396",
+                "w": "llegar",
+                "p": "ʝeˈɡaɾ",
+                "d": "to arrive",
+                "s": "Acabo de llegar. (I just arrived now.)"
+            },
+            {
+                "id": "es-0397",
+                "w": "incluso",
+                "p": "inˈkluso",
+                "d": "even; including",
+                "s": "Me riñó incluso mi esposa. (I even got scolded by my wife.)"
+            },
+            {
+                "id": "es-0398",
+                "w": "algunos",
+                "p": "alˈɡunos",
+                "d": "some",
+                "s": "Dame algunos. (Give me a few.)"
+            },
+            {
+                "id": "es-0399",
+                "w": "doctor",
+                "p": "doɡˈtoɾ",
+                "d": "doctor",
+                "s": "Soy doctor. (I'm a doctor.)"
+            },
+            {
+                "id": "es-0400",
+                "w": "difícil",
+                "p": "diˈfiθil",
+                "d": "difficult",
+                "s": "Es difícil. (It's difficult.)"
+            },
+            {
+                "id": "es-0401",
+                "w": "aunque",
+                "p": "ˈaunke",
+                "d": "although; even though",
+                "s": "Iré aunque llueva. (I will go even if it rains.)"
+            },
+            {
+                "id": "es-0402",
+                "w": "hubiera",
+                "p": "uˈbjeɾa",
+                "d": "had (subjunctive of haber)",
+                "s": "Me hubiera agradado. (I would've liked that.)"
+            },
+            {
+                "id": "es-0403",
+                "w": "primer",
+                "p": "pɾiˈmeɾ",
+                "d": "first",
+                "s": "Es mi primer día. (It's my first day.)"
+            },
+            {
+                "id": "es-0404",
+                "w": "coche",
+                "p": "ˈkot͡ʃe",
+                "d": "car",
+                "s": "Es su coche. (That's her car.)"
+            },
+            {
+                "id": "es-0405",
+                "w": "hago",
+                "p": "ˈaɡo",
+                "d": "I do; I make (hacer)",
+                "s": "¿Qué hago? (What do I do?)"
+            },
+            {
+                "id": "es-0406",
+                "w": "clase",
+                "p": "ˈklase",
+                "d": "class; lesson",
+                "s": "No fue a clase. (He didn't go to class.)"
+            },
+            {
+                "id": "es-0407",
+                "w": "cuatro",
+                "p": "ˈkwatɾo",
+                "d": "four",
+                "s": "Son las cuatro. (It's four o'clock.)"
+            },
+            {
+                "id": "es-0408",
+                "w": "mas",
+                "p": "mas",
+                "d": "but",
+                "s": "Qué piernas mas sexis tienes. (You have very sexy legs.)"
+            },
+            {
+                "id": "es-0409",
+                "w": "dices",
+                "p": "ˈdiθes",
+                "d": "you say (decir)",
+                "s": "¿Qué dices? (What say you?)"
+            },
+            {
+                "id": "es-0410",
+                "w": "pequeño",
+                "p": "peˈkeɲo",
+                "d": "small; little",
+                "s": "Eres pequeño. (You're small.)"
+            },
+            {
+                "id": "es-0411",
+                "w": "llama",
+                "p": "ˈʝama",
+                "d": "calls (llamar)",
+                "s": "¿Quién llama? (Who's calling?)"
+            },
+            {
+                "id": "es-0412",
+                "w": "toma",
+                "p": "ˈtoma",
+                "d": "take! (tomar)",
+                "s": "Él toma té. (He is drinking tea.)"
+            },
+            {
+                "id": "es-0413",
+                "w": "hiciste",
+                "p": "iˈθiste",
+                "d": "you did; you made (hacer)",
+                "s": "¡Lo hiciste! (You did it!)"
+            },
+            {
+                "id": "es-0414",
+                "w": "allá",
+                "p": "aˈʝa",
+                "d": "there",
+                "s": "Viven allá. (They live there.)"
+            },
+            {
+                "id": "es-0415",
+                "w": "última",
+                "p": "ˈultima",
+                "d": "last (feminine)",
+                "s": "Quedé última. (I came last.)"
+            },
+            {
+                "id": "es-0416",
+                "w": "arriba",
+                "p": "aˈriba",
+                "d": "up; above",
+                "s": "Está arriba. (He's upstairs.)"
+            },
+            {
+                "id": "es-0417",
+                "w": "tierra",
+                "p": "ˈtjera",
+                "d": "earth; land",
+                "s": "La tierra gira. (The earth rotates.)"
+            },
+            {
+                "id": "es-0418",
+                "w": "guerra",
+                "p": "ˈɡera",
+                "d": "war",
+                "s": "No a la guerra. (No to war.)"
+            },
+            {
+                "id": "es-0419",
+                "w": "pensar",
+                "p": "penˈsaɾ",
+                "d": "to think",
+                "s": "Duele pensar. (It hurts to think.)"
+            },
+            {
+                "id": "es-0420",
+                "w": "pueda",
+                "p": "ˈpweda",
+                "d": "can (subjunctive of poder)",
+                "s": "Tal vez pueda. (Maybe she can.)"
+            },
+            {
+                "id": "es-0421",
+                "w": "igual",
+                "p": "iˈɡwal",
+                "d": "equal; same",
+                "s": "Me da igual. (I don't care.)"
+            },
+            {
+                "id": "es-0422",
+                "w": "loco",
+                "p": "ˈloko",
+                "d": "crazy",
+                "s": "Está loco. (He's crazy.)"
+            },
+            {
+                "id": "es-0423",
+                "w": "sangre",
+                "p": "ˈsanɡɾe",
+                "d": "blood",
+                "s": "Done sangre. (Donate blood.)"
+            },
+            {
+                "id": "es-0424",
+                "w": "mujeres",
+                "p": "muˈxeɾes",
+                "d": "women",
+                "s": "Somos mujeres. (We are women.)"
+            },
+            {
+                "id": "es-0425",
+                "w": "vuelta",
+                "p": "ˈbwelta",
+                "d": "turn; return",
+                "s": "Da la vuelta. (Turn around.)"
+            },
+            {
+                "id": "es-0426",
+                "w": "fui",
+                "p": "ˈfwi",
+                "d": "I was; I went (ser; ir)",
+                "s": "Yo no fui. (It wasn't me.)"
+            },
+            {
+                "id": "es-0427",
+                "w": "trabajar",
+                "p": "tɾabaˈxaɾ",
+                "d": "to work",
+                "s": "Odio trabajar. (I hate working.)"
+            },
+            {
+                "id": "es-0428",
+                "w": "tenido",
+                "p": "teˈnido",
+                "d": "had (past participle of tener)",
+                "s": "Yo lo he tenido. (I have had it.)"
+            },
+            {
+                "id": "es-0429",
+                "w": "juego",
+                "p": "ˈxweɡo",
+                "d": "game",
+                "s": "¡Mal juego! (Bad game!)"
+            },
+            {
+                "id": "es-0430",
+                "w": "deberías",
+                "p": "debeˈɾias",
+                "d": "you should (deber)",
+                "s": "No deberías ir. (You shouldn't go.)"
+            },
+            {
+                "id": "es-0431",
+                "w": "cuerpo",
+                "p": "ˈkweɾpo",
+                "d": "body",
+                "s": "Es tu cuerpo. (It's your body.)"
+            },
+            {
+                "id": "es-0432",
+                "w": "algunas",
+                "p": "alˈɡunas",
+                "d": "some (feminine)",
+                "s": "Tengo algunas casas. (I have some houses.)"
+            },
+            {
+                "id": "es-0433",
+                "w": "entrar",
+                "p": "enˈtɾaɾ",
+                "d": "to enter; to go in",
+                "s": "No entrar. (Keep out.)"
+            },
+            {
+                "id": "es-0434",
+                "w": "cree",
+                "p": "ˈkɾee",
+                "d": "believes; thinks (creer)",
+                "s": "¿Usted cree? (Do you think so?)"
+            },
+            {
+                "id": "es-0435",
+                "w": "podía",
+                "p": "poˈdia",
+                "d": "could (poder)",
+                "s": "No podía ir. (I couldn't go.)"
+            },
+            {
+                "id": "es-0436",
+                "w": "debemos",
+                "p": "deˈbemos",
+                "d": "we must (deber)",
+                "s": "Nos debemos ir. (We must go.)"
+            },
+            {
+                "id": "es-0437",
+                "w": "oportunidad",
+                "p": "opoɾtuniˈdad",
+                "d": "opportunity; chance",
+                "s": "Deme una oportunidad. (Give me a chance.)"
+            },
+            {
+                "id": "es-0438",
+                "w": "teléfono",
+                "p": "teˈlefono",
+                "d": "telephone; phone",
+                "s": "Coge el teléfono. (Answer the phone.)"
+            },
+            {
+                "id": "es-0439",
+                "w": "necesitamos",
+                "p": "necesitamos",
+                "d": "we need (necesitar)",
+                "s": "Te necesitamos. (We need you.)"
+            },
+            {
+                "id": "es-0440",
+                "w": "final",
+                "p": "fiˈnal",
+                "d": "final",
+                "s": "Al final fracasé. (I failed after all.)"
+            },
+            {
+                "id": "es-0441",
+                "w": "listo",
+                "p": "ˈlisto",
+                "d": "ready; smart",
+                "s": "Soy listo. (I'm wise.)"
+            },
+            {
+                "id": "es-0442",
+                "w": "fiesta",
+                "p": "ˈfjesta",
+                "d": "party",
+                "s": "Es mi fiesta. (It's my party.)"
+            },
+            {
+                "id": "es-0443",
+                "w": "muchos",
+                "p": "ˈmut͡ʃos",
+                "d": "many",
+                "s": "Leo muchos libros. (I read a lot of books.)"
+            },
+            {
+                "id": "es-0444",
+                "w": "estabas",
+                "p": "esˈtabas",
+                "d": "you were (estar)",
+                "s": "¿Dónde estabas? (Where were you?)"
+            },
+            {
+                "id": "es-0445",
+                "w": "quieren",
+                "p": "quieren",
+                "d": "they want (querer)",
+                "s": "Me quieren. (They want me.)"
+            },
+            {
+                "id": "es-0446",
+                "w": "vete",
+                "p": "ˈbete",
+                "d": "go away (ir + te)",
+                "s": "Mejor vete. (You'd better go.)"
+            },
+            {
+                "id": "es-0447",
+                "w": "auto",
+                "p": "ˈauto",
+                "d": "car",
+                "s": "Iré en auto. (I'll go by car.)"
+            },
+            {
+                "id": "es-0448",
+                "w": "dar",
+                "p": "ˈdaɾ",
+                "d": "to give",
+                "s": "Quiero dar. (I want to give.)"
+            },
+            {
+                "id": "es-0449",
+                "w": "vivir",
+                "p": "biˈbiɾ",
+                "d": "to live",
+                "s": "Quiero vivir. (I want to live.)"
+            },
+            {
+                "id": "es-0450",
+                "w": "posible",
+                "p": "poˈsible",
+                "d": "possible",
+                "s": "¿Es posible? (Is it possible?)"
+            },
+            {
+                "id": "es-0451",
+                "w": "hermana",
+                "p": "eɾˈmana",
+                "d": "sister",
+                "s": "¡Y tu hermana! (And your sister!)"
+            },
+            {
+                "id": "es-0452",
+                "w": "número",
+                "p": "ˈnumeɾo",
+                "d": "number",
+                "s": "Dame el número. (Give me the number.)"
+            },
+            {
+                "id": "es-0453",
+                "w": "meses",
+                "p": "meses",
+                "d": "months",
+                "s": "Dadme tres meses. (Give me three months.)"
+            },
+            {
+                "id": "es-0454",
+                "w": "exactamente",
+                "p": "eɡˌsaɡtaˈmente",
+                "d": "exactly",
+                "s": "No sé exactamente. (I don't know exactly.)"
+            },
+            {
+                "id": "es-0455",
+                "w": "culpa",
+                "p": "ˈkulpa",
+                "d": "fault; blame",
+                "s": "Es tu culpa. (It's your fault.)"
+            },
+            {
+                "id": "es-0456",
+                "w": "abajo",
+                "p": "aˈbaxo",
+                "d": "down; below",
+                "s": "Firme abajo. (Sign it at the bottom.)"
+            },
+            {
+                "id": "es-0457",
+                "w": "escuela",
+                "p": "esˈkwela",
+                "d": "school",
+                "s": "Odio la escuela. (I hate school.)"
+            },
+            {
+                "id": "es-0458",
+                "w": "ido",
+                "p": "ˈido",
+                "d": "gone (past participle of ir)",
+                "s": "Yo he ido. (I have gone.)"
+            },
+            {
+                "id": "es-0459",
+                "w": "fuerte",
+                "p": "ˈfweɾte",
+                "d": "strong; loud",
+                "s": "Sé fuerte. (Be brave.)"
+            },
+            {
+                "id": "es-0460",
+                "w": "diciendo",
+                "p": "diˈθjendo",
+                "d": "saying (gerund of decir)",
+                "s": "¿Qué está diciendo? (What is he saying?)"
+            },
+            {
+                "id": "es-0461",
+                "w": "habla",
+                "p": "ˈabla",
+                "d": "speaks (hablar)",
+                "s": "¡Cómo habla! (How she talks!)"
+            },
+            {
+                "id": "es-0462",
+                "w": "esté",
+                "p": "esˈte",
+                "d": "be (subjunctive of estar)",
+                "s": "Espero que esté bien. (I hope he'll be OK.)"
+            },
+            {
+                "id": "es-0463",
+                "w": "ello",
+                "p": "ˈeʝo",
+                "d": "it",
+                "s": "Ponte a ello. (Get to it.)"
+            },
+            {
+                "id": "es-0464",
+                "w": "pregunta",
+                "p": "pɾeˈɡunta",
+                "d": "question",
+                "s": "Buena pregunta. (Good question!)"
+            },
+            {
+                "id": "es-0465",
+                "w": "chicas",
+                "p": "chicas",
+                "d": "girls",
+                "s": "Hola, chicas. (Hi, girls.)"
+            },
+            {
+                "id": "es-0466",
+                "w": "eran",
+                "p": "ˈeɾan",
+                "d": "they were (ser)",
+                "s": "¿Cuántos eran? (How many were they?)"
+            },
+            {
+                "id": "es-0467",
+                "w": "unas",
+                "p": "ˈunas",
+                "d": "some (feminine)",
+                "s": "Dame unas pocas. (Give me a few.)"
+            },
+            {
+                "id": "es-0468",
+                "w": "pasando",
+                "p": "pasando",
+                "d": "happening; passing (gerund of pasar)",
+                "s": "¿Está pasando? (Is it happening?)"
+            },
+            {
+                "id": "es-0469",
+                "w": "atrás",
+                "p": "aˈtɾas",
+                "d": "back; behind",
+                "s": "Mira atrás. (Look back.)"
+            },
+            {
+                "id": "es-0470",
+                "w": "malo",
+                "p": "ˈmalo",
+                "d": "bad",
+                "s": "Eres malo. (You're mean.)"
+            },
+            {
+                "id": "es-0471",
+                "w": "capitán",
+                "p": "kapiˈtan",
+                "d": "captain",
+                "s": "Soy el capitán. (I'm the captain.)"
+            },
+            {
+                "id": "es-0472",
+                "w": "bebé",
+                "p": "beˈbe",
+                "d": "baby",
+                "s": "Es mi bebé. (That's my doll.)"
+            },
+            {
+                "id": "es-0473",
+                "w": "segundo",
+                "p": "seˈɡundo",
+                "d": "second",
+                "s": "¡Un segundo! (Hang on!)"
+            },
+            {
+                "id": "es-0474",
+                "w": "sabemos",
+                "p": "saˈbemos",
+                "d": "we know (saber)",
+                "s": "No sabemos. (We don't know.)"
+            },
+            {
+                "id": "es-0475",
+                "w": "mayor",
+                "p": "maˈʝoɾ",
+                "d": "older; bigger",
+                "s": "Tom es mayor. (Tom's older.)"
+            },
+            {
+                "id": "es-0476",
+                "w": "comida",
+                "p": "koˈmida",
+                "d": "food; meal",
+                "s": "La comida! (Food!)"
+            },
+            {
+                "id": "es-0477",
+                "w": "morir",
+                "p": "moˈɾiɾ",
+                "d": "to die",
+                "s": "Deben morir. (They must die.)"
+            },
+            {
+                "id": "es-0478",
+                "w": "conozco",
+                "p": "koˈnoθko",
+                "d": "I know (conocer)",
+                "s": "Lo conozco. (I know him.)"
+            },
+            {
+                "id": "es-0479",
+                "w": "dame",
+                "p": "ˈdame",
+                "d": "give me (dar + me)",
+                "s": "Tom, dame el pan. (Tom, give me the bread.)"
+            },
+            {
+                "id": "es-0480",
+                "w": "fácil",
+                "p": "ˈfaθil",
+                "d": "easy",
+                "s": "¡Es fácil! (This is easy!)"
+            },
+            {
+                "id": "es-0481",
+                "w": "comer",
+                "p": "koˈmeɾ",
+                "d": "to eat",
+                "s": "Puedo comer. (I can eat.)"
+            },
+            {
+                "id": "es-0482",
+                "w": "vino",
+                "p": "ˈbino",
+                "d": "came (venir)",
+                "s": "Ella vino. (She came.)"
+            },
+            {
+                "id": "es-0483",
+                "w": "lista",
+                "p": "ˈlista",
+                "d": "ready (feminine)",
+                "s": "Sos lista. (You're smart.)"
+            },
+            {
+                "id": "es-0484",
+                "w": "haga",
+                "p": "ˈaɡa",
+                "d": "do; make (subjunctive of hacer)",
+                "s": "¡No lo haga! (Don't do it!)"
+            },
+            {
+                "id": "es-0485",
+                "w": "necesitas",
+                "p": "necesitas",
+                "d": "you need (necesitar)",
+                "s": "Lo necesitas. (You need it.)"
+            },
+            {
+                "id": "es-0486",
+                "w": "hijos",
+                "p": "ˈixos",
+                "d": "children; sons",
+                "s": "¿Tiene hijos? (Do you have kids?)"
+            },
+            {
+                "id": "es-0487",
+                "w": "probablemente",
+                "p": "pɾoˌbableˈmente",
+                "d": "probably",
+                "s": "Ella probablemente vendrá. (She'll probably come.)"
+            },
+            {
+                "id": "es-0488",
+                "w": "padres",
+                "p": "ˈpadɾes",
+                "d": "parents; fathers",
+                "s": "Somos padres. (We're parents.)"
+            },
+            {
+                "id": "es-0489",
+                "w": "habitación",
+                "p": "abitaˈθjon",
+                "d": "room",
+                "s": "Barre mi habitación. (Sweep my room.)"
+            },
+            {
+                "id": "es-0490",
+                "w": "creer",
+                "p": "kɾeˈeɾ",
+                "d": "to believe",
+                "s": "Quiero creer. (I want to believe.)"
+            },
+            {
+                "id": "es-0491",
+                "w": "pensando",
+                "p": "penˈsando",
+                "d": "thinking (gerund of pensar)",
+                "s": "Estoy pensando. (I'm thinking.)"
+            },
+            {
+                "id": "es-0492",
+                "w": "fueron",
+                "p": "ˈfweɾon",
+                "d": "they were; they went (ser; ir)",
+                "s": "Se fueron. (They left.)"
+            },
+            {
+                "id": "es-0493",
+                "w": "dime",
+                "p": "ˈdime",
+                "d": "tell me (decir + me)",
+                "s": "¡Oh, dime tu nombre! (Oh, tell me your name!)"
+            },
+            {
+                "id": "es-0494",
+                "w": "trata",
+                "p": "ˈtɾata",
+                "d": "tries; treats (tratar)",
+                "s": "¿De qué trata? (What is it about?)"
+            },
+            {
+                "id": "es-0495",
+                "w": "buscando",
+                "p": "busˈkando",
+                "d": "looking for (gerund of buscar)",
+                "s": "Sigue buscando. (Keep searching.)"
+            },
+            {
+                "id": "es-0496",
+                "w": "tuve",
+                "p": "ˈtube",
+                "d": "I had (tener)",
+                "s": "No tuve miedo. (I wasn't frightened.)"
+            },
+            {
+                "id": "es-0497",
+                "w": "tampoco",
+                "p": "tamˈpoko",
+                "d": "neither; either",
+                "s": "Yo tampoco. (Me neither.)"
+            },
+            {
+                "id": "es-0498",
+                "w": "amo",
+                "p": "ˈamo",
+                "d": "master; owner",
+                "s": "Yo lo amo. (I love him.)"
+            },
+            {
+                "id": "es-0499",
+                "w": "joven",
+                "p": "ˈxoben",
+                "d": "young",
+                "s": "Soy joven. (I'm young.)"
+            },
+            {
+                "id": "es-0500",
+                "w": "podrías",
+                "p": "podrías",
+                "d": "you could (poder)",
+                "s": "Sabía que podrías. (I knew you would.)"
+            },
+            {
+                "id": "es-0501",
+                "w": "sola",
+                "p": "ˈsola",
+                "d": "alone (feminine)",
+                "s": "Estoy sola. (I'm alone.)"
+            },
+            {
+                "id": "es-0502",
+                "w": "par",
+                "p": "ˈpaɾ",
+                "d": "even (divisible by two)",
+                "s": "¡Un par más! (A couple more!)"
+            },
+            {
+                "id": "es-0503",
+                "w": "única",
+                "p": "ˈunika",
+                "d": "only; unique (feminine)",
+                "s": "Soy única. (I'm unique.)"
+            },
+            {
+                "id": "es-0504",
+                "w": "hacen",
+                "p": "ˈaθen",
+                "d": "they do; they make (hacer)",
+                "s": "¿Qué hacen? (What are they doing?)"
+            },
+            {
+                "id": "es-0505",
+                "w": "seguir",
+                "p": "seˈɡiɾ",
+                "d": "to follow; to continue",
+                "s": "¿Vas a seguir? (Are you going along?)"
+            },
+            {
+                "id": "es-0506",
+                "w": "simplemente",
+                "p": "ˌsimpleˈmente",
+                "d": "simply",
+                "s": "Es simplemente obvio. (It's simply obvious.)"
+            },
+            {
+                "id": "es-0507",
+                "w": "dicen",
+                "p": "ˈdiθen",
+                "d": "they say (decir)",
+                "s": "¿Qué dicen? (What are they saying?)"
+            },
+            {
+                "id": "es-0508",
+                "w": "medio",
+                "p": "ˈmedjo",
+                "d": "means; medium; half",
+                "s": "Es medio pelo. (It's mediocre.)"
+            },
+            {
+                "id": "es-0509",
+                "w": "puta",
+                "p": "ˈputa",
+                "d": "whore; slut",
+                "s": "Pinche puta. (Fucking whore.)"
+            },
+            {
+                "id": "es-0510",
+                "w": "saben",
+                "p": "ˈsaben",
+                "d": "they know (saber)",
+                "s": "¿No saben? (Don't you know?)"
+            },
+            {
+                "id": "es-0511",
+                "w": "sentido",
+                "p": "senˈtido",
+                "d": "sense; meaning",
+                "s": "Tiene sentido. (Makes sense.)"
+            },
+            {
+                "id": "es-0512",
+                "w": "hagas",
+                "p": "ˈaɡas",
+                "d": "do; make (subjunctive of hacer)",
+                "s": "No lo hagas. (Don't do this.)"
+            },
+            {
+                "id": "es-0513",
+                "w": "segura",
+                "p": "seˈɡuɾa",
+                "d": "safe; sure (feminine)",
+                "s": "¿Está segura? (Are you sure?)"
+            },
+            {
+                "id": "es-0514",
+                "w": "esperar",
+                "p": "espeˈɾaɾ",
+                "d": "to wait; to hope",
+                "s": "Voy a esperar. (I'm going to wait.)"
+            },
+            {
+                "id": "es-0515",
+                "w": "lejos",
+                "p": "ˈlexos",
+                "d": "far; far away",
+                "s": "¡Qué lejos! (So far!)"
+            },
+            {
+                "id": "es-0516",
+                "w": "arma",
+                "p": "ˈaɾma",
+                "d": "weapon; gun",
+                "s": "Es un arma. (It's a weapon.)"
+            },
+            {
+                "id": "es-0517",
+                "w": "alto",
+                "p": "ˈalto",
+                "d": "tall; high; stop!",
+                "s": "Él es alto. (He is tall.)"
+            },
+            {
+                "id": "es-0518",
+                "w": "pequeña",
+                "p": "peˈkeɲa",
+                "d": "small; little (feminine)",
+                "s": "Mi casa es pequeña. (My house is small.)"
+            },
+            {
+                "id": "es-0519",
+                "w": "dólares",
+                "p": "ˈdolaɾes",
+                "d": "dollars",
+                "s": "Te doy 5 dólares. (I'll give you five dollars.)"
+            },
+            {
+                "id": "es-0520",
+                "w": "seis",
+                "p": "ˈseis",
+                "d": "six",
+                "s": "Son las seis. (It's six o'clock.)"
+            },
+            {
+                "id": "es-0521",
+                "w": "estaban",
+                "p": "esˈtaban",
+                "d": "they were (estar)",
+                "s": "¿Dónde estaban? (Where were they?)"
+            },
+            {
+                "id": "es-0522",
+                "w": "seguridad",
+                "p": "seɡuɾiˈdad",
+                "d": "safety; security",
+                "s": "Ten seguridad. (Be confident.)"
+            },
+            {
+                "id": "es-0523",
+                "w": "maldita",
+                "p": "malˈdita",
+                "d": "damned; cursed (feminine)",
+                "s": "¡Apaga la maldita cámara! (Turn off the damn camera!)"
+            },
+            {
+                "id": "es-0524",
+                "w": "estuvo",
+                "p": "esˈtubo",
+                "d": "was (preterite of estar)",
+                "s": "Nada estuvo mal. (Nothing was wrong.)"
+            },
+            {
+                "id": "es-0525",
+                "w": "preocupes",
+                "p": "preocupes",
+                "d": "worry (subjunctive of preocupar)",
+                "s": "No te preocupes. (Don't worry.)"
+            },
+            {
+                "id": "es-0526",
+                "w": "palabra",
+                "p": "paˈlabɾa",
+                "d": "word",
+                "s": "Di mi palabra. (I gave my word.)"
+            },
+            {
+                "id": "es-0527",
+                "w": "esperando",
+                "p": "espeˈɾando",
+                "d": "waiting; hoping (gerund of esperar)",
+                "s": "Está esperando. (He is waiting.)"
+            },
+            {
+                "id": "es-0528",
+                "w": "queda",
+                "p": "ˈkeda",
+                "d": "stays; remains (quedar)",
+                "s": "No me queda. (It doesn't fit me.)"
+            },
+            {
+                "id": "es-0529",
+                "w": "oficina",
+                "p": "ofiˈθina",
+                "d": "office",
+                "s": "¿Voy a tu oficina? (Shall I come to your office?)"
+            },
+            {
+                "id": "es-0530",
+                "w": "matar",
+                "p": "maˈtaɾ",
+                "d": "to kill",
+                "s": "Te voy a matar. (I'll kill you.)"
+            },
+            {
+                "id": "es-0531",
+                "w": "iré",
+                "p": "iˈɾe",
+                "d": "I will go (ir)",
+                "s": "No me iré. (I won't leave.)"
+            },
+            {
+                "id": "es-0532",
+                "w": "cama",
+                "p": "ˈkama",
+                "d": "bed",
+                "s": "Haz tu cama. (Make your bed.)"
+            },
+            {
+                "id": "es-0533",
+                "w": "además",
+                "p": "adeˈmas",
+                "d": "besides; in addition",
+                "s": "Es astuto, y además, es guapo. (He is clever, and moreover, he is handsome.)"
+            },
+            {
+                "id": "es-0534",
+                "w": "último",
+                "p": "ˈultimo",
+                "d": "last; final",
+                "s": "Quedé último. (I came last.)"
+            },
+            {
+                "id": "es-0535",
+                "w": "oído",
+                "p": "oˈido",
+                "d": "ear; hearing",
+                "s": "Te he oído. (I heard you.)"
+            },
+            {
+                "id": "es-0536",
+                "w": "habría",
+                "p": "aˈbɾia",
+                "d": "would have (haber)",
+                "s": "Lo habría hecho. (I would've done it.)"
+            },
+            {
+                "id": "es-0537",
+                "w": "estará",
+                "p": "estaˈɾa",
+                "d": "will be (estar)",
+                "s": "Tom estará ahí. (Tom will be there.)"
+            },
+            {
+                "id": "es-0538",
+                "w": "dio",
+                "p": "ˈdjo",
+                "d": "gave (dar)",
+                "s": "Me dio sed. (I got thirsty.)"
+            },
+            {
+                "id": "es-0539",
+                "w": "recuerdo",
+                "p": "reˈkweɾdo",
+                "d": "memory",
+                "s": "Te recuerdo. (I remember you.)"
+            },
+            {
+                "id": "es-0540",
+                "w": "siendo",
+                "p": "ˈsjendo",
+                "d": "being (gerund of ser)",
+                "s": "Estás siendo evasivo. (You're being evasive.)"
+            },
+            {
+                "id": "es-0541",
+                "w": "acerca",
+                "p": "aˈθeɾka",
+                "d": "about; concerning (as in \"acerca de\")",
+                "s": "Tom se acerca. (Tom approaches.)"
+            },
+            {
+                "id": "es-0542",
+                "w": "tenga",
+                "p": "ˈtenɡa",
+                "d": "have (subjunctive of tener)",
+                "s": "Tal vez lo tenga. (Maybe he has it.)"
+            },
+            {
+                "id": "es-0543",
+                "w": "luz",
+                "p": "ˈluθ",
+                "d": "light",
+                "s": "Veo una luz. (I see a light.)"
+            },
+            {
+                "id": "es-0544",
+                "w": "correcto",
+                "p": "koˈreɡto",
+                "d": "correct; right",
+                "s": "Es correcto. (It's right.)"
+            },
+            {
+                "id": "es-0545",
+                "w": "demonios",
+                "p": "deˈmonjos",
+                "d": "damn; hell",
+                "s": "¡Mil demonios! (Oh crap!)"
+            },
+            {
+                "id": "es-0546",
+                "w": "nuestras",
+                "p": "ˈnwestɾas",
+                "d": "our (feminine plural)",
+                "s": "Estas son nuestras. (These are ours.)"
+            },
+            {
+                "id": "es-0547",
+                "w": "verte",
+                "p": "ˈbeɾte",
+                "d": "to see you",
+                "s": "Puedo verte. (I can see you.)"
+            },
+            {
+                "id": "es-0548",
+                "w": "dormir",
+                "p": "doɾˈmiɾ",
+                "d": "to sleep",
+                "s": "Voy a dormir. (I'm going to sleep.)"
+            },
+            {
+                "id": "es-0549",
+                "w": "sitio",
+                "p": "ˈsitjo",
+                "d": "place; site",
+                "s": "Deja sitio. (Move over.)"
+            },
+            {
+                "id": "es-0550",
+                "w": "ayudar",
+                "p": "aʝuˈdaɾ",
+                "d": "to help",
+                "s": "Debo ayudar. (I have to help.)"
+            },
+            {
+                "id": "es-0551",
+                "w": "conseguir",
+                "p": "konseˈɡiɾ",
+                "d": "to get; to achieve",
+                "s": "Necesito conseguir uno. (I need to get one.)"
+            },
+            {
+                "id": "es-0552",
+                "w": "di",
+                "p": "ˈdi",
+                "d": "say! (imperative of decir)",
+                "s": "Le di todo. (I gave her everything.)"
+            },
+            {
+                "id": "es-0553",
+                "w": "marido",
+                "p": "maˈɾido",
+                "d": "husband",
+                "s": "Él es mi marido. (He's my husband.)"
+            },
+            {
+                "id": "es-0554",
+                "w": "paz",
+                "p": "ˈpaθ",
+                "d": "peace",
+                "s": "Amor y paz. (Love and Peace.)"
+            },
+            {
+                "id": "es-0555",
+                "w": "idiota",
+                "p": "iˈdjota",
+                "d": "idiotic; stupid",
+                "s": "Eres idiota. (You're an idiot.)"
+            },
+            {
+                "id": "es-0556",
+                "w": "plan",
+                "p": "ˈplan",
+                "d": "plan",
+                "s": "Tengo un plan. (I've got a plan.)"
+            },
+            {
+                "id": "es-0557",
+                "w": "dado",
+                "p": "ˈdado",
+                "d": "given",
+                "s": "Tira el dado. (Throw the dice.)"
+            },
+            {
+                "id": "es-0558",
+                "w": "cuanto",
+                "p": "ˈkwanto",
+                "d": "as much; as many",
+                "s": "Aré cuanto pude. (I plowed as much as I could.)"
+            },
+            {
+                "id": "es-0559",
+                "w": "peor",
+                "p": "peˈoɾ",
+                "d": "worse; worst",
+                "s": "Se pone peor. (It gets worse.)"
+            },
+            {
+                "id": "es-0560",
+                "w": "murió",
+                "p": "muˈɾjo",
+                "d": "died (morir)",
+                "s": "Tom murió. (Tom died.)"
+            },
+            {
+                "id": "es-0561",
+                "w": "pueblo",
+                "p": "ˈpweblo",
+                "d": "town; village; people",
+                "s": "Al pueblo. (To the village.)"
+            },
+            {
+                "id": "es-0562",
+                "w": "vivo",
+                "p": "ˈbibo",
+                "d": "alive; living",
+                "s": "Sigo vivo. (I'm still alive.)"
+            },
+            {
+                "id": "es-0563",
+                "w": "venido",
+                "p": "beˈnido",
+                "d": "come (past participle of venir)",
+                "s": "¡Ha venido! (He has come!)"
+            },
+            {
+                "id": "es-0564",
+                "w": "basta",
+                "p": "ˈbasta",
+                "d": "enough!",
+                "s": "¡Ya basta! (Enough already!)"
+            },
+            {
+                "id": "es-0565",
+                "w": "paso",
+                "p": "ˈpaso",
+                "d": "step; pass",
+                "s": "Ceda el paso. (Let me pass.)"
+            },
+            {
+                "id": "es-0566",
+                "w": "deberíamos",
+                "p": "debeˈɾiamos",
+                "d": "we should (deber)",
+                "s": "Todos deberíamos ir. (All of us should go.)"
+            },
+            {
+                "id": "es-0567",
+                "w": "música",
+                "p": "ˈmusika",
+                "d": "music",
+                "s": "Soy música. (I'm a musician.)"
+            },
+            {
+                "id": "es-0568",
+                "w": "diga",
+                "p": "ˈdiɡa",
+                "d": "say (subjunctive of decir)",
+                "s": "¡No me diga! (Don't talk to me!)"
+            },
+            {
+                "id": "es-0569",
+                "w": "minuto",
+                "p": "miˈnuto",
+                "d": "minute",
+                "s": "Un minuto. (Just a minute.)"
+            },
+            {
+                "id": "es-0570",
+                "w": "anoche",
+                "p": "aˈnot͡ʃe",
+                "d": "last night",
+                "s": "Heló anoche. (It frosted last night.)"
+            },
+            {
+                "id": "es-0571",
+                "w": "llamar",
+                "p": "ʝaˈmaɾ",
+                "d": "to call",
+                "s": "Quiero llamar... (I want to call...)"
+            },
+            {
+                "id": "es-0572",
+                "w": "piensa",
+                "p": "piensa",
+                "d": "thinks (pensar)",
+                "s": "¿Ya piensa irse? (Are you already thinking of leaving?)"
+            },
+            {
+                "id": "es-0573",
+                "w": "país",
+                "p": "paˈis",
+                "d": "country",
+                "s": "¡Qué país! (What a country!)"
+            },
+            {
+                "id": "es-0574",
+                "w": "digas",
+                "p": "ˈdiɡas",
+                "d": "say (subjunctive of decir)",
+                "s": "No me digas. (Duh.)"
+            },
+            {
+                "id": "es-0575",
+                "w": "rey",
+                "p": "ˈrei",
+                "d": "king",
+                "s": "Soy tu rey. (I am your king.)"
+            },
+            {
+                "id": "es-0576",
+                "w": "perdón",
+                "p": "peɾˈdon",
+                "d": "pardon; forgiveness",
+                "s": "Pido perdón. (Excuse me.)"
+            },
+            {
+                "id": "es-0577",
+                "w": "mucha",
+                "p": "ˈmut͡ʃa",
+                "d": "much; a lot of (feminine)",
+                "s": "Usa mucha miel. (He uses a lot of honey.)"
+            },
+            {
+                "id": "es-0578",
+                "w": "falta",
+                "p": "ˈfalta",
+                "d": "lack; absence; fault",
+                "s": "¿Qué falta? (What is missing?)"
+            },
+            {
+                "id": "es-0579",
+                "w": "pienso",
+                "p": "ˈpjenso",
+                "d": "I think (pensar)",
+                "s": "Eso pienso yo. (I do think so.)"
+            },
+            {
+                "id": "es-0580",
+                "w": "diablos",
+                "p": "ˈdjablos",
+                "d": "damn; hell",
+                "s": "¿Qué diablos haces? (What on earth are you doing?)"
+            },
+            {
+                "id": "es-0581",
+                "w": "perdido",
+                "p": "peɾˈdido",
+                "d": "lost",
+                "s": "He perdido. (I've lost.)"
+            },
+            {
+                "id": "es-0582",
+                "w": "niña",
+                "p": "ˈniɲa",
+                "d": "girl; child (feminine)",
+                "s": "Es una niña. (She's a girl.)"
+            },
+            {
+                "id": "es-0583",
+                "w": "señorita",
+                "p": "seɲoˈɾita",
+                "d": "miss; young lady",
+                "s": "La señorita quiere esto. (The young lady wants this.)"
+            },
+            {
+                "id": "es-0584",
+                "w": "diez",
+                "p": "ˈdjeθ",
+                "d": "ten",
+                "s": "Éramos diez. (There were ten of us.)"
+            },
+            {
+                "id": "es-0585",
+                "w": "lleva",
+                "p": "ˈʝeba",
+                "d": "carries; takes; wears (llevar)",
+                "s": "Él lleva gafas. (He wears glasses.)"
+            },
+            {
+                "id": "es-0586",
+                "w": "hospital",
+                "p": "ospiˈtal",
+                "d": "hospital",
+                "s": "Ve al hospital. (Go to the hospital.)"
+            },
+            {
+                "id": "es-0587",
+                "w": "grandes",
+                "p": "ˈɡɾandes",
+                "d": "big; large (plural)",
+                "s": "Son grandes. (They're big.)"
+            },
+            {
+                "id": "es-0588",
+                "w": "maldito",
+                "p": "malˈdito",
+                "d": "damned; cursed",
+                "s": "El anillo está maldito. (The ring is cursed.)"
+            },
+            {
+                "id": "es-0589",
+                "w": "otras",
+                "p": "ˈotɾas",
+                "d": "others; other (feminine plural)",
+                "s": "¿Hay otras opciones? (Are there other options?)"
+            },
+            {
+                "id": "es-0590",
+                "w": "llamado",
+                "p": "ʝaˈmado",
+                "d": "called; named",
+                "s": "Te he llamado. (I called you.)"
+            },
+            {
+                "id": "es-0591",
+                "w": "hacemos",
+                "p": "aˈθemos",
+                "d": "we do; we make (hacer)",
+                "s": "No hacemos nada. (We don't do anything.)"
+            },
+            {
+                "id": "es-0592",
+                "w": "llevar",
+                "p": "ʝeˈbaɾ",
+                "d": "to carry; to take; to wear",
+                "s": "¿Para llevar? (Is it to go?)"
+            },
+            {
+                "id": "es-0593",
+                "w": "fuego",
+                "p": "ˈfweɡo",
+                "d": "fire",
+                "s": "¿Tienes fuego? (Do you have a light?)"
+            },
+            {
+                "id": "es-0594",
+                "w": "aqui",
+                "p": "aqui",
+                "d": "here",
+                "s": ""
+            },
+            {
+                "id": "es-0595",
+                "w": "tuvo",
+                "p": "ˈtubo",
+                "d": "had (preterite of tener)",
+                "s": "Tom tuvo sed. (Tom was thirsty.)"
+            },
+            {
+                "id": "es-0596",
+                "w": "poner",
+                "p": "poˈneɾ",
+                "d": "to put; to place",
+                "s": "Lo puede poner ahí. (You can put it there.)"
+            },
+            {
+                "id": "es-0597",
+                "w": "calle",
+                "p": "ˈkaʝe",
+                "d": "street",
+                "s": "¡A la calle! (Go away!)"
+            },
+            {
+                "id": "es-0598",
+                "w": "acaba",
+                "p": "aˈkaba",
+                "d": "finishes; ends (acabar)",
+                "s": "¿Cúando acaba? (When does it end?)"
+            },
+            {
+                "id": "es-0599",
+                "w": "prueba",
+                "p": "ˈpɾweba",
+                "d": "proof; test; evidence",
+                "s": "Él prueba. (He tries.)"
+            },
+            {
+                "id": "es-0600",
+                "w": "increíble",
+                "p": "inkɾeˈible",
+                "d": "incredible; unbelievable",
+                "s": "Es increíble. (It's incredible.)"
+            },
+            {
+                "id": "es-0601",
+                "w": "real",
+                "p": "reˈal",
+                "d": "real; royal",
+                "s": "¿Sos real? (Are you real?)"
+            },
+            {
+                "id": "es-0602",
+                "w": "libro",
+                "p": "ˈlibɾo",
+                "d": "book",
+                "s": "Es tu libro. (It's your book.)"
+            },
+            {
+                "id": "es-0603",
+                "w": "orden",
+                "p": "ˈoɾden",
+                "d": "order; command",
+                "s": "Es una orden. (This is an order.)"
+            },
+            {
+                "id": "es-0604",
+                "w": "semanas",
+                "p": "seˈmanas",
+                "d": "weeks",
+                "s": "En unas dos semanas. (In about two weeks.)"
+            },
+            {
+                "id": "es-0605",
+                "w": "especial",
+                "p": "espeˈθjal",
+                "d": "special",
+                "s": "Nada especial. (Nothing special.)"
+            },
+            {
+                "id": "es-0606",
+                "w": "mía",
+                "p": "ˈmia",
+                "d": "mine; my (feminine)",
+                "s": "Culpa mía. (My bad.)"
+            },
+            {
+                "id": "es-0607",
+                "w": "café",
+                "p": "kaˈfe",
+                "d": "coffee",
+                "s": "Haré café. (I'll make coffee.)"
+            },
+            {
+                "id": "es-0608",
+                "w": "duro",
+                "p": "ˈduɾo",
+                "d": "hard; tough",
+                "s": "Eres duro. (You're tough.)"
+            },
+            {
+                "id": "es-0609",
+                "w": "empezar",
+                "p": "empeˈθaɾ",
+                "d": "to start; to begin",
+                "s": "Voy a empezar. (I'm going to start.)"
+            },
+            {
+                "id": "es-0610",
+                "w": "afuera",
+                "p": "aˈfweɾa",
+                "d": "outside; out",
+                "s": "Están afuera. (They're outside.)"
+            },
+            {
+                "id": "es-0611",
+                "w": "queremos",
+                "p": "queremos",
+                "d": "we want (querer)",
+                "s": "Lo queremos. (We want it.)"
+            },
+            {
+                "id": "es-0612",
+                "w": "perro",
+                "p": "ˈpero",
+                "d": "dog",
+                "s": "Es mi perro. (It is my dog.)"
+            },
+            {
+                "id": "es-0613",
+                "w": "cielo",
+                "p": "ˈθjelo",
+                "d": "sky; heaven",
+                "s": "¡Santo cielo! (Good grief!)"
+            },
+            {
+                "id": "es-0614",
+                "w": "puesto",
+                "p": "ˈpwesto",
+                "d": "position; post; stand; job",
+                "s": "Se ha puesto frío. (It's got cold.)"
+            },
+            {
+                "id": "es-0615",
+                "w": "viaje",
+                "p": "biˈaxe",
+                "d": "trip; journey",
+                "s": "¡Buen viaje! (Bon voyage!)"
+            },
+            {
+                "id": "es-0616",
+                "w": "detrás",
+                "p": "deˈtɾas",
+                "d": "behind",
+                "s": "Está detrás de él. (I'm behind him.)"
+            },
+            {
+                "id": "es-0617",
+                "w": "cuarto",
+                "p": "ˈkwaɾto",
+                "d": "room; quarter",
+                "s": "¿Tiene cuarto? (Do you have a vacancy?)"
+            },
+            {
+                "id": "es-0618",
+                "w": "querida",
+                "p": "keˈɾida",
+                "d": "dear (feminine)",
+                "s": "No mientas, querida. (Don't lie, Honey.)"
+            },
+            {
+                "id": "es-0619",
+                "w": "haría",
+                "p": "aˈɾia",
+                "d": "would do; would make (hacer)",
+                "s": "Tom lo haría. (Tom would do it.)"
+            },
+            {
+                "id": "es-0620",
+                "w": "preguntas",
+                "p": "preguntas",
+                "d": "questions",
+                "s": "¿Hay preguntas? (Any questions?)"
+            },
+            {
+                "id": "es-0621",
+                "w": "piensas",
+                "p": "piensas",
+                "d": "you think (pensar)",
+                "s": "¿Qué piensas? (What's your position?)"
+            },
+            {
+                "id": "es-0622",
+                "w": "querido",
+                "p": "keˈɾido",
+                "d": "dear",
+                "s": "No es muy querido. (He isn't well-liked.)"
+            },
+            {
+                "id": "es-0623",
+                "w": "libre",
+                "p": "ˈlibɾe",
+                "d": "free",
+                "s": "¡Soy libre! (I'm free!)"
+            },
+            {
+                "id": "es-0624",
+                "w": "buscar",
+                "p": "busˈkaɾ",
+                "d": "to look for; to search",
+                "s": "Supe dónde buscar. (I knew where to seek.)"
+            },
+            {
+                "id": "es-0625",
+                "w": "cual",
+                "p": "ˈkwal",
+                "d": "which; who",
+                "s": "Era tal cual. (It was like that.)"
+            },
+            {
+                "id": "es-0626",
+                "w": "diré",
+                "p": "diˈɾe",
+                "d": "I will say (decir)",
+                "s": "Le diré eso. (I'll tell him that.)"
+            },
+            {
+                "id": "es-0627",
+                "w": "suena",
+                "p": "suena",
+                "d": "sounds; rings (sonar)",
+                "s": "No me suena. (That doesn't ring a bell.)"
+            },
+            {
+                "id": "es-0628",
+                "w": "jugar",
+                "p": "xuˈɡaɾ",
+                "d": "to play",
+                "s": "¿Sabe jugar? (Do you know how to play?)"
+            },
+            {
+                "id": "es-0629",
+                "w": "cambio",
+                "p": "ˈkambjo",
+                "d": "change",
+                "s": "Corto y cambio. (Over and out.)"
+            },
+            {
+                "id": "es-0630",
+                "w": "película",
+                "p": "peˈlikula",
+                "d": "movie; film",
+                "s": "Veo una película. (I'm watching a movie.)"
+            },
+            {
+                "id": "es-0631",
+                "w": "millones",
+                "p": "millones",
+                "d": "millions",
+                "s": "Ya somos siete mil millones. (We're already 7 billion.)"
+            },
+            {
+                "id": "es-0632",
+                "w": "habrá",
+                "p": "aˈbɾa",
+                "d": "there will be (haber)",
+                "s": "¿Adónde habrá ido? (Where will he have gone?)"
+            },
+            {
+                "id": "es-0633",
+                "w": "llamada",
+                "p": "ʝaˈmada",
+                "d": "call",
+                "s": "¡Última llamada! (Last call!)"
+            },
+            {
+                "id": "es-0634",
+                "w": "resto",
+                "p": "ˈresto",
+                "d": "rest; remainder",
+                "s": "¿Quieres el resto? (Do you want the rest?)"
+            },
+            {
+                "id": "es-0635",
+                "w": "vemos",
+                "p": "ˈbemos",
+                "d": "we see (ver)",
+                "s": "Nos vemos. (See you.)"
+            },
+            {
+                "id": "es-0636",
+                "w": "extraño",
+                "p": "e(ɡ)sˈtɾaɲo",
+                "d": "strange; foreign",
+                "s": "Te extraño. (I miss you.)"
+            },
+            {
+                "id": "es-0637",
+                "w": "mala",
+                "p": "ˈmala",
+                "d": "bad (feminine)",
+                "s": "Eres mala. (You're bad.)"
+            },
+            {
+                "id": "es-0638",
+                "w": "presidente",
+                "p": "pɾesiˈdente",
+                "d": "president",
+                "s": "El presidente se negó. (The president refused.)"
+            },
+            {
+                "id": "es-0639",
+                "w": "irme",
+                "p": "ˈiɾme",
+                "d": "to leave; to go away",
+                "s": "Déjame irme. (Just let me go.)"
+            },
+            {
+                "id": "es-0640",
+                "w": "ropa",
+                "p": "ˈropa",
+                "d": "clothes; clothing",
+                "s": "Nos da ropa. (She gives us clothes.)"
+            },
+            {
+                "id": "es-0641",
+                "w": "perder",
+                "p": "peɾˈdeɾ",
+                "d": "to lose; to miss",
+                "s": "Odio perder. (I hate losing.)"
+            },
+            {
+                "id": "es-0642",
+                "w": "vuelve",
+                "p": "ˈbwelbe",
+                "d": "returns; comes back (volver)",
+                "s": "Me vuelve loco. (It drives me crazy.)"
+            },
+            {
+                "id": "es-0643",
+                "w": "agente",
+                "p": "aˈxente",
+                "d": "agent",
+                "s": "Soy agente. (I'm an agent.)"
+            },
+            {
+                "id": "es-0644",
+                "w": "palabras",
+                "p": "paˈlabɾas",
+                "d": "words",
+                "s": "Dulces palabras. (That was really sweet.)"
+            },
+            {
+                "id": "es-0645",
+                "w": "información",
+                "p": "infoɾmaˈθjon",
+                "d": "information",
+                "s": "Tengo información. (I have information.)"
+            },
+            {
+                "id": "es-0646",
+                "w": "raro",
+                "p": "ˈraɾo",
+                "d": "strange; rare",
+                "s": "¡Qué raro! (How weird!)"
+            },
+            {
+                "id": "es-0647",
+                "w": "hará",
+                "p": "aˈɾa",
+                "d": "will do; will make (hacer)",
+                "s": "Tom lo hará. (Tom will do it.)"
+            },
+            {
+                "id": "es-0648",
+                "w": "entiendes",
+                "p": "entiendes",
+                "d": "you understand (entender)",
+                "s": "¿Me entiendes? (Do you understand me?)"
+            },
+            {
+                "id": "es-0649",
+                "w": "éste",
+                "p": "ˈeste",
+                "d": "this one",
+                "s": "Quiero éste. (I want this one.)"
+            },
+            {
+                "id": "es-0650",
+                "w": "trabajando",
+                "p": "trabajando",
+                "d": "working (gerund of trabajar)",
+                "s": "Sigue trabajando. (Keep on working.)"
+            },
+            {
+                "id": "es-0651",
+                "w": "tratando",
+                "p": "tratando",
+                "d": "trying; treating (gerund of tratar)",
+                "s": "Estás tratando. (You're trying.)"
+            },
+            {
+                "id": "es-0652",
+                "w": "general",
+                "p": "xeneˈɾal",
+                "d": "general",
+                "s": "Hubo un vitoreo general. (Everyone cheered.)"
+            },
+            {
+                "id": "es-0653",
+                "w": "trato",
+                "p": "ˈtɾato",
+                "d": "treatment; deal",
+                "s": "¡Es un trato! (It's a deal!)"
+            },
+            {
+                "id": "es-0654",
+                "w": "usar",
+                "p": "uˈsaɾ",
+                "d": "to use",
+                "s": "Iba a usar eso. (I was going to use that.)"
+            },
+            {
+                "id": "es-0655",
+                "w": "perfecto",
+                "p": "peɾˈfeɡto",
+                "d": "perfect",
+                "s": "Es perfecto. (He's perfect.)"
+            },
+            {
+                "id": "es-0656",
+                "w": "derecho",
+                "p": "deˈɾet͡ʃo",
+                "d": "right; law",
+                "s": "¡Siga derecho! (Keep straight on!)"
+            },
+            {
+                "id": "es-0657",
+                "w": "modo",
+                "p": "ˈmodo",
+                "d": "way; manner",
+                "s": "¡De ningún modo! (No way!)"
+            },
+            {
+                "id": "es-0658",
+                "w": "ayer",
+                "p": "aˈʝeɾ",
+                "d": "yesterday",
+                "s": "Pasó ayer. (It happened yesterday.)"
+            },
+            {
+                "id": "es-0659",
+                "w": "conoces",
+                "p": "koˈnoθes",
+                "d": "you know (conocer)",
+                "s": "Le conoces. (You know him.)"
+            },
+            {
+                "id": "es-0660",
+                "w": "demás",
+                "p": "deˈmas",
+                "d": "other; the rest",
+                "s": "Alcancé a los demás. (I caught up with the others.)"
+            },
+            {
+                "id": "es-0661",
+                "w": "quieras",
+                "p": "quieras",
+                "d": "want (subjunctive of querer)",
+                "s": "Como quieras. (As you wish.)"
+            },
+            {
+                "id": "es-0662",
+                "w": "podríamos",
+                "p": "podríamos",
+                "d": "we could (poder)",
+                "s": "Pensé que podríamos charlar. (I thought we could talk.)"
+            },
+            {
+                "id": "es-0663",
+                "w": "noticias",
+                "p": "noˈtiθjas",
+                "d": "news",
+                "s": "Traigo noticias. (I have news.)"
+            },
+            {
+                "id": "es-0664",
+                "w": "asesino",
+                "p": "aseˈsino",
+                "d": "murderer; assassin",
+                "s": "Vi al asesino. (I saw the killer.)"
+            },
+            {
+                "id": "es-0665",
+                "w": "encontrado",
+                "p": "enkonˈtɾado",
+                "d": "found",
+                "s": "Lo he encontrado. (I've found it.)"
+            },
+            {
+                "id": "es-0666",
+                "w": "control",
+                "p": "konˈtɾol",
+                "d": "control",
+                "s": "Toma el control. (Take over.)"
+            },
+            {
+                "id": "es-0667",
+                "w": "odio",
+                "p": "ˈodjo",
+                "d": "hatred; hate",
+                "s": "No me odio. (I don't hate myself.)"
+            },
+            {
+                "id": "es-0668",
+                "w": "frente",
+                "p": "ˈfɾente",
+                "d": "front; forehead",
+                "s": "Mire al frente. (Look forward.)"
+            },
+            {
+                "id": "es-0669",
+                "w": "sexo",
+                "p": "ˈseɡso",
+                "d": "sex",
+                "s": "El sexo vende. (Sex sells.)"
+            },
+            {
+                "id": "es-0670",
+                "w": "decirle",
+                "p": "decirle",
+                "d": "to tell him/her",
+                "s": "Mejor no decirle. (You'd better not tell him.)"
+            },
+            {
+                "id": "es-0671",
+                "w": "estaré",
+                "p": "estaˈɾe",
+                "d": "I will be (estar)",
+                "s": "No estaré listo. (I won't be ready.)"
+            },
+            {
+                "id": "es-0672",
+                "w": "divertido",
+                "p": "dibeɾˈtido",
+                "d": "fun; amusing",
+                "s": "Es divertido. (It's fun.)"
+            },
+            {
+                "id": "es-0673",
+                "w": "armas",
+                "p": "ˈaɾmas",
+                "d": "weapons; guns",
+                "s": "¡A las armas! (To arms!)"
+            },
+            {
+                "id": "es-0674",
+                "w": "recuerdas",
+                "p": "recuerdas",
+                "d": "you remember (recordar)",
+                "s": "¿Lo recuerdas? (Do you remember?)"
+            },
+            {
+                "id": "es-0675",
+                "w": "amiga",
+                "p": "aˈmiɡa",
+                "d": "friend (feminine)",
+                "s": "Es mi amiga. (She's my friend.)"
+            },
+            {
+                "id": "es-0676",
+                "w": "grupo",
+                "p": "ˈɡɾupo",
+                "d": "group",
+                "s": "El grupo es bueno. (The group is good.)"
+            },
+            {
+                "id": "es-0677",
+                "w": "asunto",
+                "p": "aˈsunto",
+                "d": "matter; business",
+                "s": "Es asunto suyo. (That's his business.)"
+            },
+            {
+                "id": "es-0678",
+                "w": "acabo",
+                "p": "aˈkabo",
+                "d": "I finish (acabar)",
+                "s": "Enseguida acabo. (I'm almost ready.)"
+            },
+            {
+                "id": "es-0679",
+                "w": "mensaje",
+                "p": "menˈsaxe",
+                "d": "message",
+                "s": "Oí el mensaje. (I heard the message.)"
+            },
+            {
+                "id": "es-0680",
+                "w": "encima",
+                "p": "enˈθima",
+                "d": "on top; above",
+                "s": "Él vive encima mío. (He lives above me.)"
+            },
+            {
+                "id": "es-0681",
+                "w": "atención",
+                "p": "atenˈθjon",
+                "d": "attention",
+                "s": "¡Pon atención! (Pay attention!)"
+            },
+            {
+                "id": "es-0682",
+                "w": "diferente",
+                "p": "difeˈɾente",
+                "d": "different",
+                "s": "Es diferente. (It's different.)"
+            },
+            {
+                "id": "es-0683",
+                "w": "uh",
+                "p": "u",
+                "d": "uh",
+                "s": ""
+            },
+            {
+                "id": "es-0684",
+                "w": "cállate",
+                "p": "ˈkaʝate",
+                "d": "shut up",
+                "s": "¡Tú cállate! (You, be quiet!)"
+            },
+            {
+                "id": "es-0685",
+                "w": "daño",
+                "p": "ˈdaɲo",
+                "d": "damage; harm",
+                "s": "Te harás daño. (You will hurt yourself.)"
+            },
+            {
+                "id": "es-0686",
+                "w": "sucede",
+                "p": "sucede",
+                "d": "happens (suceder)",
+                "s": "¿Qué sucede? (What's going on?)"
+            },
+            {
+                "id": "es-0687",
+                "w": "cambiar",
+                "p": "kamˈbjaɾ",
+                "d": "to change",
+                "s": "Quiero cambiar. (I want to change.)"
+            },
+            {
+                "id": "es-0688",
+                "w": "siguiente",
+                "p": "siˈɡjente",
+                "d": "next; following",
+                "s": "Tom es el siguiente. (Tom is next.)"
+            },
+            {
+                "id": "es-0689",
+                "w": "sino",
+                "p": "ˈsino",
+                "d": "but rather",
+                "s": "No eres sino un alumno. (You're nothing but a student.)"
+            },
+            {
+                "id": "es-0690",
+                "w": "seas",
+                "p": "ˈseas",
+                "d": "be (subjunctive of ser)",
+                "s": "No seas malo. (Don't be bad.)"
+            },
+            {
+                "id": "es-0691",
+                "w": "médico",
+                "p": "ˈmediko",
+                "d": "doctor; physician",
+                "s": "Es médico. (He's a doctor.)"
+            },
+            {
+                "id": "es-0692",
+                "w": "boca",
+                "p": "ˈboka",
+                "d": "mouth",
+                "s": "Es mi boca. (It is my mouth.)"
+            },
+            {
+                "id": "es-0693",
+                "w": "dejó",
+                "p": "dejó",
+                "d": "left; let (preterite of dejar)",
+                "s": "La dejó ir. (She let her go.)"
+            },
+            {
+                "id": "es-0694",
+                "w": "error",
+                "p": "eˈroɾ",
+                "d": "error; mistake",
+                "s": "Es un error. (It's a mistake.)"
+            },
+            {
+                "id": "es-0695",
+                "w": "jamás",
+                "p": "xaˈmas",
+                "d": "never; ever",
+                "s": "Él jamás se ríe. (He never laughs.)"
+            },
+            {
+                "id": "es-0696",
+                "w": "largo",
+                "p": "ˈlaɾɡo",
+                "d": "long",
+                "s": "¿Un viaje largo? (Long journey?)"
+            },
+            {
+                "id": "es-0697",
+                "w": "pena",
+                "p": "ˈpena",
+                "d": "sorrow; pity; penalty",
+                "s": "¡Qué pena! (What a pity!)"
+            },
+            {
+                "id": "es-0698",
+                "w": "voz",
+                "p": "ˈboθ",
+                "d": "voice",
+                "s": "Baja la voz. (Quiet down.)"
+            },
+            {
+                "id": "es-0699",
+                "w": "futuro",
+                "p": "fuˈtuɾo",
+                "d": "future",
+                "s": "No tengo futuro. (I have no future.)"
+            },
+            {
+                "id": "es-0700",
+                "w": "siente",
+                "p": "ˈsjente",
+                "d": "feels; sits (sentir; sentar)",
+                "s": "¿Cómo se siente? (How do you feel?)"
+            },
+            {
+                "id": "es-0701",
+                "w": "secreto",
+                "p": "seˈkɾeto",
+                "d": "secret",
+                "s": "Es secreto. (It's secret.)"
+            },
+            {
+                "id": "es-0702",
+                "w": "baño",
+                "p": "ˈbaɲo",
+                "d": "bathroom; bath",
+                "s": "Ve al baño. (Go to the toilet.)"
+            },
+            {
+                "id": "es-0703",
+                "w": "mil",
+                "p": "ˈmil",
+                "d": "thousand",
+                "s": "Dame mil besos. (Give me a thousand kisses.)"
+            },
+            {
+                "id": "es-0704",
+                "w": "decirte",
+                "p": "decirte",
+                "d": "to tell you",
+                "s": "Intenté decirte. (I tried to tell you.)"
+            },
+            {
+                "id": "es-0705",
+                "w": "pensaba",
+                "p": "pensaba",
+                "d": "thought; was thinking (pensar)",
+                "s": "Eso pensaba. (I thought as much.)"
+            },
+            {
+                "id": "es-0706",
+                "w": "novia",
+                "p": "ˈnobja",
+                "d": "girlfriend; bride",
+                "s": "Es mi novia. (She is my girlfriend.)"
+            },
+            {
+                "id": "es-0707",
+                "w": "propia",
+                "p": "ˈpɾopja",
+                "d": "own (feminine)",
+                "s": "Fue su propia culpa. (It was his own fault.)"
+            },
+            {
+                "id": "es-0708",
+                "w": "sueño",
+                "p": "ˈsweɲo",
+                "d": "dream; sleep",
+                "s": "Tengo sueño. (I'm sleepy!)"
+            },
+            {
+                "id": "es-0709",
+                "w": "haz",
+                "p": "ˈaθ",
+                "d": "do!; make! (imperative of hacer)",
+                "s": "Por favor, haz algo. (Please do something.)"
+            },
+            {
+                "id": "es-0710",
+                "w": "fuerza",
+                "p": "ˈfweɾθa",
+                "d": "strength; force",
+                "s": "Perdí mi fuerza. (I've lost my strength.)"
+            },
+            {
+                "id": "es-0711",
+                "w": "deben",
+                "p": "ˈdeben",
+                "d": "they must; they owe (deber)",
+                "s": "Todos deben morir. (Everyone must die.)"
+            },
+            {
+                "id": "es-0712",
+                "w": "supone",
+                "p": "supone",
+                "d": "supposes; assumes (suponer)",
+                "s": "No se supone que pase. (It's not supposed to happen.)"
+            },
+            {
+                "id": "es-0713",
+                "w": "estábamos",
+                "p": "esˈtabamos",
+                "d": "we were (estar)",
+                "s": "¿Dónde estábamos? (Where were we?)"
+            },
+            {
+                "id": "es-0714",
+                "w": "ambos",
+                "p": "ˈambos",
+                "d": "both",
+                "s": "Vengan ambos. (Come together.)"
+            },
+            {
+                "id": "es-0715",
+                "w": "ay",
+                "p": "ˈai",
+                "d": "ow; oh",
+                "s": "¡Ay, ay! ¡Me he mordido la lengua! (Ow, ow! I bit my tongue!)"
+            },
+            {
+                "id": "es-0716",
+                "w": "estuve",
+                "p": "esˈtube",
+                "d": "I was (preterite of estar)",
+                "s": "Nunca estuve ahí. (I've never been there.)"
+            },
+            {
+                "id": "es-0717",
+                "w": "encontré",
+                "p": "encontré",
+                "d": "I found (encontrar)",
+                "s": "Lo encontré. (I found it.)"
+            },
+            {
+                "id": "es-0718",
+                "w": "vuelto",
+                "p": "ˈbwelto",
+                "d": "returned (past participle of volver)",
+                "s": "He vuelto. (I'm back.)"
+            },
+            {
+                "id": "es-0719",
+                "w": "dolor",
+                "p": "doˈloɾ",
+                "d": "pain; ache",
+                "s": "Qué dolor. (What a pain!)"
+            },
+            {
+                "id": "es-0720",
+                "w": "dile",
+                "p": "ˈdile",
+                "d": "tell him (decir + le)",
+                "s": "Por favor, dile hola. (Please say hello to her.)"
+            },
+            {
+                "id": "es-0721",
+                "w": "encanta",
+                "p": "enˈkanta",
+                "d": "enchants; love (encantar)",
+                "s": "Me encanta. (I love it.)"
+            },
+            {
+                "id": "es-0722",
+                "w": "edad",
+                "p": "eˈdad",
+                "d": "age",
+                "s": "Sé tu edad. (I know how old you are.)"
+            },
+            {
+                "id": "es-0723",
+                "w": "darle",
+                "p": "ˈdaɾle",
+                "d": "to give him/her",
+                "s": "Quiero darle una cosa. (I want to give you something.)"
+            },
+            {
+                "id": "es-0724",
+                "w": "pie",
+                "p": "ˈpje",
+                "d": "foot",
+                "s": "Iba a pie. (I was going on foot.)"
+            },
+            {
+                "id": "es-0725",
+                "w": "negro",
+                "p": "ˈneɡɾo",
+                "d": "black",
+                "s": "Era negro. (It was black.)"
+            },
+            {
+                "id": "es-0726",
+                "w": "ganar",
+                "p": "ɡaˈnaɾ",
+                "d": "to win; to earn",
+                "s": "Adoro ganar. (I love winning.)"
+            },
+            {
+                "id": "es-0727",
+                "w": "aire",
+                "p": "ˈaiɾe",
+                "d": "air",
+                "s": "Necesito aire. (I need air.)"
+            },
+            {
+                "id": "es-0728",
+                "w": "lamento",
+                "p": "laˈmento",
+                "d": "regret; sorrow",
+                "s": "Lo lamento. (I regret it.)"
+            },
+            {
+                "id": "es-0729",
+                "w": "verlo",
+                "p": "ˈbeɾlo",
+                "d": "to see it/him",
+                "s": "Voy a verlo. (I'm going to see it.)"
+            },
+            {
+                "id": "es-0730",
+                "w": "asesinato",
+                "p": "asesiˈnato",
+                "d": "murder; assassination",
+                "s": "El aborto es asesinato. (Abortion is murder.)"
+            },
+            {
+                "id": "es-0731",
+                "w": "vio",
+                "p": "ˈbjo",
+                "d": "saw (preterite of ver)",
+                "s": "Él me vio. (He saw me.)"
+            },
+            {
+                "id": "es-0732",
+                "w": "adónde",
+                "p": "aˈdonde",
+                "d": "where to",
+                "s": "¿Tú adónde vas? (Where are you going?)"
+            },
+            {
+                "id": "es-0733",
+                "w": "llegado",
+                "p": "ʝeˈɡado",
+                "d": "arrived (past participle of llegar)",
+                "s": "¿Ha llegado? (Has it arrived?)"
+            },
+            {
+                "id": "es-0734",
+                "w": "disculpe",
+                "p": "disˈkulpe",
+                "d": "excuse me (disculpar)",
+                "s": "Quiero que se disculpe. (I want you to apologize.)"
+            },
+            {
+                "id": "es-0735",
+                "w": "cita",
+                "p": "ˈθita",
+                "d": "appointment; date",
+                "s": "Pida cita. (Make an appointment.)"
+            },
+            {
+                "id": "es-0736",
+                "w": "estaría",
+                "p": "estaˈɾia",
+                "d": "would be (estar)",
+                "s": "Eso estaría bueno. (That would be fine.)"
+            },
+            {
+                "id": "es-0737",
+                "w": "fuiste",
+                "p": "ˈfwiste",
+                "d": "you were; you went (ser; ir)",
+                "s": "Tú fuiste ahí. (You went there.)"
+            },
+            {
+                "id": "es-0738",
+                "w": "sistema",
+                "p": "sisˈtema",
+                "d": "system",
+                "s": "Amamos el sistema. (We love the system.)"
+            },
+            {
+                "id": "es-0739",
+                "w": "gusto",
+                "p": "ˈɡusto",
+                "d": "taste; pleasure",
+                "s": "¿Te gusto? (Do you love me?)"
+            },
+            {
+                "id": "es-0740",
+                "w": "pobre",
+                "p": "ˈpobɾe",
+                "d": "poor",
+                "s": "Soy pobre. (I'm poor.)"
+            },
+            {
+                "id": "es-0741",
+                "w": "negocio",
+                "p": "neˈɡoθjo",
+                "d": "business",
+                "s": "Su negocio va bien. (His business is doing well.)"
+            },
+            {
+                "id": "es-0742",
+                "w": "mente",
+                "p": "ˈmente",
+                "d": "mind",
+                "s": "Abre tu mente. (Open your mind.)"
+            },
+            {
+                "id": "es-0743",
+                "w": "tuyo",
+                "p": "ˈtuʝo",
+                "d": "yours; your",
+                "s": "Es todo tuyo. (It's all yours.)"
+            },
+            {
+                "id": "es-0744",
+                "w": "campo",
+                "p": "ˈkampo",
+                "d": "field; countryside",
+                "s": "Fuimos al campo. (We went to the countryside.)"
+            },
+            {
+                "id": "es-0745",
+                "w": "mire",
+                "p": "ˈmiɾe",
+                "d": "look (subjunctive/imperative of mirar)",
+                "s": "¡No la mire! (Don't look at her!)"
+            },
+            {
+                "id": "es-0746",
+                "w": "situación",
+                "p": "sitwaˈθjon",
+                "d": "situation",
+                "s": "¡Qué situación! (What a situation!)"
+            },
+            {
+                "id": "es-0747",
+                "w": "tras",
+                "p": "ˈtɾas",
+                "d": "after; behind",
+                "s": "Voy tras él. (I'm after him.)"
+            },
+            {
+                "id": "es-0748",
+                "w": "hotel",
+                "p": "oˈtel",
+                "d": "hotel",
+                "s": "Es un hotel. (This is a hotel.)"
+            },
+            {
+                "id": "es-0749",
+                "w": "vosotros",
+                "p": "boˈsotɾos",
+                "d": "you (plural; Spain)",
+                "s": "¿Y vosotros? (And you?)"
+            },
+            {
+                "id": "es-0750",
+                "w": "funciona",
+                "p": "funciona",
+                "d": "works; functions (funcionar)",
+                "s": "Eso funciona. (That works.)"
+            },
+            {
+                "id": "es-0751",
+                "w": "foto",
+                "p": "ˈfoto",
+                "d": "photo",
+                "s": "Es una foto. (It's a photo.)"
+            },
+            {
+                "id": "es-0752",
+                "w": "abogado",
+                "p": "aboˈɡado",
+                "d": "lawyer",
+                "s": "Es abogado. (He's a lawyer.)"
+            },
+            {
+                "id": "es-0753",
+                "w": "loca",
+                "p": "ˈloka",
+                "d": "crazy (feminine)",
+                "s": "Está loca. (She's crazy.)"
+            },
+            {
+                "id": "es-0754",
+                "w": "propio",
+                "p": "ˈpɾopjo",
+                "d": "own",
+                "s": "Soy mi propio jefe. (I'm my own boss.)"
+            },
+            {
+                "id": "es-0755",
+                "w": "alrededor",
+                "p": "alredeˈdoɾ",
+                "d": "around",
+                "s": "Mire a su alrededor. (Look around.)"
+            },
+            {
+                "id": "es-0756",
+                "w": "próxima",
+                "p": "ˈpɾoɡsima",
+                "d": "next; near (feminine)",
+                "s": "Hasta la próxima. (Until next time.)"
+            },
+            {
+                "id": "es-0757",
+                "w": "terminado",
+                "p": "teɾmiˈnado",
+                "d": "finished; done",
+                "s": "He terminado. (I'm done.)"
+            },
+            {
+                "id": "es-0758",
+                "w": "hablas",
+                "p": "ˈablas",
+                "d": "you speak (hablar)",
+                "s": "Tú hablas. (You speak.)"
+            },
+            {
+                "id": "es-0759",
+                "w": "pagar",
+                "p": "paˈɡaɾ",
+                "d": "to pay",
+                "s": "Voy a pagar. (I'm going to pay.)"
+            },
+            {
+                "id": "es-0760",
+                "w": "mató",
+                "p": "mató",
+                "d": "killed (matar)",
+                "s": "Él la mató. (He killed her.)"
+            },
+            {
+                "id": "es-0761",
+                "w": "llamo",
+                "p": "ˈʝamo",
+                "d": "I call (llamar)",
+                "s": "Me llamo Tom. (My name's Tom.)"
+            },
+            {
+                "id": "es-0762",
+                "w": "personal",
+                "p": "peɾsoˈnal",
+                "d": "personal; staff",
+                "s": "Eso es personal. (That's personal.)"
+            },
+            {
+                "id": "es-0763",
+                "w": "sientes",
+                "p": "sientes",
+                "d": "you feel (sentir)",
+                "s": "¿Lo sientes? (Are you sorry?)"
+            },
+            {
+                "id": "es-0764",
+                "w": "ocurre",
+                "p": "ocurre",
+                "d": "happens (ocurrir)",
+                "s": "¿Qué ocurre? (What is happening?)"
+            },
+            {
+                "id": "es-0765",
+                "w": "ésta",
+                "p": "ˈesta",
+                "d": "this one (feminine)",
+                "s": "No quiero ésta. (I don't want this one.)"
+            },
+            {
+                "id": "es-0766",
+                "w": "recuerda",
+                "p": "recuerda",
+                "d": "remembers (recordar)",
+                "s": "¿No recuerda? (You don't remember?)"
+            },
+            {
+                "id": "es-0767",
+                "w": "mitad",
+                "p": "miˈtad",
+                "d": "half",
+                "s": "Dame la mitad. (Give me half.)"
+            },
+            {
+                "id": "es-0768",
+                "w": "quiera",
+                "p": "quiera",
+                "d": "want (subjunctive of querer)",
+                "s": "Como usted quiera. (As you like.)"
+            },
+            {
+                "id": "es-0769",
+                "w": "pelo",
+                "p": "ˈpelo",
+                "d": "hair",
+                "s": "Es medio pelo. (It's mediocre.)"
+            },
+            {
+                "id": "es-0770",
+                "w": "tenías",
+                "p": "teˈnias",
+                "d": "you had (tener)",
+                "s": "Tú tenías razón. (You were right.)"
+            },
+            {
+                "id": "es-0771",
+                "w": "viste",
+                "p": "ˈbiste",
+                "d": "you saw (ver)",
+                "s": "¿Lo viste? (Did you see it?)"
+            },
+            {
+                "id": "es-0772",
+                "w": "oficial",
+                "p": "ofiˈθjal",
+                "d": "official",
+                "s": "Es oficial. (It's official.)"
+            },
+            {
+                "id": "es-0773",
+                "w": "llegó",
+                "p": "llegó",
+                "d": "arrived (llegar)",
+                "s": "Tom llegó. (Tom arrived.)"
+            },
+            {
+                "id": "es-0774",
+                "w": "compañía",
+                "p": "kompaˈɲia",
+                "d": "company",
+                "s": "Tienes compañía. (You've got company.)"
+            },
+            {
+                "id": "es-0775",
+                "w": "relación",
+                "p": "relaˈθjon",
+                "d": "relationship; relation",
+                "s": "Tenemos una relación. (We have a relationship.)"
+            },
+            {
+                "id": "es-0776",
+                "w": "conoce",
+                "p": "koˈnoθe",
+                "d": "knows; meets (conocer)",
+                "s": "Me conoce. (He knows me.)"
+            },
+            {
+                "id": "es-0777",
+                "w": "pase",
+                "p": "ˈpase",
+                "d": "pass; go in (subjunctive of pasar)",
+                "s": "¿Quieres que pase? (You want me to come in?)"
+            },
+            {
+                "id": "es-0778",
+                "w": "montón",
+                "p": "monˈton",
+                "d": "pile; lot",
+                "s": "¡Es un montón! (That's a lot!)"
+            },
+            {
+                "id": "es-0779",
+                "w": "mejores",
+                "p": "mejores",
+                "d": "better; best (plural)",
+                "s": "Somos mejores. (We're better.)"
+            },
+            {
+                "id": "es-0780",
+                "w": "creí",
+                "p": "kɾeˈi",
+                "d": "I believed (creer)",
+                "s": "No te creí. (I didn't believe you.)"
+            },
+            {
+                "id": "es-0781",
+                "w": "cena",
+                "p": "ˈθena",
+                "d": "dinner; supper",
+                "s": "Juan cena. (Juan has dinner.)"
+            },
+            {
+                "id": "es-0782",
+                "w": "sentir",
+                "p": "senˈtiɾ",
+                "d": "to feel; to be sorry",
+                "s": "Me hizo sentir mal. (It made me feel bad.)"
+            },
+            {
+                "id": "es-0783",
+                "w": "través",
+                "p": "tɾaˈbes",
+                "d": "through (as in \"a través de\")",
+                "s": "Él nadó a través del río. (He swam across the river.)"
+            },
+            {
+                "id": "es-0784",
+                "w": "accidente",
+                "p": "aɡθiˈdente",
+                "d": "accident",
+                "s": "Fue un accidente. (It was an accident.)"
+            },
+            {
+                "id": "es-0785",
+                "w": "ellas",
+                "p": "ˈeʝas",
+                "d": "they; them (feminine)",
+                "s": "¿Qué leen ellas? (What do they read?)"
+            },
+            {
+                "id": "es-0786",
+                "w": "caja",
+                "p": "ˈkaxa",
+                "d": "box; cash register",
+                "s": "Abrí la caja. (Open the box.)"
+            },
+            {
+                "id": "es-0787",
+                "w": "tranquilo",
+                "p": "tɾanˈkilo",
+                "d": "calm; quiet",
+                "s": "Estoy tranquilo. (I'm cool.)"
+            },
+            {
+                "id": "es-0788",
+                "w": "bonito",
+                "p": "boˈnito",
+                "d": "pretty; nice",
+                "s": "¡Qué bonito! (How lovely!)"
+            },
+            {
+                "id": "es-0789",
+                "w": "eras",
+                "p": "ˈeɾas",
+                "d": "you were (ser)",
+                "s": "Tú eras mi amigo. (You were my friend.)"
+            },
+            {
+                "id": "es-0790",
+                "w": "asi",
+                "p": "asi",
+                "d": "like this; so",
+                "s": ""
+            },
+            {
+                "id": "es-0791",
+                "w": "pudo",
+                "p": "ˈpudo",
+                "d": "could (preterite of poder)",
+                "s": "No pudo moverse. (He was unable to move.)"
+            },
+            {
+                "id": "es-0792",
+                "w": "vive",
+                "p": "ˈbibe",
+                "d": "lives (vivir)",
+                "s": "¿Dónde vive? (Where do you live?)"
+            },
+            {
+                "id": "es-0793",
+                "w": "vista",
+                "p": "ˈbista",
+                "d": "sight; view",
+                "s": "Hasta la vista. (Goodbye!)"
+            },
+            {
+                "id": "es-0794",
+                "w": "estúpido",
+                "p": "esˈtupido",
+                "d": "stupid",
+                "s": "Eres estúpido. (You're stupid.)"
+            },
+            {
+                "id": "es-0795",
+                "w": "línea",
+                "p": "ˈlinea",
+                "d": "line",
+                "s": "Estoy en línea. (I am online.)"
+            },
+            {
+                "id": "es-0796",
+                "w": "caballeros",
+                "p": "caballeros",
+                "d": "gentlemen",
+                "s": "Adelante, caballeros. (Go ahead, gentlemen.)"
+            },
+            {
+                "id": "es-0797",
+                "w": "haremos",
+                "p": "aˈɾemos",
+                "d": "we will do; we will make (hacer)",
+                "s": "Lo haremos. (We'll do it.)"
+            },
+            {
+                "id": "es-0798",
+                "w": "dan",
+                "p": "ˈdan",
+                "d": "they give (dar)",
+                "s": "No dan nada. (They give nothing.)"
+            },
+            {
+                "id": "es-0799",
+                "w": "quédate",
+                "p": "quédate",
+                "d": "stay! (quedarse)",
+                "s": "Por favor quédate. (Please stay.)"
+            },
+            {
+                "id": "es-0800",
+                "w": "tienda",
+                "p": "ˈtjenda",
+                "d": "shop; store",
+                "s": "Fue a la tienda. (He went to the shop.)"
+            },
+            {
+                "id": "es-0801",
+                "w": "comprar",
+                "p": "komˈpɾaɾ",
+                "d": "to buy",
+                "s": "Quiero comprar. (I want to buy.)"
+            },
+            {
+                "id": "es-0802",
+                "w": "entendido",
+                "p": "entenˈdido",
+                "d": "understood",
+                "s": "No lo has entendido. (You didn't understand.)"
+            },
+            {
+                "id": "es-0803",
+                "w": "centro",
+                "p": "ˈθentɾo",
+                "d": "center; downtown",
+                "s": "Vamos al centro. (Let's go downtown.)"
+            },
+            {
+                "id": "es-0804",
+                "w": "salvo",
+                "p": "ˈsalbo",
+                "d": "except; save",
+                "s": "Estás a salvo. (You're safe.)"
+            },
+            {
+                "id": "es-0805",
+                "w": "mes",
+                "p": "ˈmes",
+                "d": "month",
+                "s": "Fue hace un mes. (That was a month ago.)"
+            },
+            {
+                "id": "es-0806",
+                "w": "sol",
+                "p": "ˈsol",
+                "d": "sun",
+                "s": "Amo el sol. (I love the sun.)"
+            },
+            {
+                "id": "es-0807",
+                "w": "tonto",
+                "p": "ˈtonto",
+                "d": "silly; stupid",
+                "s": "Eres tonto. (You're stupid.)"
+            },
+            {
+                "id": "es-0808",
+                "w": "hambre",
+                "p": "ˈambɾe",
+                "d": "hunger",
+                "s": "Tenía hambre. (I was hungry.)"
+            },
+            {
+                "id": "es-0809",
+                "w": "mesa",
+                "p": "ˈmesa",
+                "d": "table",
+                "s": "Veo mi mesa. (I see my table.)"
+            },
+            {
+                "id": "es-0810",
+                "w": "respuesta",
+                "p": "resˈpwesta",
+                "d": "answer; response",
+                "s": "Sé la respuesta. (I know the answer.)"
+            },
+            {
+                "id": "es-0811",
+                "w": "completamente",
+                "p": "komˌpletaˈmente",
+                "d": "completely",
+                "s": "Es completamente nuevo. (It's brand new.)"
+            },
+            {
+                "id": "es-0812",
+                "w": "carta",
+                "p": "ˈkaɾta",
+                "d": "letter; menu",
+                "s": "Leo una carta. (I read a letter.)"
+            },
+            {
+                "id": "es-0813",
+                "w": "totalmente",
+                "p": "toˌtalˈmente",
+                "d": "totally",
+                "s": "Comprendo totalmente. (I totally get it.)"
+            },
+            {
+                "id": "es-0814",
+                "w": "imposible",
+                "p": "impoˈsible",
+                "d": "impossible",
+                "s": "Es imposible. (It's impossible.)"
+            },
+            {
+                "id": "es-0815",
+                "w": "pruebas",
+                "p": "ˈpɾwebas",
+                "d": "proofs; tests",
+                "s": "Quiero pruebas. (I want evidence.)"
+            },
+            {
+                "id": "es-0816",
+                "w": "novio",
+                "p": "ˈnobjo",
+                "d": "boyfriend",
+                "s": "Es su novio. (That's her boyfriend.)"
+            },
+            {
+                "id": "es-0817",
+                "w": "normal",
+                "p": "noɾˈmal",
+                "d": "normal",
+                "s": "Es normal. (It's normal.)"
+            },
+            {
+                "id": "es-0818",
+                "w": "gustan",
+                "p": "ˈɡustan",
+                "d": "please; like (gustar)",
+                "s": "Me gustan. (I like them.)"
+            },
+            {
+                "id": "es-0819",
+                "w": "pude",
+                "p": "pude",
+                "d": "I could (preterite of poder)",
+                "s": "No pude parar. (I couldn't stop.)"
+            },
+            {
+                "id": "es-0820",
+                "w": "traje",
+                "p": "ˈtɾaxe",
+                "d": "suit",
+                "s": "Buen traje. (Nice costume.)"
+            },
+            {
+                "id": "es-0821",
+                "w": "dirección",
+                "p": "diɾeɡˈθjon",
+                "d": "address; direction",
+                "s": "Sé su dirección. (I know his address.)"
+            },
+            {
+                "id": "es-0822",
+                "w": "siete",
+                "p": "ˈsjete",
+                "d": "seven",
+                "s": "¡Seis, siete! (Six, seven!)"
+            },
+            {
+                "id": "es-0823",
+                "w": "dijeron",
+                "p": "diˈxeɾon",
+                "d": "they said (decir)",
+                "s": "No dijeron eso. (They didn't say that.)"
+            },
+            {
+                "id": "es-0824",
+                "w": "placer",
+                "p": "plaˈθeɾ",
+                "d": "pleasure",
+                "s": "Con placer. (I'll be glad to.)"
+            },
+            {
+                "id": "es-0825",
+                "w": "sean",
+                "p": "ˈsean",
+                "d": "be (subjunctive of ser)",
+                "s": "No sean egoístas. (Don't be selfish.)"
+            },
+            {
+                "id": "es-0826",
+                "w": "tendrá",
+                "p": "tenˈdɾa",
+                "d": "will have (tener)",
+                "s": "Tom tendrá éxito. (Tom will succeed.)"
+            },
+            {
+                "id": "es-0827",
+                "w": "barco",
+                "p": "ˈbaɾko",
+                "d": "boat; ship",
+                "s": "Veo mi barco. (I see my ship.)"
+            },
+            {
+                "id": "es-0828",
+                "w": "blanco",
+                "p": "ˈblanko",
+                "d": "white",
+                "s": "Es blanco. (It's white.)"
+            },
+            {
+                "id": "es-0829",
+                "w": "profesor",
+                "p": "pɾofeˈsoɾ",
+                "d": "teacher; professor",
+                "s": "Sos profesor. (You're a teacher.)"
+            },
+            {
+                "id": "es-0830",
+                "w": "servicio",
+                "p": "seɾˈbiθjo",
+                "d": "service",
+                "s": "A su servicio, señor. (I'm at your service, sir.)"
+            },
+            {
+                "id": "es-0831",
+                "w": "muchacho",
+                "p": "muˈt͡ʃat͡ʃo",
+                "d": "boy; young man",
+                "s": "Es un muchacho. (He's a boy.)"
+            },
+            {
+                "id": "es-0832",
+                "w": "reunión",
+                "p": "reuˈnjon",
+                "d": "meeting",
+                "s": "Iré a la reunión. (I'll go to the meeting.)"
+            },
+            {
+                "id": "es-0833",
+                "w": "dejado",
+                "p": "deˈxado",
+                "d": "left (past participle of dejar)",
+                "s": "He dejado pistas. (I've left clues.)"
+            },
+            {
+                "id": "es-0834",
+                "w": "ley",
+                "p": "ˈlei",
+                "d": "law",
+                "s": "Es la ley. (It's the law.)"
+            },
+            {
+                "id": "es-0835",
+                "w": "quisiera",
+                "p": "kiˈsjeɾa",
+                "d": "I would like (querer)",
+                "s": "Yo quisiera poder ir. (I wish I could go.)"
+            },
+            {
+                "id": "es-0836",
+                "w": "hubo",
+                "p": "ˈubo",
+                "d": "there was (haber)",
+                "s": "Ayer hubo sol. (Yesterday there was sun.)"
+            },
+            {
+                "id": "es-0837",
+                "w": "programa",
+                "p": "pɾoˈɡɾama",
+                "d": "program; show",
+                "s": "Él ve ese programa. (He watches that programme.)"
+            },
+            {
+                "id": "es-0838",
+                "w": "carrera",
+                "p": "kaˈreɾa",
+                "d": "race; career",
+                "s": "Tom ganó la carrera. (Tom won the race.)"
+            },
+            {
+                "id": "es-0839",
+                "w": "cumpleaños",
+                "p": "kumpleˈaɲos",
+                "d": "birthday",
+                "s": "Feliz cumpleaños. (Happy birthday.)"
+            },
+            {
+                "id": "es-0840",
+                "w": "muchachos",
+                "p": "muˈt͡ʃat͡ʃos",
+                "d": "boys; guys",
+                "s": "Son muchachos. (They're boys.)"
+            },
+            {
+                "id": "es-0841",
+                "w": "culo",
+                "p": "ˈkulo",
+                "d": "ass; butt",
+                "s": "¡Lindo culo! (Nice ass!)"
+            },
+            {
+                "id": "es-0842",
+                "w": "canción",
+                "p": "kanˈθjon",
+                "d": "song",
+                "s": "Odio esa canción. (I hate that song.)"
+            },
+            {
+                "id": "es-0843",
+                "w": "hermosa",
+                "p": "eɾˈmosa",
+                "d": "beautiful (feminine)",
+                "s": "Soy hermosa. (I'm beautiful.)"
+            },
+            {
+                "id": "es-0844",
+                "w": "universidad",
+                "p": "unibeɾsiˈdad",
+                "d": "university",
+                "s": "Añoro la universidad. (I miss university.)"
+            },
+            {
+                "id": "es-0845",
+                "w": "boda",
+                "p": "ˈboda",
+                "d": "wedding",
+                "s": "Su boda es mañana. (Their wedding is tomorrow.)"
+            },
+            {
+                "id": "es-0846",
+                "w": "decirme",
+                "p": "decirme",
+                "d": "to tell me",
+                "s": "¿Qué quería decirme? (What did you want to tell me?)"
+            },
+            {
+                "id": "es-0847",
+                "w": "cualquiera",
+                "p": "kwalˈkjeɾa",
+                "d": "any; anyone",
+                "s": "Podría ser cualquiera. (It could be anyone.)"
+            },
+            {
+                "id": "es-0848",
+                "w": "tengas",
+                "p": "ˈtenɡas",
+                "d": "have (subjunctive of tener)",
+                "s": "No tengas pena. (Don't be shy.)"
+            },
+            {
+                "id": "es-0849",
+                "w": "hacía",
+                "p": "aˈθia",
+                "d": "did; made (imperfect of hacer)",
+                "s": "Ayer hacía frío. (It was cold yesterday.)"
+            },
+            {
+                "id": "es-0850",
+                "w": "estés",
+                "p": "esˈtes",
+                "d": "be (subjunctive of estar)",
+                "s": "No estés triste. (Don't be sad.)"
+            },
+            {
+                "id": "es-0851",
+                "w": "sala",
+                "p": "ˈsala",
+                "d": "room; hall",
+                "s": "Anda a la sala. (Go to the living room.)"
+            },
+            {
+                "id": "es-0852",
+                "w": "llevo",
+                "p": "llevo",
+                "d": "I carry; I take; I wear (llevar)",
+                "s": "¿Te llevo? (Can I give you a ride?)"
+            },
+            {
+                "id": "es-0853",
+                "w": "decisión",
+                "p": "deθiˈsjon",
+                "d": "decision",
+                "s": "Es tu decisión. (It's up to you.)"
+            },
+            {
+                "id": "es-0854",
+                "w": "espere",
+                "p": "esˈpeɾe",
+                "d": "wait (subjunctive of esperar)",
+                "s": "No me espere. (Don't wait up for me.)"
+            },
+            {
+                "id": "es-0855",
+                "w": "don",
+                "p": "ˈdon",
+                "d": "sir; gift; Mr.",
+                "s": "Tiene un don. (She has a gift.)"
+            },
+            {
+                "id": "es-0856",
+                "w": "necesario",
+                "p": "neθeˈsaɾjo",
+                "d": "necessary",
+                "s": "Es necesario. (It's necessary.)"
+            },
+            {
+                "id": "es-0857",
+                "w": "sal",
+                "p": "ˈsal",
+                "d": "salt",
+                "s": "No hay sal. (There's no salt.)"
+            },
+            {
+                "id": "es-0858",
+                "w": "entra",
+                "p": "entra",
+                "d": "enters; come in (entrar)",
+                "s": "Ven, entra. (Come on inside.)"
+            },
+            {
+                "id": "es-0859",
+                "w": "prisa",
+                "p": "ˈpɾisa",
+                "d": "hurry; rush",
+                "s": "Daos prisa. (Hurry up.)"
+            },
+            {
+                "id": "es-0860",
+                "w": "carajo",
+                "p": "kaˈɾaxo",
+                "d": "damn; hell",
+                "s": "¡Al carajo! (Fuck that!)"
+            },
+            {
+                "id": "es-0861",
+                "w": "embargo",
+                "p": "emˈbaɾɡo",
+                "d": "embargo; hindrance",
+                "s": "Es sin embargo cierto. (It is nonetheless true.)"
+            },
+            {
+                "id": "es-0862",
+                "w": "interesante",
+                "p": "inteɾeˈsante",
+                "d": "interesting",
+                "s": "Es interesante. (It's interesting.)"
+            },
+            {
+                "id": "es-0863",
+                "w": "tendrás",
+                "p": "tenˈdɾas",
+                "d": "you will have (tener)",
+                "s": "No tendrás valor. (You won't have the guts.)"
+            },
+            {
+                "id": "es-0864",
+                "w": "escuchar",
+                "p": "eskuˈt͡ʃaɾ",
+                "d": "to listen",
+                "s": "Hazte escuchar. (Make yourself heard.)"
+            },
+            {
+                "id": "es-0865",
+                "w": "abuela",
+                "p": "aˈbwela",
+                "d": "grandmother",
+                "s": "Mary es abuela. (Mary is a grandmother.)"
+            },
+            {
+                "id": "es-0866",
+                "w": "hicieron",
+                "p": "iˈθjeɾon",
+                "d": "they did; they made (hacer)",
+                "s": "Lo hicieron. (They did it.)"
+            },
+            {
+                "id": "es-0867",
+                "w": "detective",
+                "p": "deteɡˈtibe",
+                "d": "detective",
+                "s": "Soy detective. (I'm a detective.)"
+            },
+            {
+                "id": "es-0868",
+                "w": "horrible",
+                "p": "oˈrible",
+                "d": "horrible",
+                "s": "¡Fue horrible! (It was awful.)"
+            },
+            {
+                "id": "es-0869",
+                "w": "suelo",
+                "p": "ˈswelo",
+                "d": "floor; ground; soil",
+                "s": "¡Al suelo! (Get down!)"
+            },
+            {
+                "id": "es-0870",
+                "w": "fotos",
+                "p": "fotos",
+                "d": "photos",
+                "s": "Tenemos fotos. (We have pictures.)"
+            },
+            {
+                "id": "es-0871",
+                "w": "cárcel",
+                "p": "ˈkaɾθel",
+                "d": "prison; jail",
+                "s": "Estoy en la cárcel. (I'm in jail.)"
+            },
+            {
+                "id": "es-0872",
+                "w": "acá",
+                "p": "aˈka",
+                "d": "here",
+                "s": "Ven p'acá. (Come over here.)"
+            },
+            {
+                "id": "es-0873",
+                "w": "siéntate",
+                "p": "ˈsjentate",
+                "d": "sit down",
+                "s": "No, siéntate. (No, sit down.)"
+            },
+            {
+                "id": "es-0874",
+                "w": "decía",
+                "p": "deˈθia",
+                "d": "said; was saying (imperfect of decir)",
+                "s": "Yo decía que sí. (I said yes.)"
+            },
+            {
+                "id": "es-0875",
+                "w": "intentando",
+                "p": "intentando",
+                "d": "trying (gerund of intentar)",
+                "s": "Siga intentando. (Keep on trying.)"
+            },
+            {
+                "id": "es-0876",
+                "w": "vámonos",
+                "p": "ˈbamonos",
+                "d": "let's go (ir + nos)",
+                "s": "Pues vámonos. (Well, let's go.)"
+            },
+            {
+                "id": "es-0877",
+                "w": "maldición",
+                "p": "maldiˈθjon",
+                "d": "curse",
+                "s": "Es una maldición. (It's a curse.)"
+            },
+            {
+                "id": "es-0878",
+                "w": "silencio",
+                "p": "siˈlenθjo",
+                "d": "silence",
+                "s": "¡Qué silencio! (How peaceful!)"
+            },
+            {
+                "id": "es-0879",
+                "w": "muerta",
+                "p": "muerta",
+                "d": "dead (feminine)",
+                "s": "Está muerta. (She is dead.)"
+            },
+            {
+                "id": "es-0880",
+                "w": "capaz",
+                "p": "kaˈpaθ",
+                "d": "capable",
+                "s": "Tom es muy capaz. (Tom is very capable.)"
+            },
+            {
+                "id": "es-0881",
+                "w": "salió",
+                "p": "salió",
+                "d": "left; went out (salir)",
+                "s": "Ella salió. (She went out.)"
+            },
+            {
+                "id": "es-0882",
+                "w": "club",
+                "p": "ˈklub",
+                "d": "club",
+                "s": "Bienvenido al club. (Welcome to the club.)"
+            },
+            {
+                "id": "es-0883",
+                "w": "terminar",
+                "p": "teɾmiˈnaɾ",
+                "d": "to finish; to end",
+                "s": "Déjame terminar. (Let me finish.)"
+            },
+            {
+                "id": "es-0884",
+                "w": "temo",
+                "p": "ˈtemo",
+                "d": "I fear (temer)",
+                "s": "No temo nada. (I fear nothing.)"
+            },
+            {
+                "id": "es-0885",
+                "w": "broma",
+                "p": "ˈbɾoma",
+                "d": "joke",
+                "s": "¡Es broma! (Just kidding!)"
+            },
+            {
+                "id": "es-0886",
+                "w": "gobierno",
+                "p": "ɡoˈbjeɾno",
+                "d": "government",
+                "s": "¡Abajo el gobierno! (Down with the Government!)"
+            },
+            {
+                "id": "es-0887",
+                "w": "prometo",
+                "p": "prometo",
+                "d": "I promise (prometer)",
+                "s": "¡Lo prometo! (I promise!)"
+            },
+            {
+                "id": "es-0888",
+                "w": "cámara",
+                "p": "ˈkamaɾa",
+                "d": "camera; chamber",
+                "s": "Deja mi cámara. (Leave my camera alone.)"
+            },
+            {
+                "id": "es-0889",
+                "w": "media",
+                "p": "ˈmedja",
+                "d": "half; average; stocking",
+                "s": "Tengo media hora. (I've got half an hour.)"
+            },
+            {
+                "id": "es-0890",
+                "w": "terrible",
+                "p": "teˈrible",
+                "d": "terrible; awful",
+                "s": "Es terrible. (It's terrible.)"
+            },
+            {
+                "id": "es-0891",
+                "w": "llamó",
+                "p": "ʝaˈmo",
+                "d": "called (llamar)",
+                "s": "Tom llamó. (Tom called.)"
+            },
+            {
+                "id": "es-0892",
+                "w": "regalo",
+                "p": "reˈɡalo",
+                "d": "gift; present",
+                "s": "Era un regalo. (It was a gift.)"
+            },
+            {
+                "id": "es-0893",
+                "w": "amable",
+                "p": "aˈmable",
+                "d": "kind",
+                "s": "Sé amable. (Be kind.)"
+            },
+            {
+                "id": "es-0894",
+                "w": "dulce",
+                "p": "ˈdulθe",
+                "d": "sweet",
+                "s": "¿Es dulce? (Is that sweet?)"
+            },
+            {
+                "id": "es-0895",
+                "w": "muertos",
+                "p": "ˈmweɾtos",
+                "d": "dead (plural)",
+                "s": "Están muertos. (They're dead.)"
+            },
+            {
+                "id": "es-0896",
+                "w": "querías",
+                "p": "querías",
+                "d": "you wanted (querer)",
+                "s": "¿Me querías? (Did you love me?)"
+            },
+            {
+                "id": "es-0897",
+                "w": "ataque",
+                "p": "aˈtake",
+                "d": "attack",
+                "s": "¡Al ataque! (Attack!)"
+            },
+            {
+                "id": "es-0898",
+                "w": "das",
+                "p": "ˈdas",
+                "d": "you give (dar)",
+                "s": "Me das asco. (You disgust me.)"
+            },
+            {
+                "id": "es-0899",
+                "w": "navidad",
+                "p": "navidad",
+                "d": "Christmas",
+                "s": "Es navidad. (It's Christmas.)"
+            },
+            {
+                "id": "es-0900",
+                "w": "negocios",
+                "p": "neˈɡoθjos",
+                "d": "business; businesses",
+                "s": "Son negocios. (It's business.)"
+            },
+            {
+                "id": "es-0901",
+                "w": "pudiera",
+                "p": "pudiera",
+                "d": "could (subjunctive of poder)",
+                "s": "Ojalá pudiera. (I wish I could.)"
+            },
+            {
+                "id": "es-0902",
+                "w": "ocho",
+                "p": "ˈot͡ʃo",
+                "d": "eight",
+                "s": "Son las ocho. (It's eight o'clock.)"
+            },
+            {
+                "id": "es-0903",
+                "w": "avión",
+                "p": "aˈbjon",
+                "d": "plane; airplane",
+                "s": "Vi un avión. (I saw a plane.)"
+            },
+            {
+                "id": "es-0904",
+                "w": "investigación",
+                "p": "imbestiɡaˈθjon",
+                "d": "investigation; research",
+                "s": "¿Cómo va la investigación? (How is the investigation going?)"
+            },
+            {
+                "id": "es-0905",
+                "w": "acabó",
+                "p": "akaˈbo",
+                "d": "finished; ended (acabar)",
+                "s": "Ya se acabó. (It's all over.)"
+            },
+            {
+                "id": "es-0906",
+                "w": "juro",
+                "p": "ˈxuɾo",
+                "d": "I swear (jurar)",
+                "s": "Te lo juro, John. (I swear, John.)"
+            },
+            {
+                "id": "es-0907",
+                "w": "mantener",
+                "p": "manteˈneɾ",
+                "d": "to keep; to maintain",
+                "s": "Debe mantener su promesa. (You have to keep your promise.)"
+            },
+            {
+                "id": "es-0908",
+                "w": "ejército",
+                "p": "eˈxeɾθito",
+                "d": "army",
+                "s": "El ejército llegó. (The army arrived.)"
+            },
+            {
+                "id": "es-0909",
+                "w": "papel",
+                "p": "paˈpel",
+                "d": "paper; role",
+                "s": "Quiero papel. (I want paper.)"
+            },
+            {
+                "id": "es-0910",
+                "w": "partes",
+                "p": "ˈpaɾtes",
+                "d": "parts",
+                "s": "Va a todas partes. (He gets around a lot.)"
+            },
+            {
+                "id": "es-0911",
+                "w": "ten",
+                "p": "ˈten",
+                "d": "have! (imperative of tener)",
+                "s": "¡Tom, ten cuidado! (Tom, be careful!)"
+            },
+            {
+                "id": "es-0912",
+                "w": "gracioso",
+                "p": "ɡɾaˈθjoso",
+                "d": "funny; amusing",
+                "s": "¡Qué gracioso! (That's funny!)"
+            },
+            {
+                "id": "es-0913",
+                "w": "diría",
+                "p": "diˈɾia",
+                "d": "would say (decir)",
+                "s": "Nadie lo diría. (No one would say it.)"
+            },
+            {
+                "id": "es-0914",
+                "w": "principio",
+                "p": "pɾinˈθipjo",
+                "d": "beginning; principle",
+                "s": "Sólo es el principio. (It's only the beginning.)"
+            },
+            {
+                "id": "es-0915",
+                "w": "delante",
+                "p": "deˈlante",
+                "d": "in front",
+                "s": "Ve por delante. (Go on ahead.)"
+            },
+            {
+                "id": "es-0916",
+                "w": "teniente",
+                "p": "teˈnjente",
+                "d": "lieutenant",
+                "s": "Estás teniente."
+            },
+            {
+                "id": "es-0917",
+                "w": "deseo",
+                "p": "deˈseo",
+                "d": "wish; desire",
+                "s": "Yo te deseo. (I want you.)"
+            },
+            {
+                "id": "es-0918",
+                "w": "vayas",
+                "p": "ˈbaʝas",
+                "d": "go (subjunctive of ir)",
+                "s": "No te vayas. (Don't go.)"
+            },
+            {
+                "id": "es-0919",
+                "w": "nave",
+                "p": "ˈnabe",
+                "d": "ship; spacecraft",
+                "s": "La nave zarpó. (The ship set sail.)"
+            },
+            {
+                "id": "es-0920",
+                "w": "sale",
+                "p": "ˈsale",
+                "d": "leaves; goes out (salir)",
+                "s": "El sol sale. (The sun rises.)"
+            },
+            {
+                "id": "es-0921",
+                "w": "basura",
+                "p": "baˈsuɾa",
+                "d": "trash; garbage",
+                "s": "¡Es basura! (It's rubbish!)"
+            },
+            {
+                "id": "es-0922",
+                "w": "vine",
+                "p": "ˈbine",
+                "d": "I came (venir)",
+                "s": "Por eso vine. (That's why I came.)"
+            },
+            {
+                "id": "es-0923",
+                "w": "contacto",
+                "p": "konˈtaɡto",
+                "d": "contact",
+                "s": "Estaré en contacto. (I'll keep in touch.)"
+            },
+            {
+                "id": "es-0924",
+                "w": "esposo",
+                "p": "esˈposo",
+                "d": "husband",
+                "s": "Agarra tu esposo. (Hold onto your husband.)"
+            },
+            {
+                "id": "es-0925",
+                "w": "tren",
+                "p": "ˈtɾen",
+                "d": "train",
+                "s": "¿Irás en tren? (Will you go by train?)"
+            },
+            {
+                "id": "es-0926",
+                "w": "encontramos",
+                "p": "enkonˈtɾamos",
+                "d": "we found; we find (encontrar)",
+                "s": "Los encontramos. (We found them.)"
+            },
+            {
+                "id": "es-0927",
+                "w": "dale",
+                "p": "ˈdale",
+                "d": "give him; hit it (dar + le)",
+                "s": "Solo dale un minuto. (Just give it a minute.)"
+            },
+            {
+                "id": "es-0928",
+                "w": "verdadero",
+                "p": "beɾdaˈdeɾo",
+                "d": "true; real",
+                "s": "Es mi verdadero amor. (He's my true love.)"
+            },
+            {
+                "id": "es-0929",
+                "w": "tuya",
+                "p": "ˈtuʝa",
+                "d": "yours; your (feminine)",
+                "s": "Esta es tuya. (This one's yours.)"
+            },
+            {
+                "id": "es-0930",
+                "w": "alma",
+                "p": "ˈalma",
+                "d": "soul",
+                "s": "¿Él tiene alma? (Does he have a soul?)"
+            },
+            {
+                "id": "es-0931",
+                "w": "hazlo",
+                "p": "ˈaθlo",
+                "d": "do it (hacer + lo)",
+                "s": "Vamos, hazlo. (Come on, do it.)"
+            },
+            {
+                "id": "es-0932",
+                "w": "disculpa",
+                "p": "disˈkulpa",
+                "d": "apology; excuse",
+                "s": "Quiero una disculpa. (I want an apology.)"
+            },
+            {
+                "id": "es-0933",
+                "w": "junto",
+                "p": "ˈxunto",
+                "d": "together; joined",
+                "s": "Camino junto a ella. (I'm walking beside her.)"
+            },
+            {
+                "id": "es-0934",
+                "w": "anda",
+                "p": "ˈanda",
+                "d": "walk!; come on (andar)",
+                "s": "Ella anda. (She walks.)"
+            },
+            {
+                "id": "es-0935",
+                "w": "tendré",
+                "p": "tenˈdɾe",
+                "d": "I will have (tener)",
+                "s": "No tendré miedo. (I will not be afraid.)"
+            },
+            {
+                "id": "es-0936",
+                "w": "matrimonio",
+                "p": "matɾiˈmonjo",
+                "d": "marriage",
+                "s": "¿Te propuso matrimonio? (Did he propose marriage to you?)"
+            },
+            {
+                "id": "es-0937",
+                "w": "saberlo",
+                "p": "saberlo",
+                "d": "to know it",
+                "s": "Deben saberlo. (They must know it.)"
+            },
+            {
+                "id": "es-0938",
+                "w": "locura",
+                "p": "loˈkuɾa",
+                "d": "madness",
+                "s": "Es una locura. (That's crazy.)"
+            },
+            {
+                "id": "es-0939",
+                "w": "oro",
+                "p": "ˈoɾo",
+                "d": "gold",
+                "s": "Vales oro. (You're worth gold.)"
+            },
+            {
+                "id": "es-0940",
+                "w": "permiso",
+                "p": "peɾˈmiso",
+                "d": "permission; permit",
+                "s": "Con permiso. (Excuse me.)"
+            },
+            {
+                "id": "es-0941",
+                "w": "director",
+                "p": "diɾeɡˈtoɾ",
+                "d": "director; manager",
+                "s": "Hablo con el director. (I'm speaking with the principal.)"
+            },
+            {
+                "id": "es-0942",
+                "w": "peligro",
+                "p": "peˈliɡɾo",
+                "d": "danger",
+                "s": "No hay peligro. (There's no danger.)"
+            },
+            {
+                "id": "es-0943",
+                "w": "libertad",
+                "p": "libeɾˈta",
+                "d": "freedom; liberty",
+                "s": "Habla de libertad. (He speaks of liberty.)"
+            },
+            {
+                "id": "es-0944",
+                "w": "alegro",
+                "p": "aˈleɡɾo",
+                "d": "I am glad (alegrar)",
+                "s": "Me alegro por ti. (I'm happy for you.)"
+            },
+            {
+                "id": "es-0945",
+                "w": "baja",
+                "p": "ˈbaxa",
+                "d": "low; short (feminine)",
+                "s": "Eres baja. (You are short.)"
+            },
+            {
+                "id": "es-0946",
+                "w": "tendremos",
+                "p": "tenˈdɾemos",
+                "d": "we will have (tener)",
+                "s": "Lo tendremos en cuenta. (We'll take that into consideration.)"
+            },
+            {
+                "id": "es-0947",
+                "w": "derecha",
+                "p": "deˈɾet͡ʃa",
+                "d": "right (side)",
+                "s": "Gire a la derecha. (Turn right.)"
+            },
+            {
+                "id": "es-0948",
+                "w": "encuentra",
+                "p": "encuentra",
+                "d": "finds (encontrar)",
+                "s": "¿Se encuentra bien? (Is he right?)"
+            },
+            {
+                "id": "es-0949",
+                "w": "pies",
+                "p": "ˈpjes",
+                "d": "feet",
+                "s": "Lávate los pies. (Wash your feet.)"
+            },
+            {
+                "id": "es-0950",
+                "w": "segunda",
+                "p": "seˈɡunda",
+                "d": "second (feminine)",
+                "s": "Es de segunda mano. (It's second-hand.)"
+            },
+            {
+                "id": "es-0951",
+                "w": "maravilloso",
+                "p": "maɾabiˈʝoso",
+                "d": "wonderful; marvelous",
+                "s": "Es maravilloso. (It's marvellous.)"
+            },
+            {
+                "id": "es-0952",
+                "w": "espacio",
+                "p": "esˈpaθjo",
+                "d": "space",
+                "s": "Danos espacio. (Give us some space.)"
+            },
+            {
+                "id": "es-0953",
+                "w": "rato",
+                "p": "ˈrato",
+                "d": "while; moment",
+                "s": "Esperé un rato. (I waited a while.)"
+            },
+            {
+                "id": "es-0954",
+                "w": "abuelo",
+                "p": "aˈbwelo",
+                "d": "grandfather",
+                "s": "Hola, abuelo. (Hello, Grandfather.)"
+            },
+            {
+                "id": "es-0955",
+                "w": "esperaba",
+                "p": "esperaba",
+                "d": "waited; was waiting; hoped (esperar)",
+                "s": "Os esperaba. (I was waiting for you.)"
+            },
+            {
+                "id": "es-0956",
+                "w": "mirando",
+                "p": "miˈɾando",
+                "d": "looking (gerund of mirar)",
+                "s": "¿Está mirando? (Is he looking?)"
+            },
+            {
+                "id": "es-0957",
+                "w": "salud",
+                "p": "saˈlud",
+                "d": "health",
+                "s": "¡A tu salud! (To your health!)"
+            },
+            {
+                "id": "es-0958",
+                "w": "sorpresa",
+                "p": "soɾˈpɾesa",
+                "d": "surprise",
+                "s": "¡Qué sorpresa! (What a surprise!)"
+            },
+            {
+                "id": "es-0959",
+                "w": "ninguno",
+                "p": "ninˈɡuno",
+                "d": "none; no",
+                "s": "No hay ninguno. (There's no one.)"
+            },
+            {
+                "id": "es-0960",
+                "w": "miren",
+                "p": "miren",
+                "d": "look (imperative/subjunctive of mirar)",
+                "s": "¡No miren! (Don't look!)"
+            },
+            {
+                "id": "es-0961",
+                "w": "triste",
+                "p": "ˈtɾiste",
+                "d": "sad",
+                "s": "Es triste. (It's sad.)"
+            },
+            {
+                "id": "es-0962",
+                "w": "aun",
+                "p": "aˈun",
+                "d": "even",
+                "s": "Tom no ha vuelto aun. (Tom has not come back yet.)"
+            },
+            {
+                "id": "es-0963",
+                "w": "pensado",
+                "p": "penˈsado",
+                "d": "thought (past participle of pensar)",
+                "s": "¡Bien pensado! (Good thinking!)"
+            },
+            {
+                "id": "es-0964",
+                "w": "maestro",
+                "p": "maˈestɾo",
+                "d": "teacher; master",
+                "s": "Soy maestro. (I'm a teacher.)"
+            },
+            {
+                "id": "es-0965",
+                "w": "según",
+                "p": "seˈɡun",
+                "d": "according to",
+                "s": "Todo va según el plan. (Everything is going according to plan.)"
+            },
+            {
+                "id": "es-0966",
+                "w": "infierno",
+                "p": "inˈfjeɾno",
+                "d": "hell",
+                "s": "¡Vete al infierno! (Go to hell!)"
+            },
+            {
+                "id": "es-0967",
+                "w": "podrían",
+                "p": "podrían",
+                "d": "they could (poder)",
+                "s": "Tom y Mary podrían terminar. (Tom and Mary might break up.)"
+            },
+            {
+                "id": "es-0968",
+                "w": "tipos",
+                "p": "tipos",
+                "d": "types; guys",
+                "s": "¿Cuántos tipos hay? (How many kinds are there?)"
+            },
+            {
+                "id": "es-0969",
+                "w": "tía",
+                "p": "ˈtia",
+                "d": "aunt",
+                "s": "Es tu tía, ¿no? (She's your aunt, isn't she?)"
+            },
+            {
+                "id": "es-0970",
+                "w": "crimen",
+                "p": "ˈkɾimen",
+                "d": "crime",
+                "s": "El crimen no paga. (Crime doesn't pay.)"
+            },
+            {
+                "id": "es-0971",
+                "w": "conocido",
+                "p": "konoˈθido",
+                "d": "known; well-known",
+                "s": "¿Ya lo has conocido? (Have you met him already?)"
+            },
+            {
+                "id": "es-0972",
+                "w": "consejo",
+                "p": "konˈsexo",
+                "d": "advice; counsel",
+                "s": "Dale un consejo. (Give him a piece of advice.)"
+            },
+            {
+                "id": "es-0973",
+                "w": "ante",
+                "p": "ˈante",
+                "d": "before; in front of",
+                "s": "Se inclinó ante mí. (He bowed before me.)"
+            },
+            {
+                "id": "es-0974",
+                "w": "iglesia",
+                "p": "iˈɡlesja",
+                "d": "church",
+                "s": "Veo una iglesia. (I see a church.)"
+            },
+            {
+                "id": "es-0975",
+                "w": "intento",
+                "p": "inˈtento",
+                "d": "attempt",
+                "s": "Lo intento. (I try.)"
+            },
+            {
+                "id": "es-0976",
+                "w": "mayoría",
+                "p": "maʝoˈɾia",
+                "d": "majority",
+                "s": "Tom no es como la mayoría. (Tom isn't conventional.)"
+            },
+            {
+                "id": "es-0977",
+                "w": "doy",
+                "p": "ˈdoi",
+                "d": "I give (dar)",
+                "s": "Se lo doy. (I'm giving it to him.)"
+            },
+            {
+                "id": "es-0978",
+                "w": "hicimos",
+                "p": "iˈθimos",
+                "d": "we did; we made (hacer)",
+                "s": "Lo hicimos. (We made it.)"
+            },
+            {
+                "id": "es-0979",
+                "w": "escena",
+                "p": "esˈθena",
+                "d": "scene",
+                "s": "No hagas una escena. (Don't make a scene.)"
+            },
+            {
+                "id": "es-0980",
+                "w": "piso",
+                "p": "ˈpiso",
+                "d": "floor; apartment",
+                "s": "Buscas piso. (You're looking for an apartment.)"
+            },
+            {
+                "id": "es-0981",
+                "w": "señal",
+                "p": "seˈɲal",
+                "d": "sign; signal",
+                "s": "No hay señal. (No signal.)"
+            },
+            {
+                "id": "es-0982",
+                "w": "honor",
+                "p": "oˈnoɾ",
+                "d": "honor",
+                "s": "Fue un honor. (It was an honor.)"
+            },
+            {
+                "id": "es-0983",
+                "w": "llamas",
+                "p": "ˈʝamas",
+                "d": "you call (llamar)",
+                "s": "¿Te llamas Tom? (Is your name Tom?)"
+            },
+            {
+                "id": "es-0984",
+                "w": "abre",
+                "p": "ˈabɾe",
+                "d": "opens (abrir)",
+                "s": "¿Cuándo abre? (When does it open?)"
+            },
+            {
+                "id": "es-0985",
+                "w": "cerebro",
+                "p": "θeˈɾebɾo",
+                "d": "brain",
+                "s": "Me duele el cerebro. (My brain hurts.)"
+            },
+            {
+                "id": "es-0986",
+                "w": "veras",
+                "p": "ˈbeɾas",
+                "d": "truth; reality (as in \"de veras\")",
+                "s": "Ahora va de veras. (Now it's the real thing.)"
+            },
+            {
+                "id": "es-0987",
+                "w": "viendo",
+                "p": "ˈbjendo",
+                "d": "seeing (gerund of ver)",
+                "s": "Te estoy viendo. (I'm watching you.)"
+            },
+            {
+                "id": "es-0988",
+                "w": "pone",
+                "p": "pone",
+                "d": "puts (poner)",
+                "s": "Se pone peor. (It gets worse.)"
+            },
+            {
+                "id": "es-0989",
+                "w": "pregunto",
+                "p": "pregunto",
+                "d": "I ask (preguntar)",
+                "s": "Solo pregunto. (I'm just asking.)"
+            },
+            {
+                "id": "es-0990",
+                "w": "cocina",
+                "p": "koˈθina",
+                "d": "kitchen; cooking",
+                "s": "Ziri cocina. (Ziri cooks.)"
+            },
+            {
+                "id": "es-0991",
+                "w": "vestido",
+                "p": "besˈtido",
+                "d": "dress",
+                "s": "Lindo vestido. (Nice dress.)"
+            },
+            {
+                "id": "es-0992",
+                "w": "inteligente",
+                "p": "inteliˈxente/ [ĩn̪.t̪e.liˈxẽn̪.t̪e",
+                "d": "intelligent; smart",
+                "s": "Es inteligente. (He's smart.)"
+            },
+            {
+                "id": "es-0993",
+                "w": "vieja",
+                "p": "ˈbjexa",
+                "d": "old (feminine)",
+                "s": "Estás vieja. (You're old.)"
+            },
+            {
+                "id": "es-0994",
+                "w": "caballo",
+                "p": "kaˈbaʝo",
+                "d": "horse",
+                "s": "Es mi caballo. (It's my horse.)"
+            },
+            {
+                "id": "es-0995",
+                "w": "vienen",
+                "p": "vienen",
+                "d": "they come (venir)",
+                "s": "Aquí vienen. (Here they come.)"
+            },
+            {
+                "id": "es-0996",
+                "w": "vidas",
+                "p": "ˈbidas",
+                "d": "lives",
+                "s": "Tengo nueve vidas. (I have nine lives.)"
+            },
+            {
+                "id": "es-0997",
+                "w": "bar",
+                "p": "ˈbaɾ",
+                "d": "bar",
+                "s": "Voy al bar. (I'm going to the bar.)"
+            },
+            {
+                "id": "es-0998",
+                "w": "corte",
+                "p": "ˈkoɾte",
+                "d": "cut; court",
+                "s": "¿Mal corte de pelo? (Bad haircut?)"
+            },
+            {
+                "id": "es-0999",
+                "w": "sucedió",
+                "p": "sucedió",
+                "d": "happened (suceder)",
+                "s": "Eso sucedió. (It happened.)"
+            },
+            {
+                "id": "es-1000",
+                "w": "adentro",
+                "p": "aˈdentɾo",
+                "d": "inside",
+                "s": "Ve adentro. (Go on inside.)"
+            },
+            {
+                "id": "es-1001",
+                "w": "drogas",
+                "p": "ˈdɾoɡas",
+                "d": "drugs",
+                "s": "No tomo drogas. (I'm not on drugs.)"
+            },
+            {
+                "id": "es-1002",
+                "w": "enseguida",
+                "p": "enseˈɡida",
+                "d": "immediately; right away",
+                "s": "Voy enseguida. (Be right there.)"
+            },
+            {
+                "id": "es-1003",
+                "w": "busca",
+                "p": "ˈbuska",
+                "d": "looks for; searches (buscar)",
+                "s": "¿Qué busca? (What's he looking for?)"
+            },
+            {
+                "id": "es-1004",
+                "w": "agradable",
+                "p": "aɡɾaˈdable",
+                "d": "pleasant; nice",
+                "s": "Es agradable. (It's nice.)"
+            },
+            {
+                "id": "es-1005",
+                "w": "carne",
+                "p": "ˈkaɾne",
+                "d": "meat; flesh",
+                "s": "Añade carne. (Add meat.)"
+            },
+            {
+                "id": "es-1006",
+                "w": "parecía",
+                "p": "parecía",
+                "d": "seemed; looked like (parecer)",
+                "s": "Él parecía joven. (He appeared young.)"
+            },
+            {
+                "id": "es-1007",
+                "w": "departamento",
+                "p": "depaɾtaˈmento",
+                "d": "apartment; department",
+                "s": "Vivo en un departamento. (I live in a flat.)"
+            },
+            {
+                "id": "es-1008",
+                "w": "lindo",
+                "p": "ˈlindo",
+                "d": "pretty; cute",
+                "s": "¡Qué lindo! (Pretty!)"
+            },
+            {
+                "id": "es-1009",
+                "w": "mar",
+                "p": "ˈmaɾ",
+                "d": "sea",
+                "s": "El mar es azul. (The sea is blue.)"
+            },
+            {
+                "id": "es-1010",
+                "w": "duda",
+                "p": "ˈduda",
+                "d": "doubt",
+                "s": "¡Sin duda! (Certainly!)"
+            },
+            {
+                "id": "es-1011",
+                "w": "edificio",
+                "p": "ediˈfiθjo",
+                "d": "building",
+                "s": "¿Ese edificio gris? (That gray building?)"
+            },
+            {
+                "id": "es-1012",
+                "w": "conocer",
+                "p": "konoˈθeɾ",
+                "d": "to know; to meet",
+                "s": "Quiero conocer a Tom. (I want to meet Tom.)"
+            },
+            {
+                "id": "es-1013",
+                "w": "cargo",
+                "p": "ˈkaɾɡo",
+                "d": "position; charge; burden",
+                "s": "Estás a cargo. (You're in charge.)"
+            },
+            {
+                "id": "es-1014",
+                "w": "víctima",
+                "p": "ˈbiɡtima",
+                "d": "victim",
+                "s": "La víctima fui yo. (I was the victim.)"
+            },
+            {
+                "id": "es-1015",
+                "w": "luna",
+                "p": "ˈluna",
+                "d": "moon",
+                "s": "Se ve la luna. (The moon is out.)"
+            },
+            {
+                "id": "es-1016",
+                "w": "energía",
+                "p": "eneɾˈxia",
+                "d": "energy",
+                "s": "Usa energía solar. (It uses solar power.)"
+            },
+            {
+                "id": "es-1017",
+                "w": "frío",
+                "p": "ˈfɾio",
+                "d": "cold",
+                "s": "Hace frío. (It's cold.)"
+            },
+            {
+                "id": "es-1018",
+                "w": "hablo",
+                "p": "ˈablo",
+                "d": "I speak (hablar)",
+                "s": "Te hablo a ti. (I talk to you.)"
+            },
+            {
+                "id": "es-1019",
+                "w": "baile",
+                "p": "ˈbaile",
+                "d": "dance",
+                "s": "Fui solo al baile. (I went stag to the prom.)"
+            },
+            {
+                "id": "es-1020",
+                "w": "trabaja",
+                "p": "trabaja",
+                "d": "works (trabajar)",
+                "s": "¿Él trabaja? (Does he work?)"
+            },
+            {
+                "id": "es-1021",
+                "w": "misión",
+                "p": "miˈsjon",
+                "d": "mission",
+                "s": "Esta es mi misión. (This is my mission.)"
+            },
+            {
+                "id": "es-1022",
+                "w": "listos",
+                "p": "listos",
+                "d": "ready (plural)",
+                "s": "Son listos. (You're smart.)"
+            },
+            {
+                "id": "es-1023",
+                "w": "ayudarte",
+                "p": "ayudarte",
+                "d": "to help you",
+                "s": "Puedo ayudarte. (I can help you.)"
+            },
+            {
+                "id": "es-1024",
+                "w": "izquierda",
+                "p": "iθˈkjeɾda",
+                "d": "left (side)",
+                "s": "Gira a la izquierda. (Turn to the left.)"
+            },
+            {
+                "id": "es-1025",
+                "w": "beber",
+                "p": "beˈbeɾ",
+                "d": "to drink",
+                "s": "¿Para beber? (What to drink?)"
+            },
+            {
+                "id": "es-1026",
+                "w": "deje",
+                "p": "ˈdexe",
+                "d": "leave; let (subjunctive of dejar)",
+                "s": "No nos deje. (Don't leave us.)"
+            },
+            {
+                "id": "es-1027",
+                "w": "finalmente",
+                "p": "fiˌnalˈmente",
+                "d": "finally; in the end",
+                "s": "Yo finalmente gané. (I finally won.)"
+            },
+            {
+                "id": "es-1028",
+                "w": "simple",
+                "p": "ˈsimple",
+                "d": "simple",
+                "s": "Es simple. (It's simple.)"
+            },
+            {
+                "id": "es-1029",
+                "w": "daré",
+                "p": "daˈɾe",
+                "d": "I will give (dar)",
+                "s": "Te lo daré. (I'll give it to you.)"
+            },
+            {
+                "id": "es-1030",
+                "w": "sabías",
+                "p": "sabías",
+                "d": "you knew (saber)",
+                "s": "¡Lo sabías! (You knew!)"
+            },
+            {
+                "id": "es-1031",
+                "w": "puedas",
+                "p": "ˈpwedas",
+                "d": "can (subjunctive of poder)",
+                "s": "Haz lo que puedas. (You do what you can.)"
+            },
+            {
+                "id": "es-1032",
+                "w": "puso",
+                "p": "ˈpuso",
+                "d": "put; placed (preterite of poner)",
+                "s": "Se puso verde. (It turned green.)"
+            },
+            {
+                "id": "es-1033",
+                "w": "creía",
+                "p": "creía",
+                "d": "believed; thought (creer)",
+                "s": "Nadie la creía. (No one believed her.)"
+            },
+            {
+                "id": "es-1034",
+                "w": "regresar",
+                "p": "reɡɾeˈsaɾ",
+                "d": "to return; to come back",
+                "s": "Debo regresar. (I must go back.)"
+            },
+            {
+                "id": "es-1035",
+                "w": "llega",
+                "p": "llega",
+                "d": "arrives (llegar)",
+                "s": "¿Cuándo llega? (When does it arrive?)"
+            },
+            {
+                "id": "es-1036",
+                "w": "entender",
+                "p": "entenˈdeɾ",
+                "d": "to understand",
+                "s": "Van a entender. (They'll understand.)"
+            },
+            {
+                "id": "es-1037",
+                "w": "mirar",
+                "p": "miˈɾaɾ",
+                "d": "to look; to watch",
+                "s": "Puedes mirar. (You may look.)"
+            },
+            {
+                "id": "es-1038",
+                "w": "sacar",
+                "p": "saˈkaɾ",
+                "d": "to take out; to get",
+                "s": "Voy a sacar dinero. (I am going to take out money.)"
+            },
+            {
+                "id": "es-1039",
+                "w": "cambiado",
+                "p": "kamˈbjado",
+                "d": "changed",
+                "s": "Ha cambiado. (He has changed.)"
+            },
+            {
+                "id": "es-1040",
+                "w": "trae",
+                "p": "trae",
+                "d": "brings (traer)",
+                "s": "¿Qué se trae él? (What is he up to?)"
+            },
+            {
+                "id": "es-1041",
+                "w": "hermoso",
+                "p": "eɾˈmoso",
+                "d": "beautiful; handsome",
+                "s": "Es hermoso. (It's beautiful.)"
+            },
+            {
+                "id": "es-1042",
+                "w": "opinión",
+                "p": "opiˈnjon",
+                "d": "opinion",
+                "s": "Dame tu opinión. (Give me your opinion.)"
+            },
+            {
+                "id": "es-1043",
+                "w": "verás",
+                "p": "beˈɾas",
+                "d": "you will see (ver)",
+                "s": "¡Hazlo y verás! (Do it! I dare you!)"
+            },
+            {
+                "id": "es-1044",
+                "w": "linda",
+                "p": "linda",
+                "d": "pretty; cute (feminine)",
+                "s": "¿Soy linda? (Am I pretty?)"
+            },
+            {
+                "id": "es-1045",
+                "w": "apenas",
+                "p": "aˈpenas",
+                "d": "barely; hardly",
+                "s": "Ella apenas comió. (She hardly ate anything.)"
+            },
+            {
+                "id": "es-1046",
+                "w": "segundos",
+                "p": "seˈɡundos",
+                "d": "seconds",
+                "s": "Tienes tres segundos. (You have three seconds.)"
+            },
+            {
+                "id": "es-1047",
+                "w": "cerveza",
+                "p": "θeɾˈbeθa",
+                "d": "beer",
+                "s": "Tengo cerveza. (I've got beer.)"
+            },
+            {
+                "id": "es-1048",
+                "w": "harás",
+                "p": "aˈɾas",
+                "d": "you will do; you will make (hacer)",
+                "s": "¿Lo harás? (Will you do it?)"
+            },
+            {
+                "id": "es-1049",
+                "w": "estuviera",
+                "p": "estuˈbjeɾa",
+                "d": "were (subjunctive of estar)",
+                "s": "Ojalá estuviera aquí. (I wish he were here.)"
+            },
+            {
+                "id": "es-1050",
+                "w": "creen",
+                "p": "ˈkɾeen",
+                "d": "they believe; they think (creer)",
+                "s": "No me creen. (They don't believe me.)"
+            },
+            {
+                "id": "es-1051",
+                "w": "oír",
+                "p": "oˈiɾ",
+                "d": "to hear",
+                "s": "Hazte oír. (Make yourself heard.)"
+            },
+            {
+                "id": "es-1052",
+                "w": "tendría",
+                "p": "tenˈdɾia",
+                "d": "would have (tener)",
+                "s": "Él tendría que rendirse. (He would have to surrender.)"
+            },
+            {
+                "id": "es-1053",
+                "w": "cuántos",
+                "p": "ˈkwantos",
+                "d": "how many",
+                "s": "¿Para cuántos días? (For how many days?)"
+            },
+            {
+                "id": "es-1054",
+                "w": "hablado",
+                "p": "aˈblado",
+                "d": "spoken (past participle of hablar)",
+                "s": "¿Tomás ha hablado? (Has Tom spoken?)"
+            },
+            {
+                "id": "es-1055",
+                "w": "hablamos",
+                "p": "aˈblamos",
+                "d": "we speak; we spoke (hablar)",
+                "s": "Nunca hablamos. (We never talk.)"
+            },
+            {
+                "id": "es-1056",
+                "w": "reina",
+                "p": "ˈreina",
+                "d": "queen",
+                "s": "Siiii reina! (Yaas queen!)"
+            },
+            {
+                "id": "es-1057",
+                "w": "temprano",
+                "p": "temˈpɾano",
+                "d": "early",
+                "s": "Es temprano. (It's early.)"
+            },
+            {
+                "id": "es-1058",
+                "w": "tema",
+                "p": "ˈtema",
+                "d": "topic; theme",
+                "s": "¡Cíñete al tema! (Stick to the subject.)"
+            },
+            {
+                "id": "es-1059",
+                "w": "prisión",
+                "p": "pɾiˈsjon",
+                "d": "prison",
+                "s": "Él está en prisión. (He's in prison.)"
+            },
+            {
+                "id": "es-1060",
+                "w": "porqué",
+                "p": "poɾˈke",
+                "d": "reason; why",
+                "s": "Entiendo el porqué. (I understand why.)"
+            },
+            {
+                "id": "es-1061",
+                "w": "vuelva",
+                "p": "ˈbwelba",
+                "d": "return (subjunctive of volver)",
+                "s": "Quizá vuelva. (He may return.)"
+            },
+            {
+                "id": "es-1062",
+                "w": "público",
+                "p": "ˈpubliko",
+                "d": "public; audience",
+                "s": "El público lo sabe. (The public knows that.)"
+            },
+            {
+                "id": "es-1063",
+                "w": "ocurrió",
+                "p": "ocurrió",
+                "d": "happened (ocurrir)",
+                "s": "¿Qué ocurrió? (What happened?)"
+            },
+            {
+                "id": "es-1064",
+                "w": "veré",
+                "p": "beˈɾe",
+                "d": "I will see (ver)",
+                "s": "Lo veré hoy. (I'll see him today.)"
+            },
+            {
+                "id": "es-1065",
+                "w": "salvar",
+                "p": "salˈbaɾ",
+                "d": "to save; to rescue",
+                "s": "Quería salvar a Tom. (I wanted to save Tom.)"
+            },
+            {
+                "id": "es-1066",
+                "w": "partido",
+                "p": "paɾˈtido",
+                "d": "game; match; political party",
+                "s": "Gané el partido. (I won the game.)"
+            },
+            {
+                "id": "es-1067",
+                "w": "bonita",
+                "p": "bonita",
+                "d": "pretty; nice (feminine)",
+                "s": "No es bonita. (She is not beautiful.)"
+            },
+            {
+                "id": "es-1068",
+                "w": "joder",
+                "p": "xoˈdeɾ",
+                "d": "fuck; damn",
+                "s": "¡Dejá de joder! (Stop bullying me!)"
+            },
+            {
+                "id": "es-1069",
+                "w": "causa",
+                "p": "ˈkausa",
+                "d": "cause",
+                "s": "¿Qué lo causa? (What causes it?)"
+            },
+            {
+                "id": "es-1070",
+                "w": "caliente",
+                "p": "kaˈljente",
+                "d": "hot; warm",
+                "s": "Está caliente. (It's hot.)"
+            },
+            {
+                "id": "es-1071",
+                "w": "sargento",
+                "p": "saɾˈxento",
+                "d": "sergeant",
+                "s": "Él ascendió al rango de sargento. (He rose to the rank of sergeant.)"
+            },
+            {
+                "id": "es-1072",
+                "w": "cenar",
+                "p": "θeˈnaɾ",
+                "d": "to have dinner",
+                "s": "Voy a cenar. (I'll have dinner.)"
+            },
+            {
+                "id": "es-1073",
+                "w": "compañero",
+                "p": "kompaˈɲeɾo",
+                "d": "companion; partner; colleague",
+                "s": "No tengo un compañero. (I don't have a partner.)"
+            },
+            {
+                "id": "es-1074",
+                "w": "llevó",
+                "p": "ʝeˈbo",
+                "d": "carried; took; wore (preterite of llevar)",
+                "s": "Te las llevó. (He brought you them.)"
+            },
+            {
+                "id": "es-1075",
+                "w": "banco",
+                "p": "ˈbanko",
+                "d": "bank; bench",
+                "s": "Voy al banco. (I'm going to the bank.)"
+            },
+            {
+                "id": "es-1076",
+                "w": "existe",
+                "p": "eɡˈsiste",
+                "d": "exists (existir)",
+                "s": "No existe. (It doesn't exist.)"
+            },
+            {
+                "id": "es-1077",
+                "w": "zona",
+                "p": "ˈθona",
+                "d": "zone; area",
+                "s": "Él me mostró la zona. (He showed me around.)"
+            },
+            {
+                "id": "es-1078",
+                "w": "destino",
+                "p": "desˈtino",
+                "d": "destiny; destination",
+                "s": "Es mi destino. (This is my fate.)"
+            },
+            {
+                "id": "es-1079",
+                "w": "base",
+                "p": "ˈbase",
+                "d": "base",
+                "s": "Todo empieza desde la base. (Everything starts from a basis.)"
+            },
+            {
+                "id": "es-1080",
+                "w": "solía",
+                "p": "soˈlia",
+                "d": "used to (soler)",
+                "s": "Él solía beber. (He used to drink.)"
+            },
+            {
+                "id": "es-1081",
+                "w": "cliente",
+                "p": "ˈkljente",
+                "d": "client; customer",
+                "s": "Soy un cliente. (I'm a client.)"
+            },
+            {
+                "id": "es-1082",
+                "w": "irse",
+                "p": "ˈiɾse",
+                "d": "to leave; to go away",
+                "s": "Pueden irse. (You may go.)"
+            },
+            {
+                "id": "es-1083",
+                "w": "perra",
+                "p": "ˈpera",
+                "d": "bitch; female dog",
+                "s": "Esa perra saltó. (That dog jumped.)"
+            },
+            {
+                "id": "es-1084",
+                "w": "encuentro",
+                "p": "enˈkwentɾo",
+                "d": "encounter; meeting",
+                "s": "Ya los encuentro. (I've found them.)"
+            },
+            {
+                "id": "es-1085",
+                "w": "encontró",
+                "p": "encontró",
+                "d": "found (preterite of encontrar)",
+                "s": "Él lo encontró. (He found it.)"
+            },
+            {
+                "id": "es-1086",
+                "w": "pelea",
+                "p": "peˈlea",
+                "d": "fight",
+                "s": "Vi una pelea. (I saw a fight.)"
+            },
+            {
+                "id": "es-1087",
+                "w": "san",
+                "p": "ˈsan",
+                "d": "Saint (before a name)",
+                "s": "Nosotros le llamamos Goro-san. (We call him Goro-san.)"
+            },
+            {
+                "id": "es-1088",
+                "w": "norte",
+                "p": "ˈnoɾte",
+                "d": "north",
+                "s": "Vivo en el norte. (I live upstate.)"
+            },
+            {
+                "id": "es-1089",
+                "w": "quise",
+                "p": "ˈkise",
+                "d": "I wanted (preterite of querer)",
+                "s": "Yo te quise. (I loved you.)"
+            },
+            {
+                "id": "es-1090",
+                "w": "coronel",
+                "p": "koɾoˈnel",
+                "d": "colonel",
+                "s": "Fue ascendido a coronel hace dos años. (He was promoted to colonel two years ago.)"
+            },
+            {
+                "id": "es-1091",
+                "w": "apuesto",
+                "p": "aˈpwesto",
+                "d": "I bet (apostar)",
+                "s": "¿Soy apuesto o no? (Am I handsome or not?)"
+            },
+            {
+                "id": "es-1092",
+                "w": "peligroso",
+                "p": "peliˈɡɾoso",
+                "d": "dangerous",
+                "s": "Es peligroso. (It's dangerous!)"
+            },
+            {
+                "id": "es-1093",
+                "w": "viva",
+                "p": "ˈbiba",
+                "d": "long live!; hurray",
+                "s": "¡Está viva! (She's alive!)"
+            },
+            {
+                "id": "es-1094",
+                "w": "vienes",
+                "p": "ˈbjenes",
+                "d": "you come (venir)",
+                "s": "¿Te vienes? (Are you coming?)"
+            },
+            {
+                "id": "es-1095",
+                "w": "necesitan",
+                "p": "necesitan",
+                "d": "they need (necesitar)",
+                "s": "Lo necesitan. (They need it.)"
+            },
+            {
+                "id": "es-1096",
+                "w": "té",
+                "p": "ˈte",
+                "d": "tea",
+                "s": "¿Bebes té? (Do you drink tea?)"
+            },
+            {
+                "id": "es-1097",
+                "w": "excepto",
+                "p": "e(ɡ)ˈθebto",
+                "d": "except",
+                "s": "Todos vinieron excepto él. (Everyone came except him.)"
+            },
+            {
+                "id": "es-1098",
+                "w": "juicio",
+                "p": "ˈxwiθjo",
+                "d": "trial; judgment",
+                "s": "Hubo un juicio. (There was a trial.)"
+            },
+            {
+                "id": "es-1099",
+                "w": "podamos",
+                "p": "poˈdamos",
+                "d": "can (subjunctive of poder)",
+                "s": "Quizá podamos. (Maybe we can.)"
+            },
+            {
+                "id": "es-1100",
+                "w": "llave",
+                "p": "ˈʝabe",
+                "d": "key",
+                "s": "Usa la llave. (Unlock.)"
+            },
+            {
+                "id": "es-1101",
+                "w": "equivocado",
+                "p": "ekiboˈkado",
+                "d": "mistaken; wrong",
+                "s": "Estás equivocado. (You're wrong.)"
+            },
+            {
+                "id": "es-1102",
+                "w": "posición",
+                "p": "posiˈθjon",
+                "d": "position",
+                "s": "Mantén tu posición. (Hold your position.)"
+            },
+            {
+                "id": "es-1103",
+                "w": "trasero",
+                "p": "tɾaˈseɾo",
+                "d": "butt; rear",
+                "s": "¡Te patearé el trasero! (I'll kick your butt!)"
+            },
+            {
+                "id": "es-1104",
+                "w": "irnos",
+                "p": "ˈiɾnos",
+                "d": "to leave; to go away",
+                "s": "Debemos irnos. (We must go.)"
+            },
+            {
+                "id": "es-1105",
+                "w": "espalda",
+                "p": "esˈpalda",
+                "d": "back (body part)",
+                "s": "Cubre mi espalda. (Watch my back.)"
+            },
+            {
+                "id": "es-1106",
+                "w": "excelente",
+                "p": "eɡsθeˈlente",
+                "d": "excellent",
+                "s": "Eso sería excelente. (That would be outstanding.)"
+            },
+            {
+                "id": "es-1107",
+                "w": "éxito",
+                "p": "ˈeɡsito",
+                "d": "success; hit",
+                "s": "¡Mucho éxito! (Good luck!)"
+            },
+            {
+                "id": "es-1108",
+                "w": "modos",
+                "p": "modos",
+                "d": "ways; manners",
+                "s": "De todos modos. (Anyway.)"
+            },
+            {
+                "id": "es-1109",
+                "w": "ventana",
+                "p": "benˈtana",
+                "d": "window",
+                "s": "Abre la ventana. (Open the window.)"
+            },
+            {
+                "id": "es-1110",
+                "w": "veamos",
+                "p": "beˈamos",
+                "d": "let's see (ver)",
+                "s": "Esperemos y veamos. (Let's wait and see.)"
+            },
+            {
+                "id": "es-1111",
+                "w": "especie",
+                "p": "esˈpeθje",
+                "d": "species; kind",
+                "s": "Es una especie de naranja. (It's a kind of orange.)"
+            },
+            {
+                "id": "es-1112",
+                "w": "teníamos",
+                "p": "teˈniamos",
+                "d": "we had (tener)",
+                "s": "No teníamos esa opción. (We didn't have that option.)"
+            },
+            {
+                "id": "es-1113",
+                "w": "diferencia",
+                "p": "difeˈɾenθja",
+                "d": "difference",
+                "s": "Sé la diferencia. (I know the difference.)"
+            },
+            {
+                "id": "es-1114",
+                "w": "formas",
+                "p": "ˈfoɾmas",
+                "d": "forms; ways",
+                "s": "De todas formas. (Anyway.)"
+            },
+            {
+                "id": "es-1115",
+                "w": "pedir",
+                "p": "peˈdiɾ",
+                "d": "to ask for; to request",
+                "s": "No sé qué pedir. (I don't know what to order.)"
+            },
+            {
+                "id": "es-1116",
+                "w": "últimos",
+                "p": "ˈultimos",
+                "d": "last; final (plural)",
+                "s": "Llegamos los últimos. (We were the last ones to arrive.)"
+            },
+            {
+                "id": "es-1117",
+                "w": "escúchame",
+                "p": "esˈkut͡ʃame",
+                "d": "listen to me",
+                "s": "Oye, escúchame. (Hey, listen to me.)"
+            },
+            {
+                "id": "es-1118",
+                "w": "ejemplo",
+                "p": "eˈxemplo",
+                "d": "example",
+                "s": "Dame un ejemplo. (Give me an example.)"
+            },
+            {
+                "id": "es-1119",
+                "w": "ése",
+                "p": "ˈese",
+                "d": "that one",
+                "s": "¿Es mío ése? (Is that mine?)"
+            },
+            {
+                "id": "es-1120",
+                "w": "radio",
+                "p": "ˈradjo",
+                "d": "radio",
+                "s": "Apaga la radio. (Turn off the radio.)"
+            },
+            {
+                "id": "es-1121",
+                "w": "lee",
+                "p": "ˈlee",
+                "d": "reads (leer)",
+                "s": "Se lee bien. (It reads well.)"
+            },
+            {
+                "id": "es-1122",
+                "w": "calma",
+                "p": "ˈkalma",
+                "d": "calm; calmness",
+                "s": "Mantén la calma. (Stay calm.)"
+            },
+            {
+                "id": "es-1123",
+                "w": "hogar",
+                "p": "oˈɡaɾ",
+                "d": "home; household",
+                "s": "¿Tienes hogar? (Do you have a house?)"
+            },
+            {
+                "id": "es-1124",
+                "w": "volveré",
+                "p": "bolbeˈɾe",
+                "d": "I will return (volver)",
+                "s": "Nunca más volveré. (I'll never come back.)"
+            },
+            {
+                "id": "es-1125",
+                "w": "fondo",
+                "p": "ˈfondo",
+                "d": "bottom; background",
+                "s": "¡Hasta el fondo! (Bottoms up!)"
+            },
+            {
+                "id": "es-1126",
+                "w": "humano",
+                "p": "uˈmano",
+                "d": "human",
+                "s": "Soy humano. (I'm a human.)"
+            },
+            {
+                "id": "es-1127",
+                "w": "tí",
+                "p": "tí",
+                "d": "you (after a preposition)",
+                "s": "Pagaré por tí. (I'll pay for you.)"
+            },
+            {
+                "id": "es-1128",
+                "w": "iremos",
+                "p": "iˈɾemos",
+                "d": "we will go (ir)",
+                "s": "¿Cómo iremos? (How will we go?)"
+            },
+            {
+                "id": "es-1129",
+                "w": "unidos",
+                "p": "uˈnidos",
+                "d": "united; joined",
+                "s": "Estábamos muy unidos. (We were really tight.)"
+            },
+            {
+                "id": "es-1130",
+                "w": "habían",
+                "p": "aˈbian",
+                "d": "they had (haber)",
+                "s": "Ya me lo habían dicho. (They already told me.)"
+            },
+            {
+                "id": "es-1131",
+                "w": "planeta",
+                "p": "plaˈneta",
+                "d": "planet",
+                "s": "Venus es planeta. (Venus is a planet.)"
+            },
+            {
+                "id": "es-1132",
+                "w": "verme",
+                "p": "ˈbeɾme",
+                "d": "to see me",
+                "s": "Ven a verme. (Come see me.)"
+            },
+            {
+                "id": "es-1133",
+                "w": "respecto",
+                "p": "resˈpeɡto",
+                "d": "respect; regard",
+                "s": "Piensa al respecto. (Think about it.)"
+            },
+            {
+                "id": "es-1134",
+                "w": "regreso",
+                "p": "reˈɡɾeso",
+                "d": "return",
+                "s": "Voy de regreso. (I'm going back.)"
+            },
+            {
+                "id": "es-1135",
+                "w": "debido",
+                "p": "deˈbido",
+                "d": "due; owed",
+                "s": "Esto es debido a ti. (This is because of you.)"
+            },
+            {
+                "id": "es-1136",
+                "w": "seré",
+                "p": "seˈɾe",
+                "d": "I will be (ser)",
+                "s": "Yo seré amado. (I will be loved.)"
+            },
+            {
+                "id": "es-1137",
+                "w": "tenían",
+                "p": "teˈnian",
+                "d": "they had (tener)",
+                "s": "No tenían frio. (They weren't cold.)"
+            },
+            {
+                "id": "es-1138",
+                "w": "leer",
+                "p": "leˈeɾ",
+                "d": "to read",
+                "s": "Odio leer. (I hate reading.)"
+            },
+            {
+                "id": "es-1139",
+                "w": "parar",
+                "p": "paˈɾaɾ",
+                "d": "to stop",
+                "s": "No pude parar. (I couldn't stop.)"
+            },
+            {
+                "id": "es-1140",
+                "w": "lleno",
+                "p": "ˈʝeno",
+                "d": "full",
+                "s": "Está lleno. (It's full.)"
+            },
+            {
+                "id": "es-1141",
+                "w": "dejé",
+                "p": "dejé",
+                "d": "I left (dejar)",
+                "s": "Yo no lo dejé. (I didn't quit.)"
+            },
+            {
+                "id": "es-1142",
+                "w": "respeto",
+                "p": "resˈpeto",
+                "d": "respect",
+                "s": "Yo te respeto. (I respect you.)"
+            },
+            {
+                "id": "es-1143",
+                "w": "debajo",
+                "p": "deˈbaxo",
+                "d": "under; underneath",
+                "s": "Estoy debajo del árbol. (I'm under the tree.)"
+            },
+            {
+                "id": "es-1144",
+                "w": "escribir",
+                "p": "eskɾiˈbiɾ",
+                "d": "to write",
+                "s": "Debo escribir. (I must write.)"
+            },
+            {
+                "id": "es-1145",
+                "w": "estación",
+                "p": "estaˈθjon",
+                "d": "station; season",
+                "s": "Fui a la estación. (I went to the station.)"
+            },
+            {
+                "id": "es-1146",
+                "w": "pidió",
+                "p": "pidió",
+                "d": "asked for; requested (pedir)",
+                "s": "Tom pidió más. (Tom asked for more.)"
+            },
+            {
+                "id": "es-1147",
+                "w": "alta",
+                "p": "ˈalta",
+                "d": "high; tall (feminine)",
+                "s": "María es alta. (Mary is tall.)"
+            },
+            {
+                "id": "es-1148",
+                "w": "pista",
+                "p": "ˈpista",
+                "d": "track; clue",
+                "s": "Dame una pista. (Give me a tip.)"
+            },
+            {
+                "id": "es-1149",
+                "w": "estrella",
+                "p": "esˈtɾeʝa",
+                "d": "star",
+                "s": "Veo una estrella. (I see a star.)"
+            },
+            {
+                "id": "es-1150",
+                "w": "enfermo",
+                "p": "enˈfeɾmo",
+                "d": "sick; ill",
+                "s": "Estoy enfermo. (I'm ill.)"
+            },
+            {
+                "id": "es-1151",
+                "w": "duele",
+                "p": "ˈdwele",
+                "d": "hurts (doler)",
+                "s": "Sí, duele. (Yes, it hurts.)"
+            },
+            {
+                "id": "es-1152",
+                "w": "sueños",
+                "p": "ˈsweɲos",
+                "d": "dreams",
+                "s": "¡Ni en sueños! (In your dreams!)"
+            },
+            {
+                "id": "es-1153",
+                "w": "veremos",
+                "p": "beˈɾemos",
+                "d": "we will see (ver)",
+                "s": "Ya veremos. (We'll see.)"
+            },
+            {
+                "id": "es-1154",
+                "w": "miles",
+                "p": "ˈmiles",
+                "d": "thousands",
+                "s": "Él sacudió miles de manos. (He shook thousands of hands.)"
+            },
+            {
+                "id": "es-1155",
+                "w": "darme",
+                "p": "ˈdaɾme",
+                "d": "to give me",
+                "s": "¿Debo darme prisa? (Must I hurry?)"
+            },
+            {
+                "id": "es-1156",
+                "w": "órdenes",
+                "p": "ˈoɾdenes",
+                "d": "orders",
+                "s": "Seguía órdenes. (He was acting on orders.)"
+            },
+            {
+                "id": "es-1157",
+                "w": "ocupado",
+                "p": "okuˈpado",
+                "d": "busy; occupied",
+                "s": "Está ocupado. (It's occupied.)"
+            },
+            {
+                "id": "es-1158",
+                "w": "sigues",
+                "p": "ˈsiɡes",
+                "d": "you continue; you follow (seguir)",
+                "s": "¿Me sigues? (Do you follow?)"
+            },
+            {
+                "id": "es-1159",
+                "w": "corre",
+                "p": "ˈkore",
+                "d": "runs (correr)",
+                "s": "Ella corre. (She runs.)"
+            },
+            {
+                "id": "es-1160",
+                "w": "podido",
+                "p": "poˈdido",
+                "d": "been able (past participle of poder)",
+                "s": "No he podido verlo. (I was not able to see him.)"
+            },
+            {
+                "id": "es-1161",
+                "w": "dejes",
+                "p": "dejes",
+                "d": "leave (subjunctive of dejar)",
+                "s": "No me dejes. (Don't leave me.)"
+            },
+            {
+                "id": "es-1162",
+                "w": "nivel",
+                "p": "niˈbel",
+                "d": "level",
+                "s": "Bienvenido al nivel 3. (Welcome to Level Three.)"
+            },
+            {
+                "id": "es-1163",
+                "w": "habéis",
+                "p": "aˈbeis",
+                "d": "you have (Spain plural)",
+                "s": "¿Lo habéis oído? (Did you hear it?)"
+            },
+            {
+                "id": "es-1164",
+                "w": "experiencia",
+                "p": "eɡspeˈɾjenθja",
+                "d": "experience",
+                "s": "¡Qué experiencia! (What an experience!)"
+            },
+            {
+                "id": "es-1165",
+                "w": "darte",
+                "p": "ˈdaɾte",
+                "d": "to give you",
+                "s": "Voy a darte algo. (I'm going to give you something.)"
+            },
+            {
+                "id": "es-1166",
+                "w": "salida",
+                "p": "saˈlida",
+                "d": "exit; departure",
+                "s": "No hay salida. (There's no exit.)"
+            },
+            {
+                "id": "es-1167",
+                "w": "decirlo",
+                "p": "decirlo",
+                "d": "to say it",
+                "s": "Déjame decirlo. (Let me tell it!)"
+            },
+            {
+                "id": "es-1168",
+                "w": "confiar",
+                "p": "konˈfjaɾ",
+                "d": "to trust",
+                "s": "Puedo confiar en él. (I can trust him.)"
+            },
+            {
+                "id": "es-1169",
+                "w": "hacerte",
+                "p": "hacerte",
+                "d": "to do to you; to make you",
+                "s": "Podrías hacerte daño. (You could hurt yourself.)"
+            },
+            {
+                "id": "es-1170",
+                "w": "necesitaba",
+                "p": "necesitaba",
+                "d": "needed (necesitar)",
+                "s": "Te necesitaba. (I needed you.)"
+            },
+            {
+                "id": "es-1171",
+                "w": "hermanos",
+                "p": "hermanos",
+                "d": "brothers; siblings",
+                "s": "¿Son hermanos? (Are you brothers?)"
+            },
+            {
+                "id": "es-1172",
+                "w": "zapatos",
+                "p": "zapatos",
+                "d": "shoes",
+                "s": "Vendo zapatos. (I sell shoes.)"
+            },
+            {
+                "id": "es-1173",
+                "w": "color",
+                "p": "koˈloɾ",
+                "d": "color",
+                "s": "¡Es tu color! (It's your color!)"
+            },
+            {
+                "id": "es-1174",
+                "w": "vistazo",
+                "p": "bisˈtaθo",
+                "d": "glance; look",
+                "s": "Da un vistazo. (Have a look.)"
+            },
+            {
+                "id": "es-1175",
+                "w": "nena",
+                "p": "ˈnena",
+                "d": "girl; baby (feminine)",
+                "s": "Ven acá, nena. (Come here, kid.)"
+            },
+            {
+                "id": "es-1176",
+                "w": "tratar",
+                "p": "tɾaˈtaɾ",
+                "d": "to try; to treat",
+                "s": "¡Tienes que tratar! (You have to try!)"
+            },
+            {
+                "id": "es-1177",
+                "w": "parecer",
+                "p": "paɾeˈθeɾ",
+                "d": "to seem; to appear",
+                "s": "Puede parecer raro. (It may seem odd.)"
+            },
+            {
+                "id": "es-1178",
+                "w": "juez",
+                "p": "ˈxweθ",
+                "d": "judge",
+                "s": "El juez es injusto. (The judge is unfair.)"
+            },
+            {
+                "id": "es-1179",
+                "w": "próximo",
+                "p": "ˈpɾoɡsimo",
+                "d": "next; near",
+                "s": "¡Este es el próximo! (This is the next one!)"
+            },
+            {
+                "id": "es-1180",
+                "w": "paciente",
+                "p": "paˈθjente",
+                "d": "patient",
+                "s": "Sea paciente. (Be patient.)"
+            },
+            {
+                "id": "es-1181",
+                "w": "hayas",
+                "p": "ˈaʝas",
+                "d": "have (subjunctive of haber)",
+                "s": "Quizás hayas oído de eso. (You may have heard of that.)"
+            },
+            {
+                "id": "es-1182",
+                "w": "bolsa",
+                "p": "ˈbolsa",
+                "d": "bag; stock market",
+                "s": "Dame mi bolsa. (Give me my bag.)"
+            },
+            {
+                "id": "es-1183",
+                "w": "arte",
+                "p": "ˈaɾte",
+                "d": "art",
+                "s": "¿Es esto arte? (Is this art?)"
+            },
+            {
+                "id": "es-1184",
+                "w": "jugando",
+                "p": "xuˈɡando",
+                "d": "playing (gerund of jugar)",
+                "s": "Estaba jugando. (I was playing.)"
+            },
+            {
+                "id": "es-1185",
+                "w": "llevas",
+                "p": "llevas",
+                "d": "you carry; you take; you wear (llevar)",
+                "s": "¿Me llevas? (Can you give me a ride?)"
+            },
+            {
+                "id": "es-1186",
+                "w": "alegra",
+                "p": "alegra",
+                "d": "gladdens; makes happy (alegrar)",
+                "s": "Me alegra verla. (I am glad to see her.)"
+            },
+            {
+                "id": "es-1187",
+                "w": "bailar",
+                "p": "baiˈlaɾ",
+                "d": "to dance",
+                "s": "Sé bailar. (I can dance.)"
+            },
+            {
+                "id": "es-1188",
+                "w": "diablo",
+                "p": "ˈdjablo",
+                "d": "devil",
+                "s": "Soy el diablo. (I'm the devil.)"
+            },
+            {
+                "id": "es-1189",
+                "w": "oí",
+                "p": "oˈi",
+                "d": "I heard (oír)",
+                "s": "Lo oí todo. (I heard every word.)"
+            },
+            {
+                "id": "es-1190",
+                "w": "sepa",
+                "p": "ˈsepa",
+                "d": "know (subjunctive of saber)",
+                "s": "No que yo sepa. (Not that I know of.)"
+            },
+            {
+                "id": "es-1191",
+                "w": "estarás",
+                "p": "estaˈɾas",
+                "d": "you will be (estar)",
+                "s": "¿Dónde estarás? (Where will you be?)"
+            },
+            {
+                "id": "es-1192",
+                "w": "sur",
+                "p": "ˈsuɾ",
+                "d": "south",
+                "s": "Ve al sur. (Head south.)"
+            },
+            {
+                "id": "es-1193",
+                "w": "banda",
+                "p": "ˈbanda",
+                "d": "band; gang",
+                "s": "Toco en una banda. (I play in a band.)"
+            },
+            {
+                "id": "es-1194",
+                "w": "aprender",
+                "p": "apɾenˈdeɾ",
+                "d": "to learn",
+                "s": "Adoro aprender. (I love learning.)"
+            },
+            {
+                "id": "es-1195",
+                "w": "precio",
+                "p": "ˈpɾeθjo",
+                "d": "price",
+                "s": "Mira el precio. (Look at the price.)"
+            },
+            {
+                "id": "es-1196",
+                "w": "completo",
+                "p": "komˈpleto",
+                "d": "complete; full",
+                "s": "Soy un completo idiota. (I'm a complete idiot.)"
+            },
+            {
+                "id": "es-1197",
+                "w": "santo",
+                "p": "ˈsanto",
+                "d": "holy; saint",
+                "s": "No soy un santo. (I'm no saint.)"
+            },
+            {
+                "id": "es-1198",
+                "w": "culpable",
+                "p": "kulˈpable",
+                "d": "guilty",
+                "s": "Soy culpable. (I'm guilty.)"
+            },
+            {
+                "id": "es-1199",
+                "w": "ganas",
+                "p": "ˈɡanas",
+                "d": "desire; urge",
+                "s": "¿Cuánto ganas? (How much do you earn?)"
+            },
+            {
+                "id": "es-1200",
+                "w": "tuvimos",
+                "p": "tuˈbimos",
+                "d": "we had (tener)",
+                "s": "No tuvimos éxito. (We were unsuccessful.)"
+            },
+            {
+                "id": "es-1201",
+                "w": "verla",
+                "p": "ˈbeɾla",
+                "d": "to see her; to see it",
+                "s": "Espero verla. (I hope that I'll see her.)"
+            },
+            {
+                "id": "es-1202",
+                "w": "volvió",
+                "p": "volvió",
+                "d": "returned (volver)",
+                "s": "Yanni volvió. (Yanni returned.)"
+            },
+            {
+                "id": "es-1203",
+                "w": "libros",
+                "p": "libros",
+                "d": "books",
+                "s": "Leo libros. (I read books.)"
+            },
+            {
+                "id": "es-1204",
+                "w": "ojo",
+                "p": "ˈoxo",
+                "d": "eye",
+                "s": "Ojo por ojo. (An eye for an eye.)"
+            },
+            {
+                "id": "es-1205",
+                "w": "serán",
+                "p": "seˈɾan",
+                "d": "they will be (ser)",
+                "s": "Solo serán tres días. (It's only for three days.)"
+            },
+            {
+                "id": "es-1206",
+                "w": "cielos",
+                "p": "ˈθjelos",
+                "d": "heavens!",
+                "s": "El águila vuela por los cielos. (The eagle flies through the sky.)"
+            },
+            {
+                "id": "es-1207",
+                "w": "matado",
+                "p": "maˈtado",
+                "d": "killed (past participle of matar)",
+                "s": "Me han matado. (They killed me.)"
+            },
+            {
+                "id": "es-1208",
+                "w": "azul",
+                "p": "aˈθul",
+                "d": "blue",
+                "s": "Uno es azul. (One is blue.)"
+            },
+            {
+                "id": "es-1209",
+                "w": "diferentes",
+                "p": "difeˈɾentes",
+                "d": "different (plural)",
+                "s": "Son diferentes. (They're different.)"
+            },
+            {
+                "id": "es-1210",
+                "w": "irte",
+                "p": "ˈiɾte",
+                "d": "to leave; to go",
+                "s": "Podés irte. (You may go.)"
+            },
+            {
+                "id": "es-1211",
+                "w": "comandante",
+                "p": "komanˈdante",
+                "d": "commander",
+                "s": "Él es el comandante Joki. (He is Commander Joki.)"
+            },
+            {
+                "id": "es-1212",
+                "w": "acción",
+                "p": "aɡˈθjon",
+                "d": "action",
+                "s": "Es un hombre de acción. (He is a man of action.)"
+            },
+            {
+                "id": "es-1213",
+                "w": "reglas",
+                "p": "reglas",
+                "d": "rules",
+                "s": "Hay reglas. (There are rules.)"
+            },
+            {
+                "id": "es-1214",
+                "w": "obra",
+                "p": "ˈobɾa",
+                "d": "work; play",
+                "s": "Dimos fin a la obra. (We finished the work.)"
+            },
+            {
+                "id": "es-1215",
+                "w": "esperanza",
+                "p": "espeˈɾanθa",
+                "d": "hope",
+                "s": "Tiene esperanza. (She has hope.)"
+            },
+            {
+                "id": "es-1216",
+                "w": "cuestión",
+                "p": "kwesˈtjon",
+                "d": "question; matter",
+                "s": "Es cuestión de gustos. (It's a question of taste.)"
+            },
+            {
+                "id": "es-1217",
+                "w": "molesta",
+                "p": "moˈlesta",
+                "d": "bothers; annoys (molestar)",
+                "s": "Me molesta. (It just bugs me.)"
+            },
+            {
+                "id": "es-1218",
+                "w": "teniendo",
+                "p": "teˈnjendo",
+                "d": "having (gerund of tener)",
+                "s": "Estoy teniendo dificultades. (I'm having difficulties.)"
+            },
+            {
+                "id": "es-1219",
+                "w": "informe",
+                "p": "inˈfoɾme",
+                "d": "report",
+                "s": "Escribe un informe. (Write a report.)"
+            },
+            {
+                "id": "es-1220",
+                "w": "río",
+                "p": "ˈrio",
+                "d": "river",
+                "s": "Nunca río. (I never laugh.)"
+            },
+            {
+                "id": "es-1221",
+                "w": "bienvenido",
+                "p": "bjembeˈnido",
+                "d": "welcome",
+                "s": "Fui bienvenido. (I was welcomed.)"
+            },
+            {
+                "id": "es-1222",
+                "w": "abrir",
+                "p": "aˈbɾiɾ",
+                "d": "to open",
+                "s": "¿Puede abrir esto? (Can you open this?)"
+            },
+            {
+                "id": "es-1223",
+                "w": "tocar",
+                "p": "toˈkaɾ",
+                "d": "to touch; to play (music)",
+                "s": "¿Qué vas a tocar? (What are you going to play?)"
+            },
+            {
+                "id": "es-1224",
+                "w": "contar",
+                "p": "konˈtaɾ",
+                "d": "to count; to tell",
+                "s": "Empieza a contar. (Start counting.)"
+            },
+            {
+                "id": "es-1225",
+                "w": "sigo",
+                "p": "ˈsiɡo",
+                "d": "I continue; I follow (seguir)",
+                "s": "Ahora sigo yo. (My turn comes next.)"
+            },
+            {
+                "id": "es-1226",
+                "w": "interior",
+                "p": "inteˈɾjoɾ",
+                "d": "inner; interior",
+                "s": "No llevo ropa interior. (I'm not wearing any underwear.)"
+            },
+            {
+                "id": "es-1227",
+                "w": "apartamento",
+                "p": "apaɾtaˈmento",
+                "d": "apartment",
+                "s": "Vivo en un apartamento. (I live in an apartment.)"
+            },
+            {
+                "id": "es-1228",
+                "w": "vea",
+                "p": "ˈbea",
+                "d": "see (subjunctive of ver)",
+                "s": "No creo que lo vea. (I probably won't watch this.)"
+            },
+            {
+                "id": "es-1229",
+                "w": "estados",
+                "p": "esˈtados",
+                "d": "states",
+                "s": "Los estados buenos no existen. (Good states don't exist.)"
+            },
+            {
+                "id": "es-1230",
+                "w": "estáis",
+                "p": "esˈtais",
+                "d": "you are (Spain plural)",
+                "s": "¿Cómo estáis? (How do you do?)"
+            },
+            {
+                "id": "es-1231",
+                "w": "preocupa",
+                "p": "preocupa",
+                "d": "worries (preocupar)",
+                "s": "Te preocupa. (It concerns you.)"
+            },
+            {
+                "id": "es-1232",
+                "w": "tomó",
+                "p": "tomó",
+                "d": "took; drank (preterite of tomar)",
+                "s": "Tom lo tomó. (Tom took it.)"
+            },
+            {
+                "id": "es-1233",
+                "w": "principal",
+                "p": "pɾinθiˈpal",
+                "d": "main; principal",
+                "s": "Eso es lo principal. (That's the main thing.)"
+            },
+            {
+                "id": "es-1234",
+                "w": "empieza",
+                "p": "emˈpjeθa",
+                "d": "starts; begins (empezar)",
+                "s": "Tú empieza. (You start.)"
+            },
+            {
+                "id": "es-1235",
+                "w": "empezó",
+                "p": "empezó",
+                "d": "started; began (preterite of empezar)",
+                "s": "Ya empezó. (It's started already.)"
+            },
+            {
+                "id": "es-1236",
+                "w": "vayan",
+                "p": "ˈbaʝan",
+                "d": "go (subjunctive of ir)",
+                "s": "Quizá vayan. (They may go.)"
+            },
+            {
+                "id": "es-1237",
+                "w": "llaman",
+                "p": "ˈʝaman",
+                "d": "they call (llamar)",
+                "s": "Me llaman. (They're calling me.)"
+            },
+            {
+                "id": "es-1238",
+                "w": "ojalá",
+                "p": "oxaˈla",
+                "d": "hopefully; I wish",
+                "s": "Ojalá no existiera la palabra \"ojalá\". (If only the term \"if only\" didn't exist.)"
+            },
+            {
+                "id": "es-1239",
+                "w": "perdona",
+                "p": "perdona",
+                "d": "forgive!; excuse (perdonar)",
+                "s": "Tom te perdona. (Tom forgives you.)"
+            },
+            {
+                "id": "es-1240",
+                "w": "vuelvo",
+                "p": "ˈbwelbo",
+                "d": "I return (volver)",
+                "s": "Ya vuelvo. (I'll be right back.)"
+            },
+            {
+                "id": "es-1241",
+                "w": "golpe",
+                "p": "ˈɡolpe",
+                "d": "hit; blow",
+                "s": "Tuve un golpe. (I had a stroke.)"
+            },
+            {
+                "id": "es-1242",
+                "w": "quedarme",
+                "p": "quedarme",
+                "d": "to stay; to remain",
+                "s": "Puedo quedarme. (I can stay.)"
+            },
+            {
+                "id": "es-1243",
+                "w": "llamaré",
+                "p": "ʝamaˈɾe",
+                "d": "I will call (llamar)",
+                "s": "Te llamaré. (I'll call you.)"
+            },
+            {
+                "id": "es-1244",
+                "w": "acabado",
+                "p": "akaˈbado",
+                "d": "finished; worn out",
+                "s": "Estás acabado. (You're through.)"
+            },
+            {
+                "id": "es-1245",
+                "w": "estilo",
+                "p": "esˈtilo",
+                "d": "style",
+                "s": "No es mi estilo. (It's not my style.)"
+            },
+            {
+                "id": "es-1246",
+                "w": "nueve",
+                "p": "ˈnwebe",
+                "d": "nine",
+                "s": "Son las nueve. (It's nine o'clock.)"
+            },
+            {
+                "id": "es-1247",
+                "w": "definitivamente",
+                "p": "definiˌtibaˈmente",
+                "d": "definitely",
+                "s": "Él definitivamente no vendrá. (He's definitely not coming.)"
+            },
+            {
+                "id": "es-1248",
+                "w": "quedar",
+                "p": "keˈdaɾ",
+                "d": "to stay; to remain; to be left",
+                "s": "¿Me puedo quedar? (Can I stay?)"
+            },
+            {
+                "id": "es-1249",
+                "w": "cartas",
+                "p": "cartas",
+                "d": "letters",
+                "s": "¿Saco las cartas? (Should I take out the letters?)"
+            },
+            {
+                "id": "es-1250",
+                "w": "bomba",
+                "p": "ˈbomba",
+                "d": "bomb",
+                "s": "Eres la bomba. (You're something else.)"
+            },
+            {
+                "id": "es-1251",
+                "w": "guardia",
+                "p": "ˈɡwaɾdja",
+                "d": "guard; police",
+                "s": "¡En guardia! (En garde!)"
+            },
+            {
+                "id": "es-1252",
+                "w": "pistola",
+                "p": "pisˈtola",
+                "d": "pistol; gun",
+                "s": "Dame una pistola. (Give me a gun.)"
+            },
+            {
+                "id": "es-1253",
+                "w": "probar",
+                "p": "pɾoˈbaɾ",
+                "d": "to try; to taste; to prove",
+                "s": "Déjame probar. (Let me have a try.)"
+            },
+            {
+                "id": "es-1254",
+                "w": "majestad",
+                "p": "maxesˈtad",
+                "d": "majesty",
+                "s": "Quien una vez fue rey nunca pierde su majestad."
+            },
+            {
+                "id": "es-1255",
+                "w": "traer",
+                "p": "tɾaˈeɾ",
+                "d": "to bring",
+                "s": "Ve a traer café. (Go get coffee.)"
+            },
+            {
+                "id": "es-1256",
+                "w": "marcha",
+                "p": "ˈmaɾt͡ʃa",
+                "d": "march; rhythm; departure",
+                "s": "Me fui de marcha. (I went hiking.)"
+            },
+            {
+                "id": "es-1257",
+                "w": "pareces",
+                "p": "pareces",
+                "d": "you seem (parecer)",
+                "s": "No pareces feliz. (You don't seem to be happy.)"
+            },
+            {
+                "id": "es-1258",
+                "w": "común",
+                "p": "koˈmun",
+                "d": "common",
+                "s": "Es un error común. (It's a common mistake.)"
+            },
+            {
+                "id": "es-1259",
+                "w": "aquel",
+                "p": "aˈkel",
+                "d": "that (over there)",
+                "s": "¿Este o aquel? (This one or that one?)"
+            },
+            {
+                "id": "es-1260",
+                "w": "hacerle",
+                "p": "hacerle",
+                "d": "to do to him/her",
+                "s": "No deberías hacerle caso. (You shouldn't listen to him.)"
+            },
+            {
+                "id": "es-1261",
+                "w": "vuelo",
+                "p": "ˈbwelo",
+                "d": "flight",
+                "s": "Buen vuelo. (Have a nice flight.)"
+            },
+            {
+                "id": "es-1262",
+                "w": "nota",
+                "p": "ˈnota",
+                "d": "note; grade",
+                "s": "Toma nota. (Take note.)"
+            },
+            {
+                "id": "es-1263",
+                "w": "humanos",
+                "p": "uˈmanos",
+                "d": "human (plural)",
+                "s": "Somos humanos. (We are human.)"
+            },
+            {
+                "id": "es-1264",
+                "w": "estaremos",
+                "p": "estaˈɾemos",
+                "d": "we will be (estar)",
+                "s": "Ahí estaremos. (We'll be there.)"
+            },
+            {
+                "id": "es-1265",
+                "w": "valor",
+                "p": "baˈloɾ",
+                "d": "value; courage",
+                "s": "Admiro su valor. (I admire his courage.)"
+            },
+            {
+                "id": "es-1266",
+                "w": "suyo",
+                "p": "ˈsuʝo",
+                "d": "his; hers; theirs; yours",
+                "s": "Esto es suyo. (This is his.)"
+            },
+            {
+                "id": "es-1267",
+                "w": "objetivo",
+                "p": "obxeˈtibo",
+                "d": "goal; objective",
+                "s": "Sé objetivo. (Be objective.)"
+            },
+            {
+                "id": "es-1268",
+                "w": "repente",
+                "p": "reˈpente",
+                "d": "sudden (as in \"de repente\")",
+                "s": "Pasó de repente. (It happened suddenly.)"
+            },
+            {
+                "id": "es-1269",
+                "w": "debía",
+                "p": "deˈbia",
+                "d": "had to; owed (deber)",
+                "s": "Él le debía mucho. (He owed a lot to her.)"
+            },
+            {
+                "id": "es-1270",
+                "w": "rojo",
+                "p": "ˈroxo",
+                "d": "red",
+                "s": "El Sol es rojo. (The sun is red.)"
+            },
+            {
+                "id": "es-1271",
+                "w": "bromeando",
+                "p": "bromeando",
+                "d": "joking (gerund of bromear)",
+                "s": "Estoy bromeando. (I am joking.)"
+            },
+            {
+                "id": "es-1272",
+                "w": "irá",
+                "p": "iˈɾa",
+                "d": "will go (ir)",
+                "s": "Él no irá. (He will not go.)"
+            },
+            {
+                "id": "es-1273",
+                "w": "entrada",
+                "p": "enˈtɾada",
+                "d": "entrance; ticket; input",
+                "s": "Cierra la entrada. (Lock the gate.)"
+            },
+            {
+                "id": "es-1274",
+                "w": "doble",
+                "p": "ˈdoble",
+                "d": "double",
+                "s": "Veo doble. (I see double.)"
+            },
+            {
+                "id": "es-1275",
+                "w": "dejaré",
+                "p": "dexaˈɾe",
+                "d": "I will leave (dejar)",
+                "s": "Lo dejaré. (I'll stop.)"
+            },
+            {
+                "id": "es-1276",
+                "w": "evitar",
+                "p": "ebiˈtaɾ",
+                "d": "to avoid",
+                "s": "No se puede evitar. (It can't be helped.)"
+            },
+            {
+                "id": "es-1277",
+                "w": "máquina",
+                "p": "ˈmakina",
+                "d": "machine",
+                "s": "¡Inguia su máquina! (Holy cow!)"
+            },
+            {
+                "id": "es-1278",
+                "w": "cuello",
+                "p": "ˈkweʝo",
+                "d": "neck; collar",
+                "s": "¡Ay! ¡Mi cuello! (Ow! My neck!)"
+            },
+            {
+                "id": "es-1279",
+                "w": "conocí",
+                "p": "konoˈθi",
+                "d": "I met; I knew (conocer)",
+                "s": "Lo conocí. (I met him for the first time.)"
+            },
+            {
+                "id": "es-1280",
+                "w": "tiempos",
+                "p": "tiempos",
+                "d": "times",
+                "s": "Son tiempos duros. (Times are tough.)"
+            },
+            {
+                "id": "es-1281",
+                "w": "tome",
+                "p": "tome",
+                "d": "take (subjunctive of tomar)",
+                "s": "Adelante, tome otro. (Please take another one.)"
+            },
+            {
+                "id": "es-1282",
+                "w": "animales",
+                "p": "animales",
+                "d": "animals",
+                "s": "Amo los animales. (I love animals.)"
+            },
+            {
+                "id": "es-1283",
+                "w": "acaso",
+                "p": "aˈkaso",
+                "d": "perhaps; maybe",
+                "s": "¿Es acaso paranoia mía? (Am I just being paranoid?)"
+            },
+            {
+                "id": "es-1284",
+                "w": "tuviera",
+                "p": "tuˈbjeɾa",
+                "d": "had (subjunctive of tener)",
+                "s": "¡Si solo tuviera alas! (If only I had wings!)"
+            },
+            {
+                "id": "es-1285",
+                "w": "pareja",
+                "p": "paˈɾexa",
+                "d": "couple; partner",
+                "s": "Son una pareja. (They're a couple.)"
+            },
+            {
+                "id": "es-1286",
+                "w": "verano",
+                "p": "beˈɾano",
+                "d": "summer",
+                "s": "Es verano. (It is summer.)"
+            },
+            {
+                "id": "es-1287",
+                "w": "escuché",
+                "p": "escuché",
+                "d": "I listened; I heard (escuchar)",
+                "s": "No escuché. (I didn't listen.)"
+            },
+            {
+                "id": "es-1288",
+                "w": "ama",
+                "p": "ˈama",
+                "d": "loves (amar)",
+                "s": "Él la ama. (He loves her.)"
+            },
+            {
+                "id": "es-1289",
+                "w": "serás",
+                "p": "seˈɾas",
+                "d": "you will be (ser)",
+                "s": "¿Qué serás? (What are you going to be?)"
+            },
+            {
+                "id": "es-1290",
+                "w": "mentira",
+                "p": "menˈtiɾa",
+                "d": "lie",
+                "s": "Era mentira. (That was a lie.)"
+            },
+            {
+                "id": "es-1291",
+                "w": "tarjeta",
+                "p": "taɾˈxeta",
+                "d": "card",
+                "s": "Pago con tarjeta. (I'll pay with my card.)"
+            },
+            {
+                "id": "es-1292",
+                "w": "hagan",
+                "p": "ˈaɡan",
+                "d": "do; make (subjunctive of hacer)",
+                "s": "¡No lo hagan! (Don't do it.)"
+            },
+            {
+                "id": "es-1293",
+                "w": "perdí",
+                "p": "perdí",
+                "d": "I lost (perder)",
+                "s": "No los perdí. (I didn't lose them.)"
+            },
+            {
+                "id": "es-1294",
+                "w": "correr",
+                "p": "koˈreɾ",
+                "d": "to run",
+                "s": "Sé correr. (I can run.)"
+            },
+            {
+                "id": "es-1295",
+                "w": "traído",
+                "p": "tɾaˈido",
+                "d": "brought (past participle of traer)",
+                "s": "Se las han traído. (They've been brought to them.)"
+            },
+            {
+                "id": "es-1296",
+                "w": "llegue",
+                "p": "ˈʝeɡe",
+                "d": "arrive (subjunctive of llegar)",
+                "s": "No llegue tarde. (Don't be late.)"
+            },
+            {
+                "id": "es-1297",
+                "w": "preparado",
+                "p": "pɾepaˈɾado",
+                "d": "prepared; ready",
+                "s": "Está preparado. (He's prepared.)"
+            },
+            {
+                "id": "es-1298",
+                "w": "haberlo",
+                "p": "aˈbeɾlo",
+                "d": "to have it",
+                "s": "Negó haberlo hecho. (He denied having done it.)"
+            },
+            {
+                "id": "es-1299",
+                "w": "usa",
+                "p": "ˈusa",
+                "d": "uses; wears (usar)",
+                "s": "Él usa lentes. (He wears glasses.)"
+            },
+            {
+                "id": "es-1300",
+                "w": "intentar",
+                "p": "intenˈtaɾ",
+                "d": "to try",
+                "s": "Dejame intentar. (Let me have a try.)"
+            },
+            {
+                "id": "es-1301",
+                "w": "ayudarme",
+                "p": "ayudarme",
+                "d": "to help me",
+                "s": "Ven a ayudarme. (Come help me.)"
+            },
+            {
+                "id": "es-1302",
+                "w": "flores",
+                "p": "ˈfloɾes",
+                "d": "flowers",
+                "s": "Vendo flores. (I sell flowers.)"
+            },
+            {
+                "id": "es-1303",
+                "w": "dando",
+                "p": "ˈdando",
+                "d": "giving (gerund of dar)",
+                "s": "Estaba dando un paseo. (I was taking a walk.)"
+            },
+            {
+                "id": "es-1304",
+                "w": "vos",
+                "p": "ˈbos",
+                "d": "you (vos)",
+                "s": "¡Che, vos! (Hey, you!)"
+            },
+            {
+                "id": "es-1305",
+                "w": "opción",
+                "p": "obˈθjon",
+                "d": "option",
+                "s": "No hay opción. (There is no choice.)"
+            },
+            {
+                "id": "es-1306",
+                "w": "isla",
+                "p": "ˈisla",
+                "d": "island",
+                "s": "¿Qué isla es ésta? (What island is this?)"
+            },
+            {
+                "id": "es-1307",
+                "w": "cierra",
+                "p": "ˈθjera",
+                "d": "closes (cerrar)",
+                "s": "¿A qué hora cierra? (What time does it close?)"
+            },
+            {
+                "id": "es-1308",
+                "w": "piel",
+                "p": "ˈpjel",
+                "d": "skin; leather",
+                "s": "Su piel es lisa. (Her skin is smooth.)"
+            },
+            {
+                "id": "es-1309",
+                "w": "enemigo",
+                "p": "eneˈmiɡo",
+                "d": "enemy",
+                "s": "Es mi enemigo. (You're my enemy.)"
+            },
+            {
+                "id": "es-1310",
+                "w": "dejo",
+                "p": "ˈdexo",
+                "d": "accent; trace",
+                "s": "Te lo dejo. (You can have it.)"
+            },
+            {
+                "id": "es-1311",
+                "w": "exacto",
+                "p": "eɡˈsaɡto",
+                "d": "exact",
+                "s": "Es exacto. (It's accurate.)"
+            },
+            {
+                "id": "es-1312",
+                "w": "imbécil",
+                "p": "imˈbeθil",
+                "d": "stupid; imbecile",
+                "s": "¡Qué imbécil! (What a jerk!)"
+            },
+            {
+                "id": "es-1313",
+                "w": "jóvenes",
+                "p": "ˈxobenes",
+                "d": "young (plural)",
+                "s": "Son jóvenes. (They're young.)"
+            },
+            {
+                "id": "es-1314",
+                "w": "pedido",
+                "p": "peˈdido",
+                "d": "order; request",
+                "s": "He pedido pan. (I ordered bread.)"
+            },
+            {
+                "id": "es-1315",
+                "w": "larga",
+                "p": "ˈlaɾɡa",
+                "d": "long (feminine)",
+                "s": "Se larga a llorar. (He's beginning to cry.)"
+            },
+            {
+                "id": "es-1316",
+                "w": "entiende",
+                "p": "entiende",
+                "d": "understands (entender)",
+                "s": "No entiende. (You don't understand.)"
+            },
+            {
+                "id": "es-1317",
+                "w": "justicia",
+                "p": "xusˈtiθja",
+                "d": "justice",
+                "s": "Quiero justicia. (I want justice.)"
+            },
+            {
+                "id": "es-1318",
+                "w": "nuevos",
+                "p": "ˈnwebos",
+                "d": "new (plural)",
+                "s": "Son nuevos. (They're new.)"
+            },
+            {
+                "id": "es-1319",
+                "w": "obviamente",
+                "p": "ˌobbjaˈmente",
+                "d": "obviously",
+                "s": "Esto obviamente me preocupa. (This obviously concerns me.)"
+            },
+            {
+                "id": "es-1320",
+                "w": "despierta",
+                "p": "desˈpjeɾta",
+                "d": "wakes (despertar)",
+                "s": "Tom, despierta. (Tom, wake up.)"
+            },
+            {
+                "id": "es-1321",
+                "w": "pido",
+                "p": "ˈpido",
+                "d": "I ask for; I order (pedir)",
+                "s": "Me lo pido. (Dibs.)"
+            },
+            {
+                "id": "es-1322",
+                "w": "calor",
+                "p": "kaˈloɾ",
+                "d": "heat",
+                "s": "Hace calor. (It's hot.)"
+            },
+            {
+                "id": "es-1323",
+                "w": "luces",
+                "p": "ˈluθes",
+                "d": "lights",
+                "s": "No hay luces. (There're no lights.)"
+            },
+            {
+                "id": "es-1324",
+                "w": "refiero",
+                "p": "refiero",
+                "d": "I refer (referir)",
+                "s": "A eso me refiero. (I mean that.)"
+            },
+            {
+                "id": "es-1325",
+                "w": "fuimos",
+                "p": "ˈfwimos",
+                "d": "we were; we went (ser; ir)",
+                "s": "Todos nos fuimos. (We all quit.)"
+            },
+            {
+                "id": "es-1326",
+                "w": "batalla",
+                "p": "baˈtaʝa",
+                "d": "battle",
+                "s": "¡A la batalla! (To battle!)"
+            },
+            {
+                "id": "es-1327",
+                "w": "déjalo",
+                "p": "déjalo",
+                "d": "leave it; let it (dejar + lo)",
+                "s": "Bah, déjalo. (Ah, whatever.)"
+            },
+            {
+                "id": "es-1328",
+                "w": "intenta",
+                "p": "intenta",
+                "d": "tries (intentar)",
+                "s": "Él lo intenta. (He tries.)"
+            },
+            {
+                "id": "es-1329",
+                "w": "fantástico",
+                "p": "fanˈtastiko",
+                "d": "fantastic",
+                "s": "Fue fantástico. (It was fantastic.)"
+            },
+            {
+                "id": "es-1330",
+                "w": "brazo",
+                "p": "ˈbɾaθo",
+                "d": "arm",
+                "s": "Alzó su brazo. (He raised his arm.)"
+            },
+            {
+                "id": "es-1331",
+                "w": "absolutamente",
+                "p": "absoˌlutaˈmente",
+                "d": "absolutely",
+                "s": "Es absolutamente falso. (It's absolutely false.)"
+            },
+            {
+                "id": "es-1332",
+                "w": "llena",
+                "p": "ˈʝena",
+                "d": "full (feminine)",
+                "s": "Estoy llena. (I'm full.)"
+            },
+            {
+                "id": "es-1333",
+                "w": "hacerme",
+                "p": "hacerme",
+                "d": "to do to me",
+                "s": "Quería hacerme rico. (I wanted to become rich.)"
+            },
+            {
+                "id": "es-1334",
+                "w": "salga",
+                "p": "ˈsalɡa",
+                "d": "leave; go out (subjunctive of salir)",
+                "s": "Entre o salga. (Enter or exit.)"
+            },
+            {
+                "id": "es-1335",
+                "w": "recordar",
+                "p": "rekoɾˈdaɾ",
+                "d": "to remember",
+                "s": "Quería recordar. (I wanted to remember.)"
+            },
+            {
+                "id": "es-1336",
+                "w": "escapar",
+                "p": "eskaˈpaɾ",
+                "d": "to escape",
+                "s": "Logré escapar. (I managed to escape.)"
+            },
+            {
+                "id": "es-1337",
+                "w": "bosque",
+                "p": "ˈboske",
+                "d": "forest; woods",
+                "s": "Entré en el bosque. (I entered the forest.)"
+            },
+            {
+                "id": "es-1338",
+                "w": "gay",
+                "p": "ˈɡei",
+                "d": "gay",
+                "s": "Él es gay. (He's gay.)"
+            },
+            {
+                "id": "es-1339",
+                "w": "señores",
+                "p": "señores",
+                "d": "gentlemen; sirs",
+                "s": "Señoras y señores... (Ladies and gentlemen...)"
+            },
+            {
+                "id": "es-1340",
+                "w": "quedan",
+                "p": "quedan",
+                "d": "remain; stay (quedar)",
+                "s": "¿Te quedan balas? (Do you have any bullets left?)"
+            },
+            {
+                "id": "es-1341",
+                "w": "piernas",
+                "p": "ˈpjeɾnas",
+                "d": "legs",
+                "s": "Estiré las piernas. (I stretched out my legs.)"
+            },
+            {
+                "id": "es-1342",
+                "w": "visita",
+                "p": "biˈsita",
+                "d": "visit; visitor",
+                "s": "Tenemos visita. (We have a guest.)"
+            },
+            {
+                "id": "es-1343",
+                "w": "parís",
+                "p": "parís",
+                "d": "Paris",
+                "s": ""
+            },
+            {
+                "id": "es-1344",
+                "w": "usando",
+                "p": "uˈsando",
+                "d": "using (gerund of usar)",
+                "s": "Estoy usando esto. (I'm using this.)"
+            },
+            {
+                "id": "es-1345",
+                "w": "ganado",
+                "p": "ɡaˈnado",
+                "d": "livestock; cattle",
+                "s": "¡He ganado! (I won!)"
+            },
+            {
+                "id": "es-1346",
+                "w": "movimiento",
+                "p": "mobiˈmjento",
+                "d": "movement",
+                "s": "Aquí hay mucho movimiento. (There's lots of movement here.)"
+            },
+            {
+                "id": "es-1347",
+                "w": "blanca",
+                "p": "ˈblanka",
+                "d": "white (feminine)",
+                "s": "Está sin blanca. (He's broke.)"
+            },
+            {
+                "id": "es-1348",
+                "w": "rico",
+                "p": "ˈriko",
+                "d": "rich; tasty",
+                "s": "Eres rico. (You're rich.)"
+            },
+            {
+                "id": "es-1349",
+                "w": "inocente",
+                "p": "inoˈθente",
+                "d": "innocent",
+                "s": "Es inocente. (He's innocent.)"
+            },
+            {
+                "id": "es-1350",
+                "w": "pesar",
+                "p": "peˈsaɾ",
+                "d": "grief; sorrow",
+                "s": "Me reí a pesar de mi. (I laughed in spite of myself.)"
+            },
+            {
+                "id": "es-1351",
+                "w": "absoluto",
+                "p": "absoˈluto",
+                "d": "absolute",
+                "s": "No, en absoluto. (No, not at all.)"
+            },
+            {
+                "id": "es-1352",
+                "w": "vacaciones",
+                "p": "bakaˈθjones",
+                "d": "vacation; holidays",
+                "s": "Felices vacaciones. (Happy holidays.)"
+            },
+            {
+                "id": "es-1353",
+                "w": "mismos",
+                "p": "ˈmismos",
+                "d": "same (plural)",
+                "s": "Servíos vosotros mismos. (Help yourself.)"
+            },
+            {
+                "id": "es-1354",
+                "w": "tomado",
+                "p": "toˈmado",
+                "d": "taken; drunk (past participle of tomar)",
+                "s": "Has tomado todo. (You've taken everything.)"
+            },
+            {
+                "id": "es-1355",
+                "w": "habías",
+                "p": "aˈbias",
+                "d": "you had (haber)",
+                "s": "¿No habías salido? (Didn't you go out?)"
+            },
+            {
+                "id": "es-1356",
+                "w": "planes",
+                "p": "ˈplanes",
+                "d": "plans",
+                "s": "Tengo planes. (I have plans.)"
+            },
+            {
+                "id": "es-1357",
+                "w": "cine",
+                "p": "ˈθine",
+                "d": "cinema; movies",
+                "s": "Voy al cine. (I'm going to the cinema.)"
+            },
+            {
+                "id": "es-1358",
+                "w": "toca",
+                "p": "ˈtoka",
+                "d": "touches; plays; it is time (tocar)",
+                "s": "¿Ya me toca? (Is it my turn?)"
+            },
+            {
+                "id": "es-1359",
+                "w": "brillante",
+                "p": "bɾiˈʝante",
+                "d": "bright; brilliant",
+                "s": "¡Sé brillante! (Be brilliant!)"
+            },
+            {
+                "id": "es-1360",
+                "w": "confianza",
+                "p": "konˈfjanθa",
+                "d": "trust; confidence",
+                "s": "Ten confianza. (Be confident.)"
+            },
+            {
+                "id": "es-1361",
+                "w": "vuestra",
+                "p": "ˈbwestɾa",
+                "d": "your (feminine; Spain)",
+                "s": "Fue culpa vuestra. (It was your fault.)"
+            },
+            {
+                "id": "es-1362",
+                "w": "nombres",
+                "p": "ˈnombɾes",
+                "d": "names",
+                "s": "¿Sabes sus nombres? (Do you know their names?)"
+            },
+            {
+                "id": "es-1363",
+                "w": "especialmente",
+                "p": "espeˌθjalˈmente",
+                "d": "especially",
+                "s": "Hoy no hace calor especialmente. (It isn't especially hot today.)"
+            },
+            {
+                "id": "es-1364",
+                "w": "embarazada",
+                "p": "embaɾaˈθada",
+                "d": "pregnant",
+                "s": "Estoy embarazada. (I'm pregnant.)"
+            },
+            {
+                "id": "es-1365",
+                "w": "esperen",
+                "p": "esperen",
+                "d": "wait (subjunctive of esperar)",
+                "s": "¡No esperen! (Don't wait.)"
+            },
+            {
+                "id": "es-1366",
+                "w": "pantalones",
+                "p": "pantaˈlones",
+                "d": "pants; trousers",
+                "s": "Quiero pantalones. (I want trousers.)"
+            },
+            {
+                "id": "es-1367",
+                "w": "defensa",
+                "p": "deˈfensa",
+                "d": "defense",
+                "s": "Nadie alzó la voz en su defensa. (No one spoke up in his defense.)"
+            },
+            {
+                "id": "es-1368",
+                "w": "terminó",
+                "p": "terminó",
+                "d": "finished; ended (terminar)",
+                "s": "Se terminó. (It's over.)"
+            },
+            {
+                "id": "es-1369",
+                "w": "salido",
+                "p": "saˈlido",
+                "d": "gone out; left (past participle of salir)",
+                "s": "Han salido. (They've left.)"
+            },
+            {
+                "id": "es-1370",
+                "w": "estupendo",
+                "p": "estuˈpendo",
+                "d": "great; wonderful",
+                "s": "Es estupendo. (It's great.)"
+            },
+            {
+                "id": "es-1371",
+                "w": "presión",
+                "p": "pɾeˈsjon",
+                "d": "pressure",
+                "s": "Tengo presión alta. (I have high blood pressure.)"
+            },
+            {
+                "id": "es-1372",
+                "w": "inmediatamente",
+                "p": "immeˌdjataˈmente",
+                "d": "immediately",
+                "s": "Ven inmediatamente. (Come here immediately!)"
+            },
+            {
+                "id": "es-1373",
+                "w": "testigo",
+                "p": "tesˈtiɡo",
+                "d": "witness",
+                "s": "Soy testigo. (I'm a witness.)"
+            },
+            {
+                "id": "es-1374",
+                "w": "deberían",
+                "p": "debeˈɾian",
+                "d": "they should (deber)",
+                "s": "No deberían salir. (They shouldn't go out.)"
+            },
+            {
+                "id": "es-1375",
+                "w": "olvidado",
+                "p": "olbiˈdado",
+                "d": "forgotten",
+                "s": "¿Te has olvidado? (Did you forget?)"
+            },
+            {
+                "id": "es-1376",
+                "w": "soldados",
+                "p": "solˈdados",
+                "d": "soldiers",
+                "s": "Eran soldados. (They were soldiers.)"
+            },
+            {
+                "id": "es-1377",
+                "w": "resulta",
+                "p": "resulta",
+                "d": "turns out; results (resultar)",
+                "s": "Me resulta familiar. (It looks familiar.)"
+            },
+            {
+                "id": "es-1378",
+                "w": "depende",
+                "p": "depende",
+                "d": "depends (depender)",
+                "s": "No depende de mí. (It's not up to me.)"
+            },
+            {
+                "id": "es-1379",
+                "w": "motivo",
+                "p": "moˈtibo",
+                "d": "reason; motive",
+                "s": "¿Por cuál motivo? (On what account?)"
+            },
+            {
+                "id": "es-1380",
+                "w": "inglés",
+                "p": "inˈɡles",
+                "d": "English",
+                "s": "Es inglés. (He's English.)"
+            },
+            {
+                "id": "es-1381",
+                "w": "suya",
+                "p": "ˈsuʝa",
+                "d": "his; hers; theirs; yours (feminine)",
+                "s": "Ésta es suya. (This is his.)"
+            },
+            {
+                "id": "es-1382",
+                "w": "estudio",
+                "p": "esˈtudjo",
+                "d": "study",
+                "s": "No estudio. (I don't study.)"
+            },
+            {
+                "id": "es-1383",
+                "w": "acabar",
+                "p": "akaˈbaɾ",
+                "d": "to finish; to end",
+                "s": "Acabo de acabar. (I just finished.)"
+            },
+            {
+                "id": "es-1384",
+                "w": "sentimientos",
+                "p": "sentiˈmjentos",
+                "d": "feelings",
+                "s": "No tengo sentimientos. (I have no feelings.)"
+            },
+            {
+                "id": "es-1385",
+                "w": "tomando",
+                "p": "tomando",
+                "d": "taking; drinking (gerund of tomar)",
+                "s": "Están tomando té. (They're drinking tea.)"
+            },
+            {
+                "id": "es-1386",
+                "w": "dieron",
+                "p": "ˈdjeɾon",
+                "d": "they gave (dar)",
+                "s": "Me dieron. (I got hit.)"
+            },
+            {
+                "id": "es-1387",
+                "w": "parecen",
+                "p": "parecen",
+                "d": "they seem (parecer)",
+                "s": "Se me parecen. (They look alike to me.)"
+            },
+            {
+                "id": "es-1388",
+                "w": "llaves",
+                "p": "ˈʝabes",
+                "d": "keys",
+                "s": "Dame las llaves. (Give me the keys.)"
+            },
+            {
+                "id": "es-1389",
+                "w": "perros",
+                "p": "perros",
+                "d": "dogs",
+                "s": "No sois perros. (You're not dogs.)"
+            },
+            {
+                "id": "es-1390",
+                "w": "propósito",
+                "p": "pɾoˈposito",
+                "d": "purpose",
+                "s": "Fallé a propósito. (I failed on purpose.)"
+            },
+            {
+                "id": "es-1391",
+                "w": "noticia",
+                "p": "noˈtiθja",
+                "d": "news item; notice",
+                "s": "¡Qué mala noticia! (What bad news!)"
+            },
+            {
+                "id": "es-1392",
+                "w": "partir",
+                "p": "paɾˈtiɾ",
+                "d": "to leave; to split",
+                "s": "Los vimos partir. (We saw them leave.)"
+            },
+            {
+                "id": "es-1393",
+                "w": "vuestro",
+                "p": "ˈbwestɾo",
+                "d": "your (Spain)",
+                "s": "¿Es vuestro? (Is it yours?)"
+            },
+            {
+                "id": "es-1394",
+                "w": "metros",
+                "p": "ˈmetɾos",
+                "d": "meters",
+                "s": "Mide casi dos metros. (He's almost two meters tall.)"
+            },
+            {
+                "id": "es-1395",
+                "w": "santa",
+                "p": "ˈsanta",
+                "d": "saint; holy (feminine)",
+                "s": "¡Caballa santa! (Holy cow!)"
+            },
+            {
+                "id": "es-1396",
+                "w": "quedarse",
+                "p": "quedarse",
+                "d": "to stay; to remain",
+                "s": "Querían quedarse. (They wanted to stay.)"
+            },
+            {
+                "id": "es-1397",
+                "w": "clientes",
+                "p": "clientes",
+                "d": "clients; customers",
+                "s": "No hay clientes. (There are no customers.)"
+            },
+            {
+                "id": "es-1398",
+                "w": "podrá",
+                "p": "podrá",
+                "d": "will be able (poder)",
+                "s": "¿Qué podrá ser? (What can it be?)"
+            },
+            {
+                "id": "es-1399",
+                "w": "cuántas",
+                "p": "ˈkwantas",
+                "d": "how many (feminine)",
+                "s": "¿Para cuántas noches? (For how many nights?)"
+            },
+            {
+                "id": "es-1400",
+                "w": "ridículo",
+                "p": "riˈdikulo",
+                "d": "ridiculous",
+                "s": "Es ridículo. (It's ridiculous.)"
+            },
+            {
+                "id": "es-1401",
+                "w": "damas",
+                "p": "ˈdamas",
+                "d": "ladies",
+                "s": "Las damas primero. (Ladies first.)"
+            },
+            {
+                "id": "es-1402",
+                "w": "estuviste",
+                "p": "estuˈbiste",
+                "d": "you were (preterite of estar)",
+                "s": "Nunca estuviste solo. (You were never alone.)"
+            },
+            {
+                "id": "es-1403",
+                "w": "tranquila",
+                "p": "tɾanˈkila",
+                "d": "calm; quiet (feminine)",
+                "s": "Es tranquila. (She is quiet.)"
+            },
+            {
+                "id": "es-1404",
+                "w": "operación",
+                "p": "opeɾaˈθjon",
+                "d": "operation",
+                "s": "¿Necesito una operación? (Do I need an operation?)"
+            },
+            {
+                "id": "es-1405",
+                "w": "come",
+                "p": "ˈkome",
+                "d": "eats (comer)",
+                "s": "Paul come. (Paul eats.)"
+            },
+            {
+                "id": "es-1406",
+                "w": "empresa",
+                "p": "emˈpɾesa",
+                "d": "company; business",
+                "s": "Adoro esta empresa. (I love this company.)"
+            },
+            {
+                "id": "es-1407",
+                "w": "ayúdame",
+                "p": "ayúdame",
+                "d": "help me",
+                "s": "Ven y ayúdame. (Come and help me.)"
+            },
+            {
+                "id": "es-1408",
+                "w": "laboratorio",
+                "p": "laboɾaˈtoɾjo",
+                "d": "laboratory; lab",
+                "s": "Voy al laboratorio. (I'm going to the lab.)"
+            },
+            {
+                "id": "es-1409",
+                "w": "elección",
+                "p": "eleɡˈθjon",
+                "d": "election; choice",
+                "s": "Haz tu elección. (Make your choice.)"
+            },
+            {
+                "id": "es-1410",
+                "w": "menudo",
+                "p": "meˈnudo",
+                "d": "small; insignificant",
+                "s": "Viajo a menudo. (I travel often.)"
+            },
+            {
+                "id": "es-1411",
+                "w": "beso",
+                "p": "ˈbeso",
+                "d": "kiss",
+                "s": "Dame un beso. (Give me a kiss.)"
+            },
+            {
+                "id": "es-1412",
+                "w": "copa",
+                "p": "ˈkopa",
+                "d": "glass (of wine); cup",
+                "s": "Has roto mi copa. (You broke my cup.)"
+            },
+            {
+                "id": "es-1413",
+                "w": "conversación",
+                "p": "kombeɾsaˈθjon",
+                "d": "conversation",
+                "s": "Grabé nuestra conversación. (I recorded our conversation.)"
+            },
+            {
+                "id": "es-1414",
+                "w": "brazos",
+                "p": "ˈbɾaθos",
+                "d": "arms",
+                "s": "Tengo dos brazos. (I have two arms.)"
+            },
+            {
+                "id": "es-1415",
+                "w": "espíritu",
+                "p": "esˈpiɾitu",
+                "d": "spirit",
+                "s": "Ese es el espíritu. (That's the spirit.)"
+            },
+            {
+                "id": "es-1416",
+                "w": "dejas",
+                "p": "ˈdexas",
+                "d": "you leave; you let (dejar)",
+                "s": "¿Ya nos dejas? (Are you already leaving us?)"
+            },
+            {
+                "id": "es-1417",
+                "w": "cansado",
+                "p": "kanˈsado",
+                "d": "tired",
+                "s": "Estoy cansado. (I'm tired.)"
+            },
+            {
+                "id": "es-1418",
+                "w": "interesa",
+                "p": "interesa",
+                "d": "interests (interesar)",
+                "s": "Me interesa. (I'm interested in it.)"
+            },
+            {
+                "id": "es-1419",
+                "w": "refieres",
+                "p": "refieres",
+                "d": "you refer (referir)",
+                "s": "¿Te refieres a mí? (Do you refer to me?)"
+            },
+            {
+                "id": "es-1420",
+                "w": "casado",
+                "p": "kaˈsado",
+                "d": "married",
+                "s": "Soy casado. (I'm married.)"
+            },
+            {
+                "id": "es-1421",
+                "w": "enorme",
+                "p": "eˈnoɾme",
+                "d": "enormous; huge",
+                "s": "¡Es enorme! (It's enormous!)"
+            },
+            {
+                "id": "es-1422",
+                "w": "asuntos",
+                "p": "asuntos",
+                "d": "matters; affairs",
+                "s": "¡Métete en tus asuntos! (Mind your own business!)"
+            },
+            {
+                "id": "es-1423",
+                "w": "fe",
+                "p": "ˈfe",
+                "d": "faith",
+                "s": "Tengan fe. (Have faith.)"
+            },
+            {
+                "id": "es-1424",
+                "w": "muestra",
+                "p": "ˈmwestɾa",
+                "d": "sample; sign",
+                "s": "María muestra el espejo. (Mary shows the mirror.)"
+            },
+            {
+                "id": "es-1425",
+                "w": "trampa",
+                "p": "ˈtɾampa",
+                "d": "trap; cheat",
+                "s": "Hizo trampa. (You cheated.)"
+            },
+            {
+                "id": "es-1426",
+                "w": "memoria",
+                "p": "meˈmoɾja",
+                "d": "memory",
+                "s": "¡Qué memoria! (What memory!)"
+            },
+            {
+                "id": "es-1427",
+                "w": "contrario",
+                "p": "konˈtɾaɾjo",
+                "d": "contrary; opposite",
+                "s": "Hizo lo contrario. (He did the opposite.)"
+            },
+            {
+                "id": "es-1428",
+                "w": "soldado",
+                "p": "solˈdado",
+                "d": "soldier",
+                "s": "Tom es soldado. (Tom is a soldier.)"
+            },
+            {
+                "id": "es-1429",
+                "w": "subir",
+                "p": "suˈbiɾ",
+                "d": "to go up; to raise",
+                "s": "¿Vas a subir? (Are you coming up?)"
+            },
+            {
+                "id": "es-1430",
+                "w": "turno",
+                "p": "ˈtuɾno",
+                "d": "turn; shift",
+                "s": "Es tu turno. (It's your move.)"
+            },
+            {
+                "id": "es-1431",
+                "w": "encantaría",
+                "p": "enkantaˈɾia",
+                "d": "would love; would enchant (encantar)",
+                "s": "Me encantaría eso. (I would love that.)"
+            },
+            {
+                "id": "es-1432",
+                "w": "preocupado",
+                "p": "pɾeokuˈpado",
+                "d": "worried",
+                "s": "No fui preocupado. (I wasn't careful.)"
+            },
+            {
+                "id": "es-1433",
+                "w": "restaurante",
+                "p": "restauˈɾante",
+                "d": "restaurant",
+                "s": "Voy al restaurante. (I'm going to the restaurant.)"
+            },
+            {
+                "id": "es-1434",
+                "w": "saliendo",
+                "p": "saliendo",
+                "d": "leaving; going out (gerund of salir)",
+                "s": "Voy saliendo. (I'm leaving now.)"
+            },
+            {
+                "id": "es-1435",
+                "w": "escrito",
+                "p": "esˈkɾito",
+                "d": "written",
+                "s": "Ponlo por escrito. (Write it up.)"
+            },
+            {
+                "id": "es-1436",
+                "w": "cálmate",
+                "p": "cálmate",
+                "d": "calm down",
+                "s": "Hey, cálmate. (Hey, relax.)"
+            },
+            {
+                "id": "es-1437",
+                "w": "bienvenida",
+                "p": "bjembeˈnida",
+                "d": "welcome",
+                "s": "Te doy la bienvenida. (I bid you welcome.)"
+            },
+            {
+                "id": "es-1438",
+                "w": "caer",
+                "p": "kaˈeɾ",
+                "d": "to fall",
+                "s": "Te vas a caer. (You'll fall down.)"
+            },
+            {
+                "id": "es-1439",
+                "w": "llevaré",
+                "p": "llevaré",
+                "d": "I will carry; I will take (llevar)",
+                "s": "Lo llevaré. (I'll take him.)"
+            },
+            {
+                "id": "es-1440",
+                "w": "leche",
+                "p": "ˈlet͡ʃe",
+                "d": "milk",
+                "s": "Tomé leche. (I drank milk.)"
+            },
+            {
+                "id": "es-1441",
+                "w": "estrellas",
+                "p": "esˈtɾeʝas",
+                "d": "stars",
+                "s": "Mira las estrellas. (Look at the stars.)"
+            },
+            {
+                "id": "es-1442",
+                "w": "prefiero",
+                "p": "prefiero",
+                "d": "I prefer (preferir)",
+                "s": "Yo prefiero café. (I prefer coffee.)"
+            },
+            {
+                "id": "es-1443",
+                "w": "red",
+                "p": "ˈred",
+                "d": "net; network",
+                "s": "Reparó la red. (He fixed the net.)"
+            },
+            {
+                "id": "es-1444",
+                "w": "viejos",
+                "p": "viejos",
+                "d": "old (plural)",
+                "s": "Son viejos. (They're old.)"
+            },
+            {
+                "id": "es-1445",
+                "w": "solamente",
+                "p": "ˌsolaˈmente",
+                "d": "only; merely",
+                "s": "Uso externo solamente. (External application only.)"
+            },
+            {
+                "id": "es-1446",
+                "w": "oiga",
+                "p": "ˈoiɡa",
+                "d": "hear!; hello (oír)",
+                "s": "¡Dios te oiga! (Let's hope so!)"
+            },
+            {
+                "id": "es-1447",
+                "w": "estén",
+                "p": "esˈten",
+                "d": "be (subjunctive of estar)",
+                "s": "No estén conformes. (Do not agree.)"
+            },
+            {
+                "id": "es-1448",
+                "w": "cuentas",
+                "p": "ˈkwentas",
+                "d": "accounts; bills",
+                "s": "¿Qué me cuentas? (What's new?)"
+            },
+            {
+                "id": "es-1449",
+                "w": "taxi",
+                "p": "ˈtaɡsi",
+                "d": "taxi",
+                "s": "Iré en taxi. (I'll go by taxi.)"
+            },
+            {
+                "id": "es-1450",
+                "w": "anillo",
+                "p": "aˈniʝo",
+                "d": "ring",
+                "s": "Llevaba mi anillo. (I wore my ring.)"
+            },
+            {
+                "id": "es-1451",
+                "w": "preguntar",
+                "p": "pɾeɡunˈtaɾ",
+                "d": "to ask",
+                "s": "Me gustaría preguntar. (I would like to ask.)"
+            },
+            {
+                "id": "es-1452",
+                "w": "victoria",
+                "p": "biɡˈtoɾja",
+                "d": "victory",
+                "s": "Esa es tu victoria. (That is your victory.)"
+            },
+            {
+                "id": "es-1453",
+                "w": "quiénes",
+                "p": "quiénes",
+                "d": "who (plural)",
+                "s": "Sé quiénes son. (I know who they are.)"
+            },
+            {
+                "id": "es-1454",
+                "w": "héroe",
+                "p": "ˈeɾoe",
+                "d": "hero",
+                "s": "Soy un héroe. (I'm a hero.)"
+            },
+            {
+                "id": "es-1455",
+                "w": "pequeños",
+                "p": "peˈkeɲos",
+                "d": "small; little (plural)",
+                "s": "Son pequeños. (They're small.)"
+            },
+            {
+                "id": "es-1456",
+                "w": "decidido",
+                "p": "deθiˈdido",
+                "d": "decided",
+                "s": "Eres decidido. (You're driven.)"
+            },
+            {
+                "id": "es-1457",
+                "w": "películas",
+                "p": "películas",
+                "d": "movies; films",
+                "s": "Odio ver películas. (I hate watching movies.)"
+            },
+            {
+                "id": "es-1458",
+                "w": "responsable",
+                "p": "responˈsable",
+                "d": "responsible",
+                "s": "Soy responsable. (I'm responsible.)"
+            },
+            {
+                "id": "es-1459",
+                "w": "trago",
+                "p": "ˈtɾaɡo",
+                "d": "drink; sip; gulp",
+                "s": "No le trago. (I can't stand him.)"
+            },
+            {
+                "id": "es-1460",
+                "w": "volverá",
+                "p": "bolbeˈɾa",
+                "d": "will return (volver)",
+                "s": "Tom no volverá. (Tom won't come back.)"
+            },
+            {
+                "id": "es-1461",
+                "w": "árbol",
+                "p": "ˈaɾbol",
+                "d": "tree",
+                "s": "Veo un árbol. (I see a tree.)"
+            },
+            {
+                "id": "es-1462",
+                "w": "ibas",
+                "p": "ˈibas",
+                "d": "you were going (ir)",
+                "s": "¿Adónde ibas? (Where were you going?)"
+            },
+            {
+                "id": "es-1463",
+                "w": "dientes",
+                "p": "dientes",
+                "d": "teeth",
+                "s": "¡Lávate los dientes! (Clean your teeth!)"
+            },
+            {
+                "id": "es-1464",
+                "w": "encantado",
+                "p": "enkanˈtado",
+                "d": "delighted; enchanted",
+                "s": "Tom estará encantado. (Tom will be thrilled.)"
+            },
+            {
+                "id": "es-1465",
+                "w": "camión",
+                "p": "kaˈmjon",
+                "d": "truck; lorry",
+                "s": "El camión pasó. (The truck passed.)"
+            },
+            {
+                "id": "es-1466",
+                "w": "vender",
+                "p": "benˈdeɾ",
+                "d": "to sell",
+                "s": "No lo voy a vender. (I'm not going to sell it.)"
+            },
+            {
+                "id": "es-1467",
+                "w": "llame",
+                "p": "ˈʝame",
+                "d": "call (subjunctive of llamar)",
+                "s": "No me llame. (Don't call me.)"
+            },
+            {
+                "id": "es-1468",
+                "w": "detente",
+                "p": "deˈtente",
+                "d": "stop! (detener)",
+                "s": "¡Sam, detente!"
+            },
+            {
+                "id": "es-1469",
+                "w": "luchar",
+                "p": "luˈt͡ʃaɾ",
+                "d": "to fight; to struggle",
+                "s": "Quería luchar. (I wanted to fight.)"
+            },
+            {
+                "id": "es-1470",
+                "w": "cabo",
+                "p": "ˈkabo",
+                "d": "end; cape; corporal",
+                "s": "Tiene galones de cabo. (He has corporal's stripes.)"
+            },
+            {
+                "id": "es-1471",
+                "w": "ruido",
+                "p": "ˈrwido",
+                "d": "noise",
+                "s": "¡Haz ruido! (Make some noise!)"
+            },
+            {
+                "id": "es-1472",
+                "w": "lucha",
+                "p": "ˈlut͡ʃa",
+                "d": "fight; struggle",
+                "s": "Jennifer lucha. (Jennifer fights.)"
+            },
+            {
+                "id": "es-1473",
+                "w": "muere",
+                "p": "muere",
+                "d": "dies (morir)",
+                "s": "Nadie muere. (Nobody dies.)"
+            },
+            {
+                "id": "es-1474",
+                "w": "reloj",
+                "p": "reˈlox",
+                "d": "clock; watch",
+                "s": "Perdí el reloj. (I lost the watch.)"
+            },
+            {
+                "id": "es-1475",
+                "w": "gato",
+                "p": "ˈɡato",
+                "d": "cat",
+                "s": "Pobre gato. (Poor cat.)"
+            },
+            {
+                "id": "es-1476",
+                "w": "averiguar",
+                "p": "abeɾiˈɡwaɾ",
+                "d": "to find out",
+                "s": "Pude averiguar su dirección. (I was able to find out his address.)"
+            },
+            {
+                "id": "es-1477",
+                "w": "volar",
+                "p": "boˈlaɾ",
+                "d": "to fly",
+                "s": "Odio volar. (I hate flying.)"
+            },
+            {
+                "id": "es-1478",
+                "w": "vayamos",
+                "p": "baˈʝamos",
+                "d": "let's go (ir)",
+                "s": "No vayamos. (Let's not go.)"
+            },
+            {
+                "id": "es-1479",
+                "w": "tanta",
+                "p": "ˈtanta",
+                "d": "so much; so many (feminine)",
+                "s": "Tengo tanta sed. (I'm so thirsty.)"
+            },
+            {
+                "id": "es-1480",
+                "w": "vendrá",
+                "p": "vendrá",
+                "d": "will come (venir)",
+                "s": "Él vendrá. (He will come.)"
+            },
+            {
+                "id": "es-1481",
+                "w": "corriendo",
+                "p": "corriendo",
+                "d": "running (gerund of correr)",
+                "s": "Siga corriendo. (Keep running.)"
+            },
+            {
+                "id": "es-1482",
+                "w": "yendo",
+                "p": "ˈʝendo",
+                "d": "going (gerund of ir)",
+                "s": "Estamos yendo a casa. (We're going home.)"
+            },
+            {
+                "id": "es-1483",
+                "w": "colegio",
+                "p": "koˈlexjo",
+                "d": "school",
+                "s": "Fui al colegio. (I went to school.)"
+            },
+            {
+                "id": "es-1484",
+                "w": "sonido",
+                "p": "soˈnido",
+                "d": "sound",
+                "s": "El sonido cesó. (The sound ceased.)"
+            },
+            {
+                "id": "es-1485",
+                "w": "caballero",
+                "p": "kabaˈʝeɾo",
+                "d": "gentleman; knight",
+                "s": "Sé un caballero. (Please be gentle.)"
+            },
+            {
+                "id": "es-1486",
+                "w": "pasada",
+                "p": "paˈsada",
+                "d": "passing; crossing",
+                "s": "Eso es una pasada. (That is a hell of a thing.)"
+            },
+            {
+                "id": "es-1487",
+                "w": "código",
+                "p": "ˈkodiɡo",
+                "d": "code",
+                "s": "Sé código Morse. (I know Morse code.)"
+            },
+            {
+                "id": "es-1488",
+                "w": "hagamos",
+                "p": "aˈɡamos",
+                "d": "let's do; let's make (hacer)",
+                "s": "No hagamos el trabajo. (Let's not do the work.)"
+            },
+            {
+                "id": "es-1489",
+                "w": "imagen",
+                "p": "iˈmaxen",
+                "d": "image",
+                "s": "Vi la imagen. (I saw the picture.)"
+            },
+            {
+                "id": "es-1490",
+                "w": "riesgo",
+                "p": "ˈrjesɡo",
+                "d": "risk",
+                "s": "No hay riesgo. (There's no risk.)"
+            },
+            {
+                "id": "es-1491",
+                "w": "llegamos",
+                "p": "llegamos",
+                "d": "we arrived; we arrive (llegar)",
+                "s": "¡Ya llegamos! (Here we are!)"
+            },
+            {
+                "id": "es-1492",
+                "w": "alguno",
+                "p": "alˈɡuno",
+                "d": "some; any",
+                "s": "Coge alguno. (Have some.)"
+            },
+            {
+                "id": "es-1493",
+                "w": "pan",
+                "p": "ˈpan",
+                "d": "bread",
+                "s": "Comen pan. (They eat bread.)"
+            },
+            {
+                "id": "es-1494",
+                "w": "millón",
+                "p": "miˈʝon",
+                "d": "million",
+                "s": "Ni en un millón de años. (Not in a million years.)"
+            },
+            {
+                "id": "es-1495",
+                "w": "malas",
+                "p": "malas",
+                "d": "bad (feminine plural)",
+                "s": "No seáis malas. (Don't be evil.)"
+            },
+            {
+                "id": "es-1496",
+                "w": "dama",
+                "p": "ˈdama",
+                "d": "lady",
+                "s": "Capturé a tu dama. (I captured your queen.)"
+            },
+            {
+                "id": "es-1497",
+                "w": "hielo",
+                "p": "ˈʝelo",
+                "d": "ice",
+                "s": "Té sin hielo. (Tea without ice.)"
+            },
+            {
+                "id": "es-1498",
+                "w": "coño",
+                "p": "ˈkoɲo",
+                "d": "damn; fuck",
+                "s": "Éste es mi coño. (That's my pussy.)"
+            },
+            {
+                "id": "es-1499",
+                "w": "cayó",
+                "p": "kaˈʝo",
+                "d": "fell (caer)",
+                "s": "Tom se cayó. (Tom fell.)"
+            },
+            {
+                "id": "es-1500",
+                "w": "prensa",
+                "p": "ˈpɾensa",
+                "d": "press",
+                "s": "Esa es la libertad de prensa. (That's the press freedom.)"
+            },
+            {
+                "id": "es-1501",
+                "w": "querer",
+                "p": "keˈɾeɾ",
+                "d": "to want; to love",
+                "s": "Quiero querer. (I wanna want.)"
+            },
+            {
+                "id": "es-1502",
+                "w": "vengan",
+                "p": "vengan",
+                "d": "come (subjunctive of venir)",
+                "s": "Quizá vengan. (They may come.)"
+            },
+            {
+                "id": "es-1503",
+                "w": "caminar",
+                "p": "kamiˈnaɾ",
+                "d": "to walk",
+                "s": "¡A caminar! (Walk!)"
+            },
+            {
+                "id": "es-1504",
+                "w": "televisión",
+                "p": "telebiˈsjon",
+                "d": "television; TV",
+                "s": "Veo la televisión. (I watch television.)"
+            },
+            {
+                "id": "es-1505",
+                "w": "pasará",
+                "p": "pasará",
+                "d": "will happen; will pass (pasar)",
+                "s": "Se te pasará. (You'll get over it.)"
+            },
+            {
+                "id": "es-1506",
+                "w": "momentos",
+                "p": "moˈmentos",
+                "d": "moments",
+                "s": "Es uno de esos momentos. (It's one of those moments.)"
+            },
+            {
+                "id": "es-1507",
+                "w": "coger",
+                "p": "koˈxeɾ",
+                "d": "to take; to grab",
+                "s": "¿Puedes coger esto? (Can you take this?)"
+            },
+            {
+                "id": "es-1508",
+                "w": "posibilidad",
+                "p": "posibiliˈdad",
+                "d": "possibility",
+                "s": "Es una posibilidad. (I think it's a possibility.)"
+            },
+            {
+                "id": "es-1509",
+                "w": "hubiese",
+                "p": "uˈbjese",
+                "d": "had (subjunctive of haber)",
+                "s": "¡Ojalá hubiese seguido tu consejo! (If I'd only taken your advice!)"
+            },
+            {
+                "id": "es-1510",
+                "w": "asiento",
+                "p": "aˈsjento",
+                "d": "seat",
+                "s": "Toma asiento. (Have a seat.)"
+            },
+            {
+                "id": "es-1511",
+                "w": "tuviste",
+                "p": "tuˈbiste",
+                "d": "you had (tener)",
+                "s": "Oímos que tuviste problemas. (We heard that you had trouble.)"
+            },
+            {
+                "id": "es-1512",
+                "w": "herido",
+                "p": "eˈɾido",
+                "d": "injured; wounded",
+                "s": "Estoy herido. (I'm hurt.)"
+            },
+            {
+                "id": "es-1513",
+                "w": "maría",
+                "p": "maˈɾia",
+                "d": "Mary",
+                "s": "Layla fumaba maría. (Layla smoked pot.)"
+            },
+            {
+                "id": "es-1514",
+                "w": "seguramente",
+                "p": "seˌɡuɾaˈmente",
+                "d": "surely; certainly",
+                "s": "Tom seguramente vendrá. (Tom will surely come.)"
+            },
+            {
+                "id": "es-1515",
+                "w": "proyecto",
+                "p": "pɾoˈʝeɡto",
+                "d": "project",
+                "s": "El proyecto falló. (The project failed.)"
+            },
+            {
+                "id": "es-1516",
+                "w": "pared",
+                "p": "paˈɾed",
+                "d": "wall",
+                "s": "Esa es la pared. (That's the wall.)"
+            },
+            {
+                "id": "es-1517",
+                "w": "sentí",
+                "p": "sentí",
+                "d": "I felt (sentir)",
+                "s": "Me sentí mal. (I felt ill.)"
+            },
+            {
+                "id": "es-1518",
+                "w": "sospechoso",
+                "p": "sospeˈt͡ʃoso",
+                "d": "suspicious",
+                "s": "Parece sospechoso. (It looks suspicious.)"
+            },
+            {
+                "id": "es-1519",
+                "w": "naturaleza",
+                "p": "natuɾaˈleθa",
+                "d": "nature",
+                "s": "Amo la naturaleza. (I love nature.)"
+            },
+            {
+                "id": "es-1520",
+                "w": "ésa",
+                "p": "ˈesa",
+                "d": "that one (feminine)",
+                "s": "¿Es ésa tuya? (Is that yours?)"
+            },
+            {
+                "id": "es-1521",
+                "w": "silla",
+                "p": "ˈsiʝa",
+                "d": "chair",
+                "s": "Es una silla. (It's a chair.)"
+            },
+            {
+                "id": "es-1522",
+                "w": "perdió",
+                "p": "perdió",
+                "d": "lost (perder)",
+                "s": "Tom perdió. (Tom lost.)"
+            },
+            {
+                "id": "es-1523",
+                "w": "policías",
+                "p": "policías",
+                "d": "police officers",
+                "s": "Los policías mienten. (Cops lie.)"
+            },
+            {
+                "id": "es-1524",
+                "w": "arreglar",
+                "p": "areˈɡlaɾ",
+                "d": "to fix; to arrange",
+                "s": "La puedo arreglar. (I can fix her.)"
+            },
+            {
+                "id": "es-1525",
+                "w": "sentado",
+                "p": "senˈtado",
+                "d": "seated",
+                "s": "¡Siga sentado! (Remain seated!)"
+            },
+            {
+                "id": "es-1526",
+                "w": "papi",
+                "p": "ˈpapi",
+                "d": "daddy",
+                "s": "Feliz cumpleaños, papi. (Happy birthday, Dad.)"
+            },
+            {
+                "id": "es-1527",
+                "w": "ideas",
+                "p": "iˈdeas",
+                "d": "ideas",
+                "s": "No le des ideas. (Don't give him any ideas.)"
+            },
+            {
+                "id": "es-1528",
+                "w": "obtener",
+                "p": "obteˈneɾ",
+                "d": "to obtain; to get",
+                "s": "Quiero obtener mucho. (I want to get a lot.)"
+            },
+            {
+                "id": "es-1529",
+                "w": "felices",
+                "p": "feˈliθes",
+                "d": "happy (plural)",
+                "s": "Son felices. (They're happy.)"
+            },
+            {
+                "id": "es-1530",
+                "w": "señoría",
+                "p": "seɲoˈɾia",
+                "d": "Your Honor; lordship",
+                "s": ""
+            },
+            {
+                "id": "es-1531",
+                "w": "cantidad",
+                "p": "kantiˈdad",
+                "d": "amount; quantity",
+                "s": "Hay una cantidad limitada. (Quantities are limited.)"
+            },
+            {
+                "id": "es-1532",
+                "w": "bebe",
+                "p": "ˈbebe",
+                "d": "drinks (beber)",
+                "s": "Ella bebe. (She drinks.)"
+            },
+            {
+                "id": "es-1533",
+                "w": "mírame",
+                "p": "mírame",
+                "d": "look at me",
+                "s": "Por favor, mírame. (Please, look at me.)"
+            },
+            {
+                "id": "es-1534",
+                "w": "papa",
+                "p": "ˈpapa",
+                "d": "pope; dad",
+                "s": "No sé ni papa. (I know nothing.)"
+            },
+            {
+                "id": "es-1535",
+                "w": "llorar",
+                "p": "ʝoˈɾaɾ",
+                "d": "to cry",
+                "s": "Te vi llorar. (I saw you crying.)"
+            },
+            {
+                "id": "es-1536",
+                "w": "quedó",
+                "p": "quedó",
+                "d": "stayed; remained; was left (quedar)",
+                "s": "Él quedó mal. (He lost face.)"
+            },
+            {
+                "id": "es-1537",
+                "w": "familiar",
+                "p": "famiˈljaɾ",
+                "d": "family; familiar",
+                "s": "Suena familiar. (It sounds familiar.)"
+            },
+            {
+                "id": "es-1538",
+                "w": "desastre",
+                "p": "deˈsastɾe",
+                "d": "disaster",
+                "s": "¡Qué desastre! (What a mess!)"
+            },
+            {
+                "id": "es-1539",
+                "w": "locos",
+                "p": "ˈlokos",
+                "d": "crazy (plural)",
+                "s": "Están locos. (They're crazy.)"
+            },
+            {
+                "id": "es-1540",
+                "w": "escuche",
+                "p": "esˈkut͡ʃe",
+                "d": "listen (subjunctive of escuchar)",
+                "s": "No nos escuche. (Don't listen to us.)"
+            },
+            {
+                "id": "es-1541",
+                "w": "quedarte",
+                "p": "quedarte",
+                "d": "to stay",
+                "s": "Puedes quedarte. (You can stay.)"
+            },
+            {
+                "id": "es-1542",
+                "w": "política",
+                "p": "poˈlitika",
+                "d": "politics; policy",
+                "s": "Odio la política. (I hate politics.)"
+            },
+            {
+                "id": "es-1543",
+                "w": "pedí",
+                "p": "peˈdi",
+                "d": "I asked for (pedir)",
+                "s": "No los pedí. (I didn't order them.)"
+            },
+            {
+                "id": "es-1544",
+                "w": "sois",
+                "p": "ˈsois",
+                "d": "you are (Spain plural)",
+                "s": "¿Cuántos sois? (How many are you?)"
+            },
+            {
+                "id": "es-1545",
+                "w": "nosotras",
+                "p": "noˈsotɾas",
+                "d": "we (feminine)",
+                "s": "Ven con nosotras. (Come with us.)"
+            },
+            {
+                "id": "es-1546",
+                "w": "enfermedad",
+                "p": "enfeɾmeˈdad",
+                "d": "illness; disease",
+                "s": "¿Qué enfermedad tengo? (What illness do I have?)"
+            },
+            {
+                "id": "es-1547",
+                "w": "encontraron",
+                "p": "encontraron",
+                "d": "they found (encontrar)",
+                "s": "Lo encontraron. (They found it.)"
+            },
+            {
+                "id": "es-1548",
+                "w": "colega",
+                "p": "koˈleɡa",
+                "d": "colleague; mate",
+                "s": "Él es mi colega. (He's my workmate.)"
+            },
+            {
+                "id": "es-1549",
+                "w": "príncipe",
+                "p": "ˈpɾinθipe",
+                "d": "prince",
+                "s": "Él es mi príncipe azul. (He is my Mr Right.)"
+            },
+            {
+                "id": "es-1550",
+                "w": "verde",
+                "p": "ˈbeɾde",
+                "d": "green",
+                "s": "Está verde. (It's green.)"
+            },
+            {
+                "id": "es-1551",
+                "w": "bajar",
+                "p": "baˈxaɾ",
+                "d": "to go down; to lower",
+                "s": "¿Vas a bajar? (Are you coming down?)"
+            },
+            {
+                "id": "es-1552",
+                "w": "nervioso",
+                "p": "neɾˈbjoso",
+                "d": "nervous",
+                "s": "Eres nervioso. (You're restless.)"
+            },
+            {
+                "id": "es-1553",
+                "w": "vengo",
+                "p": "ˈbenɡo",
+                "d": "I come (venir)",
+                "s": "Aquí vengo. (Here I come.)"
+            },
+            {
+                "id": "es-1554",
+                "w": "inspector",
+                "p": "inspeɡˈtoɾ",
+                "d": "inspector",
+                "s": "Retenlos un par de minutos hasta que llegue el inspector."
+            },
+            {
+                "id": "es-1555",
+                "w": "sirve",
+                "p": "sirve",
+                "d": "serves; works (servir)",
+                "s": "Ya no sirve. (It is no longer useful.)"
+            },
+            {
+                "id": "es-1556",
+                "w": "puertas",
+                "p": "puertas",
+                "d": "doors",
+                "s": "Abrí las puertas. (I opened the doors.)"
+            },
+            {
+                "id": "es-1557",
+                "w": "fuerzas",
+                "p": "ˈfweɾθas",
+                "d": "strength; forces",
+                "s": "Ya no tengo fuerzas. (I've got no strength left.)"
+            },
+            {
+                "id": "es-1558",
+                "w": "playa",
+                "p": "ˈplaʝa",
+                "d": "beach",
+                "s": "Amo la playa. (I love the beach.)"
+            },
+            {
+                "id": "es-1559",
+                "w": "cantar",
+                "p": "kanˈtaɾ",
+                "d": "to sing",
+                "s": "Ama cantar. (He loves singing.)"
+            },
+            {
+                "id": "es-1560",
+                "w": "déjeme",
+                "p": "déjeme",
+                "d": "let me (formal)",
+                "s": "Váyase y déjeme en paz. (Go away and leave me alone.)"
+            },
+            {
+                "id": "es-1561",
+                "w": "velocidad",
+                "p": "beloθiˈdad",
+                "d": "speed; velocity",
+                "s": "Él corrió a toda velocidad (He ran at full speed.)"
+            },
+            {
+                "id": "es-1562",
+                "w": "total",
+                "p": "toˈtal",
+                "d": "in short; altogether",
+                "s": "Somos ocho en total. (We are eight altogether.)"
+            },
+            {
+                "id": "es-1563",
+                "w": "cabello",
+                "p": "kaˈbeʝo",
+                "d": "hair",
+                "s": "Él tocó su cabello. (He touched her hair.)"
+            },
+            {
+                "id": "es-1564",
+                "w": "suficientemente",
+                "p": "sufiˌθjenteˈmente",
+                "d": "sufficiently",
+                "s": "Soy suficientemente mayor. (I'm old enough.)"
+            },
+            {
+                "id": "es-1565",
+                "w": "huellas",
+                "p": "huellas",
+                "d": "footprints; traces",
+                "s": "Tomaron mis huellas. (They fingerprinted me.)"
+            },
+            {
+                "id": "es-1566",
+                "w": "haberte",
+                "p": "aˈbeɾte",
+                "d": "to have you",
+                "s": "Creí haberte oído. (I thought I heard you.)"
+            },
+            {
+                "id": "es-1567",
+                "w": "debí",
+                "p": "deˈbi",
+                "d": "I had to; I should have (deber)",
+                "s": "No debí meterme. (I shouldn't have gotten involved.)"
+            },
+            {
+                "id": "es-1568",
+                "w": "unidad",
+                "p": "uniˈdad",
+                "d": "unit; unity",
+                "s": "A la mierda la unidad. (Fuck unity.)"
+            },
+            {
+                "id": "es-1569",
+                "w": "estan",
+                "p": "esˈtan",
+                "d": "they are (misspelling of están)",
+                "s": "Tomás y María todavía no estan seguros por qué Juan quiere que hagan eso. (Tom and Mary are still not sure why John wants them to do that.)"
+            },
+            {
+                "id": "es-1570",
+                "w": "cuchillo",
+                "p": "kuˈt͡ʃiʝo",
+                "d": "knife",
+                "s": "Hay un cuchillo. (There is a knife.)"
+            },
+            {
+                "id": "es-1571",
+                "w": "oigan",
+                "p": "ˈoiɡan",
+                "d": "listen! (oír)",
+                "s": "Haz que te oigan. (Make them listen to you.)"
+            },
+            {
+                "id": "es-1572",
+                "w": "quienes",
+                "p": "ˈkjenes",
+                "d": "who (plural)",
+                "s": "Tomás sabe quienes son. (Tom knows who they are.)"
+            },
+            {
+                "id": "es-1573",
+                "w": "gana",
+                "p": "ˈɡana",
+                "d": "appetite; desire",
+                "s": "¿Quién gana? (Who's winning?)"
+            },
+            {
+                "id": "es-1574",
+                "w": "tonterías",
+                "p": "tonterías",
+                "d": "nonsense; silly things",
+                "s": "No digas tonterías. (Don't say crazy things.)"
+            },
+            {
+                "id": "es-1575",
+                "w": "emergencia",
+                "p": "emeɾˈxenθja",
+                "d": "emergency",
+                "s": "Es una emergencia. (It's an emergency.)"
+            },
+            {
+                "id": "es-1576",
+                "w": "perfecta",
+                "p": "peɾˈfeɡta",
+                "d": "perfect (feminine)",
+                "s": "¡Fue perfecta! (It was perfect!)"
+            },
+            {
+                "id": "es-1577",
+                "w": "hable",
+                "p": "ˈable",
+                "d": "speak (subjunctive of hablar)",
+                "s": "No hable por mí. (Don't speak for me.)"
+            },
+            {
+                "id": "es-1578",
+                "w": "gustaba",
+                "p": "gustaba",
+                "d": "pleased; used to like (gustar)",
+                "s": "Me gustaba. (I liked him.)"
+            },
+            {
+                "id": "es-1579",
+                "w": "lugares",
+                "p": "lugares",
+                "d": "places",
+                "s": "¿Qué lugares disfrutas? (What places do you enjoy?)"
+            },
+            {
+                "id": "es-1580",
+                "w": "show",
+                "p": "ˈʃow",
+                "d": "show",
+                "s": "No veo ese show. (I don't watch that show.)"
+            },
+            {
+                "id": "es-1581",
+                "w": "robo",
+                "p": "ˈrobo",
+                "d": "robbery; theft",
+                "s": "Yo no robo. (I don't steal.)"
+            },
+            {
+                "id": "es-1582",
+                "w": "permite",
+                "p": "peɾˈmite",
+                "d": "allows; permits (permitir)",
+                "s": "¿Me permite? (May I?)"
+            },
+            {
+                "id": "es-1583",
+                "w": "parque",
+                "p": "ˈpaɾke",
+                "d": "park",
+                "s": "Va al parque. (He's going to the park.)"
+            },
+            {
+                "id": "es-1584",
+                "w": "roto",
+                "p": "ˈroto",
+                "d": "broken",
+                "s": "Está roto. (It's broken.)"
+            },
+            {
+                "id": "es-1585",
+                "w": "serie",
+                "p": "ˈseɾje",
+                "d": "series",
+                "s": "¡Qué serie de mierda! (What a shitty series!)"
+            },
+            {
+                "id": "es-1586",
+                "w": "puse",
+                "p": "ˈpuse",
+                "d": "I put (poner)",
+                "s": "Me puse malo. (I got sick.)"
+            },
+            {
+                "id": "es-1587",
+                "w": "nuevas",
+                "p": "ˈnwebas",
+                "d": "new (feminine plural)",
+                "s": "Están nuevas. (They're new.)"
+            },
+            {
+                "id": "es-1588",
+                "w": "evidencia",
+                "p": "ebiˈdenθja",
+                "d": "evidence",
+                "s": "Tengo evidencia. (I've got evidence.)"
+            },
+            {
+                "id": "es-1589",
+                "w": "conocerte",
+                "p": "conocerte",
+                "d": "to meet you; to know you",
+                "s": "Quiero conocerte. (I want to know you.)"
+            },
+            {
+                "id": "es-1590",
+                "w": "estúpida",
+                "p": "estúpida",
+                "d": "stupid (feminine)",
+                "s": "No es estúpida. (She's not stupid.)"
+            },
+            {
+                "id": "es-1591",
+                "w": "preocupe",
+                "p": "preocupe",
+                "d": "worry (subjunctive of preocupar)",
+                "s": "No se preocupe. (Don't concern yourself.)"
+            },
+            {
+                "id": "es-1592",
+                "w": "perdone",
+                "p": "perdone",
+                "d": "forgive (subjunctive of perdonar)",
+                "s": "Que Dios me perdone. (Astaghfirullah.)"
+            },
+            {
+                "id": "es-1593",
+                "w": "botella",
+                "p": "boˈteʝa",
+                "d": "bottle",
+                "s": "Es una botella. (It's a bottle.)"
+            },
+            {
+                "id": "es-1594",
+                "w": "viento",
+                "p": "ˈbjento",
+                "d": "wind",
+                "s": "Hace viento. (It's windy.)"
+            },
+            {
+                "id": "es-1595",
+                "w": "mando",
+                "p": "ˈmando",
+                "d": "control; command; remote",
+                "s": "Tomas el mando. (You're taking over.)"
+            },
+            {
+                "id": "es-1596",
+                "w": "extraña",
+                "p": "e(ɡ)sˈtɾaɲa",
+                "d": "strange (feminine)",
+                "s": "Ella lo extraña. (She misses him.)"
+            },
+            {
+                "id": "es-1597",
+                "w": "historias",
+                "p": "historias",
+                "d": "stories",
+                "s": "Se inventa historias. (He makes up stories.)"
+            },
+            {
+                "id": "es-1598",
+                "w": "aquella",
+                "p": "aˈkeʝa",
+                "d": "that (over there; feminine)",
+                "s": "Mira aquella casa. (Look at that house.)"
+            },
+            {
+                "id": "es-1599",
+                "w": "tenéis",
+                "p": "teˈneis",
+                "d": "you have (Spain plural)",
+                "s": "¿Qué tenéis? (What do you have?)"
+            },
+            {
+                "id": "es-1600",
+                "w": "solos",
+                "p": "ˈsolos",
+                "d": "alone (plural)",
+                "s": "Están solos. (They're alone.)"
+            },
+            {
+                "id": "es-1601",
+                "w": "apoyo",
+                "p": "aˈpoʝo",
+                "d": "support",
+                "s": "Yo lo apoyo. (I support him.)"
+            },
+            {
+                "id": "es-1602",
+                "w": "bala",
+                "p": "ˈbala",
+                "d": "bullet",
+                "s": "El borrego bala. (The sheep bleats.)"
+            },
+            {
+                "id": "es-1603",
+                "w": "verdadera",
+                "p": "verdadera",
+                "d": "true; real (feminine)",
+                "s": "¡Es una verdadera bruja! (She is a true witch!)"
+            },
+            {
+                "id": "es-1604",
+                "w": "tiro",
+                "p": "ˈtiɾo",
+                "d": "shot; throw",
+                "s": "¡Buen tiro! (Nice shot!)"
+            },
+            {
+                "id": "es-1605",
+                "w": "época",
+                "p": "ˈepoka",
+                "d": "era; time",
+                "s": "Yo era estudiante en esa época. (I was a student at that time.)"
+            },
+            {
+                "id": "es-1606",
+                "w": "puente",
+                "p": "ˈpwente",
+                "d": "bridge",
+                "s": "El puente cedió. (The bridge gave way.)"
+            },
+            {
+                "id": "es-1607",
+                "w": "olvídalo",
+                "p": "olvídalo",
+                "d": "forget it",
+                "s": "Por favor, olvídalo. (Please forget it.)"
+            },
+            {
+                "id": "es-1608",
+                "w": "distancia",
+                "p": "disˈtanθja",
+                "d": "distance",
+                "s": "¿A qué distancia? (How far?)"
+            },
+            {
+                "id": "es-1609",
+                "w": "desea",
+                "p": "desea",
+                "d": "wishes; desires (desear)",
+                "s": "¿Qué desea? (What does she desire?)"
+            },
+            {
+                "id": "es-1610",
+                "w": "dejarlo",
+                "p": "dejarlo",
+                "d": "to leave it",
+                "s": "¿Deseas dejarlo? (Do you want to quit?)"
+            },
+            {
+                "id": "es-1611",
+                "w": "pelear",
+                "p": "peleˈaɾ",
+                "d": "to fight",
+                "s": "Odio pelear. (I hate fighting.)"
+            },
+            {
+                "id": "es-1612",
+                "w": "pierna",
+                "p": "ˈpjeɾna",
+                "d": "leg",
+                "s": "¿Qué pierna duele? (Which leg hurts?)"
+            },
+            {
+                "id": "es-1613",
+                "w": "echar",
+                "p": "eˈt͡ʃaɾ",
+                "d": "to throw; to fire; to pour",
+                "s": "Lo voy a echar. (I'll fire them.)"
+            },
+            {
+                "id": "es-1614",
+                "w": "descanso",
+                "p": "desˈkanso",
+                "d": "rest; break",
+                "s": "Tómate un descanso. (Take a break.)"
+            },
+            {
+                "id": "es-1615",
+                "w": "área",
+                "p": "ˈaɾea",
+                "d": "area",
+                "s": "¿Tú eres del área? (Are you from around here?)"
+            },
+            {
+                "id": "es-1616",
+                "w": "orgulloso",
+                "p": "oɾɡuˈʝoso",
+                "d": "proud",
+                "s": "Estoy orgulloso. (I'm proud.)"
+            },
+            {
+                "id": "es-1617",
+                "w": "datos",
+                "p": "ˈdatos",
+                "d": "data",
+                "s": "Verifique sus datos. (Check your facts.)"
+            },
+            {
+                "id": "es-1618",
+                "w": "espectáculo",
+                "p": "espeɡˈtakulo",
+                "d": "show; spectacle",
+                "s": "¡Buen espectáculo! (Good show!)"
+            },
+            {
+                "id": "es-1619",
+                "w": "sube",
+                "p": "sube",
+                "d": "goes up; rises (subir)",
+                "s": "El sonido sube y baja. (The sound rises and falls.)"
+            },
+            {
+                "id": "es-1620",
+                "w": "dejaste",
+                "p": "dejaste",
+                "d": "you left (dejar)",
+                "s": "Lo dejaste morir. (You let him die.)"
+            },
+            {
+                "id": "es-1621",
+                "w": "acabas",
+                "p": "aˈkabas",
+                "d": "you finish (acabar)",
+                "s": "¿Lo acabas de robar? (Did you just steal this?)"
+            },
+            {
+                "id": "es-1622",
+                "w": "verá",
+                "p": "beˈɾa",
+                "d": "will see (ver)",
+                "s": "No nos verá nadie. (No one will see us.)"
+            },
+            {
+                "id": "es-1623",
+                "w": "magia",
+                "p": "ˈmaxja",
+                "d": "magic",
+                "s": "Eso fue magia. (That was magic.)"
+            },
+            {
+                "id": "es-1624",
+                "w": "nacional",
+                "p": "naθjoˈnal",
+                "d": "national",
+                "s": "Él se volvió un héroe nacional. (He became a national hero.)"
+            },
+            {
+                "id": "es-1625",
+                "w": "universo",
+                "p": "uniˈbeɾso",
+                "d": "universe",
+                "s": "El universo me odia. (The universe hates me.)"
+            },
+            {
+                "id": "es-1626",
+                "w": "llevaba",
+                "p": "llevaba",
+                "d": "carried; was wearing; led (llevar)",
+                "s": "Él llevaba gafas. (He wore glasses.)"
+            },
+            {
+                "id": "es-1627",
+                "w": "necesitar",
+                "p": "neθesiˈtaɾ",
+                "d": "to need",
+                "s": "Voy a necesitar tu ayuda. (I'm going to need your help.)"
+            },
+            {
+                "id": "es-1628",
+                "w": "nariz",
+                "p": "naˈɾiθ",
+                "d": "nose",
+                "s": "Sonate la nariz. (Wipe your nose.)"
+            },
+            {
+                "id": "es-1629",
+                "w": "aquellos",
+                "p": "aˈkeʝos",
+                "d": "those (over there)",
+                "s": "Es uno de aquellos. (It's one of those.)"
+            },
+            {
+                "id": "es-1630",
+                "w": "clases",
+                "p": "ˈklases",
+                "d": "classes; lessons",
+                "s": "¿Tienes clases hoy? (Do you have school today?)"
+            },
+            {
+                "id": "es-1631",
+                "w": "casas",
+                "p": "ˈkasas",
+                "d": "houses",
+                "s": "Construyo casas. (I build houses.)"
+            },
+            {
+                "id": "es-1632",
+                "w": "vergüenza",
+                "p": "beɾˈɡwenθa",
+                "d": "shame; embarrassment",
+                "s": "¡Qué vergüenza! (What a shame!)"
+            },
+            {
+                "id": "es-1633",
+                "w": "estarán",
+                "p": "estaˈɾan",
+                "d": "they will be (estar)",
+                "s": "Pronto estarán casados. (They'll soon be married.)"
+            },
+            {
+                "id": "es-1634",
+                "w": "monstruo",
+                "p": "ˈmonstɾwo",
+                "d": "monster",
+                "s": "Soy un monstruo. (I'm a monster.)"
+            },
+            {
+                "id": "es-1635",
+                "w": "princesa",
+                "p": "pɾinˈθesa",
+                "d": "princess",
+                "s": "Sos mi princesa. (You're my princess.)"
+            },
+            {
+                "id": "es-1636",
+                "w": "autobús",
+                "p": "autoˈbus",
+                "d": "bus",
+                "s": "Llegó en autobús. (He came by bus.)"
+            },
+            {
+                "id": "es-1637",
+                "w": "cuidar",
+                "p": "kwiˈdaɾ",
+                "d": "to take care of; to look after",
+                "s": "Debes cuidar de mí. (You must take care of me.)"
+            },
+            {
+                "id": "es-1638",
+                "w": "huevos",
+                "p": "ˈw̝ebos",
+                "d": "eggs",
+                "s": "Son huevos. (They're eggs.)"
+            },
+            {
+                "id": "es-1639",
+                "w": "pocos",
+                "p": "ˈpokos",
+                "d": "few",
+                "s": "Quedan pocos. (There aren't many left.)"
+            },
+            {
+                "id": "es-1640",
+                "w": "podrás",
+                "p": "podrás",
+                "d": "you will be able (poder)",
+                "s": "Pronto te podrás ir. (You'll be allowed to go out soon.)"
+            },
+            {
+                "id": "es-1641",
+                "w": "enferma",
+                "p": "enˈfeɾma",
+                "d": "sick (feminine)",
+                "s": "Me enferma. (It sickens me.)"
+            },
+            {
+                "id": "es-1642",
+                "w": "paseo",
+                "p": "paˈseo",
+                "d": "walk; stroll",
+                "s": "Yo di un paseo. (I took a walk.)"
+            },
+            {
+                "id": "es-1643",
+                "w": "detalles",
+                "p": "detalles",
+                "d": "details",
+                "s": "Espero detalles. (I expect details.)"
+            },
+            {
+                "id": "es-1644",
+                "w": "llamadas",
+                "p": "ʝaˈmadas",
+                "d": "calls",
+                "s": "Retenga mis llamadas. (Hold my calls.)"
+            },
+            {
+                "id": "es-1645",
+                "w": "belleza",
+                "p": "beˈʝeθa",
+                "d": "beauty",
+                "s": "¡Que belleza! (What a beauty!)"
+            },
+            {
+                "id": "es-1646",
+                "w": "abierto",
+                "p": "aˈbjeɾto",
+                "d": "open",
+                "s": "Está abierto. (It's open.)"
+            },
+            {
+                "id": "es-1647",
+                "w": "viviendo",
+                "p": "viviendo",
+                "d": "living (gerund of vivir)",
+                "s": "Estoy viviendo solo. (I'm living alone.)"
+            },
+            {
+                "id": "es-1648",
+                "w": "envió",
+                "p": "envió",
+                "d": "sent (enviar)",
+                "s": "¿Quién te envió? (Who sent you?)"
+            },
+            {
+                "id": "es-1649",
+                "w": "puntos",
+                "p": "puntos",
+                "d": "points",
+                "s": "Ha necesitado cinco puntos. (He needed five stitches.)"
+            },
+            {
+                "id": "es-1650",
+                "w": "ministro",
+                "p": "miˈnistɾo",
+                "d": "minister",
+                "s": "El primer ministro dimitió ayer. (The Prime Minister resigned yesterday.)"
+            },
+            {
+                "id": "es-1651",
+                "w": "conducir",
+                "p": "konduˈθiɾ",
+                "d": "to drive; to lead",
+                "s": "Sé conducir. (I know how to drive.)"
+            },
+            {
+                "id": "es-1652",
+                "w": "aceptar",
+                "p": "aθebˈtaɾ",
+                "d": "to accept",
+                "s": "No puedo aceptar. (I cannot accept.)"
+            },
+            {
+                "id": "es-1653",
+                "w": "borracho",
+                "p": "boˈrat͡ʃo",
+                "d": "drunk",
+                "s": "Estoy borracho. (I'm drunk.)"
+            },
+            {
+                "id": "es-1654",
+                "w": "animal",
+                "p": "aniˈmal",
+                "d": "animal",
+                "s": "Sos un animal. (You're an animal.)"
+            },
+            {
+                "id": "es-1655",
+                "w": "caballos",
+                "p": "kaˈbaʝos",
+                "d": "horses",
+                "s": "Tenemos caballos. (We have horses.)"
+            },
+            {
+                "id": "es-1656",
+                "w": "trajo",
+                "p": "trajo",
+                "d": "brought (traer)",
+                "s": "¿Qué trajo Tom? (What did Tom bring?)"
+            },
+            {
+                "id": "es-1657",
+                "w": "contrato",
+                "p": "konˈtɾato",
+                "d": "contract",
+                "s": "Se firmó el contrato. (The contract was signed.)"
+            },
+            {
+                "id": "es-1658",
+                "w": "viernes",
+                "p": "ˈbjeɾnes",
+                "d": "Friday",
+                "s": "Hoy es viernes. (Today is Friday.)"
+            },
+            {
+                "id": "es-1659",
+                "w": "bienvenidos",
+                "p": "bienvenidos",
+                "d": "welcome (plural)",
+                "s": "Sed bienvenidos. (Welcome.)"
+            },
+            {
+                "id": "es-1660",
+                "w": "ex",
+                "p": "ˈeɡs",
+                "d": "former; ex-",
+                "s": "Tom es mi ex. (Tom is my ex.)"
+            },
+            {
+                "id": "es-1661",
+                "w": "hechos",
+                "p": "ˈet͡ʃos",
+                "d": "facts; deeds",
+                "s": "Negó los hechos. (He denied the facts.)"
+            },
+            {
+                "id": "es-1662",
+                "w": "sociedad",
+                "p": "soθjeˈdad",
+                "d": "society",
+                "s": "Somos la sociedad. (We are the society.)"
+            },
+            {
+                "id": "es-1663",
+                "w": "tengan",
+                "p": "ˈtenɡan",
+                "d": "have (subjunctive of tener)",
+                "s": "Quizás ellas tengan algo. (Maybe they have something.)"
+            },
+            {
+                "id": "es-1664",
+                "w": "quede",
+                "p": "quede",
+                "d": "stay (subjunctive of quedar)",
+                "s": "Deja que me quede. (Permit me to stay.)"
+            },
+            {
+                "id": "es-1665",
+                "w": "carga",
+                "p": "ˈkaɾɡa",
+                "d": "load; cargo; charge",
+                "s": "Es un barco de carga. (It's a cargo ship.)"
+            },
+            {
+                "id": "es-1666",
+                "w": "diste",
+                "p": "ˈdiste",
+                "d": "you gave (dar)",
+                "s": "Me lo diste. (You gave it to me.)"
+            },
+            {
+                "id": "es-1667",
+                "w": "puto",
+                "p": "ˈputo",
+                "d": "fucking; damn",
+                "s": "¡Qué puto frío! (It's so fucking cold!)"
+            },
+            {
+                "id": "es-1668",
+                "w": "lleve",
+                "p": "lleve",
+                "d": "carry (subjunctive of llevar)",
+                "s": "No lleve eso. (Don't wear that.)"
+            },
+            {
+                "id": "es-1669",
+                "w": "presente",
+                "p": "pɾeˈsente",
+                "d": "present; gift",
+                "s": "Estaré presente. (I'll attend.)"
+            },
+            {
+                "id": "es-1670",
+                "w": "conocía",
+                "p": "conocía",
+                "d": "knew (imperfect of conocer)",
+                "s": "Él me conocía. (He knew me.)"
+            },
+            {
+                "id": "es-1671",
+                "w": "uso",
+                "p": "ˈuso",
+                "d": "use",
+                "s": "Yo lo uso. (I use it.)"
+            },
+            {
+                "id": "es-1672",
+                "w": "dedos",
+                "p": "dedos",
+                "d": "fingers",
+                "s": "Mirá mis dedos. (Watch my fingers.)"
+            },
+            {
+                "id": "es-1673",
+                "w": "oferta",
+                "p": "oˈfeɾta",
+                "d": "offer; deal",
+                "s": "Haz una oferta. (Make an offer.)"
+            },
+            {
+                "id": "es-1674",
+                "w": "sentía",
+                "p": "sentía",
+                "d": "felt (imperfect of sentir)",
+                "s": "Me sentía mal. (I felt bad.)"
+            },
+            {
+                "id": "es-1675",
+                "w": "proteger",
+                "p": "pɾoteˈxeɾ",
+                "d": "to protect",
+                "s": "Tom te va a proteger. (Tom will protect you.)"
+            },
+            {
+                "id": "es-1676",
+                "w": "date",
+                "p": "ˈdate",
+                "d": "hurry up (darse)",
+                "s": "Mejor date prisa. (You better hurry.)"
+            },
+            {
+                "id": "es-1677",
+                "w": "hiciera",
+                "p": "iˈθjeɾa",
+                "d": "did; made (subjunctive of hacer)",
+                "s": "Ojalá hiciera eso. (I wish I had done that.)"
+            },
+            {
+                "id": "es-1678",
+                "w": "hablé",
+                "p": "aˈble",
+                "d": "I spoke (hablar)",
+                "s": "¡Ya hablé! (I have spoken!)"
+            },
+            {
+                "id": "es-1679",
+                "w": "recibir",
+                "p": "reθiˈbiɾ",
+                "d": "to receive",
+                "s": "Quiero recibir. (I want to receive.)"
+            },
+            {
+                "id": "es-1680",
+                "w": "agradezco",
+                "p": "aɡɾaˈdeθko",
+                "d": "I thank; I appreciate (agradecer)",
+                "s": "Te lo agradezco. (Thank you.)"
+            },
+            {
+                "id": "es-1681",
+                "w": "robar",
+                "p": "roˈbaɾ",
+                "d": "to rob; to steal",
+                "s": "Copiar no es robar. (Copying is not theft.)"
+            },
+            {
+                "id": "es-1682",
+                "w": "enamorado",
+                "p": "enamoˈɾado",
+                "d": "in love",
+                "s": "Está enamorado. (He's in love.)"
+            },
+            {
+                "id": "es-1683",
+                "w": "sepas",
+                "p": "ˈsepas",
+                "d": "know (subjunctive of saber)",
+                "s": "Espero que lo sepas. (I hope you know that.)"
+            },
+            {
+                "id": "es-1684",
+                "w": "oeste",
+                "p": "oˈeste",
+                "d": "west",
+                "s": "Vamos al oeste. (Let's go west.)"
+            },
+            {
+                "id": "es-1685",
+                "w": "herida",
+                "p": "eˈɾida",
+                "d": "wound; injury",
+                "s": "Estás herida. (You're wounded.)"
+            },
+            {
+                "id": "es-1686",
+                "w": "despacio",
+                "p": "desˈpaθjo",
+                "d": "slowly",
+                "s": "Más despacio. (Slow down.)"
+            },
+            {
+                "id": "es-1687",
+                "w": "ayude",
+                "p": "ayude",
+                "d": "help (subjunctive of ayudar)",
+                "s": "Dile que le ayude. (Tell her to help him.)"
+            },
+            {
+                "id": "es-1688",
+                "w": "supe",
+                "p": "ˈsupe",
+                "d": "I found out; I knew (saber)",
+                "s": "Yo no supe. (I didn't know.)"
+            },
+            {
+                "id": "es-1689",
+                "w": "directamente",
+                "p": "diˌɾeɡtaˈmente",
+                "d": "directly",
+                "s": "No hablé directamente con Tom. (I didn't speak with Tom directly.)"
+            },
+            {
+                "id": "es-1690",
+                "w": "inmediato",
+                "p": "immeˈdjato",
+                "d": "immediate",
+                "s": "Hazlo de inmediato. (Do it at once.)"
+            },
+            {
+                "id": "es-1691",
+                "w": "profesional",
+                "p": "pɾofesjoˈnal",
+                "d": "professional",
+                "s": "No soy un profesional. (I am not a professional.)"
+            },
+            {
+                "id": "es-1692",
+                "w": "oscuro",
+                "p": "osˈkuɾo",
+                "d": "dark",
+                "s": "Está oscuro. (It's dark.)"
+            },
+            {
+                "id": "es-1693",
+                "w": "mercado",
+                "p": "meɾˈkado",
+                "d": "market",
+                "s": "Voy al mercado. (I go to the market.)"
+            },
+            {
+                "id": "es-1694",
+                "w": "cerdo",
+                "p": "ˈθeɾdo",
+                "d": "pig",
+                "s": "Sos un cerdo. (You're a pig.)"
+            },
+            {
+                "id": "es-1695",
+                "w": "tardes",
+                "p": "tardes",
+                "d": "afternoons",
+                "s": "¡No tardes! (Don't be late!)"
+            },
+            {
+                "id": "es-1696",
+                "w": "líder",
+                "p": "ˈlideɾ",
+                "d": "leader",
+                "s": "Eres el líder. (You're the leader.)"
+            },
+            {
+                "id": "es-1697",
+                "w": "grave",
+                "p": "ˈɡɾabe",
+                "d": "serious; grave",
+                "s": "¿Es grave? (Is it bad?)"
+            },
+            {
+                "id": "es-1698",
+                "w": "llegué",
+                "p": "ʝeˈɡe",
+                "d": "I arrived (llegar)",
+                "s": "¡Ya llegué! (I already arrived!)"
+            },
+            {
+                "id": "es-1699",
+                "w": "jurado",
+                "p": "xuˈɾado",
+                "d": "jury",
+                "s": "Perjuró ante el jurado. (She perjured herself before the jury.)"
+            },
+            {
+                "id": "es-1700",
+                "w": "casos",
+                "p": "ˈkasos",
+                "d": "cases",
+                "s": "Son los casos extremos. (They are the extreme cases.)"
+            },
+            {
+                "id": "es-1701",
+                "w": "acuerdas",
+                "p": "acuerdas",
+                "d": "you remember (acordar)",
+                "s": "¿Te acuerdas? (Do you remember?)"
+            },
+            {
+                "id": "es-1702",
+                "w": "ahi",
+                "p": "ahi",
+                "d": "there (misspelling of ahí)",
+                "s": ""
+            },
+            {
+                "id": "es-1703",
+                "w": "desaparecido",
+                "p": "desapaɾeˈθido",
+                "d": "missing; disappeared",
+                "s": "La nieve ha desaparecido. (The snow has disappeared.)"
+            },
+            {
+                "id": "es-1704",
+                "w": "debió",
+                "p": "deˈbjo",
+                "d": "must have; owed (deber)",
+                "s": "Tom debió haber llamado. (Tom should've called.)"
+            },
+            {
+                "id": "es-1705",
+                "w": "hubieras",
+                "p": "uˈbjeɾas",
+                "d": "had (subjunctive of haber)",
+                "s": "Ojalá hubieras estado allí. (I wish you had been there.)"
+            },
+            {
+                "id": "es-1706",
+                "w": "últimamente",
+                "p": "ˌultimaˈmente",
+                "d": "lately; recently",
+                "s": "He engordado últimamente. (I've put on weight recently.)"
+            },
+            {
+                "id": "es-1707",
+                "w": "piedra",
+                "p": "ˈpjedɾa",
+                "d": "stone; rock",
+                "s": "Cogió una piedra. (He picked up a stone.)"
+            },
+            {
+                "id": "es-1708",
+                "w": "éramos",
+                "p": "ˈeɾamos",
+                "d": "we were (imperfect of ser)",
+                "s": "Solo éramos amigos. (We were just friends.)"
+            },
+            {
+                "id": "es-1709",
+                "w": "habló",
+                "p": "aˈblo",
+                "d": "spoke (hablar)",
+                "s": "Tom habló. (Tom spoke.)"
+            },
+            {
+                "id": "es-1710",
+                "w": "paga",
+                "p": "ˈpaɡa",
+                "d": "pay; payment",
+                "s": "¿Quién paga? (Who's paying?)"
+            },
+            {
+                "id": "es-1711",
+                "w": "secretos",
+                "p": "secretos",
+                "d": "secrets",
+                "s": "Tengo más secretos. (I've got more secrets.)"
+            },
+            {
+                "id": "es-1712",
+                "w": "digamos",
+                "p": "diˈɡamos",
+                "d": "let's say; so to speak",
+                "s": "Haz exactamente lo que te digamos. (Do exactly what we tell you.)"
+            },
+            {
+                "id": "es-1713",
+                "w": "intención",
+                "p": "intenˈθjon",
+                "d": "intention",
+                "s": "No era mi intención. (It wasn't my intention.)"
+            },
+            {
+                "id": "es-1714",
+                "w": "humor",
+                "p": "uˈmoɾ",
+                "d": "mood; humor",
+                "s": "Esta de mal humor. (He's cranky.)"
+            },
+            {
+                "id": "es-1715",
+                "w": "dura",
+                "p": "ˈduɾa",
+                "d": "hard; tough (feminine)",
+                "s": "El amor dura. (Love lasts.)"
+            },
+            {
+                "id": "es-1716",
+                "w": "dará",
+                "p": "daˈɾa",
+                "d": "will give (dar)",
+                "s": "Me dará hambre. (I'll get hungry.)"
+            },
+            {
+                "id": "es-1717",
+                "w": "seguros",
+                "p": "seˈɡuɾos",
+                "d": "sure; safe (plural)",
+                "s": "¿Están seguros? (Are you sure?)"
+            },
+            {
+                "id": "es-1718",
+                "w": "leo",
+                "p": "ˈleo",
+                "d": "I read (leer)",
+                "s": "Yo no leo. (I don't read.)"
+            },
+            {
+                "id": "es-1719",
+                "w": "ángeles",
+                "p": "ˈanxeles",
+                "d": "angels",
+                "s": "¿Crees en los ángeles? (Do you believe in angels?)"
+            },
+            {
+                "id": "es-1720",
+                "w": "querría",
+                "p": "querría",
+                "d": "would want; would like (querer)",
+                "s": "¿Qué querría Tom? (What would Tom want?)"
+            },
+            {
+                "id": "es-1721",
+                "w": "cerrar",
+                "p": "θeˈraɾ",
+                "d": "to close",
+                "s": "¿Debería cerrar? (Should I close?)"
+            },
+            {
+                "id": "es-1722",
+                "w": "conseguido",
+                "p": "konseˈɡido",
+                "d": "achieved; obtained",
+                "s": "Lo has conseguido. (You made it.)"
+            },
+            {
+                "id": "es-1723",
+                "w": "peso",
+                "p": "ˈpeso",
+                "d": "weight; peso",
+                "s": "Pierde peso. (Lose weight.)"
+            },
+            {
+                "id": "es-1724",
+                "w": "víctimas",
+                "p": "ˈbiɡtimas",
+                "d": "victims",
+                "s": "¿Cuántas víctimas hubo? (How many victims were there?)"
+            },
+            {
+                "id": "es-1725",
+                "w": "asesinado",
+                "p": "asesiˈnado",
+                "d": "murdered",
+                "s": "¿Quién fue asesinado? (Who was murdered?)"
+            },
+            {
+                "id": "es-1726",
+                "w": "humana",
+                "p": "uˈmana",
+                "d": "human (feminine)",
+                "s": "Ella es humana. (She is human.)"
+            },
+            {
+                "id": "es-1727",
+                "w": "directo",
+                "p": "diˈɾeɡto",
+                "d": "direct",
+                "s": "Seré directo. (I'll be direct.)"
+            },
+            {
+                "id": "es-1728",
+                "w": "central",
+                "p": "θenˈtɾal",
+                "d": "central",
+                "s": "Sami visitó el parque central. (Sami visited Central Park.)"
+            },
+            {
+                "id": "es-1729",
+                "w": "termina",
+                "p": "teɾˈmina",
+                "d": "finishes; ends (terminar)",
+                "s": "¿Cuándo termina? (When's it over?)"
+            },
+            {
+                "id": "es-1730",
+                "w": "compañeros",
+                "p": "compañeros",
+                "d": "companions; partners; colleagues",
+                "s": "Somos compañeros de clase. (We're classmates.)"
+            },
+            {
+                "id": "es-1731",
+                "w": "escuchado",
+                "p": "eskuˈt͡ʃado",
+                "d": "listened; heard (past participle of escuchar)",
+                "s": "Te he escuchado tocar. (I've heard you play.)"
+            },
+            {
+                "id": "es-1732",
+                "w": "contento",
+                "p": "konˈtento",
+                "d": "happy; content",
+                "s": "Estoy contento. (I'm glad.)"
+            },
+            {
+                "id": "es-1733",
+                "w": "llevan",
+                "p": "llevan",
+                "d": "they carry; they take (llevar)",
+                "s": "Se llevan a matar. (They really hate each other.)"
+            },
+            {
+                "id": "es-1734",
+                "w": "podré",
+                "p": "podré",
+                "d": "I will be able (poder)",
+                "s": "No podré ir. (I won't be able to make it.)"
+            },
+            {
+                "id": "es-1735",
+                "w": "oscuridad",
+                "p": "oskuɾiˈdad",
+                "d": "darkness",
+                "s": "No ve en la oscuridad. (You can't see in the dark.)"
+            },
+            {
+                "id": "es-1736",
+                "w": "actuar",
+                "p": "aɡˈtwaɾ",
+                "d": "to act",
+                "s": "Hay que actuar. (We must act.)"
+            },
+            {
+                "id": "es-1737",
+                "w": "siga",
+                "p": "ˈsiɡa",
+                "d": "continue (subjunctive of seguir)",
+                "s": "Tom quiere que lo siga. (Tom wants me to follow him.)"
+            },
+            {
+                "id": "es-1738",
+                "w": "llevado",
+                "p": "ʝeˈbado",
+                "d": "carried; taken (past participle of llevar)",
+                "s": "Ellos se la han llevado. (They have taken her away.)"
+            },
+            {
+                "id": "es-1739",
+                "w": "comenzó",
+                "p": "komenˈθo",
+                "d": "began; started (comenzar)",
+                "s": "Mary comenzó. (Mary began.)"
+            },
+            {
+                "id": "es-1740",
+                "w": "regresa",
+                "p": "regresa",
+                "d": "returns (regresar)",
+                "s": "¿Cuándo regresa Tom? (When is Tom coming back?)"
+            },
+            {
+                "id": "es-1741",
+                "w": "privado",
+                "p": "pɾiˈbado",
+                "d": "private",
+                "s": "¿Es privado? (Is it private?)"
+            },
+            {
+                "id": "es-1742",
+                "w": "mirada",
+                "p": "miˈɾada",
+                "d": "look; gaze",
+                "s": "Ella apartó la mirada. (She averted her eyes.)"
+            },
+            {
+                "id": "es-1743",
+                "w": "demonio",
+                "p": "deˈmonjo",
+                "d": "demon; devil",
+                "s": "¡Vete al demonio! (Go to hell!)"
+            },
+            {
+                "id": "es-1744",
+                "w": "abierta",
+                "p": "aˈbjeɾta",
+                "d": "open (feminine)",
+                "s": "Está abierta. (It's open.)"
+            },
+            {
+                "id": "es-1745",
+                "w": "llámame",
+                "p": "ˈʝamame",
+                "d": "call me",
+                "s": "Si llueve, llámame. (If it rains, call me.)"
+            },
+            {
+                "id": "es-1746",
+                "w": "siguen",
+                "p": "siguen",
+                "d": "they continue; they follow (seguir)",
+                "s": "Ellas me siguen. (They're following me.)"
+            },
+            {
+                "id": "es-1747",
+                "w": "romper",
+                "p": "romˈpeɾ",
+                "d": "to break",
+                "s": "Se puede romper. (It may break.)"
+            },
+            {
+                "id": "es-1748",
+                "w": "cambia",
+                "p": "ˈkambja",
+                "d": "changes (cambiar)",
+                "s": "Todo cambia. (Everything changes.)"
+            },
+            {
+                "id": "es-1749",
+                "w": "fiscal",
+                "p": "fisˈkal",
+                "d": "prosecutor; district attorney",
+                "s": "Tom es asesor fiscal. (Tom is a tax consultant.)"
+            },
+            {
+                "id": "es-1750",
+                "w": "jardín",
+                "p": "xaɾˈdin",
+                "d": "garden",
+                "s": "Vengo del jardín. (I'm coming from the garden.)"
+            },
+            {
+                "id": "es-1751",
+                "w": "natural",
+                "p": "natuˈɾal",
+                "d": "natural",
+                "s": "No es natural. (It's not natural.)"
+            },
+            {
+                "id": "es-1752",
+                "w": "gratis",
+                "p": "ˈɡɾatis",
+                "d": "free; for free",
+                "s": "Es gratis. (It's free.)"
+            },
+            {
+                "id": "es-1753",
+                "w": "cuesta",
+                "p": "ˈkwesta",
+                "d": "costs (costar)",
+                "s": "¿Cuánto cuesta? (How much is it?)"
+            },
+            {
+                "id": "es-1754",
+                "w": "amenaza",
+                "p": "ameˈnaθa",
+                "d": "threat",
+                "s": "Sois una amenaza. (You're a menace.)"
+            },
+            {
+                "id": "es-1755",
+                "w": "pon",
+                "p": "ˈpon",
+                "d": "put! (poner)",
+                "s": "Ahora pon atención. (Now pay attention.)"
+            },
+            {
+                "id": "es-1756",
+                "w": "marca",
+                "p": "ˈmaɾka",
+                "d": "brand; mark",
+                "s": "Adoro esa marca. (I love that brand.)"
+            },
+            {
+                "id": "es-1757",
+                "w": "comenzar",
+                "p": "komenˈθaɾ",
+                "d": "to begin",
+                "s": "¿Puedo comenzar? (Can I begin?)"
+            },
+            {
+                "id": "es-1758",
+                "w": "ponte",
+                "p": "ponte",
+                "d": "put on; stand (poner + te)",
+                "s": "Túmbate y ponte cómodo. (Lie down and make yourself comfortable.)"
+            },
+            {
+                "id": "es-1759",
+                "w": "medicina",
+                "p": "mediˈθina",
+                "d": "medicine",
+                "s": "Toma la medicina. (Take the medicine.)"
+            },
+            {
+                "id": "es-1760",
+                "w": "podremos",
+                "p": "podremos",
+                "d": "we will be able (poder)",
+                "s": "No podremos escapar. (We won't be able to escape.)"
+            },
+            {
+                "id": "es-1761",
+                "w": "tomé",
+                "p": "tomé",
+                "d": "I took; I drank (tomar)",
+                "s": "Ya tomé café. (I've had coffee already.)"
+            },
+            {
+                "id": "es-1762",
+                "w": "preciosa",
+                "p": "pɾeˈθjosa",
+                "d": "precious; beautiful",
+                "s": "Estás preciosa. (You're gorgeous.)"
+            },
+            {
+                "id": "es-1763",
+                "w": "sexual",
+                "p": "seɡˈswal",
+                "d": "sexual",
+                "s": "Yanni no tiene deseo sexual. (Yanni has no sexual desire.)"
+            },
+            {
+                "id": "es-1764",
+                "w": "acceso",
+                "p": "aɡˈθeso",
+                "d": "access",
+                "s": "No hay acceso a la playa. (No access to the beach.)"
+            },
+            {
+                "id": "es-1765",
+                "w": "necesidad",
+                "p": "neθesiˈdad",
+                "d": "need; necessity",
+                "s": "Fui allí por necesidad. (I went there of necessity.)"
+            },
+            {
+                "id": "es-1766",
+                "w": "dueño",
+                "p": "ˈdweɲo",
+                "d": "owner",
+                "s": "No soy el dueño. (I'm not the owner.)"
+            },
+            {
+                "id": "es-1767",
+                "w": "merece",
+                "p": "merece",
+                "d": "deserves (merecer)",
+                "s": "Él merece más. (He deserves more.)"
+            },
+            {
+                "id": "es-1768",
+                "w": "rayos",
+                "p": "ˈraʝos",
+                "d": "damn; heck",
+                "s": "¿Qué rayos es esto? (What in the world is this?)"
+            },
+            {
+                "id": "es-1769",
+                "w": "mintiendo",
+                "p": "mintiendo",
+                "d": "lying (gerund of mentir)",
+                "s": "Está mintiendo. (He is lying.)"
+            },
+            {
+                "id": "es-1770",
+                "w": "tantas",
+                "p": "ˈtantas",
+                "d": "so many (feminine)",
+                "s": "Tengo tantas ideas. (I have so many ideas.)"
+            },
+            {
+                "id": "es-1771",
+                "w": "imagino",
+                "p": "imaˈxino",
+                "d": "I imagine (imaginar)",
+                "s": "Lo imagino. (I guess so.)"
+            },
+            {
+                "id": "es-1772",
+                "w": "fantasma",
+                "p": "fanˈtasma",
+                "d": "ghost",
+                "s": "¿Sos un fantasma? (Are you a ghost?)"
+            },
+            {
+                "id": "es-1773",
+                "w": "creerlo",
+                "p": "creerlo",
+                "d": "to believe it",
+                "s": "¿Podés creerlo? (Can you believe that?)"
+            },
+            {
+                "id": "es-1774",
+                "w": "llamé",
+                "p": "ʝaˈme",
+                "d": "I called (llamar)",
+                "s": "Los llamé. (I called them.)"
+            },
+            {
+                "id": "es-1775",
+                "w": "ponga",
+                "p": "ponga",
+                "d": "put (subjunctive of poner)",
+                "s": "No ponga excusas. (Don't make excuses.)"
+            },
+            {
+                "id": "es-1776",
+                "w": "dé",
+                "p": "ˈde",
+                "d": "give (subjunctive of dar)",
+                "s": "No me lo dé. (Don't give me that.)"
+            },
+            {
+                "id": "es-1777",
+                "w": "pollo",
+                "p": "ˈpoʝo",
+                "d": "chicken",
+                "s": "Sabe a pollo. (It tastes like chicken.)"
+            },
+            {
+                "id": "es-1778",
+                "w": "varios",
+                "p": "ˈbaɾjos",
+                "d": "several; various",
+                "s": "Gané varios premios. (I won several prizes.)"
+            },
+            {
+                "id": "es-1779",
+                "w": "efecto",
+                "p": "eˈfeɡto",
+                "d": "effect",
+                "s": "En efecto. (Indeed.)"
+            },
+            {
+                "id": "es-1780",
+                "w": "felicidad",
+                "p": "feliθiˈdad",
+                "d": "happiness",
+                "s": "Eres mi felicidad. (You are my happiness.)"
+            },
+            {
+                "id": "es-1781",
+                "w": "espada",
+                "p": "esˈpada",
+                "d": "sword",
+                "s": "Dame mi espada. (Give me my sword.)"
+            },
+            {
+                "id": "es-1782",
+                "w": "relaciones",
+                "p": "relaciones",
+                "d": "relationships; relations",
+                "s": "Hemos roto relaciones con ellos. (We've broken off relations with them.)"
+            },
+            {
+                "id": "es-1783",
+                "w": "entró",
+                "p": "entró",
+                "d": "entered; went in (entrar)",
+                "s": "Yanni entró. (Yanni came in.)"
+            },
+            {
+                "id": "es-1784",
+                "w": "resultado",
+                "p": "resulˈtado",
+                "d": "result",
+                "s": "¿Has resultado herido? (Have you been injured?)"
+            },
+            {
+                "id": "es-1785",
+                "w": "sombrero",
+                "p": "somˈbɾeɾo",
+                "d": "hat",
+                "s": "Trae mi sombrero. (Bring my hat.)"
+            },
+            {
+                "id": "es-1786",
+                "w": "menor",
+                "p": "meˈnoɾ",
+                "d": "smaller; younger; minor",
+                "s": "Yo soy menor que él. (I'm younger than he is.)"
+            },
+            {
+                "id": "es-1787",
+                "w": "recibido",
+                "p": "reθiˈbido",
+                "d": "received (past participle of recibir)",
+                "s": "He recibido tu carta. (I got your letter.)"
+            },
+            {
+                "id": "es-1788",
+                "w": "negra",
+                "p": "ˈneɡɾa",
+                "d": "black (feminine)",
+                "s": "Era negra. (It was black.)"
+            },
+            {
+                "id": "es-1789",
+                "w": "to",
+                "p": "to",
+                "d": "whoa; stop",
+                "s": "Has oído alguna vez decir: \"Lying leads to thieving?\" (Have you ever heard the saying: \"Lying leads to thieving?\")"
+            },
+            {
+                "id": "es-1790",
+                "w": "habido",
+                "p": "aˈbido",
+                "d": "been (past participle of haber)",
+                "s": "Ha habido un robo. (There's been a burglary.)"
+            },
+            {
+                "id": "es-1791",
+                "w": "limpio",
+                "p": "ˈlimpjo",
+                "d": "clean",
+                "s": "Soy limpio. (I'm clean.)"
+            },
+            {
+                "id": "es-1792",
+                "w": "china",
+                "p": "ˈt͡ʃina",
+                "d": "Chinese woman",
+                "s": "Soy china. (I'm Chinese.)"
+            },
+            {
+                "id": "es-1793",
+                "w": "juegos",
+                "p": "ˈxweɡos",
+                "d": "games",
+                "s": "Nos gustan los juegos. (We like games.)"
+            },
+            {
+                "id": "es-1794",
+                "w": "correo",
+                "p": "koˈreo",
+                "d": "mail; post office",
+                "s": "Tienes correo. (You've got mail.)"
+            },
+            {
+                "id": "es-1795",
+                "w": "confía",
+                "p": "confía",
+                "d": "trusts (confiar)",
+                "s": "Tom confía en mí. (Tom trusts me.)"
+            },
+            {
+                "id": "es-1796",
+                "w": "video",
+                "p": "biˈdeo",
+                "d": "video",
+                "s": "Vea este video. (Watch this video.)"
+            },
+            {
+                "id": "es-1797",
+                "w": "perfectamente",
+                "p": "peɾˌfeɡtaˈmente",
+                "d": "perfectly",
+                "s": "Estoy perfectamente. (I'm fine.)"
+            },
+            {
+                "id": "es-1798",
+                "w": "harán",
+                "p": "aˈɾan",
+                "d": "they will do; they will make (hacer)",
+                "s": "¿Lo harán? (Will you do it?)"
+            },
+            {
+                "id": "es-1799",
+                "w": "teatro",
+                "p": "teˈatɾo",
+                "d": "theater",
+                "s": "Voy al teatro. (I go to the theatre.)"
+            },
+            {
+                "id": "es-1800",
+                "w": "dormido",
+                "p": "doɾˈmido",
+                "d": "asleep",
+                "s": "Está dormido. (He's asleep.)"
+            },
+            {
+                "id": "es-1801",
+                "w": "local",
+                "p": "loˈkal",
+                "d": "local",
+                "s": "El local está vacío. (The premises are empty.)"
+            },
+            {
+                "id": "es-1802",
+                "w": "quedado",
+                "p": "keˈdado",
+                "d": "stayed (past participle of quedar)",
+                "s": "Me he quedado ronco. (My voice got hoarse.)"
+            },
+            {
+                "id": "es-1803",
+                "w": "lástima",
+                "p": "ˈlastima",
+                "d": "pity; shame",
+                "s": "Qué lástima. (What a pity!)"
+            },
+            {
+                "id": "es-1804",
+                "w": "calles",
+                "p": "ˈkaʝes",
+                "d": "streets",
+                "s": "¡Te dije que te calles! (I said shut up!)"
+            },
+            {
+                "id": "es-1805",
+                "w": "créeme",
+                "p": "créeme",
+                "d": "believe me",
+                "s": "Solo créeme. (Just believe me.)"
+            },
+            {
+                "id": "es-1806",
+                "w": "responsabilidad",
+                "p": "responsabiliˈdad",
+                "d": "responsibility",
+                "s": "Es tu responsabilidad. (That is your responsibility.)"
+            },
+            {
+                "id": "es-1807",
+                "w": "búsqueda",
+                "p": "ˈbuskeda",
+                "d": "search",
+                "s": "Tom renunció a su búsqueda. (Tom abandoned his search.)"
+            },
+            {
+                "id": "es-1808",
+                "w": "dedo",
+                "p": "ˈdedo",
+                "d": "finger",
+                "s": "Fue mi dedo. (That was my finger.)"
+            },
+            {
+                "id": "es-1809",
+                "w": "tonta",
+                "p": "ˈtonta",
+                "d": "silly; stupid (feminine)",
+                "s": "Bésame, tonta! (Kiss me, you fool!)"
+            },
+            {
+                "id": "es-1810",
+                "w": "recuerdos",
+                "p": "recuerdos",
+                "d": "memories",
+                "s": "Se venden recuerdos. (Souvenirs are sold or are for sale.)"
+            },
+            {
+                "id": "es-1811",
+                "w": "razones",
+                "p": "razones",
+                "d": "reasons",
+                "s": "Di tus razones. (State your reasons.)"
+            },
+            {
+                "id": "es-1812",
+                "w": "escuchando",
+                "p": "escuchando",
+                "d": "listening (gerund of escuchar)",
+                "s": "Estoy escuchando. (I'm listening.)"
+            },
+            {
+                "id": "es-1813",
+                "w": "elegir",
+                "p": "eleˈxiɾ",
+                "d": "to choose",
+                "s": "Debes elegir. (You should choose.)"
+            },
+            {
+                "id": "es-1814",
+                "w": "amas",
+                "p": "ˈamas",
+                "d": "you love (amar)",
+                "s": "¿Qué amas? (What do you like?)"
+            },
+            {
+                "id": "es-1815",
+                "w": "huele",
+                "p": "ˈw̝ele",
+                "d": "smells (oler)",
+                "s": "Yanni huele. (Yanni smells.)"
+            },
+            {
+                "id": "es-1816",
+                "w": "almuerzo",
+                "p": "alˈmweɾθo",
+                "d": "lunch",
+                "s": "Traje almuerzo. (I've brought lunch.)"
+            },
+            {
+                "id": "es-1817",
+                "w": "cien",
+                "p": "ˈθjen",
+                "d": "one hundred",
+                "s": "Tiene cien años. (He is 100 years old.)"
+            },
+            {
+                "id": "es-1818",
+                "w": "tantos",
+                "p": "ˈtantos",
+                "d": "so many",
+                "s": "¡No des tantos rodeos! (Let's not beat around the bush.)"
+            },
+            {
+                "id": "es-1819",
+                "w": "pago",
+                "p": "ˈpaɡo",
+                "d": "payment",
+                "s": "¿Dónde pago? (Where should I pay?)"
+            },
+            {
+                "id": "es-1820",
+                "w": "normalmente",
+                "p": "noɾˌmalˈmente",
+                "d": "normally; usually",
+                "s": "Almuerzo ahí normalmente. (I generally have lunch there.)"
+            },
+            {
+                "id": "es-1821",
+                "w": "pastel",
+                "p": "pasˈtel",
+                "d": "cake; pastry",
+                "s": "¿Quiere pastel? (Would you like some cake?)"
+            },
+            {
+                "id": "es-1822",
+                "w": "bastardo",
+                "p": "basˈtaɾdo",
+                "d": "bastard; bastardly",
+                "s": "También pensamos que él es bastardo. (We also think that he's a bastard.)"
+            },
+            {
+                "id": "es-1823",
+                "w": "cinta",
+                "p": "ˈθinta",
+                "d": "tape; ribbon",
+                "s": "Desaté la cinta. (I untied the ribbon.)"
+            },
+            {
+                "id": "es-1824",
+                "w": "pasé",
+                "p": "pasé",
+                "d": "I passed; I spent (pasar)",
+                "s": "La pasé bien. (I had a good time.)"
+            },
+            {
+                "id": "es-1825",
+                "w": "dígame",
+                "p": "ˈdiɡame",
+                "d": "tell me (formal)",
+                "s": "¡Sólo dígame qué hacer! (Just tell me what to do!)"
+            },
+            {
+                "id": "es-1826",
+                "w": "costa",
+                "p": "ˈkosta",
+                "d": "coast",
+                "s": "Fue costa abajo. (It went downhill.)"
+            },
+            {
+                "id": "es-1827",
+                "w": "levántate",
+                "p": "levántate",
+                "d": "get up; stand up",
+                "s": "Solo levántate. (Just stand up.)"
+            },
+            {
+                "id": "es-1828",
+                "w": "llamando",
+                "p": "ʝaˈmando",
+                "d": "calling (gerund of llamar)",
+                "s": "Te estoy llamando. (I'm calling you.)"
+            },
+            {
+                "id": "es-1829",
+                "w": "cerrado",
+                "p": "θeˈrado",
+                "d": "closed",
+                "s": "Caso cerrado. (Case closed.)"
+            },
+            {
+                "id": "es-1830",
+                "w": "interés",
+                "p": "inteˈɾes",
+                "d": "interest",
+                "s": "Perdí el interés. (I lost interest.)"
+            },
+            {
+                "id": "es-1831",
+                "w": "enfermera",
+                "p": "enfeɾˈmeɾa",
+                "d": "nurse",
+                "s": "Soy enfermera. (I'm a nurse.)"
+            },
+            {
+                "id": "es-1832",
+                "w": "comienzo",
+                "p": "koˈmjenθo",
+                "d": "beginning",
+                "s": "Es un buen comienzo. (It's a good start.)"
+            },
+            {
+                "id": "es-1833",
+                "w": "olvidé",
+                "p": "olvidé",
+                "d": "I forgot (olvidar)",
+                "s": "Me olvidé. (I forgot.)"
+            },
+            {
+                "id": "es-1834",
+                "w": "fuese",
+                "p": "ˈfwese",
+                "d": "were; went (subjunctive of ser; ir)",
+                "s": "Ojalá fuese rico. (I wish I were rich.)"
+            },
+            {
+                "id": "es-1835",
+                "w": "militar",
+                "p": "miliˈtaɾ",
+                "d": "military",
+                "s": "Hice mi servicio militar en Ankara. (I had my military service in Ankara.)"
+            },
+            {
+                "id": "es-1836",
+                "w": "polvo",
+                "p": "ˈpolbo",
+                "d": "dust; powder",
+                "s": "Estoy hecho polvo. (I'm all tuckered out.)"
+            },
+            {
+                "id": "es-1837",
+                "w": "bella",
+                "p": "ˈbeʝa",
+                "d": "beautiful (feminine)",
+                "s": "Sos bella. (You're beautiful.)"
+            },
+            {
+                "id": "es-1838",
+                "w": "quedo",
+                "p": "ˈkedo",
+                "d": "quietly",
+                "s": "¿Me quedo? (Should I stay?)"
+            },
+            {
+                "id": "es-1839",
+                "w": "encontraste",
+                "p": "enkonˈtɾaste",
+                "d": "you found (encontrar)",
+                "s": "¿Los encontraste? (Did you find them?)"
+            },
+            {
+                "id": "es-1840",
+                "w": "voluntad",
+                "p": "bolunˈtad",
+                "d": "will; wish",
+                "s": "Mentí contra mi voluntad. (I told a lie against my will.)"
+            },
+            {
+                "id": "es-1841",
+                "w": "varias",
+                "p": "ˈbaɾjas",
+                "d": "several (feminine)",
+                "s": "Lo vi varias veces. (I've seen him several times.)"
+            },
+            {
+                "id": "es-1842",
+                "w": "teoría",
+                "p": "teoˈɾia",
+                "d": "theory",
+                "s": "Esa es mi teoría. (That's my theory.)"
+            },
+            {
+                "id": "es-1843",
+                "w": "roja",
+                "p": "ˈroxa",
+                "d": "red (feminine)",
+                "s": "¡Alerta roja! (Red alert!)"
+            },
+            {
+                "id": "es-1844",
+                "w": "cuento",
+                "p": "ˈkwento",
+                "d": "story; tale",
+                "s": "Cuéntame un cuento. (Tell me a story.)"
+            },
+            {
+                "id": "es-1845",
+                "w": "escenario",
+                "p": "esθeˈnaɾjo",
+                "d": "stage; scenario",
+                "s": "Tomás salió del escenario. (Tom walked out on stage.)"
+            },
+            {
+                "id": "es-1846",
+                "w": "diario",
+                "p": "ˈdjaɾjo",
+                "d": "daily",
+                "s": "Es un diario. (This is a daily newspaper.)"
+            },
+            {
+                "id": "es-1847",
+                "w": "propiedad",
+                "p": "pɾopjeˈdad",
+                "d": "property",
+                "s": "La propiedad es mía. (The property is mine.)"
+            },
+            {
+                "id": "es-1848",
+                "w": "agujero",
+                "p": "aɡuˈxeɾo",
+                "d": "hole",
+                "s": "Él cavó un agujero. (He dug a hole.)"
+            },
+            {
+                "id": "es-1849",
+                "w": "aspecto",
+                "p": "asˈpeɡto",
+                "d": "aspect; appearance",
+                "s": "Tiene buen aspecto. (He looks well.)"
+            },
+            {
+                "id": "es-1850",
+                "w": "campamento",
+                "p": "kampaˈmento",
+                "d": "camp",
+                "s": "Tom llegó al campamento a salvo. (Tom arrived at the camp safely.)"
+            },
+            {
+                "id": "es-1851",
+                "w": "descansar",
+                "p": "deskanˈsaɾ",
+                "d": "to rest",
+                "s": "Debo descansar. (I must rest.)"
+            },
+            {
+                "id": "es-1852",
+                "w": "matarme",
+                "p": "matarme",
+                "d": "to kill me",
+                "s": "Va a matarme. (She's going to kill me.)"
+            },
+            {
+                "id": "es-1853",
+                "w": "metido",
+                "p": "meˈtido",
+                "d": "involved; into",
+                "s": "¿Qué se te ha metido? (What's gotten into you?)"
+            },
+            {
+                "id": "es-1854",
+                "w": "quiso",
+                "p": "ˈkiso",
+                "d": "wanted (preterite of querer)",
+                "s": "Tom lo quiso. (Tom wanted it.)"
+            },
+            {
+                "id": "es-1855",
+                "w": "ángel",
+                "p": "ˈanxel",
+                "d": "angel",
+                "s": "Es un ángel. (She's an angel.)"
+            },
+            {
+                "id": "es-1856",
+                "w": "enviar",
+                "p": "emˈbjaɾ",
+                "d": "to send",
+                "s": "Le voy a enviar el enlace. (I'll send you the link.)"
+            },
+            {
+                "id": "es-1857",
+                "w": "impresionante",
+                "p": "impɾesjoˈnante",
+                "d": "impressive",
+                "s": "Te ves impresionante. (You look stunning!)"
+            },
+            {
+                "id": "es-1858",
+                "w": "proceso",
+                "p": "pɾoˈθeso",
+                "d": "process; trial",
+                "s": "El proceso fue rápido. (The process was quick.)"
+            },
+            {
+                "id": "es-1859",
+                "w": "intentado",
+                "p": "intenˈtado",
+                "d": "tried (past participle of intentar)",
+                "s": "Lo has intentado. (You've tried.)"
+            },
+            {
+                "id": "es-1860",
+                "w": "mio",
+                "p": "ˈmjo",
+                "d": "meow",
+                "s": "Anda, llévate otra, cariño mio."
+            },
+            {
+                "id": "es-1861",
+                "w": "fuente",
+                "p": "ˈfwente",
+                "d": "fountain; source",
+                "s": "Conozco la fuente. (I know the source.)"
+            },
+            {
+                "id": "es-1862",
+                "w": "alcalde",
+                "p": "alˈkalde",
+                "d": "mayor",
+                "s": "¿Eres tú el alcalde? (Are you the mayor?)"
+            },
+            {
+                "id": "es-1863",
+                "w": "ocurrido",
+                "p": "okuˈrido",
+                "d": "happened; occurred",
+                "s": "¿Qué ha ocurrido? (What happened?)"
+            },
+            {
+                "id": "es-1864",
+                "w": "malos",
+                "p": "malos",
+                "d": "bad (plural)",
+                "s": "Son malos. (They're bad.)"
+            },
+            {
+                "id": "es-1865",
+                "w": "carretera",
+                "p": "kareˈteɾa",
+                "d": "road; highway",
+                "s": "Me salí de la carretera. (I went off the road.)"
+            },
+            {
+                "id": "es-1866",
+                "w": "desapareció",
+                "p": "desapareció",
+                "d": "disappeared (desaparecer)",
+                "s": "Tom desapareció. (Tom disappeared.)"
+            },
+            {
+                "id": "es-1867",
+                "w": "desayuno",
+                "p": "desaˈʝuno",
+                "d": "breakfast",
+                "s": "Hice el desayuno. (I made breakfast.)"
+            },
+            {
+                "id": "es-1868",
+                "w": "débil",
+                "p": "ˈdebil",
+                "d": "weak",
+                "s": "Estás débil. (You're weak.)"
+            },
+            {
+                "id": "es-1869",
+                "w": "roma",
+                "p": "roma",
+                "d": "blunt; flat",
+                "s": "Puede que mi espada esté roma, pero es más que suficiente para alguien como tú. (My sword may be blunt, but that's more than enough for someone like you.)"
+            },
+            {
+                "id": "es-1870",
+                "w": "sabido",
+                "p": "saˈbido",
+                "d": "known",
+                "s": "Debí haberlo sabido. (I should have known.)"
+            },
+            {
+                "id": "es-1871",
+                "w": "comienza",
+                "p": "comienza",
+                "d": "begins; starts (comenzar)",
+                "s": "La aventura comienza. (The adventure begins.)"
+            },
+            {
+                "id": "es-1872",
+                "w": "tambien",
+                "p": "tambien",
+                "d": "also; too (misspelling)",
+                "s": "\"Te amo.\" \"¡Yo tambien te amo, tontito!\" (\"I love you.\" \"I love you, too, silly!\")"
+            },
+            {
+                "id": "es-1873",
+                "w": "intentarlo",
+                "p": "intentarlo",
+                "d": "to try it",
+                "s": "Puedo intentarlo. (I can give it a try.)"
+            },
+            {
+                "id": "es-1874",
+                "w": "miembro",
+                "p": "ˈmjembɾo",
+                "d": "member; limb",
+                "s": "No soy miembro. (I'm not a member.)"
+            },
+            {
+                "id": "es-1875",
+                "w": "perdiendo",
+                "p": "perdiendo",
+                "d": "losing (gerund of perder)",
+                "s": "Estamos perdiendo. (We're losing.)"
+            },
+            {
+                "id": "es-1876",
+                "w": "hayan",
+                "p": "ˈaʝan",
+                "d": "have (subjunctive of haber)",
+                "s": "No creo que hayan entendido. (I don't believe they understood.)"
+            },
+            {
+                "id": "es-1877",
+                "w": "fueras",
+                "p": "ˈfweɾas",
+                "d": "were; went (subjunctive of ser; ir)",
+                "s": "Desearía que no fueras. (I wish you wouldn't go.)"
+            },
+            {
+                "id": "es-1878",
+                "w": "resultados",
+                "p": "resulˈtados",
+                "d": "results",
+                "s": "Graba los resultados. (Record the results.)"
+            },
+            {
+                "id": "es-1879",
+                "w": "mata",
+                "p": "ˈmata",
+                "d": "kills (matar)",
+                "s": "Fumar mata. (Smoking kills.)"
+            },
+            {
+                "id": "es-1880",
+                "w": "sr",
+                "p": "sr",
+                "d": "Mr.",
+                "s": "El sr Kojima fumó después del desayuno. (Mr Kojima had a smoke after breakfast.)"
+            },
+            {
+                "id": "es-1881",
+                "w": "valiente",
+                "p": "baˈljente",
+                "d": "brave",
+                "s": "Sé valiente. (Have courage.)"
+            },
+            {
+                "id": "es-1882",
+                "w": "deber",
+                "p": "deˈbeɾ",
+                "d": "to have to; to owe",
+                "s": "Es tu deber. (It's your duty.)"
+            },
+            {
+                "id": "es-1883",
+                "w": "pecho",
+                "p": "ˈpet͡ʃo",
+                "d": "chest; breast",
+                "s": "A lo hecho pecho. (It's no use crying over spilt milk.)"
+            },
+            {
+                "id": "es-1884",
+                "w": "gustó",
+                "p": "gustó",
+                "d": "pleased; liked (preterite of gustar)",
+                "s": "¿Te gustó? (Did you like it?)"
+            },
+            {
+                "id": "es-1885",
+                "w": "oyes",
+                "p": "ˈoʝes",
+                "d": "you hear (oír)",
+                "s": "¿Qué oyes? (What do you hear?)"
+            },
+            {
+                "id": "es-1886",
+                "w": "periódico",
+                "p": "peˈɾjodiko",
+                "d": "newspaper",
+                "s": "Dobló el periódico. (He folded the newspaper.)"
+            },
+            {
+                "id": "es-1887",
+                "w": "mami",
+                "p": "ˈmami",
+                "d": "mommy",
+                "s": "¿Ayudaste a mami? (You helped Mommy?)"
+            },
+            {
+                "id": "es-1888",
+                "w": "piensan",
+                "p": "ˈpjensan",
+                "d": "they think (pensar)",
+                "s": "Todos piensan así. (Everyone thinks so.)"
+            },
+            {
+                "id": "es-1889",
+                "w": "tv",
+                "p": "teˈbe",
+                "d": "TV",
+                "s": "Después de ver la tv me fui a la cama. (After I watched TV, I went to bed.)"
+            },
+            {
+                "id": "es-1890",
+                "w": "cansada",
+                "p": "kanˈsada",
+                "d": "tired (feminine)",
+                "s": "Estoy cansada. (I'm tired.)"
+            },
+            {
+                "id": "es-1891",
+                "w": "limpiar",
+                "p": "limˈpjaɾ",
+                "d": "to clean",
+                "s": "Quiero limpiar. (I want to clean.)"
+            },
+            {
+                "id": "es-1892",
+                "w": "crear",
+                "p": "kɾeˈaɾ",
+                "d": "to create",
+                "s": "Quiero crear mi mundo. (I want to create my own world.)"
+            },
+            {
+                "id": "es-1893",
+                "w": "explicar",
+                "p": "eɡspliˈkaɾ",
+                "d": "to explain",
+                "s": "Déjame explicar. (Let me explain.)"
+            },
+            {
+                "id": "es-1894",
+                "w": "robado",
+                "p": "roˈbado",
+                "d": "stolen",
+                "s": "Nos ha robado. (She has stolen from us.)"
+            },
+            {
+                "id": "es-1895",
+                "w": "resolver",
+                "p": "resolˈbeɾ",
+                "d": "to solve; to resolve",
+                "s": "Voy a resolver esto. (I'm going to solve this.)"
+            },
+            {
+                "id": "es-1896",
+                "w": "maté",
+                "p": "maté",
+                "d": "I killed (matar)",
+                "s": "Yo los maté. (I killed them.)"
+            },
+            {
+                "id": "es-1897",
+                "w": "guapo",
+                "p": "ˈɡwapo",
+                "d": "handsome; good-looking",
+                "s": "Soy guapo. (I'm handsome.)"
+            },
+            {
+                "id": "es-1898",
+                "w": "continuar",
+                "p": "kontiˈnwaɾ",
+                "d": "to continue",
+                "s": "Debo continuar. (I've got to keep going.)"
+            },
+            {
+                "id": "es-1899",
+                "w": "sheriff",
+                "p": "ˈʃeɾif",
+                "d": "sheriff",
+                "s": "Hay un gran tiroteo en mitad de la película y el sheriff acaba muerto. (There's a big gunfight in the middle of the movie and the sheriff gets killed.)"
+            },
+            {
+                "id": "es-1900",
+                "w": "funcionar",
+                "p": "funθjoˈnaɾ",
+                "d": "to work; to function",
+                "s": "Va a funcionar. (It's going to work.)"
+            },
+            {
+                "id": "es-1901",
+                "w": "extra",
+                "p": "ˈeɡstɾa",
+                "d": "extra",
+                "s": "Pagaré la extra. (I'll pay extra.)"
+            },
+            {
+                "id": "es-1902",
+                "w": "primo",
+                "p": "ˈpɾimo",
+                "d": "cousin",
+                "s": "Eres mi primo. (You're my cousin.)"
+            },
+            {
+                "id": "es-1903",
+                "w": "manejar",
+                "p": "maneˈxaɾ",
+                "d": "to handle; to drive",
+                "s": "Ya sé manejar. (I already know how to drive.)"
+            },
+            {
+                "id": "es-1904",
+                "w": "primeros",
+                "p": "pɾiˈmeɾos",
+                "d": "first (plural)",
+                "s": "Yo necesito primeros auxilios. (I need first aid.)"
+            },
+            {
+                "id": "es-1905",
+                "w": "acto",
+                "p": "ˈaɡto",
+                "d": "act",
+                "s": "Lo hizo en el acto. (He did it right away.)"
+            },
+            {
+                "id": "es-1906",
+                "w": "poniendo",
+                "p": "poniendo",
+                "d": "putting (gerund of poner)",
+                "s": "Me estoy poniendo ropa. (I am getting dressed.)"
+            },
+            {
+                "id": "es-1907",
+                "w": "números",
+                "p": "ˈnumeɾos",
+                "d": "numbers",
+                "s": "Estos números están mal. (These numbers are wrong.)"
+            },
+            {
+                "id": "es-1908",
+                "w": "kilómetros",
+                "p": "kilómetros",
+                "d": "kilometers",
+                "s": "Corrimos 10 kilómetros. (We ran for 10 kilometers.)"
+            },
+            {
+                "id": "es-1909",
+                "w": "llevará",
+                "p": "llevará",
+                "d": "will carry; will take (llevar)",
+                "s": "Esto llevará tiempo. (This will take time.)"
+            },
+            {
+                "id": "es-1910",
+                "w": "niñas",
+                "p": "ˈniɲas",
+                "d": "girls",
+                "s": "Las niñas trabajan. (The girls work.)"
+            },
+            {
+                "id": "es-1911",
+                "w": "premio",
+                "p": "ˈpɾemjo",
+                "d": "prize; award",
+                "s": "Qué premio ganó? (What prize did he win?)"
+            },
+            {
+                "id": "es-1912",
+                "w": "internet",
+                "p": "inteɾˈnet",
+                "d": "internet",
+                "s": "¿Tienes internet en casa? (Do you have internet at home?)"
+            },
+            {
+                "id": "es-1913",
+                "w": "harías",
+                "p": "aˈɾias",
+                "d": "you would do; you would make (hacer)",
+                "s": "¿Tú lo harías? (Would you do it?)"
+            },
+            {
+                "id": "es-1914",
+                "w": "inútil",
+                "p": "iˈnutil",
+                "d": "useless",
+                "s": "Es inútil. (It's futile.)"
+            },
+            {
+                "id": "es-1915",
+                "w": "domingo",
+                "p": "doˈminɡo",
+                "d": "Sunday",
+                "s": "Hoy es domingo. (Today is Sunday.)"
+            },
+            {
+                "id": "es-1916",
+                "w": "tomas",
+                "p": "ˈtomas",
+                "d": "you take (tomar)",
+                "s": "¿Me tomas el pelo? (Isn't that terrific?)"
+            },
+            {
+                "id": "es-1917",
+                "w": "sensación",
+                "p": "sensaˈθjon",
+                "d": "sensation; feeling",
+                "s": "Esta sensación me gusta. (I like this sensation.)"
+            },
+            {
+                "id": "es-1918",
+                "w": "alcohol",
+                "p": "alˈkol",
+                "d": "alcohol",
+                "s": "¿Bebes alcohol? (Do you drink alcohol?)"
+            },
+            {
+                "id": "es-1919",
+                "w": "tercera",
+                "p": "teɾˈθeɾa",
+                "d": "third (feminine)",
+                "s": "Ella va la tercera. (She goes third.)"
+            },
+            {
+                "id": "es-1920",
+                "w": "agentes",
+                "p": "agentes",
+                "d": "agents; officers",
+                "s": "Somos agentes del FBI. (We're FBI agents.)"
+            },
+            {
+                "id": "es-1921",
+                "w": "disculpas",
+                "p": "disculpas",
+                "d": "apologies",
+                "s": "Mis disculpas. (I apologise.)"
+            },
+            {
+                "id": "es-1922",
+                "w": "antiguo",
+                "p": "anˈtiɡwo",
+                "d": "old; former; ancient",
+                "s": "El carro azul es antiguo. (The blue car is antique.)"
+            },
+            {
+                "id": "es-1923",
+                "w": "guapa",
+                "p": "ˈɡwapa",
+                "d": "pretty; good-looking (feminine)",
+                "s": "Soy guapa. (I'm beautiful.)"
+            },
+            {
+                "id": "es-1924",
+                "w": "asustado",
+                "p": "asusˈtado",
+                "d": "scared; frightened",
+                "s": "Estoy asustado. (I'm scared.)"
+            },
+            {
+                "id": "es-1925",
+                "w": "puedan",
+                "p": "ˈpwedan",
+                "d": "can (subjunctive of poder)",
+                "s": "No vienen aunque puedan. (They are not coming even if they can.)"
+            },
+            {
+                "id": "es-1926",
+                "w": "sexy",
+                "p": "ˈseɡsi",
+                "d": "sexy",
+                "s": "Es muy sexy. (He's very sexy.)"
+            },
+            {
+                "id": "es-1927",
+                "w": "genio",
+                "p": "ˈxenjo",
+                "d": "genius; genie",
+                "s": "Es un genio. (He is a genius.)"
+            },
+            {
+                "id": "es-1928",
+                "w": "recuperar",
+                "p": "rekupeˈɾaɾ",
+                "d": "to recover; to get back",
+                "s": "Déjame recuperar mi aliento. (Let me catch my breath.)"
+            },
+            {
+                "id": "es-1929",
+                "w": "creemos",
+                "p": "creemos",
+                "d": "we believe (creer)",
+                "s": "No creemos eso. (We don't believe that.)"
+            },
+            {
+                "id": "es-1930",
+                "w": "lengua",
+                "p": "ˈlenɡwa",
+                "d": "tongue; language",
+                "s": "Saca la lengua. (Stick out your tongue.)"
+            },
+            {
+                "id": "es-1931",
+                "w": "ladrón",
+                "p": "laˈdɾon",
+                "d": "thief",
+                "s": "Es un ladrón. (He's a thief.)"
+            },
+            {
+                "id": "es-1932",
+                "w": "intenté",
+                "p": "intenté",
+                "d": "I tried (intentar)",
+                "s": "Lo intenté. (I tried.)"
+            },
+            {
+                "id": "es-1933",
+                "w": "examen",
+                "p": "eɡˈsamen",
+                "d": "exam; test",
+                "s": "Era un examen. (It was a test.)"
+            },
+            {
+                "id": "es-1934",
+                "w": "deprisa",
+                "p": "deˈpɾisa",
+                "d": "quickly; fast",
+                "s": "Ven deprisa. (Come quick!)"
+            },
+            {
+                "id": "es-1935",
+                "w": "montaña",
+                "p": "monˈtaɲa",
+                "d": "mountain",
+                "s": "Voy a la montaña. (I go to the mountain.)"
+            },
+            {
+                "id": "es-1936",
+                "w": "durmiendo",
+                "p": "durmiendo",
+                "d": "sleeping (gerund of dormir)",
+                "s": "Está durmiendo. (She's sleeping.)"
+            },
+            {
+                "id": "es-1937",
+                "w": "disparar",
+                "p": "dispaˈɾaɾ",
+                "d": "to shoot; to fire",
+                "s": "Deja de disparar. (Stop shooting.)"
+            },
+            {
+                "id": "es-1938",
+                "w": "entrenador",
+                "p": "entɾenaˈdoɾ",
+                "d": "coach; trainer",
+                "s": "Ziri era entrenador. (Ziri was a coach.)"
+            },
+            {
+                "id": "es-1939",
+                "w": "queso",
+                "p": "ˈkeso",
+                "d": "cheese",
+                "s": "Amo el queso. (I love cheese.)"
+            },
+            {
+                "id": "es-1940",
+                "w": "entero",
+                "p": "enˈteɾo",
+                "d": "whole; entire",
+                "s": "Leí el libro entero. (I read the entire book.)"
+            },
+            {
+                "id": "es-1941",
+                "w": "papeles",
+                "p": "paˈpeles",
+                "d": "papers; roles",
+                "s": "Perdió los papeles. (He lost the papers.)"
+            },
+            {
+                "id": "es-1942",
+                "w": "pones",
+                "p": "pones",
+                "d": "you put (poner)",
+                "s": "¿Por qué pones esa cara? (Why are you making faces?)"
+            },
+            {
+                "id": "es-1943",
+                "w": "modelo",
+                "p": "moˈdelo",
+                "d": "model",
+                "s": "Ella es modelo. (She's a model.)"
+            },
+            {
+                "id": "es-1944",
+                "w": "fútbol",
+                "p": "ˈfudbol",
+                "d": "soccer; football",
+                "s": "Odio el fútbol. (I hate soccer.)"
+            },
+            {
+                "id": "es-1945",
+                "w": "detener",
+                "p": "deteˈneɾ",
+                "d": "to stop; to detain; to arrest",
+                "s": "Los voy a detener. (I'm going to stop them.)"
+            },
+            {
+                "id": "es-1946",
+                "w": "lados",
+                "p": "lados",
+                "d": "sides",
+                "s": "Miré en todos lados. (I looked everywhere.)"
+            },
+            {
+                "id": "es-1947",
+                "w": "miembros",
+                "p": "miembros",
+                "d": "members",
+                "s": "El frío entumece los miembros. (Cold numbs the limbs.)"
+            },
+            {
+                "id": "es-1948",
+                "w": "sábado",
+                "p": "ˈsabado",
+                "d": "Saturday",
+                "s": "Es sábado. (It's Saturday.)"
+            },
+            {
+                "id": "es-1949",
+                "w": "pongo",
+                "p": "ˈponɡo",
+                "d": "I put (poner)",
+                "s": "Me pongo el pijama. (I put on my pajamas.)"
+            },
+            {
+                "id": "es-1950",
+                "w": "mataron",
+                "p": "maˈtaɾon",
+                "d": "they killed (matar)",
+                "s": "Ellos lo mataron. (They killed him.)"
+            },
+            {
+                "id": "es-1951",
+                "w": "vuelvas",
+                "p": "ˈbwelbas",
+                "d": "return (subjunctive of volver)",
+                "s": "Quizá vuelvas. (You may return.)"
+            },
+            {
+                "id": "es-1952",
+                "w": "talento",
+                "p": "taˈlento",
+                "d": "talent",
+                "s": "Tienes talento. (You're talented.)"
+            },
+            {
+                "id": "es-1953",
+                "w": "descubrir",
+                "p": "deskuˈbɾiɾ",
+                "d": "to discover",
+                "s": "Hay mucho más por descubrir. (There's a lot more to discover.)"
+            },
+            {
+                "id": "es-1954",
+                "w": "gordo",
+                "p": "ˈɡoɾdo",
+                "d": "fat",
+                "s": "Estoy gordo. (I'm fat.)"
+            },
+            {
+                "id": "es-1955",
+                "w": "tribunal",
+                "p": "tɾibuˈnal",
+                "d": "court; tribunal",
+                "s": "Nos vemos en el tribunal. (See you in court.)"
+            },
+            {
+                "id": "es-1956",
+                "w": "toque",
+                "p": "ˈtoke",
+                "d": "touch",
+                "s": "¡No lo toque! (Don't touch it!)"
+            },
+            {
+                "id": "es-1957",
+                "w": "wow",
+                "p": "ˈwau",
+                "d": "wow",
+                "s": ""
+            },
+            {
+                "id": "es-1958",
+                "w": "hables",
+                "p": "ˈables",
+                "d": "speak (subjunctive of hablar)",
+                "s": "No hables. (Don't talk.)"
+            },
+            {
+                "id": "es-1959",
+                "w": "conocemos",
+                "p": "konoˈθemos",
+                "d": "we know (conocer)",
+                "s": "Lo conocemos. (We know him.)"
+            },
+            {
+                "id": "es-1960",
+                "w": "haberme",
+                "p": "aˈbeɾme",
+                "d": "to have me",
+                "s": "Puede haberme mentido. (She may have told me a lie.)"
+            },
+            {
+                "id": "es-1961",
+                "w": "dispuesto",
+                "p": "disˈpwesto",
+                "d": "willing; ready",
+                "s": "Estoy dispuesto a todo. (I'm game for anything.)"
+            },
+            {
+                "id": "es-1962",
+                "w": "tamaño",
+                "p": "taˈmaɲo",
+                "d": "size",
+                "s": "El tamaño no importa. (Size doesn't matter.)"
+            },
+            {
+                "id": "es-1963",
+                "w": "dejen",
+                "p": "dejen",
+                "d": "leave (subjunctive of dejar)",
+                "s": "No lo dejen tomar. (Don't let him drink.)"
+            },
+            {
+                "id": "es-1964",
+                "w": "maravillosa",
+                "p": "maravillosa",
+                "d": "wonderful (feminine)",
+                "s": "¡Qué idea maravillosa! (What a wonderful idea!)"
+            },
+            {
+                "id": "es-1965",
+                "w": "invitado",
+                "p": "imbiˈtado",
+                "d": "guest",
+                "s": "Está invitado. (You're invited.)"
+            },
+            {
+                "id": "es-1966",
+                "w": "importantes",
+                "p": "importantes",
+                "d": "important (plural)",
+                "s": "Ustedes son importantes. (You are important.)"
+            },
+            {
+                "id": "es-1967",
+                "w": "derechos",
+                "p": "deˈɾet͡ʃos",
+                "d": "rights",
+                "s": "Yo tengo derechos. (I have rights.)"
+            },
+            {
+                "id": "es-1968",
+                "w": "declaración",
+                "p": "deklaɾaˈθjon",
+                "d": "statement; declaration",
+                "s": "¡Qué declaración más absurda! (What a foolish statement!)"
+            },
+            {
+                "id": "es-1969",
+                "w": "claramente",
+                "p": "ˌklaɾaˈmente",
+                "d": "clearly",
+                "s": "Dilo claramente. (Say it clearly.)"
+            },
+            {
+                "id": "es-1970",
+                "w": "pacientes",
+                "p": "paˈθjentes",
+                "d": "patients",
+                "s": "Somos pacientes. (We're patient.)"
+            },
+            {
+                "id": "es-1971",
+                "w": "pérdida",
+                "p": "ˈpeɾdida",
+                "d": "loss",
+                "s": "¡Qué pérdida! (What a loss!)"
+            },
+            {
+                "id": "es-1972",
+                "w": "iban",
+                "p": "ˈiban",
+                "d": "they were going (ir)",
+                "s": "¿Adónde iban ellos? (Where were they going?)"
+            },
+            {
+                "id": "es-1973",
+                "w": "pudiste",
+                "p": "pudiste",
+                "d": "you could (poder)",
+                "s": "Tom, ¿cómo pudiste? (Tom, how could you?)"
+            },
+            {
+                "id": "es-1974",
+                "w": "profundo",
+                "p": "pɾoˈfundo",
+                "d": "deep",
+                "s": "¿Qué tan profundo? (How deep?)"
+            },
+            {
+                "id": "es-1975",
+                "w": "gas",
+                "p": "ˈɡas",
+                "d": "gas",
+                "s": "Tengo gas. (I have gas.)"
+            },
+            {
+                "id": "es-1976",
+                "w": "aeropuerto",
+                "p": "ˌaeɾoˈpweɾto",
+                "d": "airport",
+                "s": "Voy al aeropuerto. (I'm going to the airport.)"
+            },
+            {
+                "id": "es-1977",
+                "w": "consigue",
+                "p": "consigue",
+                "d": "gets; achieves (conseguir)",
+                "s": "Nada consigue enternecerlo. (Nothing can move him.)"
+            },
+            {
+                "id": "es-1978",
+                "w": "olvidar",
+                "p": "olbiˈdaɾ",
+                "d": "to forget",
+                "s": "Bebe para olvidar. (He drinks in order to forget.)"
+            },
+            {
+                "id": "es-1979",
+                "w": "gloria",
+                "p": "ˈɡloɾja",
+                "d": "glory",
+                "s": "He visto su gloria. (I have seen his glory.)"
+            },
+            {
+                "id": "es-1980",
+                "w": "olvides",
+                "p": "olˈbides",
+                "d": "forget (subjunctive of olvidar)",
+                "s": "No me olvides. (Don't forget about me.)"
+            },
+            {
+                "id": "es-1981",
+                "w": "volviendo",
+                "p": "volviendo",
+                "d": "returning (gerund of volver)",
+                "s": "Ellas están volviendo. (They're coming back.)"
+            },
+            {
+                "id": "es-1982",
+                "w": "coge",
+                "p": "coge",
+                "d": "takes; grabs (coger)",
+                "s": "Toma, coge esto. (Here, take this.)"
+            },
+            {
+                "id": "es-1983",
+                "w": "fué",
+                "p": "fué",
+                "d": "was (old spelling of fue)",
+                "s": "Kaoru se fué a América. (Kaoru has gone to America.)"
+            },
+            {
+                "id": "es-1984",
+                "w": "llamaba",
+                "p": "ʝaˈmaba",
+                "d": "called; was calling (llamar)",
+                "s": "Se llamaba Tom. (His name was Tom.)"
+            },
+            {
+                "id": "es-1985",
+                "w": "pete",
+                "p": "ˈpete",
+                "d": "blowjob",
+                "s": "No solamente lo aconsejé, sino también le hice un pete. (I not only gave him some advice, I also gave him a blowjob.)"
+            },
+            {
+                "id": "es-1986",
+                "w": "tendrán",
+                "p": "tenˈdɾan",
+                "d": "they will have (tener)",
+                "s": "No tendrán frío. (They won't be cold.)"
+            },
+            {
+                "id": "es-1987",
+                "w": "instituto",
+                "p": "instiˈtuto",
+                "d": "institute; high school",
+                "s": "Tom dejó el instituto. (Tom dropped out of high school.)"
+            },
+            {
+                "id": "es-1988",
+                "w": "disparo",
+                "p": "disˈpaɾo",
+                "d": "shot",
+                "s": "Alto o disparo. (Stop, or I'll shoot.)"
+            },
+            {
+                "id": "es-1989",
+                "w": "encuentras",
+                "p": "encuentras",
+                "d": "you find (encontrar)",
+                "s": "¿Cómo te encuentras? (How do you feel?)"
+            },
+            {
+                "id": "es-1990",
+                "w": "querían",
+                "p": "querían",
+                "d": "they wanted (querer)",
+                "s": "Te querían. (They loved you.)"
+            },
+            {
+                "id": "es-1991",
+                "w": "hablemos",
+                "p": "aˈblemos",
+                "d": "let's talk (hablar)",
+                "s": "No le hablemos a ella. (Let's not talk to her.)"
+            },
+            {
+                "id": "es-1992",
+                "w": "dia",
+                "p": "dia",
+                "d": "day (misspelling of día)",
+                "s": "¡Qué dia tan guay!"
+            },
+            {
+                "id": "es-1993",
+                "w": "enviado",
+                "p": "emˈbjado",
+                "d": "sent (past participle of enviar)",
+                "s": "El archivo fue enviado. (The file has been sent.)"
+            },
+            {
+                "id": "es-1994",
+                "w": "pertenece",
+                "p": "pertenece",
+                "d": "belongs (pertenecer)",
+                "s": "Eso me pertenece. (That's mine.)"
+            },
+            {
+                "id": "es-1995",
+                "w": "sienta",
+                "p": "sienta",
+                "d": "sits; feels (sentar; sentir)",
+                "s": "Deja que lo sienta. (Let me feel it.)"
+            },
+            {
+                "id": "es-1996",
+                "w": "pensó",
+                "p": "pensó",
+                "d": "thought (pensar)",
+                "s": "Ella pensó en todo. (She thought about everything.)"
+            },
+            {
+                "id": "es-1997",
+                "w": "cadáver",
+                "p": "kaˈdabeɾ",
+                "d": "corpse; cadaver",
+                "s": "¡Sobre mi cadáver! (Over my dead body.)"
+            },
+            {
+                "id": "es-1998",
+                "w": "gracia",
+                "p": "ˈɡɾaθja",
+                "d": "grace; charm; joke",
+                "s": "Tiene gracia. (It's funny.)"
+            },
+            {
+                "id": "es-1999",
+                "w": "doctora",
+                "p": "doɡˈtoɾa",
+                "d": "female doctor",
+                "s": "Soy doctora. (I'm a doctor.)"
+            },
+            {
+                "id": "es-2000",
+                "w": "escuchen",
+                "p": "escuchen",
+                "d": "listen (subjunctive/imperative of escuchar)",
+                "s": "¡Che, escuchen! (Hey, listen!)"
+            },
+            {
+                "id": "es-2001",
+                "w": "amante",
+                "p": "aˈmante",
+                "d": "lover",
+                "s": "¡Ella es mi amante! (She is my mistress!)"
+            },
+            {
+                "id": "es-2002",
+                "w": "temporada",
+                "p": "tempoˈɾada",
+                "d": "season",
+                "s": "Es temporada de venados. (It's deer season.)"
+            },
+            {
+                "id": "es-2003",
+                "w": "cuerpos",
+                "p": "cuerpos",
+                "d": "bodies",
+                "s": "Su caballo ganó por tres cuerpos. (His horse won by three lengths.)"
+            },
+            {
+                "id": "es-2004",
+                "w": "amigas",
+                "p": "aˈmiɡas",
+                "d": "friends (feminine)",
+                "s": "Son amigas. (They're friends.)"
+            },
+            {
+                "id": "es-2005",
+                "w": "preguntaba",
+                "p": "preguntaba",
+                "d": "asked; was asking (preguntar)",
+                "s": "Vale, yo sólo preguntaba. (OK, I was just asking.)"
+            },
+            {
+                "id": "es-2006",
+                "w": "francés",
+                "p": "fɾanˈθes",
+                "d": "French",
+                "s": "Es francés. (It's French.)"
+            },
+            {
+                "id": "es-2007",
+                "w": "mataste",
+                "p": "maˈtaste",
+                "d": "you killed (matar)",
+                "s": "Lo mataste. (You killed him.)"
+            },
+            {
+                "id": "es-2008",
+                "w": "techo",
+                "p": "ˈtet͡ʃo",
+                "d": "roof; ceiling",
+                "s": "El techo gotea. (The roof leaks.)"
+            },
+            {
+                "id": "es-2009",
+                "w": "íbamos",
+                "p": "ˈibamos",
+                "d": "we were going (ir)",
+                "s": "No íbamos a hacer eso. (We weren't going to do that.)"
+            },
+            {
+                "id": "es-2010",
+                "w": "protección",
+                "p": "pɾoteɡˈθjon",
+                "d": "protection",
+                "s": "Querían protección. (They wanted protection.)"
+            },
+            {
+                "id": "es-2011",
+                "w": "médicos",
+                "p": "médicos",
+                "d": "doctors",
+                "s": "Sois médicos. (You are doctors.)"
+            },
+            {
+                "id": "es-2012",
+                "w": "lisa",
+                "p": "ˈlisa",
+                "d": "smooth; plain (feminine)",
+                "s": "Su piel es lisa. (Her skin is smooth.)"
+            },
+            {
+                "id": "es-2013",
+                "w": "venganza",
+                "p": "benˈɡanθa",
+                "d": "revenge",
+                "s": "Quiero venganza. (I want revenge.)"
+            },
+            {
+                "id": "es-2014",
+                "w": "pensamos",
+                "p": "penˈsamos",
+                "d": "we think (pensar)",
+                "s": "No pensamos en eso. (We didn't think of that.)"
+            },
+            {
+                "id": "es-2015",
+                "w": "contó",
+                "p": "contó",
+                "d": "told; counted (preterite of contar)",
+                "s": "Tom les contó. (Tom told them.)"
+            },
+            {
+                "id": "es-2016",
+                "w": "discutir",
+                "p": "diskuˈtiɾ",
+                "d": "to argue; to discuss",
+                "s": "Deja de discutir. (Stop arguing.)"
+            },
+            {
+                "id": "es-2017",
+                "w": "comprendo",
+                "p": "comprendo",
+                "d": "I understand (comprender)",
+                "s": "No comprendo. (I don't get it.)"
+            },
+            {
+                "id": "es-2018",
+                "w": "idiotas",
+                "p": "iˈdjotas",
+                "d": "stupid; idiotic (plural)",
+                "s": "Son idiotas. (They're idiots.)"
+            },
+            {
+                "id": "es-2019",
+                "w": "enemigos",
+                "p": "eneˈmiɡos",
+                "d": "enemies",
+                "s": "Somos enemigos. (We're enemies.)"
+            },
+            {
+                "id": "es-2020",
+                "w": "camisa",
+                "p": "kaˈmisa",
+                "d": "shirt",
+                "s": "Lavo la camisa. (I wash the blouse.)"
+            },
+            {
+                "id": "es-2021",
+                "w": "superior",
+                "p": "supeˈɾjoɾ",
+                "d": "superior; upper",
+                "s": "Es superior a mí. (It's beyond me.)"
+            },
+            {
+                "id": "es-2022",
+                "w": "criminal",
+                "p": "kɾimiˈnal",
+                "d": "criminal",
+                "s": "¡Qué criminal! (Cool!)"
+            },
+            {
+                "id": "es-2023",
+                "w": "preocupada",
+                "p": "pɾeokuˈpada",
+                "d": "worried (feminine)",
+                "s": "Estoy preocupada. (I'm worried.)"
+            },
+            {
+                "id": "es-2024",
+                "w": "bote",
+                "p": "ˈbote",
+                "d": "boat; can; jar",
+                "s": "Ese es un bote. (That's a boat.)"
+            },
+            {
+                "id": "es-2025",
+                "w": "escribió",
+                "p": "escribió",
+                "d": "wrote (escribir)",
+                "s": "Me escribió ayer. (He wrote to me yesterday.)"
+            },
+            {
+                "id": "es-2026",
+                "w": "llevamos",
+                "p": "ʝeˈbamos",
+                "d": "we carry; we take (llevar)",
+                "s": "Lo llevamos bien. (We're doing fine.)"
+            },
+            {
+                "id": "es-2027",
+                "w": "testigos",
+                "p": "testigos",
+                "d": "witnesses",
+                "s": "¿Hubo testigos? (Were there any witnesses?)"
+            },
+            {
+                "id": "es-2028",
+                "w": "recoger",
+                "p": "rekoˈxeɾ",
+                "d": "to pick up; to collect",
+                "s": "¿Lo puedes recoger? (Can you pick it up?)"
+            },
+            {
+                "id": "es-2029",
+                "w": "truco",
+                "p": "ˈtɾuko",
+                "d": "trick",
+                "s": "No es un truco. (It's not a trick.)"
+            },
+            {
+                "id": "es-2030",
+                "w": "original",
+                "p": "oɾixiˈnal",
+                "d": "original",
+                "s": "Mi frase es original. (My sentence is original.)"
+            },
+            {
+                "id": "es-2031",
+                "w": "pide",
+                "p": "ˈpide",
+                "d": "asks for; orders (pedir)",
+                "s": "Se me pide algo. (Something is asked of me.)"
+            },
+            {
+                "id": "es-2032",
+                "w": "rosa",
+                "p": "ˈrosa",
+                "d": "rose; pink",
+                "s": "Veo tu rosa. (I see your rose.)"
+            },
+            {
+                "id": "es-2033",
+                "w": "mama",
+                "p": "ˈmama",
+                "d": "mom",
+                "s": "Tiene cáncer de mama. (She has breast cancer.)"
+            },
+            {
+                "id": "es-2034",
+                "w": "negros",
+                "p": "negros",
+                "d": "black (plural)",
+                "s": "Tengo los ojos negros. (I have black eyes.)"
+            },
+            {
+                "id": "es-2035",
+                "w": "sobrevivir",
+                "p": "sobɾebiˈbiɾ",
+                "d": "to survive",
+                "s": "Puedo sobrevivir solo. (I can survive alone.)"
+            },
+            {
+                "id": "es-2036",
+                "w": "rostro",
+                "p": "ˈrostɾo",
+                "d": "face",
+                "s": "Su rostro palideció. (Her face turned pale.)"
+            },
+            {
+                "id": "es-2037",
+                "w": "crédito",
+                "p": "ˈkɾedito",
+                "d": "credit",
+                "s": "¿Puedo pagar a crédito? (Can I pay on credit?)"
+            },
+            {
+                "id": "es-2038",
+                "w": "compartir",
+                "p": "kompaɾˈtiɾ",
+                "d": "to share",
+                "s": "Puedo compartir. (I can share.)"
+            },
+            {
+                "id": "es-2039",
+                "w": "saca",
+                "p": "ˈsaka",
+                "d": "takes out; gets (sacar)",
+                "s": "Un clavo saca otro clavo. (One nail drives out another.)"
+            },
+            {
+                "id": "es-2040",
+                "w": "irás",
+                "p": "iˈɾas",
+                "d": "you will go (ir)",
+                "s": "¿Cómo irás? (How are you going?)"
+            },
+            {
+                "id": "es-2041",
+                "w": "pequeñas",
+                "p": "peˈkeɲas",
+                "d": "small; little (feminine plural)",
+                "s": "Sois pequeñas. (You're small.)"
+            },
+            {
+                "id": "es-2042",
+                "w": "veía",
+                "p": "beˈia",
+                "d": "saw; was seeing (ver)",
+                "s": "Se veía barato. (It looked cheap.)"
+            },
+            {
+                "id": "es-2043",
+                "w": "empezando",
+                "p": "empezando",
+                "d": "starting (gerund of empezar)",
+                "s": "Estoy empezando. (I'm starting.)"
+            },
+            {
+                "id": "es-2044",
+                "w": "registro",
+                "p": "reˈxistɾo",
+                "d": "record; registry; search",
+                "s": "Decide el registro. (Decide the register.)"
+            },
+            {
+                "id": "es-2045",
+                "w": "continúa",
+                "p": "continúa",
+                "d": "continues (continuar)",
+                "s": "Solo continúa. (Just keep going.)"
+            },
+            {
+                "id": "es-2046",
+                "w": "grandioso",
+                "p": "ɡɾanˈdjoso",
+                "d": "great; grandiose",
+                "s": "Es grandioso. (It's great.)"
+            },
+            {
+                "id": "es-2047",
+                "w": "viniste",
+                "p": "viniste",
+                "d": "you came (venir)",
+                "s": "¿Cuándo viniste? (When did you come?)"
+            },
+            {
+                "id": "es-2048",
+                "w": "esquina",
+                "p": "esˈkina",
+                "d": "corner",
+                "s": "Está en la esquina. (It's at the corner.)"
+            },
+            {
+                "id": "es-2049",
+                "w": "contado",
+                "p": "konˈtado",
+                "d": "counted",
+                "s": "Me lo han contado. (They told me.)"
+            },
+            {
+                "id": "es-2050",
+                "w": "tengamos",
+                "p": "tenˈɡamos",
+                "d": "have (subjunctive of tener)",
+                "s": "Quizá tengamos suerte (Maybe we'll get lucky.)"
+            },
+            {
+                "id": "es-2051",
+                "w": "cientos",
+                "p": "ˈθjentos",
+                "d": "hundreds",
+                "s": "Ella tiene cientos de libros. (She has hundreds of books.)"
+            },
+            {
+                "id": "es-2052",
+                "w": "tormenta",
+                "p": "toɾˈmenta",
+                "d": "storm",
+                "s": "La tormenta amainó. (The storm abated.)"
+            },
+            {
+                "id": "es-2053",
+                "w": "relájate",
+                "p": "reˈlaxate",
+                "d": "relax",
+                "s": "\"Oh cariño,\" dijo ella, \"siéntate, relájate y cierra tus ojos.\" (\"Oh, darling,\" she said, \"sit down, relax, and close your eyes.\")"
+            },
+            {
+                "id": "es-2054",
+                "w": "siéntese",
+                "p": "siéntese",
+                "d": "sit down (formal)",
+                "s": "Por favor, siéntese. (Please sit.)"
+            },
+            {
+                "id": "es-2055",
+                "w": "chocolate",
+                "p": "t͡ʃokoˈlate",
+                "d": "chocolate",
+                "s": "Como chocolate. (I eat chocolate.)"
+            },
+            {
+                "id": "es-2056",
+                "w": "pedazo",
+                "p": "peˈdaθo",
+                "d": "piece; chunk",
+                "s": "Es un pedazo de mierda. (It's a piece of shit.)"
+            },
+            {
+                "id": "es-2057",
+                "w": "tomo",
+                "p": "ˈtomo",
+                "d": "volume; tome",
+                "s": "Yo no tomo. (I don't drink.)"
+            },
+            {
+                "id": "es-2058",
+                "w": "olor",
+                "p": "oˈloɾ",
+                "d": "smell; odor",
+                "s": "¿Qué es ese olor? (What's that smell?)"
+            },
+            {
+                "id": "es-2059",
+                "w": "ciencia",
+                "p": "ˈθjenθja",
+                "d": "science",
+                "s": "¡Creé en la ciencia! (Believe in science!)"
+            },
+            {
+                "id": "es-2060",
+                "w": "conexión",
+                "p": "koneɡˈsjon",
+                "d": "connection",
+                "s": "¿Cuál es la conexión? (What's the connection?)"
+            },
+            {
+                "id": "es-2061",
+                "w": "vieron",
+                "p": "ˈbjeɾon",
+                "d": "they saw (ver)",
+                "s": "Me vieron. (They saw me.)"
+            },
+            {
+                "id": "es-2062",
+                "w": "salón",
+                "p": "saˈlon",
+                "d": "living room; hall",
+                "s": "Éste es el salón. (It is a lounge.)"
+            },
+            {
+                "id": "es-2063",
+                "w": "sucio",
+                "p": "ˈsuθjo",
+                "d": "dirty",
+                "s": "Está sucio. (It's dirty.)"
+            },
+            {
+                "id": "es-2064",
+                "w": "firma",
+                "p": "ˈfiɾma",
+                "d": "signature; firm",
+                "s": "Sólo firma aquí. (Just sign here.)"
+            },
+            {
+                "id": "es-2065",
+                "w": "vimos",
+                "p": "ˈbimos",
+                "d": "we saw (ver)",
+                "s": "Los vimos. (We saw them.)"
+            },
+            {
+                "id": "es-2066",
+                "w": "pidiendo",
+                "p": "pidiendo",
+                "d": "asking for (gerund of pedir)",
+                "s": "Grité pidiendo ayuda. (I screamed for help.)"
+            },
+            {
+                "id": "es-2067",
+                "w": "casarse",
+                "p": "casarse",
+                "d": "to get married",
+                "s": "¡Hora de casarse! (Time to get married!)"
+            },
+            {
+                "id": "es-2068",
+                "w": "bebida",
+                "p": "beˈbida",
+                "d": "drink; beverage",
+                "s": "Su bebida, señor. (Here's your drink, sir.)"
+            },
+            {
+                "id": "es-2069",
+                "w": "tercer",
+                "p": "teɾˈθeɾ",
+                "d": "third",
+                "s": "Es nuestro tercer hijo. (He's our third son.)"
+            },
+            {
+                "id": "es-2070",
+                "w": "propios",
+                "p": "ˈpɾopjos",
+                "d": "own (plural)",
+                "s": "Lo vi con mis propios ojos. (I saw it with my own eyes.)"
+            },
+            {
+                "id": "es-2071",
+                "w": "fuertes",
+                "p": "fuertes",
+                "d": "strong (plural)",
+                "s": "Son fuertes. (They're strong.)"
+            },
+            {
+                "id": "es-2072",
+                "w": "lluvia",
+                "p": "ˈʝubja",
+                "d": "rain",
+                "s": "Parece lluvia. (It looks like rain.)"
+            },
+            {
+                "id": "es-2073",
+                "w": "recién",
+                "p": "reˈθjen",
+                "d": "recently; just",
+                "s": "Somos recién casados. (We're newlyweds.)"
+            },
+            {
+                "id": "es-2074",
+                "w": "tomaré",
+                "p": "tomaré",
+                "d": "I will take; I will drink (tomar)",
+                "s": "No tomaré helado. (I will not eat ice cream.)"
+            },
+            {
+                "id": "es-2075",
+                "w": "complicado",
+                "p": "kompliˈkado",
+                "d": "complicated",
+                "s": "Es complicado. (It's complicated.)"
+            },
+            {
+                "id": "es-2076",
+                "w": "toques",
+                "p": "ˈtokes",
+                "d": "touches",
+                "s": "No toques. (Don't touch.)"
+            },
+            {
+                "id": "es-2077",
+                "w": "cámaras",
+                "p": "cámaras",
+                "d": "cameras; chambers",
+                "s": "Tengo dos cámaras. (I have two cameras.)"
+            },
+            {
+                "id": "es-2078",
+                "w": "visión",
+                "p": "biˈsjon",
+                "d": "vision",
+                "s": "He tenido una visión. (I had a vision.)"
+            },
+            {
+                "id": "es-2079",
+                "w": "llego",
+                "p": "ˈʝeɡo",
+                "d": "I arrive (llegar)",
+                "s": "¿Cómo llego? (How can I get there?)"
+            },
+            {
+                "id": "es-2080",
+                "w": "americano",
+                "p": "ameɾiˈkano",
+                "d": "American",
+                "s": "Es americano. (He's American.)"
+            },
+            {
+                "id": "es-2081",
+                "w": "diversión",
+                "p": "dibeɾˈsjon",
+                "d": "fun; entertainment",
+                "s": "Miento por diversión. (I lie for fun.)"
+            },
+            {
+                "id": "es-2082",
+                "w": "pareció",
+                "p": "pareció",
+                "d": "seemed (parecer)",
+                "s": "Tom pareció derrotado. (Tom seemed unsuccessful.)"
+            },
+            {
+                "id": "es-2083",
+                "w": "libras",
+                "p": "ˈlibɾas",
+                "d": "pounds",
+                "s": "Subió unas libras. (He has gained a few pounds.)"
+            },
+            {
+                "id": "es-2084",
+                "w": "curso",
+                "p": "ˈkuɾso",
+                "d": "course",
+                "s": "Está en el cuarto curso. (He's in the fourth year.)"
+            },
+            {
+                "id": "es-2085",
+                "w": "disco",
+                "p": "ˈdisko",
+                "d": "record; disc; club",
+                "s": "Pareces un disco rayado. (You sound like a broken record.)"
+            },
+            {
+                "id": "es-2086",
+                "w": "probable",
+                "p": "pɾoˈbable",
+                "d": "probable; likely",
+                "s": "No es probable. (It's not likely.)"
+            },
+            {
+                "id": "es-2087",
+                "w": "precioso",
+                "p": "pɾeˈθjoso",
+                "d": "precious; beautiful",
+                "s": "El día está precioso. (The day is beautiful.)"
+            },
+            {
+                "id": "es-2088",
+                "w": "tenia",
+                "p": "ˈtenja",
+                "d": "tapeworm",
+                "s": "Él tenia un anhelo de encontrar la paz interior."
+            },
+            {
+                "id": "es-2089",
+                "w": "lago",
+                "p": "ˈlaɡo",
+                "d": "lake",
+                "s": "El lago es grande. (The lake is big.)"
+            },
+            {
+                "id": "es-2090",
+                "w": "leído",
+                "p": "leˈido",
+                "d": "well-read",
+                "s": "Habías leído. (You had read.)"
+            },
+            {
+                "id": "es-2091",
+                "w": "consiguió",
+                "p": "consiguió",
+                "d": "got; achieved (conseguir)",
+                "s": "Lo consiguió. (He made it.)"
+            },
+            {
+                "id": "es-2092",
+                "w": "parecido",
+                "p": "paɾeˈθido",
+                "d": "similar",
+                "s": "Es parecido. (It's similar.)"
+            },
+            {
+                "id": "es-2093",
+                "w": "material",
+                "p": "mateˈɾjal",
+                "d": "material",
+                "s": "¿Es un buen material? (Is it a good material?)"
+            },
+            {
+                "id": "es-2094",
+                "w": "discurso",
+                "p": "disˈkuɾso",
+                "d": "speech; discourse",
+                "s": "Él dio un discurso. (He delivered a speech.)"
+            },
+            {
+                "id": "es-2095",
+                "w": "entera",
+                "p": "enˈteɾa",
+                "d": "whole; entire (feminine)",
+                "s": "Su familia entera es así. (His whole family is like that.)"
+            },
+            {
+                "id": "es-2096",
+                "w": "corta",
+                "p": "ˈkoɾta",
+                "d": "short (feminine)",
+                "s": "La vida es corta. (Life's short.)"
+            },
+            {
+                "id": "es-2097",
+                "w": "completa",
+                "p": "komˈpleta",
+                "d": "complete; full (feminine)",
+                "s": "Mi vida está completa. (My life is complete.)"
+            },
+            {
+                "id": "es-2098",
+                "w": "decirles",
+                "p": "decirles",
+                "d": "to tell them",
+                "s": "Debo decirles algo. (I must tell you something.)"
+            },
+            {
+                "id": "es-2099",
+                "w": "lunes",
+                "p": "ˈlunes",
+                "d": "Monday",
+                "s": "No es lunes. (It's not Monday.)"
+            },
+            {
+                "id": "es-2100",
+                "w": "efectivo",
+                "p": "efeɡˈtibo",
+                "d": "cash",
+                "s": "No es efectivo. (It's not effective.)"
+            },
+            {
+                "id": "es-2101",
+                "w": "cura",
+                "p": "ˈkuɾa",
+                "d": "cure; priest",
+                "s": "Tom es cura. (Tom is a priest.)"
+            },
+            {
+                "id": "es-2102",
+                "w": "antigua",
+                "p": "anˈtiɡwa",
+                "d": "old; former (feminine)",
+                "s": "La casa es antigua. (The house is old.)"
+            },
+            {
+                "id": "es-2103",
+                "w": "hablan",
+                "p": "ˈablan",
+                "d": "they speak (hablar)",
+                "s": "No hablan inglés. (They do not speak English.)"
+            },
+            {
+                "id": "es-2104",
+                "w": "juntas",
+                "p": "ˈxuntas",
+                "d": "together (feminine plural)",
+                "s": "Cenamos juntas. (We have dinner together.)"
+            },
+            {
+                "id": "es-2105",
+                "w": "cáncer",
+                "p": "ˈkanθeɾ",
+                "d": "cancer",
+                "s": "¿Es cáncer? (Is it cancer?)"
+            },
+            {
+                "id": "es-2106",
+                "w": "funeral",
+                "p": "funeˈɾal",
+                "d": "funeral",
+                "s": "Ese es tu funeral. (That's your funeral.)"
+            },
+            {
+                "id": "es-2107",
+                "w": "jodido",
+                "p": "xoˈdido",
+                "d": "fucked; screwed; damn",
+                "s": "Me has jodido la vida. (You fucked up my life.)"
+            },
+            {
+                "id": "es-2108",
+                "w": "artista",
+                "p": "aɾˈtista",
+                "d": "artist",
+                "s": "Soy un artista. (I'm an artist.)"
+            },
+            {
+                "id": "es-2109",
+                "w": "favorito",
+                "p": "faboˈɾito",
+                "d": "favorite",
+                "s": "Sos mi favorito. (You're my favorite.)"
+            },
+            {
+                "id": "es-2110",
+                "w": "guste",
+                "p": "guste",
+                "d": "please (subjunctive of gustar)",
+                "s": "Como usted guste. (As you like.)"
+            },
+            {
+                "id": "es-2111",
+                "w": "cae",
+                "p": "ˈkae",
+                "d": "falls (caer)",
+                "s": "Me cae mal. (I don't like him.)"
+            },
+            {
+                "id": "es-2112",
+                "w": "termine",
+                "p": "teɾˈmine",
+                "d": "finish (subjunctive of terminar)",
+                "s": "Deja que lo termine. (Let him finish it.)"
+            },
+            {
+                "id": "es-2113",
+                "w": "entrevista",
+                "p": "entɾeˈbista",
+                "d": "interview",
+                "s": "¿Cómo fue la entrevista? (How did the interview go?)"
+            },
+            {
+                "id": "es-2114",
+                "w": "pintura",
+                "p": "pinˈtuɾa",
+                "d": "painting; paint",
+                "s": "Necesito pintura. (I need paint.)"
+            },
+            {
+                "id": "es-2115",
+                "w": "quieto",
+                "p": "ˈkjeto",
+                "d": "still; calm",
+                "s": "Estate quieto. (Be quiet.)"
+            },
+            {
+                "id": "es-2116",
+                "w": "falso",
+                "p": "ˈfalso",
+                "d": "false; fake",
+                "s": "Sos falso. (You are two-faced.)"
+            },
+            {
+                "id": "es-2117",
+                "w": "india",
+                "p": "ˈindja",
+                "d": "Indian woman",
+                "s": "Muiriel es india. (Muiriel is an Indian.)"
+            },
+            {
+                "id": "es-2118",
+                "w": "corto",
+                "p": "ˈkoɾto",
+                "d": "short",
+                "s": "Es muy corto. (It's too short.)"
+            },
+            {
+                "id": "es-2119",
+                "w": "inteligencia",
+                "p": "inteliˈxenθja",
+                "d": "intelligence",
+                "s": "No insultes mi inteligencia. (Don't insult my intelligence.)"
+            },
+            {
+                "id": "es-2120",
+                "w": "destruir",
+                "p": "desˈtɾwiɾ",
+                "d": "to destroy",
+                "s": "Debemos destruir al diablo. (We must destroy the devil.)"
+            },
+            {
+                "id": "es-2121",
+                "w": "cargos",
+                "p": "cargos",
+                "d": "positions; charges",
+                "s": "Niego todos esos cargos. (I deny all those charges.)"
+            },
+            {
+                "id": "es-2122",
+                "w": "podías",
+                "p": "poˈdias",
+                "d": "you could (poder)",
+                "s": "No podías escoger. (You couldn't choose.)"
+            },
+            {
+                "id": "es-2123",
+                "w": "mentiras",
+                "p": "mentiras",
+                "d": "lies",
+                "s": "Dice mentiras. (He lies.)"
+            },
+            {
+                "id": "es-2124",
+                "w": "señoras",
+                "p": "señoras",
+                "d": "ladies",
+                "s": "Estas señoras son mis tías. (These women are my aunts.)"
+            },
+            {
+                "id": "es-2125",
+                "w": "helado",
+                "p": "eˈlado",
+                "d": "ice cream",
+                "s": "Es helado. (It's ice cream.)"
+            },
+            {
+                "id": "es-2126",
+                "w": "felicidades",
+                "p": "feliθiˈdades",
+                "d": "congratulations; happy birthday",
+                "s": "Amar y ser amado es la mayor de las felicidades en esta vida. (It is the greatest happiness in life to love and to be loved.)"
+            },
+            {
+                "id": "es-2127",
+                "w": "camioneta",
+                "p": "kamjoˈneta",
+                "d": "pickup truck; van",
+                "s": "Subamos a la camioneta. (Let's get in the truck.)"
+            },
+            {
+                "id": "es-2128",
+                "w": "mueve",
+                "p": "ˈmwebe",
+                "d": "moves (mover)",
+                "s": "No se mueve. (He isn't moving.)"
+            },
+            {
+                "id": "es-2129",
+                "w": "aparte",
+                "p": "aˈpaɾte",
+                "d": "aside; apart",
+                "s": "Eso es cuestión aparte. (That's another issue.)"
+            },
+            {
+                "id": "es-2130",
+                "w": "rock",
+                "p": "ˈrok",
+                "d": "rock (music)",
+                "s": "Me gusta el rock. (I love rock.)"
+            },
+            {
+                "id": "es-2131",
+                "w": "tumba",
+                "p": "ˈtumba",
+                "d": "grave; tomb",
+                "s": "El oso en la tumba. (Bear in the grave.)"
+            },
+            {
+                "id": "es-2132",
+                "w": "seguimos",
+                "p": "seguimos",
+                "d": "we continue; we follow (seguir)",
+                "s": "Pero seguimos sin él. (But we carried on without him.)"
+            },
+            {
+                "id": "es-2133",
+                "w": "hablaba",
+                "p": "aˈblaba",
+                "d": "spoke; was speaking (hablar)",
+                "s": "¿De qué hablaba? (What did you talk about?)"
+            },
+            {
+                "id": "es-2134",
+                "w": "verle",
+                "p": "ˈbeɾle",
+                "d": "to see him/her",
+                "s": "No puedo verle. (I don't see him.)"
+            },
+            {
+                "id": "es-2135",
+                "w": "mapa",
+                "p": "ˈmapa",
+                "d": "map",
+                "s": "Dame el mapa. (Give me the map.)"
+            },
+            {
+                "id": "es-2136",
+                "w": "tarea",
+                "p": "taˈɾea",
+                "d": "task; homework",
+                "s": "Tengo tarea. (I have homework.)"
+            },
+            {
+                "id": "es-2137",
+                "w": "cambió",
+                "p": "cambió",
+                "d": "changed (cambiar)",
+                "s": "Tom cambió. (Tom changed.)"
+            },
+            {
+                "id": "es-2138",
+                "w": "móvil",
+                "p": "ˈmobil",
+                "d": "cell phone",
+                "s": "¿Tiene móvil? (Do you have a cellphone?)"
+            },
+            {
+                "id": "es-2139",
+                "w": "equivocada",
+                "p": "ekiboˈkada",
+                "d": "mistaken; wrong (feminine)",
+                "s": "¿Estoy equivocada? (Am I wrong?)"
+            },
+            {
+                "id": "es-2140",
+                "w": "responder",
+                "p": "responˈdeɾ",
+                "d": "to answer",
+                "s": "No pude responder. (I couldn't answer.)"
+            },
+            {
+                "id": "es-2141",
+                "w": "vacío",
+                "p": "baˈθio",
+                "d": "empty",
+                "s": "Está vacío. (It's empty.)"
+            },
+            {
+                "id": "es-2142",
+                "w": "felicitaciones",
+                "p": "felicitaciones",
+                "d": "congratulations",
+                "s": "¡Hablas muy bien esperanto, felicitaciones! (Your Esperanto is very good, congratulations!)"
+            },
+            {
+                "id": "es-2143",
+                "w": "computadora",
+                "p": "komputaˈdoɾa",
+                "d": "computer",
+                "s": "¿Tienen computadora? (Do they have a computer?)"
+            },
+            {
+                "id": "es-2144",
+                "w": "estudiante",
+                "p": "estuˈdjante",
+                "d": "student",
+                "s": "Es estudiante. (He's a student.)"
+            },
+            {
+                "id": "es-2145",
+                "w": "muriendo",
+                "p": "muriendo",
+                "d": "dying (gerund of morir)",
+                "s": "Estáis muriendo. (You're dying.)"
+            },
+            {
+                "id": "es-2146",
+                "w": "construir",
+                "p": "konsˈtɾwiɾ",
+                "d": "to build",
+                "s": "¿Qué deberían construir? (What should they build?)"
+            },
+            {
+                "id": "es-2147",
+                "w": "conocen",
+                "p": "koˈnoθen",
+                "d": "they know (conocer)",
+                "s": "Te conocen. (They know you.)"
+            },
+            {
+                "id": "es-2148",
+                "w": "clara",
+                "p": "ˈklaɾa",
+                "d": "clear (feminine)",
+                "s": "La ley es clara. (The law is clear.)"
+            },
+            {
+                "id": "es-2149",
+                "w": "solución",
+                "p": "soluˈθjon",
+                "d": "solution",
+                "s": "Tengo la solución. (I have the solution.)"
+            },
+            {
+                "id": "es-2150",
+                "w": "mundial",
+                "p": "munˈdjal",
+                "d": "worldwide; global",
+                "s": "Queremos la paz mundial. (We want world peace.)"
+            },
+            {
+                "id": "es-2151",
+                "w": "plato",
+                "p": "ˈplato",
+                "d": "plate; dish",
+                "s": "Usé este plato. (I used this plate.)"
+            },
+            {
+                "id": "es-2152",
+                "w": "famoso",
+                "p": "faˈmoso",
+                "d": "famous",
+                "s": "Soy famoso. (I'm famous.)"
+            },
+            {
+                "id": "es-2153",
+                "w": "des",
+                "p": "ˈdes",
+                "d": "since; from",
+                "s": "No se lo des. (Don't give it to him.)"
+            },
+            {
+                "id": "es-2154",
+                "w": "dirá",
+                "p": "diˈɾa",
+                "d": "will say (decir)",
+                "s": "¿Qué dirá? (What'll he say?)"
+            },
+            {
+                "id": "es-2155",
+                "w": "ambas",
+                "p": "ˈambas",
+                "d": "both (feminine)",
+                "s": "Gracias a ambas. (Thanks to both of you.)"
+            },
+            {
+                "id": "es-2156",
+                "w": "tecnología",
+                "p": "tecnología",
+                "d": "technology",
+                "s": "¿Usas tecnología moderna? (Do you use current technology?)"
+            },
+            {
+                "id": "es-2157",
+                "w": "notas",
+                "p": "ˈnotas",
+                "d": "notes; grades",
+                "s": "Toma notas. (Take notes.)"
+            },
+            {
+                "id": "es-2158",
+                "w": "malditos",
+                "p": "malˈditos",
+                "d": "damned; cursed (plural)",
+                "s": "Todos los policías son malditos. (All cops are bastards.)"
+            },
+            {
+                "id": "es-2159",
+                "w": "cabrón",
+                "p": "kaˈbɾon",
+                "d": "bastard",
+                "s": "No seas cabrón. (Don't be a dick.)"
+            },
+            {
+                "id": "es-2160",
+                "w": "condiciones",
+                "p": "kondiˈθjones",
+                "d": "conditions",
+                "s": "Tengo dos condiciones. (I have two conditions.)"
+            },
+            {
+                "id": "es-2161",
+                "w": "dudo",
+                "p": "dudo",
+                "d": "I doubt (dudar)",
+                "s": "No lo dudo. (I don't doubt it.)"
+            },
+            {
+                "id": "es-2162",
+                "w": "robó",
+                "p": "robó",
+                "d": "stole; robbed (robar)",
+                "s": "Él lo robó. (He stole it.)"
+            },
+            {
+                "id": "es-2163",
+                "w": "escucho",
+                "p": "escucho",
+                "d": "I listen (escuchar)",
+                "s": "Veo y escucho. (I see and hear.)"
+            },
+            {
+                "id": "es-2164",
+                "w": "rápidamente",
+                "p": "ˌrapidaˈmente",
+                "d": "quickly; rapidly",
+                "s": "Hazlo rápidamente. (Do it quickly.)"
+            },
+            {
+                "id": "es-2165",
+                "w": "bordo",
+                "p": "ˈboɾdo",
+                "d": "board (as in \"a bordo\", on board)",
+                "s": "Sube a bordo. (Come aboard.)"
+            },
+            {
+                "id": "es-2166",
+                "w": "nieve",
+                "p": "ˈnjebe",
+                "d": "snow",
+                "s": "Come nieve. (Eat snow.)"
+            },
+            {
+                "id": "es-2167",
+                "w": "mensajes",
+                "p": "mensajes",
+                "d": "messages",
+                "s": "Tiene tres mensajes. (You have three messages.)"
+            },
+            {
+                "id": "es-2168",
+                "w": "fecha",
+                "p": "ˈfet͡ʃa",
+                "d": "date",
+                "s": "Cambié la fecha. (I rescheduled.)"
+            },
+            {
+                "id": "es-2169",
+                "w": "violencia",
+                "p": "bjoˈlenθja",
+                "d": "violence",
+                "s": "No hubo violencia. (There was no violence.)"
+            },
+            {
+                "id": "es-2170",
+                "w": "sujeto",
+                "p": "suˈxeto",
+                "d": "subject; individual",
+                "s": "Soy un buen sujeto. (I'm a nice guy.)"
+            },
+            {
+                "id": "es-2171",
+                "w": "acciones",
+                "p": "aɡˈθjones",
+                "d": "actions; shares",
+                "s": "Sus acciones me confunden. (His actions confuse me.)"
+            },
+            {
+                "id": "es-2172",
+                "w": "fría",
+                "p": "ˈfɾia",
+                "d": "cold (feminine)",
+                "s": "¿Está fría? (Is it cold?)"
+            },
+            {
+                "id": "es-2173",
+                "w": "droga",
+                "p": "ˈdɾoɡa",
+                "d": "drug",
+                "s": "Tom se droga. (Tom does drugs.)"
+            },
+            {
+                "id": "es-2174",
+                "w": "saldrá",
+                "p": "saldrá",
+                "d": "will leave; will go out (salir)",
+                "s": "Creo que saldrá. (I think he'll go out.)"
+            },
+            {
+                "id": "es-2175",
+                "w": "suponía",
+                "p": "supoˈnia",
+                "d": "supposed; assumed (suponer)",
+                "s": "No se suponía que pasara esto. (This wasn't supposed to happen.)"
+            },
+            {
+                "id": "es-2176",
+                "w": "empezamos",
+                "p": "empezamos",
+                "d": "we start; we began (empezar)",
+                "s": "¿Cómo empezamos? (How do we begin?)"
+            },
+            {
+                "id": "es-2177",
+                "w": "errores",
+                "p": "errores",
+                "d": "errors; mistakes",
+                "s": "No hubo errores. (There were no mistakes.)"
+            },
+            {
+                "id": "es-2178",
+                "w": "siglo",
+                "p": "ˈsiɡlo",
+                "d": "century",
+                "s": "Un siglo es cien años. (A century is one hundred years.)"
+            },
+            {
+                "id": "es-2179",
+                "w": "molesto",
+                "p": "moˈlesto",
+                "d": "annoyed; annoying",
+                "s": "Tom es molesto. (Tom is annoying.)"
+            },
+            {
+                "id": "es-2180",
+                "w": "acabamos",
+                "p": "akaˈbamos",
+                "d": "we finish (acabar)",
+                "s": "Nos acabamos de casar. (We just got married.)"
+            },
+            {
+                "id": "es-2181",
+                "w": "sabéis",
+                "p": "saˈbeis",
+                "d": "you know (Spain plural)",
+                "s": "¿No sabéis? (You don't know?)"
+            },
+            {
+                "id": "es-2182",
+                "w": "cortar",
+                "p": "koɾˈtaɾ",
+                "d": "to cut",
+                "s": "Odio cortar el césped. (I hate mowing the lawn.)"
+            },
+            {
+                "id": "es-2183",
+                "w": "seria",
+                "p": "ˈseɾja",
+                "d": "serious (feminine)",
+                "s": "La situación es seria. (The situation is serious.)"
+            },
+            {
+                "id": "es-2184",
+                "w": "muevas",
+                "p": "muevas",
+                "d": "move (subjunctive of mover)",
+                "s": "No te muevas. (Be still.)"
+            },
+            {
+                "id": "es-2185",
+                "w": "fortuna",
+                "p": "foɾˈtuna",
+                "d": "fortune",
+                "s": "Vale una fortuna. (It's worth a fortune.)"
+            },
+            {
+                "id": "es-2186",
+                "w": "imaginar",
+                "p": "imaxiˈnaɾ",
+                "d": "to imagine",
+                "s": "¿Te lo puedes imaginar? (Can you imagine?)"
+            },
+            {
+                "id": "es-2187",
+                "w": "archivos",
+                "p": "archivos",
+                "d": "files",
+                "s": "No hay archivos. (There are no files.)"
+            },
+            {
+                "id": "es-2188",
+                "w": "presencia",
+                "p": "pɾeˈsenθja",
+                "d": "presence",
+                "s": "Su presencia es vital. (It is vital that you be present.)"
+            },
+            {
+                "id": "es-2189",
+                "w": "familias",
+                "p": "familias",
+                "d": "families",
+                "s": "Tienen familias. (They have families.)"
+            },
+            {
+                "id": "es-2190",
+                "w": "ey",
+                "p": "ˈei",
+                "d": "hey",
+                "s": ""
+            },
+            {
+                "id": "es-2191",
+                "w": "quedas",
+                "p": "ˈkedas",
+                "d": "you stay (quedar)",
+                "s": "¿Te vas o te quedas? (Are you going or staying?)"
+            },
+            {
+                "id": "es-2192",
+                "w": "solas",
+                "p": "ˈsolas",
+                "d": "alone (feminine plural)",
+                "s": "¿Están solas? (Are you by yourselves?)"
+            },
+            {
+                "id": "es-2193",
+                "w": "oficiales",
+                "p": "ofiˈθjales",
+                "d": "officers",
+                "s": "La UE tiene 24 lenguas oficiales. (The EU has 24 official languages.)"
+            },
+            {
+                "id": "es-2194",
+                "w": "aventura",
+                "p": "abenˈtuɾa",
+                "d": "adventure",
+                "s": "La aventura comienza. (The adventure begins.)"
+            },
+            {
+                "id": "es-2195",
+                "w": "gira",
+                "p": "ˈxiɾa",
+                "d": "tour",
+                "s": "La rueda gira. (The wheel revolves.)"
+            },
+            {
+                "id": "es-2196",
+                "w": "social",
+                "p": "soˈθjal",
+                "d": "social",
+                "s": "El tuvo poca vida social. (He had little social life.)"
+            },
+            {
+                "id": "es-2197",
+                "w": "comunidad",
+                "p": "komuniˈdad",
+                "d": "community",
+                "s": "Tatoeba es una comunidad. (Tatoeba is a community.)"
+            },
+            {
+                "id": "es-2198",
+                "w": "cero",
+                "p": "ˈθeɾo",
+                "d": "zero",
+                "s": "Lo hice desde cero. (I made it from scratch.)"
+            },
+            {
+                "id": "es-2199",
+                "w": "esperamos",
+                "p": "espeˈɾamos",
+                "d": "we wait; we hope (esperar)",
+                "s": "Te esperamos allá. (We'll wait for you there.)"
+            },
+            {
+                "id": "es-2200",
+                "w": "ocupada",
+                "p": "okuˈpada",
+                "d": "busy; occupied (feminine)",
+                "s": "Estoy ocupada. (I am busy.)"
+            },
+            {
+                "id": "es-2201",
+                "w": "muévete",
+                "p": "muévete",
+                "d": "move! (moverse)",
+                "s": "Actívate y muévete."
+            },
+            {
+                "id": "es-2202",
+                "w": "convertido",
+                "p": "kombeɾˈtido",
+                "d": "converted",
+                "s": "Me he convertido en mujer. (I became a woman.)"
+            },
+            {
+                "id": "es-2203",
+                "w": "pieza",
+                "p": "ˈpjeθa",
+                "d": "piece; part",
+                "s": "Limpia la pieza. (Clean the room.)"
+            },
+            {
+                "id": "es-2204",
+                "w": "estómago",
+                "p": "esˈtomaɡo",
+                "d": "stomach",
+                "s": "Me duele el estómago. (My stomach hurts.)"
+            },
+            {
+                "id": "es-2205",
+                "w": "disparó",
+                "p": "disparó",
+                "d": "shot; fired (disparar)",
+                "s": "Le disparó. (She shot him.)"
+            },
+            {
+                "id": "es-2206",
+                "w": "legal",
+                "p": "leˈɡal",
+                "d": "legal",
+                "s": "¿Eso es legal? (Is that legal?)"
+            },
+            {
+                "id": "es-2207",
+                "w": "conseguí",
+                "p": "conseguí",
+                "d": "I got; I achieved (conseguir)",
+                "s": "Lo conseguí gratis. (I got it for free.)"
+            },
+            {
+                "id": "es-2208",
+                "w": "california",
+                "p": "kaliˈfoɾnja",
+                "d": "California",
+                "s": ""
+            },
+            {
+                "id": "es-2209",
+                "w": "rara",
+                "p": "ˈraɾa",
+                "d": "strange; rare (feminine)",
+                "s": "María es rara. (Mary is weird.)"
+            },
+            {
+                "id": "es-2210",
+                "w": "estudiantes",
+                "p": "estudiantes",
+                "d": "students",
+                "s": "Son estudiantes. (They're students.)"
+            },
+            {
+                "id": "es-2211",
+                "w": "reino",
+                "p": "ˈreino",
+                "d": "kingdom",
+                "s": "Él fue exiliado del reino. (He was exiled from the kingdom.)"
+            },
+            {
+                "id": "es-2212",
+                "w": "alegría",
+                "p": "aleˈɡɾia",
+                "d": "joy; happiness",
+                "s": "Salté de alegría. (I jumped for joy.)"
+            },
+            {
+                "id": "es-2213",
+                "w": "barrio",
+                "p": "ˈbarjo",
+                "d": "neighborhood",
+                "s": "Él se mudó al barrio. (He moved into my neighborhood.)"
+            },
+            {
+                "id": "es-2214",
+                "w": "granja",
+                "p": "ˈɡɾanxa",
+                "d": "farm",
+                "s": "Trabajé en una granja. (I worked on a farm.)"
+            },
+            {
+                "id": "es-2215",
+                "w": "podéis",
+                "p": "poˈdeis",
+                "d": "you can (Spain plural)",
+                "s": "No podéis nadar. (You can't swim.)"
+            },
+            {
+                "id": "es-2216",
+                "w": "esfuerzo",
+                "p": "esˈfweɾθo",
+                "d": "effort",
+                "s": "Haz un esfuerzo. (Make an effort!)"
+            },
+            {
+                "id": "es-2217",
+                "w": "trabajaba",
+                "p": "trabajaba",
+                "d": "worked; was working (trabajar)",
+                "s": "¿Dónde trabajaba? (Where did he work?)"
+            },
+            {
+                "id": "es-2218",
+                "w": "perdóname",
+                "p": "perdóname",
+                "d": "forgive me",
+                "s": "Por favor, perdóname. (Please forgive me.)"
+            },
+            {
+                "id": "es-2219",
+                "w": "tesoro",
+                "p": "teˈsoɾo",
+                "d": "treasure",
+                "s": "El tesoro es tuyo. (The treasure is yours.)"
+            },
+            {
+                "id": "es-2220",
+                "w": "empleo",
+                "p": "emˈpleo",
+                "d": "job; employment",
+                "s": "Buscas empleo. (You're looking for work.)"
+            },
+            {
+                "id": "es-2221",
+                "w": "compré",
+                "p": "compré",
+                "d": "I bought (comprar)",
+                "s": "Lo compré. (I bought it.)"
+            },
+            {
+                "id": "es-2222",
+                "w": "cirugía",
+                "p": "θiɾuˈxia",
+                "d": "surgery",
+                "s": "Necesito cirugía. (I need surgery.)"
+            },
+            {
+                "id": "es-2223",
+                "w": "dejamos",
+                "p": "deˈxamos",
+                "d": "we leave; we let (dejar)",
+                "s": "Lo dejamos. (We broke up.)"
+            },
+            {
+                "id": "es-2224",
+                "w": "busco",
+                "p": "ˈbusko",
+                "d": "I look for (buscar)",
+                "s": "No es lo que busco. (That isn't what I'm looking for.)"
+            },
+            {
+                "id": "es-2225",
+                "w": "trabajas",
+                "p": "tɾaˈbaxas",
+                "d": "you work (trabajar)",
+                "s": "¿Hoy trabajas? (Are you working today?)"
+            },
+            {
+                "id": "es-2226",
+                "w": "clave",
+                "p": "ˈklabe",
+                "d": "key; code",
+                "s": "Perdí mi clave. (I lost my key.)"
+            },
+            {
+                "id": "es-2227",
+                "w": "aparentemente",
+                "p": "apaˌɾenteˈmente",
+                "d": "apparently",
+                "s": "Tom aparentemente quiere hacer eso. (Tom apparently wants to do that.)"
+            },
+            {
+                "id": "es-2228",
+                "w": "bravo",
+                "p": "ˈbɾabo",
+                "d": "brave; fierce",
+                "s": "Cuidado, es un toro bravo. (Be careful. It's a fierce bull.)"
+            },
+            {
+                "id": "es-2229",
+                "w": "desearía",
+                "p": "desearía",
+                "d": "would like; would wish (desear)",
+                "s": "¿Qué desearía tomar hoy? (What would you like to drink today?)"
+            },
+            {
+                "id": "es-2230",
+                "w": "cerrada",
+                "p": "θeˈrada",
+                "d": "closed (feminine)",
+                "s": "La tapa está cerrada. (The lid is closed.)"
+            },
+            {
+                "id": "es-2231",
+                "w": "controlar",
+                "p": "kontɾoˈlaɾ",
+                "d": "to control",
+                "s": "No me puedo controlar. (I can't control myself.)"
+            },
+            {
+                "id": "es-2232",
+                "w": "pregunté",
+                "p": "pregunté",
+                "d": "I asked (preguntar)",
+                "s": "Yo le pregunté. (I asked him.)"
+            },
+            {
+                "id": "es-2233",
+                "w": "mostrar",
+                "p": "mosˈtɾaɾ",
+                "d": "to show",
+                "s": "Te voy a mostrar. (I'll show you.)"
+            },
+            {
+                "id": "es-2234",
+                "w": "piloto",
+                "p": "piˈloto",
+                "d": "pilot",
+                "s": "Tom es piloto. (Tom is a pilot.)"
+            },
+            {
+                "id": "es-2235",
+                "w": "pocas",
+                "p": "ˈpokas",
+                "d": "few (feminine)",
+                "s": "Quedan pocas. (There aren't many left.)"
+            },
+            {
+                "id": "es-2236",
+                "w": "tuvieron",
+                "p": "tuˈbjeɾon",
+                "d": "they had (tener)",
+                "s": "Ellos tuvieron miedo. (They were afraid.)"
+            },
+            {
+                "id": "es-2237",
+                "w": "ayudarle",
+                "p": "aʝuˈdaɾle",
+                "d": "to help him/her",
+                "s": "¿Puedo ayudarle? (Can I help you?)"
+            },
+            {
+                "id": "es-2238",
+                "w": "bolso",
+                "p": "ˈbolso",
+                "d": "purse; handbag",
+                "s": "Este es su bolso. (This is her handbag.)"
+            },
+            {
+                "id": "es-2239",
+                "w": "llorando",
+                "p": "ʝoˈɾando",
+                "d": "crying (gerund of llorar)",
+                "s": "Estaba llorando. (She was crying.)"
+            },
+            {
+                "id": "es-2240",
+                "w": "duerme",
+                "p": "ˈdweɾme",
+                "d": "sleeps (dormir)",
+                "s": "Ya duerme. (She is already sleeping.)"
+            },
+            {
+                "id": "es-2241",
+                "w": "dejarme",
+                "p": "dejarme",
+                "d": "to leave me; to let me",
+                "s": "No puedes dejarme. (You can't leave me.)"
+            },
+            {
+                "id": "es-2242",
+                "w": "intentó",
+                "p": "intentó",
+                "d": "tried (intentar)",
+                "s": "Ella lo intentó. (She tried.)"
+            },
+            {
+                "id": "es-2243",
+                "w": "respirar",
+                "p": "respiˈɾaɾ",
+                "d": "to breathe",
+                "s": "¿Podés respirar? (Can you breathe?)"
+            },
+            {
+                "id": "es-2244",
+                "w": "aparece",
+                "p": "apaˈɾeθe",
+                "d": "appears (aparecer)",
+                "s": "Un tigre aparece aquí cerca. (A tiger appears near here.)"
+            },
+            {
+                "id": "es-2245",
+                "w": "campaña",
+                "p": "kamˈpaɲa",
+                "d": "campaign",
+                "s": "Él rehusó hacer mucha campaña. (He refused to do much campaigning.)"
+            },
+            {
+                "id": "es-2246",
+                "w": "amistad",
+                "p": "amisˈtad",
+                "d": "friendship",
+                "s": "Creo en la amistad. (I believe in friendship.)"
+            },
+            {
+                "id": "es-2247",
+                "w": "corriente",
+                "p": "koˈrjente",
+                "d": "current; flowing",
+                "s": "Son gente corriente. (They're normal people.)"
+            },
+            {
+                "id": "es-2248",
+                "w": "viven",
+                "p": "viven",
+                "d": "they live (vivir)",
+                "s": "Ambos viven. (Both are alive.)"
+            },
+            {
+                "id": "es-2249",
+                "w": "huesos",
+                "p": "huesos",
+                "d": "bones",
+                "s": "Estos son huesos humanos. (These are bones from a human.)"
+            },
+            {
+                "id": "es-2250",
+                "w": "invitados",
+                "p": "invitados",
+                "d": "guests",
+                "s": "Somos invitados. (We're guests.)"
+            },
+            {
+                "id": "es-2251",
+                "w": "planta",
+                "p": "ˈplanta",
+                "d": "plant; floor",
+                "s": "¿Qué planta es? (What floor?)"
+            },
+            {
+                "id": "es-2252",
+                "w": "ritmo",
+                "p": "ˈridmo",
+                "d": "rhythm",
+                "s": "Trata de seguir el ritmo. (Try to keep up.)"
+            },
+            {
+                "id": "es-2253",
+                "w": "respuestas",
+                "p": "respuestas",
+                "d": "answers",
+                "s": "Necesito respuestas. (I need answers.)"
+            },
+            {
+                "id": "es-2254",
+                "w": "socio",
+                "p": "ˈsoθjo",
+                "d": "partner; member",
+                "s": "No soy socio. (I'm not a member.)"
+            },
+            {
+                "id": "es-2255",
+                "w": "esperas",
+                "p": "esˈpeɾas",
+                "d": "you wait (esperar)",
+                "s": "¿Qué esperas? (What are you waiting for?)"
+            },
+            {
+                "id": "es-2256",
+                "w": "caído",
+                "p": "kaˈido",
+                "d": "fallen",
+                "s": "El régimen ha caído. (The regime has fallen.)"
+            },
+            {
+                "id": "es-2257",
+                "w": "motor",
+                "p": "moˈtoɾ",
+                "d": "engine; motor",
+                "s": "Apaga el motor. (Cut the engine.)"
+            },
+            {
+                "id": "es-2258",
+                "w": "mono",
+                "p": "ˈmono",
+                "d": "monkey",
+                "s": "Es carne de mono. (It's monkey meat.)"
+            },
+            {
+                "id": "es-2259",
+                "w": "llevaron",
+                "p": "llevaron",
+                "d": "they carried; they took (llevar)",
+                "s": "¿Dónde ellos lo llevaron? (Where did they take him?)"
+            },
+            {
+                "id": "es-2260",
+                "w": "página",
+                "p": "ˈpaxina",
+                "d": "page",
+                "s": "Falta una página. (There is a page missing.)"
+            },
+            {
+                "id": "es-2261",
+                "w": "poquito",
+                "p": "poˈkito",
+                "d": "a little bit",
+                "s": "Sí, un poquito. (Yes, a little bit.)"
+            },
+            {
+                "id": "es-2262",
+                "w": "habíamos",
+                "p": "aˈbiamos",
+                "d": "we had (haber)",
+                "s": "¿No la habíamos visto antes? (Haven't we seen her before?)"
+            },
+            {
+                "id": "es-2263",
+                "w": "encontraremos",
+                "p": "enkontɾaˈɾemos",
+                "d": "we will find (encontrar)",
+                "s": "Lo encontraremos. (We'll find him.)"
+            },
+            {
+                "id": "es-2264",
+                "w": "ruego",
+                "p": "ˈrweɡo",
+                "d": "plea; request",
+                "s": "Te lo ruego. (I beg you.)"
+            },
+            {
+                "id": "es-2265",
+                "w": "dejan",
+                "p": "ˈdexan",
+                "d": "they leave; they let (dejar)",
+                "s": "¿Me dejan la goma? (May I borrow your eraser?)"
+            },
+            {
+                "id": "es-2266",
+                "w": "aburrido",
+                "p": "abuˈrido",
+                "d": "bored; boring",
+                "s": "Es aburrido. (It's boring.)"
+            },
+            {
+                "id": "es-2267",
+                "w": "paquete",
+                "p": "paˈkete",
+                "d": "package; parcel",
+                "s": "El paquete está aquí. (The package is here.)"
+            },
+            {
+                "id": "es-2268",
+                "w": "casada",
+                "p": "kaˈsada",
+                "d": "married (feminine)",
+                "s": "Soy casada. (I'm married.)"
+            },
+            {
+                "id": "es-2269",
+                "w": "llevarte",
+                "p": "llevarte",
+                "d": "to take you",
+                "s": "Intenta llevarte bien. (Try to get along.)"
+            },
+            {
+                "id": "es-2270",
+                "w": "combate",
+                "p": "komˈbate",
+                "d": "combat; fight",
+                "s": "Murieron en combate. (They died in battle.)"
+            },
+            {
+                "id": "es-2271",
+                "w": "útil",
+                "p": "ˈutil",
+                "d": "useful",
+                "s": "¿Fue útil? (Was that useful?)"
+            },
+            {
+                "id": "es-2272",
+                "w": "castillo",
+                "p": "kasˈtiʝo",
+                "d": "castle",
+                "s": "¿Es eso un castillo? (Is that a castle?)"
+            },
+            {
+                "id": "es-2273",
+                "w": "bola",
+                "p": "ˈbola",
+                "d": "ball",
+                "s": "Tiró la bola. (He threw the ball.)"
+            },
+            {
+                "id": "es-2274",
+                "w": "canciones",
+                "p": "kanˈθjones",
+                "d": "songs",
+                "s": "Ya no escribo canciones. (I don't write songs anymore.)"
+            },
+            {
+                "id": "es-2275",
+                "w": "mataré",
+                "p": "mataré",
+                "d": "I will kill (matar)",
+                "s": "Te mataré. (I'll kill you.)"
+            },
+            {
+                "id": "es-2276",
+                "w": "muchísimo",
+                "p": "muˈt͡ʃisimo",
+                "d": "a lot; very much",
+                "s": "Llueve muchísimo. (It's raining a lot.)"
+            },
+            {
+                "id": "es-2277",
+                "w": "asistente",
+                "p": "asisˈtente",
+                "d": "assistant; attendee",
+                "s": "No eres mi asistente. (You're not my assistant.)"
+            },
+            {
+                "id": "es-2278",
+                "w": "llegaron",
+                "p": "llegaron",
+                "d": "they arrived (llegar)",
+                "s": "Apenas llegaron. (They just got here.)"
+            },
+            {
+                "id": "es-2279",
+                "w": "correcta",
+                "p": "correcta",
+                "d": "correct (feminine)",
+                "s": "¿Cuál es correcta? (Which is correct?)"
+            },
+            {
+                "id": "es-2280",
+                "w": "pondré",
+                "p": "ponˈdɾe",
+                "d": "I will put (poner)",
+                "s": "Me pondré firme. (I'll put my foot down.)"
+            },
+            {
+                "id": "es-2281",
+                "w": "comido",
+                "p": "koˈmido",
+                "d": "eaten (past participle of comer)",
+                "s": "He comido. (I've eaten.)"
+            },
+            {
+                "id": "es-2282",
+                "w": "salgan",
+                "p": "salgan",
+                "d": "leave; go out (subjunctive of salir)",
+                "s": "Él gritó \"¡salgan!\". (He shouted, \"Get out!\")"
+            },
+            {
+                "id": "es-2283",
+                "w": "empecé",
+                "p": "empeˈθe",
+                "d": "I started (empezar)",
+                "s": "Me empecé a preparar. (I started getting ready.)"
+            },
+            {
+                "id": "es-2284",
+                "w": "tirar",
+                "p": "tiˈɾaɾ",
+                "d": "to throw; to throw away",
+                "s": "Tengo que tirar una pared. (I have to knock down a wall.)"
+            },
+            {
+                "id": "es-2285",
+                "w": "pasan",
+                "p": "pasan",
+                "d": "they pass; they happen (pasar)",
+                "s": "Las cosas pasan. (Stuff happens.)"
+            },
+            {
+                "id": "es-2286",
+                "w": "cierta",
+                "p": "ˈθjeɾta",
+                "d": "certain (feminine)",
+                "s": "Su historia es cierta. (Her story is true.)"
+            },
+            {
+                "id": "es-2287",
+                "w": "honesto",
+                "p": "oˈnesto",
+                "d": "honest",
+                "s": "Soy honesto. (I'm honest.)"
+            },
+            {
+                "id": "es-2288",
+                "w": "carro",
+                "p": "ˈkaro",
+                "d": "car; cart",
+                "s": "¿Tienes carro? (Do you have a car?)"
+            },
+            {
+                "id": "es-2289",
+                "w": "limpia",
+                "p": "ˈlimpja",
+                "d": "clean (feminine)",
+                "s": "¿Está limpia? (Is it clean?)"
+            },
+            {
+                "id": "es-2290",
+                "w": "volví",
+                "p": "volví",
+                "d": "I returned (volver)",
+                "s": "Me volví rico. (I became rich.)"
+            },
+            {
+                "id": "es-2291",
+                "w": "confío",
+                "p": "confío",
+                "d": "I trust (confiar)",
+                "s": "No confío en él. (I don't trust him.)"
+            },
+            {
+                "id": "es-2292",
+                "w": "venta",
+                "p": "ˈbenta",
+                "d": "sale",
+                "s": "Estaba en venta. (It was on sale.)"
+            },
+            {
+                "id": "es-2293",
+                "w": "huir",
+                "p": "ˈw̝iɾ",
+                "d": "to flee; to run away",
+                "s": "Lo vi huir. (I saw him run away.)"
+            },
+            {
+                "id": "es-2294",
+                "w": "apareció",
+                "p": "apareció",
+                "d": "appeared (aparecer)",
+                "s": "No apareció. (He didn't show up.)"
+            },
+            {
+                "id": "es-2295",
+                "w": "vais",
+                "p": "ˈbais",
+                "d": "you go (Spain plural)",
+                "s": "¿Adónde vais? (Where're you going?)"
+            },
+            {
+                "id": "es-2296",
+                "w": "compromiso",
+                "p": "kompɾoˈmiso",
+                "d": "commitment; engagement",
+                "s": "Tenía un compromiso. (I had a commitment.)"
+            },
+            {
+                "id": "es-2297",
+                "w": "gustas",
+                "p": "gustas",
+                "d": "you please; you like (gustar)",
+                "s": "Me gustas. (I like you.)"
+            },
+            {
+                "id": "es-2298",
+                "w": "aseguro",
+                "p": "aseguro",
+                "d": "I assure (asegurar)",
+                "s": "Te lo aseguro. (You may take my word for it.)"
+            },
+            {
+                "id": "es-2299",
+                "w": "ira",
+                "p": "ˈiɾa",
+                "d": "anger; wrath",
+                "s": "La ira es tóxica. (Anger is poisonous.)"
+            },
+            {
+                "id": "es-2300",
+                "w": "promesa",
+                "p": "pɾoˈmesa",
+                "d": "promise",
+                "s": "Es una promesa. (That's a promise.)"
+            },
+            {
+                "id": "es-2301",
+                "w": "decírselo",
+                "p": "decírselo",
+                "d": "to tell it to him/her",
+                "s": "Debes decírselo. (You have to tell it to him.)"
+            },
+            {
+                "id": "es-2302",
+                "w": "cuáles",
+                "p": "ˈkwales",
+                "d": "which ones",
+                "s": "No sé cuáles son sus intenciones. (I don't know what her intentions are.)"
+            },
+            {
+                "id": "es-2303",
+                "w": "compras",
+                "p": "ˈkompɾas",
+                "d": "purchases",
+                "s": "¿Qué compras? (What are you buying?)"
+            },
+            {
+                "id": "es-2304",
+                "w": "importancia",
+                "p": "impoɾˈtanθja",
+                "d": "importance",
+                "s": "No tiene importancia. (It's no big deal.)"
+            },
+            {
+                "id": "es-2305",
+                "w": "lección",
+                "p": "leɡˈθjon",
+                "d": "lesson",
+                "s": "La lección empezará. (The lesson will start.)"
+            },
+            {
+                "id": "es-2306",
+                "w": "hablaré",
+                "p": "ablaˈɾe",
+                "d": "I will speak (hablar)",
+                "s": "Te hablaré de él. (I will tell you about him.)"
+            },
+            {
+                "id": "es-2307",
+                "w": "hacerse",
+                "p": "hacerse",
+                "d": "to become; to be done",
+                "s": "Puede hacerse. (It can be done.)"
+            },
+            {
+                "id": "es-2308",
+                "w": "personalmente",
+                "p": "peɾˌsonalˈmente",
+                "d": "personally",
+                "s": "Me invitó personalmente. (He invited me personally.)"
+            },
+            {
+                "id": "es-2309",
+                "w": "bolsillo",
+                "p": "bolˈsiʝo",
+                "d": "pocket",
+                "s": "Está en mi bolsillo. (It's in my pocket.)"
+            },
+            {
+                "id": "es-2310",
+                "w": "enojado",
+                "p": "enoˈxado",
+                "d": "angry",
+                "s": "Estoy enojado. (I'm mad.)"
+            },
+            {
+                "id": "es-2311",
+                "w": "desgracia",
+                "p": "desˈɡɾaθja",
+                "d": "misfortune; disgrace",
+                "s": "¡Qué desgracia! (What rotten luck!)"
+            },
+            {
+                "id": "es-2312",
+                "w": "artículo",
+                "p": "aɾˈtikulo",
+                "d": "article",
+                "s": "Lee el artículo. (Read the article.)"
+            },
+            {
+                "id": "es-2313",
+                "w": "labios",
+                "p": "ˈlabjos",
+                "d": "lips",
+                "s": "Leo labios. (I read lips.)"
+            },
+            {
+                "id": "es-2314",
+                "w": "cola",
+                "p": "ˈkola",
+                "d": "tail; line; queue",
+                "s": "Bebieron cola. (They drank cola.)"
+            },
+            {
+                "id": "es-2315",
+                "w": "estemos",
+                "p": "esˈtemos",
+                "d": "be (subjunctive of estar)",
+                "s": "No importa dónde estemos. (It doesn't matter where we are.)"
+            },
+            {
+                "id": "es-2316",
+                "w": "whisky",
+                "p": "ˈw̝iski",
+                "d": "whisky; whiskey",
+                "s": "¿Bebes whisky? (Do you drink whiskey?)"
+            },
+            {
+                "id": "es-2317",
+                "w": "taza",
+                "p": "ˈtaθa",
+                "d": "cup; mug",
+                "s": "Ves una taza. (You see a cup.)"
+            },
+            {
+                "id": "es-2318",
+                "w": "despues",
+                "p": "despues",
+                "d": "after; later (misspelling)",
+                "s": "Estudio despues."
+            },
+            {
+                "id": "es-2319",
+                "w": "preguntarte",
+                "p": "preguntarte",
+                "d": "to ask you",
+                "s": "No pude preguntarte. (I couldn't ask you.)"
+            },
+            {
+                "id": "es-2320",
+                "w": "pelota",
+                "p": "peˈlota",
+                "d": "ball",
+                "s": "Dame la pelota. (Give me the ball.)"
+            },
+            {
+                "id": "es-2321",
+                "w": "caminando",
+                "p": "caminando",
+                "d": "walking (gerund of caminar)",
+                "s": "Seguí caminando. (Keep walking.)"
+            },
+            {
+                "id": "es-2322",
+                "w": "andar",
+                "p": "anˈdaɾ",
+                "d": "to walk; to go",
+                "s": "¿Puedes andar? (Can you walk?)"
+            },
+            {
+                "id": "es-2323",
+                "w": "crea",
+                "p": "ˈkɾea",
+                "d": "creates (crear)",
+                "s": "Le ruego que crea. (I'm asking you to believe.)"
+            },
+            {
+                "id": "es-2324",
+                "w": "chaqueta",
+                "p": "t͡ʃaˈketa",
+                "d": "jacket",
+                "s": "Olvidé mi chaqueta. (I forgot my jacket.)"
+            },
+            {
+                "id": "es-2325",
+                "w": "importaría",
+                "p": "importaría",
+                "d": "would mind; would matter (importar)",
+                "s": "No me importaría. (I wouldn't care.)"
+            },
+            {
+                "id": "es-2326",
+                "w": "den",
+                "p": "ˈden",
+                "d": "give (subjunctive of dar)",
+                "s": "No me lo den. (Don't give me that.)"
+            },
+            {
+                "id": "es-2327",
+                "w": "llegará",
+                "p": "ʝeɡaˈɾa",
+                "d": "will arrive (llegar)",
+                "s": "Tom llegará pronto. (Tom will arrive soon.)"
+            },
+            {
+                "id": "es-2328",
+                "w": "interesado",
+                "p": "inteɾeˈsado",
+                "d": "interested",
+                "s": "Estoy interesado. (I'm interested.)"
+            },
+            {
+                "id": "es-2329",
+                "w": "atrapado",
+                "p": "atɾaˈpado",
+                "d": "trapped; caught",
+                "s": "Estás atrapado. (You're trapped.)"
+            },
+            {
+                "id": "es-2330",
+                "w": "supiera",
+                "p": "supiera",
+                "d": "knew (subjunctive of saber)",
+                "s": "¡Ojalá lo supiera! (If only I knew!)"
+            },
+            {
+                "id": "es-2331",
+                "w": "matarlo",
+                "p": "matarlo",
+                "d": "to kill him; to kill it",
+                "s": "Los vi matarlo. (I saw them kill it.)"
+            },
+            {
+                "id": "es-2332",
+                "w": "árboles",
+                "p": "ˈaɾboles",
+                "d": "trees",
+                "s": "Planté árboles. (I planted trees.)"
+            },
+            {
+                "id": "es-2333",
+                "w": "obvio",
+                "p": "ˈobbjo",
+                "d": "obvious",
+                "s": "No es obvio. (It's not obvious.)"
+            },
+            {
+                "id": "es-2334",
+                "w": "amaba",
+                "p": "aˈmaba",
+                "d": "loved; was loving (amar)",
+                "s": "Los amaba. (I loved them.)"
+            },
+            {
+                "id": "es-2335",
+                "w": "hablaremos",
+                "p": "ablaˈɾemos",
+                "d": "we will speak (hablar)",
+                "s": "El lunes hablaremos con él. (We'll talk with him on Monday.)"
+            },
+            {
+                "id": "es-2336",
+                "w": "entrenamiento",
+                "p": "entɾenaˈmjento",
+                "d": "training; workout",
+                "s": "Tom necesita entrenamiento. (Tom needs training.)"
+            },
+            {
+                "id": "es-2337",
+                "w": "pescado",
+                "p": "pesˈkado",
+                "d": "fish (food)",
+                "s": "Hay pescado. (There's fish.)"
+            },
+            {
+                "id": "es-2338",
+                "w": "últimas",
+                "p": "ˈultimas",
+                "d": "last (feminine plural)",
+                "s": "Estas son las últimas lágrimas. (These are the last tears.)"
+            },
+            {
+                "id": "es-2339",
+                "w": "pobres",
+                "p": "ˈpobɾes",
+                "d": "poor (plural)",
+                "s": "Somos pobres. (We're poor.)"
+            },
+            {
+                "id": "es-2340",
+                "w": "dioses",
+                "p": "dioses",
+                "d": "gods",
+                "s": "No existen dioses. (There are no gods.)"
+            },
+            {
+                "id": "es-2341",
+                "w": "nerviosa",
+                "p": "neɾˈbjosa",
+                "d": "nervous (feminine)",
+                "s": "Estoy muy nerviosa. (I'm very nervous.)"
+            },
+            {
+                "id": "es-2342",
+                "w": "vueltas",
+                "p": "ˈbweltas",
+                "d": "turns; laps",
+                "s": "Mi cabeza da vueltas. (My head is spinning.)"
+            },
+            {
+                "id": "es-2343",
+                "w": "encontrarlo",
+                "p": "encontrarlo",
+                "d": "to find it; to find him",
+                "s": "Debo encontrarlo. (I must find out.)"
+            },
+            {
+                "id": "es-2344",
+                "w": "autos",
+                "p": "ˈautos",
+                "d": "cars",
+                "s": "Vendo autos. (I sell cars.)"
+            },
+            {
+                "id": "es-2345",
+                "w": "preguntarle",
+                "p": "preguntarle",
+                "d": "to ask him/her",
+                "s": "Vamos a preguntarle. (Let's ask him.)"
+            },
+            {
+                "id": "es-2346",
+                "w": "abrigo",
+                "p": "aˈbɾiɡo",
+                "d": "coat; shelter",
+                "s": "Ponte el abrigo. (Put on your coat.)"
+            },
+            {
+                "id": "es-2347",
+                "w": "okay",
+                "p": "oˈkei",
+                "d": "okay",
+                "s": ""
+            },
+            {
+                "id": "es-2348",
+                "w": "estudiar",
+                "p": "estuˈdjaɾ",
+                "d": "to study",
+                "s": "Odio estudiar. (I hate studying.)"
+            },
+            {
+                "id": "es-2349",
+                "w": "sonrisa",
+                "p": "sonˈrisa",
+                "d": "smile",
+                "s": "Amo tu sonrisa. (I love your smile.)"
+            },
+            {
+                "id": "es-2350",
+                "w": "cobarde",
+                "p": "koˈbaɾde",
+                "d": "cowardly",
+                "s": "Soy un cobarde. (I'm a coward.)"
+            },
+            {
+                "id": "es-2351",
+                "w": "olvida",
+                "p": "olˈbida",
+                "d": "forgets (olvidar)",
+                "s": "Casi se me olvida. (I almost forgot it.)"
+            },
+            {
+                "id": "es-2352",
+                "w": "secundaria",
+                "p": "sekunˈdaɾja",
+                "d": "high school",
+                "s": "Soy estudiante de secundaria. (I'm a junior high school student.)"
+            },
+            {
+                "id": "es-2353",
+                "w": "descubierto",
+                "p": "deskuˈbjeɾto",
+                "d": "discovered",
+                "s": "Hemos descubierto dónde vive. (We found out where he lives.)"
+            },
+            {
+                "id": "es-2354",
+                "w": "convirtió",
+                "p": "convirtió",
+                "d": "turned; became (convertir)",
+                "s": "Tom se convirtió al islam. (Tom converted to Islam.)"
+            },
+            {
+                "id": "es-2355",
+                "w": "coches",
+                "p": "coches",
+                "d": "cars",
+                "s": "Vendo coches. (I sell cars.)"
+            },
+            {
+                "id": "es-2356",
+                "w": "venía",
+                "p": "venía",
+                "d": "came; was coming (venir)",
+                "s": "Ella venía. (She was coming.)"
+            },
+            {
+                "id": "es-2357",
+                "w": "charla",
+                "p": "ˈt͡ʃaɾla",
+                "d": "talk; chat",
+                "s": "Di una breve charla. (I gave a short talk.)"
+            },
+            {
+                "id": "es-2358",
+                "w": "vives",
+                "p": "ˈbibes",
+                "d": "you live (vivir)",
+                "s": "¿Dónde vives? (Where do you live?)"
+            },
+            {
+                "id": "es-2359",
+                "w": "bruja",
+                "p": "ˈbɾuxa",
+                "d": "witch",
+                "s": "Era bruja. (She was an enchantress.)"
+            },
+            {
+                "id": "es-2360",
+                "w": "celular",
+                "p": "θeluˈlaɾ",
+                "d": "cell phone",
+                "s": "¿Tenés celular? (Do you have a cellphone?)"
+            },
+            {
+                "id": "es-2361",
+                "w": "rompió",
+                "p": "rompió",
+                "d": "broke (romper)",
+                "s": "No se rompió. (It didn't break.)"
+            },
+            {
+                "id": "es-2362",
+                "w": "andando",
+                "p": "anˈdando",
+                "d": "walking (gerund of andar)",
+                "s": "Iré andando. (I will go on foot.)"
+            },
+            {
+                "id": "es-2363",
+                "w": "vean",
+                "p": "ˈbean",
+                "d": "see (subjunctive of ver)",
+                "s": "No dejes que te vean. (Don't let them see you.)"
+            },
+            {
+                "id": "es-2364",
+                "w": "conseguiste",
+                "p": "konseˈɡiste",
+                "d": "you got; you achieved (conseguir)",
+                "s": "Lo conseguiste. (You've done it.)"
+            },
+            {
+                "id": "es-2365",
+                "w": "veinte",
+                "p": "ˈbeinte",
+                "d": "twenty",
+                "s": "Duró veinte años. (It lasted for twenty years.)"
+            },
+            {
+                "id": "es-2366",
+                "w": "encargo",
+                "p": "enˈkaɾɡo",
+                "d": "order; errand",
+                "s": "Yo me encargo de eso. (I deal with that.)"
+            },
+            {
+                "id": "es-2367",
+                "w": "matarte",
+                "p": "maˈtaɾte",
+                "d": "to kill you",
+                "s": "Podría matarte. (I could kill you.)"
+            },
+            {
+                "id": "es-2368",
+                "w": "palacio",
+                "p": "paˈlaθjo",
+                "d": "palace",
+                "s": "Tengo un palacio. (I've got a mansion.)"
+            },
+            {
+                "id": "es-2369",
+                "w": "convierte",
+                "p": "convierte",
+                "d": "turns; becomes (convertir)",
+                "s": "El agua se convierte en vapor. (Water changes into steam.)"
+            },
+            {
+                "id": "es-2370",
+                "w": "ja",
+                "p": "ˈxa",
+                "d": "ha",
+                "s": "¡Sí... ja ja ja... sí! (Yes... ha ha ha... yes!)"
+            },
+            {
+                "id": "es-2371",
+                "w": "vivos",
+                "p": "vivos",
+                "d": "alive (plural)",
+                "s": "Están vivos. (They're alive.)"
+            },
+            {
+                "id": "es-2372",
+                "w": "pasamos",
+                "p": "pasamos",
+                "d": "we passed; we spent (pasar)",
+                "s": "Lo pasamos bien. (We had fun.)"
+            },
+            {
+                "id": "es-2373",
+                "w": "firme",
+                "p": "ˈfiɾme",
+                "d": "firm; steady",
+                "s": "Me pondré firme. (I'll put my foot down.)"
+            },
+            {
+                "id": "es-2374",
+                "w": "daría",
+                "p": "daˈɾia",
+                "d": "would give (dar)",
+                "s": "Él no daría la orden. (He would not give the order.)"
+            },
+            {
+                "id": "es-2375",
+                "w": "piense",
+                "p": "piense",
+                "d": "think (subjunctive of pensar)",
+                "s": "No piense ahora en eso. (Don't think about it now.)"
+            },
+            {
+                "id": "es-2376",
+                "w": "oigo",
+                "p": "ˈoiɡo",
+                "d": "I hear (oír)",
+                "s": "Yo te oigo. (I hear you.)"
+            },
+            {
+                "id": "es-2377",
+                "w": "sorprende",
+                "p": "sorprende",
+                "d": "surprises (sorprender)",
+                "s": "Me sorprende. (It surprises me.)"
+            },
+            {
+                "id": "es-2378",
+                "w": "alemanes",
+                "p": "aleˈmanes",
+                "d": "Germans",
+                "s": "Sois alemanes, ¿verdad? (You're Germans, aren't you?)"
+            },
+            {
+                "id": "es-2379",
+                "w": "milagro",
+                "p": "miˈlaɡɾo",
+                "d": "miracle",
+                "s": "¡Qué milagro! (What a miracle!)"
+            },
+            {
+                "id": "es-2380",
+                "w": "soportar",
+                "p": "sopoɾˈtaɾ",
+                "d": "to bear; to tolerate",
+                "s": "No podía soportar verla. (I couldn't bear to look at her.)"
+            },
+            {
+                "id": "es-2381",
+                "w": "dejaron",
+                "p": "dejaron",
+                "d": "they left; they let (dejar)",
+                "s": "Me dejaron ir. (They let me go.)"
+            },
+            {
+                "id": "es-2382",
+                "w": "disculpen",
+                "p": "disculpen",
+                "d": "excuse (plural formal)",
+                "s": "Quiero que se disculpen. (I want you to apologize.)"
+            },
+            {
+                "id": "es-2383",
+                "w": "moda",
+                "p": "ˈmoda",
+                "d": "fashion",
+                "s": "¡Es la moda! (It's fashion!)"
+            },
+            {
+                "id": "es-2384",
+                "w": "despacho",
+                "p": "desˈpat͡ʃo",
+                "d": "office; dispatch",
+                "s": "¿Él sigue en mi despacho? (Is he still in my office?)"
+            },
+            {
+                "id": "es-2385",
+                "w": "vecinos",
+                "p": "beˈθinos",
+                "d": "neighbors",
+                "s": "Son vecinos. (They are neighbours.)"
+            },
+            {
+                "id": "es-2386",
+                "w": "vaso",
+                "p": "ˈbaso",
+                "d": "glass (drinking)",
+                "s": "Rompí un vaso. (I broke a glass.)"
+            },
+            {
+                "id": "es-2387",
+                "w": "dejarte",
+                "p": "dejarte",
+                "d": "to leave you; to let you",
+                "s": "Voy a dejarte. (I'm going to leave you.)"
+            },
+            {
+                "id": "es-2388",
+                "w": "explosión",
+                "p": "eɡsploˈsjon",
+                "d": "explosion",
+                "s": "Hubo una explosión. (There was an explosion.)"
+            },
+            {
+                "id": "es-2389",
+                "w": "poderes",
+                "p": "poderes",
+                "d": "powers",
+                "s": "¡Él tiene poderes supernaturales! (He has otherwordly powers!)"
+            },
+            {
+                "id": "es-2390",
+                "w": "regla",
+                "p": "ˈreɡla",
+                "d": "rule; ruler",
+                "s": "Tengo la regla. (I'm on my period.)"
+            },
+            {
+                "id": "es-2391",
+                "w": "acaban",
+                "p": "aˈkaban",
+                "d": "they finish (acabar)",
+                "s": "Me acaban de ascender. (I just got a promotion.)"
+            },
+            {
+                "id": "es-2392",
+                "w": "copia",
+                "p": "ˈkopja",
+                "d": "copy",
+                "s": "Esa es una copia. (That's a copy.)"
+            },
+            {
+                "id": "es-2393",
+                "w": "siguiendo",
+                "p": "siguiendo",
+                "d": "following; continuing (gerund of seguir)",
+                "s": "¿Te están siguiendo? (Are you being followed?)"
+            },
+            {
+                "id": "es-2394",
+                "w": "viajar",
+                "p": "bjaˈxaɾ",
+                "d": "to travel",
+                "s": "Odio viajar. (I hate traveling.)"
+            },
+            {
+                "id": "es-2395",
+                "w": "cadena",
+                "p": "kaˈdena",
+                "d": "chain; channel",
+                "s": "No cambies de cadena. (Don't change the channel.)"
+            },
+            {
+                "id": "es-2396",
+                "w": "fábrica",
+                "p": "ˈfabɾika",
+                "d": "factory",
+                "s": "Vayamos a la fábrica. (Let's go to the factory.)"
+            },
+            {
+                "id": "es-2397",
+                "w": "mantiene",
+                "p": "manˈtjene",
+                "d": "keeps; maintains (mantener)",
+                "s": "Correr lo mantiene joven. (Running keeps him young.)"
+            },
+            {
+                "id": "es-2398",
+                "w": "meter",
+                "p": "meˈteɾ",
+                "d": "to put in; to insert",
+                "s": "Entraron sin meter ruido. (They entered cautiously.)"
+            },
+            {
+                "id": "es-2399",
+                "w": "contenta",
+                "p": "konˈtenta",
+                "d": "happy; content (feminine)",
+                "s": "Parecía contenta. (She seemed happy.)"
+            },
+            {
+                "id": "es-2400",
+                "w": "comiendo",
+                "p": "koˈmjendo",
+                "d": "eating (gerund of comer)",
+                "s": "Está comiendo. (He's eating.)"
+            },
+            {
+                "id": "es-2401",
+                "w": "educación",
+                "p": "edukaˈθjon",
+                "d": "education; manners",
+                "s": "La corregí con educación. (I politely corrected her.)"
+            },
+            {
+                "id": "es-2402",
+                "w": "maneras",
+                "p": "maneras",
+                "d": "ways; manners",
+                "s": "De todas maneras iremos. (In any case, we'll go.)"
+            },
+            {
+                "id": "es-2403",
+                "w": "fumar",
+                "p": "fuˈmaɾ",
+                "d": "to smoke",
+                "s": "¿Puedo fumar? (May I smoke?)"
+            },
+            {
+                "id": "es-2404",
+                "w": "encantador",
+                "p": "enkantaˈdoɾ",
+                "d": "charming",
+                "s": "Tom es encantador. (Tom's charming.)"
+            },
+            {
+                "id": "es-2405",
+                "w": "cuantos",
+                "p": "ˈkwantos",
+                "d": "as many",
+                "s": "Tenemos unos cuantos. (We have some.)"
+            },
+            {
+                "id": "es-2406",
+                "w": "homicidio",
+                "p": "omiˈθidjo",
+                "d": "homicide; manslaughter",
+                "s": "¿Quién cometió este homicidio? (Who committed this murder?)"
+            },
+            {
+                "id": "es-2407",
+                "w": "madera",
+                "p": "maˈdeɾa",
+                "d": "wood",
+                "s": "¡Toco madera! (Touch wood!)"
+            },
+            {
+                "id": "es-2408",
+                "w": "mayores",
+                "p": "mayores",
+                "d": "older; elderly",
+                "s": "Son mayores. (They're old.)"
+            },
+            {
+                "id": "es-2409",
+                "w": "grado",
+                "p": "ˈɡɾado",
+                "d": "degree; grade",
+                "s": "Aceptó de mal grado. (He accepted reluctantly.)"
+            },
+            {
+                "id": "es-2410",
+                "w": "tratamiento",
+                "p": "tɾataˈmjento",
+                "d": "treatment",
+                "s": "Tom está recibiendo tratamiento. (Tom is receiving treatment.)"
+            },
+            {
+                "id": "es-2411",
+                "w": "blancos",
+                "p": "ˈblankos",
+                "d": "white (plural)",
+                "s": "Ellos son blancos. (They're white.)"
+            },
+            {
+                "id": "es-2412",
+                "w": "lord",
+                "p": "ˈloɾd",
+                "d": "lord",
+                "s": ""
+            },
+            {
+                "id": "es-2413",
+                "w": "anterior",
+                "p": "anteˈɾjoɾ",
+                "d": "previous; former",
+                "s": "¿Qué pasó el mes anterior? (What happened last month?)"
+            },
+            {
+                "id": "es-2414",
+                "w": "comisario",
+                "p": "komiˈsaɾjo",
+                "d": "commissioner; inspector",
+                "s": "Descuide, comisario. (Not to worry, sir.)"
+            },
+            {
+                "id": "es-2415",
+                "w": "pizza",
+                "p": "ˈpitsa",
+                "d": "pizza",
+                "s": "Pedí pizza. (I ordered pizza.)"
+            },
+            {
+                "id": "es-2416",
+                "w": "millas",
+                "p": "millas",
+                "d": "miles",
+                "s": "Él corrió cinco millas. (He ran five miles.)"
+            },
+            {
+                "id": "es-2417",
+                "w": "tira",
+                "p": "ˈtiɾa",
+                "d": "strip; band",
+                "s": "Ziri se tira pedos. (Ziri farts.)"
+            },
+            {
+                "id": "es-2418",
+                "w": "fueran",
+                "p": "ˈfweɾan",
+                "d": "were; went (subjunctive of ser; ir)",
+                "s": "Probablemente fueran ricos. (They were probably rich.)"
+            },
+            {
+                "id": "es-2419",
+                "w": "cumplir",
+                "p": "kumˈpliɾ",
+                "d": "to fulfill; to comply",
+                "s": "Debe cumplir con ella. (You must meet with her.)"
+            },
+            {
+                "id": "es-2420",
+                "w": "plata",
+                "p": "ˈplata",
+                "d": "silver; money",
+                "s": "No tengo plata. (I'm broke.)"
+            },
+            {
+                "id": "es-2421",
+                "w": "quedará",
+                "p": "quedará",
+                "d": "will stay; will remain (quedar)",
+                "s": "Tom se quedará. (Tom will remain.)"
+            },
+            {
+                "id": "es-2422",
+                "w": "quedaré",
+                "p": "quedaré",
+                "d": "I will stay (quedar)",
+                "s": "Me quedaré. (I'll stay.)"
+            },
+            {
+                "id": "es-2423",
+                "w": "aléjate",
+                "p": "aléjate",
+                "d": "go away; move away",
+                "s": ""
+            },
+            {
+                "id": "es-2424",
+                "w": "decidir",
+                "p": "deθiˈdiɾ",
+                "d": "to decide",
+                "s": "Déjame decidir. (Let me decide.)"
+            },
+            {
+                "id": "es-2425",
+                "w": "lío",
+                "p": "ˈlio",
+                "d": "mess; trouble",
+                "s": "¡Menudo lío! (What a hassle!)"
+            },
+            {
+                "id": "es-2426",
+                "w": "preguntó",
+                "p": "preguntó",
+                "d": "asked (preguntar)",
+                "s": "Nadie preguntó. (Nobody asked.)"
+            },
+            {
+                "id": "es-2427",
+                "w": "agencia",
+                "p": "aˈxenθja",
+                "d": "agency",
+                "s": "Trabajo en una agencia de viajes. (I work for a travel agency.)"
+            },
+            {
+                "id": "es-2428",
+                "w": "humanidad",
+                "p": "umaniˈdad",
+                "d": "humanity",
+                "s": "¡Oh, la humanidad! (Oh, the humanity!)"
+            },
+            {
+                "id": "es-2429",
+                "w": "usado",
+                "p": "uˈsado",
+                "d": "used",
+                "s": "No, es usado. (No, it's second hand.)"
+            },
+            {
+                "id": "es-2430",
+                "w": "guardias",
+                "p": "guardias",
+                "d": "guards",
+                "s": "¿Cuántos guardias había? (How many guards were there?)"
+            },
+            {
+                "id": "es-2431",
+                "w": "parada",
+                "p": "paˈɾada",
+                "d": "stop (bus stop)",
+                "s": "Esta es tu parada. (This is your stop.)"
+            },
+            {
+                "id": "es-2432",
+                "w": "leyes",
+                "p": "ˈleʝes",
+                "d": "laws",
+                "s": "Estudio leyes. (I study law.)"
+            },
+            {
+                "id": "es-2433",
+                "w": "funcionó",
+                "p": "funcionó",
+                "d": "worked (funcionar)",
+                "s": "No funcionó. (It didn't work.)"
+            },
+            {
+                "id": "es-2434",
+                "w": "odia",
+                "p": "odia",
+                "d": "hates (odiar)",
+                "s": "Tom te odia. (Tom hates you.)"
+            },
+            {
+                "id": "es-2435",
+                "w": "levanta",
+                "p": "levanta",
+                "d": "lifts; gets up (levantar)",
+                "s": "Él levanta el pie. (He raises his foot.)"
+            },
+            {
+                "id": "es-2436",
+                "w": "mires",
+                "p": "ˈmiɾes",
+                "d": "look (subjunctive of mirar)",
+                "s": "¡No mires! (No peeking!)"
+            },
+            {
+                "id": "es-2437",
+                "w": "respira",
+                "p": "respira",
+                "d": "breathes (respirar)",
+                "s": "¡No respira! (He's not breathing!)"
+            },
+            {
+                "id": "es-2438",
+                "w": "escaleras",
+                "p": "escaleras",
+                "d": "stairs",
+                "s": "Sube las escaleras. (Go up the stairs.)"
+            },
+            {
+                "id": "es-2439",
+                "w": "decisiones",
+                "p": "deθiˈsjones",
+                "d": "decisions",
+                "s": "Tomamos decisiones juntas. (We make decisions together.)"
+            },
+            {
+                "id": "es-2440",
+                "w": "queréis",
+                "p": "queréis",
+                "d": "you want (Spain plural)",
+                "s": "¿Lo queréis? (Do you want it?)"
+            },
+            {
+                "id": "es-2441",
+                "w": "salvaje",
+                "p": "salˈbaxe",
+                "d": "wild; savage",
+                "s": "El jabalí es salvaje. (The boar is wild.)"
+            },
+            {
+                "id": "es-2442",
+                "w": "preguntando",
+                "p": "preguntando",
+                "d": "asking (gerund of preguntar)",
+                "s": "No te estoy preguntando eso. (I'm not asking you about that.)"
+            },
+            {
+                "id": "es-2443",
+                "w": "pasos",
+                "p": "pasos",
+                "d": "steps",
+                "s": "Avanza dos pasos. (Advance two steps.)"
+            },
+            {
+                "id": "es-2444",
+                "w": "ambulancia",
+                "p": "ambuˈlanθja",
+                "d": "ambulance",
+                "s": "Vino una ambulancia. (An ambulance came.)"
+            },
+            {
+                "id": "es-2445",
+                "w": "traducción",
+                "p": "tɾaduɡˈθjon",
+                "d": "translation",
+                "s": "¿Qué es traducción libre? (What is free translation?)"
+            },
+            {
+                "id": "es-2446",
+                "w": "trabajado",
+                "p": "tɾabaˈxado",
+                "d": "worked (past participle of trabajar)",
+                "s": "Has trabajado duro. (You've worked hard.)"
+            },
+            {
+                "id": "es-2447",
+                "w": "básicamente",
+                "p": "ˌbasikaˈmente",
+                "d": "basically",
+                "s": "Es básicamente lo mismo. (It's basically the same thing.)"
+            },
+            {
+                "id": "es-2448",
+                "w": "tratado",
+                "p": "tɾaˈtado",
+                "d": "treaty",
+                "s": "El tratado fue firmado. (The treaty was signed.)"
+            },
+            {
+                "id": "es-2449",
+                "w": "parado",
+                "p": "paˈɾado",
+                "d": "stopped; unemployed",
+                "s": "Estoy parado. (I'm unemployed.)"
+            },
+            {
+                "id": "es-2450",
+                "w": "especiales",
+                "p": "especiales",
+                "d": "special (plural)",
+                "s": "Son especiales. (They're special.)"
+            },
+            {
+                "id": "es-2451",
+                "w": "mentiroso",
+                "p": "mentiˈɾoso",
+                "d": "liar",
+                "s": "Él es mentiroso. (He is a liar.)"
+            },
+            {
+                "id": "es-2452",
+                "w": "libres",
+                "p": "ˈlibɾes",
+                "d": "free (plural)",
+                "s": "Son libres. (They're free.)"
+            },
+            {
+                "id": "es-2453",
+                "w": "servicios",
+                "p": "servicios",
+                "d": "services",
+                "s": "Aquí están los servicios. (The toilet is there.)"
+            },
+            {
+                "id": "es-2454",
+                "w": "pedirle",
+                "p": "pedirle",
+                "d": "to ask him/her",
+                "s": "Puedo pedirle ayuda. (I can ask her to help.)"
+            },
+            {
+                "id": "es-2455",
+                "w": "vivía",
+                "p": "vivía",
+                "d": "lived; was living (vivir)",
+                "s": "Tom vivía ahí. (Tom lived there.)"
+            },
+            {
+                "id": "es-2456",
+                "w": "medios",
+                "p": "ˈmedjos",
+                "d": "media; means",
+                "s": "El fin justifica los medios. (The end justifies the means.)"
+            },
+            {
+                "id": "es-2457",
+                "w": "compra",
+                "p": "ˈkompɾa",
+                "d": "purchase",
+                "s": "Él compra ropa. (He buys clothes.)"
+            },
+            {
+                "id": "es-2458",
+                "w": "conocimiento",
+                "p": "konoθiˈmjento",
+                "d": "knowledge",
+                "s": "Doy conocimiento. (I give knowledge.)"
+            },
+            {
+                "id": "es-2459",
+                "w": "armario",
+                "p": "aɾˈmaɾjo",
+                "d": "closet; wardrobe",
+                "s": "Miré en el armario. (I looked in the cupboard.)"
+            },
+            {
+                "id": "es-2460",
+                "w": "lobo",
+                "p": "ˈlobo",
+                "d": "wolf",
+                "s": "¿Es un lobo? (Is it a wolf?)"
+            },
+            {
+                "id": "es-2461",
+                "w": "quedamos",
+                "p": "quedamos",
+                "d": "we stay; we remain (quedar)",
+                "s": "Nos quedamos. (We're staying.)"
+            },
+            {
+                "id": "es-2462",
+                "w": "ciertamente",
+                "p": "ˌθjeɾtaˈmente",
+                "d": "certainly",
+                "s": "Sí, ciertamente. (Yes, of course.)"
+            },
+            {
+                "id": "es-2463",
+                "w": "permitir",
+                "p": "peɾmiˈtiɾ",
+                "d": "to allow; to permit",
+                "s": "Voy a permitir esto. (I'll allow this.)"
+            },
+            {
+                "id": "es-2464",
+                "w": "tráfico",
+                "p": "ˈtɾafiko",
+                "d": "traffic",
+                "s": "Hay mucho tráfico. (There's a lot of traffic.)"
+            },
+            {
+                "id": "es-2465",
+                "w": "uniforme",
+                "p": "uniˈfoɾme",
+                "d": "uniform",
+                "s": "Ponte tu uniforme. (Put on your uniform.)"
+            },
+            {
+                "id": "es-2466",
+                "w": "estuvimos",
+                "p": "estuˈbimos",
+                "d": "we were (preterite of estar)",
+                "s": "Ayer estuvimos aquí. (We were here yesterday.)"
+            },
+            {
+                "id": "es-2467",
+                "w": "suave",
+                "p": "ˈswabe",
+                "d": "soft; smooth",
+                "s": "Su piel es suave. (Her skin is soft.)"
+            },
+            {
+                "id": "es-2468",
+                "w": "propias",
+                "p": "ˈpɾopjas",
+                "d": "own (feminine plural)",
+                "s": "Tengo mis propias razones. (I have my own reasons.)"
+            },
+            {
+                "id": "es-2469",
+                "w": "balas",
+                "p": "ˈbalas",
+                "d": "bullets",
+                "s": "¿Te quedan balas? (Do you have any bullets left?)"
+            },
+            {
+                "id": "es-2470",
+                "w": "asqueroso",
+                "p": "askeˈɾoso",
+                "d": "disgusting",
+                "s": "Es asqueroso. (He's disgusting.)"
+            },
+            {
+                "id": "es-2471",
+                "w": "ciento",
+                "p": "ˈθjento",
+                "d": "one hundred",
+                "s": "Cien por ciento. (One hundred percent.)"
+            },
+            {
+                "id": "es-2472",
+                "w": "invierno",
+                "p": "imˈbjeɾno",
+                "d": "winter",
+                "s": "Es invierno. (It's winter.)"
+            },
+            {
+                "id": "es-2473",
+                "w": "consigo",
+                "p": "konˈsiɡo",
+                "d": "with himself; with herself; with themselves",
+                "s": "No consigo hacerlo. (I'm unable to do so.)"
+            },
+            {
+                "id": "es-2474",
+                "w": "encuentre",
+                "p": "encuentre",
+                "d": "find (subjunctive of encontrar)",
+                "s": "Puede que lo encuentre. (I may be able to find it.)"
+            },
+            {
+                "id": "es-2475",
+                "w": "conductor",
+                "p": "konduɡˈtoɾ",
+                "d": "driver",
+                "s": "Él es mal conductor. (He is a bad driver.)"
+            },
+            {
+                "id": "es-2476",
+                "w": "equipos",
+                "p": "equipos",
+                "d": "teams; equipment",
+                "s": "¿Qué equipos jugaban? (What teams were playing?)"
+            },
+            {
+                "id": "es-2477",
+                "w": "arena",
+                "p": "aˈɾena",
+                "d": "sand",
+                "s": "Comí arena. (I ate sand.)"
+            },
+            {
+                "id": "es-2478",
+                "w": "licencia",
+                "p": "liˈθenθja",
+                "d": "license",
+                "s": "¿Tienes licencia de caza? (Do you have a hunting license?)"
+            },
+            {
+                "id": "es-2479",
+                "w": "tíos",
+                "p": "ˈtios",
+                "d": "uncles; guys",
+                "s": "Tengo tres tíos. (I have three uncles.)"
+            },
+            {
+                "id": "es-2480",
+                "w": "dijera",
+                "p": "diˈxeɾa",
+                "d": "said (subjunctive of decir)",
+                "s": "No creo que dijera eso. (I don't think that I said that.)"
+            },
+            {
+                "id": "es-2481",
+                "w": "espejo",
+                "p": "esˈpexo",
+                "d": "mirror",
+                "s": "Hay un espejo. (There's a mirror.)"
+            },
+            {
+                "id": "es-2482",
+                "w": "marina",
+                "p": "maˈɾina",
+                "d": "navy",
+                "s": "Me fui a la marina. (I went into the navy.)"
+            },
+            {
+                "id": "es-2483",
+                "w": "matando",
+                "p": "maˈtando",
+                "d": "killing (gerund of matar)",
+                "s": "Estoy matando el tiempo. (I'm killing time.)"
+            },
+            {
+                "id": "es-2484",
+                "w": "seres",
+                "p": "ˈseɾes",
+                "d": "beings",
+                "s": "Todos los seres son hermosos. (All beings are beautiful.)"
+            },
+            {
+                "id": "es-2485",
+                "w": "fiestas",
+                "p": "ˈfjestas",
+                "d": "parties; holidays",
+                "s": "No más fiestas. (No more parties.)"
+            },
+            {
+                "id": "es-2486",
+                "w": "mover",
+                "p": "moˈbeɾ",
+                "d": "to move",
+                "s": "No me puedo mover. (I can't move.)"
+            },
+            {
+                "id": "es-2487",
+                "w": "coincidencia",
+                "p": "koinθiˈdenθja",
+                "d": "coincidence",
+                "s": "¡Qué coincidencia! (What a coincidence!)"
+            },
+            {
+                "id": "es-2488",
+                "w": "análisis",
+                "p": "aˈnalisis",
+                "d": "analysis",
+                "s": "Continúe su análisis. (Continue your analysis.)"
+            },
+            {
+                "id": "es-2489",
+                "w": "llegando",
+                "p": "llegando",
+                "d": "arriving (gerund of llegar)",
+                "s": "Sí, estoy llegando. (Yes, I'm coming.)"
+            },
+            {
+                "id": "es-2490",
+                "w": "azúcar",
+                "p": "aˈθukaɾ",
+                "d": "sugar",
+                "s": "¿Hay azúcar? (Is there any sugar?)"
+            },
+            {
+                "id": "es-2491",
+                "w": "casar",
+                "p": "kaˈsaɾ",
+                "d": "to marry",
+                "s": "Me voy a casar. (I'm getting married.)"
+            },
+            {
+                "id": "es-2492",
+                "w": "sótano",
+                "p": "ˈsotano",
+                "d": "basement; cellar",
+                "s": "¿Tienes sótano? (Do you have a basement?)"
+            },
+            {
+                "id": "es-2493",
+                "w": "volvamos",
+                "p": "bolˈbamos",
+                "d": "let's return (volver)",
+                "s": "No nos volvamos locos. (Let's not get crazy.)"
+            },
+            {
+                "id": "es-2494",
+                "w": "sabrá",
+                "p": "sabrá",
+                "d": "will know (saber)",
+                "s": "Nadie sabrá. (No one will know.)"
+            },
+            {
+                "id": "es-2495",
+                "w": "ocasión",
+                "p": "okaˈsjon",
+                "d": "occasion; opportunity",
+                "s": "Aprovecha la ocasión. (Seize the opportunity.)"
+            },
+            {
+                "id": "es-2496",
+                "w": "cheque",
+                "p": "ˈt͡ʃeke",
+                "d": "check; cheque",
+                "s": "Pagaré por cheque. (I'll pay by cheque.)"
+            },
+            {
+                "id": "es-2497",
+                "w": "revisar",
+                "p": "rebiˈsaɾ",
+                "d": "to check; to review",
+                "s": "Vamos a revisar. (We'll check.)"
+            },
+            {
+                "id": "es-2498",
+                "w": "ponerme",
+                "p": "ponerme",
+                "d": "to put myself; to put on (clothes)",
+                "s": "No sé qué ponerme. (I can't decide what to wear.)"
+            },
+            {
+                "id": "es-2499",
+                "w": "suceder",
+                "p": "suθeˈdeɾ",
+                "d": "to happen; to succeed",
+                "s": "Podría suceder. (It might happen.)"
+            },
+            {
+                "id": "es-2500",
+                "w": "acusado",
+                "p": "akuˈsado",
+                "d": "accused",
+                "s": "Tom es el acusado. (Tom is the defendant.)"
             }
         ]
     };
