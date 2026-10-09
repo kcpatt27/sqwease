@@ -1,6 +1,6 @@
 # SQWease Ticket Backlog
 
-Maintainer view. 84 tickets. Regenerate with `node scripts/build-ticket-index.js`.
+Maintainer view. 94 tickets. Regenerate with `node scripts/build-ticket-index.js`.
 
 Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`nit` cleanup. Priority: `P0` immediate · `P1` next · `P2` scheduled · `P3` opportunistic.
 
@@ -10,7 +10,7 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 |----|-------|------|------|--------|
 | [T-001](./T-001.md) | Remove hardcoded localhost debug telemetry from production pages | boxes | bug, privacy, performance | ponytail-audit, bug-hunt |
 
-## High (20)
+## High (22)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -24,7 +24,7 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-009](./T-009.md) | Cap SRS interval and ease growth to prevent RangeError on repeated Easy | srs | edge-case | bug-hunt |
 | [T-013](./T-013.md) | Replace positional-index removal in the Kanji personal list with a stable id | kanji | edge-case | bug-hunt |
 | [T-032](./T-032.md) | Make the theme toggle a real focusable button on all six pages | core | a11y | bug-hunt |
-| [T-033](./T-033.md) | Make flip/practice cards and the info toggle keyboard-operable semantic controls | core | a11y | bug-hunt |
+| [T-033](./T-033.md) | Make flip/practice cards and the info toggle keyboard-operable semantic controls | core | a11y | bug-hunt, ui-review-static |
 | [T-034](./T-034.md) | Add a non-color cue and fix contrast for syllable coloring | coloring | a11y, coloring | bug-hunt |
 | [T-035](./T-035.md) | Fix low-contrast text tokens (#ccc instruction, #747d8c table headers/loading) | core | a11y | bug-hunt |
 | [T-036](./T-036.md) | Set language metadata correctly (dynamic html lang, lang=\"ja\" on Japanese content) | core | a11y, i18n | bug-hunt |
@@ -34,8 +34,10 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-060](./T-060.md) | Extract shared theme.css/theme.js/srs-deck.js/util to remove 6x duplication | core | over-engineering, maintainability | ponytail-audit |
 | [T-066](./T-066.md) | Correct top-level docs that claim 263 words / 5% / no SRS / single page | docs | docs | data |
 | [T-067](./T-067.md) | Fix README references to a CSV file that does not exist | docs | docs | data |
+| [T-085](./T-085.md) | Flashcards daily new-card budget is shared across target languages | flashcards | bug, ui | ui-review-static |
+| [T-086](./T-086.md) | Menu flashcards hint advertises \"1,500 words\" for 30-word starter decks | index | ui, i18n | ui-review-static |
 
-## Medium (31)
+## Medium (34)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -70,8 +72,11 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-080](./T-080.md) | editor.html overflows horizontally on narrow phones (token table cannot scroll) | editor | ui, responsive | ui-review |
 | [T-081](./T-081.md) | boxes.html controls stay light in dark mode and rating colors fail contrast | boxes | ui, a11y, bug | ui-review |
 | [T-082](./T-082.md) | editor.html inputs and secondary buttons stay light in dark mode | editor | ui, a11y | ui-review |
+| [T-087](./T-087.md) | Non-English UI dictionaries are incomplete (half-English UI; wrong html lang) | core | i18n, a11y | ui-review-static |
+| [T-089](./T-089.md) | Toggling the theme does not recolor flashcard/Boxes token colors | core | ui, a11y | ui-review-static |
+| [T-090](./T-090.md) | data-target-lang is unused and target-script content mostly lacks lang | core | i18n, a11y | ui-review-static |
 
-## Low (24)
+## Low (28)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -98,9 +103,13 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-073](./T-073.md) | Do not show developer build instructions in user-facing errors | core | bug, docs | bug-hunt |
 | [T-076](./T-076.md) | Correct false invariants in README-tokenized.md | docs | docs | bug-hunt, data |
 | [T-083](./T-083.md) | kana-charts dark mode shows a bright table-header band | kana | ui, a11y | ui-review |
-| [T-084](./T-084.md) | index disabled activity cards are still activatable links | index | ui, a11y | ui-review |
+| [T-084](./T-084.md) | Disabled index cards are still activatable, dim all text, and name the language in English | index | ui, a11y, i18n | ui-review, ui-review-static |
+| [T-091](./T-091.md) | Shared theme CSS is still duplicated on the four secondary pages | core | maintainability, over-engineering | ui-review-static |
+| [T-092](./T-092.md) | Dead shared-asset includes and mixed raw localStorage | core | maintainability, delete | ui-review-static |
+| [T-093](./T-093.md) | Page <title> loses the site name after i18n apply | core | ui, i18n | ui-review-static |
+| [T-094](./T-094.md) | New ARIA labels are hardcoded English | core | a11y, i18n | ui-review-static |
 
-## Nit (8)
+## Nit (9)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -112,3 +121,4 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-074](./T-074.md) | Remove or hide decorative flag emoji in headings | flashcards | nit, a11y | bug-hunt |
 | [T-075](./T-075.md) | Remove leftover commented-out markup in editor.html | editor | delete, nit | bug-hunt |
 | [T-077](./T-077.md) | Repair stale absolute paths in .cursor plans after the repo rename | repo | docs, nit | data |
+| [T-095](./T-095.md) | Menu hover color collapsed to one red; unused/duplicate i18n keys; Boxes loading contrast | core | nit, ui, i18n | ui-review-static |
