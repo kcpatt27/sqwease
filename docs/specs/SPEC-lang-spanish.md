@@ -34,11 +34,11 @@
 - **Sources to evaluate:** `wordfreq` (Spanish), SUBTLEX-ESP, OpenSubtitles frequency
   lists, Wiktionary frequency lists. Record the chosen source + license in
   `content/es/README.md`.
-- **Starter scope:** top **40** daily-conversation words/phrases.
+- **Starter scope:** top **30** daily-conversation words/phrases (shipped).
 - **Columns** (TSV → built): `rank, word, reading, pos, english, example,
   example_english`.
-- **Builder:** `scripts/build-es-vocab.js` → `data/es/vocab.js` (quote/`\t`-aware,
-  deterministic `id: "es-####"`, no silent cap, fails loudly).
+- **Builder:** `node scripts/build-lang-vocab.js es` → `data/es/vocab.js`
+  (TSV-aware, deterministic `id: "es-####"`, no silent cap, fails loudly).
 - **Example row:** `1\tagua\tAH-gwah\tnoun\twater\tQuiero agua, por favor.\tI want water, please.`
 
 ## 4. Files added by this branch
@@ -46,19 +46,17 @@
 ```
 content/es/source.tsv          # the raw generated list
 content/es/README.md           # sources, license, review status
-scripts/build-es-vocab.js      # source -> data/es/vocab.js
-data/es/vocab.js               # generated deck (window.SQWEASE_VOCAB, lang:'es')
+data/es/vocab.js               # generated deck (SqweaseVocab.provide('es', ...))
 ```
 
 `assets/langs.js` already contains the `es` entry; only correct it if metadata is wrong.
 
 ## 5. Acceptance criteria
 
-1. `index.html?lang=es` (or target picker → Spanish) → Flashcards shows the 40-word
-   Spanish deck.
+1. Target picker → Spanish → Flashcards shows the 30-word Spanish deck.
 2. Accented characters render and search/copy correctly.
-3. `node scripts/build-es-vocab.js` runs with no dependencies and is deterministic
-   (rebuild produces no diff).
+3. `node scripts/build-lang-vocab.js es` runs with no dependencies and is
+   deterministic (same-day rebuild produces no diff).
 4. No edits to core files other than, if needed, one `langs.js` metadata line.
 5. `file://` open still works.
 

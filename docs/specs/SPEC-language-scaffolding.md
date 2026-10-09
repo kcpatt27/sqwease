@@ -30,36 +30,47 @@ data change, and it is the only core-adjacent file a branch may touch.
 ### A.2 What a branch adds (no other core edits)
 
 ```
-data/<code>/vocab.js          # window.SQWEASE_VOCAB = { lang, version, generatedAt, words:[…] }
-content/<code>/source.<ext>   # the human-editable source list (CSV/JSON/TSV)
+data/<code>/vocab.js          # generated deck module (calls SqweaseVocab.provide)
+content/<code>/source.tsv     # the human-editable source list (tab-separated)
 content/<code>/README.md      # sources, licensing, how it was generated, review status
-scripts/build-<code>-vocab.js # source -> data/<code>/vocab.js (pure Node, no deps)
 ```
+
+The shared `scripts/build-lang-vocab.js <code>` turns the source into the deck
+module; a branch does not need its own builder.
 
 ### A.3 Deck contract (must hold)
 
 ```js
-window.SQWEASE_VOCAB = {
-  lang: 'es',                 // must equal the folder name and the langs.js code
-  version: 1,
-  generatedAt: '2026-10-09',
-  words: [
-    {
-      id: 'es-0001',          // STABLE. Never derive from array position (T-061).
-      w: 'agua',              // the word/phrase in the target language
-      p: 'AH-gwah',           // pronunciation hint (pinyin for zh, accents/romanization, or '')
-      d: 'water',             // English gloss (UI locale glosses are a later concern)
-      s: 'Quiero agua, por favor.', // example sentence (target language)
-      tokens: undefined       // optional; see A.5
-    }
-  ]
-};
+// data/<code>/vocab.js  (generated; do not hand-edit)
+(function () {
+  SqweaseVocab.provide('<code>', {
+    lang: '<code>',             // must equal the folder name and the langs.js code
+    version: 1,
+    generatedAt: 'YYYY-MM-DD',
+    words: [
+      {
+        id: '<code>-0001',      // STABLE. Never derive from array position (T-061).
+        w: 'agua',              // the word/phrase in the target language
+        p: 'AH-gwah',           // pronunciation hint (pinyin for zh, romanization, or '')
+        d: 'water',             // English gloss (UI locale glosses are a later concern)
+        s: 'Quiero agua, por favor.', // example sentence
+        tokens: undefined       // optional; see A.5
+      }
+    ]
+  });
+})();
 ```
+
+Setting `window.SQWEASE_VOCAB = deck` also works (`assets/vocab.js` accepts it),
+but `provide` is preferred: it keys the deck by code and avoids clobbering when the
+user switches languages.
 
 The flashcards page also reads an optional English sentence field on tokens; keep the
 existing `flashcards.html` shape (`w,p,d,s`) and only add fields.
 
 ### A.4 Build script requirements (learn from the Japanese bugs)
+
+The shared builder already enforces these; keep it that way.
 
 - **Quote-aware CSV parsing** — do not repeat `scripts/build-flashcards-vocab.js`
   (T-003). Handle `"..."`, doubled `""`, and commas inside fields.
@@ -68,7 +79,7 @@ existing `flashcards.html` shape (`w,p,d,s`) and only add fields.
 - **Deterministic output** — stable `id`s and ordering so SRS progress survives rebuilds
   (T-061).
 - **Fail loudly** on missing/malformed source (T-064).
-- `node scripts/build-<code>-vocab.js` must run with **zero npm dependencies**.
+- `node scripts/build-lang-vocab.js <code>` must run with **zero npm dependencies**.
 
 ### A.5 Tokenization (optional, per language)
 
@@ -156,7 +167,8 @@ Follow-up prompts that worked for Japanese (reuse as needed):
 - [ ] No symbols/punctuation/single Latin letters.
 - [ ] Readings follow the single documented convention.
 - [ ] Examples are short and grammatical; translations are natural.
-- [ ] `node scripts/build-<code>-vocab.js` runs clean and is deterministic (rebuild → no diff).
+- [ ] `node scripts/build-lang-vocab.js <code>` runs clean and is deterministic
+  (same-day rebuild → no diff).
 - [ ] `data/<code>/vocab.js` loads in the browser via `?lang=<code>` and renders.
 - [ ] Native-speaker spot-check recorded in `content/<code>/README.md` (or explicitly
   marked "unreviewed starter").

@@ -31,9 +31,9 @@
 
 - **Sources to evaluate:** `wordfreq` (French), SUBTLEX-FR, OpenSubtitles, Lexique 3.
   Record source + license in `content/fr/README.md`.
-- **Starter scope:** top **40** daily-conversation words/phrases.
+- **Starter scope:** top **30** daily-conversation words/phrases (shipped).
 - **Columns:** `rank, word, reading, pos, english, example, example_english`.
-- **Builder:** `scripts/build-fr-vocab.js` → `data/fr/vocab.js` (deterministic `fr-####` ids).
+- **Builder:** `node scripts/build-lang-vocab.js fr` → `data/fr/vocab.js` (deterministic `fr-####` ids).
 - **Elision rule:** keep `l'eau`, `d'accord`, `qu'est-ce que` as single `word` values.
 - **Example row:** `1\teau\tOH\tnoun\twater\tJe voudrais de l'eau.\tI would like some water.`
 
@@ -42,13 +42,12 @@
 ```
 content/fr/source.tsv
 content/fr/README.md
-scripts/build-fr-vocab.js
 data/fr/vocab.js
 ```
 
 ## 5. Acceptance criteria
 
-1. Target French → Flashcards renders the 40-word deck.
+1. Target French → Flashcards renders the 30-word deck.
 2. Accents and apostrophes (including curly `’`) display and build correctly.
 3. Builder is dependency-free and deterministic.
 4. No core edits beyond an optional one-line `langs.js` fix.

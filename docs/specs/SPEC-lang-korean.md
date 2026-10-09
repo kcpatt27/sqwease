@@ -34,10 +34,10 @@
 
 - **Sources to evaluate:** `wordfreq` (Korean), Sejong corpus frequency lists, Korean
   OpenSubtitles frequency. Record source + license in `content/ko/README.md`.
-- **Starter scope:** top **40** daily words/phrases (include common verbs and particles
-  as their own entries where useful).
+- **Starter scope:** top **30** daily words/phrases (shipped; include common verbs
+  and particles as their own entries where useful).
 - **Columns:** `rank, word, reading, pos, english, example, example_english`.
-- **Builder:** `scripts/build-ko-vocab.js` → `data/ko/vocab.js` (deterministic `ko-####` ids).
+- **Builder:** `node scripts/build-lang-vocab.js ko` → `data/ko/vocab.js` (deterministic `ko-####` ids).
 - **Reading rule:** Revised Romanization; keep hyphenation consistent.
 - **Example row:** `1\t물\tmul\tnoun\twater\t물 좀 주세요.\tPlease give me some water.`
 
@@ -46,13 +46,12 @@
 ```
 content/ko/source.tsv
 content/ko/README.md
-scripts/build-ko-vocab.js
 data/ko/vocab.js
 ```
 
 ## 5. Acceptance criteria
 
-1. Target Korean → Flashcards renders the 40-word deck with a Korean-capable font.
+1. Target Korean → Flashcards renders the 30-word deck with a Korean-capable font.
 2. Hangul renders and wraps correctly on phone and desktop.
 3. Builder is dependency-free and deterministic.
 4. No core edits beyond an optional one-line `langs.js` fix.

@@ -35,9 +35,10 @@
 - **Sources to evaluate:** `wordfreq` (Chinese), SUBTLEX-CH, HSK 1–6 word lists, Tatoeba
   frequency. Prefer an HSK-ordered starter for learner relevance. Record source + license
   in `content/zh/README.md`.
-- **Starter scope:** top **40** words (HSK 1 core), each a single word or fixed phrase.
-- **Columns:** `rank, word, pinyin, pos, english, example, example_english`.
-- **Builder:** `scripts/build-zh-vocab.js` → `data/zh/vocab.js` (deterministic `zh-####` ids).
+- **Starter scope:** top **30** words (HSK 1 core, shipped), each a single word or fixed phrase.
+- **Columns:** `rank, word, reading, pos, english, example, example_english`
+  (`reading` holds Pinyin with tone marks).
+- **Builder:** `node scripts/build-lang-vocab.js zh` → `data/zh/vocab.js` (deterministic `zh-####` ids).
 - **Example row:** `1\t水\tshuǐ\tnoun\twater\t我要水。\tI want water.`
 
 ## 4. Files added by this branch
@@ -45,13 +46,12 @@
 ```
 content/zh/source.tsv
 content/zh/README.md
-scripts/build-zh-vocab.js
 data/zh/vocab.js
 ```
 
 ## 5. Acceptance criteria
 
-1. Target Mandarin → Flashcards renders the 40-word deck with Han + Pinyin.
+1. Target Mandarin → Flashcards renders the 30-word deck with Han + Pinyin.
 2. Tone marks display correctly and are not mangled by any romaji path.
 3. Builder is dependency-free and deterministic.
 4. No core edits beyond an optional one-line `langs.js` fix.
