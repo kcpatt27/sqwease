@@ -1,0 +1,31 @@
+rank	word	reading	pos	english	example	example_english
+1	hola	OH-lah	interj	hello	¡Hola! ¿Cómo estás?	Hi! How are you?
+2	sí	see	adv	yes	Sí, quiero.	Yes, I want it.
+3	no	no	adv	no	No, gracias.	No, thank you.
+4	gracias	GRAH-see-as	interj	thank you	Muchas gracias.	Thank you very much.
+5	por favor	por fah-VOR	phrase	please	Un café, por favor.	A coffee, please.
+6	agua	AH-gwah	noun	water	Quiero agua, por favor.	I want water, please.
+7	comida	ko-MEE-dah	noun	food	La comida está lista.	The food is ready.
+8	casa	KAH-sah	noun	house	Mi casa es pequeña.	My house is small.
+9	amigo	ah-MEE-goh	noun	friend	Mi amigo es simpático.	My friend is friendly.
+10	familia	fah-MEE-lee-ah	noun	family	Mi familia es grande.	My family is big.
+11	tiempo	TYEM-poh	noun	time; weather	No tengo tiempo.	I do not have time.
+12	día	DEE-ah	noun	day	Buen día.	Good day.
+13	noche	NOH-cheh	noun	night	Buenas noches.	Good night.
+14	hoy	oy	adv	today	Hoy trabajo.	Today I work.
+15	mañana	mah-NYAH-nah	noun	tomorrow; morning	Hasta mañana.	See you tomorrow.
+16	bueno	BWEH-noh	adj	good	Es un buen día.	It is a good day.
+17	malo	MAH-loh	adj	bad	El tiempo es malo.	The weather is bad.
+18	grande	GRAN-deh	adj	big	Es una casa grande.	It is a big house.
+19	pequeño	peh-KEH-nyoh	adj	small	Un café pequeño.	A small coffee.
+20	yo	yoh	pron	I	Yo soy estudiante.	I am a student.
+21	tú	too	pron	you	¿Tú quieres?	Do you want it?
+22	él	el	pron	he	Él es mi amigo.	He is my friend.
+23	ella	EH-yah	pron	she	Ella es mi hermana.	She is my sister.
+24	querer	keh-RER	verb	to want	Quiero aprender.	I want to learn.
+25	tener	teh-NER	verb	to have	Tengo un perro.	I have a dog.
+26	hacer	ah-SER	verb	to do; to make	¿Qué haces?	What are you doing?
+27	ir	eer	verb	to go	Voy a casa.	I am going home.
+28	comer	ko-MER	verb	to eat	Como fruta.	I eat fruit.
+29	beber	beh-BER	verb	to drink	Bebo agua.	I drink water.
+30	hablar	ah-BLAR	verb	to speak	Hablo español.	I speak Spanish.
