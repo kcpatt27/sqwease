@@ -1,6 +1,6 @@
 # SQWease Ticket Backlog
 
-Maintainer view. 94 tickets. Regenerate with `node scripts/build-ticket-index.js`.
+Maintainer view. 100 tickets. Regenerate with `node scripts/build-ticket-index.js`.
 
 Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`nit` cleanup. Priority: `P0` immediate · `P1` next · `P2` scheduled · `P3` opportunistic.
 
@@ -10,7 +10,7 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 |----|-------|------|------|--------|
 | [T-001](./T-001.md) | Remove hardcoded localhost debug telemetry from production pages | boxes | bug, privacy, performance | ponytail-audit, bug-hunt |
 
-## High (22)
+## High (23)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -36,8 +36,9 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-067](./T-067.md) | Fix README references to a CSV file that does not exist | docs | docs | data |
 | [T-085](./T-085.md) | Flashcards daily new-card budget is shared across target languages | flashcards | bug, ui | ui-review-static |
 | [T-086](./T-086.md) | Menu flashcards hint advertises \"1,500 words\" for 30-word starter decks | index | ui, i18n | ui-review-static |
+| [T-096](./T-096.md) | Adopt FSRS-6 scheduling (self-contained or vendored) behind a scheduler interface | srs | feature, srs | research-2026-10-09 |
 
-## Medium (34)
+## Medium (37)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -75,8 +76,11 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-087](./T-087.md) | Non-English UI dictionaries are incomplete (half-English UI; wrong html lang) | core | i18n, a11y | ui-review-static |
 | [T-089](./T-089.md) | Toggling the theme does not recolor flashcard/Boxes token colors | core | ui, a11y | ui-review-static |
 | [T-090](./T-090.md) | data-target-lang is unused and target-script content mostly lacks lang | core | i18n, a11y | ui-review-static |
+| [T-097](./T-097.md) | Add audio pronunciation via the Web Speech API with graceful fallback | core | feature, a11y | research-2026-10-09 |
+| [T-098](./T-098.md) | Add PWA / offline support (manifest + service worker + IndexedDB) | core | feature | research-2026-10-09 |
+| [T-101](./T-101.md) | Multimodal comprehensible input: images + audio beside example sentences | content | feature, content | research-2026-10-09 |
 
-## Low (28)
+## Low (30)
 
 | ID | Title | Area | Type | Source |
 |----|-------|------|------|--------|
@@ -108,6 +112,8 @@ Severity: `critical` blocks shipping · `high` next · `medium` soon · `low`/`n
 | [T-092](./T-092.md) | Dead shared-asset includes and mixed raw localStorage | core | maintainability, delete | ui-review-static |
 | [T-093](./T-093.md) | Page <title> loses the site name after i18n apply | core | ui, i18n | ui-review-static |
 | [T-094](./T-094.md) | New ARIA labels are hardcoded English | core | a11y, i18n | ui-review-static |
+| [T-099](./T-099.md) | Spike: Duolingo HLR vs FSRS for language-specific scheduling | srs | research | research-2026-10-09 |
+| [T-100](./T-100.md) | Add the FSRS parameter optimizer once review-log volume exists | srs | feature, ml | research-2026-10-09 |
 
 ## Nit (9)
 

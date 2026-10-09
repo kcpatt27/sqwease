@@ -103,6 +103,7 @@ starters; no automated CI (the gate is manual); kanji lookup needs network.
 | `DECISIONS.md` | why things are the way they are (ADRs) |
 | `AGENTS.md` | the contract for agent sessions |
 | `docs/specs/` | per-branch specifications |
+| `docs/research/` | research passes (FSRS/SRS, colors, Perplexica evaluation) |
 | `tickets/INDEX.md` | the backlog |
 
 Reading order: `PROJECT_CONTEXT.md` → `ARCHITECTURE.md` → `ROADMAP.md` →

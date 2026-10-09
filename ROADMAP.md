@@ -46,11 +46,13 @@ Shipped surface: `README.md` · Backlog: `tickets/INDEX.md` (77 items).
 | Test coverage for romaji/coloring/SRS | Catch regressions | — | M | MVP | [ ] (T-065) |
 | Full 2,500-word dataset per language | Deliver the promise | corpus choice | L | MVP | [ ] |
 | Native review of UI strings + decks | Language quality | datasets | M | MVP | [ ] |
-| FSRS-style or tuned SRS intervals | Better scheduling | SRS | M | P | [ ] (T-009 caps first) |
-| Audio pronunciation | Comprehensive input | TTS | M | P | [ ] |
+| FSRS-6 scheduling | Better scheduling | T-009/010/061/085 | M | P | [ ] (T-096) |
+| Duolingo HLR vs FSRS spike | Language-specific scheduling | — | S | R | [ ] (T-099) |
+| Audio pronunciation (Web Speech API) | Comprehensive input | — | M | P | [ ] (T-097) |
 | Offline kanji lookup | Remove API dependency | bundled data | S | P | [ ] (T-014) |
-| Image association | Comprehensive input | assets/CDN | L | P | [ ] |
-| PWA / offline | Travelers | service worker | M | P | [ ] |
+| Multimodal input (images + audio) | Comprehensive input | assets/CDN | L | P | [ ] (T-101) |
+| PWA / offline | Travelers, offline study | service worker | M | P | [ ] (T-098) |
+| FSRS parameter optimizer | Personalization | T-096 + review log | M | P | [ ] (T-100) |
 | Build validation in the gate | No stale artifacts | builders | S | HA | [ ] (T-062, T-064) |
 
 ## Stage 2 — HARD (substantial engineering)
