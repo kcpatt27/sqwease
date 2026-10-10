@@ -6,2289 +6,2289 @@
     var deck = {
         "lang": "zh",
         "version": 1,
-        "generatedAt": "2026-10-09",
+        "generatedAt": "2026-10-10",
         "words": [
             {
                 "id": "zh-0001",
                 "w": "的",
                 "p": "de",
                 "d": "of; ~'s (possessive particle)",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-0002",
                 "w": "我",
                 "p": "wǒ",
                 "d": "I; me; my",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0003",
                 "w": "你",
                 "p": "nǐ",
                 "d": "you (informal, as opposed to courteous 您)",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0004",
                 "w": "了",
                 "p": "le",
                 "d": "(completed action marker)",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0005",
                 "w": "是",
                 "p": "shì",
                 "d": "to be (followed by substantives only)",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-0006",
                 "w": "在",
                 "p": "zài",
                 "d": "to exist; to be alive",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0007",
                 "w": "我们",
                 "p": "wǒ men",
                 "d": "we; us; ourselves",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-0008",
                 "w": "他",
                 "p": "tā",
                 "d": "(third-person singular) (since the early 20th century, usu. male) he; him; his",
-                "s": ""
+                "s": "这个男孩把他的手弄脏了。 (The boy got his hands dirty.)"
             },
             {
                 "id": "zh-0009",
                 "w": "吗",
                 "p": "ma",
                 "d": "(question particle for \"yes-no\" questions)",
-                "s": ""
+                "s": "你可以照顾一下我的猫吗? (Would you look after my cat?)"
             },
             {
                 "id": "zh-0010",
                 "w": "不",
                 "p": "bù",
                 "d": "no; not so",
-                "s": ""
+                "s": "金窝银窝不如自己的狗窝。 (There is no place like home.)"
             },
             {
                 "id": "zh-0011",
                 "w": "什么",
                 "p": "shén me",
                 "d": "what?",
-                "s": ""
+                "s": "那孩子现在又在整什么了？ (What is the child up to now?)"
             },
             {
                 "id": "zh-0012",
                 "w": "好",
                 "p": "hǎo",
                 "d": "good",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0013",
                 "w": "有",
                 "p": "yǒu",
                 "d": "to have; there is",
-                "s": ""
+                "s": "弗雷德的房子有五间房间。 (Fred's house has five rooms.)"
             },
             {
                 "id": "zh-0014",
                 "w": "就",
                 "p": "jiù",
                 "d": "(after a suppositional clause) in that case; then",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0015",
                 "w": "吧",
                 "p": "ba",
                 "d": "(modal particle indicating suggestion or surmise)",
-                "s": ""
+                "s": "求你了，给我一个瓶子吧！ (I beg you, give me a bottle!)"
             },
             {
                 "id": "zh-0016",
                 "w": "她",
                 "p": "tā",
                 "d": "she",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-0017",
                 "w": "说",
                 "p": "shuō",
                 "d": "to speak; to talk; to say",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0018",
                 "w": "这",
                 "p": "zhè",
                 "d": "(pronoun) this; these",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0019",
                 "w": "知道",
                 "p": "zhī dào",
                 "d": "to know; to become aware of",
-                "s": ""
+                "s": "我想知道我为甚么在这里。 (I want to know why I'm here.)"
             },
             {
                 "id": "zh-0020",
                 "w": "都",
                 "p": "dōu",
                 "d": "all; both; entirely",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0021",
                 "w": "去",
                 "p": "qù",
                 "d": "to go",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-0022",
                 "w": "很",
                 "p": "hěn",
                 "d": "very; quite",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-0023",
                 "w": "他们",
                 "p": "tā men",
                 "d": "they; them",
-                "s": ""
+                "s": "这是对他们来说相当容易。 (It was rather easy for them.)"
             },
             {
                 "id": "zh-0024",
                 "w": "啊",
                 "p": "ā",
                 "d": "interjection of surprise",
-                "s": ""
+                "s": "我们甚么时候去日光浴啊？ (When are we going sunbathing?)"
             },
             {
                 "id": "zh-0025",
                 "w": "要",
                 "p": "yào",
                 "d": "to want; to need; to ask for",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0026",
                 "w": "会",
                 "p": "huì",
                 "d": "can; to have the skill; to know how to",
-                "s": ""
+                "s": "只要你微笑，我就会快乐。 (If you smile, I'll be happy.)"
             },
             {
                 "id": "zh-0027",
                 "w": "也",
                 "p": "yě",
                 "d": "also; too; as well; (not ...) either",
-                "s": ""
+                "s": "她永远也做不到保守秘密。 (She can never keep a secret.)"
             },
             {
                 "id": "zh-0028",
                 "w": "来",
                 "p": "lái",
                 "d": "to come",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0029",
                 "w": "和",
                 "p": "hé",
                 "d": "(joining two nouns) and; together with; with (Taiwan pr. )",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0030",
                 "w": "那",
                 "p": "nà",
                 "d": "(specifier) that; the; those (colloquial pr. )",
-                "s": ""
+                "s": "那幢房子看起来被遗弃了。 (That house appears deserted.)"
             },
             {
                 "id": "zh-0031",
                 "w": "想",
                 "p": "xiǎng",
                 "d": "to think (about)",
-                "s": ""
+                "s": "她很想要一条新的连衣裙。 (She wants a new dress badly.)"
             },
             {
                 "id": "zh-0032",
                 "w": "人",
                 "p": "rén",
                 "d": "person; people",
-                "s": ""
+                "s": "孩子的成长快得令人吃惊。 (Children grow up so quickly.)"
             },
             {
                 "id": "zh-0033",
                 "w": "一个",
                 "p": "yī ge",
                 "d": "a; an; one",
-                "s": ""
+                "s": "我不小心打落了一个花瓶。 (I carelessly dropped a vase.)"
             },
             {
                 "id": "zh-0034",
                 "w": "对",
                 "p": "duì",
                 "d": "right; correct",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0035",
                 "w": "没有",
                 "p": "méi yǒu",
                 "d": "haven't",
-                "s": ""
+                "s": "他们所有的人都没有出席。 (All of them are not present.)"
             },
             {
                 "id": "zh-0036",
                 "w": "让",
                 "p": "ràng",
                 "d": "to yield",
-                "s": ""
+                "s": "我让他修理了我的脚踏车。 (I got him to fix my bicycle.)"
             },
             {
                 "id": "zh-0037",
                 "w": "把",
                 "p": "bǎ",
                 "d": "to hold; to grasp",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-0038",
                 "w": "做",
                 "p": "zuò",
                 "d": "to make; to produce",
-                "s": ""
+                "s": "苏珊做了一件洋装给吉儿。 (Susan made a dress for Jill.)"
             },
             {
                 "id": "zh-0039",
                 "w": "不是",
                 "p": "bù shì",
                 "d": "no",
-                "s": ""
+                "s": "看看我的答案是不是对的。 (See if my answer is correct.)"
             },
             {
                 "id": "zh-0040",
                 "w": "给",
                 "p": "gěi",
                 "d": "to",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0041",
                 "w": "你们",
                 "p": "nǐ men",
                 "d": "you (plural)",
-                "s": ""
+                "s": "你们能看到那个小房子吗？ (Can you see that small house?)"
             },
             {
                 "id": "zh-0042",
                 "w": "可以",
                 "p": "kě yǐ",
                 "d": "can",
-                "s": ""
+                "s": "你可以照顾一下我的猫吗? (Would you look after my cat?)"
             },
             {
                 "id": "zh-0043",
                 "w": "这个",
                 "p": "zhè ge",
                 "d": "(pronoun) this",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0044",
                 "w": "现在",
                 "p": "xiàn zài",
                 "d": "now; at present; currently",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0045",
                 "w": "没",
                 "p": "méi",
                 "d": "(negative prefix for verbs) have not; not",
-                "s": ""
+                "s": "这对于我来说没任何意义。 (It doesn't make sense to me.)"
             },
             {
                 "id": "zh-0046",
                 "w": "呢",
                 "p": "ne",
                 "d": "(sentence-final particle) used in questions to link back to prior discourse or context (\"what about...?\", \"and...?\")",
-                "s": ""
+                "s": "你的飞机什么时候起飞呢？ (When does your plane depart?)"
             },
             {
                 "id": "zh-0047",
                 "w": "但",
                 "p": "dàn",
                 "d": "but; yet; however; still",
-                "s": ""
+                "s": "但愿我有好一点的记忆力。 (I wish I had a better memory.)"
             },
             {
                 "id": "zh-0048",
                 "w": "怎么",
                 "p": "zěn me",
                 "d": "how?",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-0049",
                 "w": "到",
                 "p": "dào",
                 "d": "to reach; to arrive",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0050",
                 "w": "还",
                 "p": "hái",
                 "d": "still",
-                "s": ""
+                "s": "有时候，我还是会想起她。 (Sometimes I still miss her.)"
             },
             {
                 "id": "zh-0051",
                 "w": "能",
                 "p": "néng",
                 "d": "can",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0052",
                 "w": "就是",
                 "p": "jiù shì",
                 "d": "exactly; precisely",
-                "s": ""
+                "s": "每条狗在自己家就是狮子。 (Every dog is a lion at home.)"
             },
             {
                 "id": "zh-0053",
                 "w": "这样",
                 "p": "zhè yàng",
                 "d": "this way; like this; so",
-                "s": ""
+                "s": "这样的计划注定会失败的。 (Such a plan is bound to fail.)"
             },
             {
                 "id": "zh-0054",
                 "w": "跟",
                 "p": "gēn",
                 "d": "heel",
-                "s": ""
+                "s": "他跟我讲了他的人生故事。 (He told me his life's story.)"
             },
             {
                 "id": "zh-0055",
                 "w": "如果",
                 "p": "rú guǒ",
                 "d": "if; in case; in the event that",
-                "s": ""
+                "s": "如果我们想，我们就能变。 (We can change if we want to.)"
             },
             {
                 "id": "zh-0056",
                 "w": "它",
                 "p": "tā",
                 "d": "it",
-                "s": ""
+                "s": "我们不可以把它告诉汤姆。 (We can't let Tom in on this.)"
             },
             {
                 "id": "zh-0057",
                 "w": "走",
                 "p": "zǒu",
                 "d": "to walk",
-                "s": ""
+                "s": "他把我所有的钱都抢走了。 (He robbed me of all my money.)"
             },
             {
                 "id": "zh-0058",
                 "w": "个",
                 "p": "gè",
                 "d": "(classifier used before a noun that has no specific classifier)",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0059",
                 "w": "这里",
                 "p": "zhè lǐ",
                 "d": "here",
-                "s": ""
+                "s": "你介不介意我在这里吸烟？ (Do you mind my smoking here?)"
             },
             {
                 "id": "zh-0060",
                 "w": "上",
                 "p": "shàng",
                 "d": "(bound form) up; upper; above; previous",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-0061",
                 "w": "得",
                 "p": "dé",
                 "d": "to obtain",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0062",
                 "w": "被",
                 "p": "bèi",
                 "d": "quilt",
-                "s": ""
+                "s": "那幢房子看起来被遗弃了。 (That house appears deserted.)"
             },
             {
                 "id": "zh-0063",
                 "w": "看",
                 "p": "kàn",
                 "d": "to see; to look at",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0064",
                 "w": "谁",
                 "p": "shéi",
                 "d": "who",
-                "s": ""
+                "s": "谁是你最喜爱的电视明星？ (Who's your favorite TV star?)"
             },
             {
                 "id": "zh-0065",
                 "w": "不会",
                 "p": "bù huì",
                 "d": "improbable",
-                "s": ""
+                "s": "他们甚么也不会告诉我们。 (They won't tell us anything.)"
             },
             {
                 "id": "zh-0066",
                 "w": "事",
                 "p": "shì",
                 "d": "matter",
-                "s": ""
+                "s": "迪克发生了一起交通事故。 (Dick had a traffic accident.)"
             },
             {
                 "id": "zh-0067",
                 "w": "自己",
                 "p": "zì jǐ",
                 "d": "oneself; (attributive) one's own",
-                "s": ""
+                "s": "金窝银窝不如自己的狗窝。 (There is no place like home.)"
             },
             {
                 "id": "zh-0068",
                 "w": "着",
                 "p": "zhe",
                 "d": "aspect particle indicating action in progress or ongoing state",
-                "s": ""
+                "s": "哦，不！我的房子着火了！ (Oh, no! My house is on fire!)"
             },
             {
                 "id": "zh-0069",
                 "w": "告诉",
                 "p": "gào sù",
                 "d": "to press charges; to file a complaint",
-                "s": ""
+                "s": "他们甚么也不会告诉我们。 (They won't tell us anything.)"
             },
             {
                 "id": "zh-0070",
                 "w": "过",
                 "p": "guò",
                 "d": "to cross",
-                "s": ""
+                "s": "上周末过得怎么样，南希？ (How was last weekend, Nancy?)"
             },
             {
                 "id": "zh-0071",
                 "w": "已经",
                 "p": "yǐ jīng",
                 "d": "already",
-                "s": ""
+                "s": "Ken 已经去了英格兰。 (Ken already went to England.)"
             },
             {
                 "id": "zh-0072",
                 "w": "为什么",
                 "p": "wèi shén me",
                 "d": "why?",
-                "s": ""
+                "s": "为什么不直接付钱给汤姆？ (Why didn't you just pay Tom?)"
             },
             {
                 "id": "zh-0073",
                 "w": "不能",
                 "p": "bù néng",
                 "d": "cannot",
-                "s": ""
+                "s": "我不确定汤姆能不能帮忙。 (I'm not sure Tom would help.)"
             },
             {
                 "id": "zh-0074",
                 "w": "真的",
                 "p": "zhēn de",
                 "d": "really; truly; indeed",
-                "s": ""
+                "s": "那条连衣裙真的很适合她。 (That dress really suits her.)"
             },
             {
                 "id": "zh-0075",
                 "w": "因为",
                 "p": "yīn wèi",
                 "d": "because; owing to; on account of",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-0076",
                 "w": "先生",
                 "p": "xiān sheng",
                 "d": "teacher",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0077",
                 "w": "谢谢",
                 "p": "xiè xie",
                 "d": "to thank",
-                "s": ""
+                "s": "我会再试一次, 谢谢您。 (I will try again, thank you.)"
             },
             {
                 "id": "zh-0078",
                 "w": "只是",
                 "p": "zhǐ shì",
                 "d": "merely; only; just; nothing but",
-                "s": ""
+                "s": "她只是一个平凡的小女孩。 (She is just an ordinary girl.)"
             },
             {
                 "id": "zh-0079",
                 "w": "不要",
                 "p": "bù yào",
                 "d": "don't!; must not",
-                "s": ""
+                "s": "不要把书放在那张桌子上。 (Don't put books on the table.)"
             },
             {
                 "id": "zh-0080",
                 "w": "这么",
                 "p": "zhè me",
                 "d": "so much",
-                "s": ""
+                "s": "他这么说就是为了开玩笑。 (He said it merely as a joke.)"
             },
             {
                 "id": "zh-0081",
                 "w": "那个",
                 "p": "nà ge",
                 "d": "that one",
-                "s": ""
+                "s": "他不再是以前的那个他了。 (He isn't what he used to be.)"
             },
             {
                 "id": "zh-0082",
                 "w": "为",
                 "p": "wèi",
                 "d": "because of",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-0083",
                 "w": "再",
                 "p": "zài",
                 "d": "again; once more; re-",
-                "s": ""
+                "s": "他不再是以前的那个他了。 (He isn't what he used to be.)"
             },
             {
                 "id": "zh-0084",
                 "w": "里",
                 "p": "lǐ",
                 "d": "li, ancient measure of length, approx. 500 m",
-                "s": ""
+                "s": "你介不介意我在这里吸烟？ (Do you mind my smoking here?)"
             },
             {
                 "id": "zh-0085",
                 "w": "哦",
                 "p": "ó",
                 "d": "oh (interjection indicating doubt or surprise)",
-                "s": ""
+                "s": "哦，不！我的房子着火了！ (Oh, no! My house is on fire!)"
             },
             {
                 "id": "zh-0086",
                 "w": "需要",
                 "p": "xū yào",
                 "d": "to need; to want; to demand; to require",
-                "s": ""
+                "s": "Tom需要让身体好起来。 (Tom needs to get into shape.)"
             },
             {
                 "id": "zh-0087",
                 "w": "喜欢",
                 "p": "xǐ huan",
                 "d": "to like; to be fond of",
-                "s": ""
+                "s": "她对我说，“我喜欢你”。 (She said 'I love you' to me.)"
             },
             {
                 "id": "zh-0088",
                 "w": "像",
                 "p": "xiàng",
                 "d": "to resemble",
-                "s": ""
+                "s": "哎呀，我们好像忘了汤姆。 (Oops, I think we forgot Tom.)"
             },
             {
                 "id": "zh-0089",
                 "w": "听",
                 "p": "tīng",
                 "d": "to listen to; to hear",
-                "s": ""
+                "s": "她喜欢听俄罗斯流行音乐。 (She likes Russian pop music.)"
             },
             {
                 "id": "zh-0090",
                 "w": "别",
                 "p": "bié",
                 "d": "to leave; to part (from)",
-                "s": ""
+                "s": "汤姆除了去之外别无选择。 (Tom has no choice but to go.)"
             },
             {
                 "id": "zh-0091",
                 "w": "可能",
                 "p": "kě néng",
                 "d": "might (happen)",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0092",
                 "w": "但是",
                 "p": "dàn shì",
                 "d": "but; however",
-                "s": ""
+                "s": "我是学生，但是他不是。 (I'm a student, but he isn't.)"
             },
             {
                 "id": "zh-0093",
                 "w": "时候",
                 "p": "shí hou",
                 "d": "time",
-                "s": ""
+                "s": "你的飞机什么时候起飞呢？ (When does your plane depart?)"
             },
             {
                 "id": "zh-0094",
                 "w": "从",
                 "p": "cóng",
                 "d": "from; through; via",
-                "s": ""
+                "s": "鸟儿从我的视线中消失了。 (The bird vanished from view.)"
             },
             {
                 "id": "zh-0095",
                 "w": "觉得",
                 "p": "jué de",
                 "d": "to think that ...; to feel that ...",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-0096",
                 "w": "还有",
                 "p": "hái yǒu",
                 "d": "there still remain(s); there is (or are) still",
-                "s": ""
+                "s": "还有五十公里就到巴黎了。 (It's fifty kilometers to Paris.)"
             },
             {
                 "id": "zh-0097",
                 "w": "所以",
                 "p": "suǒ yǐ",
                 "d": "therefore",
-                "s": ""
+                "s": "太热了所以我们无法工作。 (It's too hot for us to work.)"
             },
             {
                 "id": "zh-0098",
                 "w": "东西",
                 "p": "dōng xī",
                 "d": "east and west",
-                "s": ""
+                "s": "他是最后一个偷东西的人。 (He is the last man to steal.)"
             },
             {
                 "id": "zh-0099",
                 "w": "又",
                 "p": "yòu",
                 "d": "(once) again",
-                "s": ""
+                "s": "那孩子现在又在整什么了？ (What is the child up to now?)"
             },
             {
                 "id": "zh-0100",
                 "w": "叫",
                 "p": "jiào",
                 "d": "to shout",
-                "s": ""
+                "s": "不好意思，你叫什么名字？ (Excuse me. What's your name?)"
             },
             {
                 "id": "zh-0101",
                 "w": "快",
                 "p": "kuài",
                 "d": "rapid",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0102",
                 "w": "这些",
                 "p": "zhè xiē",
                 "d": "these",
-                "s": ""
+                "s": "这些裤子我穿起来很合身。 (These trousers fit me well.)"
             },
             {
                 "id": "zh-0103",
                 "w": "找",
                 "p": "zhǎo",
                 "d": "to try to find",
-                "s": ""
+                "s": "我在任何地方都没能找到。 (I couldn't find it anywhere.)"
             },
             {
                 "id": "zh-0104",
                 "w": "应该",
                 "p": "yīng gāi",
                 "d": "ought to; should; must",
-                "s": ""
+                "s": "我们本来应该留在家里的。 (We should've stayed at home.)"
             },
             {
                 "id": "zh-0105",
                 "w": "请",
                 "p": "qǐng",
                 "d": "to ask",
-                "s": ""
+                "s": "我法语说得不好，请见谅。 (Please excuse my bad French.)"
             },
             {
                 "id": "zh-0106",
                 "w": "等",
                 "p": "děng",
                 "d": "to wait for; to await",
-                "s": ""
+                "s": "在这儿等著，直到我回来。 (Wait here till I come back.)"
             },
             {
                 "id": "zh-0107",
                 "w": "死",
                 "p": "sǐ",
                 "d": "to die",
-                "s": ""
+                "s": "我出生前，我父亲就死了。 (My dad died before I was born.)"
             },
             {
                 "id": "zh-0108",
                 "w": "那么",
                 "p": "nà me",
                 "d": "like that; in that way; to that extent",
-                "s": ""
+                "s": "我从没见过汤姆那么生气。 (I've never seen Tom so angry.)"
             },
             {
                 "id": "zh-0109",
                 "w": "多",
                 "p": "duō",
                 "d": "many; much; more; a lot of",
-                "s": ""
+                "s": "她丢了很多的图书馆的书。 (She lost many library books.)"
             },
             {
                 "id": "zh-0110",
                 "w": "一起",
                 "p": "yī qǐ",
                 "d": "(in) the same place",
-                "s": ""
+                "s": "迪克发生了一起交通事故。 (Dick had a traffic accident.)"
             },
             {
                 "id": "zh-0111",
                 "w": "还是",
                 "p": "hái shi",
                 "d": "still (as before)",
-                "s": ""
+                "s": "有时候，我还是会想起她。 (Sometimes I still miss her.)"
             },
             {
                 "id": "zh-0112",
                 "w": "孩子",
                 "p": "hái zi",
                 "d": "child",
-                "s": ""
+                "s": "那孩子现在又在整什么了？ (What is the child up to now?)"
             },
             {
                 "id": "zh-0113",
                 "w": "看到",
                 "p": "kàn dào",
                 "d": "to see",
-                "s": ""
+                "s": "你是在公园里看到他的吗？ (Did you see him in the park?)"
             },
             {
                 "id": "zh-0114",
                 "w": "问题",
                 "p": "wèn tí",
                 "d": "question",
-                "s": ""
+                "s": "我们明天再讨论这个问题。 (Let's discuss this tomorrow.)"
             },
             {
                 "id": "zh-0115",
                 "w": "一下",
                 "p": "yī xià",
                 "d": "(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)",
-                "s": ""
+                "s": "你可以照顾一下我的猫吗? (Would you look after my cat?)"
             },
             {
                 "id": "zh-0116",
                 "w": "一样",
                 "p": "yī yàng",
                 "d": "same",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0117",
                 "w": "们",
                 "p": "men",
                 "d": "plural marker for pronouns, and nouns referring to individuals",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-0118",
                 "w": "而",
                 "p": "ér",
                 "d": "and",
-                "s": ""
+                "s": "我每时每刻都在为你而活。 (I live every moment for you.)"
             },
             {
                 "id": "zh-0119",
                 "w": "开始",
                 "p": "kāi shǐ",
                 "d": "to begin; to start",
-                "s": ""
+                "s": "他这春天开始玩高尔夫球。 (He took up golf this spring.)"
             },
             {
                 "id": "zh-0120",
                 "w": "您",
                 "p": "nín",
                 "d": "you (courteous, as opposed to informal 你)",
-                "s": ""
+                "s": "我会再试一次, 谢谢您。 (I will try again, thank you.)"
             },
             {
                 "id": "zh-0121",
                 "w": "才",
                 "p": "cái",
                 "d": "ability; talent",
-                "s": ""
+                "s": "你需要两个才能凑成一对。 (You need two to make a pair.)"
             },
             {
                 "id": "zh-0122",
                 "w": "用",
                 "p": "yòng",
                 "d": "to use; to make use of; to employ",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-0123",
                 "w": "嗯",
                 "p": "en",
                 "d": "interjection indicating approval, appreciation or agreement",
-                "s": ""
+                "s": "嗯。。。我可以加入你的小组嘛 (Um... can we join your group?)"
             },
             {
                 "id": "zh-0124",
                 "w": "工作",
                 "p": "gōng zuò",
                 "d": "to work",
-                "s": ""
+                "s": "我希望你更加努力地工作。 (I expect you to work harder.)"
             },
             {
                 "id": "zh-0125",
                 "w": "呀",
                 "p": "ya",
                 "d": "(particle equivalent to 啊 after a vowel, expressing surprise or doubt)",
-                "s": ""
+                "s": "哎呀，我们好像忘了汤姆。 (Oops, I think we forgot Tom.)"
             },
             {
                 "id": "zh-0126",
                 "w": "吃",
                 "p": "chī",
                 "d": "to eat; to consume",
-                "s": ""
+                "s": "孩子的成长快得令人吃惊。 (Children grow up so quickly.)"
             },
             {
                 "id": "zh-0127",
                 "w": "当",
                 "p": "dāng",
                 "d": "to be",
-                "s": ""
+                "s": "这是对他们来说相当容易。 (It was rather easy for them.)"
             },
             {
                 "id": "zh-0128",
                 "w": "嘿",
                 "p": "hēi",
                 "d": "hey",
-                "s": ""
+                "s": "嘿，你！你在干什么？ (Hey, you! What are you doing?)"
             },
             {
                 "id": "zh-0129",
                 "w": "回来",
                 "p": "huí lai",
                 "d": "to return; to come back",
-                "s": ""
+                "s": "在这儿等著，直到我回来。 (Wait here till I come back.)"
             },
             {
                 "id": "zh-0130",
                 "w": "真",
                 "p": "zhēn",
                 "d": "really",
-                "s": ""
+                "s": "那条连衣裙真的很适合她。 (That dress really suits her.)"
             },
             {
                 "id": "zh-0131",
                 "w": "当然",
                 "p": "dāng rán",
                 "d": "only natural",
-                "s": ""
+                "s": "我当然希望这是一个梦。 (I sure hope this is a dream.)"
             },
             {
                 "id": "zh-0132",
                 "w": "帮",
                 "p": "bāng",
                 "d": "to help",
-                "s": ""
+                "s": "我不确定汤姆能不能帮忙。 (I'm not sure Tom would help.)"
             },
             {
                 "id": "zh-0133",
                 "w": "中",
                 "p": "zhōng",
                 "d": "within; among; in",
-                "s": ""
+                "s": "鸟儿从我的视线中消失了。 (The bird vanished from view.)"
             },
             {
                 "id": "zh-0134",
                 "w": "然后",
                 "p": "rán hòu",
                 "d": "then; after that; afterwards",
-                "s": ""
+                "s": "走过两个街区，然后左转。 (Walk two blocks, and turn left.)"
             },
             {
                 "id": "zh-0135",
                 "w": "看看",
                 "p": "kàn kan",
                 "d": "to take a look at",
-                "s": ""
+                "s": "看看我的答案是不是对的。 (See if my answer is correct.)"
             },
             {
                 "id": "zh-0136",
                 "w": "地方",
                 "p": "dì fāng",
                 "d": "region",
-                "s": ""
+                "s": "我在任何地方都没能找到。 (I couldn't find it anywhere.)"
             },
             {
                 "id": "zh-0137",
                 "w": "将",
                 "p": "jiāng",
                 "d": "will",
-                "s": ""
+                "s": "你什么时候将去亚美尼亚？ (When will you go to Armenia?)"
             },
             {
                 "id": "zh-0138",
                 "w": "没事",
                 "p": "méi shì",
                 "d": "it's not important",
-                "s": ""
+                "s": "不要担心，会没事的。 (Don't worry, it'll be okay.)"
             },
             {
                 "id": "zh-0139",
                 "w": "一定",
                 "p": "yī dìng",
                 "d": "surely; certainly; definitely",
-                "s": ""
+                "s": "我们一定要保持双手清洁。 (We must keep our hands clean.)"
             },
             {
                 "id": "zh-0140",
                 "w": "希望",
                 "p": "xī wàng",
                 "d": "to hope",
-                "s": ""
+                "s": "我希望你更加努力地工作。 (I expect you to work harder.)"
             },
             {
                 "id": "zh-0141",
                 "w": "朋友",
                 "p": "péng you",
                 "d": "friend",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-0142",
                 "w": "时间",
                 "p": "shí jiān",
                 "d": "(concept of) time",
-                "s": ""
+                "s": "他剩下的时间已经不多了。 (He doesn't have long to live.)"
             },
             {
                 "id": "zh-0143",
                 "w": "钱",
                 "p": "qián",
                 "d": "coin",
-                "s": ""
+                "s": "为什么不直接付钱给汤姆？ (Why didn't you just pay Tom?)"
             },
             {
                 "id": "zh-0144",
                 "w": "今天",
                 "p": "jīn tiān",
                 "d": "today",
-                "s": ""
+                "s": "我今天早上错过了公交车。 (I missed my bus this morning.)"
             },
             {
                 "id": "zh-0145",
                 "w": "拿",
                 "p": "ná",
                 "d": "to hold",
-                "s": ""
+                "s": "汤姆告诉我他是加拿大人。 (Tom told me he was Canadian.)"
             },
             {
                 "id": "zh-0146",
                 "w": "一",
                 "p": "yī",
                 "d": "one",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-0147",
                 "w": "啦",
                 "p": "lā",
                 "d": "(onom.) sound of singing, cheering etc",
-                "s": ""
+                "s": "麻烦你叫我起床吃早餐啦。 (Please wake me for breakfast.)"
             },
             {
                 "id": "zh-0148",
                 "w": "事情",
                 "p": "shì qing",
                 "d": "affair; matter; thing; business",
-                "s": ""
+                "s": "你知道发生了什么事情吗？ (Do you know what's happened?)"
             },
             {
                 "id": "zh-0149",
                 "w": "一直",
                 "p": "yī zhí",
                 "d": "straight (in a straight line)",
-                "s": ""
+                "s": "我一直等到了最后一分钟。 (I waited until the last minute.)"
             },
             {
                 "id": "zh-0150",
                 "w": "后",
                 "p": "hòu",
                 "d": "empress",
-                "s": ""
+                "s": "他是最后一个偷东西的人。 (He is the last man to steal.)"
             },
             {
                 "id": "zh-0151",
                 "w": "所有",
                 "p": "suǒ yǒu",
                 "d": "all",
-                "s": ""
+                "s": "他们所有的人都没有出席。 (All of them are not present.)"
             },
             {
                 "id": "zh-0152",
                 "w": "妈妈",
                 "p": "mā ma",
                 "d": "mama",
-                "s": ""
+                "s": "我妈妈为我做了一件毛衣。 (My mother made me a sweater.)"
             },
             {
                 "id": "zh-0153",
                 "w": "找到",
                 "p": "zhǎo dào",
                 "d": "to find",
-                "s": ""
+                "s": "我在任何地方都没能找到。 (I couldn't find it anywhere.)"
             },
             {
                 "id": "zh-0154",
                 "w": "哪",
                 "p": "nǎ",
                 "d": "how",
-                "s": ""
+                "s": "你以前住的是哪一座房子？ (Which house did you live in?)"
             },
             {
                 "id": "zh-0155",
                 "w": "离开",
                 "p": "lí kāi",
                 "d": "to depart; to leave",
-                "s": ""
+                "s": "我离开了日本有10年了。 (I left Japan ten years ago.)"
             },
             {
                 "id": "zh-0156",
                 "w": "不想",
                 "p": "bù xiǎng",
                 "d": "unexpectedly; to one's surprise",
-                "s": ""
+                "s": "我不知道，也不想知道。 (I don't know, nor do I care.)"
             },
             {
                 "id": "zh-0157",
                 "w": "爱",
                 "p": "ài",
                 "d": "to love; to be fond of; to like",
-                "s": ""
+                "s": "谁是你最喜爱的电视明星？ (Who's your favorite TV star?)"
             },
             {
                 "id": "zh-0158",
                 "w": "只",
                 "p": "zhǐ",
                 "d": "only; merely; just",
-                "s": ""
+                "s": "只要你微笑，我就会快乐。 (If you smile, I'll be happy.)"
             },
             {
                 "id": "zh-0159",
                 "w": "该",
                 "p": "gāi",
                 "d": "should",
-                "s": ""
+                "s": "我们本来应该留在家里的。 (We should've stayed at home.)"
             },
             {
                 "id": "zh-0160",
                 "w": "发生",
                 "p": "fā shēng",
                 "d": "to happen; to occur; to take place; to arise (e.g. 發生問題|发生问题 \"a problem arises\")",
-                "s": ""
+                "s": "迪克发生了一起交通事故。 (Dick had a traffic accident.)"
             },
             {
                 "id": "zh-0161",
                 "w": "更",
                 "p": "gèng",
                 "d": "more",
-                "s": ""
+                "s": "我希望你更加努力地工作。 (I expect you to work harder.)"
             },
             {
                 "id": "zh-0162",
                 "w": "起来",
                 "p": "qǐ lai",
                 "d": "to stand up; to get up",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0163",
                 "w": "最",
                 "p": "zuì",
                 "d": "(before an adjective or verb) to the highest degree; (the) most ...; -est",
-                "s": ""
+                "s": "他是最后一个偷东西的人。 (He is the last man to steal.)"
             },
             {
                 "id": "zh-0164",
                 "w": "必须",
                 "p": "bì xū",
                 "d": "must; to have to",
-                "s": ""
+                "s": "你必须从失败中吸取教训。 (You must learn from mistakes.)"
             },
             {
                 "id": "zh-0165",
                 "w": "一点",
                 "p": "yī diǎn",
                 "d": "a bit; a little bit",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0166",
                 "w": "那些",
                 "p": "nà xiē",
                 "d": "those",
-                "s": ""
+                "s": "我怎能忘记那些日子呢？ (How can I forget those days?)"
             },
             {
                 "id": "zh-0167",
                 "w": "可",
                 "p": "kě",
                 "d": "(prefix) can; may; able to; -able",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0168",
                 "w": "明白",
                 "p": "míng bai",
                 "d": "clear; obvious; unequivocal",
-                "s": ""
+                "s": "我不明白你的意思是甚么。 (I have no idea what you mean.)"
             },
             {
                 "id": "zh-0169",
                 "w": "的话",
                 "p": "de huà",
                 "d": "if (coming after a conditional clause)",
-                "s": ""
+                "s": "如果可以的话，周二过来。 (Come on Tuesday if you can.)"
             },
             {
                 "id": "zh-0170",
                 "w": "认为",
                 "p": "rèn wéi",
                 "d": "to believe; to think; to consider; to feel",
-                "s": ""
+                "s": "他把我误认为是我的母亲。 (He mistook me for my mother.)"
             },
             {
                 "id": "zh-0171",
                 "w": "爸爸",
                 "p": "bà ba",
                 "d": "(coll.) father; dad",
-                "s": ""
+                "s": "不好意思，我爸爸不在家。 (I'm sorry, my father is out.)"
             },
             {
                 "id": "zh-0172",
                 "w": "下",
                 "p": "xià",
                 "d": "down",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-0173",
                 "w": "杀",
                 "p": "shā",
                 "d": "to kill; to slay; to murder; to attack",
-                "s": ""
+                "s": "那个杀人犯依然逍遥法外。 (The murderer is still at large.)"
             },
             {
                 "id": "zh-0174",
                 "w": "点",
                 "p": "diǎn",
                 "d": "to touch briefly; to tap",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0175",
                 "w": "太",
                 "p": "tài",
                 "d": "highest",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0176",
                 "w": "一切",
                 "p": "yī qiè",
                 "d": "everything",
-                "s": ""
+                "s": "对不起。一切都是我的错。 (I am sorry, It's all my fault.)"
             },
             {
                 "id": "zh-0177",
                 "w": "相信",
                 "p": "xiāng xìn",
                 "d": "to believe; to be convinced; to accept as true",
-                "s": ""
+                "s": "你们怎么就是没相信我呢？ (Why didn't you believe me?)"
             },
             {
                 "id": "zh-0178",
                 "w": "想要",
                 "p": "xiǎng yào",
                 "d": "to want to",
-                "s": ""
+                "s": "她很想要一条新的连衣裙。 (She wants a new dress badly.)"
             },
             {
                 "id": "zh-0179",
                 "w": "打",
                 "p": "dǎ",
                 "d": "to hit; to strike",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0180",
                 "w": "那里",
                 "p": "nà li",
                 "d": "there; that place",
-                "s": ""
+                "s": "我想把我的车停放在那里。 (I want to keep my car there.)"
             },
             {
                 "id": "zh-0181",
                 "w": "也许",
                 "p": "yě xǔ",
                 "d": "perhaps; maybe",
-                "s": ""
+                "s": "这也许是我们最后的会议。 (This may be our last meeting.)"
             },
             {
                 "id": "zh-0182",
                 "w": "大",
                 "p": "dà",
                 "d": "big; large; great",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-0183",
                 "w": "哪里",
                 "p": "nǎ lǐ",
                 "d": "where?",
-                "s": ""
+                "s": "现在，我把钥匙放哪里了？ (Now where did I put the key?)"
             },
             {
                 "id": "zh-0184",
                 "w": "真是",
                 "p": "zhēn shi",
                 "d": "indeed; truly",
-                "s": ""
+                "s": "在这里见到您真是太好了。 (It was nice meeting you here.)"
             },
             {
                 "id": "zh-0185",
                 "w": "你好",
                 "p": "nǐ hǎo",
                 "d": "hello; hi",
-                "s": ""
+                "s": "你好汤姆！你什么时候来的？ (Hello Tom! When did you come?)"
             },
             {
                 "id": "zh-0186",
                 "w": "准备",
                 "p": "zhǔn bèi",
                 "d": "preparation",
-                "s": ""
+                "s": "我应该在2：30准备好。 (I should be ready by 2:30.)"
             },
             {
                 "id": "zh-0187",
                 "w": "抱歉",
                 "p": "bào qiàn",
                 "d": "to be sorry",
-                "s": ""
+                "s": "史密斯回答说，他很抱歉。 (Smith replied that he was sorry.)"
             },
             {
                 "id": "zh-0188",
                 "w": "非常",
                 "p": "fēi cháng",
                 "d": "very; really",
-                "s": ""
+                "s": "汤姆的上司真的非常生气。 (Tom's boss was really angry.)"
             },
             {
                 "id": "zh-0189",
                 "w": "带",
                 "p": "dài",
                 "d": "band",
-                "s": ""
+                "s": "她面带微笑向我们打招呼。 (She greeted us with a smile.)"
             },
             {
                 "id": "zh-0190",
                 "w": "不过",
                 "p": "bù guò",
                 "d": "only",
-                "s": ""
+                "s": "我知道那只不过是一场梦。 (I know it was just a dream.)"
             },
             {
                 "id": "zh-0191",
                 "w": "出来",
                 "p": "chū lái",
                 "d": "to come out",
-                "s": ""
+                "s": "油是从橄榄中提炼出来的。 (Oil is extracted from olives.)"
             },
             {
                 "id": "zh-0192",
                 "w": "对不起",
                 "p": "duì bu qǐ",
                 "d": "I'm sorry; excuse me; I beg your pardon",
-                "s": ""
+                "s": "对不起。一切都是我的错。 (I am sorry, It's all my fault.)"
             },
             {
                 "id": "zh-0193",
                 "w": "天",
                 "p": "tiān",
                 "d": "day",
-                "s": ""
+                "s": "他这春天开始玩高尔夫球。 (He took up golf this spring.)"
             },
             {
                 "id": "zh-0194",
                 "w": "时",
                 "p": "shí",
                 "d": "o'clock",
-                "s": ""
+                "s": "我每时每刻都在为你而活。 (I live every moment for you.)"
             },
             {
                 "id": "zh-0195",
                 "w": "大家",
                 "p": "dà jiā",
                 "d": "everyone",
-                "s": ""
+                "s": "除了我以外，大家都很忙。 (Everybody is busy except me.)"
             },
             {
                 "id": "zh-0196",
                 "w": "与",
                 "p": "yǔ",
                 "d": "(formal) and; together with (linking parallel nouns, verbs, or phrases)",
-                "s": ""
+                "s": "行与行之间要留一个空间。 (Leave a space between the lines.)"
             },
             {
                 "id": "zh-0197",
                 "w": "有人",
                 "p": "yǒu rén",
                 "d": "someone",
-                "s": ""
+                "s": "如果有人看见我们怎么办？ (And what if someone sees us?)"
             },
             {
                 "id": "zh-0198",
                 "w": "意思",
                 "p": "yì si",
                 "d": "idea",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0199",
                 "w": "这儿",
                 "p": "zhè r",
                 "d": "here",
-                "s": ""
+                "s": "这儿有张很大的德国地图。 (Here's a big map of Germany.)"
             },
             {
                 "id": "zh-0200",
                 "w": "并",
                 "p": "bìng",
                 "d": "and",
-                "s": ""
+                "s": "生活并不都是轻松愉快的。 (Life is not all fun and games.)"
             },
             {
                 "id": "zh-0201",
                 "w": "过来",
                 "p": "guò lái",
                 "d": "to come over",
-                "s": ""
+                "s": "如果可以的话，周二过来。 (Come on Tuesday if you can.)"
             },
             {
                 "id": "zh-0202",
                 "w": "这种",
                 "p": "zhè zhǒng",
                 "d": "this kind of",
-                "s": ""
+                "s": "我无法独自面对这种生活。 (I can't face this life alone.)"
             },
             {
                 "id": "zh-0203",
                 "w": "怎么样",
                 "p": "zěn me yàng",
                 "d": "how?",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-0204",
                 "w": "一些",
                 "p": "yī xiē",
                 "d": "some; a few; a little; (following an adjective) slightly ...er",
-                "s": ""
+                "s": "她给了我一些很好的建议。 (She gave me some good advice.)"
             },
             {
                 "id": "zh-0205",
                 "w": "见",
                 "p": "jiàn",
                 "d": "to see",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-0206",
                 "w": "为了",
                 "p": "wèi le",
                 "d": "for; for the purpose of; in order to",
-                "s": ""
+                "s": "他这么说就是为了开玩笑。 (He said it merely as a joke.)"
             },
             {
                 "id": "zh-0207",
                 "w": "感觉",
                 "p": "gǎn jué",
                 "d": "feeling; impression; sensation",
-                "s": ""
+                "s": "“你感觉怎么样？”他问。 (\"How do you feel?\" he asked.)"
             },
             {
                 "id": "zh-0208",
                 "w": "女人",
                 "p": "nǚ rén",
                 "d": "woman",
-                "s": ""
+                "s": "我看见那儿有个奇怪的女人。 (I saw a strange woman there.)"
             },
             {
                 "id": "zh-0209",
                 "w": "只有",
                 "p": "zhǐ yǒu",
                 "d": "only have ...; there is only ...",
-                "s": ""
+                "s": "汤姆只有一周时间做决定。 (Tom has only a week to decide.)"
             },
             {
                 "id": "zh-0210",
                 "w": "快点",
                 "p": "kuài diǎn",
                 "d": "to do sth more quickly",
-                "s": ""
+                "s": "快点儿，不然你就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0211",
                 "w": "比",
                 "p": "bǐ",
                 "d": "to compare",
-                "s": ""
+                "s": "相比棒球，我更喜欢足球。 (I prefer soccer to baseball.)"
             },
             {
                 "id": "zh-0212",
                 "w": "一次",
                 "p": "yī cì",
                 "d": "first",
-                "s": ""
+                "s": "我会再试一次, 谢谢您。 (I will try again, thank you.)"
             },
             {
                 "id": "zh-0213",
                 "w": "发现",
                 "p": "fā xiàn",
                 "d": "to notice; to become aware of",
-                "s": ""
+                "s": "医护人员已抵达事发现场。 (Paramedics are on the scene.)"
             },
             {
                 "id": "zh-0214",
                 "w": "得到",
                 "p": "dé dào",
                 "d": "to get; to obtain; to receive",
-                "s": ""
+                "s": "我免费得到了这辆自行车。 (I got this bicycle for free.)"
             },
             {
                 "id": "zh-0215",
                 "w": "任何",
                 "p": "rèn hé",
                 "d": "any; whatever; whichever",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0216",
                 "w": "小",
                 "p": "xiǎo",
                 "d": "small",
-                "s": ""
+                "s": "我不小心打落了一个花瓶。 (I carelessly dropped a vase.)"
             },
             {
                 "id": "zh-0217",
                 "w": "没错",
                 "p": "méi cuò",
                 "d": "that's right",
-                "s": ""
+                "s": "没错！这是很正经的事！ (No worries! This is good enough!)"
             },
             {
                 "id": "zh-0218",
                 "w": "以为",
                 "p": "yǐ wéi",
                 "d": "to think; to believe (often with the implication that the belief is mistaken – unless referring to one's own current belief)",
-                "s": ""
+                "s": "他误以为我是一个英国人。 (He took me for an Englishman.)"
             },
             {
                 "id": "zh-0219",
                 "w": "年",
                 "p": "nián",
                 "d": "year",
-                "s": ""
+                "s": "二十年是一段漫长的岁月。 (Twenty years is a long time.)"
             },
             {
                 "id": "zh-0220",
                 "w": "是不是",
                 "p": "shì bu shì",
                 "d": "is or is not (used to form yes-no questions)",
-                "s": ""
+                "s": "看看我的答案是不是对的。 (See if my answer is correct.)"
             },
             {
                 "id": "zh-0221",
                 "w": "而且",
                 "p": "ér qiě",
                 "d": "(not only ...) but also",
-                "s": ""
+                "s": "我有钱，我胖而且我快乐。 (I am rich, fat and happy.)"
             },
             {
                 "id": "zh-0222",
                 "w": "喂",
                 "p": "wèi",
                 "d": "hey",
-                "s": ""
+                "s": "我从没给我的狗喂过香蕉。 (I have never fed my dog a banana.)"
             },
             {
                 "id": "zh-0223",
                 "w": "前",
                 "p": "qián",
                 "d": "front",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0224",
                 "w": "生活",
                 "p": "shēng huó",
                 "d": "to live",
-                "s": ""
+                "s": "我们过着十分平凡的生活。 (We lead a very ordinary life.)"
             },
             {
                 "id": "zh-0225",
                 "w": "男人",
                 "p": "nán rén",
                 "d": "a man",
-                "s": ""
+                "s": "昨天他遇到了高大的男人。 (Yesterday he saw a big man.)"
             },
             {
                 "id": "zh-0226",
                 "w": "之前",
                 "p": "zhī qián",
                 "d": "before",
-                "s": ""
+                "s": "蕾拉之前在和癌症作斗争。 (Layla was battling cancer.)"
             },
             {
                 "id": "zh-0227",
                 "w": "问",
                 "p": "wèn",
                 "d": "to ask; to inquire",
-                "s": ""
+                "s": "“你感觉怎么样？”他问。 (\"How do you feel?\" he asked.)"
             },
             {
                 "id": "zh-0228",
                 "w": "妈",
                 "p": "mā",
                 "d": "ma",
-                "s": ""
+                "s": "我妈有一条红色的围裙。 (My mother has a red apron.)"
             },
             {
                 "id": "zh-0229",
                 "w": "噢",
                 "p": "ō",
                 "d": "oh; ah (used to indicate realization)",
-                "s": ""
+                "s": "噢，我忘记买豆腐了。 (Ah, I forgot to buy tofu.)"
             },
             {
                 "id": "zh-0230",
                 "w": "可是",
                 "p": "kě shì",
                 "d": "but; however",
-                "s": ""
+                "s": "我哥哥虽然矮小可是很强壮。 (My brother is small but strong.)"
             },
             {
                 "id": "zh-0231",
                 "w": "不错",
                 "p": "bù cuò",
                 "d": "correct",
-                "s": ""
+                "s": "他买了部不错的相机给我。 (He bought me a nice camera.)"
             },
             {
                 "id": "zh-0232",
                 "w": "嗨",
                 "p": "hāi",
                 "d": "oh alas",
-                "s": ""
+                "s": "嗨，我的名字是Omid。 (Hi, my name is Omid.)"
             },
             {
                 "id": "zh-0233",
                 "w": "记得",
                 "p": "jì de",
                 "d": "to remember",
-                "s": ""
+                "s": "人们可能不记得那件事了。 (People may not remember that.)"
             },
             {
                 "id": "zh-0234",
                 "w": "不用",
                 "p": "bù yòng",
                 "d": "need not",
-                "s": ""
+                "s": "我简直不用花钱就买到了。 (I got it for next to nothing.)"
             },
             {
                 "id": "zh-0235",
                 "w": "地",
                 "p": "de",
                 "d": "-ly",
-                "s": ""
+                "s": "我希望你更加努力地工作。 (I expect you to work harder.)"
             },
             {
                 "id": "zh-0236",
                 "w": "向",
                 "p": "xiàng",
                 "d": "towards",
-                "s": ""
+                "s": "她面带微笑向我们打招呼。 (She greeted us with a smile.)"
             },
             {
                 "id": "zh-0237",
                 "w": "名字",
                 "p": "míng zi",
                 "d": "name (of a person or thing)",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-0238",
                 "w": "担心",
                 "p": "dān xīn",
                 "d": "anxious",
-                "s": ""
+                "s": "不要担心。你办得到的。 (Don't worry. You'll make it.)"
             },
             {
                 "id": "zh-0239",
                 "w": "有点",
                 "p": "yǒu diǎn",
                 "d": "a little",
-                "s": ""
+                "s": "不好意思，但我有点恶心。 (Excuse me, but I feel sick.)"
             },
             {
                 "id": "zh-0240",
                 "w": "么",
                 "p": "me",
                 "d": "suffix, used to form interrogative 什麼|什么, what?, indefinite 這麼|这么 thus, etc",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-0241",
                 "w": "世界",
                 "p": "shì jiè",
                 "d": "world",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0242",
                 "w": "那样",
                 "p": "nà yàng",
                 "d": "that kind",
-                "s": ""
+                "s": "我们不再像汤姆那样年轻。 (We're not as young as Tom.)"
             },
             {
                 "id": "zh-0243",
                 "w": "认识",
                 "p": "rèn shi",
                 "d": "to know",
-                "s": ""
+                "s": "玛莉就是这么认识汤姆的。 (And that's how Mary met Tom.)"
             },
             {
                 "id": "zh-0244",
                 "w": "住",
                 "p": "zhù",
                 "d": "to live; to reside; to stay",
-                "s": ""
+                "s": "你以前住的是哪一座房子？ (Which house did you live in?)"
             },
             {
                 "id": "zh-0245",
                 "w": "新",
                 "p": "xīn",
                 "d": "new",
-                "s": ""
+                "s": "她很想要一条新的连衣裙。 (She wants a new dress badly.)"
             },
             {
                 "id": "zh-0246",
                 "w": "肯定",
                 "p": "kěn dìng",
                 "d": "to be certain; to be positive",
-                "s": ""
+                "s": "我不太肯定汤姆是对的。 (I'm not so sure Tom is right.)"
             },
             {
                 "id": "zh-0247",
                 "w": "最好",
                 "p": "zuì hǎo",
                 "d": "best",
-                "s": ""
+                "s": "我最好的朋友是菲律宾人。 (My best friend is Filipino.)"
             },
             {
                 "id": "zh-0248",
                 "w": "不行",
                 "p": "bù xíng",
                 "d": "won't do",
-                "s": ""
+                "s": "马麻，我的鸡鸡硬到不行。 (Mummy, my willy's all hard.)"
             },
             {
                 "id": "zh-0249",
                 "w": "等等",
                 "p": "děng děng",
                 "d": "et cetera",
-                "s": ""
+                "s": "我们要等等看会发生甚么。 (We'll wait and see what happens.)"
             },
             {
                 "id": "zh-0250",
                 "w": "干",
                 "p": "gàn",
                 "d": "tree trunk",
-                "s": ""
+                "s": "你确定他们可以干这个吗？ (Are you sure they can do this?)"
             },
             {
                 "id": "zh-0251",
                 "w": "父亲",
                 "p": "fù qīn",
                 "d": "father",
-                "s": ""
+                "s": "你是怎么称呼你父亲的呢？ (What do you call your father?)"
             },
             {
                 "id": "zh-0252",
                 "w": "嘛",
                 "p": "má",
                 "d": "used in 唵嘛呢叭咪吽",
-                "s": ""
+                "s": "你干嘛不穿件连衣裙呢？ (Why don't you wear a dress?)"
             },
             {
                 "id": "zh-0253",
                 "w": "出去",
                 "p": "chū qù",
                 "d": "to go out",
-                "s": ""
+                "s": "这秘密是怎么泄漏出去的？ (How did the secret get out?)"
             },
             {
                 "id": "zh-0254",
                 "w": "先",
                 "p": "xiān",
                 "d": "beforehand; first; earlier",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0255",
                 "w": "干什么",
                 "p": "gàn shén me",
                 "d": "what are you doing?",
-                "s": ""
+                "s": "你们这些家伙想去干什么？ (What are you guys going to do?)"
             },
             {
                 "id": "zh-0256",
                 "w": "医生",
                 "p": "yī shēng",
                 "d": "doctor; medical practitioner",
-                "s": ""
+                "s": "他是一个医生和一个作家。 (He is a doctor and an author.)"
             },
             {
                 "id": "zh-0257",
                 "w": "亲爱",
                 "p": "qīn ài",
                 "d": "dear",
-                "s": ""
+                "s": "你在做什么呢，亲爱的？ (What are you doing, darling?)"
             },
             {
                 "id": "zh-0258",
                 "w": "高兴",
                 "p": "gāo xìng",
                 "d": "happy",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-0259",
                 "w": "继续",
                 "p": "jì xù",
                 "d": "to continue; to proceed with; to go on with",
-                "s": ""
+                "s": "我不可能继续保持沈默了。 (I can no longer remain silent.)"
             },
             {
                 "id": "zh-0260",
                 "w": "或",
                 "p": "huò",
                 "d": "maybe",
-                "s": ""
+                "s": "空气是生命中不可或缺的。 (Air is indispensable to life.)"
             },
             {
                 "id": "zh-0261",
                 "w": "再见",
                 "p": "zài jiàn",
                 "d": "goodbye",
-                "s": ""
+                "s": "啊，他们什么时候会再见？ (Ah, when will they meet again?)"
             },
             {
                 "id": "zh-0262",
                 "w": "电话",
                 "p": "diàn huà",
                 "d": "telephone",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0263",
                 "w": "如何",
                 "p": "rú hé",
                 "d": "how",
-                "s": ""
+                "s": "可惜你不知道如何跳舞！ (What a pity you can't dance!)"
             },
             {
                 "id": "zh-0264",
                 "w": "到底",
                 "p": "dào dǐ",
                 "d": "finally",
-                "s": ""
+                "s": "他到底躲在甚么地方呢？ (I wonder where he is hiding.)"
             },
             {
                 "id": "zh-0265",
                 "w": "最后",
                 "p": "zuì hòu",
                 "d": "final; last; ultimate",
-                "s": ""
+                "s": "他是最后一个偷东西的人。 (He is the last man to steal.)"
             },
             {
                 "id": "zh-0266",
                 "w": "小姐",
                 "p": "xiǎo jie",
                 "d": "young lady",
-                "s": ""
+                "s": "汤姆斯小姐教我们的历史。 (Miss Thomas teaches us history.)"
             },
             {
                 "id": "zh-0267",
                 "w": "上帝",
                 "p": "shàng dì",
                 "d": "God",
-                "s": ""
+                "s": "上帝死了。我们杀死了他。 (God died. We killed Him.)"
             },
             {
                 "id": "zh-0268",
                 "w": "正在",
                 "p": "zhèng zài",
                 "d": "to be in the process of (doing sth); to be currently ...-ing",
-                "s": ""
+                "s": "这个女孩正在做家庭作业。 (The girl is doing homework.)"
             },
             {
                 "id": "zh-0269",
                 "w": "它们",
                 "p": "tā men",
                 "d": "they; them",
-                "s": ""
+                "s": "动物依靠它们的本能行动。 (Animals act on instinct.)"
             },
             {
                 "id": "zh-0270",
                 "w": "话",
                 "p": "huà",
                 "d": "dialect",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0271",
                 "w": "明天",
                 "p": "míng tiān",
                 "d": "tomorrow",
-                "s": ""
+                "s": "我们明天讨论这件事好吗？ (Let's discuss this tomorrow.)"
             },
             {
                 "id": "zh-0272",
                 "w": "重要",
                 "p": "zhòng yào",
                 "d": "important; significant; major",
-                "s": ""
+                "s": "诚信是一种重要的美德。 (Honesty is a capital virtue.)"
             },
             {
                 "id": "zh-0273",
                 "w": "跑",
                 "p": "pǎo",
                 "d": "to run",
-                "s": ""
+                "s": "久美子跑得跟汤姆一样快。 (Kumiko runs as fast as Tom.)"
             },
             {
                 "id": "zh-0274",
                 "w": "买",
                 "p": "mǎi",
                 "d": "to buy",
-                "s": ""
+                "s": "他买了部不错的相机给我。 (He bought me a nice camera.)"
             },
             {
                 "id": "zh-0275",
                 "w": "警察",
                 "p": "jǐng chá",
                 "d": "police; police officer",
-                "s": ""
+                "s": "为什么警察不逮捕Tom？ (Why don't the police arrest Tom?)"
             },
             {
                 "id": "zh-0276",
                 "w": "只要",
                 "p": "zhǐ yào",
                 "d": "so long as; provided; if",
-                "s": ""
+                "s": "只要你微笑，我就会快乐。 (If you smile, I'll be happy.)"
             },
             {
                 "id": "zh-0277",
                 "w": "好像",
                 "p": "hǎo xiàng",
                 "d": "as if",
-                "s": ""
+                "s": "哎呀，我们好像忘了汤姆。 (Oops, I think we forgot Tom.)"
             },
             {
                 "id": "zh-0278",
                 "w": "过去",
                 "p": "guò qù",
                 "d": "(in the) past; former; previous",
-                "s": ""
+                "s": "汤姆在沙发上昏睡过去了。 (Tom passed out on the couch.)"
             },
             {
                 "id": "zh-0279",
                 "w": "听到",
                 "p": "tīng dào",
                 "d": "to hear",
-                "s": ""
+                "s": "突然，我听到了一声喊叫。 (All at once, I heard a cry.)"
             },
             {
                 "id": "zh-0280",
                 "w": "月",
                 "p": "yuè",
                 "d": "moon",
-                "s": ""
+                "s": "二十年是一段漫长的岁月。 (Twenty years is a long time.)"
             },
             {
                 "id": "zh-0281",
                 "w": "干嘛",
                 "p": "gàn má",
                 "d": "what are you doing?",
-                "s": ""
+                "s": "你干嘛不穿件连衣裙呢？ (Why don't you wear a dress?)"
             },
             {
                 "id": "zh-0282",
                 "w": "出",
                 "p": "chū",
                 "d": "to go out; to come out",
-                "s": ""
+                "s": "他们所有的人都没有出席。 (All of them are not present.)"
             },
             {
                 "id": "zh-0283",
                 "w": "今晚",
                 "p": "jīn wǎn",
                 "d": "tonight",
-                "s": ""
+                "s": "我不知道他今晚会不会来。 (I wonder if he'll come tonight.)"
             },
             {
                 "id": "zh-0284",
                 "w": "儿子",
                 "p": "ér zi",
                 "d": "son",
-                "s": ""
+                "s": "你知道吗？汤姆有个儿子。 (Did you know Tom had a son?)"
             },
             {
                 "id": "zh-0285",
                 "w": "他妈的",
                 "p": "tā mā de",
                 "d": "(taboo curse) damn it!",
-                "s": ""
+                "s": "肯塔基尖声叫著＂他妈的＂。 (Kentucky screams \"fuck\".)"
             },
             {
                 "id": "zh-0286",
                 "w": "怎样",
                 "p": "zěn yàng",
                 "d": "how",
-                "s": ""
+                "s": "汤姆不知道怎样玩得开心。 (Tom doesn't know how to have fun.)"
             },
             {
                 "id": "zh-0287",
                 "w": "哪儿",
                 "p": "nǎ r",
                 "d": "where?",
-                "s": ""
+                "s": "汤姆告诉了我玛丽住哪儿。 (Tom told me where Mary lives.)"
             },
             {
                 "id": "zh-0288",
                 "w": "回家",
                 "p": "huí jiā",
                 "d": "to return home",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-0289",
                 "w": "多少",
                 "p": "duō shǎo",
                 "d": "number; amount",
-                "s": ""
+                "s": "这台电脑你用多少钱买的？ (How much was your new computer?)"
             },
             {
                 "id": "zh-0290",
                 "w": "却",
                 "p": "què",
                 "d": "but",
-                "s": ""
+                "s": "金属冷却的时候会收缩。 (Metals contract when they cool.)"
             },
             {
                 "id": "zh-0291",
                 "w": "要是",
                 "p": "yào shi",
                 "d": "(coll.) if",
-                "s": ""
+                "s": "要是他不同意，他就会说。 (He’ll say if he doesn’t agree.)"
             },
             {
                 "id": "zh-0292",
                 "w": "美国",
                 "p": "měi guó",
                 "d": "United States; USA; US",
-                "s": ""
+                "s": "玛丽给了我一个美国娃娃。 (Mary gave me an American doll.)"
             },
             {
                 "id": "zh-0293",
                 "w": "女孩",
                 "p": "nǚ hái",
                 "d": "girl; lass",
-                "s": ""
+                "s": "露西是一个漂亮的小女孩。 (Lucy is a pretty little girl.)"
             },
             {
                 "id": "zh-0294",
                 "w": "所",
                 "p": "suǒ",
                 "d": "actually",
-                "s": ""
+                "s": "太热了所以我们无法工作。 (It's too hot for us to work.)"
             },
             {
                 "id": "zh-0295",
                 "w": "马上",
                 "p": "mǎ shàng",
                 "d": "at once",
-                "s": ""
+                "s": "汤姆告诉我他会马上回来。 (Tom told me he'd be right back.)"
             },
             {
                 "id": "zh-0296",
                 "w": "以前",
                 "p": "yǐ qián",
                 "d": "before",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0297",
                 "w": "写",
                 "p": "xiě",
                 "d": "to write",
-                "s": ""
+                "s": "他有用英文写日记的习惯。 (He keeps a diary in English.)"
             },
             {
                 "id": "zh-0298",
                 "w": "说话",
                 "p": "shuō huà",
                 "d": "to speak",
-                "s": ""
+                "s": "梅纳德不能和任何人说话。 (Mennad can't talk to anyone.)"
             },
             {
                 "id": "zh-0299",
                 "w": "永远",
                 "p": "yǒng yuǎn",
                 "d": "forever",
-                "s": ""
+                "s": "她永远也做不到保守秘密。 (She can never keep a secret.)"
             },
             {
                 "id": "zh-0300",
                 "w": "看见",
                 "p": "kàn jiàn",
                 "d": "to see; to catch sight of",
-                "s": ""
+                "s": "我看见一个长头发的女生。 (I saw a girl with long hair.)"
             },
             {
                 "id": "zh-0301",
                 "w": "家",
                 "p": "jiā",
                 "d": "home",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-0302",
                 "w": "看起来",
                 "p": "kàn qǐ lai",
                 "d": "seemingly; apparently; looks as if; appears to be; gives the impression that; seems on the face of it to be",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0303",
                 "w": "完全",
                 "p": "wán quán",
                 "d": "complete; whole",
-                "s": ""
+                "s": "这个问题已经完全解决了。 (The matter is all settled.)"
             },
             {
                 "id": "zh-0304",
                 "w": "情况",
                 "p": "qíng kuàng",
                 "d": "circumstances; state of affairs; situation",
-                "s": ""
+                "s": "我没把真实情况全说出来。 (I didn't tell the whole truth.)"
             },
             {
                 "id": "zh-0305",
                 "w": "该死",
                 "p": "gāi sǐ",
                 "d": "Damn it!",
-                "s": ""
+                "s": "该死的！你吓了我一大跳！ (Shit! You scared me half to death!)"
             },
             {
                 "id": "zh-0306",
                 "w": "成为",
                 "p": "chéng wéi",
                 "d": "to become; to turn into",
-                "s": ""
+                "s": "不是每个人都能成为诗人。 (Not everyone can be a poet.)"
             },
             {
                 "id": "zh-0307",
                 "w": "回去",
                 "p": "huí qu",
                 "d": "to return",
-                "s": ""
+                "s": "这只蜗牛将触角缩了回去。 (The snail draws in its feelers.)"
             },
             {
                 "id": "zh-0308",
                 "w": "别人",
                 "p": "bié ren",
                 "d": "other people; others; other person",
-                "s": ""
+                "s": "他无非是别人的跟屁虫。 (He is only someone's stooge.)"
             },
             {
                 "id": "zh-0309",
                 "w": "以",
                 "p": "yǐ",
                 "d": "to use",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0310",
                 "w": "其他",
                 "p": "qí tā",
                 "d": "other",
-                "s": ""
+                "s": "对其他人你应该和善一点。 (You should be kind to others.)"
             },
             {
                 "id": "zh-0311",
                 "w": "家伙",
                 "p": "jiā huo",
                 "d": "household dish, implement or furniture",
-                "s": ""
+                "s": "你们这些家伙想去干什么？ (What are you guys going to do?)"
             },
             {
                 "id": "zh-0312",
                 "w": "之后",
                 "p": "zhī hòu",
                 "d": "after; behind",
-                "s": ""
+                "s": "晚餐之后你才可以看电视。 (You can watch TV after supper.)"
             },
             {
                 "id": "zh-0313",
                 "w": "结束",
                 "p": "jié shù",
                 "d": "to end; to finish; to conclude",
-                "s": ""
+                "s": "你们已经把工作结束了吗？ (Have you finished the work yet?)"
             },
             {
                 "id": "zh-0314",
                 "w": "没什么",
                 "p": "méi shén me",
                 "d": "it doesn't matter; it's nothing; never mind",
-                "s": ""
+                "s": "关于这一点没什么可说的。 (Nothing much to say about that.)"
             },
             {
                 "id": "zh-0315",
                 "w": "或者",
                 "p": "huò zhě",
                 "d": "or",
-                "s": ""
+                "s": "我们喝葡萄酒或者啤酒吧。 (Let's drink wine or beer.)"
             },
             {
                 "id": "zh-0316",
                 "w": "机会",
                 "p": "jī huì",
                 "d": "opportunity",
-                "s": ""
+                "s": "我们再给她们一次机会吧。 (Let's give them another chance.)"
             },
             {
                 "id": "zh-0317",
                 "w": "错",
                 "p": "cuò",
                 "d": "mistake",
-                "s": ""
+                "s": "我们试图让手指互相交错。 (We kept our fingers crossed.)"
             },
             {
                 "id": "zh-0318",
                 "w": "决定",
                 "p": "jué dìng",
                 "d": "to decide; to determine; to make up one's mind",
-                "s": ""
+                "s": "汤姆只有一周时间做决定。 (Tom has only a week to decide.)"
             },
             {
                 "id": "zh-0319",
                 "w": "了解",
                 "p": "liǎo jiě",
                 "d": "to understand; to know about",
-                "s": ""
+                "s": "好的！所有人都了解了吗？ (Okay! Does everyone understand?)"
             },
             {
                 "id": "zh-0320",
                 "w": "确定",
                 "p": "què dìng",
                 "d": "definite",
-                "s": ""
+                "s": "我不确定汤姆能不能帮忙。 (I'm not sure Tom would help.)"
             },
             {
                 "id": "zh-0321",
                 "w": "小心",
                 "p": "xiǎo xīn",
                 "d": "to be careful",
-                "s": ""
+                "s": "我不小心打落了一个花瓶。 (I carelessly dropped a vase.)"
             },
             {
                 "id": "zh-0322",
                 "w": "还好",
                 "p": "hái hǎo",
                 "d": "not bad; pretty good",
-                "s": ""
+                "s": "你看起来病怏怏的，还好吗？ (You look sick; are you alright?)"
             },
             {
                 "id": "zh-0323",
                 "w": "总是",
                 "p": "zǒng shì",
                 "d": "always",
-                "s": ""
+                "s": "你总是跟蜜蜂一样地忙碌。 (You're always as busy as a bee.)"
             },
             {
                 "id": "zh-0324",
                 "w": "行",
                 "p": "xíng",
                 "d": "(bound form) to walk; to go; to travel",
-                "s": ""
+                "s": "她推迟了去墨西哥的行程。 (She put off going to Mexico.)"
             },
             {
                 "id": "zh-0325",
                 "w": "号",
                 "p": "hào",
                 "d": "(literary) to call out; to command",
-                "s": ""
+                "s": "萨米对莱拉大声发号施令。 (Sami barked orders at Layla.)"
             },
             {
                 "id": "zh-0326",
                 "w": "无法",
                 "p": "wú fǎ",
                 "d": "unable to; incapable of",
-                "s": ""
+                "s": "太热了所以我们无法工作。 (It's too hot for us to work.)"
             },
             {
                 "id": "zh-0327",
@@ -2302,350 +2302,350 @@
                 "w": "不到",
                 "p": "bù dào",
                 "d": "not to arrive",
-                "s": ""
+                "s": "她永远也做不到保守秘密。 (She can never keep a secret.)"
             },
             {
                 "id": "zh-0329",
                 "w": "送",
                 "p": "sòng",
                 "d": "to send; to deliver; to transmit",
-                "s": ""
+                "s": "我打算把这块手表送给你。 (This watch is meant for you.)"
             },
             {
                 "id": "zh-0330",
                 "w": "帮助",
                 "p": "bāng zhù",
                 "d": "assistance; aid",
-                "s": ""
+                "s": "没有他的帮助，我会失败。 (Without his help, I will fail.)"
             },
             {
                 "id": "zh-0331",
                 "w": "办法",
                 "p": "bàn fǎ",
                 "d": "way of handling sth; means; measure; (practical) solution to a problem",
-                "s": ""
+                "s": "那就是他们学英语的办法。 (That's how they learnt English.)"
             },
             {
                 "id": "zh-0332",
                 "w": "玩",
                 "p": "wán",
                 "d": "to play",
-                "s": ""
+                "s": "他这春天开始玩高尔夫球。 (He took up golf this spring.)"
             },
             {
                 "id": "zh-0333",
                 "w": "见到",
                 "p": "jiàn dào",
                 "d": "to see",
-                "s": ""
+                "s": "在这里见到您真是太好了。 (It was nice meeting you here.)"
             },
             {
                 "id": "zh-0334",
                 "w": "小时",
                 "p": "xiǎo shí",
                 "d": "hour",
-                "s": ""
+                "s": "这个会议持续了两个小时。 (The meeting lasted two hours.)"
             },
             {
                 "id": "zh-0335",
                 "w": "放",
                 "p": "fàng",
                 "d": "to put",
-                "s": ""
+                "s": "我想把我的车停放在那里。 (I want to keep my car there.)"
             },
             {
                 "id": "zh-0336",
                 "w": "晚上",
                 "p": "wǎn shang",
                 "d": "evening",
-                "s": ""
+                "s": "我们今天晚上可以运送它。 (We can deliver it this evening.)"
             },
             {
                 "id": "zh-0337",
                 "w": "喝",
                 "p": "hē",
                 "d": "to drink",
-                "s": ""
+                "s": "你酒喝得太醉了不能开车。 (You're too drunk to drive.)"
             },
             {
                 "id": "zh-0338",
                 "w": "好好",
                 "p": "hǎo hǎo",
                 "d": "in perfectly good condition; perfectly all right",
-                "s": ""
+                "s": "您能好好给我们照一张相吗？ (Can you take a picture of us?)"
             },
             {
                 "id": "zh-0339",
                 "w": "打电话",
                 "p": "dǎ diàn huà",
                 "d": "to make a telephone call",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0340",
                 "w": "开",
                 "p": "kāi",
                 "d": "to open (transitive or intransitive)",
-                "s": ""
+                "s": "他这春天开始玩高尔夫球。 (He took up golf this spring.)"
             },
             {
                 "id": "zh-0341",
                 "w": "如此",
                 "p": "rú cǐ",
                 "d": "like this; so; such",
-                "s": ""
+                "s": "我希望事情并非如此。 (I hope that is not the case.)"
             },
             {
                 "id": "zh-0342",
                 "w": "里面",
                 "p": "lǐ miàn",
                 "d": "inside",
-                "s": ""
+                "s": "这些照片是在里面拍的吗？ (Were these pictures taken inside?)"
             },
             {
                 "id": "zh-0343",
                 "w": "坐",
                 "p": "zuò",
                 "d": "to sit",
-                "s": ""
+                "s": "你是否坐公共汽车去上学？ (Do you go to school by bus?)"
             },
             {
                 "id": "zh-0344",
                 "w": "女儿",
                 "p": "nǚ ér",
                 "d": "daughter",
-                "s": ""
+                "s": "他为自己的女儿感到骄傲。 (He was proud of his daughter.)"
             },
             {
                 "id": "zh-0345",
                 "w": "有没有",
                 "p": "yǒu méi yǒu",
                 "d": "(before a noun) Do (you, they etc) have ...?",
-                "s": ""
+                "s": "你有没有看那本厚厚的书？ (Did you read that thick book?)"
             },
             {
                 "id": "zh-0346",
                 "w": "兄弟",
                 "p": "xiōng dì",
                 "d": "brothers",
-                "s": ""
+                "s": "John和我的兄弟同岁。 (John is as old as my brother.)"
             },
             {
                 "id": "zh-0347",
                 "w": "已",
                 "p": "yǐ",
                 "d": "already",
-                "s": ""
+                "s": "Ken 已经去了英格兰。 (Ken already went to England.)"
             },
             {
                 "id": "zh-0348",
                 "w": "安全",
                 "p": "ān quán",
                 "d": "safe; secure",
-                "s": ""
+                "s": "无论何时都要扣好安全带。 (Always fasten your seatbelt.)"
             },
             {
                 "id": "zh-0349",
                 "w": "其实",
                 "p": "qí shí",
                 "d": "actually; in fact; really",
-                "s": ""
+                "s": "那其实也没那么奇怪，对吧？ (It's not that weird, is it?)"
             },
             {
                 "id": "zh-0350",
                 "w": "拜托",
                 "p": "bài tuō",
                 "d": "to request sb to do sth",
-                "s": ""
+                "s": "拜托您，请给我一张签证。 (I beg you, give me a visa.)"
             },
             {
                 "id": "zh-0351",
                 "w": "计划",
                 "p": "jì huà",
                 "d": "plan",
-                "s": ""
+                "s": "这样的计划注定会失败的。 (Such a plan is bound to fail.)"
             },
             {
                 "id": "zh-0352",
                 "w": "穿",
                 "p": "chuān",
                 "d": "to bore through; to pierce; to perforate",
-                "s": ""
+                "s": "她穿了一件宽松的长外套。 (She wore a long, loose coat.)"
             },
             {
                 "id": "zh-0353",
                 "w": "呃",
                 "p": "è",
                 "d": "(exclamation)",
-                "s": ""
+                "s": "呃，我能待在这吗？ (Erm, may I stay here?)"
             },
             {
                 "id": "zh-0354",
                 "w": "怎么办",
                 "p": "zěn me bàn",
                 "d": "what's to be done",
-                "s": ""
+                "s": "如果有人看见我们怎么办？ (And what if someone sees us?)"
             },
             {
                 "id": "zh-0355",
                 "w": "每个",
                 "p": "měi ge",
                 "d": "each; every",
-                "s": ""
+                "s": "我认识的每个人都用谷歌。 (Everyone I know uses Google.)"
             },
             {
                 "id": "zh-0356",
                 "w": "关于",
                 "p": "guān yú",
                 "d": "pertaining to",
-                "s": ""
+                "s": "她写了一本关于鸟类的书。 (She wrote a book about birds.)"
             },
             {
                 "id": "zh-0357",
                 "w": "站",
                 "p": "zhàn",
                 "d": "station",
-                "s": ""
+                "s": "看见那样, 他站了起来。 (Seeing that, he stood up.)"
             },
             {
                 "id": "zh-0358",
                 "w": "清楚",
                 "p": "qīng chu",
                 "d": "clear",
-                "s": ""
+                "s": "我会向你全部解释清楚的。 (I'll explain everything to you.)"
             },
             {
                 "id": "zh-0359",
                 "w": "有些",
                 "p": "yǒu xiē",
                 "d": "some",
-                "s": ""
+                "s": "这个系统有些明显的缺陷。 (This system has obvious defects.)"
             },
             {
                 "id": "zh-0360",
                 "w": "那边",
                 "p": "nà bian",
                 "d": "over there",
-                "s": ""
+                "s": "那边的报纸，你给他送去。 (Send that newspaper to him.)"
             },
             {
                 "id": "zh-0361",
                 "w": "长官",
                 "p": "zhǎng guān",
                 "d": "senior official",
-                "s": ""
+                "s": "我认识了这位行政长官。 (I got acquainted with the chief executive.)"
             },
             {
                 "id": "zh-0362",
                 "w": "公司",
                 "p": "gōng sī",
                 "d": "company; firm; corporation",
-                "s": ""
+                "s": "他的公司2005年开的。 (His company was set up in 2005.)"
             },
             {
                 "id": "zh-0363",
                 "w": "宝贝",
                 "p": "bǎo bèi",
                 "d": "treasured object",
-                "s": ""
+                "s": "这个球是那个男孩的宝贝。 (This ball is that boy's treasure.)"
             },
             {
                 "id": "zh-0364",
                 "w": "进来",
                 "p": "jìn lái",
                 "d": "to come in",
-                "s": ""
+                "s": "我没想要让你牵扯进来。 (I didn't mean to involve you.)"
             },
             {
                 "id": "zh-0365",
                 "w": "房子",
                 "p": "fáng zi",
                 "d": "house",
-                "s": ""
+                "s": "弗雷德的房子有五间房间。 (Fred's house has five rooms.)"
             },
             {
                 "id": "zh-0366",
                 "w": "根本",
                 "p": "gēn běn",
                 "d": "fundamental",
-                "s": ""
+                "s": "根本就没实施过逮捕行动。 (No arrests were ever made.)"
             },
             {
                 "id": "zh-0367",
                 "w": "懂",
                 "p": "dǒng",
                 "d": "to understand",
-                "s": ""
+                "s": "连汤姆都听懂了这个笑话。 (Even Tom understood the joke.)"
             },
             {
                 "id": "zh-0368",
                 "w": "不管",
                 "p": "bù guǎn",
                 "d": "not to be concerned",
-                "s": ""
+                "s": "不管怎样，你永远不会知道。 (Anyway, you'll never know.)"
             },
             {
                 "id": "zh-0369",
                 "w": "混蛋",
                 "p": "hún dàn",
                 "d": "scoundrel",
-                "s": ""
+                "s": "我如果能找到他，我要杀了那个混蛋。 (If I find him, I'll kill the bastard.)"
             },
             {
                 "id": "zh-0370",
                 "w": "人们",
                 "p": "rén men",
                 "d": "people",
-                "s": ""
+                "s": "人们可能不记得那件事了。 (People may not remember that.)"
             },
             {
                 "id": "zh-0371",
                 "w": "搞",
                 "p": "gǎo",
                 "d": "to do",
-                "s": ""
+                "s": "我把我的信用卡搞丢了。 (I have lost my credit card.)"
             },
             {
                 "id": "zh-0372",
                 "w": "唯一",
                 "p": "wéi yī",
                 "d": "only; sole",
-                "s": ""
+                "s": "汤姆是玛丽的唯一个儿童。 (Tom was Mary's only child.)"
             },
             {
                 "id": "zh-0373",
                 "w": "车",
                 "p": "chē",
                 "d": "car",
-                "s": ""
+                "s": "我让他修理了我的脚踏车。 (I got him to fix my bicycle.)"
             },
             {
                 "id": "zh-0374",
                 "w": "麻烦",
                 "p": "má fan",
                 "d": "trouble; inconvenience",
-                "s": ""
+                "s": "麻烦你叫我起床吃早餐啦。 (Please wake me for breakfast.)"
             },
             {
                 "id": "zh-0375",
                 "w": "枪",
                 "p": "qiāng",
                 "d": "gun",
-                "s": ""
+                "s": "我把我的手枪指向了目标。 (I aimed my gun at the target.)"
             },
             {
                 "id": "zh-0376",
                 "w": "怎么回事",
                 "p": "zěn me huí shì",
                 "d": "what's the matter?",
-                "s": ""
+                "s": "你跟摩托车到底怎么回事？ (What is it with you and motorbikes?)"
             },
             {
                 "id": "zh-0377",
                 "w": "漂亮",
                 "p": "piào liang",
                 "d": "pretty; beautiful",
-                "s": ""
+                "s": "露西是一个漂亮的小女孩。 (Lucy is a pretty little girl.)"
             },
             {
                 "id": "zh-0378",
@@ -2659,4844 +2659,4844 @@
                 "w": "一种",
                 "p": "yī zhǒng",
                 "d": "one kind of; one type of",
-                "s": ""
+                "s": "这是一种好棒的治疗方法。 (This is a great type of cure.)"
             },
             {
                 "id": "zh-0380",
                 "w": "那儿",
                 "p": "nà r",
                 "d": "there",
-                "s": ""
+                "s": "我所有的朋友都会到那儿。 (All my friends will be there.)"
             },
             {
                 "id": "zh-0381",
                 "w": "母亲",
                 "p": "mǔ qīn",
                 "d": "mother",
-                "s": ""
+                "s": "他把我误认为是我的母亲。 (He mistook me for my mother.)"
             },
             {
                 "id": "zh-0382",
                 "w": "房间",
                 "p": "fáng jiān",
                 "d": "room",
-                "s": ""
+                "s": "弗雷德的房子有五间房间。 (Fred's house has five rooms.)"
             },
             {
                 "id": "zh-0383",
                 "w": "改变",
                 "p": "gǎi biàn",
                 "d": "to change",
-                "s": ""
+                "s": "汤姆的生活被彻底改变了。 (Tom's life was changed forever.)"
             },
             {
                 "id": "zh-0384",
                 "w": "愿意",
                 "p": "yuàn yì",
                 "d": "to wish",
-                "s": ""
+                "s": "我更愿意贫穷而不是富裕。 (I'd rather be poor than rich.)"
             },
             {
                 "id": "zh-0385",
                 "w": "下来",
                 "p": "xià lai",
                 "d": "to come down",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-0386",
                 "w": "真正",
                 "p": "zhēn zhèng",
                 "d": "genuine; real; true",
-                "s": ""
+                "s": "没有甚么是真正有保证的。 (Nothing is really guaranteed.)"
             },
             {
                 "id": "zh-0387",
                 "w": "甚至",
                 "p": "shèn zhì",
                 "d": "even; so much so that",
-                "s": ""
+                "s": "甚至在夏天，这里都很冷。 (It's cold here even in summer.)"
             },
             {
                 "id": "zh-0388",
                 "w": "弄",
                 "p": "nòng",
                 "d": "to do",
-                "s": ""
+                "s": "这个男孩把他的手弄脏了。 (The boy got his hands dirty.)"
             },
             {
                 "id": "zh-0389",
                 "w": "不好",
                 "p": "bù hǎo",
                 "d": "no good",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0390",
                 "w": "回",
                 "p": "huí",
                 "d": "to go back; to return; to turn back; to turn around",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-0391",
                 "w": "喔",
                 "p": "ō",
                 "d": "(interjection) oh; I see (used to indicate realization, understanding)",
-                "s": ""
+                "s": "喔！你提到一个重点了。 (You have a point there.)"
             },
             {
                 "id": "zh-0392",
                 "w": "夫人",
                 "p": "fū ren",
                 "d": "lady",
-                "s": ""
+                "s": "这位就是谁想见你的夫人。 (This is the lady who wants to see you.)"
             },
             {
                 "id": "zh-0393",
                 "w": "之",
                 "p": "zhī",
                 "d": "(possessive particle, literary equivalent of 的)",
-                "s": ""
+                "s": "汤姆除了去之外别无选择。 (Tom has no choice but to go.)"
             },
             {
                 "id": "zh-0394",
                 "w": "进去",
                 "p": "jìn qù",
                 "d": "to go in",
-                "s": ""
+                "s": "他断然地拒绝让我进去。 (He flatly refused to let me in.)"
             },
             {
                 "id": "zh-0395",
                 "w": "疯",
                 "p": "fēng",
                 "d": "insane",
-                "s": ""
+                "s": "世界就是一个疯子的囚笼。 (The world is a den of crazies.)"
             },
             {
                 "id": "zh-0396",
                 "w": "睡",
                 "p": "shuì",
                 "d": "to sleep",
-                "s": ""
+                "s": "我发觉男孩儿酣然入睡了。 (I found the boy fast asleep.)"
             },
             {
                 "id": "zh-0397",
                 "w": "哇",
                 "p": "wā",
                 "d": "Wow!",
-                "s": ""
+                "s": "哇! 好久不见了。 (Wow! It's been a long time.)"
             },
             {
                 "id": "zh-0398",
                 "w": "岁",
                 "p": "suì",
                 "d": "years old",
-                "s": ""
+                "s": "二十年是一段漫长的岁月。 (Twenty years is a long time.)"
             },
             {
                 "id": "zh-0399",
                 "w": "就要",
                 "p": "jiù yào",
                 "d": "will",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0400",
                 "w": "打算",
                 "p": "dǎ suàn",
                 "d": "to plan",
-                "s": ""
+                "s": "我打算把这块手表送给你。 (This watch is meant for you.)"
             },
             {
                 "id": "zh-0401",
                 "w": "完",
                 "p": "wán",
                 "d": "to finish",
-                "s": ""
+                "s": "这个问题已经完全解决了。 (The matter is all settled.)"
             },
             {
                 "id": "zh-0402",
                 "w": "故事",
                 "p": "gù shì",
                 "d": "old practice",
-                "s": ""
+                "s": "他跟我讲了他的人生故事。 (He told me his life's story.)"
             },
             {
                 "id": "zh-0403",
                 "w": "当时",
                 "p": "dāng shí",
                 "d": "then; at that time",
-                "s": ""
+                "s": "我们当时必须得做个决定。 (We had to make a decision.)"
             },
             {
                 "id": "zh-0404",
                 "w": "几个",
                 "p": "jǐ ge",
                 "d": "a few",
-                "s": ""
+                "s": "我们已经等了好几个小时了。 (We’ve been waiting for hours.)"
             },
             {
                 "id": "zh-0405",
                 "w": "害怕",
                 "p": "hài pà",
                 "d": "to be afraid; to be scared",
-                "s": ""
+                "s": "这里每一个人都害怕你。 (Everyone here is afraid of you.)"
             },
             {
                 "id": "zh-0406",
                 "w": "刚才",
                 "p": "gāng cái",
                 "d": "just now",
-                "s": ""
+                "s": "我刚才吃了寿司喝了啤酒。 (I just ate sushi and drank beer.)"
             },
             {
                 "id": "zh-0407",
                 "w": "结婚",
                 "p": "jié hūn",
                 "d": "to marry; to get married",
-                "s": ""
+                "s": "我宁愿死也不要跟你结婚！ (I'd rather die than marry you!)"
             },
             {
                 "id": "zh-0408",
                 "w": "选择",
                 "p": "xuǎn zé",
                 "d": "to select; to pick",
-                "s": ""
+                "s": "汤姆除了去之外别无选择。 (Tom has no choice but to go.)"
             },
             {
                 "id": "zh-0409",
                 "w": "救",
                 "p": "jiù",
                 "d": "to save",
-                "s": ""
+                "s": "汤姆把她从火灾中救了出来。 (Tom saved her from the fire.)"
             },
             {
                 "id": "zh-0410",
                 "w": "手",
                 "p": "shǒu",
                 "d": "hand",
-                "s": ""
+                "s": "这个男孩把他的手弄脏了。 (The boy got his hands dirty.)"
             },
             {
                 "id": "zh-0411",
                 "w": "保护",
                 "p": "bǎo hù",
                 "d": "to protect",
-                "s": ""
+                "s": "你不要担心，我会保护你的。 (Don't worry. I'll protect you.)"
             },
             {
                 "id": "zh-0412",
                 "w": "虽然",
                 "p": "suī rán",
                 "d": "although; even though (often used correlatively with 可是 or 但是 etc)",
-                "s": ""
+                "s": "虽然他很有钱，但他不幸福。 (He's rich, but he isn't happy.)"
             },
             {
                 "id": "zh-0413",
                 "w": "由",
                 "p": "yóu",
                 "d": "to follow",
-                "s": ""
+                "s": "我邀请了肯，比尔和由美。 (I invited Ken, Bill and Yumi.)"
             },
             {
                 "id": "zh-0414",
                 "w": "衣服",
                 "p": "yī fu",
                 "d": "clothes",
-                "s": ""
+                "s": "蕾拉脱了衣服，赚到了钱。 (Layla stripped and made money.)"
             },
             {
                 "id": "zh-0415",
                 "w": "另",
                 "p": "lìng",
                 "d": "other",
-                "s": ""
+                "s": "我有另一个朋友在中国里。 (I have another friend in China.)"
             },
             {
                 "id": "zh-0416",
                 "w": "出现",
                 "p": "chū xiàn",
                 "d": "to appear",
-                "s": ""
+                "s": "比尔没有在派对上出现。 (Bill didn't turn up at the party.)"
             },
             {
                 "id": "zh-0417",
                 "w": "听说",
                 "p": "tīng shuō",
                 "d": "to hear (sth said)",
-                "s": ""
+                "s": "我听说，你想来见我了吗？ (I hear you wanted to see me?)"
             },
             {
                 "id": "zh-0418",
                 "w": "不了",
                 "p": "bù le",
                 "d": "no thanks (used to politely but informally decline)",
-                "s": ""
+                "s": "我受不了她没完没了的爱。 (I cannot bear her endless love.)"
             },
             {
                 "id": "zh-0419",
                 "w": "注意",
                 "p": "zhù yì",
                 "d": "to take note of; to pay attention to",
-                "s": ""
+                "s": "汤姆只是想引起你的注意。 (Tom just wants your attention.)"
             },
             {
                 "id": "zh-0420",
                 "w": "没关系",
                 "p": "méi guān xi",
                 "d": "it doesn't matter",
-                "s": ""
+                "s": "我想那应该没关系的。 (I guess that would be all right.)"
             },
             {
                 "id": "zh-0421",
                 "w": "那种",
                 "p": "nà zhǒng",
                 "d": "that kind of",
-                "s": ""
+                "s": "那种表达方式已经过时了。 (That expression is archaic.)"
             },
             {
                 "id": "zh-0422",
                 "w": "接受",
                 "p": "jiē shòu",
                 "d": "to accept (a suggestion, punishment, bribe etc); to acquiesce",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-0423",
                 "w": "或许",
                 "p": "huò xǔ",
                 "d": "perhaps; maybe",
-                "s": ""
+                "s": "这或许是个不好的例子。 (Maybe this is a bad example.)"
             },
             {
                 "id": "zh-0424",
                 "w": "妻子",
                 "p": "qī zǐ",
                 "d": "wife and children",
-                "s": ""
+                "s": "他的妻子是我的一个朋友。 (His wife's a friend of mine.)"
             },
             {
                 "id": "zh-0425",
                 "w": "老",
                 "p": "lǎo",
                 "d": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
-                "s": ""
+                "s": "我对这个世界来说太老了。 (I am too old for this world.)"
             },
             {
                 "id": "zh-0426",
                 "w": "特别",
                 "p": "tè bié",
                 "d": "unusual; special",
-                "s": ""
+                "s": "圣诞节是一个特别的节日。 (Christmas is a special holiday.)"
             },
             {
                 "id": "zh-0427",
                 "w": "失去",
                 "p": "shī qù",
                 "d": "to lose",
-                "s": ""
+                "s": "Tom失去平衡并跌到了。 (Tom lost his balance and fell.)"
             },
             {
                 "id": "zh-0428",
                 "w": "整个",
                 "p": "zhěng gè",
                 "d": "whole",
-                "s": ""
+                "s": "汤姆不会整个早上都在这。 (Tom won't be here all morning.)"
             },
             {
                 "id": "zh-0429",
                 "w": "回到",
                 "p": "huí dào",
                 "d": "to return to",
-                "s": ""
+                "s": "请回到你们各自的座位。 (Go to your respective seats.)"
             },
             {
                 "id": "zh-0430",
                 "w": "保证",
                 "p": "bǎo zhèng",
                 "d": "guarantee",
-                "s": ""
+                "s": "没有甚么是真正有保证的。 (Nothing is really guaranteed.)"
             },
             {
                 "id": "zh-0431",
                 "w": "以后",
                 "p": "yǐ hòu",
                 "d": "after",
-                "s": ""
+                "s": "你以后再也不会看到它了。 (You'll never see that again.)"
             },
             {
                 "id": "zh-0432",
                 "w": "国家",
                 "p": "guó jiā",
                 "d": "country; nation; state",
-                "s": ""
+                "s": "澳大利亚是个很棒的国家。 (Australia is a great country.)"
             },
             {
                 "id": "zh-0433",
                 "w": "变成",
                 "p": "biàn chéng",
                 "d": "to change into",
-                "s": ""
+                "s": "他们把这本小说变成戏剧。 (They made the novel into a drama.)"
             },
             {
                 "id": "zh-0434",
                 "w": "难道",
                 "p": "nán dào",
                 "d": "don't tell me ...",
-                "s": ""
+                "s": "他把我忘了，难道不是吗？ (He forgot about me, didn't he?)"
             },
             {
                 "id": "zh-0435",
                 "w": "她们",
                 "p": "tā men",
                 "d": "they; them (females)",
-                "s": ""
+                "s": "我们再给她们一次机会吧。 (Let's give them another chance.)"
             },
             {
                 "id": "zh-0436",
                 "w": "从来",
                 "p": "cóng lái",
                 "d": "always",
-                "s": ""
+                "s": "我母亲从来没有惩罚过我。 (My mother never punishes me.)"
             },
             {
                 "id": "zh-0437",
                 "w": "是否",
                 "p": "shì fǒu",
                 "d": "whether (or not)",
-                "s": ""
+                "s": "你是否坐公共汽车去上学？ (Do you go to school by bus?)"
             },
             {
                 "id": "zh-0438",
                 "w": "生命",
                 "p": "shēng mìng",
                 "d": "life (as the characteristic of living beings)",
-                "s": ""
+                "s": "空气是生命中不可或缺的。 (Air is indispensable to life.)"
             },
             {
                 "id": "zh-0439",
                 "w": "忙",
                 "p": "máng",
                 "d": "busy",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0440",
                 "w": "开心",
                 "p": "kāi xīn",
                 "d": "to feel happy",
-                "s": ""
+                "s": "汤姆看起来一点也不开心。 (Tom didn't look happy at all.)"
             },
             {
                 "id": "zh-0441",
                 "w": "关系",
                 "p": "guān xi",
                 "d": "relation; relationship; connection",
-                "s": ""
+                "s": "汤姆认为他跟我有关系。 (Tom thinks he's related to me.)"
             },
             {
                 "id": "zh-0442",
                 "w": "抓",
                 "p": "zhuā",
                 "d": "to grab",
-                "s": ""
+                "s": "我们设了个陷阱来抓狐狸。 (We set a trap to catch a fox.)"
             },
             {
                 "id": "zh-0443",
                 "w": "女士",
                 "p": "nǚ shì",
                 "d": "lady",
-                "s": ""
+                "s": "请为这位女士叫辆出租车。 (Please call this lady a taxi.)"
             },
             {
                 "id": "zh-0444",
                 "w": "学校",
                 "p": "xué xiào",
                 "d": "school",
-                "s": ""
+                "s": "他把他的狗带到学校去了。 (He brought his dog to school.)"
             },
             {
                 "id": "zh-0445",
                 "w": "样子",
                 "p": "yàng zi",
                 "d": "appearance",
-                "s": ""
+                "s": "我不喜欢他讲话的样子。 (I don't like the way he talks.)"
             },
             {
                 "id": "zh-0446",
                 "w": "原因",
                 "p": "yuán yīn",
                 "d": "cause",
-                "s": ""
+                "s": "那就是我生他的气的原因。 (That is why I am angry with him.)"
             },
             {
                 "id": "zh-0447",
                 "w": "电影",
                 "p": "diàn yǐng",
                 "d": "movie; film",
-                "s": ""
+                "s": "你从来没看过那部电影吗？ (Have you never seen that movie?)"
             },
             {
                 "id": "zh-0448",
                 "w": "笑",
                 "p": "xiào",
                 "d": "to laugh; to smile",
-                "s": ""
+                "s": "他这么说就是为了开玩笑。 (He said it merely as a joke.)"
             },
             {
                 "id": "zh-0449",
                 "w": "谈谈",
                 "p": "tán tán",
                 "d": "to discuss; to have a chat",
-                "s": ""
+                "s": "我们能去别的地方谈谈吗？ (Could we go somewhere and talk?)"
             },
             {
                 "id": "zh-0450",
                 "w": "危险",
                 "p": "wēi xiǎn",
                 "d": "danger",
-                "s": ""
+                "s": "他没有意识到自己有危险。 (He was not aware of the danger.)"
             },
             {
                 "id": "zh-0451",
                 "w": "欢迎",
                 "p": "huān yíng",
                 "d": "to welcome",
-                "s": ""
+                "s": "Bob在学校里很受欢迎。 (Bob is popular at school.)"
             },
             {
                 "id": "zh-0452",
                 "w": "进行",
                 "p": "jìn xíng",
                 "d": "(of a process etc) to proceed; to be in progress; to be underway",
-                "s": ""
+                "s": "我们昨天进行了火警演习。 (We had a fire drill yesterday.)"
             },
             {
                 "id": "zh-0453",
                 "w": "刚刚",
                 "p": "gāng gang",
                 "d": "just recently",
-                "s": ""
+                "s": "直美刚刚完成了她的工作。 (Naomi has just finished her work.)"
             },
             {
                 "id": "zh-0454",
                 "w": "些",
                 "p": "xiē",
                 "d": "classifier indicating a small amount or small number greater than 1: some, a few, several",
-                "s": ""
+                "s": "她给了我一些很好的建议。 (She gave me some good advice.)"
             },
             {
                 "id": "zh-0455",
                 "w": "看来",
                 "p": "kàn lai",
                 "d": "apparently",
-                "s": ""
+                "s": "在我看来，他是有道理的。 (In my opinion, he is correct.)"
             },
             {
                 "id": "zh-0456",
                 "w": "至少",
                 "p": "zhì shǎo",
                 "d": "at least",
-                "s": ""
+                "s": "你至少该说声”谢谢“吧。 (You might at least say \"thank you.\")"
             },
             {
                 "id": "zh-0457",
                 "w": "闭嘴",
                 "p": "bì zuǐ",
                 "d": "Shut up!",
-                "s": ""
+                "s": "老子要睡了，你们都给我闭嘴。 (I'm trying to sleep, so shut up!)"
             },
             {
                 "id": "zh-0458",
                 "w": "讲",
                 "p": "jiǎng",
                 "d": "to speak",
-                "s": ""
+                "s": "他跟我讲了他的人生故事。 (He told me his life's story.)"
             },
             {
                 "id": "zh-0459",
                 "w": "连",
                 "p": "lián",
                 "d": "to link",
-                "s": ""
+                "s": "她很想要一条新的连衣裙。 (She wants a new dress badly.)"
             },
             {
                 "id": "zh-0460",
                 "w": "挺",
                 "p": "tǐng",
                 "d": "straight",
-                "s": ""
+                "s": "汤姆穿得还挺像样的，对吧？ (Tom is presentable, isn't he?)"
             },
             {
                 "id": "zh-0461",
                 "w": "成功",
                 "p": "chéng gōng",
                 "d": "to succeed",
-                "s": ""
+                "s": "你的成功使我感到嫉妒。 (Your success excites my envy.)"
             },
             {
                 "id": "zh-0462",
                 "w": "奇怪",
                 "p": "qí guài",
                 "d": "strange",
-                "s": ""
+                "s": "我的新发型是不是很奇怪？ (Is my new hair style funny?)"
             },
             {
                 "id": "zh-0463",
                 "w": "忘",
                 "p": "wàng",
                 "d": "to forget",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0464",
                 "w": "太好了",
                 "p": "tài hǎo le",
                 "d": "very good",
-                "s": ""
+                "s": "在这里见到您真是太好了。 (It was nice meeting you here.)"
             },
             {
                 "id": "zh-0465",
                 "w": "身上",
                 "p": "shēn shang",
                 "d": "on the body",
-                "s": ""
+                "s": "汤姆在玛丽身上施了咒语。 (Tom cast a spell on Mary.)"
             },
             {
                 "id": "zh-0466",
                 "w": "声音",
                 "p": "shēng yīn",
                 "d": "sound; voice",
-                "s": ""
+                "s": "把收音机的声音关小一点。 (Turn the radio down a little.)"
             },
             {
                 "id": "zh-0467",
                 "w": "这边",
                 "p": "zhè biān",
                 "d": "this side",
-                "s": ""
+                "s": "你不能再住在这边了。 (You can't live on this side anymore.)"
             },
             {
                 "id": "zh-0468",
                 "w": "处理",
                 "p": "chǔ lǐ",
                 "d": "to handle; to deal with",
-                "s": ""
+                "s": "事情本可以处理得更好。 (Things could've gone better.)"
             },
             {
                 "id": "zh-0469",
                 "w": "外面",
                 "p": "wài miàn",
                 "d": "outside (also pr.  for this sense)",
-                "s": ""
+                "s": "为什么这个时间在外面呢？ (Why are you out at this hour?)"
             },
             {
                 "id": "zh-0470",
                 "w": "丈夫",
                 "p": "zhàng fu",
                 "d": "husband",
-                "s": ""
+                "s": "玛丽的丈夫叫什么名字？ (What's Mary's husband's name?)"
             },
             {
                 "id": "zh-0471",
                 "w": "通过",
                 "p": "tōng guò",
                 "d": "to pass through; to get through",
-                "s": ""
+                "s": "该法案在两议院获得通过。 (The bill passed both Houses.)"
             },
             {
                 "id": "zh-0472",
                 "w": "绝对",
                 "p": "jué duì",
                 "d": "absolute; unconditional",
-                "s": ""
+                "s": "她这人十分老实，绝对可信。 (Her honesty is beyond question.)"
             },
             {
                 "id": "zh-0473",
                 "w": "行动",
                 "p": "xíng dòng",
                 "d": "operation",
-                "s": ""
+                "s": "根本就没实施过逮捕行动。 (No arrests were ever made.)"
             },
             {
                 "id": "zh-0474",
                 "w": "不同",
                 "p": "bù tóng",
                 "d": "different",
-                "s": ""
+                "s": "要是他不同意，他就会说。 (He’ll say if he doesn’t agree.)"
             },
             {
                 "id": "zh-0475",
                 "w": "够",
                 "p": "gòu",
                 "d": "enough (sufficient)",
-                "s": ""
+                "s": "没有人能够解决这个问题。 (Nobody can solve this problem.)"
             },
             {
                 "id": "zh-0476",
                 "w": "著",
                 "p": "zhù",
                 "d": "to make known",
-                "s": ""
+                "s": "在这儿等著，直到我回来。 (Wait here till I come back.)"
             },
             {
                 "id": "zh-0477",
                 "w": "比赛",
                 "p": "bǐ sài",
                 "d": "competition (sports etc)",
-                "s": ""
+                "s": "你对这场比赛有甚么感想？ (How did you feel about the game?)"
             },
             {
                 "id": "zh-0478",
                 "w": "马",
                 "p": "mǎ",
                 "d": "horse",
-                "s": ""
+                "s": "杰克逊从马背上掉了下来。 (Jackson fell from his horse.)"
             },
             {
                 "id": "zh-0479",
                 "w": "倒",
                 "p": "dào",
                 "d": "to invert; to place upside down or frontside back",
-                "s": ""
+                "s": "一棵倒下的树挡住了通道。 (A fallen tree blocked the path.)"
             },
             {
                 "id": "zh-0480",
                 "w": "作为",
                 "p": "zuò wéi",
                 "d": "one's conduct",
-                "s": ""
+                "s": "她养一只鹦鹉作为宠物。 (She keeps a parrot as a pet.)"
             },
             {
                 "id": "zh-0481",
                 "w": "别的",
                 "p": "bié de",
                 "d": "else",
-                "s": ""
+                "s": "圣诞节是一个特别的节日。 (Christmas is a special holiday.)"
             },
             {
                 "id": "zh-0482",
                 "w": "才能",
                 "p": "cái néng",
                 "d": "talent",
-                "s": ""
+                "s": "你需要两个才能凑成一对。 (You need two to make a pair.)"
             },
             {
                 "id": "zh-0483",
                 "w": "结果",
                 "p": "jiē guǒ",
                 "d": "to bear fruit",
-                "s": ""
+                "s": "我没有期望得到这样的结果。 (I didn't expect that result.)"
             },
             {
                 "id": "zh-0484",
                 "w": "帮忙",
                 "p": "bāng máng",
                 "d": "to help",
-                "s": ""
+                "s": "我不确定汤姆能不能帮忙。 (I'm not sure Tom would help.)"
             },
             {
                 "id": "zh-0485",
                 "w": "正",
                 "p": "zhèng",
                 "d": "straight",
-                "s": ""
+                "s": "汤姆发烧了，正躺在床上。 (Tom is in bed with a fever.)"
             },
             {
                 "id": "zh-0486",
                 "w": "照片",
                 "p": "zhào piàn",
                 "d": "photograph",
-                "s": ""
+                "s": "这张照片是在奈良市拍的. (This photo was taken in Nara.)"
             },
             {
                 "id": "zh-0487",
                 "w": "参加",
                 "p": "cān jiā",
                 "d": "to participate; to take part; to join",
-                "s": ""
+                "s": "很多人都参加了他的葬礼。 (Many attended his funeral.)"
             },
             {
                 "id": "zh-0488",
                 "w": "而已",
                 "p": "ér yǐ",
                 "d": "that's all",
-                "s": ""
+                "s": "他也只是个政治家而已。 (He's also just a politician.)"
             },
             {
                 "id": "zh-0489",
                 "w": "完成",
                 "p": "wán chéng",
                 "d": "to complete; to accomplish",
-                "s": ""
+                "s": "几乎所有的工作都完成了。 (Almost all the work is done now.)"
             },
             {
                 "id": "zh-0490",
                 "w": "方式",
                 "p": "fāng shì",
                 "d": "way; method; manner; mode; pattern (of behavior etc)",
-                "s": ""
+                "s": "那种表达方式已经过时了。 (That expression is archaic.)"
             },
             {
                 "id": "zh-0491",
                 "w": "做到",
                 "p": "zuò dào",
                 "d": "to accomplish",
-                "s": ""
+                "s": "没有一个人能做到这一点。 (No one man could do it.)"
             },
             {
                 "id": "zh-0492",
                 "w": "俩",
                 "p": "liǎ",
                 "d": "two (colloquial equivalent of 兩個|两个)",
-                "s": ""
+                "s": "他们俩的影子重叠在一起。 (Their two shadows overlap.)"
             },
             {
                 "id": "zh-0493",
                 "w": "爸",
                 "p": "bà",
                 "d": "father",
-                "s": ""
+                "s": "我爸跟平时一样忙著。 (My father is as busy as ever.)"
             },
             {
                 "id": "zh-0494",
                 "w": "第一次",
                 "p": "dì yī cì",
                 "d": "the first time; for the first time",
-                "s": ""
+                "s": "我第一次见到她是在京都。 (It was in Kyoto that I first met her.)"
             },
             {
                 "id": "zh-0495",
                 "w": "只能",
                 "p": "zhǐ néng",
                 "d": "can only",
-                "s": ""
+                "s": "我只能代表我自己讲话。 (I can only speak for myself.)"
             },
             {
                 "id": "zh-0496",
                 "w": "太太",
                 "p": "tài tai",
                 "d": "married woman",
-                "s": ""
+                "s": "史密斯太太打扫那个房间。 (Mrs. Smith cleans that room.)"
             },
             {
                 "id": "zh-0497",
                 "w": "下去",
                 "p": "xià qù",
                 "d": "to go down",
-                "s": ""
+                "s": "我差点从悬崖上掉下去。 (I nearly fell off the cliff.)"
             },
             {
                 "id": "zh-0498",
                 "w": "眼睛",
                 "p": "yǎn jing",
                 "d": "eye",
-                "s": ""
+                "s": "你的眼睛让我想到了星星。 (Your eyes remind me of stars.)"
             },
             {
                 "id": "zh-0499",
                 "w": "啥",
                 "p": "shá",
                 "d": "dialectal equivalent of 什麼|什么",
-                "s": ""
+                "s": "为啥汤姆要吃这些药片？ (Why does Tom take those pills?)"
             },
             {
                 "id": "zh-0500",
                 "w": "感到",
                 "p": "gǎn dào",
                 "d": "to feel; to sense; to perceive",
-                "s": ""
+                "s": "我对你的大胆感到很惊讶。 (I am amazed at your audacity.)"
             },
             {
                 "id": "zh-0501",
                 "w": "最近",
                 "p": "zuì jìn",
                 "d": "recently",
-                "s": ""
+                "s": "最近的天气愈来愈凉爽了。 (It is getting cooler and cooler.)"
             },
             {
                 "id": "zh-0502",
                 "w": "讨厌",
                 "p": "tǎo yàn",
                 "d": "to dislike; to loathe",
-                "s": ""
+                "s": "汤姆告诉我他讨厌圣诞节。 (Tom told me he hated Christmas.)"
             },
             {
                 "id": "zh-0503",
                 "w": "照顾",
                 "p": "zhào gu",
                 "d": "to take care of",
-                "s": ""
+                "s": "你可以照顾一下我的猫吗? (Would you look after my cat?)"
             },
             {
                 "id": "zh-0504",
                 "w": "长",
                 "p": "zhǎng",
                 "d": "chief",
-                "s": ""
+                "s": "二十年是一段漫长的岁月。 (Twenty years is a long time.)"
             },
             {
                 "id": "zh-0505",
                 "w": "人类",
                 "p": "rén lèi",
                 "d": "humanity",
-                "s": ""
+                "s": "人类的愚蠢行为艺无止境。 (Human stupidity knows no limits.)"
             },
             {
                 "id": "zh-0506",
                 "w": "活着",
                 "p": "huó zhe",
                 "d": "alive",
-                "s": ""
+                "s": "她相信自己的儿子还活着。 (She believes her son is still alive.)"
             },
             {
                 "id": "zh-0507",
                 "w": "打开",
                 "p": "dǎ kāi",
                 "d": "to open",
-                "s": ""
+                "s": "汤姆的降落伞没有打开。 (Tom's parachute didn't open.)"
             },
             {
                 "id": "zh-0508",
                 "w": "各位",
                 "p": "gè wèi",
                 "d": "everybody",
-                "s": ""
+                "s": "“全世界的各位，你们好！” (\"Hello, people of the world!\")"
             },
             {
                 "id": "zh-0509",
                 "w": "进",
                 "p": "jìn",
                 "d": "to go forward",
-                "s": ""
+                "s": "灰尘钻进了我的一只眼睛。 (Dust got into one of my eyes.)"
             },
             {
                 "id": "zh-0510",
                 "w": "待",
                 "p": "dài",
                 "d": "to wait",
-                "s": ""
+                "s": "你可以待在这里一会儿吗？ (Will you stay here a moment?)"
             },
             {
                 "id": "zh-0511",
                 "w": "掉",
                 "p": "diào",
                 "d": "to fall",
-                "s": ""
+                "s": "杰克逊从马背上掉了下来。 (Jackson fell from his horse.)"
             },
             {
                 "id": "zh-0512",
                 "w": "不好意思",
                 "p": "bù hǎo yì si",
                 "d": "to feel embarrassed",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0513",
                 "w": "确实",
                 "p": "què shí",
                 "d": "indeed",
-                "s": ""
+                "s": "汤姆确实有个麻烦的工作。 (Tom certainly has a tough job.)"
             },
             {
                 "id": "zh-0514",
                 "w": "猜",
                 "p": "cāi",
                 "d": "to guess",
-                "s": ""
+                "s": "这是建立在猜测的基础上。 (It is founded on supposition.)"
             },
             {
                 "id": "zh-0515",
                 "w": "使",
                 "p": "shǐ",
                 "d": "to make",
-                "s": ""
+                "s": "我会使你成为一个男子汉。 (I will make a man out of you.)"
             },
             {
                 "id": "zh-0516",
                 "w": "曾经",
                 "p": "céng jīng",
                 "d": "once",
-                "s": ""
+                "s": "看来他曾经是个有钱人。 (He seemed to have been rich.)"
             },
             {
                 "id": "zh-0517",
                 "w": "老师",
                 "p": "lǎo shī",
                 "d": "teacher",
-                "s": ""
+                "s": "我们的老师喜欢他的新车。 (Our teacher likes his new car.)"
             },
             {
                 "id": "zh-0518",
                 "w": "于",
                 "p": "yú",
                 "d": "to go",
-                "s": ""
+                "s": "这对于我来说没任何意义。 (It doesn't make sense to me.)"
             },
             {
                 "id": "zh-0519",
                 "w": "狗",
                 "p": "gǒu",
                 "d": "dog",
-                "s": ""
+                "s": "金窝银窝不如自己的狗窝。 (There is no place like home.)"
             },
             {
                 "id": "zh-0520",
                 "w": "容易",
                 "p": "róng yì",
                 "d": "easy; straightforward",
-                "s": ""
+                "s": "这是对他们来说相当容易。 (It was rather easy for them.)"
             },
             {
                 "id": "zh-0521",
                 "w": "直到",
                 "p": "zhí dào",
                 "d": "until",
-                "s": ""
+                "s": "在这儿等著，直到我回来。 (Wait here till I come back.)"
             },
             {
                 "id": "zh-0522",
                 "w": "求",
                 "p": "qiú",
                 "d": "to seek",
-                "s": ""
+                "s": "求你了，给我一个瓶子吧！ (I beg you, give me a bottle!)"
             },
             {
                 "id": "zh-0523",
                 "w": "谈",
                 "p": "tán",
                 "d": "to speak",
-                "s": ""
+                "s": "我仅仅是在和Tom交谈。 (I was just talking about Tom.)"
             },
             {
                 "id": "zh-0524",
                 "w": "麽",
                 "p": "mó",
                 "d": "tiny",
-                "s": ""
+                "s": "你们的书什麽时候会出版呢？ (When is your book coming out?)"
             },
             {
                 "id": "zh-0525",
                 "w": "进入",
                 "p": "jìn rù",
                 "d": "to enter; to go into",
-                "s": ""
+                "s": "汤姆跟着玛丽进入了房间。 (Tom followed Mary into the room.)"
             },
             {
                 "id": "zh-0526",
                 "w": "咱们",
                 "p": "zán men",
                 "d": "we or us (including both the speaker and the person(s) spoken to)",
-                "s": ""
+                "s": "\"咱们走吧，\"他对我说。 (\"Let's go,\" he said to me.)"
             },
             {
                 "id": "zh-0527",
                 "w": "伤害",
                 "p": "shāng hài",
                 "d": "to injure; to harm",
-                "s": ""
+                "s": "那场战争对国家造成伤害。 (That war hurt the country.)"
             },
             {
                 "id": "zh-0528",
                 "w": "拉",
                 "p": "lā",
                 "d": "to pull",
-                "s": ""
+                "s": "萨米对莱拉大声发号施令。 (Sami barked orders at Layla.)"
             },
             {
                 "id": "zh-0529",
                 "w": "拍",
                 "p": "pāi",
                 "d": "to pat",
-                "s": ""
+                "s": "这张照片是在奈良市拍的. (This photo was taken in Nara.)"
             },
             {
                 "id": "zh-0530",
                 "w": "身体",
                 "p": "shēn tǐ",
                 "d": "the body",
-                "s": ""
+                "s": "Tom需要让身体好起来。 (Tom needs to get into shape.)"
             },
             {
                 "id": "zh-0531",
                 "w": "曾",
                 "p": "céng",
                 "d": "once",
-                "s": ""
+                "s": "看来他曾经是个有钱人。 (He seemed to have been rich.)"
             },
             {
                 "id": "zh-0532",
                 "w": "内",
                 "p": "nèi",
                 "d": "inside",
-                "s": ""
+                "s": "我为一本书写了内容提要。 (I made an abstract of a book.)"
             },
             {
                 "id": "zh-0533",
                 "w": "简单",
                 "p": "jiǎn dān",
                 "d": "simple; not complicated",
-                "s": ""
+                "s": "他简单地阐述了他的理由。 (He gave his reasons in brief.)"
             },
             {
                 "id": "zh-0534",
                 "w": "有趣",
                 "p": "yǒu qù",
                 "d": "interesting; fascinating; amusing",
-                "s": ""
+                "s": "我昨晚做了一个有趣的梦。 (I had a funny dream last night.)"
             },
             {
                 "id": "zh-0535",
                 "w": "就算",
                 "p": "jiù suàn",
                 "d": "(coll.) even if",
-                "s": ""
+                "s": "就算这样地球也照样转！ (Even so, the Earth moves!)"
             },
             {
                 "id": "zh-0536",
                 "w": "医院",
                 "p": "yī yuàn",
                 "d": "hospital",
-                "s": ""
+                "s": "我住了一个星期的医院。 (I spent a week in hospital.)"
             },
             {
                 "id": "zh-0537",
                 "w": "赢",
                 "p": "yíng",
                 "d": "to beat",
-                "s": ""
+                "s": "汤姆赢得了环法自行车赛。 (Tom won the Tour de France.)"
             },
             {
                 "id": "zh-0538",
                 "w": "能够",
                 "p": "néng gòu",
                 "d": "to be capable of",
-                "s": ""
+                "s": "没有人能够解决这个问题。 (Nobody can solve this problem.)"
             },
             {
                 "id": "zh-0539",
                 "w": "努力",
                 "p": "nǔ lì",
                 "d": "to make an effort; to try hard; to strive",
-                "s": ""
+                "s": "我希望你更加努力地工作。 (I expect you to work harder.)"
             },
             {
                 "id": "zh-0540",
                 "w": "留下",
                 "p": "liú xià",
                 "d": "to leave behind",
-                "s": ""
+                "s": "他在桌子上留下了这本书。 (He left the book on the table.)"
             },
             {
                 "id": "zh-0541",
                 "w": "同意",
                 "p": "tóng yì",
                 "d": "to agree",
-                "s": ""
+                "s": "他最终同意了我们的计划。 (He finally agreed to our plan.)"
             },
             {
                 "id": "zh-0542",
                 "w": "杰克",
                 "p": "jié kè",
                 "d": "Jack (name)",
-                "s": ""
+                "s": "杰克逊从马背上掉了下来。 (Jackson fell from his horse.)"
             },
             {
                 "id": "zh-0543",
                 "w": "死亡",
                 "p": "sǐ wáng",
                 "d": "to die",
-                "s": ""
+                "s": "我们常常把死亡比作睡眠。 (Death is often compared to sleep.)"
             },
             {
                 "id": "zh-0544",
                 "w": "每",
                 "p": "měi",
                 "d": "each",
-                "s": ""
+                "s": "每条狗在自己家就是狮子。 (Every dog is a lion at home.)"
             },
             {
                 "id": "zh-0545",
                 "w": "战争",
                 "p": "zhàn zhēng",
                 "d": "war; conflict",
-                "s": ""
+                "s": "没有什么比战争更糟的了。 (Nothing is worse than war.)"
             },
             {
                 "id": "zh-0546",
                 "w": "上面",
                 "p": "shàng miàn",
                 "d": "on top of",
-                "s": ""
+                "s": "把书放在最上面的架子上。 (Put the book on the top shelf.)"
             },
             {
                 "id": "zh-0547",
                 "w": "总统",
                 "p": "zǒng tǒng",
                 "d": "president (of a country)",
-                "s": ""
+                "s": "乌克兰总统是犹太人。︀ (Ukraine's president is Jewish.)"
             },
             {
                 "id": "zh-0548",
                 "w": "消息",
                 "p": "xiāo xi",
                 "d": "(piece of) news; information",
-                "s": ""
+                "s": "我听到这个消息很吃惊。 (I was surprised at the news.)"
             },
             {
                 "id": "zh-0549",
                 "w": "要求",
                 "p": "yāo qiú",
                 "d": "to request",
-                "s": ""
+                "s": "他要求她稍后打电话给他。 (He asked her to call him later.)"
             },
             {
                 "id": "zh-0550",
                 "w": "理解",
                 "p": "lǐ jiě",
                 "d": "to comprehend; to understand",
-                "s": ""
+                "s": "我无法理解她所说的。 (I could not catch her words.)"
             },
             {
                 "id": "zh-0551",
                 "w": "收到",
                 "p": "shōu dào",
                 "d": "to receive",
-                "s": ""
+                "s": "我前几天收到了你的传真。 (I got your fax the other day.)"
             },
             {
                 "id": "zh-0552",
                 "w": "之间",
                 "p": "zhī jiān",
                 "d": "(after a noun) between; among; amid",
-                "s": ""
+                "s": "行与行之间要留一个空间。 (Leave a space between the lines.)"
             },
             {
                 "id": "zh-0553",
                 "w": "主意",
                 "p": "zhǔ yi",
                 "d": "plan",
-                "s": ""
+                "s": "我说服他放弃了这个主意。 (I talked him out of the idea.)"
             },
             {
                 "id": "zh-0554",
                 "w": "保持",
                 "p": "bǎo chí",
                 "d": "to keep",
-                "s": ""
+                "s": "我们一定要保持双手清洁。 (We must keep our hands clean.)"
             },
             {
                 "id": "zh-0555",
                 "w": "成",
                 "p": "chéng",
                 "d": "to succeed",
-                "s": ""
+                "s": "孩子的成长快得令人吃惊。 (Children grow up so quickly.)"
             },
             {
                 "id": "zh-0556",
                 "w": "存在",
                 "p": "cún zài",
                 "d": "to exist",
-                "s": ""
+                "s": "存在主义是一种人道主义。 (Existentialism is a humanism.)"
             },
             {
                 "id": "zh-0557",
                 "w": "高",
                 "p": "gāo",
                 "d": "high",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-0558",
                 "w": "晚安",
                 "p": "wǎn ān",
                 "d": "Good night!",
-                "s": ""
+                "s": "晚安。祝你做个好梦。 (Good night. Sweet dreams.)"
             },
             {
                 "id": "zh-0559",
                 "w": "解释",
                 "p": "jiě shì",
                 "d": "explanation",
-                "s": ""
+                "s": "我必须向Tom解释这个。 (I have to explain this to Tom.)"
             },
             {
                 "id": "zh-0560",
                 "w": "全部",
                 "p": "quán bù",
                 "d": "whole; all",
-                "s": ""
+                "s": "这些全部都是汤姆的书吗？ (Are these all Tom's books?)"
             },
             {
                 "id": "zh-0561",
                 "w": "靠",
                 "p": "kào",
                 "d": "to lean against or on",
-                "s": ""
+                "s": "靠你的收入你不能过活吗? (Can't you get by on your salary?)"
             },
             {
                 "id": "zh-0562",
                 "w": "呆",
                 "p": "dāi",
                 "d": "foolish; stupid",
-                "s": ""
+                "s": "她听到那个消息后惊呆了。 (She was amazed to hear the news.)"
             },
             {
                 "id": "zh-0563",
                 "w": "起",
                 "p": "qǐ",
                 "d": "to rise",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-0564",
                 "w": "约翰",
                 "p": "yuē hàn",
                 "d": "John (name)",
-                "s": ""
+                "s": "汤姆向玛莉隐瞒约翰的事。 (Tom lied to Mary about John.)"
             },
             {
                 "id": "zh-0565",
                 "w": "突然",
                 "p": "tū rán",
                 "d": "sudden; abrupt; unexpected",
-                "s": ""
+                "s": "我们的火车突然停了下来。 (Our train stopped suddenly.)"
             },
             {
                 "id": "zh-0566",
                 "w": "飞机",
                 "p": "fēi jī",
                 "d": "airplane",
-                "s": ""
+                "s": "你的飞机什么时候起飞呢？ (When does your plane depart?)"
             },
             {
                 "id": "zh-0567",
                 "w": "解决",
                 "p": "jiě jué",
                 "d": "to solve; to resolve; to settle (a problem)",
-                "s": ""
+                "s": "他轻松地解决了这个问题。 (He easily solved the problem.)"
             },
             {
                 "id": "zh-0568",
                 "w": "调查",
                 "p": "diào chá",
                 "d": "investigation",
-                "s": ""
+                "s": "我们对他的过去进行了调查。 (We made inquiries into his past.)"
             },
             {
                 "id": "zh-0569",
                 "w": "多久",
                 "p": "duō jiǔ",
                 "d": "(of time) how long?",
-                "s": ""
+                "s": "George住这多久了？ (How long has George lived here?)"
             },
             {
                 "id": "zh-0570",
                 "w": "老婆",
                 "p": "lǎo pó",
                 "d": "(coll.) wife",
-                "s": ""
+                "s": "我老婆非常喜欢苹果饼。 (My wife likes apple pie a lot.)"
             },
             {
                 "id": "zh-0571",
                 "w": "不再",
                 "p": "bù zài",
                 "d": "no more; no longer",
-                "s": ""
+                "s": "他不再是以前的那个他了。 (He isn't what he used to be.)"
             },
             {
                 "id": "zh-0572",
                 "w": "翻译",
                 "p": "fān yì",
                 "d": "to translate",
-                "s": ""
+                "s": "文字游戏很少能被翻译。 (Wordplay rarely translates.)"
             },
             {
                 "id": "zh-0573",
                 "w": "证明",
                 "p": "zhèng míng",
                 "d": "proof",
-                "s": ""
+                "s": "谣言最后被证明是假的。 (The rumor turned out to be false.)"
             },
             {
                 "id": "zh-0574",
                 "w": "开玩笑",
                 "p": "kāi wán xiào",
                 "d": "to play a joke; to make fun of; to joke",
-                "s": ""
+                "s": "他这么说就是为了开玩笑。 (He said it merely as a joke.)"
             },
             {
                 "id": "zh-0575",
                 "w": "父母",
                 "p": "fù mǔ",
                 "d": "father and mother; parents",
-                "s": ""
+                "s": "我父母不让我和男生约会。 (My parents won't let me date.)"
             },
             {
                 "id": "zh-0576",
                 "w": "卖",
                 "p": "mài",
                 "d": "to sell",
-                "s": ""
+                "s": "你可以把你的车卖给我吗？ (Will you sell your car to me?)"
             },
             {
                 "id": "zh-0577",
                 "w": "回答",
                 "p": "huí dá",
                 "d": "to reply; to answer",
-                "s": ""
+                "s": "有人可以回答我的问题吗？ (Can anyone answer my question?)"
             },
             {
                 "id": "zh-0578",
                 "w": "任务",
                 "p": "rèn wu",
                 "d": "mission; assignment; task; duty; role",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0579",
                 "w": "所有人",
                 "p": "suǒ yǒu rén",
                 "d": "everyone",
-                "s": ""
+                "s": "所有人都喝醉了，除了我。 (Everyone was drunk, except me.)"
             },
             {
                 "id": "zh-0580",
                 "w": "带来",
                 "p": "dài lái",
                 "d": "to bring",
-                "s": ""
+                "s": "请帮我把今天的报纸带来。 (Bring me today's paper, please.)"
             },
             {
                 "id": "zh-0581",
                 "w": "早",
                 "p": "zǎo",
                 "d": "early",
-                "s": ""
+                "s": "我今天早上错过了公交车。 (I missed my bus this morning.)"
             },
             {
                 "id": "zh-0582",
                 "w": "可爱",
                 "p": "kě ài",
                 "d": "adorable",
-                "s": ""
+                "s": "在我看来Ania很可爱。 (Ania looks very cute to me.)"
             },
             {
                 "id": "zh-0583",
                 "w": "感谢",
                 "p": "gǎn xiè",
                 "d": "to thank; to be grateful",
-                "s": ""
+                "s": "我无法表达我对你的感谢。 (I'm extremely grateful to you.)"
             },
             {
                 "id": "zh-0584",
                 "w": "为何",
                 "p": "wèi hé",
                 "d": "why",
-                "s": ""
+                "s": "我不明白他为何搞这样。 (I have no idea why he did that.)"
             },
             {
                 "id": "zh-0585",
                 "w": "除了",
                 "p": "chú le",
                 "d": "apart from; besides; in addition to (used to exclude, as in 除了他，誰也沒來|除了他，谁也没来 \"apart from him, nobody came\", or to include, as in 除了英語，他也會法語|除了英语，他也会法语 \"in addition to English, he also knows French\")",
-                "s": ""
+                "s": "除了我以外，大家都很忙。 (Everybody is busy except me.)"
             },
             {
                 "id": "zh-0586",
                 "w": "派",
                 "p": "pài",
                 "d": "(literary) tributary; branch of a river",
-                "s": ""
+                "s": "这是我叁加过最棒的派对。 (It was the best party ever.)"
             },
             {
                 "id": "zh-0587",
                 "w": "自由",
                 "p": "zì yóu",
                 "d": "freedom; liberty",
-                "s": ""
+                "s": "我不是个意愿自由主义着。 (I am not a libertarian.)"
             },
             {
                 "id": "zh-0588",
                 "w": "日",
                 "p": "rì",
                 "d": "(bound form) sun",
-                "s": ""
+                "s": "他有用英文写日记的习惯。 (He keeps a diary in English.)"
             },
             {
                 "id": "zh-0589",
                 "w": "抓住",
                 "p": "zhuā zhù",
                 "d": "to grab hold of; to capture",
-                "s": ""
+                "s": "他牢牢地抓住了她的手臂。 (He clutched her arm firmly.)"
             },
             {
                 "id": "zh-0590",
                 "w": "路",
                 "p": "lù",
                 "d": "road (CL:條|条)",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-0591",
                 "w": "想法",
                 "p": "xiǎng fǎ",
                 "d": "way of thinking; opinion; notion",
-                "s": ""
+                "s": "我的想法跟他的正好相反。 (My idea went against his.)"
             },
             {
                 "id": "zh-0592",
                 "w": "早上",
                 "p": "zǎo shang",
                 "d": "early morning",
-                "s": ""
+                "s": "我今天早上错过了公交车。 (I missed my bus this morning.)"
             },
             {
                 "id": "zh-0593",
                 "w": "律师",
                 "p": "lǜ shī",
                 "d": "lawyer",
-                "s": ""
+                "s": "他本应该成为一个律师。 (He should have been a lawyer.)"
             },
             {
                 "id": "zh-0594",
                 "w": "昨晚",
                 "p": "zuó wǎn",
                 "d": "yesterday evening",
-                "s": ""
+                "s": "我昨晚做了一个有趣的梦。 (I had a funny dream last night.)"
             },
             {
                 "id": "zh-0595",
                 "w": "哥哥",
                 "p": "gē ge",
                 "d": "older brother",
-                "s": ""
+                "s": "她告诉我她认识我的哥哥。 (She told me she knew my brother.)"
             },
             {
                 "id": "zh-0596",
                 "w": "放弃",
                 "p": "fàng qì",
                 "d": "to renounce; to abandon; to give up",
-                "s": ""
+                "s": "我说服他放弃了这个主意。 (I talked him out of the idea.)"
             },
             {
                 "id": "zh-0597",
                 "w": "游戏",
                 "p": "yóu xì",
                 "d": "game (CL:場|场)",
-                "s": ""
+                "s": "大多数男生喜欢电脑游戏。 (Most boys like computer games.)"
             },
             {
                 "id": "zh-0598",
                 "w": "跳",
                 "p": "tiào",
                 "d": "to jump",
-                "s": ""
+                "s": "莎米的心几乎停止了跳动。 (Sami's heart almost stopped.)"
             },
             {
                 "id": "zh-0599",
                 "w": "头",
                 "p": "tóu",
                 "d": "head",
-                "s": ""
+                "s": "我看见一个长头发的女生。 (I saw a girl with long hair.)"
             },
             {
                 "id": "zh-0600",
                 "w": "秘密",
                 "p": "mì mì",
                 "d": "secret; private; confidential; clandestine",
-                "s": ""
+                "s": "她永远也做不到保守秘密。 (She can never keep a secret.)"
             },
             {
                 "id": "zh-0601",
                 "w": "休息",
                 "p": "xiū xi",
                 "d": "rest",
-                "s": ""
+                "s": "我们现在应该可以休息了。 (I think we can relax now.)"
             },
             {
                 "id": "zh-0602",
                 "w": "终于",
                 "p": "zhōng yú",
                 "d": "at last",
-                "s": ""
+                "s": "他终于达到了自己的目标。 (Finally, he reached his goal.)"
             },
             {
                 "id": "zh-0603",
                 "w": "考虑",
                 "p": "kǎo lǜ",
                 "d": "to think over",
-                "s": ""
+                "s": "你站在我的立场上考虑看看。 (Just put yourself in my shoes.)"
             },
             {
                 "id": "zh-0604",
                 "w": "其中",
                 "p": "qí zhōng",
                 "d": "among",
-                "s": ""
+                "s": "我的其中一个行李不见了。 (One of my suitcases is missing.)"
             },
             {
                 "id": "zh-0605",
                 "w": "刚",
                 "p": "gāng",
                 "d": "(literary) hard; firm; strong",
-                "s": ""
+                "s": "我刚才吃了寿司喝了啤酒。 (I just ate sushi and drank beer.)"
             },
             {
                 "id": "zh-0606",
                 "w": "每天",
                 "p": "měi tiān",
                 "d": "every day",
-                "s": ""
+                "s": "他们每天必须工作8小时。 (They must work 8 hours a day.)"
             },
             {
                 "id": "zh-0607",
                 "w": "变得",
                 "p": "biàn de",
                 "d": "to become",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0608",
                 "w": "大概",
                 "p": "dà gài",
                 "d": "roughly",
-                "s": ""
+                "s": "我觉得他大概来自意大利。 (I think that he's from Italy.)"
             },
             {
                 "id": "zh-0609",
                 "w": "目标",
                 "p": "mù biāo",
                 "d": "target",
-                "s": ""
+                "s": "我把我的手枪指向了目标。 (I aimed my gun at the target.)"
             },
             {
                 "id": "zh-0610",
                 "w": "控制",
                 "p": "kòng zhì",
                 "d": "to control",
-                "s": ""
+                "s": "鲍勃无法控制他的愤怒。 (Bob could not control his anger.)"
             },
             {
                 "id": "zh-0611",
                 "w": "家里",
                 "p": "jiā lǐ",
                 "d": "home",
-                "s": ""
+                "s": "我们本来应该留在家里的。 (We should've stayed at home.)"
             },
             {
                 "id": "zh-0612",
                 "w": "花",
                 "p": "huā",
                 "d": "flower",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-0613",
                 "w": "小孩",
                 "p": "xiǎo hái",
                 "d": "child",
-                "s": ""
+                "s": "要对自己的小孩好一点！ (Do be kind to your children!)"
             },
             {
                 "id": "zh-0614",
                 "w": "睡觉",
                 "p": "shuì jiào",
                 "d": "to go to bed",
-                "s": ""
+                "s": "所有杰克做的事就是睡觉。 (All that Jack does is sleep.)"
             },
             {
                 "id": "zh-0615",
                 "w": "停止",
                 "p": "tíng zhǐ",
                 "d": "to stop; to halt; to cease",
-                "s": ""
+                "s": "莎米的心几乎停止了跳动。 (Sami's heart almost stopped.)"
             },
             {
                 "id": "zh-0616",
                 "w": "因此",
                 "p": "yīn cǐ",
                 "d": "thus; consequently; as a result",
-                "s": ""
+                "s": "因此，天气一点也不热。 (So, it isn't hot at all.)"
             },
             {
                 "id": "zh-0617",
                 "w": "分钟",
                 "p": "fēn zhōng",
                 "d": "minute",
-                "s": ""
+                "s": "我的手表慢 10 分钟。 (My watch is ten minutes slow.)"
             },
             {
                 "id": "zh-0618",
                 "w": "替",
                 "p": "tì",
                 "d": "to substitute for",
-                "s": ""
+                "s": "我代替他的父亲看过他了。 (I saw him instead of his father.)"
             },
             {
                 "id": "zh-0619",
                 "w": "开枪",
                 "p": "kāi qiāng",
                 "d": "to open fire",
-                "s": ""
+                "s": "别动，不然我就开枪射你。 (Don't move, or I'll shoot you.)"
             },
             {
                 "id": "zh-0620",
                 "w": "音乐",
                 "p": "yīn yuè",
                 "d": "music",
-                "s": ""
+                "s": "她喜欢听俄罗斯流行音乐。 (She likes Russian pop music.)"
             },
             {
                 "id": "zh-0621",
                 "w": "耶",
                 "p": "yé",
                 "d": "interrogative particle (classical)",
-                "s": ""
+                "s": "耶路撒冷是以色列的首都。 (Jerusalem is Israel's capital.)"
             },
             {
                 "id": "zh-0622",
                 "w": "糟糕",
                 "p": "zāo gāo",
                 "d": "too bad",
-                "s": ""
+                "s": "我还没觉得有那么糟糕。 (I didn't think it was so bad.)"
             },
             {
                 "id": "zh-0623",
                 "w": "武器",
                 "p": "wǔ qì",
                 "d": "weapon",
-                "s": ""
+                "s": "他用他的雨伞当作武器。 (He used his umbrella as a weapon.)"
             },
             {
                 "id": "zh-0624",
                 "w": "来自",
                 "p": "lái zì",
                 "d": "to come from (a place)",
-                "s": ""
+                "s": "我觉得他大概来自意大利。 (I think that he's from Italy.)"
             },
             {
                 "id": "zh-0625",
                 "w": "后面",
                 "p": "hòu mian",
                 "d": "the back; the rear; the last bit",
-                "s": ""
+                "s": "Sami 躲在树丛后面。 (Sami hid behind some bushes.)"
             },
             {
                 "id": "zh-0626",
                 "w": "小子",
                 "p": "xiǎo zǐ",
                 "d": "(literary) youngster",
-                "s": ""
+                "s": "你这小子，不相信我是不是？ (You don't believe me, do you, kid?)"
             },
             {
                 "id": "zh-0627",
                 "w": "来到",
                 "p": "lái dào",
                 "d": "to arrive; to come",
-                "s": ""
+                "s": "你为什么这么早来到了？ (Why did you come this early?)"
             },
             {
                 "id": "zh-0628",
                 "w": "家人",
                 "p": "jiā rén",
                 "d": "family member",
-                "s": ""
+                "s": "我可以和家人一起来吗？ (May I bring my family along?)"
             },
             {
                 "id": "zh-0629",
                 "w": "坐下",
                 "p": "zuò xia",
                 "d": "to sit down",
-                "s": ""
+                "s": "我们还是在这里坐下吧。 (We had better sit down here.)"
             },
             {
                 "id": "zh-0630",
                 "w": "未来",
                 "p": "wèi lái",
                 "d": "future",
-                "s": ""
+                "s": "我们必须为未来作好准备。 (We must provide for the future.)"
             },
             {
                 "id": "zh-0631",
                 "w": "脸",
                 "p": "liǎn",
                 "d": "face",
-                "s": ""
+                "s": "她在他的脸颊上吻了一下。 (She kissed him on the cheek.)"
             },
             {
                 "id": "zh-0632",
                 "w": "聪明",
                 "p": "cōng ming",
                 "d": "intelligent; clever; bright",
-                "s": ""
+                "s": "对聪明人说话，一语即足。 (A word is enough to a wise man.)"
             },
             {
                 "id": "zh-0633",
                 "w": "报告",
                 "p": "bào gào",
                 "d": "to inform",
-                "s": ""
+                "s": "请你把这份报告拿去影印。 (Make a copy of this report.)"
             },
             {
                 "id": "zh-0634",
                 "w": "冷静",
                 "p": "lěng jìng",
                 "d": "calm; cool-headed; dispassionate",
-                "s": ""
+                "s": "无论发生甚么事也要保持冷静。 (Whatever happens, keep calm.)"
             },
             {
                 "id": "zh-0635",
                 "w": "怕",
                 "p": "pà",
                 "d": "to be afraid",
-                "s": ""
+                "s": "我得了一种可怕的感冒。 (I've caught a terrible cold.)"
             },
             {
                 "id": "zh-0636",
                 "w": "厉害",
                 "p": "lì hai",
                 "d": "(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding",
-                "s": ""
+                "s": "我听说他打麻将很厉害。 (I hear he is good at mahjong.)"
             },
             {
                 "id": "zh-0637",
                 "w": "直接",
                 "p": "zhí jiē",
                 "d": "directly; direct",
-                "s": ""
+                "s": "为什么不直接付钱给汤姆？ (Why didn't you just pay Tom?)"
             },
             {
                 "id": "zh-0638",
                 "w": "办公室",
                 "p": "bàn gōng shì",
                 "d": "office; business premises",
-                "s": ""
+                "s": "我父亲是一名办公室职员。 (My father is an office worker.)"
             },
             {
                 "id": "zh-0639",
                 "w": "停",
                 "p": "tíng",
                 "d": "to stop",
-                "s": ""
+                "s": "我想把我的车停放在那里。 (I want to keep my car there.)"
             },
             {
                 "id": "zh-0640",
                 "w": "鬼",
                 "p": "guǐ",
                 "d": "disembodied spirit; ghost; devil",
-                "s": ""
+                "s": "她对那个女人做了鬼脸。 (She made faces at that woman.)"
             },
             {
                 "id": "zh-0641",
                 "w": "检查",
                 "p": "jiǎn chá",
                 "d": "inspection",
-                "s": ""
+                "s": "我的超音波检查在周二。 (My ultrasound is on Tuesday.)"
             },
             {
                 "id": "zh-0642",
                 "w": "加油",
                 "p": "jiā yóu",
                 "d": "to add oil; to top up with gas; to refuel",
-                "s": ""
+                "s": "我们在下个加油站停一下。 (Let's stop at the next gas station.)"
             },
             {
                 "id": "zh-0643",
                 "w": "负责",
                 "p": "fù zé",
                 "d": "to be responsible for; to be in charge of; to bear responsibility for",
-                "s": ""
+                "s": "你必须为自己的行为负责。 (You must account for your conduct.)"
             },
             {
                 "id": "zh-0644",
                 "w": "方法",
                 "p": "fāng fǎ",
                 "d": "method; way; technique; procedure",
-                "s": ""
+                "s": "这是一种好棒的治疗方法。 (This is a great type of cure.)"
             },
             {
                 "id": "zh-0645",
                 "w": "这位",
                 "p": "zhè wèi",
                 "d": "this (person)",
-                "s": ""
+                "s": "请为这位女士叫辆出租车。 (Please call this lady a taxi.)"
             },
             {
                 "id": "zh-0646",
                 "w": "年轻",
                 "p": "nián qīng",
                 "d": "young",
-                "s": ""
+                "s": "我们不再像汤姆那样年轻。 (We're not as young as Tom.)"
             },
             {
                 "id": "zh-0647",
                 "w": "即使",
                 "p": "jí shǐ",
                 "d": "even if; even though",
-                "s": ""
+                "s": "即使是小孩也能读这本书。 (Even children can read this book.)"
             },
             {
                 "id": "zh-0648",
                 "w": "本来",
                 "p": "běn lái",
                 "d": "original",
-                "s": ""
+                "s": "我们本来应该留在家里的。 (We should've stayed at home.)"
             },
             {
                 "id": "zh-0649",
                 "w": "本",
                 "p": "běn",
                 "d": "(bound form) root; stem",
-                "s": ""
+                "s": "我们本来应该留在家里的。 (We should've stayed at home.)"
             },
             {
                 "id": "zh-0650",
                 "w": "疯狂",
                 "p": "fēng kuáng",
                 "d": "crazy; frenzied; wild",
-                "s": ""
+                "s": "约翰当时在疯狂地打手势。 (John motioned furiously.)"
             },
             {
                 "id": "zh-0651",
                 "w": "大人",
                 "p": "dà ren",
                 "d": "adult",
-                "s": ""
+                "s": "汤姆告诉我他是加拿大人。 (Tom told me he was Canadian.)"
             },
             {
                 "id": "zh-0652",
                 "w": "使用",
                 "p": "shǐ yòng",
                 "d": "to use",
-                "s": ""
+                "s": "他好好的使用了​​这笔钱。 (He made good use of the money.)"
             },
             {
                 "id": "zh-0653",
                 "w": "老板",
                 "p": "lǎo bǎn",
                 "d": "boss; proprietor",
-                "s": ""
+                "s": "你跟你的老板说什么了？ (What did you tell your boss?)"
             },
             {
                 "id": "zh-0654",
                 "w": "水",
                 "p": "shuǐ",
                 "d": "water",
-                "s": ""
+                "s": "如水流过鸭背般毫无反应。 (Like water off a duck's back.)"
             },
             {
                 "id": "zh-0655",
                 "w": "否则",
                 "p": "fǒu zé",
                 "d": "otherwise; if not; or (else)",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-0656",
                 "w": "答应",
                 "p": "dā ying",
                 "d": "to answer; to respond",
-                "s": ""
+                "s": "你答应过，会照顾他们的。 (You promised to take care of them.)"
             },
             {
                 "id": "zh-0657",
                 "w": "证据",
                 "p": "zhèng jù",
                 "d": "evidence",
-                "s": ""
+                "s": "我摧毁了所有的证据。 (I destroyed all the evidence.)"
             },
             {
                 "id": "zh-0658",
                 "w": "可怕",
                 "p": "kě pà",
                 "d": "awful",
-                "s": ""
+                "s": "我得了一种可怕的感冒。 (I've caught a terrible cold.)"
             },
             {
                 "id": "zh-0659",
                 "w": "拿到",
                 "p": "ná dào",
                 "d": "to get",
-                "s": ""
+                "s": "我不知道汤姆拿到了什么。 (I don't know what Tom got.)"
             },
             {
                 "id": "zh-0660",
                 "w": "快乐",
                 "p": "kuài lè",
                 "d": "happy; joyful",
-                "s": ""
+                "s": "只要你微笑，我就会快乐。 (If you smile, I'll be happy.)"
             },
             {
                 "id": "zh-0661",
                 "w": "拥有",
                 "p": "yōng yǒu",
                 "d": "to have; to possess; to own",
-                "s": ""
+                "s": "他失去了他拥有的一切。 (He lost everything he owned.)"
             },
             {
                 "id": "zh-0662",
                 "w": "个人",
                 "p": "gè rén",
                 "d": "an individual; oneself; (attributive) personal; one's own",
-                "s": ""
+                "s": "我认识的每个人都用谷歌。 (Everyone I know uses Google.)"
             },
             {
                 "id": "zh-0663",
                 "w": "忘记",
                 "p": "wàng jì",
                 "d": "to forget",
-                "s": ""
+                "s": "我今天忘记给他打电话了。 (I forgot to call him today.)"
             },
             {
                 "id": "zh-0664",
                 "w": "哭",
                 "p": "kū",
                 "d": "to cry; to weep",
-                "s": ""
+                "s": "我的母亲只是默默地哭泣。 (My mother did nothing but weep.)"
             },
             {
                 "id": "zh-0665",
                 "w": "并且",
                 "p": "bìng qiě",
                 "d": "and; besides; moreover; furthermore; in addition",
-                "s": ""
+                "s": "我很惊讶，并且感到难过。 (I was surprised and became sad.)"
             },
             {
                 "id": "zh-0666",
                 "w": "身边",
                 "p": "shēn biān",
                 "d": "at one's side",
-                "s": ""
+                "s": "有他在身边我感觉很自在。 (I feel at ease around him.)"
             },
             {
                 "id": "zh-0667",
                 "w": "想到",
                 "p": "xiǎng dào",
                 "d": "to think of",
-                "s": ""
+                "s": "你的眼睛让我想到了星星。 (Your eyes remind me of stars.)"
             },
             {
                 "id": "zh-0668",
                 "w": "等待",
                 "p": "děng dài",
                 "d": "to wait; to wait for",
-                "s": ""
+                "s": "所有您要做的，就是等待。 (All you have to do is to wait.)"
             },
             {
                 "id": "zh-0669",
                 "w": "再说",
                 "p": "zài shuō",
                 "d": "to say again",
-                "s": ""
+                "s": "你回来的时候我们再说。 (We can talk when you get back.)"
             },
             {
                 "id": "zh-0670",
                 "w": "事实",
                 "p": "shì shí",
                 "d": "fact",
-                "s": ""
+                "s": "她说的每句话都是事实。 (Whatever she says is true.)"
             },
             {
                 "id": "zh-0671",
                 "w": "姑娘",
                 "p": "gū niang",
                 "d": "girl",
-                "s": ""
+                "s": "玛丽是一个非常漂亮的姑娘。 (Mary is a very pretty girl.)"
             },
             {
                 "id": "zh-0672",
                 "w": "联系",
                 "p": "lián xì",
                 "d": "connection",
-                "s": ""
+                "s": "你是想将我与其联系起来吗？ (Did you mean to link me that?)"
             },
             {
                 "id": "zh-0673",
                 "w": "地球",
                 "p": "dì qiú",
                 "d": "the earth",
-                "s": ""
+                "s": "地球像一块大吸铁石一样。 (Earth is like a big magnet.)"
             },
             {
                 "id": "zh-0674",
                 "w": "命令",
                 "p": "mìng lìng",
                 "d": "order",
-                "s": ""
+                "s": "我们必须执行他的命令。 (We must execute his orders.)"
             },
             {
                 "id": "zh-0675",
                 "w": "阻止",
                 "p": "zǔ zhǐ",
                 "d": "to prevent",
-                "s": ""
+                "s": "那么是什么在阻止你去呢？ (What's stopping you from going?)"
             },
             {
                 "id": "zh-0676",
                 "w": "消失",
                 "p": "xiāo shī",
                 "d": "to disappear; to fade away",
-                "s": ""
+                "s": "鸟儿从我的视线中消失了。 (The bird vanished from view.)"
             },
             {
                 "id": "zh-0677",
                 "w": "随便",
                 "p": "suí biàn",
                 "d": "as one wishes",
-                "s": ""
+                "s": "我不能这么随便地请病假。 (I can't just call in sick.)"
             },
             {
                 "id": "zh-0678",
                 "w": "心",
                 "p": "xīn",
                 "d": "heart",
-                "s": ""
+                "s": "我不小心打落了一个花瓶。 (I carelessly dropped a vase.)"
             },
             {
                 "id": "zh-0679",
                 "w": "第",
                 "p": "dì",
                 "d": "(prefix indicating ordinal number, as in 第六 \"sixth\")",
-                "s": ""
+                "s": "汤姆得了第一名，不是吗? (Tom got first prize, didn't he?)"
             },
             {
                 "id": "zh-0680",
                 "w": "似乎",
                 "p": "sì hū",
                 "d": "it seems; seemingly; as if",
-                "s": ""
+                "s": "他们似乎很快乐不是吗？ (They seem happy, don't they?)"
             },
             {
                 "id": "zh-0681",
                 "w": "开车",
                 "p": "kāi chē",
                 "d": "to drive a car (or train etc)",
-                "s": ""
+                "s": "你酒喝得太醉了不能开车。 (You're too drunk to drive.)"
             },
             {
                 "id": "zh-0682",
                 "w": "家庭",
                 "p": "jiā tíng",
                 "d": "family; household",
-                "s": ""
+                "s": "这个女孩正在做家庭作业。 (The girl is doing homework.)"
             },
             {
                 "id": "zh-0683",
                 "w": "尸体",
                 "p": "shī tǐ",
                 "d": "corpse; dead body",
-                "s": ""
+                "s": "汤姆在海边发现了具尸体。 (Tom found a dead body on the beach.)"
             },
             {
                 "id": "zh-0684",
                 "w": "痛苦",
                 "p": "tòng kǔ",
                 "d": "pain",
-                "s": ""
+                "s": "我不能再忍受这种痛苦了。 (I can't take this pain anymore.)"
             },
             {
                 "id": "zh-0685",
                 "w": "城市",
                 "p": "chéng shì",
                 "d": "city; town",
-                "s": ""
+                "s": "我一点都不喜欢这个城市。 (I don't like this city at all.)"
             },
             {
                 "id": "zh-0686",
                 "w": "力量",
                 "p": "lì liang",
                 "d": "power; force; strength",
-                "s": ""
+                "s": "习惯的力量是伟大的。 (Great is the power of habit.)"
             },
             {
                 "id": "zh-0687",
                 "w": "对于",
                 "p": "duì yú",
                 "d": "regarding; as far as (sth) is concerned; with regard to",
-                "s": ""
+                "s": "这对于我来说没任何意义。 (It doesn't make sense to me.)"
             },
             {
                 "id": "zh-0688",
                 "w": "男孩",
                 "p": "nán hái",
                 "d": "boy",
-                "s": ""
+                "s": "这个男孩把他的手弄脏了。 (The boy got his hands dirty.)"
             },
             {
                 "id": "zh-0689",
                 "w": "三",
                 "p": "sān",
                 "d": "three",
-                "s": ""
+                "s": "Tom的房子有三个房间。 (Tom's house has three rooms.)"
             },
             {
                 "id": "zh-0690",
                 "w": "博士",
                 "p": "bó shì",
                 "d": "doctor (as an academic degree)",
-                "s": ""
+                "s": "预定在一点半与博士见面。 (I planned to meet the professor at 1:30.)"
             },
             {
                 "id": "zh-0691",
                 "w": "姐姐",
                 "p": "jiě jie",
                 "d": "older sister",
-                "s": ""
+                "s": "我给了我姐姐一个洋娃娃。 (I gave my sister a doll.)"
             },
             {
                 "id": "zh-0692",
                 "w": "总",
                 "p": "zǒng",
                 "d": "(bound form) general; overall",
-                "s": ""
+                "s": "汤姆脾气为什么总这么坏？ (Why's Tom always so grumpy?)"
             },
             {
                 "id": "zh-0693",
                 "w": "离",
                 "p": "lí",
                 "d": "to leave",
-                "s": ""
+                "s": "我离开了日本有10年了。 (I left Japan ten years ago.)"
             },
             {
                 "id": "zh-0694",
                 "w": "放下",
                 "p": "fàng xià",
                 "d": "to lay down; to put down",
-                "s": ""
+                "s": "他放下东西，就走了。 (He put his things down and left.)"
             },
             {
                 "id": "zh-0695",
                 "w": "不该",
                 "p": "bù gāi",
                 "d": "should not",
-                "s": ""
+                "s": "我不该把我的房子卖了的。 (I shouldn't have sold my house.)"
             },
             {
                 "id": "zh-0696",
                 "w": "昨天",
                 "p": "zuó tiān",
                 "d": "yesterday",
-                "s": ""
+                "s": "昨天他遇到了高大的男人。 (Yesterday he saw a big man.)"
             },
             {
                 "id": "zh-0697",
                 "w": "紧张",
                 "p": "jǐn zhāng",
                 "d": "nervous",
-                "s": ""
+                "s": "我紧张得说不出话来了。 (I've got a frog in my throat.)"
             },
             {
                 "id": "zh-0698",
                 "w": "那天",
                 "p": "nà tiān",
                 "d": "that day",
-                "s": ""
+                "s": "那天我丢了我的照相机。 (I lost my camera the other day.)"
             },
             {
                 "id": "zh-0699",
                 "w": "完美",
                 "p": "wán měi",
                 "d": "perfect",
-                "s": ""
+                "s": "你做了一项完美的工作。 (You've done a perfect job.)"
             },
             {
                 "id": "zh-0700",
                 "w": "原来",
                 "p": "yuán lái",
                 "d": "original; former",
-                "s": ""
+                "s": "把书放回它原来的地方。 (Put the book back where it was.)"
             },
             {
                 "id": "zh-0701",
                 "w": "监狱",
                 "p": "jiān yù",
                 "d": "prison",
-                "s": ""
+                "s": "我在监狱里打扫过厕所。 (I cleaned toilets in a prison.)"
             },
             {
                 "id": "zh-0702",
                 "w": "伟大",
                 "p": "wěi dà",
                 "d": "huge; great; grand; worthy of the greatest admiration; important (contribution etc)",
-                "s": ""
+                "s": "他以一个伟大的诗人闻名。 (He is known as a great poet.)"
             },
             {
                 "id": "zh-0703",
                 "w": "简直",
                 "p": "jiǎn zhí",
                 "d": "simply; really",
-                "s": ""
+                "s": "我简直不用花钱就买到了。 (I got it for next to nothing.)"
             },
             {
                 "id": "zh-0704",
                 "w": "交给",
                 "p": "jiāo gěi",
                 "d": "to give; to deliver; to hand over",
-                "s": ""
+                "s": "任何工作你都可以放心的交给他。 (You can trust him with any job.)"
             },
             {
                 "id": "zh-0705",
                 "w": "正常",
                 "p": "zhèng cháng",
                 "d": "normal; regular",
-                "s": ""
+                "s": "我从来不做梦，这正常吗？ (I never dream. Is that normal?)"
             },
             {
                 "id": "zh-0706",
                 "w": "以及",
                 "p": "yǐ jí",
                 "d": "and; as well as",
-                "s": ""
+                "s": "他打出租车以及时赶到。 (He took a taxi to get there in time.)"
             },
             {
                 "id": "zh-0707",
                 "w": "重新",
                 "p": "chóng xīn",
                 "d": "again; once more; re-",
-                "s": ""
+                "s": "你必须重新启动你的电脑。 (You must reboot your computer.)"
             },
             {
                 "id": "zh-0708",
                 "w": "研究",
                 "p": "yán jiū",
                 "d": "research",
-                "s": ""
+                "s": "他对我的研究提供建议。 (He advised me on my study.)"
             },
             {
                 "id": "zh-0709",
                 "w": "正确",
                 "p": "zhèng què",
                 "d": "correct; sound; right; proper",
-                "s": ""
+                "s": "汤姆最终做了点正确的事。 (Tom finally did something right.)"
             },
             {
                 "id": "zh-0710",
                 "w": "附近",
                 "p": "fù jìn",
                 "d": "nearby; neighboring",
-                "s": ""
+                "s": "他在门附近看到了一只狗。 (He saw a dog near the door.)"
             },
             {
                 "id": "zh-0711",
                 "w": "不然",
                 "p": "bù rán",
                 "d": "not so",
-                "s": ""
+                "s": "别动，不然我就开枪射你。 (Don't move, or I'll shoot you.)"
             },
             {
                 "id": "zh-0712",
                 "w": "坏",
                 "p": "huài",
                 "d": "bad",
-                "s": ""
+                "s": "汤姆脾气为什么总这么坏？ (Why's Tom always so grumpy?)"
             },
             {
                 "id": "zh-0713",
                 "w": "方正",
                 "p": "fāng zhèng",
                 "d": "clear and square",
-                "s": ""
+                "s": "警方正在调查那起谋杀案。 (The police are investigating the murder.)"
             },
             {
                 "id": "zh-0714",
                 "w": "可怜",
                 "p": "kě lián",
                 "d": "pitiful",
-                "s": ""
+                "s": "我觉得她一点也不可怜。 (I don't feel sorry for her.)"
             },
             {
                 "id": "zh-0715",
                 "w": "比较",
                 "p": "bǐ jiào",
                 "d": "to compare",
-                "s": ""
+                "s": "汤姆，你留在这里比较好。 (Tom, you'd better stay here.)"
             },
             {
                 "id": "zh-0716",
                 "w": "字幕",
                 "p": "zì mù",
                 "d": "subtitles; captions (of a movie etc)",
-                "s": ""
+                "s": "许多动画的共同语言是字幕。 (The common language of many anime is subtitles.)"
             },
             {
                 "id": "zh-0717",
                 "w": "门",
                 "p": "mén",
                 "d": "gate; door; doorway; gateway; opening (CL:扇)",
-                "s": ""
+                "s": "他在门附近看到了一只狗。 (He saw a dog near the door.)"
             },
             {
                 "id": "zh-0718",
                 "w": "者",
                 "p": "zhě",
                 "d": "(after a verb or adjective) one who (is) ...",
-                "s": ""
+                "s": "全世界无产者，联合起来！ (Workers of the world, unite!)"
             },
             {
                 "id": "zh-0719",
                 "w": "加入",
                 "p": "jiā rù",
                 "d": "to become a member",
-                "s": ""
+                "s": "请问，我可以加入你们吗？ (Excuse me, can I join you?)"
             },
             {
                 "id": "zh-0720",
                 "w": "不够",
                 "p": "bù gòu",
                 "d": "not enough",
-                "s": ""
+                "s": "第二优秀是远远不够的。 (Second best is never enough.)"
             },
             {
                 "id": "zh-0721",
                 "w": "安静",
                 "p": "ān jìng",
                 "d": "quiet",
-                "s": ""
+                "s": "郊区很安静...... (It's quiet in the suburbs...)"
             },
             {
                 "id": "zh-0722",
                 "w": "美丽",
                 "p": "měi lì",
                 "d": "beautiful",
-                "s": ""
+                "s": "斯洛伐克是个美丽的国家。 (Slovakia is a beautiful country.)"
             },
             {
                 "id": "zh-0723",
                 "w": "於",
                 "p": "wū",
                 "d": "(literary) Oh!",
-                "s": ""
+                "s": "他写了一本关於中国的书。 (He wrote a book about China.)"
             },
             {
                 "id": "zh-0724",
                 "w": "唱",
                 "p": "chàng",
                 "d": "to sing",
-                "s": ""
+                "s": "他喜欢唱歌，也喜欢跳舞。 (He likes singing and dancing.)"
             },
             {
                 "id": "zh-0725",
                 "w": "反正",
                 "p": "fǎn zhèng",
                 "d": "anyway",
-                "s": ""
+                "s": "反正已经太晚了。 (In any case, it's too late.)"
             },
             {
                 "id": "zh-0726",
                 "w": "记住",
                 "p": "jì zhu",
                 "d": "to remember",
-                "s": ""
+                "s": "记住我的级别在你的之上。 (Remember that I outrank you.)"
             },
             {
                 "id": "zh-0727",
                 "w": "政府",
                 "p": "zhèng fǔ",
                 "d": "government",
-                "s": ""
+                "s": "他们状告政府赔偿损失。 (They sued the government for damages.)"
             },
             {
                 "id": "zh-0728",
                 "w": "遇到",
                 "p": "yù dào",
                 "d": "to meet; to run into; to come across",
-                "s": ""
+                "s": "我遇到了许多没见过的人。 (I've met so many new people.)"
             },
             {
                 "id": "zh-0729",
                 "w": "咖啡",
                 "p": "kā fēi",
                 "d": "(loanword) coffee",
-                "s": ""
+                "s": "服务员，请给我三杯咖啡。 (Waiter, three coffees, please.)"
             },
             {
                 "id": "zh-0730",
                 "w": "有关",
                 "p": "yǒu guān",
                 "d": "to have sth to do with",
-                "s": ""
+                "s": "请告诉我有关你旅行的事。 (Please tell me about your trip.)"
             },
             {
                 "id": "zh-0731",
                 "w": "接",
                 "p": "jiē",
                 "d": "to receive",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-0732",
                 "w": "仍然",
                 "p": "réng rán",
                 "d": "still; as before; yet",
-                "s": ""
+                "s": "萨米仍然喜欢他的朋友。 (Sami still liked his friend.)"
             },
             {
                 "id": "zh-0733",
                 "w": "放开",
                 "p": "fàng kāi",
                 "d": "to let go",
-                "s": ""
+                "s": "放开我，你正在掐着我的脖子。 (Let me go, you're choking me.)"
             },
             {
                 "id": "zh-0734",
                 "w": "几乎",
                 "p": "jī hū",
                 "d": "almost; nearly; practically",
-                "s": ""
+                "s": "莎米的心几乎停止了跳动。 (Sami's heart almost stopped.)"
             },
             {
                 "id": "zh-0735",
                 "w": "代表",
                 "p": "dài biǎo",
                 "d": "representative",
-                "s": ""
+                "s": "这在阿拉伯语中代表什么？ (What does this mean in Arabic?)"
             },
             {
                 "id": "zh-0736",
                 "w": "陪",
                 "p": "péi",
                 "d": "to accompany",
-                "s": ""
+                "s": "我真的很喜欢你的陪伴。 (I really enjoyed your company.)"
             },
             {
                 "id": "zh-0737",
                 "w": "若",
                 "p": "ruò",
                 "d": "to seem",
-                "s": ""
+                "s": "你若累了，就去睡个觉。 (If you are tired, go to bed.)"
             },
             {
                 "id": "zh-0738",
                 "w": "国王",
                 "p": "guó wáng",
                 "d": "king",
-                "s": ""
+                "s": "当我长大后，我想当国王。 (When I grow up, I want to be king.)"
             },
             {
                 "id": "zh-0739",
                 "w": "书",
                 "p": "shū",
                 "d": "book",
-                "s": ""
+                "s": "他写了一本关於中国的书。 (He wrote a book about China.)"
             },
             {
                 "id": "zh-0740",
                 "w": "打扰",
                 "p": "dǎ rǎo",
                 "d": "to disturb",
-                "s": ""
+                "s": "我学习的时候不要打扰我。 (Don't disturb me while I'm studying.)"
             },
             {
                 "id": "zh-0741",
                 "w": "原谅",
                 "p": "yuán liàng",
                 "d": "to excuse",
-                "s": ""
+                "s": "要原谅，但是不要遗忘。 (Forgive, but don't forget.)"
             },
             {
                 "id": "zh-0742",
                 "w": "发誓",
                 "p": "fā shì",
                 "d": "to vow",
-                "s": ""
+                "s": "我发誓我看到了外星人。 (I swear, I saw an alien!)"
             },
             {
                 "id": "zh-0743",
                 "w": "纽约",
                 "p": "niǔ yuē",
                 "d": "New York",
-                "s": ""
+                "s": "我们去年秋天搬到了纽约。 (We moved to New York last fall.)"
             },
             {
                 "id": "zh-0744",
                 "w": "位置",
                 "p": "wèi zhi",
                 "d": "position",
-                "s": ""
+                "s": "我们会给你留个位置。 (We'll save a seat for you.)"
             },
             {
                 "id": "zh-0745",
                 "w": "偷",
                 "p": "tōu",
                 "d": "to steal",
-                "s": ""
+                "s": "他是最后一个偷东西的人。 (He is the last man to steal.)"
             },
             {
                 "id": "zh-0746",
                 "w": "安排",
                 "p": "ān pái",
                 "d": "to arrange",
-                "s": ""
+                "s": "请让我看一下日程安排！ (Please show me the schedule.)"
             },
             {
                 "id": "zh-0747",
                 "w": "表演",
                 "p": "biǎo yǎn",
                 "d": "play",
-                "s": ""
+                "s": "我们希望你喜欢这个表演。 (We hope you will enjoy the show.)"
             },
             {
                 "id": "zh-0748",
                 "w": "从没",
                 "p": "cóng méi",
                 "d": "never (in the past)",
-                "s": ""
+                "s": "我从没见过胖的纯素食者。 (I've never seen a fat vegan.)"
             },
             {
                 "id": "zh-0749",
                 "w": "除非",
                 "p": "chú fēi",
                 "d": "only if (..., or otherwise, ...)",
-                "s": ""
+                "s": "除非我问你，请你不要说话。 (Don't speak till spoken to.)"
             },
             {
                 "id": "zh-0750",
                 "w": "办",
                 "p": "bàn",
                 "d": "to take care of (a matter); to deal with (a task, procedure etc); to organize (an event)",
-                "s": ""
+                "s": "如果有人看见我们怎么办？ (And what if someone sees us?)"
             },
             {
                 "id": "zh-0751",
                 "w": "屁股",
                 "p": "pì gu",
                 "d": "buttocks",
-                "s": ""
+                "s": "我的屁股穿这个看起来大吗？ (Does my bum look big in this?)"
             },
             {
                 "id": "zh-0752",
                 "w": "生气",
                 "p": "shēng qì",
                 "d": "to get angry; to be furious",
-                "s": ""
+                "s": "我觉得汤姆听起来很生气。 (I thought Tom sounded angry.)"
             },
             {
                 "id": "zh-0753",
                 "w": "酒",
                 "p": "jiǔ",
                 "d": "wine (esp. rice wine)",
-                "s": ""
+                "s": "你酒喝得太醉了不能开车。 (You're too drunk to drive.)"
             },
             {
                 "id": "zh-0754",
                 "w": "恩",
                 "p": "ēn",
                 "d": "favor; grace; kindness",
-                "s": ""
+                "s": "特布恩能重建阿尔及利亚吗？ (Can Tebboune rebuild Algeria?)"
             },
             {
                 "id": "zh-0755",
                 "w": "手机",
                 "p": "shǒu jī",
                 "d": "cell phone; mobile phone",
-                "s": ""
+                "s": "你能告诉我你的手机号吗？ (Can you give me your cell number?)"
             },
             {
                 "id": "zh-0756",
                 "w": "老兄",
                 "p": "lǎo xiōng",
                 "d": "elder brother (often used self-referentially)",
-                "s": ""
+                "s": "照照镜子吧，老兄。 (Look in the mirror, pal.)"
             },
             {
                 "id": "zh-0757",
                 "w": "支持",
                 "p": "zhī chí",
                 "d": "to be in favor of",
-                "s": ""
+                "s": "我们提出了请求支持的呼吁。 (We made an appeal for support.)"
             },
             {
                 "id": "zh-0758",
                 "w": "必要",
                 "p": "bì yào",
                 "d": "necessary",
-                "s": ""
+                "s": "没有必要说话这么大声。 (There's no need to speak so loud.)"
             },
             {
                 "id": "zh-0759",
                 "w": "错误",
                 "p": "cuò wù",
                 "d": "mistaken; false; wrong",
-                "s": ""
+                "s": "汤姆犯了一个严重的错误。 (Tom made a horrible mistake.)"
             },
             {
                 "id": "zh-0760",
                 "w": "人生",
                 "p": "rén shēng",
                 "d": "life (one's time on earth)",
-                "s": ""
+                "s": "他跟我讲了他的人生故事。 (He told me his life's story.)"
             },
             {
                 "id": "zh-0761",
                 "w": "攻击",
                 "p": "gōng jī",
                 "d": "to attack",
-                "s": ""
+                "s": "这只狗攻击了这个小男孩。 (The dog attacked the little boy.)"
             },
             {
                 "id": "zh-0762",
                 "w": "跟着",
                 "p": "gēn zhe",
                 "d": "to follow after",
-                "s": ""
+                "s": "汤姆跟着玛丽进入了房间。 (Tom followed Mary into the room.)"
             },
             {
                 "id": "zh-0763",
                 "w": "杀死",
                 "p": "shā sǐ",
                 "d": "to kill",
-                "s": ""
+                "s": "上帝死了。我们杀死了他。 (God died. We killed Him.)"
             },
             {
                 "id": "zh-0764",
                 "w": "钥匙",
                 "p": "yào shi",
                 "d": "key",
-                "s": ""
+                "s": "现在，我把钥匙放哪里了？ (Now where did I put the key?)"
             },
             {
                 "id": "zh-0765",
                 "w": "叔叔",
                 "p": "shū shu",
                 "d": "father's younger brother; paternal uncle",
-                "s": ""
+                "s": "我叔叔给了我一个照相机。 (My uncle gave me a camera.)"
             },
             {
                 "id": "zh-0766",
                 "w": "食物",
                 "p": "shí wù",
                 "d": "food",
-                "s": ""
+                "s": "羽衣甘蓝被称为超级食物。 (Kale is called a superfood.)"
             },
             {
                 "id": "zh-0767",
                 "w": "妹妹",
                 "p": "mèi mei",
                 "d": "younger sister",
-                "s": ""
+                "s": "我妹妹有架漂亮的钢琴。 (My sister has a nice piano.)"
             },
             {
                 "id": "zh-0768",
                 "w": "建议",
                 "p": "jiàn yì",
                 "d": "to propose; to suggest; to recommend",
-                "s": ""
+                "s": "她给了我一些很好的建议。 (She gave me some good advice.)"
             },
             {
                 "id": "zh-0769",
                 "w": "骗",
                 "p": "piàn",
                 "d": "to cheat",
-                "s": ""
+                "s": "一些人被甜言蜜语欺骗。 (Some are deceived by fair words.)"
             },
             {
                 "id": "zh-0770",
                 "w": "梦",
                 "p": "mèng",
                 "d": "dream (CL:場|场)",
-                "s": ""
+                "s": "我知道那只不过是一场梦。 (I know it was just a dream.)"
             },
             {
                 "id": "zh-0771",
                 "w": "斯",
                 "p": "sī",
                 "d": "(phonetic)",
-                "s": ""
+                "s": "她喜欢听俄罗斯流行音乐。 (She likes Russian pop music.)"
             },
             {
                 "id": "zh-0772",
                 "w": "再次",
                 "p": "zài cì",
                 "d": "once more; once again",
-                "s": ""
+                "s": "我很高兴再次见到了她。 (I was happy to see her again.)"
             },
             {
                 "id": "zh-0773",
                 "w": "案子",
                 "p": "àn zi",
                 "d": "long table; counter",
-                "s": ""
+                "s": "我把案子跟你说说。 (I'll tell you about the case.)"
             },
             {
                 "id": "zh-0774",
                 "w": "下面",
                 "p": "xià miàn",
                 "d": "below",
-                "s": ""
+                "s": "请把下面的句子翻译一下。 (Please translate the sentence below.)"
             },
             {
                 "id": "zh-0775",
                 "w": "听见",
                 "p": "tīng jiàn",
                 "d": "to hear",
-                "s": ""
+                "s": "我们听见了他下楼的声音。 (We heard him come downstairs.)"
             },
             {
                 "id": "zh-0776",
                 "w": "约",
                 "p": "yuē",
                 "d": "to make an appointment",
-                "s": ""
+                "s": "汤姆向玛莉隐瞒约翰的事。 (Tom lied to Mary about John.)"
             },
             {
                 "id": "zh-0777",
                 "w": "坚持",
                 "p": "jiān chí",
                 "d": "to persevere with",
-                "s": ""
+                "s": "坚持下去直到我找到你。 (Hang on till I get to you.)"
             },
             {
                 "id": "zh-0778",
                 "w": "严重",
                 "p": "yán zhòng",
                 "d": "grave; serious; severe; critical",
-                "s": ""
+                "s": "汤姆犯了一个严重的错误。 (Tom made a horrible mistake.)"
             },
             {
                 "id": "zh-0779",
                 "w": "哈",
                 "p": "hā",
                 "d": "(interj.) ha!",
-                "s": ""
+                "s": "哈佛始建于1636年。 (Harvard was founded in 1636.)"
             },
             {
                 "id": "zh-0780",
                 "w": "教",
                 "p": "jiào",
                 "d": "(bound form) to teach; to instruct",
-                "s": ""
+                "s": "你必须从失败中吸取教训。 (You must learn from mistakes.)"
             },
             {
                 "id": "zh-0781",
                 "w": "经常",
                 "p": "jīng cháng",
                 "d": "frequently; constantly; regularly; often",
-                "s": ""
+                "s": "我家的狗经常躺在草地上。 (My dog often lies on the grass.)"
             },
             {
                 "id": "zh-0782",
                 "w": "礼物",
                 "p": "lǐ wù",
                 "d": "gift; present",
-                "s": ""
+                "s": "他送给我一份漂亮的礼物。 (He gave a nice present to me.)"
             },
             {
                 "id": "zh-0783",
                 "w": "约会",
                 "p": "yuē huì",
                 "d": "appointment",
-                "s": ""
+                "s": "我父母不让我和男生约会。 (My parents won't let me date.)"
             },
             {
                 "id": "zh-0784",
                 "w": "首先",
                 "p": "shǒu xiān",
                 "d": "first of all; in the first place",
-                "s": ""
+                "s": "首先，我要听听双方的意见。 (First, I should hear both sides.)"
             },
             {
                 "id": "zh-0785",
                 "w": "另外",
                 "p": "lìng wài",
                 "d": "additional",
-                "s": ""
+                "s": "所以你来自另外一个星球？ (So you come from another planet?)"
             },
             {
                 "id": "zh-0786",
                 "w": "提供",
                 "p": "tí gōng",
                 "d": "to offer",
-                "s": ""
+                "s": "他们这里提供一流的美食。 (They serve excellent food here.)"
             },
             {
                 "id": "zh-0787",
                 "w": "信",
                 "p": "xìn",
                 "d": "letter",
-                "s": ""
+                "s": "我写了一封信给我的母亲。 (I wrote my mother a letter.)"
             },
             {
                 "id": "zh-0788",
                 "w": "组织",
                 "p": "zǔ zhī",
                 "d": "to organize",
-                "s": ""
+                "s": "我们组织了一个专案团队。 (We organized a project team.)"
             },
             {
                 "id": "zh-0789",
                 "w": "幸运",
                 "p": "xìng yùn",
                 "d": "fortunate; lucky",
-                "s": ""
+                "s": "她很幸运地赢得了奖学金。 (Luckily she won a scholarship.)"
             },
             {
                 "id": "zh-0790",
                 "w": "面前",
                 "p": "miàn qián",
                 "d": "in front of",
-                "s": ""
+                "s": "我跑著从他们面前经过。 (I went running past them.)"
             },
             {
                 "id": "zh-0791",
                 "w": "日子",
                 "p": "rì zi",
                 "d": "day",
-                "s": ""
+                "s": "我怎能忘记那些日子呢？ (How can I forget those days?)"
             },
             {
                 "id": "zh-0792",
                 "w": "动物",
                 "p": "dòng wù",
                 "d": "animal",
-                "s": ""
+                "s": "猫头鹰是我最喜欢的动物。 (Owls are my favorite animals.)"
             },
             {
                 "id": "zh-0793",
                 "w": "敌人",
                 "p": "dí rén",
                 "d": "enemy",
-                "s": ""
+                "s": "今日的朋友是明日的敌人。 (Friends today, enemies tomorrow.)"
             },
             {
                 "id": "zh-0794",
                 "w": "舒服",
                 "p": "shū fu",
                 "d": "comfortable",
-                "s": ""
+                "s": "Tom说他感觉不舒服。 (Tom says he isn't feeling well.)"
             },
             {
                 "id": "zh-0795",
                 "w": "再也",
                 "p": "zài yě",
                 "d": "(not) ever again; (not) any longer",
-                "s": ""
+                "s": "你以后再也不会看到它了。 (You'll never see that again.)"
             },
             {
                 "id": "zh-0796",
                 "w": "远",
                 "p": "yuǎn",
                 "d": "far",
-                "s": ""
+                "s": "她永远也做不到保守秘密。 (She can never keep a secret.)"
             },
             {
                 "id": "zh-0797",
                 "w": "操",
                 "p": "cāo",
                 "d": "to grasp",
-                "s": ""
+                "s": "要用心，不要操心、烦心。 (Be diligent, don't worry.)"
             },
             {
                 "id": "zh-0798",
                 "w": "早就",
                 "p": "zǎo jiù",
                 "d": "already at an earlier time",
-                "s": ""
+                "s": "我早就和他说过这些了。 (I've already told him that.)"
             },
             {
                 "id": "zh-0799",
                 "w": "逼",
                 "p": "bī",
                 "d": "to force (sb to do sth)",
-                "s": ""
+                "s": "我们被逼得走投无路了。 (We were driven to the wall.)"
             },
             {
                 "id": "zh-0800",
                 "w": "系统",
                 "p": "xì tǒng",
                 "d": "system",
-                "s": ""
+                "s": "这个系统有些明显的缺陷。 (This system has obvious defects.)"
             },
             {
                 "id": "zh-0801",
                 "w": "受伤",
                 "p": "shòu shāng",
                 "d": "to sustain injuries",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-0802",
                 "w": "中国",
                 "p": "zhōng guó",
                 "d": "China",
-                "s": ""
+                "s": "他写了一本关於中国的书。 (He wrote a book about China.)"
             },
             {
                 "id": "zh-0803",
                 "w": "信息",
                 "p": "xìn xī",
                 "d": "information; news; message",
-                "s": ""
+                "s": "汤姆拒绝提供详细信息。 (Tom declined to give details.)"
             },
             {
                 "id": "zh-0804",
                 "w": "关心",
                 "p": "guān xīn",
                 "d": "to be concerned about; to care about",
-                "s": ""
+                "s": "你关心他们在想什么吗？ (Do you care what they think?)"
             },
             {
                 "id": "zh-0805",
                 "w": "的确",
                 "p": "dí què",
                 "d": "really",
-                "s": ""
+                "s": "那座泳池看来的确很吸引人。 (That pool really looks inviting.)"
             },
             {
                 "id": "zh-0806",
                 "w": "星期",
                 "p": "xīng qī",
                 "d": "week",
-                "s": ""
+                "s": "我建议我们星期五出去玩。 (I suggest we go out on Friday.)"
             },
             {
                 "id": "zh-0807",
                 "w": "表现",
                 "p": "biǎo xiàn",
                 "d": "to show",
-                "s": ""
+                "s": "他的工作表现得很不细心。 (His work showed carelessness.)"
             },
             {
                 "id": "zh-0808",
                 "w": "不得不",
                 "p": "bù dé bù",
                 "d": "have no choice or option but to",
-                "s": ""
+                "s": "这些都是你不得不做的吗？ (Is that all you have to do?)"
             },
             {
                 "id": "zh-0809",
                 "w": "寻找",
                 "p": "xún zhǎo",
                 "d": "to seek; to look for",
-                "s": ""
+                "s": "他四处寻找避雨的地方。 (He sought shelter from the rain.)"
             },
             {
                 "id": "zh-0810",
                 "w": "放松",
                 "p": "fàng sōng",
                 "d": "to relax; to slacken; to loosen",
-                "s": ""
+                "s": "她在他们家里感觉很放松。 (She feels at ease in their home.)"
             },
             {
                 "id": "zh-0811",
                 "w": "船",
                 "p": "chuán",
                 "d": "boat",
-                "s": ""
+                "s": "我知道很多关於船的知识。 (I know a lot about ships.)"
             },
             {
                 "id": "zh-0812",
                 "w": "女",
                 "p": "nǚ",
                 "d": "female",
-                "s": ""
+                "s": "我看见一个长头发的女生。 (I saw a girl with long hair.)"
             },
             {
                 "id": "zh-0813",
                 "w": "那时",
                 "p": "nà shí",
                 "d": "then",
-                "s": ""
+                "s": "就在那时，公交车停住了。 (Just then, the bus stopped.)"
             },
             {
                 "id": "zh-0814",
                 "w": "二",
                 "p": "èr",
                 "d": "two",
-                "s": ""
+                "s": "二十年是一段漫长的岁月。 (Twenty years is a long time.)"
             },
             {
                 "id": "zh-0815",
                 "w": "大学",
                 "p": "dà xué",
                 "d": "university; college",
-                "s": ""
+                "s": "这所大学是什么时候建的？ (When was this university founded?)"
             },
             {
                 "id": "zh-0816",
                 "w": "学生",
                 "p": "xué sheng",
                 "d": "student",
-                "s": ""
+                "s": "爱迪生不是个优秀的学生。 (Edison was not a bright student.)"
             },
             {
                 "id": "zh-0817",
                 "w": "将军",
                 "p": "jiāng jūn",
                 "d": "general",
-                "s": ""
+                "s": "将军。 (Check.)"
             },
             {
                 "id": "zh-0818",
                 "w": "到处",
                 "p": "dào chù",
                 "d": "everywhere",
-                "s": ""
+                "s": "我到处找不到钥匙。 (I can't find my keys anywhere.)"
             },
             {
                 "id": "zh-0819",
                 "w": "第一",
                 "p": "dì yī",
                 "d": "first",
-                "s": ""
+                "s": "汤姆得了第一名，不是吗? (Tom got first prize, didn't he?)"
             },
             {
                 "id": "zh-0820",
                 "w": "见面",
                 "p": "jiàn miàn",
                 "d": "to meet; to see each other",
-                "s": ""
+                "s": "我们会在我的办公室见面。 (We'll meet in my office.)"
             },
             {
                 "id": "zh-0821",
                 "w": "日本",
                 "p": "rì běn",
                 "d": "Japan",
-                "s": ""
+                "s": "我离开了日本有10年了。 (I left Japan ten years ago.)"
             },
             {
                 "id": "zh-0822",
                 "w": "理由",
                 "p": "lǐ yóu",
                 "d": "reason",
-                "s": ""
+                "s": "他简单地阐述了他的理由。 (He gave his reasons in brief.)"
             },
             {
                 "id": "zh-0823",
                 "w": "事实上",
                 "p": "shì shí shàng",
                 "d": "in fact",
-                "s": ""
+                "s": "事实上他并不是主管。 (He isn't actually the manager.)"
             },
             {
                 "id": "zh-0824",
                 "w": "阿",
                 "p": "ā",
                 "d": "prefix used before monosyllabic names, kinship terms etc to indicate familiarity",
-                "s": ""
+                "s": "这在阿拉伯语中代表什么？ (What does this mean in Arabic?)"
             },
             {
                 "id": "zh-0825",
                 "w": "跳舞",
                 "p": "tiào wǔ",
                 "d": "to dance",
-                "s": ""
+                "s": "他喜欢唱歌，也喜欢跳舞。 (He likes singing and dancing.)"
             },
             {
                 "id": "zh-0826",
                 "w": "拒绝",
                 "p": "jù jué",
                 "d": "to refuse; to decline; to reject",
-                "s": ""
+                "s": "他拒绝了我加好友的请求。 (He refused my friend request.)"
             },
             {
                 "id": "zh-0827",
                 "w": "久",
                 "p": "jiǔ",
                 "d": "(of a period of time) long",
-                "s": ""
+                "s": "淡淡地爱我，长久地爱我。 (Love me lithe, love me long.)"
             },
             {
                 "id": "zh-0828",
                 "w": "几天",
                 "p": "jǐ tiān",
                 "d": "several days",
-                "s": ""
+                "s": "我前几天收到了你的传真。 (I got your fax the other day.)"
             },
             {
                 "id": "zh-0829",
                 "w": "丢",
                 "p": "diū",
                 "d": "to lose",
-                "s": ""
+                "s": "她丢了很多的图书馆的书。 (She lost many library books.)"
             },
             {
                 "id": "zh-0830",
                 "w": "怀疑",
                 "p": "huái yí",
                 "d": "to doubt (sth); to be skeptical of",
-                "s": ""
+                "s": "这一消息证实了我的怀疑。 (The news confirmed my suspicions.)"
             },
             {
                 "id": "zh-0831",
                 "w": "信任",
                 "p": "xìn rèn",
                 "d": "to trust",
-                "s": ""
+                "s": "我再也无法相信任何人了。 (I can't believe anyone anymore.)"
             },
             {
                 "id": "zh-0832",
                 "w": "记录",
                 "p": "jì lù",
                 "d": "to record",
-                "s": ""
+                "s": "请把他所说的记录下来。 (Please write down what he says.)"
             },
             {
                 "id": "zh-0833",
                 "w": "此",
                 "p": "cǐ",
                 "d": "this; these",
-                "s": ""
+                "s": "约翰和安彼此互相喜欢。 (John and Ann like each other.)"
             },
             {
                 "id": "zh-0834",
                 "w": "认真",
                 "p": "rèn zhēn",
                 "d": "conscientious",
-                "s": ""
+                "s": "我不觉得汤姆是认真的。 (I don't think Tom is serious.)"
             },
             {
                 "id": "zh-0835",
                 "w": "战斗",
                 "p": "zhàn dòu",
                 "d": "to fight",
-                "s": ""
+                "s": "我们已经赢得了这场战斗。 (We've already won this battle.)"
             },
             {
                 "id": "zh-0836",
                 "w": "许多",
                 "p": "xǔ duō",
                 "d": "many",
-                "s": ""
+                "s": "我遇到了许多没见过的人。 (I've met so many new people.)"
             },
             {
                 "id": "zh-0837",
                 "w": "差不多",
                 "p": "chà bu duō",
                 "d": "almost",
-                "s": ""
+                "s": "我们差不多说服Tom了。 (We almost had Tom convinced.)"
             },
             {
                 "id": "zh-0838",
                 "w": "开门",
                 "p": "kāi mén",
                 "d": "(lit. and fig.) to open a door",
-                "s": ""
+                "s": "开门的时候我把锁弄坏了。 (I broke the lock opening the door.)"
             },
             {
                 "id": "zh-0839",
                 "w": "别说",
                 "p": "bié shuō",
                 "d": "to say nothing of; not to mention; let alone",
-                "s": ""
+                "s": "别说这么不吉利的话。 (Don't say such ill-omened things.)"
             },
             {
                 "id": "zh-0840",
                 "w": "神",
                 "p": "shén",
                 "d": "god; deity",
-                "s": ""
+                "s": "他把全副心神放在学业上。 (He applied himself to his study.)"
             },
             {
                 "id": "zh-0841",
                 "w": "之一",
                 "p": "zhī yī",
                 "d": "one of (sth)",
-                "s": ""
+                "s": "你是我最好的朋友之一。 (You're one of my best friends.)"
             },
             {
                 "id": "zh-0842",
                 "w": "幸福",
                 "p": "xìng fú",
                 "d": "happiness",
-                "s": ""
+                "s": "虽然他很有钱，但他不幸福。 (He's rich, but he isn't happy.)"
             },
             {
                 "id": "zh-0843",
                 "w": "哎",
                 "p": "āi",
                 "d": "hey!",
-                "s": ""
+                "s": "哎呀，我们好像忘了汤姆。 (Oops, I think we forgot Tom.)"
             },
             {
                 "id": "zh-0844",
                 "w": "同样",
                 "p": "tóng yàng",
                 "d": "same; equal; similar",
-                "s": ""
+                "s": "她犯了和以前同样的错误。 (She made the same mistake as before.)"
             },
             {
                 "id": "zh-0845",
                 "w": "有时",
                 "p": "yǒu shí",
                 "d": "sometimes; now and then",
-                "s": ""
+                "s": "有时候，我还是会想起她。 (Sometimes I still miss her.)"
             },
             {
                 "id": "zh-0846",
                 "w": "影响",
                 "p": "yǐng xiǎng",
                 "d": "influence",
-                "s": ""
+                "s": "吸烟会影响我们的健康。 (Smoking affects our health.)"
             },
             {
                 "id": "zh-0847",
                 "w": "便",
                 "p": "biàn",
                 "d": "plain",
-                "s": ""
+                "s": "我不能这么随便地请病假。 (I can't just call in sick.)"
             },
             {
                 "id": "zh-0848",
                 "w": "算",
                 "p": "suàn",
                 "d": "to calculate; to figure out",
-                "s": ""
+                "s": "我打算把这块手表送给你。 (This watch is meant for you.)"
             },
             {
                 "id": "zh-0849",
                 "w": "吃饭",
                 "p": "chī fàn",
                 "d": "to have a meal",
-                "s": ""
+                "s": "今天中午我们出去吃饭吗？ (Are we going out for lunch today?)"
             },
             {
                 "id": "zh-0850",
                 "w": "正是",
                 "p": "zhèng shì",
                 "d": "is precisely",
-                "s": ""
+                "s": "我给她的正是她所需要的。 (I gave her just what she needed.)"
             },
             {
                 "id": "zh-0851",
                 "w": "不必",
                 "p": "bù bì",
                 "d": "need not",
-                "s": ""
+                "s": "时间还早，不必这么早起床。 (It's still too early to get up.)"
             },
             {
                 "id": "zh-0852",
                 "w": "而是",
                 "p": "ér shì",
                 "d": "rather",
-                "s": ""
+                "s": "她们不是敌人，而是朋友。 (They are not enemies, but friends.)"
             },
             {
                 "id": "zh-0853",
                 "w": "住手",
                 "p": "zhù shǒu",
                 "d": "to desist",
-                "s": ""
+                "s": "警察对他们说：“住手”。 (The policemen said to them, \"Stop.\")"
             },
             {
                 "id": "zh-0854",
                 "w": "走开",
                 "p": "zǒu kāi",
                 "d": "to leave; to walk away; to beat it",
-                "s": ""
+                "s": "走开！别在这儿玩儿。 (Get out! Don't play here!)"
             },
             {
                 "id": "zh-0855",
                 "w": "弟弟",
                 "p": "dì di",
                 "d": "younger brother",
-                "s": ""
+                "s": "他是 Taro 的弟弟。 (He's Taro's younger brother.)"
             },
             {
                 "id": "zh-0856",
                 "w": "道歉",
                 "p": "dào qiàn",
                 "d": "to apologize",
-                "s": ""
+                "s": "我必须向 Ann 道歉。 (I must apologize to Ann.)"
             },
             {
                 "id": "zh-0857",
                 "w": "人家",
                 "p": "rén jiā",
                 "d": "household",
-                "s": ""
+                "s": "至少20户人家着火了。 (At least 20 households caught fire.)"
             },
             {
                 "id": "zh-0858",
                 "w": "意味着",
                 "p": "yì wèi zhe",
                 "d": "to signify",
-                "s": ""
+                "s": "这是不是意味着你不会来了？ (Does that mean you won't come?)"
             },
             {
                 "id": "zh-0859",
                 "w": "想象",
                 "p": "xiǎng xiàng",
                 "d": "to imagine; to envision",
-                "s": ""
+                "s": "我不敢想象没有你的日子. (I can't imagine life without you.)"
             },
             {
                 "id": "zh-0860",
                 "w": "按",
                 "p": "àn",
                 "d": "to press",
-                "s": ""
+                "s": "我想要按摩。我需要放松。 (I want a massage. I need to relax.)"
             },
             {
                 "id": "zh-0861",
                 "w": "一会儿",
                 "p": "yī huì r",
                 "d": "a moment",
-                "s": ""
+                "s": "你可以待在这里一会儿吗？ (Will you stay here a moment?)"
             },
             {
                 "id": "zh-0862",
                 "w": "承认",
                 "p": "chéng rèn",
                 "d": "to admit",
-                "s": ""
+                "s": "汤姆承认他杀死了玛丽。 (Tom admitted to killing Mary.)"
             },
             {
                 "id": "zh-0863",
                 "w": "每次",
                 "p": "měi cì",
                 "d": "each time; every time",
-                "s": ""
+                "s": "我每次看这部电影都会哭。 (I cry every time I watch this movie.)"
             },
             {
                 "id": "zh-0864",
                 "w": "万",
                 "p": "mò",
                 "d": "used in 万俟",
-                "s": ""
+                "s": "万一发生火灾，按下按钮。 (In case of fire, push the button.)"
             },
             {
                 "id": "zh-0865",
                 "w": "银行",
                 "p": "yín háng",
                 "d": "bank",
-                "s": ""
+                "s": "这家银行一周前被抢劫。 (The bank was held up a week ago.)"
             },
             {
                 "id": "zh-0866",
                 "w": "剩下",
                 "p": "shèng xià",
                 "d": "to remain; to be left over",
-                "s": ""
+                "s": "他剩下的时间已经不多了。 (He doesn't have long to live.)"
             },
             {
                 "id": "zh-0867",
                 "w": "足够",
                 "p": "zú gòu",
                 "d": "enough; sufficient",
-                "s": ""
+                "s": "他的胸中还有足够的斗志。 (He had plenty of fight left in him.)"
             },
             {
                 "id": "zh-0868",
                 "w": "有事",
                 "p": "yǒu shì",
                 "d": "to be occupied with sth",
-                "s": ""
+                "s": "所有事都取决於你的决定。 (Everything depends upon your decision.)"
             },
             {
                 "id": "zh-0869",
                 "w": "老爸",
                 "p": "lǎo bà",
                 "d": "father; dad",
-                "s": ""
+                "s": "汤姆会被他老爸教训的。 (Tom will be scolded by his father.)"
             },
             {
                 "id": "zh-0870",
                 "w": "全都",
                 "p": "quán dōu",
                 "d": "all",
-                "s": ""
+                "s": "这些东西全都是你的吗？ (Are these all your belongings?)"
             },
             {
                 "id": "zh-0871",
                 "w": "达",
                 "p": "dá",
                 "d": "to attain",
-                "s": ""
+                "s": "医护人员已抵达事发现场。 (Paramedics are on the scene.)"
             },
             {
                 "id": "zh-0872",
                 "w": "看上去",
                 "p": "kàn shang qu",
                 "d": "it would appear",
-                "s": ""
+                "s": "你穿着和服看上去很漂亮。 (You look good in a kimono.)"
             },
             {
                 "id": "zh-0873",
                 "w": "系",
                 "p": "xì",
                 "d": "system",
-                "s": ""
+                "s": "他们办了一系列的音乐会。 (They gave a series of concerts.)"
             },
             {
                 "id": "zh-0874",
                 "w": "无论",
                 "p": "wú lùn",
                 "d": "no matter what or how",
-                "s": ""
+                "s": "无论何时都要扣好安全带。 (Always fasten your seatbelt.)"
             },
             {
                 "id": "zh-0875",
                 "w": "老天",
                 "p": "lǎo tiān",
                 "d": "God",
-                "s": ""
+                "s": "老天！我杀了一个孕妇！ (Oh my god! I've killed a pregnant woman!)"
             },
             {
                 "id": "zh-0876",
                 "w": "多么",
                 "p": "duō me",
                 "d": "how (wonderful etc)",
-                "s": ""
+                "s": "你明白我有多么爱你吗？ (Do you know how much I love you?)"
             },
             {
                 "id": "zh-0877",
                 "w": "变",
                 "p": "biàn",
                 "d": "to change",
-                "s": ""
+                "s": "任何任务都可能变得费力。 (Any task may become painful.)"
             },
             {
                 "id": "zh-0878",
                 "w": "难",
                 "p": "nán",
                 "d": "difficult (to...)",
-                "s": ""
+                "s": "生活很困难，但我更坚强。 (Life is hard, but I am harder.)"
             },
             {
                 "id": "zh-0879",
                 "w": "分",
                 "p": "fēn",
                 "d": "to divide; to separate",
-                "s": ""
+                "s": "我们过着十分平凡的生活。 (We lead a very ordinary life.)"
             },
             {
                 "id": "zh-0880",
                 "w": "哪个",
                 "p": "nǎ ge",
                 "d": "which",
-                "s": ""
+                "s": "哪个比较重，铅还是黄金？ (Which is heavier, lead or gold?)"
             },
             {
                 "id": "zh-0881",
                 "w": "行为",
                 "p": "xíng wéi",
                 "d": "action; conduct; behavior; activity",
-                "s": ""
+                "s": "我对自己的行为感到羞愧。 (I was ashamed of my behavior.)"
             },
             {
                 "id": "zh-0882",
                 "w": "往",
                 "p": "wǎng",
                 "d": "to go (in a direction)",
-                "s": ""
+                "s": "他像往常一样五点钟起床。 (He got up at five as usual.)"
             },
             {
                 "id": "zh-0883",
                 "w": "适合",
                 "p": "shì hé",
                 "d": "to fit; to suit",
-                "s": ""
+                "s": "那条连衣裙真的很适合她。 (That dress really suits her.)"
             },
             {
                 "id": "zh-0884",
                 "w": "学习",
                 "p": "xué xí",
                 "d": "to learn; to study",
-                "s": ""
+                "s": "我没有强烈的欲望去学习。 (I don't feel like studying.)"
             },
             {
                 "id": "zh-0885",
                 "w": "出发",
                 "p": "chū fā",
                 "d": "to set off",
-                "s": ""
+                "s": "我们的火车在八点半出发。 (Our train leaves at eight-thirty.)"
             },
             {
                 "id": "zh-0886",
                 "w": "生意",
                 "p": "shēng yì",
                 "d": "life force",
-                "s": ""
+                "s": "这场生意正面临著赤字。 (The business is in the red.)"
             },
             {
                 "id": "zh-0887",
                 "w": "上去",
                 "p": "shàng qù",
                 "d": "to go up",
-                "s": ""
+                "s": "你穿着和服看上去很漂亮。 (You look good in a kimono.)"
             },
             {
                 "id": "zh-0888",
                 "w": "值得",
                 "p": "zhí de",
                 "d": "worth the money",
-                "s": ""
+                "s": "这座城堡很值得去看一看。 (The castle is worth visiting.)"
             },
             {
                 "id": "zh-0889",
                 "w": "搞定",
                 "p": "gǎo dìng",
                 "d": "to fix",
-                "s": ""
+                "s": "汤姆说他已经全部搞定了。 (Tom said he's done all of that already.)"
             },
             {
                 "id": "zh-0890",
                 "w": "派对",
                 "p": "pài duì",
                 "d": "(loanword) party",
-                "s": ""
+                "s": "这是我叁加过最棒的派对。 (It was the best party ever.)"
             },
             {
                 "id": "zh-0891",
                 "w": "同时",
                 "p": "tóng shí",
                 "d": "at the same time; simultaneously",
-                "s": ""
+                "s": "她可以同时做这两件事。 (She can do both at the same time.)"
             },
             {
                 "id": "zh-0892",
                 "w": "下次",
                 "p": "xià cì",
                 "d": "next time",
-                "s": ""
+                "s": "我会参加下次的会议。 (I'll attend the next meeting.)"
             },
             {
                 "id": "zh-0893",
                 "w": "通知",
                 "p": "tōng zhī",
                 "d": "to notify",
-                "s": ""
+                "s": "她来到的时候我会通知你。 (I'll let you know when she arrives.)"
             },
             {
                 "id": "zh-0894",
                 "w": "救命",
                 "p": "jiù mìng",
                 "d": "to save sb's life",
-                "s": ""
+                "s": "他听到某人叫救命。 (He heard someone calling for help.)"
             },
             {
                 "id": "zh-0895",
                 "w": "无",
                 "p": "wú",
                 "d": "not to have",
-                "s": ""
+                "s": "太热了所以我们无法工作。 (It's too hot for us to work.)"
             },
             {
                 "id": "zh-0896",
                 "w": "利用",
                 "p": "lì yòng",
                 "d": "to exploit",
-                "s": ""
+                "s": "他充分利用了剩余的时间。 (He made the best of the time left.)"
             },
             {
                 "id": "zh-0897",
                 "w": "后来",
                 "p": "hòu lái",
                 "d": "afterwards; later",
-                "s": ""
+                "s": "我本来想走的，但后来忘了。 (I wanted to go, but I forgot.)"
             },
             {
                 "id": "zh-0898",
                 "w": "画",
                 "p": "huà",
                 "d": "to draw; to paint",
-                "s": ""
+                "s": "毕加索是一个有名的画家。 (Picasso is a famous artist.)"
             },
             {
                 "id": "zh-0899",
                 "w": "早上好",
                 "p": "zǎo shang hǎo",
                 "d": "Good morning!",
-                "s": ""
+                "s": "早上好、现在我有冰淇淋。 (Good morning, right now I have ice cream.)"
             },
             {
                 "id": "zh-0900",
                 "w": "精神",
                 "p": "jīng shén",
                 "d": "spirit",
-                "s": ""
+                "s": "这是违背体育精神的行为！ (This is unsportsmanlike behavior!)"
             },
             {
                 "id": "zh-0901",
                 "w": "居然",
                 "p": "jū rán",
                 "d": "unexpectedly",
-                "s": ""
+                "s": "我没想到今天居然会哭的。 (I never expected I would end up crying today.)"
             },
             {
                 "id": "zh-0902",
                 "w": "受到",
                 "p": "shòu dào",
                 "d": "to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)",
-                "s": ""
+                "s": "你能感受到不同之处吗？ (Can you feel the difference?)"
             },
             {
                 "id": "zh-0903",
                 "w": "介绍",
                 "p": "jiè shào",
                 "d": "to introduce (sb to sb)",
-                "s": ""
+                "s": "请允许我自我介绍一下。 (Allow me to introduce myself.)"
             },
             {
                 "id": "zh-0904",
                 "w": "谢",
                 "p": "xiè",
                 "d": "to thank",
-                "s": ""
+                "s": "珍妮为这份礼物向我道谢。 (Jenny thanked me for the gift.)"
             },
             {
                 "id": "zh-0905",
                 "w": "既然",
                 "p": "jì rán",
                 "d": "since; as; this being the case",
-                "s": ""
+                "s": "你既然已经知道了，还问什么？ (If you already know, why are you still asking?)"
             },
             {
                 "id": "zh-0906",
                 "w": "米",
                 "p": "mǐ",
                 "d": "uncooked rice",
-                "s": ""
+                "s": "比起面包，我更喜欢米饭。 (I like rice more than bread.)"
             },
             {
                 "id": "zh-0907",
                 "w": "真相",
                 "p": "zhēn xiàng",
                 "d": "the truth about sth; the actual facts",
-                "s": ""
+                "s": "除了真相，我什么都不说。 (I speak nothing but the truth.)"
             },
             {
                 "id": "zh-0908",
                 "w": "电视",
                 "p": "diàn shì",
                 "d": "television; TV",
-                "s": ""
+                "s": "谁是你最喜爱的电视明星？ (Who's your favorite TV star?)"
             },
             {
                 "id": "zh-0909",
                 "w": "恨",
                 "p": "hèn",
                 "d": "to hate",
-                "s": ""
+                "s": "「爱」与「恨」是反义词。 (“Love” and “hate” are opposites.)"
             },
             {
                 "id": "zh-0910",
                 "w": "凶手",
                 "p": "xiōng shǒu",
                 "d": "murderer",
-                "s": ""
+                "s": "他对杀父凶手进行了报复。 (He avenged the murder of his father.)"
             },
             {
                 "id": "zh-0911",
                 "w": "卡",
                 "p": "kǎ",
                 "d": "to stop",
-                "s": ""
+                "s": "我们启程开车去卡比利亚。 (We started driving to Kabylie.)"
             },
             {
                 "id": "zh-0912",
                 "w": "没法",
                 "p": "méi fǎ",
                 "d": "at a loss",
-                "s": ""
+                "s": "现在很晚了，没法电联汤姆。 (It's too late to call Tom now.)"
             },
             {
                 "id": "zh-0913",
                 "w": "不知",
                 "p": "bù zhī",
                 "d": "not to know",
-                "s": ""
+                "s": "我不知道你为甚么在这里。 (I don't know why you're here.)"
             },
             {
                 "id": "zh-0914",
                 "w": "警官",
                 "p": "jǐng guān",
                 "d": "constable; police officer",
-                "s": ""
+                "s": "警官，我可什么都没做！ (Police officer, I didn't do anything!)"
             },
             {
                 "id": "zh-0915",
                 "w": "地狱",
                 "p": "dì yù",
                 "d": "hell; underworld; (Buddhism) Naraka",
-                "s": ""
+                "s": "你的灵魂已坠进了地狱。 (Your soul has been condemned to hell.)"
             },
             {
                 "id": "zh-0916",
                 "w": "经历",
                 "p": "jīng lì",
                 "d": "to experience; to go through",
-                "s": ""
+                "s": "这是一次很棒的经历。 (It was an amazing experience.)"
             },
             {
                 "id": "zh-0917",
                 "w": "属于",
                 "p": "shǔ yú",
                 "d": "to belong to; to fall under (a category)",
-                "s": ""
+                "s": "那辆车属于一家博物馆。 (The car belongs to a museum.)"
             },
             {
                 "id": "zh-0918",
                 "w": "饿",
                 "p": "è",
                 "d": "hungry",
-                "s": ""
+                "s": "你看起来好像饿了似的。 (You look like you're hungry.)"
             },
             {
                 "id": "zh-0919",
                 "w": "什",
                 "p": "shén",
                 "d": "what",
-                "s": ""
+                "s": "那孩子现在又在整什么了？ (What is the child up to now?)"
             },
             {
                 "id": "zh-0920",
                 "w": "威胁",
                 "p": "wēi xié",
                 "d": "to threaten; to menace",
-                "s": ""
+                "s": "对里士满的威胁结束了。 (The threat to Richmond was ended.)"
             },
             {
                 "id": "zh-0921",
                 "w": "可不是",
                 "p": "kě bu shì",
                 "d": "(coll.) exactly!; indeed; that's for sure",
-                "s": ""
+                "s": "可可不是一只普通的猩猩。 (Koko is not an ordinary gorilla.)"
             },
             {
                 "id": "zh-0922",
                 "w": "怪",
                 "p": "guài",
                 "d": "odd; strange; uncanny",
-                "s": ""
+                "s": "我的新发型是不是很奇怪？ (Is my new hair style funny?)"
             },
             {
                 "id": "zh-0923",
                 "w": "笨蛋",
                 "p": "bèn dàn",
                 "d": "(mild insult) fool; idiot",
-                "s": ""
+                "s": "我也知道汤姆不很笨蛋的。 (I also know that Tom isn't stupid.)"
             },
             {
                 "id": "zh-0924",
                 "w": "真实",
                 "p": "zhēn shí",
                 "d": "true; real",
-                "s": ""
+                "s": "我没把真实情况全说出来。 (I didn't tell the whole truth.)"
             },
             {
                 "id": "zh-0925",
                 "w": "法律",
                 "p": "fǎ lǜ",
                 "d": "law",
-                "s": ""
+                "s": "法律有很多不明确的地方。 (The law is full of ambiguities.)"
             },
             {
                 "id": "zh-0926",
                 "w": "实在",
                 "p": "shí zài",
                 "d": "really",
-                "s": ""
+                "s": "说实在的，我真的喜欢你。 (Honestly, I really like you.)"
             },
             {
                 "id": "zh-0927",
                 "w": "简体",
                 "p": "jiǎn tǐ",
                 "d": "simplified form of Chinese characters, as opposed to traditional form 繁體|繁体",
-                "s": ""
+                "s": "这是简体字。 (This is simplified Chinese.)"
             },
             {
                 "id": "zh-0928",
                 "w": "什么样",
                 "p": "shén me yàng",
                 "d": "what kind?; what sort?",
-                "s": ""
+                "s": "汤姆不知道它坏成什么样。 (Tom doesn't know how bad it is.)"
             },
             {
                 "id": "zh-0929",
                 "w": "能力",
                 "p": "néng lì",
                 "d": "capability",
-                "s": ""
+                "s": "他们有思考和说话的能力。 (They can think and speak.)"
             },
             {
                 "id": "zh-0930",
                 "w": "婚礼",
                 "p": "hūn lǐ",
                 "d": "wedding ceremony",
-                "s": ""
+                "s": "我被邀请叁加他们的婚礼。 (I was invited to their wedding.)"
             },
             {
                 "id": "zh-0931",
                 "w": "灵魂",
                 "p": "líng hún",
                 "d": "soul",
-                "s": ""
+                "s": "人是由灵魂和肉身组成的。 (Man consists of soul and body.)"
             },
             {
                 "id": "zh-0932",
                 "w": "客气",
                 "p": "kè qi",
                 "d": "polite",
-                "s": ""
+                "s": "别客气，我很愿意帮助你。 (You're welcome, I'd love to help you.)"
             },
             {
                 "id": "zh-0933",
                 "w": "瞧",
                 "p": "qiáo",
                 "d": "to look at",
-                "s": ""
+                "s": "富人往往瞧不起穷人。 (The rich are apt to look down upon the poor.)"
             },
             {
                 "id": "zh-0934",
                 "w": "白痴",
                 "p": "bái chī",
                 "d": "idiocy",
-                "s": ""
+                "s": "世界上都是白痴。 (The world is full of idiots.)"
             },
             {
                 "id": "zh-0935",
                 "w": "换",
                 "p": "huàn",
                 "d": "to exchange",
-                "s": ""
+                "s": "是不是应该换个伺服器? (Should we change the server?)"
             },
             {
                 "id": "zh-0936",
                 "w": "英国",
                 "p": "yīng guó",
                 "d": "United Kingdom (UK); Britain",
-                "s": ""
+                "s": "他误认为我是一个英国人。 (He took me for an Englishman.)"
             },
             {
                 "id": "zh-0937",
                 "w": "其",
                 "p": "qí",
                 "d": "his",
-                "s": ""
+                "s": "他是个极其自私自利的人。 (He is a lump of selfishness.)"
             },
             {
                 "id": "zh-0938",
                 "w": "允许",
                 "p": "yǔn xǔ",
                 "d": "to permit; to allow",
-                "s": ""
+                "s": "请允许我说一下我的想法。 (Let me say what I think.)"
             },
             {
                 "id": "zh-0939",
                 "w": "德",
                 "p": "dé",
                 "d": "virtue",
-                "s": ""
+                "s": "弗雷德的房子有五间房间。 (Fred's house has five rooms.)"
             },
             {
                 "id": "zh-0940",
                 "w": "交易",
                 "p": "jiāo yì",
                 "d": "to deal; to trade; to transact",
-                "s": ""
+                "s": "我看你该做这交易。 (I think you should make the deal.)"
             },
             {
                 "id": "zh-0941",
                 "w": "梦想",
                 "p": "mèng xiǎng",
                 "d": "(fig.) to dream of",
-                "s": ""
+                "s": "她的梦想是成为一名护士。 (Her dream is to become a nurse.)"
             },
             {
                 "id": "zh-0942",
                 "w": "杀人",
                 "p": "shā rén",
                 "d": "to kill a person; to commit murder",
-                "s": ""
+                "s": "那个杀人犯依然逍遥法外。 (The murderer is still at large.)"
             },
             {
                 "id": "zh-0943",
                 "w": "多谢",
                 "p": "duō xiè",
                 "d": "many thanks",
-                "s": ""
+                "s": "多谢！ (Thank you very much!)"
             },
             {
                 "id": "zh-0944",
                 "w": "管",
                 "p": "guǎn",
                 "d": "to take care (of)",
-                "s": ""
+                "s": "不管怎样，你永远不会知道。 (Anyway, you'll never know.)"
             },
             {
                 "id": "zh-0945",
                 "w": "意义",
                 "p": "yì yì",
                 "d": "sense",
-                "s": ""
+                "s": "这对于我来说没任何意义。 (It doesn't make sense to me.)"
             },
             {
                 "id": "zh-0946",
                 "w": "或是",
                 "p": "huò shì",
                 "d": "or",
-                "s": ""
+                "s": "你可以拿大的盒子或是小的盒子。 (You may take either the big box or the small one.)"
             },
             {
                 "id": "zh-0947",
                 "w": "美",
                 "p": "měi",
                 "d": "beautiful",
-                "s": ""
+                "s": "你什么时候将去亚美尼亚？ (When will you go to Armenia?)"
             },
             {
                 "id": "zh-0948",
                 "w": "教授",
                 "p": "jiāo shòu",
                 "d": "to teach (a subject)",
-                "s": ""
+                "s": "汤姆是一名教授，不是吗？ (Tom is a professor, isn't he?)"
             },
             {
                 "id": "zh-0949",
                 "w": "军队",
                 "p": "jūn duì",
                 "d": "armed forces; troops",
-                "s": ""
+                "s": "日本的军队在当时很强。 (Japan's army was very powerful.)"
             },
             {
                 "id": "zh-0950",
                 "w": "享受",
                 "p": "xiǎng shòu",
                 "d": "to enjoy",
-                "s": ""
+                "s": "让我们享受这平静和安宁。 (Let's enjoy this peace and quiet.)"
             },
             {
                 "id": "zh-0951",
                 "w": "喝酒",
                 "p": "hē jiǔ",
                 "d": "to drink (alcohol)",
-                "s": ""
+                "s": "他喝酒醉得无法开车回家。 (He is too drunk to drive home.)"
             },
             {
                 "id": "zh-0952",
                 "w": "好多",
                 "p": "hǎo duō",
                 "d": "many",
-                "s": ""
+                "s": "今天我们买了好多东西。 (We bought a lot of stuff today.)"
             },
             {
                 "id": "zh-0953",
                 "w": "接下来",
                 "p": "jiē xià lái",
                 "d": "to accept",
-                "s": ""
+                "s": "我知道我接下来去哪里。 (I know where I'm going next.)"
             },
             {
                 "id": "zh-0954",
                 "w": "腿",
                 "p": "tuǐ",
                 "d": "leg",
-                "s": ""
+                "s": "我踢足球的时候弄伤了腿。 (I injured my leg playing football.)"
             },
             {
                 "id": "zh-0955",
                 "w": "合作",
                 "p": "hé zuò",
                 "d": "to cooperate; to collaborate; to work together",
-                "s": ""
+                "s": "他们是我们的合作夥伴。 (They are our partners.)"
             },
             {
                 "id": "zh-0956",
                 "w": "女朋友",
                 "p": "nǚ péng you",
                 "d": "girlfriend",
-                "s": ""
+                "s": "我的女朋友跳舞跳得很棒。 (My girlfriend is a good dancer.)"
             },
             {
                 "id": "zh-0957",
                 "w": "好吃",
                 "p": "hǎo chī",
                 "d": "tasty; delicious",
-                "s": ""
+                "s": "她为自己煮了好吃的一餐。 (She cooked herself a good meal.)"
             },
             {
                 "id": "zh-0958",
                 "w": "事件",
                 "p": "shì jiàn",
                 "d": "incident; event",
-                "s": ""
+                "s": "这起事件使他一举成名。 (That incident made him famous.)"
             },
             {
                 "id": "zh-0959",
                 "w": "酒吧",
                 "p": "jiǔ bā",
                 "d": "bar (place to buy drinks)",
-                "s": ""
+                "s": "留下来和我们一起喝酒吧。 (Stay and have a drink with us.)"
             },
             {
                 "id": "zh-0960",
                 "w": "不如",
                 "p": "bù rú",
                 "d": "not equal to; not as good as; inferior to",
-                "s": ""
+                "s": "金窝银窝不如自己的狗窝。 (There is no place like home.)"
             },
             {
                 "id": "zh-0961",
                 "w": "指",
                 "p": "zhǐ",
                 "d": "finger",
-                "s": ""
+                "s": "我们试图让手指互相交错。 (We kept our fingers crossed.)"
             },
             {
                 "id": "zh-0962",
                 "w": "新闻",
                 "p": "xīn wén",
                 "d": "news",
-                "s": ""
+                "s": "这篇新闻对我们来说很重要。 (This news is important to us.)"
             },
             {
                 "id": "zh-0963",
                 "w": "历史",
                 "p": "lì shǐ",
                 "d": "history",
-                "s": ""
+                "s": "汤姆斯小姐教我们的历史。 (Miss Thomas teaches us history.)"
             },
             {
                 "id": "zh-0964",
                 "w": "动",
                 "p": "dòng",
                 "d": "(of sth) to move",
-                "s": ""
+                "s": "莎米的心几乎停止了跳动。 (Sami's heart almost stopped.)"
             },
             {
                 "id": "zh-0965",
                 "w": "客人",
                 "p": "kè rén",
                 "d": "visitor; guest",
-                "s": ""
+                "s": "她给客人看了她的宝宝。 (She showed the visitor her baby.)"
             },
             {
                 "id": "zh-0966",
                 "w": "经过",
                 "p": "jīng guò",
                 "d": "to pass",
-                "s": ""
+                "s": "那种表达方式已经过时了。 (That expression is archaic.)"
             },
             {
                 "id": "zh-0967",
                 "w": "英雄",
                 "p": "yīng xióng",
                 "d": "hero",
-                "s": ""
+                "s": "他梦想着成为一名英雄。 (He dreamed of being a hero.)"
             },
             {
                 "id": "zh-0968",
                 "w": "头发",
                 "p": "tóu fa",
                 "d": "hair (on the head)",
-                "s": ""
+                "s": "我看见一个长头发的女生。 (I saw a girl with long hair.)"
             },
             {
                 "id": "zh-0969",
                 "w": "傻",
                 "p": "shǎ",
                 "d": "foolish",
-                "s": ""
+                "s": "我来问个有点傻的问题。 (Let me ask a stupid question.)"
             },
             {
                 "id": "zh-0970",
                 "w": "血",
                 "p": "xuè",
                 "d": "blood",
-                "s": ""
+                "s": "我们捐血来帮助这个孩子。 (We gave blood to help the child.)"
             },
             {
                 "id": "zh-0971",
                 "w": "扔",
                 "p": "rēng",
                 "d": "to throw",
-                "s": ""
+                "s": "他扔了一块石头到池塘里。 (He threw a rock into the pond.)"
             },
             {
                 "id": "zh-0972",
                 "w": "藏",
                 "p": "cáng",
                 "d": "to conceal",
-                "s": ""
+                "s": "玛丽把钱藏在了文胸里。 (Mary hid the money in her bra.)"
             },
             {
                 "id": "zh-0973",
                 "w": "自杀",
                 "p": "zì shā",
                 "d": "to kill oneself",
-                "s": ""
+                "s": "我曾两次试图自杀未遂。 (Twice I have tried to kill myself.)"
             },
             {
                 "id": "zh-0974",
                 "w": "失败",
                 "p": "shī bài",
                 "d": "to be defeated",
-                "s": ""
+                "s": "这样的计划注定会失败的。 (Such a plan is bound to fail.)"
             },
             {
                 "id": "zh-0975",
                 "w": "获得",
                 "p": "huò dé",
                 "d": "to obtain; to receive; to get",
-                "s": ""
+                "s": "该法案在两议院获得通过。 (The bill passed both Houses.)"
             },
             {
                 "id": "zh-0976",
                 "w": "不见",
                 "p": "bù jiàn",
                 "d": "not to see",
-                "s": ""
+                "s": "我的其中一个行李不见了。 (One of my suitcases is missing.)"
             },
             {
                 "id": "zh-0977",
                 "w": "称",
                 "p": "chēng",
                 "d": "to weigh",
-                "s": ""
+                "s": "你是怎么称呼你父亲的呢？ (What do you call your father?)"
             },
             {
                 "id": "zh-0978",
                 "w": "意识",
                 "p": "yì shí",
                 "d": "consciousness; awareness",
-                "s": ""
+                "s": "他没有意识到自己有危险。 (He was not aware of the danger.)"
             },
             {
                 "id": "zh-0979",
                 "w": "试图",
                 "p": "shì tú",
                 "d": "to attempt",
-                "s": ""
+                "s": "我们试图让手指互相交错。 (We kept our fingers crossed.)"
             },
             {
                 "id": "zh-0980",
                 "w": "恭喜",
                 "p": "gōng xǐ",
                 "d": "to congratulate",
-                "s": ""
+                "s": "恭喜成为本店第一千位顾客！ (Congratulations! You are our thousandth visitor!)"
             },
             {
                 "id": "zh-0981",
                 "w": "上次",
                 "p": "shàng cì",
                 "d": "last time",
-                "s": ""
+                "s": "你上次去京都是甚么时候？ (When did you visit Kyoto last?)"
             },
             {
                 "id": "zh-0982",
                 "w": "根据",
                 "p": "gēn jù",
                 "d": "according to",
-                "s": ""
+                "s": "他们根据情报采取行动。 (They acted on the information.)"
             },
             {
                 "id": "zh-0983",
                 "w": "吓",
                 "p": "xià",
                 "d": "to frighten",
-                "s": ""
+                "s": "汤姆的猫把玛丽的狗吓到了。 (Tom's cat scared Mary's dog.)"
             },
             {
                 "id": "zh-0984",
                 "w": "权利",
                 "p": "quán lì",
                 "d": "right (i.e. an entitlement to sth)",
-                "s": ""
+                "s": "所有人都有享有国籍的权利。 (Everyone has the right to a nationality.)"
             },
             {
                 "id": "zh-0985",
                 "w": "不在乎",
                 "p": "bù zài hu",
                 "d": "not to care",
-                "s": ""
+                "s": "我根本不在乎我的简历。 (I don't give a damn about my CV.)"
             },
             {
                 "id": "zh-0986",
                 "w": "生",
                 "p": "shēng",
                 "d": "to grow; to give birth; to produce; to be born",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-0987",
                 "w": "队",
                 "p": "duì",
                 "d": "squadron",
-                "s": ""
+                "s": "我们组织了一个专案团队。 (We organized a project team.)"
             },
             {
                 "id": "zh-0988",
                 "w": "没用",
                 "p": "méi yòng",
                 "d": "useless",
-                "s": ""
+                "s": "对我说什么都是没用的。 (It's no use telling me anything.)"
             },
             {
                 "id": "zh-0989",
                 "w": "路上",
                 "p": "lù shang",
                 "d": "on the road",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-0990",
                 "w": "接近",
                 "p": "jiē jìn",
                 "d": "to approach; to get close to",
-                "s": ""
+                "s": "我肯定越来越接近了。 (I must be getting close.)"
             },
             {
                 "id": "zh-0991",
                 "w": "不准",
                 "p": "bù zhǔn",
                 "d": "not to allow",
-                "s": ""
+                "s": "南希从来没有不准时到达。 (Nancy never fails to arrive on time.)"
             },
             {
                 "id": "zh-0992",
                 "w": "碰",
                 "p": "pèng",
                 "d": "to touch",
-                "s": ""
+                "s": "我偶尔会在俱乐部碰到他。 (Sometimes I see him at the club.)"
             },
             {
                 "id": "zh-0993",
                 "w": "一旦",
                 "p": "yī dàn",
                 "d": "in case (sth happens)",
-                "s": ""
+                "s": "一旦过了河, 你就安全了。 (Once across the river, you are safe.)"
             },
             {
                 "id": "zh-0994",
                 "w": "味道",
                 "p": "wèi dao",
                 "d": "flavor; taste",
-                "s": ""
+                "s": "这碗汤尝起来味道很奇怪。 (This soup tastes strange.)"
             },
             {
                 "id": "zh-0995",
                 "w": "实际上",
                 "p": "shí jì shàng",
                 "d": "in fact",
-                "s": ""
+                "s": "这个男孩实际上是要去做。 (The boy actually was going to do it.)"
             },
             {
                 "id": "zh-0996",
                 "w": "感受",
                 "p": "gǎn shòu",
                 "d": "to sense",
-                "s": ""
+                "s": "你对这个问题有甚么感受？ (How do you feel about the issue?)"
             },
             {
                 "id": "zh-0997",
                 "w": "处",
                 "p": "chù",
                 "d": "(bound form) place; locality",
-                "s": ""
+                "s": "不要把你的东西四处乱放。 (Don't scatter your things about.)"
             },
             {
                 "id": "zh-0998",
                 "w": "身份",
                 "p": "shēn fèn",
                 "d": "identity; aspect of one's identity (e.g. mayor, father, permanent resident); role; capacity (as in \"in his capacity as ...\" 以 + ... + 的身份); status (social, legal etc); position; rank",
-                "s": ""
+                "s": "保镖要求看她的身份证。 (The bouncer asked to see her I.D.)"
             },
             {
                 "id": "zh-0999",
                 "w": "意外",
                 "p": "yì wài",
                 "d": "unexpected",
-                "s": ""
+                "s": "我问他关於这个意外的事。 (I asked him about the accident.)"
             },
             {
                 "id": "zh-1000",
                 "w": "一般",
                 "p": "yī bān",
                 "d": "same",
-                "s": ""
+                "s": "汤姆和玛莉跑得一般快。 (Tom can run as fast as Mary.)"
             },
             {
                 "id": "zh-1001",
                 "w": "显然",
                 "p": "xiǎn rán",
                 "d": "clearly; evidently; obviously",
-                "s": ""
+                "s": "他说话时，显然带着高兴的表情。 (He spoke with evident glee.)"
             },
             {
                 "id": "zh-1002",
                 "w": "停下",
                 "p": "tíng xià",
                 "d": "to stop",
-                "s": ""
+                "s": "我告诉了你停下来，不是吗？ (I told you to stop, didn't I?)"
             },
             {
                 "id": "zh-1003",
                 "w": "拜",
                 "p": "bài",
                 "d": "to bow to; to pay one's respects",
-                "s": ""
+                "s": "拜托您，请给我一张签证。 (I beg you, give me a visa.)"
             },
             {
                 "id": "zh-1004",
                 "w": "婊子",
                 "p": "biǎo zi",
                 "d": "prostitute",
-                "s": ""
+                "s": "你只是个婊子。 (You are just a whore.)"
             },
             {
                 "id": "zh-1005",
                 "w": "谋杀",
                 "p": "móu shā",
                 "d": "to murder",
-                "s": ""
+                "s": "汤姆供认是他谋杀了玛丽。 (Tom confessed to murdering Mary.)"
             },
             {
                 "id": "zh-1006",
                 "w": "呼吸",
                 "p": "hū xī",
                 "d": "to breathe",
-                "s": ""
+                "s": "我想要呼吸一些新鲜空气。 (I feel like getting some fresh air.)"
             },
             {
                 "id": "zh-1007",
                 "w": "训练",
                 "p": "xùn liàn",
                 "d": "to train",
-                "s": ""
+                "s": "和他们一起训练不是游戏。 (Training with them is not a game.)"
             },
             {
                 "id": "zh-1008",
                 "w": "乔治",
                 "p": "qiáo zhì",
                 "d": "George (name)",
-                "s": ""
+                "s": "乔治在一个大农场上工作。 (George works on a big farm.)"
             },
             {
                 "id": "zh-1009",
                 "w": "目前",
                 "p": "mù qián",
                 "d": "at the present time",
-                "s": ""
+                "s": "萨米目前还没有收入。 (Sami isn't making money yet.)"
             },
             {
                 "id": "zh-1010",
                 "w": "有时候",
                 "p": "yǒu shí hou",
                 "d": "sometimes",
-                "s": ""
+                "s": "有时候，我还是会想起她。 (Sometimes I still miss her.)"
             },
             {
                 "id": "zh-1011",
                 "w": "迟到",
                 "p": "chí dào",
                 "d": "to arrive late",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-1012",
                 "w": "男",
                 "p": "nán",
                 "d": "(bound form) male",
-                "s": ""
+                "s": "这个男孩把他的手弄脏了。 (The boy got his hands dirty.)"
             },
             {
                 "id": "zh-1013",
                 "w": "尝试",
                 "p": "cháng shì",
                 "d": "to try (to see what it's like or whether one can do it)",
-                "s": ""
+                "s": "尝试在下一次做得更好。 (Try and do better next time.)"
             },
             {
                 "id": "zh-1014",
                 "w": "老大",
                 "p": "lǎo dà",
                 "d": "old age",
-                "s": ""
+                "s": "老大哥在看着你。 (Big Brother is watching you.)"
             },
             {
                 "id": "zh-1015",
                 "w": "间",
                 "p": "jiān",
                 "d": "between",
-                "s": ""
+                "s": "史密斯太太打扫那个房间。 (Mrs. Smith cleans that room.)"
             },
             {
                 "id": "zh-1016",
                 "w": "受",
                 "p": "shòu",
                 "d": "to receive",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-1017",
                 "w": "愚蠢",
                 "p": "yú chǔn",
                 "d": "silly",
-                "s": ""
+                "s": "这是一个十分愚蠢的决定。 (It was a very stupid decision.)"
             },
             {
                 "id": "zh-1018",
                 "w": "算了",
                 "p": "suàn le",
                 "d": "let it be",
-                "s": ""
+                "s": "算了，还是点外卖吧。 (Forget it, I'm ordering takeout.)"
             },
             {
                 "id": "zh-1019",
                 "w": "讨论",
                 "p": "tǎo lùn",
                 "d": "to discuss; to talk over",
-                "s": ""
+                "s": "我们明天讨论这件事好吗？ (Let's discuss this tomorrow.)"
             },
             {
                 "id": "zh-1020",
                 "w": "在家",
                 "p": "zài jiā",
                 "d": "to be at home",
-                "s": ""
+                "s": "不好意思，我爸爸不在家。 (I'm sorry, my father is out.)"
             },
             {
                 "id": "zh-1021",
                 "w": "一家",
                 "p": "yī jiā",
                 "d": "the whole family",
-                "s": ""
+                "s": "琼斯一家人爱他们的女儿。 (The Joneses love their daughter.)"
             },
             {
                 "id": "zh-1022",
                 "w": "麦克",
                 "p": "mài kè",
                 "d": "(loanword) microphone",
-                "s": ""
+                "s": "我可以和麦克说话吗，谢谢。 (May I speak to Mike, please?)"
             },
             {
                 "id": "zh-1023",
                 "w": "如",
                 "p": "rú",
                 "d": "as",
-                "s": ""
+                "s": "金窝银窝不如自己的狗窝。 (There is no place like home.)"
             },
             {
                 "id": "zh-1024",
                 "w": "道",
                 "p": "dào",
                 "d": "road; path (CL:條|条,股)",
-                "s": ""
+                "s": "我想知道我为甚么在这里。 (I want to know why I'm here.)"
             },
             {
                 "id": "zh-1025",
                 "w": "一会",
                 "p": "yī huì",
                 "d": "a moment",
-                "s": ""
+                "s": "你可以待在这里一会儿吗？ (Will you stay here a moment?)"
             },
             {
                 "id": "zh-1026",
                 "w": "究竟",
                 "p": "jiū jìng",
                 "d": "to go to the bottom of a matter",
-                "s": ""
+                "s": "那里究竟发生了什么事？ (What exactly happened there?)"
             },
             {
                 "id": "zh-1027",
                 "w": "戴",
                 "p": "dài",
                 "d": "to put on or wear (glasses, hat, gloves etc)",
-                "s": ""
+                "s": "戴蒙给我看了他的邮票册。 (Damon showed me his stamp album.)"
             },
             {
                 "id": "zh-1028",
                 "w": "一块",
                 "p": "yī kuài",
                 "d": "a piece; a chunk",
-                "s": ""
+                "s": "汤姆的脸颊上有一块伤痕。 (Tom has a scar on his cheek.)"
             },
             {
                 "id": "zh-1029",
                 "w": "立刻",
                 "p": "lì kè",
                 "d": "immediately; at once; right away",
-                "s": ""
+                "s": "这个小婴儿立刻去睡觉了。 (The baby went to sleep at once.)"
             },
             {
                 "id": "zh-1030",
                 "w": "特",
                 "p": "tè",
                 "d": "special",
-                "s": ""
+                "s": "我忘了给福特先生打电话。 (I forgot to call up Mr Ford.)"
             },
             {
                 "id": "zh-1031",
                 "w": "躺",
                 "p": "tǎng",
                 "d": "to recline",
-                "s": ""
+                "s": "汤姆发烧了，正躺在床上。 (Tom is in bed with a fever.)"
             },
             {
                 "id": "zh-1032",
                 "w": "文件",
                 "p": "wén jiàn",
                 "d": "document",
-                "s": ""
+                "s": "我的公事包里装满了文件。 (My briefcase is full of papers.)"
             },
             {
                 "id": "zh-1033",
                 "w": "敢",
                 "p": "gǎn",
                 "d": "to dare",
-                "s": ""
+                "s": "我们知道他是个勇敢的人。 (We know him to be a brave man.)"
             },
             {
                 "id": "zh-1034",
                 "w": "慢慢",
                 "p": "màn màn",
                 "d": "slowly; gradually",
-                "s": ""
+                "s": "我的视力正慢慢下降。 (My eyesight is getting worse.)"
             },
             {
                 "id": "zh-1035",
                 "w": "前面",
                 "p": "qián miàn",
                 "d": "ahead",
-                "s": ""
+                "s": "我想要一间前面的房间。 (I'd like a room in the front.)"
             },
             {
                 "id": "zh-1036",
                 "w": "奶奶",
                 "p": "nǎi nai",
                 "d": "(informal) grandma (paternal grandmother)",
-                "s": ""
+                "s": "这条项链是我奶奶送给我的。 (My nan gave me this necklace.)"
             },
             {
                 "id": "zh-1037",
                 "w": "黑",
                 "p": "hēi",
                 "d": "black",
-                "s": ""
+                "s": "我有一只黑狗和一只白狗。 (I have a black and a white dog.)"
             },
             {
                 "id": "zh-1038",
                 "w": "确认",
                 "p": "què rèn",
                 "d": "to confirm",
-                "s": ""
+                "s": "我既不能确认也不能否定。 (I can neither confirm nor deny that.)"
             },
             {
                 "id": "zh-1039",
                 "w": "答案",
                 "p": "dá àn",
                 "d": "answer",
-                "s": ""
+                "s": "看看我的答案是不是对的。 (See if my answer is correct.)"
             },
             {
                 "id": "zh-1040",
                 "w": "滚",
                 "p": "gǔn",
                 "d": "to boil",
-                "s": ""
+                "s": "收好你的东西，滚出去。 (Pick up your things and go away.)"
             },
             {
                 "id": "zh-1041",
                 "w": "棒",
                 "p": "bàng",
                 "d": "stick",
-                "s": ""
+                "s": "相比棒球，我更喜欢足球。 (I prefer soccer to baseball.)"
             },
             {
                 "id": "zh-1042",
                 "w": "可不",
                 "p": "kě bu",
                 "d": "see 可不是",
-                "s": ""
+                "s": "您可不可以告诉我您贵姓？ (Can you tell me your last name?)"
             },
             {
                 "id": "zh-1043",
                 "w": "挂",
                 "p": "guà",
                 "d": "to hang; to suspend (from a hook etc)",
-                "s": ""
+                "s": "把你的外套挂在钩子上。 (Hang your coat on the hook.)"
             },
             {
                 "id": "zh-1044",
                 "w": "法国",
                 "p": "fǎ guó",
                 "d": "France",
-                "s": ""
+                "s": "你喜欢喝法国的葡萄酒吗？ (Do you like French wines?)"
             },
             {
                 "id": "zh-1045",
                 "w": "欠",
                 "p": "qiàn",
                 "d": "to owe",
-                "s": ""
+                "s": "Tom欠Mary三十元。 (Tom owes Mary thirty dollars.)"
             },
             {
                 "id": "zh-1046",
                 "w": "一遍",
                 "p": "yī biàn",
                 "d": "one time (all the way through)",
-                "s": ""
+                "s": "您可以给我重新做一遍吗？ (Can you re-do it for me?)"
             },
             {
                 "id": "zh-1047",
                 "w": "做出",
                 "p": "zuò chū",
                 "d": "to put out",
-                "s": ""
+                "s": "这些就是我们做出的决定。 (These are the decisions we've made.)"
             },
             {
                 "id": "zh-1048",
                 "w": "赶快",
                 "p": "gǎn kuài",
                 "d": "quickly; at once",
-                "s": ""
+                "s": "喂，赶快把那些球传回来。 (Hey, get those balls back quickly.)"
             },
             {
                 "id": "zh-1049",
                 "w": "最终",
                 "p": "zuì zhōng",
                 "d": "final; ultimate",
-                "s": ""
+                "s": "他最终同意了我们的计划。 (He finally agreed to our plan.)"
             },
             {
                 "id": "zh-1050",
                 "w": "飞",
                 "p": "fēi",
                 "d": "to fly",
-                "s": ""
+                "s": "我们搭飞机去墨西哥旅行。 (We traveled to Mexico by plane.)"
             },
             {
                 "id": "zh-1051",
                 "w": "追",
                 "p": "zhuī",
                 "d": "to chase",
-                "s": ""
+                "s": "我们很快就追上了他们。 (We soon caught up with them.)"
             },
             {
                 "id": "zh-1052",
                 "w": "下午",
                 "p": "xià wǔ",
                 "d": "afternoon",
-                "s": ""
+                "s": "我们今天下午两点见得面。 (We met at two in the afternoon.)"
             },
             {
                 "id": "zh-1053",
                 "w": "德国",
                 "p": "dé guó",
                 "d": "Germany",
-                "s": ""
+                "s": "这儿有张很大的德国地图。 (Here's a big map of Germany.)"
             },
             {
                 "id": "zh-1054",
                 "w": "赶紧",
                 "p": "gǎn jǐn",
                 "d": "hurriedly",
-                "s": ""
+                "s": "玛丽赶紧避开了眼光。 (Mary quickly averted her eyes.)"
             },
             {
                 "id": "zh-1055",
                 "w": "仍",
                 "p": "réng",
                 "d": "still; yet",
-                "s": ""
+                "s": "萨米仍然喜欢他的朋友。 (Sami still liked his friend.)"
             },
             {
                 "id": "zh-1056",
                 "w": "发",
                 "p": "fā",
                 "d": "to send out",
-                "s": ""
+                "s": "迪克发生了一起交通事故。 (Dick had a traffic accident.)"
             },
             {
                 "id": "zh-1057",
                 "w": "部分",
                 "p": "bù fen",
                 "d": "part; portion; piece",
-                "s": ""
+                "s": "台湾不是中国的一部分。 (Taiwan isn't part of China.)"
             },
             {
                 "id": "zh-1058",
                 "w": "活",
                 "p": "huó",
                 "d": "to live",
-                "s": ""
+                "s": "我每时每刻都在为你而活。 (I live every moment for you.)"
             },
             {
                 "id": "zh-1059",
                 "w": "带走",
                 "p": "dài zǒu",
                 "d": "to carry; to take away",
-                "s": ""
+                "s": "我们必须把你带走。 (We've got to get you out of here.)"
             },
             {
                 "id": "zh-1060",
                 "w": "对方",
                 "p": "duì fāng",
                 "d": "the other person; the other side; the other party",
-                "s": ""
+                "s": "汤姆和苏互相爱着对方。 (Tom and Sue love each other.)"
             },
             {
                 "id": "zh-1061",
                 "w": "邀请",
                 "p": "yāo qǐng",
                 "d": "to invite",
-                "s": ""
+                "s": "我邀请了肯，比尔和由美。 (I invited Ken, Bill and Yumi.)"
             },
             {
                 "id": "zh-1062",
                 "w": "竟然",
                 "p": "jìng rán",
                 "d": "unexpectedly",
-                "s": ""
+                "s": "我很惊讶竟然看到了狮子。 (I was surprised to see a lion.)"
             },
             {
                 "id": "zh-1063",
                 "w": "将会",
                 "p": "jiāng huì",
                 "d": "auxiliary verb introducing future action: may (be able to)",
-                "s": ""
+                "s": "你将会和我一起去购物吗？ (Will you go shopping with me?)"
             },
             {
                 "id": "zh-1064",
                 "w": "破坏",
                 "p": "pò huài",
                 "d": "destruction",
-                "s": ""
+                "s": "我认为考试破坏教育。 (I think exams ruin education.)"
             },
             {
                 "id": "zh-1065",
                 "w": "一生",
                 "p": "yī shēng",
                 "d": "all one's life; throughout one's life",
-                "s": ""
+                "s": "他给我讲述了他的一生。 (He told me the story of his life.)"
             },
             {
                 "id": "zh-1066",
                 "w": "黑暗",
                 "p": "hēi àn",
                 "d": "dark",
-                "s": ""
+                "s": "不要一个人在黑暗中走。 (Don't walk alone after dark.)"
             },
             {
                 "id": "zh-1067",
                 "w": "面对",
                 "p": "miàn duì",
                 "d": "to face; to confront",
-                "s": ""
+                "s": "我无法独自面对这种生活。 (I can't face this life alone.)"
             },
             {
                 "id": "zh-1068",
                 "w": "中心",
                 "p": "zhōng xīn",
                 "d": "center; heart; core",
-                "s": ""
+                "s": "我常常星期日去市中心。 (I often go downtown on Sunday.)"
             },
             {
                 "id": "zh-1069",
                 "w": "警告",
                 "p": "jǐng gào",
                 "d": "to warn",
-                "s": ""
+                "s": "她警告了他不要一个人去。 (She warned him not to go alone.)"
             },
             {
                 "id": "zh-1070",
                 "w": "大哥",
                 "p": "dà gē",
                 "d": "eldest brother",
-                "s": ""
+                "s": "老大哥在看着你。 (Big Brother is watching you.)"
             },
             {
                 "id": "zh-1071",
@@ -7510,196 +7510,196 @@
                 "w": "节目",
                 "p": "jié mù",
                 "d": "(TV or radio) program; show",
-                "s": ""
+                "s": "你最喜欢看哪个电视节目？ (What's your favorite TV program?)"
             },
             {
                 "id": "zh-1073",
                 "w": "现场",
                 "p": "xiàn chǎng",
                 "d": "the scene (of a crime, accident etc)",
-                "s": ""
+                "s": "医护人员已抵达事发现场。 (Paramedics are on the scene.)"
             },
             {
                 "id": "zh-1074",
                 "w": "脚",
                 "p": "jiǎo",
                 "d": "foot",
-                "s": ""
+                "s": "我让他修理了我的脚踏车。 (I got him to fix my bicycle.)"
             },
             {
                 "id": "zh-1075",
                 "w": "尽管",
                 "p": "jǐn guǎn",
                 "d": "despite",
-                "s": ""
+                "s": "尽管下着雨，我还是出了门。 (I went out in spite of the rain.)"
             },
             {
                 "id": "zh-1076",
                 "w": "令人",
                 "p": "lìng rén",
                 "d": "to cause one (to do sth)",
-                "s": ""
+                "s": "孩子的成长快得令人吃惊。 (Children grow up so quickly.)"
             },
             {
                 "id": "zh-1077",
                 "w": "街",
                 "p": "jiē",
                 "d": "street",
-                "s": ""
+                "s": "请给我一张街道地图好吗？ (Can you give me a street map?)"
             },
             {
                 "id": "zh-1078",
                 "w": "越",
                 "p": "yuè",
                 "d": "to exceed",
-                "s": ""
+                "s": "汤姆是一个越军退役军人。 (Tom is a Vietnam veteran.)"
             },
             {
                 "id": "zh-1079",
                 "w": "搬",
                 "p": "bān",
                 "d": "to move (i.e. relocate oneself)",
-                "s": ""
+                "s": "我们去年秋天搬到了纽约。 (We moved to New York last fall.)"
             },
             {
                 "id": "zh-1080",
                 "w": "好人",
                 "p": "hǎo rén",
                 "d": "good person",
-                "s": ""
+                "s": "汤姆是个好人，不是吗 ? (Tom is a good man, isn't he?)"
             },
             {
                 "id": "zh-1081",
                 "w": "穿着",
                 "p": "chuān zhuó",
                 "d": "attire; clothes; dress",
-                "s": ""
+                "s": "你穿着和服看上去很漂亮。 (You look good in a kimono.)"
             },
             {
                 "id": "zh-1082",
                 "w": "少",
                 "p": "shǎo",
                 "d": "few",
-                "s": ""
+                "s": "这台电脑你用多少钱买的？ (How much was your new computer?)"
             },
             {
                 "id": "zh-1083",
                 "w": "超过",
                 "p": "chāo guò",
                 "d": "to surpass",
-                "s": ""
+                "s": "超过二十个男孩去了那里。 (More than twenty boys went there.)"
             },
             {
                 "id": "zh-1084",
                 "w": "恐怕",
                 "p": "kǒng pà",
                 "d": "fear",
-                "s": ""
+                "s": "恐怕我必须说再见了。 (I'm afraid I must say goodbye.)"
             },
             {
                 "id": "zh-1085",
                 "w": "病",
                 "p": "bìng",
                 "d": "illness",
-                "s": ""
+                "s": "玛丽得糖尿病了，不是吗？ (Mary is diabetic, isn't she?)"
             },
             {
                 "id": "zh-1086",
                 "w": "弗兰克",
                 "p": "fú lán kè",
                 "d": "Frank (name)",
-                "s": ""
+                "s": "汤姆和弗兰克是好朋友。 (Tom and Frank are good friends.)"
             },
             {
                 "id": "zh-1087",
                 "w": "还给",
                 "p": "huán gěi",
                 "d": "to return sth to sb",
-                "s": ""
+                "s": "我拿到了他还给我的钱。 (I got the money back from him.)"
             },
             {
                 "id": "zh-1088",
                 "w": "玛丽",
                 "p": "mǎ lì",
                 "d": "Mary or Marie (name)",
-                "s": ""
+                "s": "玛丽亚只身一人在森林中。 (Mary is alone in the forest.)"
             },
             {
                 "id": "zh-1089",
                 "w": "选",
                 "p": "xuǎn",
                 "d": "to choose",
-                "s": ""
+                "s": "汤姆除了去之外别无选择。 (Tom has no choice but to go.)"
             },
             {
                 "id": "zh-1090",
                 "w": "爆炸",
                 "p": "bào zhà",
                 "d": "explosion",
-                "s": ""
+                "s": "爆炸是由甚么导致的呢？ (What caused the explosion?)"
             },
             {
                 "id": "zh-1091",
                 "w": "反对",
                 "p": "fǎn duì",
                 "d": "to oppose; to be against; to object to",
-                "s": ""
+                "s": "我知道汤姆持有反对意见。 (I know that Tom is against it.)"
             },
             {
                 "id": "zh-1092",
                 "w": "因",
                 "p": "yīn",
                 "d": "cause",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-1093",
                 "w": "美好",
                 "p": "měi hǎo",
                 "d": "beautiful",
-                "s": ""
+                "s": "我希望明天将是美好的。 (I hope it'll be fine tomorrow.)"
             },
             {
                 "id": "zh-1094",
                 "w": "校对",
                 "p": "jiào duì",
                 "d": "proofreader",
-                "s": ""
+                "s": "为什么学校对你这么重要？ (Why is school so important for you?)"
             },
             {
                 "id": "zh-1095",
                 "w": "炸弹",
                 "p": "zhà dàn",
                 "d": "bomb",
-                "s": ""
+                "s": "这个炸弹可以炸死很多人。 (This bomb can kill many people.)"
             },
             {
                 "id": "zh-1096",
                 "w": "放心",
                 "p": "fàng xīn",
                 "d": "to feel relieved",
-                "s": ""
+                "s": "你可以放心，他会准时的。 (You can rely upon his being punctual.)"
             },
             {
                 "id": "zh-1097",
                 "w": "一边",
                 "p": "yī biān",
                 "d": "one side",
-                "s": ""
+                "s": "她的房子在河的另一边。 (Her house is across the river.)"
             },
             {
                 "id": "zh-1098",
                 "w": "长大",
                 "p": "zhǎng dà",
                 "d": "to grow up",
-                "s": ""
+                "s": "他长大后成为了一名医生。 (He grew up to be a doctor.)"
             },
             {
                 "id": "zh-1099",
                 "w": "爱情",
                 "p": "ài qíng",
                 "d": "romance; love (romantic)",
-                "s": ""
+                "s": "不要把欲望和爱情混为一谈。 (Don't confuse desire with love.)"
             },
             {
                 "id": "zh-1100",
@@ -7713,672 +7713,672 @@
                 "w": "令",
                 "p": "lìng",
                 "d": "to order",
-                "s": ""
+                "s": "孩子的成长快得令人吃惊。 (Children grow up so quickly.)"
             },
             {
                 "id": "zh-1102",
                 "w": "辛苦",
                 "p": "xīn kǔ",
                 "d": "exhausting",
-                "s": ""
+                "s": "你不必这么辛苦地工作。 (You don't have to work so hard.)"
             },
             {
                 "id": "zh-1103",
                 "w": "撒谎",
                 "p": "sā huǎng",
                 "d": "to tell lies",
-                "s": ""
+                "s": "我觉得汤姆对我们撒谎了。 (I think that Tom lied to us.)"
             },
             {
                 "id": "zh-1104",
                 "w": "药",
                 "p": "yào",
                 "d": "leaf of the iris",
-                "s": ""
+                "s": "哎呀- 我忘了我的药。 (Oops - I forgot my medicine.)"
             },
             {
                 "id": "zh-1105",
                 "w": "美元",
                 "p": "měi yuán",
                 "d": "American dollar; US dollar",
-                "s": ""
+                "s": "我在这东西上花了十美元。 (I spent 10 dollars on it.)"
             },
             {
                 "id": "zh-1106",
                 "w": "汤姆",
                 "p": "tāng mǔ",
                 "d": "Tom (name)",
-                "s": ""
+                "s": "汤姆除了去之外别无选择。 (Tom has no choice but to go.)"
             },
             {
                 "id": "zh-1107",
                 "w": "吻",
                 "p": "wěn",
                 "d": "kiss",
-                "s": ""
+                "s": "她在他的脸颊上吻了一下。 (She kissed him on the cheek.)"
             },
             {
                 "id": "zh-1108",
                 "w": "块",
                 "p": "kuài",
                 "d": "lump; chunk; piece",
-                "s": ""
+                "s": "我打算把这块手表送给你。 (This watch is meant for you.)"
             },
             {
                 "id": "zh-1109",
                 "w": "队长",
                 "p": "duì zhǎng",
                 "d": "captain",
-                "s": ""
+                "s": "我们选了约翰作我们队长。 (We chose John to be our captain.)"
             },
             {
                 "id": "zh-1110",
                 "w": "收拾",
                 "p": "shōu shi",
                 "d": "to put in order",
-                "s": ""
+                "s": "你收拾好东西了没有？ (Have you finished packing yet?)"
             },
             {
                 "id": "zh-1111",
                 "w": "哥们",
                 "p": "gē men",
                 "d": "(coll.) dude; buddy; bro",
-                "s": ""
+                "s": "我的哥哥们在树下。 (My brothers are under the tree.)"
             },
             {
                 "id": "zh-1112",
                 "w": "火车",
                 "p": "huǒ chē",
                 "d": "train",
-                "s": ""
+                "s": "我们的火车突然停了下来。 (Our train stopped suddenly.)"
             },
             {
                 "id": "zh-1113",
                 "w": "子弹",
                 "p": "zǐ dàn",
                 "d": "bullet",
-                "s": ""
+                "s": "他在枪每时每刻有子弹。 (He keeps this gun loaded.)"
             },
             {
                 "id": "zh-1114",
                 "w": "治疗",
                 "p": "zhì liáo",
                 "d": "to treat (an illness)",
-                "s": ""
+                "s": "这是一种好棒的治疗方法。 (This is a great type of cure.)"
             },
             {
                 "id": "zh-1115",
                 "w": "包括",
                 "p": "bāo kuò",
                 "d": "to comprise",
-                "s": ""
+                "s": "Ubuntu包括的软件挺多。 (Ubuntu includes lots of software.)"
             },
             {
                 "id": "zh-1116",
                 "w": "公寓",
                 "p": "gōng yù",
                 "d": "apartment building; block of flats (may be a public housing block or a condominium etc) (CL:套)",
-                "s": ""
+                "s": "我住在城市中的一间公寓里。 (I live in a flat in the city.)"
             },
             {
                 "id": "zh-1117",
                 "w": "生日",
                 "p": "shēng rì",
                 "d": "birthday",
-                "s": ""
+                "s": "他的生日是八月二十一日。 (His birthday is August 21st.)"
             },
             {
                 "id": "zh-1118",
                 "w": "留",
                 "p": "liú",
                 "d": "to leave (a message etc)",
-                "s": ""
+                "s": "我们本来应该留在家里的。 (We should've stayed at home.)"
             },
             {
                 "id": "zh-1119",
                 "w": "兴趣",
                 "p": "xìng qù",
                 "d": "interest (desire to know about sth)",
-                "s": ""
+                "s": "他对这个计划表示了兴趣。 (He showed interest in the plan.)"
             },
             {
                 "id": "zh-1120",
                 "w": "法官",
                 "p": "fǎ guān",
                 "d": "judge (in court)",
-                "s": ""
+                "s": "他们俩都是很称职的法官。 (They are both very competent judges.)"
             },
             {
                 "id": "zh-1121",
                 "w": "方向",
                 "p": "fāng xiàng",
                 "d": "direction; orientation",
-                "s": ""
+                "s": "汤姆趴在方向盘上睡著了。 (Tom fell asleep at the wheel.)"
             },
             {
                 "id": "zh-1122",
                 "w": "乔",
                 "p": "qiáo",
                 "d": "tall",
-                "s": ""
+                "s": "乔治在一个大农场上工作。 (George works on a big farm.)"
             },
             {
                 "id": "zh-1123",
                 "w": "一半",
                 "p": "yī bàn",
                 "d": "half",
-                "s": ""
+                "s": "好的开始是成功的一半。 (A good start is half the work.)"
             },
             {
                 "id": "zh-1124",
                 "w": "借",
                 "p": "jiè",
                 "d": "to borrow",
-                "s": ""
+                "s": "我可以借用您的眼线笔吗？ (Could I borrow your eyeliner?)"
             },
             {
                 "id": "zh-1125",
                 "w": "伦敦",
                 "p": "lún dūn",
                 "d": "London, capital of United Kingdom",
-                "s": ""
+                "s": "他在1970年前往伦敦。 (He went to London in 1970.)"
             },
             {
                 "id": "zh-1126",
                 "w": "玩笑",
                 "p": "wán xiào",
                 "d": "to joke",
-                "s": ""
+                "s": "他这么说就是为了开玩笑。 (He said it merely as a joke.)"
             },
             {
                 "id": "zh-1127",
                 "w": "躲",
                 "p": "duǒ",
                 "d": "to hide",
-                "s": ""
+                "s": "Sami 躲在树丛后面。 (Sami hid behind some bushes.)"
             },
             {
                 "id": "zh-1128",
                 "w": "遗憾",
                 "p": "yí hàn",
                 "d": "regret",
-                "s": ""
+                "s": "我们都为Tom感到遗憾。 (We all felt sorry for Tom.)"
             },
             {
                 "id": "zh-1129",
                 "w": "金",
                 "p": "jīn",
                 "d": "gold",
-                "s": ""
+                "s": "金窝银窝不如自己的狗窝。 (There is no place like home.)"
             },
             {
                 "id": "zh-1130",
                 "w": "病人",
                 "p": "bìng rén",
                 "d": "sick person",
-                "s": ""
+                "s": "我将是你的第一个病人。 (I'll be your first patient.)"
             },
             {
                 "id": "zh-1131",
                 "w": "目的",
                 "p": "mù dì",
                 "d": "purpose; aim; goal; target; objective",
-                "s": ""
+                "s": "为了正当目的可以不择手段。 (The end justifies the means.)"
             },
             {
                 "id": "zh-1132",
                 "w": "请问",
                 "p": "qǐng wèn",
                 "d": "Excuse me, may I ask...?",
-                "s": ""
+                "s": "请问，这位女士是什么人？ (Excuse me, who is this woman?)"
             },
             {
                 "id": "zh-1133",
                 "w": "公主",
                 "p": "gōng zhǔ",
                 "d": "princess",
-                "s": ""
+                "s": "她像白雪公主一样漂亮。 (She is as beautiful as Snow White.)"
             },
             {
                 "id": "zh-1134",
                 "w": "士兵",
                 "p": "shì bīng",
                 "d": "soldier",
-                "s": ""
+                "s": "士兵们对危险习以为常。 (Soldiers are used to danger.)"
             },
             {
                 "id": "zh-1135",
                 "w": "怎",
                 "p": "zěn",
                 "d": "how",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-1136",
                 "w": "接着",
                 "p": "jiē zhe",
                 "d": "to catch and hold on",
-                "s": ""
+                "s": "他们一个接着一个地离开了。 (They left one after another.)"
             },
             {
                 "id": "zh-1137",
                 "w": "其它",
                 "p": "qí tā",
                 "d": "(adjective) other",
-                "s": ""
+                "s": "我们除了走之外没有其它选择。 (We have no choice but to go.)"
             },
             {
                 "id": "zh-1138",
                 "w": "傻瓜",
                 "p": "shǎ guā",
                 "d": "idiot",
-                "s": ""
+                "s": "烟民都是一群傻瓜。 (Smokers are a bunch of idiots.)"
             },
             {
                 "id": "zh-1139",
                 "w": "干净",
                 "p": "gān jìng",
                 "d": "clean",
-                "s": ""
+                "s": "你必须把桌子清理干净。 (You must clear the table.)"
             },
             {
                 "id": "zh-1140",
                 "w": "晚",
                 "p": "wǎn",
                 "d": "evening",
-                "s": ""
+                "s": "我们在两点钟吃了晚午餐。 (We had a late lunch at two.)"
             },
             {
                 "id": "zh-1141",
                 "w": "电脑",
                 "p": "diàn nǎo",
                 "d": "computer",
-                "s": ""
+                "s": "大多数男生喜欢电脑游戏。 (Most boys like computer games.)"
             },
             {
                 "id": "zh-1142",
                 "w": "反应",
                 "p": "fǎn yìng",
                 "d": "to react",
-                "s": ""
+                "s": "如水流过鸭背般毫无反应。 (Like water off a duck's back.)"
             },
             {
                 "id": "zh-1143",
                 "w": "拿走",
                 "p": "ná zǒu",
                 "d": "to take away",
-                "s": ""
+                "s": "拿走你喜欢的任何东西。 (Take anything you like.)"
             },
             {
                 "id": "zh-1144",
                 "w": "机器",
                 "p": "jī qì",
                 "d": "machine",
-                "s": ""
+                "s": "我就是这样把机器造出来的。 (This is how I made the machine.)"
             },
             {
                 "id": "zh-1145",
                 "w": "警方",
                 "p": "jǐng fāng",
                 "d": "police",
-                "s": ""
+                "s": "警方没有发现任何线索。 (The police didn't find any clues.)"
             },
             {
                 "id": "zh-1146",
                 "w": "假",
                 "p": "jiǎ",
                 "d": "fake",
-                "s": ""
+                "s": "我不能这么随便地请病假。 (I can't just call in sick.)"
             },
             {
                 "id": "zh-1147",
                 "w": "次",
                 "p": "cì",
                 "d": "next in sequence",
-                "s": ""
+                "s": "我会再试一次, 谢谢您。 (I will try again, thank you.)"
             },
             {
                 "id": "zh-1148",
                 "w": "失望",
                 "p": "shī wàng",
                 "d": "disappointed",
-                "s": ""
+                "s": "我对让你失望感到抱歉。 (I'm sorry to disappoint you.)"
             },
             {
                 "id": "zh-1149",
                 "w": "出生",
                 "p": "chū shēng",
                 "d": "to be born",
-                "s": ""
+                "s": "我出生前，我父亲就死了。 (My dad died before I was born.)"
             },
             {
                 "id": "zh-1150",
                 "w": "酒店",
                 "p": "jiǔ diàn",
                 "d": "wine shop",
-                "s": ""
+                "s": "我一直住这家酒店的哦。 (I always stay at this hotel.)"
             },
             {
                 "id": "zh-1151",
                 "w": "两",
                 "p": "liǎng",
                 "d": "two",
-                "s": ""
+                "s": "该法案在两议院获得通过。 (The bill passed both Houses.)"
             },
             {
                 "id": "zh-1152",
                 "w": "上班",
                 "p": "shàng bān",
                 "d": "to go to work",
-                "s": ""
+                "s": "我只是一个普通的上班族。 (I'm just a plain office worker.)"
             },
             {
                 "id": "zh-1153",
                 "w": "相当",
                 "p": "xiāng dāng",
                 "d": "equivalent to",
-                "s": ""
+                "s": "这是对他们来说相当容易。 (It was rather easy for them.)"
             },
             {
                 "id": "zh-1154",
                 "w": "要说",
                 "p": "yào shuō",
                 "d": "as for",
-                "s": ""
+                "s": "除非我问你，请你不要说话。 (Don't speak till spoken to.)"
             },
             {
                 "id": "zh-1155",
                 "w": "造成",
                 "p": "zào chéng",
                 "d": "to bring about; to create; to cause",
-                "s": ""
+                "s": "那场战争对国家造成伤害。 (That war hurt the country.)"
             },
             {
                 "id": "zh-1156",
                 "w": "随时",
                 "p": "suí shí",
                 "d": "at any time; at all times",
-                "s": ""
+                "s": "汤姆应该随时就会到这里。 (Tom should be here any minute.)"
             },
             {
                 "id": "zh-1157",
                 "w": "到达",
                 "p": "dào dá",
                 "d": "to reach; to arrive",
-                "s": ""
+                "s": "当我到达时，天正下著雨。 (When I arrived, it was raining.)"
             },
             {
                 "id": "zh-1158",
                 "w": "罗",
                 "p": "luó",
                 "d": "gauze",
-                "s": ""
+                "s": "她喜欢听俄罗斯流行音乐。 (She likes Russian pop music.)"
             },
             {
                 "id": "zh-1159",
                 "w": "巴黎",
                 "p": "bā lí",
                 "d": "Paris, capital of France",
-                "s": ""
+                "s": "还有五十公里就到巴黎了。 (It's fifty kilometers to Paris.)"
             },
             {
                 "id": "zh-1160",
                 "w": "冷",
                 "p": "lěng",
                 "d": "cold",
-                "s": ""
+                "s": "天气很冷，我们生起了火。 (It was cold, so we lit a fire.)"
             },
             {
                 "id": "zh-1161",
                 "w": "男朋友",
                 "p": "nán péng you",
                 "d": "boyfriend",
-                "s": ""
+                "s": "你的男朋友看起来很可爱。 (Your boyfriend looks cute.)"
             },
             {
                 "id": "zh-1162",
                 "w": "想起",
                 "p": "xiǎng qǐ",
                 "d": "to recall",
-                "s": ""
+                "s": "有时候，我还是会想起她。 (Sometimes I still miss her.)"
             },
             {
                 "id": "zh-1163",
                 "w": "老公",
                 "p": "lǎo gōng",
                 "d": "(coll.) husband",
-                "s": ""
+                "s": "她的老公通常醉醺醺的。 (Her husband is usually drunk.)"
             },
             {
                 "id": "zh-1164",
                 "w": "教堂",
                 "p": "jiào táng",
                 "d": "church; chapel",
-                "s": ""
+                "s": "我们可以看到那里的教堂。 (We can see a church over there.)"
             },
             {
                 "id": "zh-1165",
                 "w": "充满",
                 "p": "chōng mǎn",
                 "d": "full of",
-                "s": ""
+                "s": "她的眼神里充满了悲哀。 (Her eyes were full of sadness.)"
             },
             {
                 "id": "zh-1166",
                 "w": "盾",
                 "p": "dùn",
                 "d": "shield (CL:面)",
-                "s": ""
+                "s": "你在自相矛盾。 (You're contradicting yourself.)"
             },
             {
                 "id": "zh-1167",
                 "w": "拯救",
                 "p": "zhěng jiù",
                 "d": "to save; to rescue",
-                "s": ""
+                "s": "只有和平能够拯救世界。 (Only peace can save the world.)"
             },
             {
                 "id": "zh-1168",
                 "w": "祝",
                 "p": "zhù",
                 "d": "to pray for",
-                "s": ""
+                "s": "祝您有一个愉快的圣诞节。 (Have a good Christmas.)"
             },
             {
                 "id": "zh-1169",
                 "w": "字",
                 "p": "zì",
                 "d": "letter",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-1170",
                 "w": "一句",
                 "p": "yī jù",
                 "d": "a line of verse",
-                "s": ""
+                "s": "我能用法语加一句句子吗？ (Can I enter a sentence in French?)"
             },
             {
                 "id": "zh-1171",
                 "w": "用来",
                 "p": "yòng lái",
                 "d": "to be used for",
-                "s": ""
+                "s": "这把匙子是用来喝汤的。 (This spoon is a soup spoon.)"
             },
             {
                 "id": "zh-1172",
                 "w": "测试",
                 "p": "cè shì",
                 "d": "to test (machinery etc)",
-                "s": ""
+                "s": "我觉得这个测试很难。 (I found the test difficult.)"
             },
             {
                 "id": "zh-1173",
                 "w": "差点",
                 "p": "chà diǎn",
                 "d": "almost",
-                "s": ""
+                "s": "他差点被一辆汽车撞上了。 (He was almost hit by a car.)"
             },
             {
                 "id": "zh-1174",
                 "w": "社会",
                 "p": "shè huì",
                 "d": "society",
-                "s": ""
+                "s": "那个学生正在学习社会学。 (That student's studying sociology.)"
             },
             {
                 "id": "zh-1175",
                 "w": "猫",
                 "p": "māo",
                 "d": "cat (CL:隻|只)",
-                "s": ""
+                "s": "你可以照顾一下我的猫吗? (Would you look after my cat?)"
             },
             {
                 "id": "zh-1176",
                 "w": "方面",
                 "p": "fāng miàn",
                 "d": "respect",
-                "s": ""
+                "s": "他在这方面不是很严格。 (He's not very strict about this.)"
             },
             {
                 "id": "zh-1177",
                 "w": "习惯",
                 "p": "xí guàn",
                 "d": "habit",
-                "s": ""
+                "s": "他有用英文写日记的习惯。 (He keeps a diary in English.)"
             },
             {
                 "id": "zh-1178",
                 "w": "资料",
                 "p": "zī liào",
                 "d": "material",
-                "s": ""
+                "s": "你确定你的资料属实吗？ (Are you sure of your facts?)"
             },
             {
                 "id": "zh-1179",
                 "w": "安娜",
                 "p": "ān nà",
                 "d": "Anna (name)",
-                "s": ""
+                "s": "那边的那个女子是安娜。 (That woman over there is Ana.)"
             },
             {
                 "id": "zh-1180",
                 "w": "剩",
                 "p": "shèng",
                 "d": "to remain",
-                "s": ""
+                "s": "他剩下的时间已经不多了。 (He doesn't have long to live.)"
             },
             {
                 "id": "zh-1181",
                 "w": "晚餐",
                 "p": "wǎn cān",
                 "d": "evening meal; dinner",
-                "s": ""
+                "s": "晚餐之后你才可以看电视。 (You can watch TV after supper.)"
             },
             {
                 "id": "zh-1182",
                 "w": "活动",
                 "p": "huó dòng",
                 "d": "to exercise; to move about; to work out",
-                "s": ""
+                "s": "看电视是一种被动的活动。 (Watching TV is a passive activity.)"
             },
             {
                 "id": "zh-1183",
                 "w": "越来越",
                 "p": "yuè lái yuè",
                 "d": "more and more",
-                "s": ""
+                "s": "我感觉我们会越来越好。 (I feel we're going to get better.)"
             },
             {
                 "id": "zh-1184",
                 "w": "太阳",
                 "p": "tài yang",
                 "d": "sun",
-                "s": ""
+                "s": "我需要一副好的太阳眼镜。 (I need a good pair of sunglasses.)"
             },
             {
                 "id": "zh-1185",
                 "w": "巨大",
                 "p": "jù dà",
                 "d": "huge; immense; enormous; gigantic",
-                "s": ""
+                "s": "一艘巨大的液货船刚刚启航。 (A huge tanker cast off just now.)"
             },
             {
                 "id": "zh-1186",
                 "w": "抢",
                 "p": "qiǎng",
                 "d": "to fight over",
-                "s": ""
+                "s": "他把我所有的钱都抢走了。 (He robbed me of all my money.)"
             },
             {
                 "id": "zh-1187",
                 "w": "啤酒",
                 "p": "pí jiǔ",
                 "d": "beer (loanword)",
-                "s": ""
+                "s": "啤酒和葡萄酒我都喜欢喝。 (I like drinking beer and wine.)"
             },
             {
                 "id": "zh-1188",
                 "w": "好看",
                 "p": "hǎo kàn",
                 "d": "good-looking; nice-looking",
-                "s": ""
+                "s": "爱丽丝穿绿色的衣服很好看。 (Green looks good on Alice.)"
             },
             {
                 "id": "zh-1189",
                 "w": "感情",
                 "p": "gǎn qíng",
                 "d": "emotion; sentiment",
-                "s": ""
+                "s": "她很容易受到感情上的伤害。 (Her feelings are easily hurt.)"
             },
             {
                 "id": "zh-1190",
                 "w": "自然",
                 "p": "zì rán",
                 "d": "nature",
-                "s": ""
+                "s": "自然中没有什么是无用的。 (Nothing in nature is useless.)"
             },
             {
                 "id": "zh-1191",
                 "w": "逮捕",
                 "p": "dài bǔ",
                 "d": "to arrest; to apprehend; to take into custody",
-                "s": ""
+                "s": "根本就没实施过逮捕行动。 (No arrests were ever made.)"
             },
             {
                 "id": "zh-1192",
                 "w": "责任",
                 "p": "zé rèn",
                 "d": "responsibility; duty; liability",
-                "s": ""
+                "s": "她总是把责任往自己身上揽。 (She's always blaming herself.)"
             },
             {
                 "id": "zh-1193",
                 "w": "时刻",
                 "p": "shí kè",
                 "d": "time",
-                "s": ""
+                "s": "我可以有张公车的时刻表吗？ (May I have a bus schedule?)"
             },
             {
                 "id": "zh-1194",
                 "w": "大卫",
                 "p": "dà wèi",
                 "d": "(name) David",
-                "s": ""
+                "s": "玛丽，这是乔的兄弟大卫。 (Mary, this is Joe's brother David.)"
             },
             {
                 "id": "zh-1195",
                 "w": "恶心",
                 "p": "ě xīn",
                 "d": "nausea",
-                "s": ""
+                "s": "不好意思，但我有点恶心。 (Excuse me, but I feel sick.)"
             },
             {
                 "id": "zh-1196",
                 "w": "读",
                 "p": "dú",
                 "d": "to read out; to read aloud",
-                "s": ""
+                "s": "汤姆就读於一所国立学校。 (Tom goes to a state school.)"
             },
             {
                 "id": "zh-1197",
@@ -8392,56 +8392,56 @@
                 "w": "赚",
                 "p": "zhuàn",
                 "d": "to earn",
-                "s": ""
+                "s": "蕾拉脱了衣服，赚到了钱。 (Layla stripped and made money.)"
             },
             {
                 "id": "zh-1199",
                 "w": "全",
                 "p": "quán",
                 "d": "all",
-                "s": ""
+                "s": "全世界无产者，联合起来！ (Workers of the world, unite!)"
             },
             {
                 "id": "zh-1200",
                 "w": "记忆",
                 "p": "jì yì",
                 "d": "to remember; to recall",
-                "s": ""
+                "s": "希望我的记忆力能好一点。 (I wish I had a better memory.)"
             },
             {
                 "id": "zh-1201",
                 "w": "号码",
                 "p": "hào mǎ",
                 "d": "number",
-                "s": ""
+                "s": "别把我的电话号码给汤姆。 (Don't give Tom my phone number.)"
             },
             {
                 "id": "zh-1202",
                 "w": "主人",
                 "p": "zhǔ rén",
                 "d": "owner",
-                "s": ""
+                "s": "你是这栋房子的主人吗？ (Are you the owner of this house?)"
             },
             {
                 "id": "zh-1203",
                 "w": "可惜",
                 "p": "kě xī",
                 "d": "it is a pity",
-                "s": ""
+                "s": "可惜你不知道如何跳舞！ (What a pity you can't dance!)"
             },
             {
                 "id": "zh-1204",
                 "w": "明显",
                 "p": "míng xiǎn",
                 "d": "clear",
-                "s": ""
+                "s": "这个系统有些明显的缺陷。 (This system has obvious defects.)"
             },
             {
                 "id": "zh-1205",
                 "w": "算是",
                 "p": "suàn shì",
                 "d": "considered to be",
-                "s": ""
+                "s": "他算是男孩子中最高的了。 (He is the tallest of all boys.)"
             },
             {
                 "id": "zh-1206",
@@ -8455,49 +8455,49 @@
                 "w": "意见",
                 "p": "yì jiàn",
                 "d": "idea",
-                "s": ""
+                "s": "我知道汤姆持有反对意见。 (I know that Tom is against it.)"
             },
             {
                 "id": "zh-1208",
                 "w": "家族",
                 "p": "jiā zú",
                 "d": "family",
-                "s": ""
+                "s": "他是家族中的异类。 (He is the odd one of the family.)"
             },
             {
                 "id": "zh-1209",
                 "w": "爷爷",
                 "p": "yé ye",
                 "d": "(coll.) paternal grandfather; grandpa",
-                "s": ""
+                "s": "那位老爷爷死於癌症。 (The old man died of cancer.)"
             },
             {
                 "id": "zh-1210",
                 "w": "祈祷",
                 "p": "qí dǎo",
                 "d": "to pray; to say a prayer",
-                "s": ""
+                "s": "我们全体为日本祈祷。 (We're all praying for Japan.)"
             },
             {
                 "id": "zh-1211",
                 "w": "难过",
                 "p": "nán guò",
                 "d": "to feel sad",
-                "s": ""
+                "s": "我很惊讶，并且感到难过。 (I was surprised and became sad.)"
             },
             {
                 "id": "zh-1212",
                 "w": "事儿",
                 "p": "shì r",
                 "d": "one's employment",
-                "s": ""
+                "s": "你为什么做了这种事儿？ (Why did you do such a thing?)"
             },
             {
                 "id": "zh-1213",
                 "w": "疯子",
                 "p": "fēng zi",
                 "d": "madman",
-                "s": ""
+                "s": "世界就是一个疯子的囚笼。 (The world is a den of crazies.)"
             },
             {
                 "id": "zh-1214",
@@ -8511,434 +8511,434 @@
                 "w": "从未",
                 "p": "cóng wèi",
                 "d": "never",
-                "s": ""
+                "s": "我父亲至今从未去过国外。 (My father has never been abroad.)"
             },
             {
                 "id": "zh-1216",
                 "w": "球",
                 "p": "qiú",
                 "d": "ball",
-                "s": ""
+                "s": "他这春天开始玩高尔夫球。 (He took up golf this spring.)"
             },
             {
                 "id": "zh-1217",
                 "w": "彼得",
                 "p": "bǐ dé",
                 "d": "Peter (name)",
-                "s": ""
+                "s": "休斯女士，我是彼得布朗。 (Mrs. Hughes, this is Peter Brown.)"
             },
             {
                 "id": "zh-1218",
                 "w": "通常",
                 "p": "tōng cháng",
                 "d": "regular; usual; normal",
-                "s": ""
+                "s": "你通常甚么时候上床睡觉？ (When do you usually go to bed?)"
             },
             {
                 "id": "zh-1219",
                 "w": "名",
                 "p": "míng",
                 "d": "name",
-                "s": ""
+                "s": "把你的名字用大写写下来。 (Write your name in capitals.)"
             },
             {
                 "id": "zh-1220",
                 "w": "命运",
                 "p": "mìng yùn",
                 "d": "fate; destiny",
-                "s": ""
+                "s": "我们都有要实现的命运吗？ (Do we all have a destiny to fulfill?)"
             },
             {
                 "id": "zh-1221",
                 "w": "旅行",
                 "p": "lǚ xíng",
                 "d": "to travel",
-                "s": ""
+                "s": "我们搭飞机去墨西哥旅行。 (We traveled to Mexico by plane.)"
             },
             {
                 "id": "zh-1222",
                 "w": "吹",
                 "p": "chuī",
                 "d": "to blow",
-                "s": ""
+                "s": "是什么风把你吹来了啊？ (What has brought you here?)"
             },
             {
                 "id": "zh-1223",
                 "w": "服务",
                 "p": "fú wù",
                 "d": "to serve",
-                "s": ""
+                "s": "服务员，请给我三杯咖啡。 (Waiter, three coffees, please.)"
             },
             {
                 "id": "zh-1224",
                 "w": "雷",
                 "p": "léi",
                 "d": "thunder",
-                "s": ""
+                "s": "弗雷德的房子有五间房间。 (Fred's house has five rooms.)"
             },
             {
                 "id": "zh-1225",
                 "w": "没想到",
                 "p": "méi xiǎng dào",
                 "d": "didn't expect",
-                "s": ""
+                "s": "我也没想到我会在这里。 (I didn't expect to be here either.)"
             },
             {
                 "id": "zh-1226",
                 "w": "对付",
                 "p": "duì fu",
                 "d": "to handle; to deal with; to tackle",
-                "s": ""
+                "s": "我对付困难。 (I am dealing with difficulties.)"
             },
             {
                 "id": "zh-1227",
                 "w": "比如",
                 "p": "bǐ rú",
                 "d": "for example; for instance; such as",
-                "s": ""
+                "s": "我喜欢花，比如说，玫瑰。 (I like flowers, such as roses.)"
             },
             {
                 "id": "zh-1228",
                 "w": "人民",
                 "p": "rén mín",
                 "d": "the people",
-                "s": ""
+                "s": "我会为我的人民而战。 (I will fight for my people.)"
             },
             {
                 "id": "zh-1229",
                 "w": "不少",
                 "p": "bù shǎo",
                 "d": "many; quite a few; a good number of",
-                "s": ""
+                "s": "不少的美国人喜欢寿司。 (Quite a few Americans like sushi.)"
             },
             {
                 "id": "zh-1230",
                 "w": "回事",
                 "p": "huí shì",
                 "d": "(old) to report to one's master",
-                "s": ""
+                "s": "你跟摩托车到底怎么回事？ (What is it with you and motorbikes?)"
             },
             {
                 "id": "zh-1231",
                 "w": "提",
                 "p": "tí",
                 "d": "to carry (hanging down from the hand)",
-                "s": ""
+                "s": "我们很高兴接受你的提议。 (We gladly accept your offer.)"
             },
             {
                 "id": "zh-1232",
                 "w": "干杯",
                 "p": "gān bēi",
                 "d": "to drink a toast",
-                "s": ""
+                "s": "干杯！ (Bottoms up!)"
             },
             {
                 "id": "zh-1233",
                 "w": "旁边",
                 "p": "páng biān",
                 "d": "side; adjacent place",
-                "s": ""
+                "s": "玛丽让我坐在她的旁边。 (Mary let me sit next to her.)"
             },
             {
                 "id": "zh-1234",
                 "w": "种",
                 "p": "zhǒng",
                 "d": "seed",
-                "s": ""
+                "s": "这是一个濒临灭绝的物种。 (It is an endangered species.)"
             },
             {
                 "id": "zh-1235",
                 "w": "克",
                 "p": "kè",
                 "d": "to be able to",
-                "s": ""
+                "s": "迪克发生了一起交通事故。 (Dick had a traffic accident.)"
             },
             {
                 "id": "zh-1236",
                 "w": "公平",
                 "p": "gōng píng",
                 "d": "fair",
-                "s": ""
+                "s": "法律并不总是公平的。 (The law is not always fair.)"
             },
             {
                 "id": "zh-1237",
                 "w": "愉快",
                 "p": "yú kuài",
                 "d": "cheerful; happy; pleasant; delighted",
-                "s": ""
+                "s": "生活并不都是轻松愉快的。 (Life is not all fun and games.)"
             },
             {
                 "id": "zh-1238",
                 "w": "不幸",
                 "p": "bù xìng",
                 "d": "misfortune",
-                "s": ""
+                "s": "虽然他很有钱，但他不幸福。 (He's rich, but he isn't happy.)"
             },
             {
                 "id": "zh-1239",
                 "w": "鱼",
                 "p": "yú",
                 "d": "fish (CL:條|条,尾)",
-                "s": ""
+                "s": "我们在那里抓了一些大鱼。 (We caught some large fish there.)"
             },
             {
                 "id": "zh-1240",
                 "w": "托",
                 "p": "tuō",
                 "d": "to hold up in one's hand; to support with one's palm",
-                "s": ""
+                "s": "汤姆造了他自己的摩托车。 (Tom built his own motorcycle.)"
             },
             {
                 "id": "zh-1241",
                 "w": "关",
                 "p": "guān",
                 "d": "mountain pass",
-                "s": ""
+                "s": "他写了一本关於中国的书。 (He wrote a book about China.)"
             },
             {
                 "id": "zh-1242",
                 "w": "脑袋",
                 "p": "nǎo dai",
                 "d": "head",
-                "s": ""
+                "s": "为什么你的脑袋那么聪明呢？ (Why are you so smart?)"
             },
             {
                 "id": "zh-1243",
                 "w": "创造",
                 "p": "chuàng zào",
                 "d": "to create",
-                "s": ""
+                "s": "他自己创造了一种语言。 (He created his own language.)"
             },
             {
                 "id": "zh-1244",
                 "w": "好不好",
                 "p": "hǎo bu hǎo",
                 "d": "(coll.) all right?",
-                "s": ""
+                "s": "我这个歌唱得好不好？ (Am I singing that song well?)"
             },
             {
                 "id": "zh-1245",
                 "w": "不断",
                 "p": "bù duàn",
                 "d": "unceasing",
-                "s": ""
+                "s": "她不断在房间里走来走去。 (She kept walking about the room.)"
             },
             {
                 "id": "zh-1246",
                 "w": "有意思",
                 "p": "yǒu yì si",
                 "d": "interesting",
-                "s": ""
+                "s": "我觉得这本书很有意思。 (I found the book interesting.)"
             },
             {
                 "id": "zh-1247",
                 "w": "错过",
                 "p": "cuò guò",
                 "d": "to miss (train, opportunity etc)",
-                "s": ""
+                "s": "我今天早上错过了公交车。 (I missed my bus this morning.)"
             },
             {
                 "id": "zh-1248",
                 "w": "抱",
                 "p": "bào",
                 "d": "to hold",
-                "s": ""
+                "s": "他用双手抱著一个大箱子。 (He had a big box in his arms.)"
             },
             {
                 "id": "zh-1249",
                 "w": "压力",
                 "p": "yā lì",
                 "d": "pressure",
-                "s": ""
+                "s": "我在压力之下工作表现最好。 (I work best under pressure.)"
             },
             {
                 "id": "zh-1250",
                 "w": "心里",
                 "p": "xīn li",
                 "d": "chest",
-                "s": ""
+                "s": "我可以听见你心里的声音。 (I can hear the sound in your mind.)"
             },
             {
                 "id": "zh-1251",
                 "w": "超级",
                 "p": "chāo jí",
                 "d": "super-",
-                "s": ""
+                "s": "羽衣甘蓝被称为超级食物。 (Kale is called a superfood.)"
             },
             {
                 "id": "zh-1252",
                 "w": "加",
                 "p": "jiā",
                 "d": "to add",
-                "s": ""
+                "s": "我希望你更加努力地工作。 (I expect you to work harder.)"
             },
             {
                 "id": "zh-1253",
                 "w": "线索",
                 "p": "xiàn suǒ",
                 "d": "trail",
-                "s": ""
+                "s": "警方没有发现任何线索。 (The police didn't find any clues.)"
             },
             {
                 "id": "zh-1254",
                 "w": "宇宙",
                 "p": "yǔ zhòu",
                 "d": "universe; cosmos; space",
-                "s": ""
+                "s": "宇宙里是没有空气的。 (There is no air in space.)"
             },
             {
                 "id": "zh-1255",
                 "w": "死去",
                 "p": "sǐ qù",
                 "d": "to die",
-                "s": ""
+                "s": "蜜蜂蜇人后为什么会死去呢？ (Why do bees die after stinging?)"
             },
             {
                 "id": "zh-1256",
                 "w": "心情",
                 "p": "xīn qíng",
                 "d": "mood; frame of mind",
-                "s": ""
+                "s": "他的答案取决於他的心情。 (His answer depends on his mood.)"
             },
             {
                 "id": "zh-1257",
                 "w": "撞",
                 "p": "zhuàng",
                 "d": "to knock against",
-                "s": ""
+                "s": "他差点被一辆汽车撞上了。 (He was almost hit by a car.)"
             },
             {
                 "id": "zh-1258",
                 "w": "一部分",
                 "p": "yī bù fen",
                 "d": "portion",
-                "s": ""
+                "s": "台湾不是中国的一部分。 (Taiwan isn't part of China.)"
             },
             {
                 "id": "zh-1259",
                 "w": "关闭",
                 "p": "guān bì",
                 "d": "to close; to shut (a window etc)",
-                "s": ""
+                "s": "关闭所有的门和窗户。 (Shut all the doors and windows.)"
             },
             {
                 "id": "zh-1260",
                 "w": "设计",
                 "p": "shè jì",
                 "d": "to design; to plan",
-                "s": ""
+                "s": "她希望成为一名设计师。 (She wants to be a designer.)"
             },
             {
                 "id": "zh-1261",
                 "w": "失踪",
                 "p": "shī zōng",
                 "d": "to be missing",
-                "s": ""
+                "s": "这些失踪案件可能是谋杀。 (These disappearances are probably murders.)"
             },
             {
                 "id": "zh-1262",
                 "w": "未",
                 "p": "wèi",
                 "d": "not yet",
-                "s": ""
+                "s": "我们必须为未来作好准备。 (We must provide for the future.)"
             },
             {
                 "id": "zh-1263",
                 "w": "毁",
                 "p": "huǐ",
                 "d": "to destroy; to ruin",
-                "s": ""
+                "s": "对不起，我毁了你的婚礼。 (I'm sorry I ruined your wedding.)"
             },
             {
                 "id": "zh-1264",
                 "w": "移动",
                 "p": "yí dòng",
                 "d": "to move",
-                "s": ""
+                "s": "齐里移动的速度快多了。 (Ziri was moving much faster.)"
             },
             {
                 "id": "zh-1265",
                 "w": "垃圾",
                 "p": "lā jī",
                 "d": "trash",
-                "s": ""
+                "s": "给丢到垃圾桶里去。 (Toss it into the rubbish bin.)"
             },
             {
                 "id": "zh-1266",
                 "w": "十分",
                 "p": "shí fēn",
                 "d": "very",
-                "s": ""
+                "s": "我们过着十分平凡的生活。 (We lead a very ordinary life.)"
             },
             {
                 "id": "zh-1267",
                 "w": "不可",
                 "p": "bù kě",
                 "d": "cannot; should not; must not",
-                "s": ""
+                "s": "我们不可以把它告诉汤姆。 (We can't let Tom in on this.)"
             },
             {
                 "id": "zh-1268",
                 "w": "上车",
                 "p": "shàng chē",
                 "d": "to get on or into (a bus, train, car etc)",
-                "s": ""
+                "s": "他帮助这位女士上车。 (He helped the lady into the car.)"
             },
             {
                 "id": "zh-1269",
                 "w": "同",
                 "p": "tóng",
                 "d": "like",
-                "s": ""
+                "s": "John和我的兄弟同岁。 (John is as old as my brother.)"
             },
             {
                 "id": "zh-1270",
                 "w": "健康",
                 "p": "jiàn kāng",
                 "d": "health",
-                "s": ""
+                "s": "你看起来和以前一样健康。 (You look as healthy as ever.)"
             },
             {
                 "id": "zh-1271",
                 "w": "提醒",
                 "p": "tí xǐng",
                 "d": "to remind",
-                "s": ""
+                "s": "如果我忘记了请提醒我。 (In case I forget, please remind me.)"
             },
             {
                 "id": "zh-1272",
                 "w": "包",
                 "p": "bāo",
                 "d": "to cover",
-                "s": ""
+                "s": "比起面包，我更喜欢米饭。 (I like rice more than bread.)"
             },
             {
                 "id": "zh-1273",
                 "w": "说谎",
                 "p": "shuō huǎng",
                 "d": "to lie",
-                "s": ""
+                "s": "你不问我，我就不会说谎话。 (Don't ask, and I won't lie.)"
             },
             {
                 "id": "zh-1274",
                 "w": "热",
                 "p": "rè",
                 "d": "to warm up",
-                "s": ""
+                "s": "太热了所以我们无法工作。 (It's too hot for us to work.)"
             },
             {
                 "id": "zh-1275",
                 "w": "自从",
                 "p": "zì cóng",
                 "d": "since (a time)",
-                "s": ""
+                "s": "汤姆自从2003年就住在这里。 (Tom has lived here since 2003.)"
             },
             {
                 "id": "zh-1276",
                 "w": "犯罪",
                 "p": "fàn zuì",
                 "d": "to commit a crime",
-                "s": ""
+                "s": "我把我的行为看成是犯罪。 (I viewed my action as a crime.)"
             },
             {
                 "id": "zh-1277",
@@ -8952,84 +8952,84 @@
                 "w": "保罗",
                 "p": "bǎo luó",
                 "d": "Paul",
-                "s": ""
+                "s": "保罗的成功是一个神话。 (Paul's success was a myth.)"
             },
             {
                 "id": "zh-1279",
                 "w": "命",
                 "p": "mìng",
                 "d": "life",
-                "s": ""
+                "s": "空气是生命中不可或缺的。 (Air is indispensable to life.)"
             },
             {
                 "id": "zh-1280",
                 "w": "周围",
                 "p": "zhōu wéi",
                 "d": "environs; surroundings; periphery",
-                "s": ""
+                "s": "他可能在公园周围慢跑。 (He may be jogging around the park.)"
             },
             {
                 "id": "zh-1281",
                 "w": "无聊",
                 "p": "wú liáo",
                 "d": "bored",
-                "s": ""
+                "s": "珍过了一个很无聊的周末。 (Jane had a very boring weekend.)"
             },
             {
                 "id": "zh-1282",
                 "w": "说明",
                 "p": "shuō míng",
                 "d": "to explain",
-                "s": ""
+                "s": "你能帮我说明一下规则吗？ (Will you explain the rule to me?)"
             },
             {
                 "id": "zh-1283",
                 "w": "浪费",
                 "p": "làng fèi",
                 "d": "to waste",
-                "s": ""
+                "s": "不要把时间浪费在琐事上 (Don't waste time on trifles.)"
             },
             {
                 "id": "zh-1284",
                 "w": "怪物",
                 "p": "guài wu",
                 "d": "monster",
-                "s": ""
+                "s": "独角兽是一种美丽的怪物。 (The unicorn is a fabulous monster.)"
             },
             {
                 "id": "zh-1285",
                 "w": "靠近",
                 "p": "kào jìn",
                 "d": "to be close to",
-                "s": ""
+                "s": "我的房子靠近一个公车站牌。 (My house is close to a bus stop.)"
             },
             {
                 "id": "zh-1286",
                 "w": "尽",
                 "p": "jǐn",
                 "d": "to the greatest extent",
-                "s": ""
+                "s": "我会尽力满足你的愿望。 (I'll try to meet your wishes.)"
             },
             {
                 "id": "zh-1287",
                 "w": "蛋糕",
                 "p": "dàn gāo",
                 "d": "cake",
-                "s": ""
+                "s": "某人把我的杯形蛋糕吃完了。 (Someone ate all my cupcakes.)"
             },
             {
                 "id": "zh-1288",
                 "w": "于是",
                 "p": "yú shì",
                 "d": "thereupon; as a result; consequently; thus; hence",
-                "s": ""
+                "s": "艾伦太累了，于是早早地上床睡觉了。 (Ellen was so tired that she went to bed early.)"
             },
             {
                 "id": "zh-1289",
                 "w": "多年",
                 "p": "duō nián",
                 "d": "many years",
-                "s": ""
+                "s": "这事发生在很多年以前。 (It happened a long time ago.)"
             },
             {
                 "id": "zh-1290",
@@ -9043,364 +9043,364 @@
                 "w": "亨利",
                 "p": "hēng lì",
                 "d": "Henry (name)",
-                "s": ""
+                "s": "安妮接受了亨利的求婚。 (Anne accepted Henry's proposal.)"
             },
             {
                 "id": "zh-1292",
                 "w": "自",
                 "p": "zì",
                 "d": "(bound form) self; oneself",
-                "s": ""
+                "s": "金窝银窝不如自己的狗窝。 (There is no place like home.)"
             },
             {
                 "id": "zh-1293",
                 "w": "见鬼",
                 "p": "jiàn guǐ",
                 "d": "absurd",
-                "s": ""
+                "s": "你看起来就像见鬼了一样。 (You look like you've just seen a ghost.)"
             },
             {
                 "id": "zh-1294",
                 "w": "份",
                 "p": "fèn",
                 "d": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
-                "s": ""
+                "s": "请你把这份报告拿去影印。 (Make a copy of this report.)"
             },
             {
                 "id": "zh-1295",
                 "w": "干吗",
                 "p": "gàn má",
                 "d": "what are you doing?",
-                "s": ""
+                "s": "你觉得我在干吗呢？ (What do you think I was doing?)"
             },
             {
                 "id": "zh-1296",
                 "w": "心脏",
                 "p": "xīn zàng",
                 "d": "heart",
-                "s": ""
+                "s": "他是有执照的心脏科医生。 (He's a certified cardiologist.)"
             },
             {
                 "id": "zh-1297",
                 "w": "袭击",
                 "p": "xí jī",
                 "d": "attack (esp. surprise attack)",
-                "s": ""
+                "s": "我们被暴风雨袭击了。 (We were caught in a storm.)"
             },
             {
                 "id": "zh-1298",
                 "w": "记者",
                 "p": "jì zhě",
                 "d": "reporter; journalist",
-                "s": ""
+                "s": "我想成为一个体育记者。 (I want to be a sport reporter.)"
             },
             {
                 "id": "zh-1299",
                 "w": "说真的",
                 "p": "shuō zhēn de",
                 "d": "to tell the truth",
-                "s": ""
+                "s": "我不能相信你是说真的。 (I can't believe you're serious.)"
             },
             {
                 "id": "zh-1300",
                 "w": "要么",
                 "p": "yào me",
                 "d": "or",
-                "s": ""
+                "s": "我们必须学会像兄弟一样共同生活，要么就像傻子一样同归于尽。 (We must learn to live together as brothers, or we will perish together as fools.)"
             },
             {
                 "id": "zh-1301",
                 "w": "区",
                 "p": "qū",
                 "d": "area",
-                "s": ""
+                "s": "人们在多雨地区种植水稻。 (Rice is grown in rainy regions.)"
             },
             {
                 "id": "zh-1302",
                 "w": "查",
                 "p": "chá",
                 "d": "to research",
-                "s": ""
+                "s": "米克为婴儿取名为理查。 (Mick named the baby Richard.)"
             },
             {
                 "id": "zh-1303",
                 "w": "罗马",
                 "p": "luó mǎ",
                 "d": "Rome, capital of Italy",
-                "s": ""
+                "s": "艾美莉学了点儿罗马尼亚语。 (Emily studied some Romanian.)"
             },
             {
                 "id": "zh-1304",
                 "w": "怀孕",
                 "p": "huái yùn",
                 "d": "pregnant",
-                "s": ""
+                "s": "不，谢谢，我已经怀孕了！ (No, thank you, I am pregnant!)"
             },
             {
                 "id": "zh-1305",
                 "w": "同志",
                 "p": "tóng zhì",
                 "d": "comrade",
-                "s": ""
+                "s": "向雷锋同志学习。 (Learn from Comrade Lei Feng.)"
             },
             {
                 "id": "zh-1306",
                 "w": "臭",
                 "p": "chòu",
                 "d": "stench",
-                "s": ""
+                "s": "我们把他称为“臭鼬人”。 (We call him \"Skunk Man\".)"
             },
             {
                 "id": "zh-1307",
                 "w": "照",
                 "p": "zhào",
                 "d": "according to",
-                "s": ""
+                "s": "你可以照顾一下我的猫吗? (Would you look after my cat?)"
             },
             {
                 "id": "zh-1308",
                 "w": "谈论",
                 "p": "tán lùn",
                 "d": "to discuss; to talk about",
-                "s": ""
+                "s": "他就是我谈论过得那个人。 (He is the man we were talking about.)"
             },
             {
                 "id": "zh-1309",
                 "w": "恐惧",
                 "p": "kǒng jù",
                 "d": "to be frightened",
-                "s": ""
+                "s": "她笑是为了掩饰自己的恐惧。 (She laughed to cover her fear.)"
             },
             {
                 "id": "zh-1310",
                 "w": "糟",
                 "p": "zāo",
                 "d": "dregs",
-                "s": ""
+                "s": "没有什么比战争更糟的了。 (Nothing is worse than war.)"
             },
             {
                 "id": "zh-1311",
                 "w": "尊重",
                 "p": "zūn zhòng",
                 "d": "to esteem",
-                "s": ""
+                "s": "我们必须尊重别人的私隐。 (We must respect other people's privacy.)"
             },
             {
                 "id": "zh-1312",
                 "w": "期待",
                 "p": "qī dài",
                 "d": "to look forward to",
-                "s": ""
+                "s": "我期待著您的再次光临。 (I look forward to your next visit.)"
             },
             {
                 "id": "zh-1313",
                 "w": "嘘",
                 "p": "xū",
                 "d": "to exhale slowly",
-                "s": ""
+                "s": "他吹嘘这场谋杀。 (He bragged about the killing.)"
             },
             {
                 "id": "zh-1314",
                 "w": "船长",
                 "p": "chuán zhǎng",
                 "d": "captain (of a boat)",
-                "s": ""
+                "s": "我是这船的船长。 (I'm the captain of this ship.)"
             },
             {
                 "id": "zh-1315",
                 "w": "盯",
                 "p": "dīng",
                 "d": "to watch attentively",
-                "s": ""
+                "s": "盯著陌生人看是不礼貌的。 (It is rude to stare at strangers.)"
             },
             {
                 "id": "zh-1316",
                 "w": "离婚",
                 "p": "lí hūn",
                 "d": "to divorce",
-                "s": ""
+                "s": "我不知道他们是否会离婚。 (I wonder if they'll get divorced.)"
             },
             {
                 "id": "zh-1317",
                 "w": "技术",
                 "p": "jì shù",
                 "d": "technology; technique; skill",
-                "s": ""
+                "s": "她骑摩托车的技术不错！ (She rides a motorcycle well.)"
             },
             {
                 "id": "zh-1318",
                 "w": "同学",
                 "p": "tóng xué",
                 "d": "to study at the same school",
-                "s": ""
+                "s": "汤姆和我是玛丽的同班同学。 (Tom and I are Mary's classmates.)"
             },
             {
                 "id": "zh-1319",
                 "w": "天使",
                 "p": "tiān shǐ",
                 "d": "angel",
-                "s": ""
+                "s": "我今晨看见一位天使。 (This morning, I saw an angel.)"
             },
             {
                 "id": "zh-1320",
                 "w": "确保",
                 "p": "què bǎo",
                 "d": "to ensure; to guarantee",
-                "s": ""
+                "s": "确保这个孩子不生病。 (Make sure that the child is not sick.)"
             },
             {
                 "id": "zh-1321",
                 "w": "正好",
                 "p": "zhèng hǎo",
                 "d": "just (in time)",
-                "s": ""
+                "s": "我的想法跟他的正好相反。 (My idea went against his.)"
             },
             {
                 "id": "zh-1322",
                 "w": "秒",
                 "p": "miǎo",
                 "d": "second (unit of time)",
-                "s": ""
+                "s": "我失去了生命中的十五秒。 (I've lost 15 seconds of my life.)"
             },
             {
                 "id": "zh-1323",
                 "w": "表示",
                 "p": "biǎo shì",
                 "d": "(of sb) to express; to state; to show",
-                "s": ""
+                "s": "他对这个计划表示了兴趣。 (He showed interest in the plan.)"
             },
             {
                 "id": "zh-1324",
                 "w": "汽车",
                 "p": "qì chē",
                 "d": "car",
-                "s": ""
+                "s": "你是否坐公共汽车去上学？ (Do you go to school by bus?)"
             },
             {
                 "id": "zh-1325",
                 "w": "信号",
                 "p": "xìn hào",
                 "d": "signal",
-                "s": ""
+                "s": "他给了我们开始的信号。 (He gave us the signal to begin.)"
             },
             {
                 "id": "zh-1326",
                 "w": "送给",
                 "p": "sòng gěi",
                 "d": "to send",
-                "s": ""
+                "s": "我打算把这块手表送给你。 (This watch is meant for you.)"
             },
             {
                 "id": "zh-1327",
                 "w": "装",
                 "p": "zhuāng",
                 "d": "adornment",
-                "s": ""
+                "s": "苏珊做了一件洋装给吉儿。 (Susan made a dress for Jill.)"
             },
             {
                 "id": "zh-1328",
                 "w": "周末",
                 "p": "zhōu mò",
                 "d": "weekend",
-                "s": ""
+                "s": "上周末过得怎么样，南希？ (How was last weekend, Nancy?)"
             },
             {
                 "id": "zh-1329",
                 "w": "惊喜",
                 "p": "jīng xǐ",
                 "d": "nice surprise",
-                "s": ""
+                "s": "为什么任何人应该感到惊喜？ (Why should anyone be surprised?)"
             },
             {
                 "id": "zh-1330",
                 "w": "困难",
                 "p": "kùn nan",
                 "d": "difficult",
-                "s": ""
+                "s": "生活很困难，但我更坚强。 (Life is hard, but I am harder.)"
             },
             {
                 "id": "zh-1331",
                 "w": "客户",
                 "p": "kè hù",
                 "d": "client; customer",
-                "s": ""
+                "s": "投资者把他客户的资金窃取了. (The investor stole the capital of his client.)"
             },
             {
                 "id": "zh-1332",
                 "w": "请求",
                 "p": "qǐng qiú",
                 "d": "to request; to ask",
-                "s": ""
+                "s": "他拒绝了我加好友的请求。 (He refused my friend request.)"
             },
             {
                 "id": "zh-1333",
                 "w": "手术",
                 "p": "shǒu shù",
                 "d": "(surgical) operation",
-                "s": ""
+                "s": "这个诊所正在做激光手术。 (This clinic is doing laser surgery.)"
             },
             {
                 "id": "zh-1334",
                 "w": "一点点",
                 "p": "yī diǎn diǎn",
                 "d": "a little bit",
-                "s": ""
+                "s": "你差一点点就猜对了。 (Your guess is almost right.)"
             },
             {
                 "id": "zh-1335",
                 "w": "干掉",
                 "p": "gàn diào",
                 "d": "to get rid of",
-                "s": ""
+                "s": "把她干掉了。 (Get rid of her.)"
             },
             {
                 "id": "zh-1336",
                 "w": "彼此",
                 "p": "bǐ cǐ",
                 "d": "each other; one another",
-                "s": ""
+                "s": "约翰和安彼此互相喜欢。 (John and Ann like each other.)"
             },
             {
                 "id": "zh-1337",
                 "w": "好事",
                 "p": "hǎo shì",
                 "d": "good action, deed, thing or work (also sarcastic, \"a fine thing indeed\")",
-                "s": ""
+                "s": "发生了什么好事吗？ (Has something good happened?)"
             },
             {
                 "id": "zh-1338",
                 "w": "跟踪",
                 "p": "gēn zōng",
                 "d": "to follow sb's tracks",
-                "s": ""
+                "s": "狮子在跟踪它的猎物。 (The lion is stalking its prey.)"
             },
             {
                 "id": "zh-1339",
                 "w": "唔",
                 "p": "wú",
                 "d": "oh (expression of agreement or surprise)",
-                "s": ""
+                "s": "伦敦在泰唔士河旁。 (London is on the Thames.)"
             },
             {
                 "id": "zh-1340",
                 "w": "尼克",
                 "p": "ní kè",
                 "d": "Nick (name)",
-                "s": ""
+                "s": "尼克没有通过考试，是吗？ (Nick didn't pass the exam, did he?)"
             },
             {
                 "id": "zh-1341",
                 "w": "上来",
                 "p": "shàng lái",
                 "d": "to come up",
-                "s": ""
+                "s": "梅纳德的焦虑感涌了上来。 (Mennad's anxiety was kicking.)"
             },
             {
                 "id": "zh-1342",
                 "w": "疼",
                 "p": "téng",
                 "d": "(it) hurts; sore",
-                "s": ""
+                "s": "你头疼吃两片阿司匹林吧. (Take two aspirins for your headache.)"
             },
             {
                 "id": "zh-1343",
@@ -9414,56 +9414,56 @@
                 "w": "及",
                 "p": "jí",
                 "d": "and",
-                "s": ""
+                "s": "小洞及时补，免遭大洞苦。 (A stitch in time saves nine.)"
             },
             {
                 "id": "zh-1345",
                 "w": "私人",
                 "p": "sī rén",
                 "d": "private",
-                "s": ""
+                "s": "她请了个私人调查员。 (She hired a private investigator.)"
             },
             {
                 "id": "zh-1346",
                 "w": "面",
                 "p": "miàn",
                 "d": "face",
-                "s": ""
+                "s": "她面带微笑向我们打招呼。 (She greeted us with a smile.)"
             },
             {
                 "id": "zh-1347",
                 "w": "嘴",
                 "p": "zuǐ",
                 "d": "mouth",
-                "s": ""
+                "s": "他张开了嘴巴说不出话来。 (He was in open-mouthed amazement.)"
             },
             {
                 "id": "zh-1348",
                 "w": "上床",
                 "p": "shàng chuáng",
                 "d": "to go to bed",
-                "s": ""
+                "s": "你通常甚么时候上床睡觉？ (When do you usually go to bed?)"
             },
             {
                 "id": "zh-1349",
                 "w": "好玩",
                 "p": "hǎo wán",
                 "d": "amusing",
-                "s": ""
+                "s": "高空弹跳是恐怖还是好玩？ (Is bungee jumping frightening or fun?)"
             },
             {
                 "id": "zh-1350",
                 "w": "动作",
                 "p": "dòng zuò",
                 "d": "movement; motion; action",
-                "s": ""
+                "s": "约翰做了个愤怒的动作。 (John made an angry gesture.)"
             },
             {
                 "id": "zh-1351",
                 "w": "庆祝",
                 "p": "qìng zhù",
                 "d": "to celebrate",
-                "s": ""
+                "s": "我们庆祝了他的生日。 (We celebrated his birthday.)"
             },
             {
                 "id": "zh-1352",
@@ -9477,371 +9477,371 @@
                 "w": "会议",
                 "p": "huì yì",
                 "d": "meeting",
-                "s": ""
+                "s": "这个会议持续了两个小时。 (The meeting lasted two hours.)"
             },
             {
                 "id": "zh-1354",
                 "w": "杀手",
                 "p": "shā shǒu",
                 "d": "killer",
-                "s": ""
+                "s": "萨米在与莱拉的杀手说话。 (Sami was speaking to Layla's killer.)"
             },
             {
                 "id": "zh-1355",
                 "w": "报警",
                 "p": "bào jǐng",
                 "d": "to sound an alarm",
-                "s": ""
+                "s": "在紧急情况下，打电话报警。 (In case of emergency, call the police.)"
             },
             {
                 "id": "zh-1356",
                 "w": "叫做",
                 "p": "jiào zuò",
                 "d": "to be called; to be known as",
-                "s": ""
+                "s": "他们把她的宝宝叫做珍妮。 (They named her baby Jenny.)"
             },
             {
                 "id": "zh-1357",
                 "w": "主要",
                 "p": "zhǔ yào",
                 "d": "main; principal; major; primary",
-                "s": ""
+                "s": "我们游览了所有主要城市。 (We toured all the major cities.)"
             },
             {
                 "id": "zh-1358",
                 "w": "作品",
                 "p": "zuò pǐn",
                 "d": "work (of art)",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-1359",
                 "w": "状况",
                 "p": "zhuàng kuàng",
                 "d": "condition; state; situation",
-                "s": ""
+                "s": "你的状况并非毫无希望。 (Your situation isn't hopeless.)"
             },
             {
                 "id": "zh-1360",
                 "w": "制作",
                 "p": "zhì zuò",
                 "d": "to make; to manufacture",
-                "s": ""
+                "s": "这些汽车在日本制作了。 (These cars are made in Japan.)"
             },
             {
                 "id": "zh-1361",
                 "w": "兴奋",
                 "p": "xīng fèn",
                 "d": "excited",
-                "s": ""
+                "s": "我兴奋得吃不下任何东西。 (I'm too excited to eat anything.)"
             },
             {
                 "id": "zh-1362",
                 "w": "一辈子",
                 "p": "yī bèi zi",
                 "d": "(for) a lifetime",
-                "s": ""
+                "s": "这活儿我干了一辈子。 (I've done this all my life.)"
             },
             {
                 "id": "zh-1363",
                 "w": "厕所",
                 "p": "cè suǒ",
                 "d": "toilet; lavatory",
-                "s": ""
+                "s": "我能用一下你们的厕所吗？ (May I use your toilet?)"
             },
             {
                 "id": "zh-1364",
                 "w": "可恶",
                 "p": "kě wù",
                 "d": "repulsive",
-                "s": ""
+                "s": "可恶，家的钥匙到底放哪去了? (Shit, where the fuck did I put my home keys?)"
             },
             {
                 "id": "zh-1365",
                 "w": "第二",
                 "p": "dì èr",
                 "d": "second",
-                "s": ""
+                "s": "第二优秀是远远不够的。 (Second best is never enough.)"
             },
             {
                 "id": "zh-1366",
                 "w": "法庭",
                 "p": "fǎ tíng",
                 "d": "court of law",
-                "s": ""
+                "s": "法庭宣判被告无罪。 (The court declared the defendant innocent.)"
             },
             {
                 "id": "zh-1367",
                 "w": "报纸",
                 "p": "bào zhǐ",
                 "d": "newspaper",
-                "s": ""
+                "s": "那边的报纸，你给他送去。 (Send that newspaper to him.)"
             },
             {
                 "id": "zh-1368",
                 "w": "轻松",
                 "p": "qīng sōng",
                 "d": "light",
-                "s": ""
+                "s": "他轻松地解决了这个问题。 (He easily solved the problem.)"
             },
             {
                 "id": "zh-1369",
                 "w": "张",
                 "p": "zhāng",
                 "d": "to open up",
-                "s": ""
+                "s": "这儿有张很大的德国地图。 (Here's a big map of Germany.)"
             },
             {
                 "id": "zh-1370",
                 "w": "哥",
                 "p": "gē",
                 "d": "elder brother",
-                "s": ""
+                "s": "她推迟了去墨西哥的行程。 (She put off going to Mexico.)"
             },
             {
                 "id": "zh-1371",
                 "w": "赢得",
                 "p": "yíng dé",
                 "d": "to win",
-                "s": ""
+                "s": "汤姆赢得了环法自行车赛。 (Tom won the Tour de France.)"
             },
             {
                 "id": "zh-1372",
                 "w": "停下来",
                 "p": "tíng xià lái",
                 "d": "to stop",
-                "s": ""
+                "s": "我告诉了你停下来，不是吗？ (I told you to stop, didn't I?)"
             },
             {
                 "id": "zh-1373",
                 "w": "速度",
                 "p": "sù dù",
                 "d": "speed; rate; velocity; (music) tempo",
-                "s": ""
+                "s": "齐里移动的速度快多了。 (Ziri was moving much faster.)"
             },
             {
                 "id": "zh-1374",
                 "w": "宝宝",
                 "p": "bǎo bao",
                 "d": "darling; baby",
-                "s": ""
+                "s": "他们把她的宝宝叫做珍妮。 (They named her baby Jenny.)"
             },
             {
                 "id": "zh-1375",
                 "w": "显示",
                 "p": "xiǎn shì",
                 "d": "to show",
-                "s": ""
+                "s": "错误是如何显示出来的？ (How is the error observed?)"
             },
             {
                 "id": "zh-1376",
                 "w": "有钱",
                 "p": "yǒu qián",
                 "d": "well-off",
-                "s": ""
+                "s": "他使他儿子成了个有钱人。 (He made his son a wealthy man.)"
             },
             {
                 "id": "zh-1377",
                 "w": "詹姆斯",
                 "p": "zhān mǔ sī",
                 "d": "James (name)",
-                "s": ""
+                "s": "我们选出了詹姆斯当主席。 (We elected James chairman.)"
             },
             {
                 "id": "zh-1378",
                 "w": "状态",
                 "p": "zhuàng tài",
                 "d": "condition; state; state of affairs",
-                "s": ""
+                "s": "患者现在处于深度昏迷状态。 (The patient is in a deep coma.)"
             },
             {
                 "id": "zh-1379",
                 "w": "尽快",
                 "p": "jǐn kuài",
                 "d": "as quickly as possible; as soon as possible",
-                "s": ""
+                "s": "我会尽快给你打电话的。 (I'll call you as soon as I can.)"
             },
             {
                 "id": "zh-1380",
                 "w": "监视",
                 "p": "jiān shì",
                 "d": "to monitor",
-                "s": ""
+                "s": "他在监视着。 (He is keeping an eye out.)"
             },
             {
                 "id": "zh-1381",
                 "w": "主",
                 "p": "zhǔ",
                 "d": "owner",
-                "s": ""
+                "s": "我天生是一个乐观主义者。 (I am an optimist by nature.)"
             },
             {
                 "id": "zh-1382",
                 "w": "刀",
                 "p": "dāo",
                 "d": "knife; blade; single-edged sword; cutlass (CL:把)",
-                "s": ""
+                "s": "它可以被当成一把刀来用。 (It can be used as a knife.)"
             },
             {
                 "id": "zh-1383",
                 "w": "价值",
                 "p": "jià zhí",
                 "d": "value; worth",
-                "s": ""
+                "s": "那部电影有看的价值。 (That movie is worth seeing.)"
             },
             {
                 "id": "zh-1384",
                 "w": "荣幸",
                 "p": "róng xìng",
                 "d": "honored (to have the privilege of ...)",
-                "s": ""
+                "s": "我很荣幸能见到你。 (I am honored to meet you.)"
             },
             {
                 "id": "zh-1385",
                 "w": "咬",
                 "p": "yǎo",
                 "d": "to bite",
-                "s": ""
+                "s": "一朝被蛇咬，十年怕井绳。 (Once bitten, twice shy.)"
             },
             {
                 "id": "zh-1386",
                 "w": "大约",
                 "p": "dà yuē",
                 "d": "approximately",
-                "s": ""
+                "s": "一英里大约是1600米。 (A mile is about 1,600 meters.)"
             },
             {
                 "id": "zh-1387",
                 "w": "俱乐部",
                 "p": "jù lè bù",
                 "d": "(loanword) club (the organization or its premises)",
-                "s": ""
+                "s": "我不是这个俱乐部的会员。 (I'm not a member of the club.)"
             },
             {
                 "id": "zh-1388",
                 "w": "合适",
                 "p": "hé shì",
                 "d": "suitable; fitting; appropriate",
-                "s": ""
+                "s": "他们在不合适的时间来了。 (They came at an inconvenient time.)"
             },
             {
                 "id": "zh-1389",
                 "w": "尤其",
                 "p": "yóu qí",
                 "d": "especially; particularly",
-                "s": ""
+                "s": "我很喜欢音乐，尤其是古典音乐。 (I love music, particularly classical.)"
             },
             {
                 "id": "zh-1390",
                 "w": "现实",
                 "p": "xiàn shí",
                 "d": "reality; actuality",
-                "s": ""
+                "s": "有时候，现实比科幻还奇妙。 (Sometimes reality surpasses fiction.)"
             },
             {
                 "id": "zh-1391",
                 "w": "参与",
                 "p": "cān yù",
                 "d": "to participate (in sth)",
-                "s": ""
+                "s": "汤姆是第一个志愿参与的人。 (Tom was the first person to volunteer.)"
             },
             {
                 "id": "zh-1392",
                 "w": "运动",
                 "p": "yùn dòng",
                 "d": "to move",
-                "s": ""
+                "s": "踢球是我的最喜欢的运动。 (Football is my favorite game.)"
             },
             {
                 "id": "zh-1393",
                 "w": "输",
                 "p": "shū",
                 "d": "to lose; to be beaten",
-                "s": ""
+                "s": "我最后还是输了那场官司。 (I have lost the case after all.)"
             },
             {
                 "id": "zh-1394",
                 "w": "时代",
                 "p": "shí dài",
                 "d": "age",
-                "s": ""
+                "s": "他毕竟是那个时代的人。 (He's a product of his time.)"
             },
             {
                 "id": "zh-1395",
                 "w": "婚姻",
                 "p": "hūn yīn",
                 "d": "marriage; matrimony",
-                "s": ""
+                "s": "我的父亲反对我们的婚姻。 (My father objected to our marriage.)"
             },
             {
                 "id": "zh-1396",
                 "w": "副",
                 "p": "fù",
                 "d": "secondary",
-                "s": ""
+                "s": "他把全副心神放在学业上。 (He applied himself to his study.)"
             },
             {
                 "id": "zh-1397",
                 "w": "天堂",
                 "p": "tiān táng",
                 "d": "paradise",
-                "s": ""
+                "s": "这个海滩是冲浪者的天堂。 (This beach is a paradise for surfers.)"
             },
             {
                 "id": "zh-1398",
                 "w": "恐怖",
                 "p": "kǒng bù",
                 "d": "terrible",
-                "s": ""
+                "s": "俄罗斯是一个恐怖主义国家。 (Russia is a terrorist state.)"
             },
             {
                 "id": "zh-1399",
                 "w": "角色",
                 "p": "jué sè",
                 "d": "role; part (in a play or movie etc)",
-                "s": ""
+                "s": "他扮演哈姆雷特的角色。 (He played the part of Hamlet.)"
             },
             {
                 "id": "zh-1400",
                 "w": "人员",
                 "p": "rén yuán",
                 "d": "staff",
-                "s": ""
+                "s": "医护人员已抵达事发现场。 (Paramedics are on the scene.)"
             },
             {
                 "id": "zh-1401",
                 "w": "鸟",
                 "p": "niǎo",
                 "d": "bird",
-                "s": ""
+                "s": "鸟儿从我的视线中消失了。 (The bird vanished from view.)"
             },
             {
                 "id": "zh-1402",
                 "w": "牺牲",
                 "p": "xī shēng",
                 "d": "to sacrifice one's life",
-                "s": ""
+                "s": "士兵们已经准备好为国牺牲了。 (The soldiers were ready to die for their country.)"
             },
             {
                 "id": "zh-1403",
                 "w": "去世",
                 "p": "qù shì",
                 "d": "to pass away",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-1404",
                 "w": "性感",
                 "p": "xìng gǎn",
                 "d": "sex appeal",
-                "s": ""
+                "s": "你觉得胸毛是性感的吗？ (Do you think that chest hair is sexy?)"
             },
             {
                 "id": "zh-1405",
                 "w": "假装",
                 "p": "jiǎ zhuāng",
                 "d": "to feign",
-                "s": ""
+                "s": "汤姆假装他是一名医生。 (Tom pretended he was a doctor.)"
             },
             {
                 "id": "zh-1406",
@@ -9855,511 +9855,511 @@
                 "w": "犹太人",
                 "p": "yóu tài rén",
                 "d": "Jew",
-                "s": ""
+                "s": "乌克兰总统是犹太人。︀ (Ukraine's president is Jewish.)"
             },
             {
                 "id": "zh-1408",
                 "w": "摆",
                 "p": "bǎi",
                 "d": "to arrange",
-                "s": ""
+                "s": "我怎么才能摆脱这种困境？ (How do I get out of this mess?)"
             },
             {
                 "id": "zh-1409",
                 "w": "只不过",
                 "p": "zhǐ bu guò",
                 "d": "only; merely; nothing but; no more than",
-                "s": ""
+                "s": "我知道那只不过是一场梦。 (I know it was just a dream.)"
             },
             {
                 "id": "zh-1410",
                 "w": "由于",
                 "p": "yóu yú",
                 "d": "due to",
-                "s": ""
+                "s": "由于火车延误，我迟到了。 (I was late as a result of the train delay.)"
             },
             {
                 "id": "zh-1411",
                 "w": "厨房",
                 "p": "chú fáng",
                 "d": "kitchen",
-                "s": ""
+                "s": "汤姆是在自家厨房里死的。 (Tom died in his kitchen.)"
             },
             {
                 "id": "zh-1412",
                 "w": "总之",
                 "p": "zǒng zhī",
                 "d": "in a word",
-                "s": ""
+                "s": "总之它是个很棒的派对。 (In short, it was a great party.)"
             },
             {
                 "id": "zh-1413",
                 "w": "石头",
                 "p": "shí tou",
                 "d": "stone",
-                "s": ""
+                "s": "他扔了一块石头到池塘里。 (He threw a rock into the pond.)"
             },
             {
                 "id": "zh-1414",
                 "w": "地点",
                 "p": "dì diǎn",
                 "d": "place",
-                "s": ""
+                "s": "集合地点是哪儿？ (Where is the assembly point?)"
             },
             {
                 "id": "zh-1415",
                 "w": "骄傲",
                 "p": "jiāo ào",
                 "d": "pride",
-                "s": ""
+                "s": "他为自己的女儿感到骄傲。 (He was proud of his daughter.)"
             },
             {
                 "id": "zh-1416",
                 "w": "土地",
                 "p": "tǔ dì",
                 "d": "land",
-                "s": ""
+                "s": "在我的土地上要教世界语。 (I will teach Esperanto in my land.)"
             },
             {
                 "id": "zh-1417",
                 "w": "更加",
                 "p": "gèng jiā",
                 "d": "more (than sth else)",
-                "s": ""
+                "s": "我希望你更加努力地工作。 (I expect you to work harder.)"
             },
             {
                 "id": "zh-1418",
                 "w": "四",
                 "p": "sì",
                 "d": "four",
-                "s": ""
+                "s": "我们在日本里有四个季节。 (We have four seasons in Japan.)"
             },
             {
                 "id": "zh-1419",
                 "w": "安",
                 "p": "ān",
                 "d": "(bound form) calm; peaceful",
-                "s": ""
+                "s": "无论何时都要扣好安全带。 (Always fasten your seatbelt.)"
             },
             {
                 "id": "zh-1420",
                 "w": "学",
                 "p": "xué",
                 "d": "to learn",
-                "s": ""
+                "s": "你是否坐公共汽车去上学？ (Do you go to school by bus?)"
             },
             {
                 "id": "zh-1421",
                 "w": "暂时",
                 "p": "zàn shí",
                 "d": "temporary; provisional; for the time being",
-                "s": ""
+                "s": "暂时藏在仓库里好了。 (Hide it inside the warehouse for now.)"
             },
             {
                 "id": "zh-1422",
                 "w": "演员",
                 "p": "yǎn yuán",
                 "d": "actor; actress; performer",
-                "s": ""
+                "s": "我还从没听说过这个演员。 (I've never heard of the actor.)"
             },
             {
                 "id": "zh-1423",
                 "w": "产生",
                 "p": "chǎn shēng",
                 "d": "to arise; to come into being; to come about",
-                "s": ""
+                "s": "事故由一个简单的错误产生。 (The accident arose from a simple mistake.)"
             },
             {
                 "id": "zh-1424",
                 "w": "停车",
                 "p": "tíng chē",
                 "d": "to pull up (stop one's vehicle)",
-                "s": ""
+                "s": "我们有在这里停车的许可。 (We got permission to park here.)"
             },
             {
                 "id": "zh-1425",
                 "w": "餐厅",
                 "p": "cān tīng",
                 "d": "dining hall",
-                "s": ""
+                "s": "我们去了一家餐厅吃晚饭。 (We went to a restaurant for dinner.)"
             },
             {
                 "id": "zh-1426",
                 "w": "女性",
                 "p": "nǚ xìng",
                 "d": "woman",
-                "s": ""
+                "s": "他是我最好的女性朋友。 (She is his best girlfriend.)"
             },
             {
                 "id": "zh-1427",
                 "w": "之类",
                 "p": "zhī lèi",
                 "d": "and so on",
-                "s": ""
+                "s": "他是个音乐家之类的人。 (He is something of a musician.)"
             },
             {
                 "id": "zh-1428",
                 "w": "年轻人",
                 "p": "nián qīng rén",
                 "d": "young people",
-                "s": ""
+                "s": "告诉我，这个年轻人是谁？ (Tell me; who is this young man?)"
             },
             {
                 "id": "zh-1429",
                 "w": "官",
                 "p": "guān",
                 "d": "government official",
-                "s": ""
+                "s": "我最后还是输了那场官司。 (I have lost the case after all.)"
             },
             {
                 "id": "zh-1430",
                 "w": "地址",
                 "p": "dì zhǐ",
                 "d": "address",
-                "s": ""
+                "s": "告诉我汤姆的邮箱地址吧。 (Tell me Tom's email address.)"
             },
             {
                 "id": "zh-1431",
                 "w": "情报",
                 "p": "qíng bào",
                 "d": "information; intelligence",
-                "s": ""
+                "s": "你知道中央情报局的什么？ (What do you know about the CIA?)"
             },
             {
                 "id": "zh-1432",
                 "w": "惹",
                 "p": "rě",
                 "d": "to provoke",
-                "s": ""
+                "s": "你做了甚么事把汤姆惹哭了？ (What did you do to make Tom cry?)"
             },
             {
                 "id": "zh-1433",
                 "w": "件",
                 "p": "jiàn",
                 "d": "item",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-1434",
                 "w": "在乎",
                 "p": "zài hu",
                 "d": "to rest with; to lie in; to be due to (a certain attribute)",
-                "s": ""
+                "s": "我根本不在乎我的简历。 (I don't give a damn about my CV.)"
             },
             {
                 "id": "zh-1435",
                 "w": "和平",
                 "p": "hé píng",
                 "d": "peace",
-                "s": ""
+                "s": "世界所有人都渴望和平。 (All the world desires peace.)"
             },
             {
                 "id": "zh-1436",
                 "w": "机场",
                 "p": "jī chǎng",
                 "d": "airport; airfield",
-                "s": ""
+                "s": "我能在哪里乘上机场巴士？ (Where do I get an airport bus?)"
             },
             {
                 "id": "zh-1437",
                 "w": "制造",
                 "p": "zhì zào",
                 "d": "to manufacture; to make",
-                "s": ""
+                "s": "这个照相机是德国制造的。 (This camera was made in Germany.)"
             },
             {
                 "id": "zh-1438",
                 "w": "执行",
                 "p": "zhí xíng",
                 "d": "to implement",
-                "s": ""
+                "s": "我们必须执行他的命令。 (We must execute his orders.)"
             },
             {
                 "id": "zh-1439",
                 "w": "冲",
                 "p": "chōng",
                 "d": "(of water) to dash against",
-                "s": ""
+                "s": "茶壶里再冲点水在里面。 (Swill the teapot out with water.)"
             },
             {
                 "id": "zh-1440",
                 "w": "不许",
                 "p": "bù xǔ",
                 "d": "not to allow",
-                "s": ""
+                "s": "这条规定不许例外。 (This rule allows no exception.)"
             },
             {
                 "id": "zh-1441",
                 "w": "似的",
                 "p": "shì de",
                 "d": "seems as if",
-                "s": ""
+                "s": "我也听过一个类似的故事。 (I also heard a similar story.)"
             },
             {
                 "id": "zh-1442",
                 "w": "非常感谢",
                 "p": "fēi cháng gǎn xiè",
                 "d": "extremely grateful; very thankful",
-                "s": ""
+                "s": "非常感谢你所做的一切。 (Thank you very much for everything.)"
             },
             {
                 "id": "zh-1443",
                 "w": "耶稣",
                 "p": "yē sū",
                 "d": "Jesus",
-                "s": ""
+                "s": "耶稣是你的儿子，玛丽亚！ (Jesus is your son, Mary!)"
             },
             {
                 "id": "zh-1444",
                 "w": "常",
                 "p": "cháng",
                 "d": "always",
-                "s": ""
+                "s": "汤姆的上司真的非常生气。 (Tom's boss was really angry.)"
             },
             {
                 "id": "zh-1445",
                 "w": "比尔",
                 "p": "bǐ ěr",
                 "d": "Bill (name)",
-                "s": ""
+                "s": "我邀请了肯，比尔和由美。 (I invited Ken, Bill and Yumi.)"
             },
             {
                 "id": "zh-1446",
                 "w": "顺利",
                 "p": "shùn lì",
                 "d": "smoothly; without a hitch",
-                "s": ""
+                "s": "祝今晚首演顺利，成功！ (Good luck with tonight's performance!)"
             },
             {
                 "id": "zh-1447",
                 "w": "不停",
                 "p": "bù tíng",
                 "d": "incessant",
-                "s": ""
+                "s": "阿尔及尔从不停滞不前。 (Algiers never stands still.)"
             },
             {
                 "id": "zh-1448",
                 "w": "今年",
                 "p": "jīn nián",
                 "d": "this year",
-                "s": ""
+                "s": "我们的销量今年翻了一番。 (Our sales doubled this year.)"
             },
             {
                 "id": "zh-1449",
                 "w": "歌",
                 "p": "gē",
                 "d": "song (CL:首,支)",
-                "s": ""
+                "s": "我认识的每个人都用谷歌。 (Everyone I know uses Google.)"
             },
             {
                 "id": "zh-1450",
                 "w": "满足",
                 "p": "mǎn zú",
                 "d": "to satisfy",
-                "s": ""
+                "s": "我会尽力满足你的愿望。 (I'll try to meet your wishes.)"
             },
             {
                 "id": "zh-1451",
                 "w": "演出",
                 "p": "yǎn chū",
                 "d": "to act (in a play)",
-                "s": ""
+                "s": "我今天去看演出了。 (I went to see a show today.)"
             },
             {
                 "id": "zh-1452",
                 "w": "艾",
                 "p": "ài",
                 "d": "Chinese mugwort (Artemisia); moxa",
-                "s": ""
+                "s": "我为自己的错误自怨自艾。 (I hate myself for my mistakes.)"
             },
             {
                 "id": "zh-1453",
                 "w": "逃跑",
                 "p": "táo pǎo",
                 "d": "to flee from sth",
-                "s": ""
+                "s": "他感觉到危险就逃跑了。 (Sensing danger, he ran away.)"
             },
             {
                 "id": "zh-1454",
                 "w": "香港",
                 "p": "xiāng gǎng",
                 "d": "Hong Kong, special administrative region (SAR) of the PRC (short name 港)",
-                "s": ""
+                "s": "我不是坐飞机去香港的。 (I didn't go to Hong Kong by plane.)"
             },
             {
                 "id": "zh-1455",
                 "w": "颜色",
                 "p": "yán sè",
                 "d": "color",
-                "s": ""
+                "s": "蓝色不是我最喜欢的颜色。 (Blue isn't my favorite color.)"
             },
             {
                 "id": "zh-1456",
                 "w": "提到",
                 "p": "tí dào",
                 "d": "to mention",
-                "s": ""
+                "s": "汤姆没有提到他看见了玛丽。 (Tom didn't mention seeing Mary.)"
             },
             {
                 "id": "zh-1457",
                 "w": "丹尼",
                 "p": "dān ní",
                 "d": "Danny (name)",
-                "s": ""
+                "s": "威尔逊先生对丹尼斯很生气。 (Mr. Wilson is angry at Dennis.)"
             },
             {
                 "id": "zh-1458",
                 "w": "胜利",
                 "p": "shèng lì",
                 "d": "victory",
-                "s": ""
+                "s": "她理所当然的取得了胜利。 (She's sure to succeed.)"
             },
             {
                 "id": "zh-1459",
                 "w": "条件",
                 "p": "tiáo jiàn",
                 "d": "condition; circumstance; term; factor",
-                "s": ""
+                "s": "我不想在这些条件下工作。 (I don't want to work under these conditions.)"
             },
             {
                 "id": "zh-1460",
                 "w": "毒品",
                 "p": "dú pǐn",
                 "d": "drugs; narcotics",
-                "s": ""
+                "s": "她在演唱会的场地贩卖毒品。 (She's selling drugs at concerts.)"
             },
             {
                 "id": "zh-1461",
                 "w": "史",
                 "p": "shǐ",
                 "d": "history",
-                "s": ""
+                "s": "史密斯太太打扫那个房间。 (Mrs. Smith cleans that room.)"
             },
             {
                 "id": "zh-1462",
                 "w": "踢",
                 "p": "tī",
                 "d": "to kick",
-                "s": ""
+                "s": "踢球是我的最喜欢的运动。 (Football is my favorite game.)"
             },
             {
                 "id": "zh-1463",
                 "w": "下车",
                 "p": "xià chē",
                 "d": "to get off or out of (a bus, train, car etc)",
-                "s": ""
+                "s": "让我们中途下车看场电影吧。 (Let's stop off and see a movie.)"
             },
             {
                 "id": "zh-1464",
                 "w": "发展",
                 "p": "fā zhǎn",
                 "d": "development",
-                "s": ""
+                "s": "暴风雨发展成了一个台风。 (The storm developed into a typhoon.)"
             },
             {
                 "id": "zh-1465",
                 "w": "分手",
                 "p": "fēn shǒu",
                 "d": "to part company",
-                "s": ""
+                "s": "汤姆和南西上个月分手了。 (Tom and Nancy broke up last month.)"
             },
             {
                 "id": "zh-1466",
                 "w": "专家",
                 "p": "zhuān jiā",
                 "d": "expert; specialist",
-                "s": ""
+                "s": "我从来没说过我是专家。 (I never said I was an expert.)"
             },
             {
                 "id": "zh-1467",
                 "w": "部队",
                 "p": "bù duì",
                 "d": "army",
-                "s": ""
+                "s": "特种部队包围了建筑物。 (Special forces surrounded the building.)"
             },
             {
                 "id": "zh-1468",
                 "w": "做爱",
                 "p": "zuò ài",
                 "d": "to make love",
-                "s": ""
+                "s": "要做爱不要战争。 (Make love, not war.)"
             },
             {
                 "id": "zh-1469",
                 "w": "马克",
                 "p": "mǎ kè",
                 "d": "mark (monetary unit)",
-                "s": ""
+                "s": "马克给他的儿子买了辆车。 (Marco bought his son a car.)"
             },
             {
                 "id": "zh-1470",
                 "w": "老实",
                 "p": "lǎo shi",
                 "d": "honest; sincere",
-                "s": ""
+                "s": "她这人十分老实，绝对可信。 (Her honesty is beyond question.)"
             },
             {
                 "id": "zh-1471",
                 "w": "好处",
                 "p": "hǎo chǔ",
                 "d": "easy to get along with",
-                "s": ""
+                "s": "这件事对谁都没有好处。 (This event benefits no one.)"
             },
             {
                 "id": "zh-1472",
                 "w": "森林",
                 "p": "sēn lín",
                 "d": "forest",
-                "s": ""
+                "s": "玛丽亚只身一人在森林中。 (Mary is alone in the forest.)"
             },
             {
                 "id": "zh-1473",
                 "w": "生存",
                 "p": "shēng cún",
                 "d": "to exist",
-                "s": ""
+                "s": "我放弃了所有生存的希望。 (I gave up all hope of survival.)"
             },
             {
                 "id": "zh-1474",
                 "w": "谈话",
                 "p": "tán huà",
                 "d": "to talk (with sb)",
-                "s": ""
+                "s": "汤姆，我想跟玛丽谈话。 (Tom, I want to talk to Mary.)"
             },
             {
                 "id": "zh-1475",
                 "w": "冒险",
                 "p": "mào xiǎn",
                 "d": "to take risks",
-                "s": ""
+                "s": "我不想做任何冒险的事。 (I don't want to do anything risky.)"
             },
             {
                 "id": "zh-1476",
                 "w": "地上",
                 "p": "dì shang",
                 "d": "on the ground",
-                "s": ""
+                "s": "我家的狗经常躺在草地上。 (My dog often lies on the grass.)"
             },
             {
                 "id": "zh-1477",
                 "w": "距离",
                 "p": "jù lí",
                 "d": "distance; separation (in space or time)",
-                "s": ""
+                "s": "从这里到公园距离两英里。 (It is two miles from here to the park.)"
             },
             {
                 "id": "zh-1478",
                 "w": "赌",
                 "p": "dǔ",
                 "d": "to bet; to gamble",
-                "s": ""
+                "s": "我打赌今晚天气会很好。 (I bet it's fine tonight.)"
             },
             {
                 "id": "zh-1479",
                 "w": "世上",
                 "p": "shì shàng",
                 "d": "on earth",
-                "s": ""
+                "s": "我父亲爱世上的每一个人。 (My father loves everyone in the world.)"
             },
             {
                 "id": "zh-1480",
@@ -10373,1106 +10373,1106 @@
                 "w": "恶魔",
                 "p": "è mó",
                 "d": "demon",
-                "s": ""
+                "s": "你是恶魔的化身。 (You are the devil incarnate.)"
             },
             {
                 "id": "zh-1482",
                 "w": "激动",
                 "p": "jī dòng",
                 "d": "to move emotionally",
-                "s": ""
+                "s": "我奇怪为甚么汤姆那么激动。 (I wonder why Tom is so excited.)"
             },
             {
                 "id": "zh-1483",
                 "w": "想念",
                 "p": "xiǎng niàn",
                 "d": "to miss",
-                "s": ""
+                "s": "我真的想念我的男朋友。 (I really miss my boyfriend.)"
             },
             {
                 "id": "zh-1484",
                 "w": "证人",
                 "p": "zhèng rén",
                 "d": "witness",
-                "s": ""
+                "s": "你曾是一宗司法案件的证人？ (Have you ever served as a witness in a court case?)"
             },
             {
                 "id": "zh-1485",
                 "w": "普通",
                 "p": "pǔ tōng",
                 "d": "common",
-                "s": ""
+                "s": "我只是一个普通的上班族。 (I'm just a plain office worker.)"
             },
             {
                 "id": "zh-1486",
                 "w": "天才",
                 "p": "tiān cái",
                 "d": "talent",
-                "s": ""
+                "s": "爱因斯坦是个数学天才。 (Einstein was a mathematical genius.)"
             },
             {
                 "id": "zh-1487",
                 "w": "生物",
                 "p": "shēng wù",
                 "d": "organism; living creature; life form",
-                "s": ""
+                "s": "他在生物学考试时作弊。 (He cheated on the biology exam.)"
             },
             {
                 "id": "zh-1488",
                 "w": "之中",
                 "p": "zhī zhōng",
                 "d": "inside",
-                "s": ""
+                "s": "这款游戏之中，人人平等。 (In this game, everyone is equal.)"
             },
             {
                 "id": "zh-1489",
                 "w": "肉",
                 "p": "ròu",
                 "d": "meat",
-                "s": ""
+                "s": "人是由灵魂和肉身组成的。 (Man consists of soul and body.)"
             },
             {
                 "id": "zh-1490",
                 "w": "妓女",
                 "p": "jì nǚ",
                 "d": "prostitute; hooker",
-                "s": ""
+                "s": "玛丽娅承认她是一个妓女。 (Marie admitted that she was a prostitute.)"
             },
             {
                 "id": "zh-1491",
                 "w": "布",
                 "p": "bù",
                 "d": "cloth",
-                "s": ""
+                "s": "我把他误认为布朗先生了。 (I mistook him for Mr. Brown.)"
             },
             {
                 "id": "zh-1492",
                 "w": "提出",
                 "p": "tí chū",
                 "d": "to raise (an issue)",
-                "s": ""
+                "s": "她就那件事给他提出建议。 (She advised him on that matter.)"
             },
             {
                 "id": "zh-1493",
                 "w": "所谓",
                 "p": "suǒ wèi",
                 "d": "what is meant by the expression ...; what is referred to as ...",
-                "s": ""
+                "s": "我是个所谓的局外人。 (I was an outsider, so to speak.)"
             },
             {
                 "id": "zh-1494",
                 "w": "正式",
                 "p": "zhèng shì",
                 "d": "formal; official",
-                "s": ""
+                "s": "这个典礼有多正式? (How formal is this ceremony?)"
             },
             {
                 "id": "zh-1495",
                 "w": "洗",
                 "p": "xǐ",
                 "d": "to wash; to bathe",
-                "s": ""
+                "s": "他想把这些衬衫洗乾净。 (He wants these shirts washed.)"
             },
             {
                 "id": "zh-1496",
                 "w": "政治",
                 "p": "zhèng zhì",
                 "d": "politics",
-                "s": ""
+                "s": "他也只是个政治家而已。 (He's also just a politician.)"
             },
             {
                 "id": "zh-1497",
                 "w": "邪恶",
                 "p": "xié è",
                 "d": "sinister",
-                "s": ""
+                "s": "战争是绝对的邪恶。 (War is an absolute evil.)"
             },
             {
                 "id": "zh-1498",
                 "w": "从不",
                 "p": "cóng bù",
                 "d": "never",
-                "s": ""
+                "s": "阿尔及尔从不停滞不前。 (Algiers never stands still.)"
             },
             {
                 "id": "zh-1499",
                 "w": "动手",
                 "p": "dòng shǒu",
                 "d": "to set about (a task)",
-                "s": ""
+                "s": "你是动手能力强的人吗？ (Are you a hands-on person?)"
             },
             {
                 "id": "zh-1500",
                 "w": "转",
                 "p": "zhuǎn",
                 "d": "to turn",
-                "s": ""
+                "s": "走过两个街区，然后左转。 (Walk two blocks, and turn left.)"
             },
             {
                 "id": "zh-1501",
                 "w": "取消",
                 "p": "qǔ xiāo",
                 "d": "to cancel; to call off; to revoke; to rescind",
-                "s": ""
+                "s": "我们应该取消这次远足。 (We should cancel the hike.)"
             },
             {
                 "id": "zh-1502",
                 "w": "玩意",
                 "p": "wán yì",
                 "d": "toy",
-                "s": ""
+                "s": "能把那玩意儿递给我吗？ (Can you pass me that thingamajig?)"
             },
             {
                 "id": "zh-1503",
                 "w": "班",
                 "p": "bān",
                 "d": "team; class; grade",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-1504",
                 "w": "条",
                 "p": "tiáo",
                 "d": "strip",
-                "s": ""
+                "s": "每条狗在自己家就是狮子。 (Every dog is a lion at home.)"
             },
             {
                 "id": "zh-1505",
                 "w": "搞砸",
                 "p": "gǎo zá",
                 "d": "to mess (sth) up",
-                "s": ""
+                "s": "我搞砸了第一个音符。 (I screwed up the very first note.)"
             },
             {
                 "id": "zh-1506",
                 "w": "废话",
                 "p": "fèi huà",
                 "d": "nonsense; rubbish; superfluous words",
-                "s": ""
+                "s": "别听他的, 他在说废话。 (Don't listen to him, he's talking nonsense.)"
             },
             {
                 "id": "zh-1507",
                 "w": "猪",
                 "p": "zhū",
                 "d": "hog",
-                "s": ""
+                "s": "汤姆想知道玛丽是否吃猪肉。 (Tom wondered if Mary ate pork.)"
             },
             {
                 "id": "zh-1508",
                 "w": "观众",
                 "p": "guān zhòng",
                 "d": "spectators; audience; visitors (to an exhibition etc)",
-                "s": ""
+                "s": "观众似乎觉得无聊。 (The audience seems to feel bored.)"
             },
             {
                 "id": "zh-1509",
                 "w": "一周",
                 "p": "yī zhōu",
                 "d": "one week",
-                "s": ""
+                "s": "汤姆只有一周时间做决定。 (Tom has only a week to decide.)"
             },
             {
                 "id": "zh-1510",
                 "w": "成员",
                 "p": "chéng yuán",
                 "d": "member",
-                "s": ""
+                "s": "他的所有家庭成员都很高。 (His family members are all tall.)"
             },
             {
                 "id": "zh-1511",
                 "w": "即将",
                 "p": "jí jiāng",
                 "d": "about to; on the point of; soon",
-                "s": ""
+                "s": "莎米的婚礼即将到来。 (Sami was approaching his wedding.)"
             },
             {
                 "id": "zh-1512",
                 "w": "作",
                 "p": "zuò",
                 "d": "to do; to engage in",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-1513",
                 "w": "学会",
                 "p": "xué huì",
                 "d": "to learn; to master",
-                "s": ""
+                "s": "你什么时候学会游泳的？ (When did you learn to swim?)"
             },
             {
                 "id": "zh-1514",
                 "w": "醒来",
                 "p": "xǐng lái",
                 "d": "to waken",
-                "s": ""
+                "s": "当我醒来时，天正下著雪。 (I awoke to find it snowing.)"
             },
             {
                 "id": "zh-1515",
                 "w": "饭",
                 "p": "fàn",
                 "d": "cooked rice",
-                "s": ""
+                "s": "比起面包，我更喜欢米饭。 (I like rice more than bread.)"
             },
             {
                 "id": "zh-1516",
                 "w": "旅馆",
                 "p": "lǚ guǎn",
                 "d": "hotel",
-                "s": ""
+                "s": "他入住了一间很好的旅馆。 (He checked in at a good hotel.)"
             },
             {
                 "id": "zh-1517",
                 "w": "建立",
                 "p": "jiàn lì",
                 "d": "to establish",
-                "s": ""
+                "s": "这是建立在猜测的基础上。 (It is founded on supposition.)"
             },
             {
                 "id": "zh-1518",
                 "w": "山姆",
                 "p": "shān mǔ",
                 "d": "(name) Sam",
-                "s": ""
+                "s": "山姆已经做他的功课了。 (Sam has already done his homework.)"
             },
             {
                 "id": "zh-1519",
                 "w": "高中",
                 "p": "gāo zhōng",
                 "d": "senior high school (abbr. for 高級中學|高级中学)",
-                "s": ""
+                "s": "Ruriko是个高中生。 (Ruriko is a high school student.)"
             },
             {
                 "id": "zh-1520",
                 "w": "娶",
                 "p": "qǔ",
                 "d": "to take a wife",
-                "s": ""
+                "s": "他娶了一个很漂亮的女孩。 (He married a very pretty girl.)"
             },
             {
                 "id": "zh-1521",
                 "w": "说实话",
                 "p": "shuō shí huà",
                 "d": "to speak the truth",
-                "s": ""
+                "s": "我希望你在和我说实话。 (I hope you're telling me the truth.)"
             },
             {
                 "id": "zh-1522",
                 "w": "哟",
                 "p": "yō",
                 "d": "Oh! (interjection indicating slight surprise)",
-                "s": ""
+                "s": "哎哟，撞到你了，对不起！ (Ah, I hit you, sorry!)"
             },
             {
                 "id": "zh-1523",
                 "w": "去年",
                 "p": "qù nián",
                 "d": "last year",
-                "s": ""
+                "s": "我们去年秋天搬到了纽约。 (We moved to New York last fall.)"
             },
             {
                 "id": "zh-1524",
                 "w": "特殊",
                 "p": "tè shū",
                 "d": "special",
-                "s": ""
+                "s": "你有什么特殊的天赋吗？ (Do you have any special talents?)"
             },
             {
                 "id": "zh-1525",
                 "w": "黑人",
                 "p": "hēi rén",
                 "d": "black person",
-                "s": ""
+                "s": "她的新男朋友是黑人。 (Her new boyfriend is black.)"
             },
             {
                 "id": "zh-1526",
                 "w": "勇敢",
                 "p": "yǒng gǎn",
                 "d": "brave; courageous",
-                "s": ""
+                "s": "我们知道他是个勇敢的人。 (We know him to be a brave man.)"
             },
             {
                 "id": "zh-1527",
                 "w": "不算",
                 "p": "bù suàn",
                 "d": "to not calculate",
-                "s": ""
+                "s": "他不算老得做不了。 (He is not too old to do it.)"
             },
             {
                 "id": "zh-1528",
                 "w": "别管",
                 "p": "bié guǎn",
                 "d": "no matter (who, what etc)",
-                "s": ""
+                "s": "别管我的事。 (Stay out of my business.)"
             },
             {
                 "id": "zh-1529",
                 "w": "等到",
                 "p": "děng dào",
                 "d": "to wait until",
-                "s": ""
+                "s": "我一直等到了最后一分钟。 (I waited until the last minute.)"
             },
             {
                 "id": "zh-1530",
                 "w": "介意",
                 "p": "jiè yì",
                 "d": "to care about",
-                "s": ""
+                "s": "你介不介意我在这里吸烟？ (Do you mind my smoking here?)"
             },
             {
                 "id": "zh-1531",
                 "w": "卡尔",
                 "p": "kǎ ěr",
                 "d": "(name) Karl; Carl",
-                "s": ""
+                "s": "卡尔没想吓唬阿米利亚的。 (Karl didn't mean to scare Amelia.)"
             },
             {
                 "id": "zh-1532",
                 "w": "手下",
                 "p": "shǒu xià",
                 "d": "under one's control or administration",
-                "s": ""
+                "s": "我在她手下工作。 (I work under her.)"
             },
             {
                 "id": "zh-1533",
                 "w": "发射",
                 "p": "fā shè",
                 "d": "to shoot (a projectile)",
-                "s": ""
+                "s": "太空人为发射做准备。 (The astronauts prepared for launch.)"
             },
             {
                 "id": "zh-1534",
                 "w": "印度",
                 "p": "yìn dù",
                 "d": "India",
-                "s": ""
+                "s": "我们从印度进口茶叶。 (We import tea from India.)"
             },
             {
                 "id": "zh-1535",
                 "w": "手指",
                 "p": "shǒu zhǐ",
                 "d": "finger",
-                "s": ""
+                "s": "我们试图让手指互相交错。 (We kept our fingers crossed.)"
             },
             {
                 "id": "zh-1536",
                 "w": "思考",
                 "p": "sī kǎo",
                 "d": "to reflect on",
-                "s": ""
+                "s": "他们有思考和说话的能力。 (They can think and speak.)"
             },
             {
                 "id": "zh-1537",
                 "w": "累",
                 "p": "lèi",
                 "d": "tired",
-                "s": ""
+                "s": "你若累了，就去睡个觉。 (If you are tired, go to bed.)"
             },
             {
                 "id": "zh-1538",
                 "w": "几年",
                 "p": "jǐ nián",
                 "d": "a few years; several years",
-                "s": ""
+                "s": "几年前我开始打高尔夫球。 (I began playing golf years ago.)"
             },
             {
                 "id": "zh-1539",
                 "w": "茶",
                 "p": "chá",
                 "d": "tea",
-                "s": ""
+                "s": "你喜欢喝茶还是喝咖啡？ (Do you prefer tea or coffee?)"
             },
             {
                 "id": "zh-1540",
                 "w": "恢复",
                 "p": "huī fù",
                 "d": "to reinstate",
-                "s": ""
+                "s": "要很长的时间才能恢复吗？ (Will it take long to recover?)"
             },
             {
                 "id": "zh-1541",
                 "w": "导演",
                 "p": "dǎo yǎn",
                 "d": "to direct",
-                "s": ""
+                "s": "他是个富有才能的年轻导演。 (He's a talented young director.)"
             },
             {
                 "id": "zh-1542",
                 "w": "夜晚",
                 "p": "yè wǎn",
                 "d": "night",
-                "s": ""
+                "s": "那真是很热、很热的夜晚。 (It was a very, very hot night.)"
             },
             {
                 "id": "zh-1543",
                 "w": "帽子",
                 "p": "mào zi",
                 "d": "hat",
-                "s": ""
+                "s": "这顶帽子对我来说太小了。 (The cap is too small for me.)"
             },
             {
                 "id": "zh-1544",
                 "w": "拍摄",
                 "p": "pāi shè",
                 "d": "to take (a picture); to shoot (a film)",
-                "s": ""
+                "s": "拍摄是在中午十二时左右开始。 (The shooting started around noon.)"
             },
             {
                 "id": "zh-1545",
                 "w": "中间",
                 "p": "zhōng jiān",
                 "d": "the middle; the inside",
-                "s": ""
+                "s": "我坐在汤姆和约翰中间。 (I sat between Tom and John.)"
             },
             {
                 "id": "zh-1546",
                 "w": "公园",
                 "p": "gōng yuán",
                 "d": "park (for public recreation)",
-                "s": ""
+                "s": "你是在公园里看到他的吗？ (Did you see him in the park?)"
             },
             {
                 "id": "zh-1547",
                 "w": "呵呵",
                 "p": "hē hē",
                 "d": "(onom.) gentle laughter",
-                "s": ""
+                "s": "我始终不能理解看足球的乐趣，呵呵。 (I have never been able to understand the joy of watching soccer, haha.)"
             },
             {
                 "id": "zh-1548",
                 "w": "意大利",
                 "p": "yì dà lì",
                 "d": "Italy",
-                "s": ""
+                "s": "我觉得他大概来自意大利。 (I think that he's from Italy.)"
             },
             {
                 "id": "zh-1549",
                 "w": "犯",
                 "p": "fàn",
                 "d": "to violate",
-                "s": ""
+                "s": "汤姆犯了一个严重的错误。 (Tom made a horrible mistake.)"
             },
             {
                 "id": "zh-1550",
                 "w": "背叛",
                 "p": "bèi pàn",
                 "d": "to betray",
-                "s": ""
+                "s": "换句话说，他就背叛了我们。 (In other words, he betrayed us.)"
             },
             {
                 "id": "zh-1551",
                 "w": "魔鬼",
                 "p": "mó guǐ",
                 "d": "devil",
-                "s": ""
+                "s": "这人把灵魂卖给魔鬼。 (The man sold his soul to the devil.)"
             },
             {
                 "id": "zh-1552",
                 "w": "过程",
                 "p": "guò chéng",
                 "d": "course of events; process",
-                "s": ""
+                "s": "学习是一个循序渐进的过程。 (Learning is a gradual process.)"
             },
             {
                 "id": "zh-1553",
                 "w": "了不起",
                 "p": "liǎo bu qǐ",
                 "d": "amazing",
-                "s": ""
+                "s": "他是一位非常了不起的学者。 (He is very much a scholar.)"
             },
             {
                 "id": "zh-1554",
                 "w": "店",
                 "p": "diàn",
                 "d": "inn; old-style hotel (CL:家)",
-                "s": ""
+                "s": "你的新商店什么时候开张？ (When does your new store open?)"
             },
             {
                 "id": "zh-1555",
                 "w": "不怕",
                 "p": "bù pà",
                 "d": "fearless",
-                "s": ""
+                "s": "他们不怕艰苦的工作。 (They're not afraid of hard work.)"
             },
             {
                 "id": "zh-1556",
                 "w": "哎呀",
                 "p": "āi yā",
                 "d": "interjection of wonder, shock or admiration",
-                "s": ""
+                "s": "哎呀，我们好像忘了汤姆。 (Oops, I think we forgot Tom.)"
             },
             {
                 "id": "zh-1557",
                 "w": "气",
                 "p": "qì",
                 "d": "gas; air",
-                "s": ""
+                "s": "我觉得汤姆听起来很生气。 (I thought Tom sounded angry.)"
             },
             {
                 "id": "zh-1558",
                 "w": "差",
                 "p": "chā",
                 "d": "difference; discrepancy",
-                "s": ""
+                "s": "我们差不多说服Tom了。 (We almost had Tom convinced.)"
             },
             {
                 "id": "zh-1559",
                 "w": "唱歌",
                 "p": "chàng gē",
                 "d": "to sing a song",
-                "s": ""
+                "s": "他喜欢唱歌，也喜欢跳舞。 (He likes singing and dancing.)"
             },
             {
                 "id": "zh-1560",
                 "w": "以来",
                 "p": "yǐ lái",
                 "d": "since (used after a specified time or event)",
-                "s": ""
+                "s": "我现在可以来看看你吗？ (May I come and see you now?)"
             },
             {
                 "id": "zh-1561",
                 "w": "站住",
                 "p": "zhàn zhù",
                 "d": "to come to a stop; to halt",
-                "s": ""
+                "s": "给我站住！ (Stop right there!)"
             },
             {
                 "id": "zh-1562",
                 "w": "经验",
                 "p": "jīng yàn",
                 "d": "experience",
-                "s": ""
+                "s": "你有从事什么工作的经验? (What job experience do you have?)"
             },
             {
                 "id": "zh-1563",
                 "w": "变化",
                 "p": "biàn huà",
                 "d": "(intransitive) to change; to vary",
-                "s": ""
+                "s": "价格根据需求变化。 (The price varies with demand.)"
             },
             {
                 "id": "zh-1564",
                 "w": "吉米",
                 "p": "jí mǐ",
                 "d": "Jimmy, Jimmie or Jimi (name)",
-                "s": ""
+                "s": "等一下。我去叫吉米。 (Hang on a minute. I'll call Jimmy.)"
             },
             {
                 "id": "zh-1565",
                 "w": "尽力",
                 "p": "jìn lì",
                 "d": "to strive one's hardest; to spare no effort",
-                "s": ""
+                "s": "我会尽力满足你的愿望。 (I'll try to meet your wishes.)"
             },
             {
                 "id": "zh-1566",
                 "w": "亲自",
                 "p": "qīn zì",
                 "d": "personally",
-                "s": ""
+                "s": "我从来没有亲自去过那里。 (I have never been there myself.)"
             },
             {
                 "id": "zh-1567",
                 "w": "强大",
                 "p": "qiáng dà",
                 "d": "big and strong; formidable; powerful",
-                "s": ""
+                "s": "她是强大的对手，不是吗？ (She's a tough competitor, isn't she?)"
             },
             {
                 "id": "zh-1568",
                 "w": "引起",
                 "p": "yǐn qǐ",
                 "d": "to give rise to; to lead to; to cause; to arouse",
-                "s": ""
+                "s": "汤姆只是想引起你的注意。 (Tom just wants your attention.)"
             },
             {
                 "id": "zh-1569",
                 "w": "乱",
                 "p": "luàn",
                 "d": "in confusion or disorder",
-                "s": ""
+                "s": "不要把你的东西四处乱放。 (Don't scatter your things about.)"
             },
             {
                 "id": "zh-1570",
                 "w": "前进",
                 "p": "qián jìn",
                 "d": "to go forward",
-                "s": ""
+                "s": "汤姆三年前进了我们公司。 (Tom joined our company three years ago.)"
             },
             {
                 "id": "zh-1571",
                 "w": "有用",
                 "p": "yǒu yòng",
                 "d": "useful",
-                "s": ""
+                "s": "他有用英文写日记的习惯。 (He keeps a diary in English.)"
             },
             {
                 "id": "zh-1572",
                 "w": "组",
                 "p": "zǔ",
                 "d": "to form",
-                "s": ""
+                "s": "我们组织了一个专案团队。 (We organized a project team.)"
             },
             {
                 "id": "zh-1573",
                 "w": "投票",
                 "p": "tóu piào",
                 "d": "to vote; to cast a vote",
-                "s": ""
+                "s": "我一定要给汤姆投票。 (I'll definitely vote for Tom.)"
             },
             {
                 "id": "zh-1574",
                 "w": "乐队",
                 "p": "yuè duì",
                 "d": "band",
-                "s": ""
+                "s": "我的学校里有个乐队。 (There's a band at my school.)"
             },
             {
                 "id": "zh-1575",
                 "w": "想像",
                 "p": "xiǎng xiàng",
                 "d": "to imagine; to envision",
-                "s": ""
+                "s": "他是非常有想像力的作家。 (He is a very imaginative writer.)"
             },
             {
                 "id": "zh-1576",
                 "w": "声",
                 "p": "shēng",
                 "d": "sound",
-                "s": ""
+                "s": "萨米对莱拉大声发号施令。 (Sami barked orders at Layla.)"
             },
             {
                 "id": "zh-1577",
                 "w": "全世界",
                 "p": "quán shì jiè",
                 "d": "worldwide",
-                "s": ""
+                "s": "全世界无产者，联合起来！ (Workers of the world, unite!)"
             },
             {
                 "id": "zh-1578",
                 "w": "满意",
                 "p": "mǎn yì",
                 "d": "satisfied",
-                "s": ""
+                "s": "我对他的进步感到很满意。 (I'm satisfied with his progress.)"
             },
             {
                 "id": "zh-1579",
                 "w": "艺术",
                 "p": "yì shù",
                 "d": "art",
-                "s": ""
+                "s": "她的花园是一件艺术作品。 (Her garden is a work of art.)"
             },
             {
                 "id": "zh-1580",
                 "w": "王子",
                 "p": "wáng zǐ",
                 "d": "prince",
-                "s": ""
+                "s": "一位王子骑着白马到来了。 (A prince arrived, riding a white horse.)"
             },
             {
                 "id": "zh-1581",
                 "w": "无关",
                 "p": "wú guān",
                 "d": "unrelated",
-                "s": ""
+                "s": "你在思考无关紧要的事情。 (You're thinking of unimportant things.)"
             },
             {
                 "id": "zh-1582",
                 "w": "名单",
                 "p": "míng dān",
                 "d": "list of names",
-                "s": ""
+                "s": "请把我的名字加在名单上。 (Please add my name to the list.)"
             },
             {
                 "id": "zh-1583",
                 "w": "甜心",
                 "p": "tián xīn",
                 "d": "delighted to oblige",
-                "s": ""
+                "s": "我爱你，甜心。 (I love you, sweetheart.)"
             },
             {
                 "id": "zh-1584",
                 "w": "吸血鬼",
                 "p": "xī xuè guǐ",
                 "d": "leech",
-                "s": ""
+                "s": "汤姆相信吸血鬼的存在。 (Tom believes in vampires.)"
             },
             {
                 "id": "zh-1585",
                 "w": "带上",
                 "p": "dài shàng",
                 "d": "to take along with one",
-                "s": ""
+                "s": "汤姆忘记带上他的摄像机。 (Tom forgot to bring his camera.)"
             },
             {
                 "id": "zh-1586",
                 "w": "吸引",
                 "p": "xī yǐn",
                 "d": "to attract; to appeal to; to fascinate",
-                "s": ""
+                "s": "他被那个女人吸引住了。 (He was attracted to the woman.)"
             },
             {
                 "id": "zh-1587",
                 "w": "绑架",
                 "p": "bǎng jià",
                 "d": "to kidnap",
-                "s": ""
+                "s": "他以绑架罪被起诉。 (He is accused of kidnapping.)"
             },
             {
                 "id": "zh-1588",
                 "w": "骗子",
                 "p": "piàn zi",
                 "d": "swindler",
-                "s": ""
+                "s": "骗子们必须有好记性。 (Liars must have a good memory.)"
             },
             {
                 "id": "zh-1589",
                 "w": "各种",
                 "p": "gè zhǒng",
                 "d": "every kind of; all kinds of; various",
-                "s": ""
+                "s": "我们种植各种的作物。 (We grow a variety of crops.)"
             },
             {
                 "id": "zh-1590",
                 "w": "惩罚",
                 "p": "chéng fá",
                 "d": "penalty",
-                "s": ""
+                "s": "我母亲从来没有惩罚过我。 (My mother never punishes me.)"
             },
             {
                 "id": "zh-1591",
                 "w": "比利",
                 "p": "bǐ lì",
                 "d": "(HK, Sg, Tw) Pelé (1940–2022), Edson Arantes Do Nascimento, Brazilian football star",
-                "s": ""
+                "s": "我们启程开车去卡比利亚。 (We started driving to Kabylie.)"
             },
             {
                 "id": "zh-1592",
                 "w": "单独",
                 "p": "dān dú",
                 "d": "alone",
-                "s": ""
+                "s": "我需要和你单独待一会儿。 (I need some time with you.)"
             },
             {
                 "id": "zh-1593",
                 "w": "愿",
                 "p": "yuàn",
                 "d": "honest and prudent",
-                "s": ""
+                "s": "但愿我有好一点的记忆力。 (I wish I had a better memory.)"
             },
             {
                 "id": "zh-1594",
                 "w": "白",
                 "p": "bái",
                 "d": "white",
-                "s": ""
+                "s": "我不明白你的意思是甚么。 (I have no idea what you mean.)"
             },
             {
                 "id": "zh-1595",
                 "w": "特工",
                 "p": "tè gōng",
                 "d": "secret service",
-                "s": ""
+                "s": "汤姆是一名FBI特工。 (Tom is an FBI agent.)"
             },
             {
                 "id": "zh-1596",
                 "w": "分开",
                 "p": "fēn kāi",
                 "d": "to separate",
-                "s": ""
+                "s": "学校在上午八点三十分开始上课。 (School begins at 8:30 a.m.)"
             },
             {
                 "id": "zh-1597",
                 "w": "空间",
                 "p": "kōng jiān",
                 "d": "space; room",
-                "s": ""
+                "s": "行与行之间要留一个空间。 (Leave a space between the lines.)"
             },
             {
                 "id": "zh-1598",
                 "w": "讲话",
                 "p": "jiǎng huà",
                 "d": "a speech",
-                "s": ""
+                "s": "我只能代表我自己讲话。 (I can only speak for myself.)"
             },
             {
                 "id": "zh-1599",
                 "w": "迈克尔",
                 "p": "mài kè ěr",
                 "d": "(name) Michael",
-                "s": ""
+                "s": "迈克尔需要在夏天恢复体能。 (Michael needs to get fit over the summer.)"
             },
             {
                 "id": "zh-1600",
                 "w": "爬",
                 "p": "pá",
                 "d": "to crawl",
-                "s": ""
+                "s": "我希望再爬一次上富士山。 (I wish to climb Mt. Fuji again.)"
             },
             {
                 "id": "zh-1601",
                 "w": "边",
                 "p": "biān",
                 "d": "side",
-                "s": ""
+                "s": "那边的报纸，你给他送去。 (Send that newspaper to him.)"
             },
             {
                 "id": "zh-1602",
                 "w": "卡车",
                 "p": "kǎ chē",
                 "d": "truck",
-                "s": ""
+                "s": "他在波兰买的这辆卡车。 (He bought this truck from Poland.)"
             },
             {
                 "id": "zh-1603",
                 "w": "光",
                 "p": "guāng",
                 "d": "light; ray (CL:道)",
-                "s": ""
+                "s": "我们甚么时候去日光浴啊？ (When are we going sunbathing?)"
             },
             {
                 "id": "zh-1604",
                 "w": "五",
                 "p": "wǔ",
                 "d": "five",
-                "s": ""
+                "s": "弗雷德的房子有五间房间。 (Fred's house has five rooms.)"
             },
             {
                 "id": "zh-1605",
                 "w": "练习",
                 "p": "liàn xí",
                 "d": "to practice",
-                "s": ""
+                "s": "她现在正在练习拉小提琴。 (She is practicing the violin now.)"
             },
             {
                 "id": "zh-1606",
                 "w": "早餐",
                 "p": "zǎo cān",
                 "d": "breakfast",
-                "s": ""
+                "s": "麻烦你叫我起床吃早餐啦。 (Please wake me for breakfast.)"
             },
             {
                 "id": "zh-1607",
                 "w": "追踪",
                 "p": "zhuī zōng",
                 "d": "to track; to trace; to follow up",
-                "s": ""
+                "s": "我正在追踪一头公鹿。 (I'm tracking a buck.)"
             },
             {
                 "id": "zh-1608",
                 "w": "哼",
                 "p": "hēng",
                 "d": "to groan",
-                "s": ""
+                "s": "她哼着四拍子的歌。 (She hummed a song in four beats.)"
             },
             {
                 "id": "zh-1609",
                 "w": "接触",
                 "p": "jiē chù",
                 "d": "to touch",
-                "s": ""
+                "s": "我没接触过这个球类游戏。 (It's a whole new ball game for me.)"
             },
             {
                 "id": "zh-1610",
                 "w": "联络",
                 "p": "lián luò",
                 "d": "to get in touch with",
-                "s": ""
+                "s": "请你用这个电话号码联络我。 (Please call me at this number.)"
             },
             {
                 "id": "zh-1611",
                 "w": "承诺",
                 "p": "chéng nuò",
                 "d": "to promise",
-                "s": ""
+                "s": "我们不能违背我们的承诺。 (We must not break our promise.)"
             },
             {
                 "id": "zh-1612",
                 "w": "复杂",
                 "p": "fù zá",
                 "d": "complicated; complex",
-                "s": ""
+                "s": "这是一个非常复杂的问题。 (This is a very complex problem.)"
             },
             {
                 "id": "zh-1613",
                 "w": "穿过",
                 "p": "chuān guò",
                 "d": "to pass through",
-                "s": ""
+                "s": "Tom没办法穿过边界。 (Tom can't cross the border.)"
             },
             {
                 "id": "zh-1614",
                 "w": "挑战",
                 "p": "tiǎo zhàn",
                 "d": "to challenge; to take on a challenge; a challenge",
-                "s": ""
+                "s": "我们接受你们的挑战。 (We accept your challenge.)"
             },
             {
                 "id": "zh-1615",
                 "w": "旧",
                 "p": "jiù",
                 "d": "old",
-                "s": ""
+                "s": "这些旧硬币是她给我的。 (She gave me these old coins.)"
             },
             {
                 "id": "zh-1616",
                 "w": "点儿",
                 "p": "diǎn r",
                 "d": "erhua variant of 點|点",
-                "s": ""
+                "s": "快点儿，不然你就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-1617",
                 "w": "关键",
                 "p": "guān jiàn",
                 "d": "crucial point",
-                "s": ""
+                "s": "鲑鱼是关键物种。 (Salmon are a keystone species.)"
             },
             {
                 "id": "zh-1618",
                 "w": "同性恋",
                 "p": "tóng xìng liàn",
                 "d": "homosexuality",
-                "s": ""
+                "s": "我喜欢看女同性恋色情片。 (I like watching lesbian porn.)"
             },
             {
                 "id": "zh-1619",
                 "w": "儿",
                 "p": "ér",
                 "d": "child",
-                "s": ""
+                "s": "苏珊做了一件洋装给吉儿。 (Susan made a dress for Jill.)"
             },
             {
                 "id": "zh-1620",
                 "w": "临",
                 "p": "lín",
                 "d": "to face",
-                "s": ""
+                "s": "这是一个濒临灭绝的物种。 (It is an endangered species.)"
             },
             {
                 "id": "zh-1621",
                 "w": "实现",
                 "p": "shí xiàn",
                 "d": "to achieve; to implement; to realize; to bring about",
-                "s": ""
+                "s": "有没有更简单的实现方式？ (Is there an easier way to do that?)"
             },
             {
                 "id": "zh-1622",
                 "w": "外",
                 "p": "wài",
                 "d": "outside",
-                "s": ""
+                "s": "除了我以外，大家都很忙。 (Everybody is busy except me.)"
             },
             {
                 "id": "zh-1623",
                 "w": "好笑",
                 "p": "hǎo xiào",
                 "d": "laughable; funny; ridiculous",
-                "s": ""
+                "s": "她的帽子看起来很好笑。 (Her hat looked very funny.)"
             },
             {
                 "id": "zh-1624",
                 "w": "顺便",
                 "p": "shùn biàn",
                 "d": "conveniently",
-                "s": ""
+                "s": "顺便问一句，你今晚有空吗？ (By the way, are you free tonight?)"
             },
             {
                 "id": "zh-1625",
                 "w": "碰到",
                 "p": "pèng dào",
                 "d": "to come across",
-                "s": ""
+                "s": "我偶尔会在俱乐部碰到他。 (Sometimes I see him at the club.)"
             },
             {
                 "id": "zh-1626",
                 "w": "受不了",
                 "p": "shòu bù liǎo",
                 "d": "unbearable",
-                "s": ""
+                "s": "我受不了她没完没了的爱。 (I cannot bear her endless love.)"
             },
             {
                 "id": "zh-1627",
                 "w": "免费",
                 "p": "miǎn fèi",
                 "d": "free (of charge)",
-                "s": ""
+                "s": "我免费得到了这辆自行车。 (I got this bicycle for free.)"
             },
             {
                 "id": "zh-1628",
                 "w": "无辜",
                 "p": "wú gū",
                 "d": "blameless; innocent",
-                "s": ""
+                "s": "他摆出一副无辜的样子。 (He put on an air of innocence.)"
             },
             {
                 "id": "zh-1629",
                 "w": "惊讶",
                 "p": "jīng yà",
                 "d": "amazed",
-                "s": ""
+                "s": "我对你的大胆感到很惊讶。 (I am amazed at your audacity.)"
             },
             {
                 "id": "zh-1630",
                 "w": "导致",
                 "p": "dǎo zhì",
                 "d": "to lead to; to create; to cause; to bring about",
-                "s": ""
+                "s": "爆炸是由甚么导致的呢？ (What caused the explosion?)"
             },
             {
                 "id": "zh-1631",
                 "w": "好运",
                 "p": "hǎo yùn",
                 "d": "good luck",
-                "s": ""
+                "s": "祝你好运。你会需要它。 (Good luck. You'll need it.)"
             },
             {
                 "id": "zh-1632",
                 "w": "窗户",
                 "p": "chuāng hu",
                 "d": "window",
-                "s": ""
+                "s": "汤姆故意弄碎了那扇窗户。 (Tom broke the window on purpose.)"
             },
             {
                 "id": "zh-1633",
                 "w": "抽",
                 "p": "chōu",
                 "d": "to draw out; to pull out from in between",
-                "s": ""
+                "s": "你介意我在这里抽烟吗？ (Would you mind me smoking here?)"
             },
             {
                 "id": "zh-1634",
                 "w": "痛",
                 "p": "tòng",
                 "d": "ache",
-                "s": ""
+                "s": "我不能再忍受这种痛苦了。 (I can't take this pain anymore.)"
             },
             {
                 "id": "zh-1635",
                 "w": "魔法",
                 "p": "mó fǎ",
                 "d": "enchantment",
-                "s": ""
+                "s": "我要用魔法把他变成一只青蛙！ (I'll bewitch him into a frog!)"
             },
             {
                 "id": "zh-1636",
                 "w": "世纪",
                 "p": "shì jì",
                 "d": "century",
-                "s": ""
+                "s": "一百年叫做一个世纪。 (100 years is called a century.)"
             },
             {
                 "id": "zh-1637",
                 "w": "奇迹",
                 "p": "qí jì",
                 "d": "miracle; wonder; marvel",
-                "s": ""
+                "s": "“每个人都能成为奇迹。” (\"Anyone can be a legend.\")"
             },
             {
                 "id": "zh-1638",
                 "w": "睡着",
                 "p": "shuì zháo",
                 "d": "to fall asleep",
-                "s": ""
+                "s": "他正睡着，像个婴儿一样。 (He's sleeping like a baby.)"
             },
             {
                 "id": "zh-1639",
@@ -11486,133 +11486,133 @@
                 "w": "把手",
                 "p": "bǎ shǒu",
                 "d": "to shake hands",
-                "s": ""
+                "s": "汤姆给了玛丽一把手电筒。 (Tom gave Mary a flashlight.)"
             },
             {
                 "id": "zh-1641",
                 "w": "分享",
                 "p": "fēn xiǎng",
                 "d": "to share (esp. sth enjoyable, useful or beneficial)",
-                "s": ""
+                "s": "谢谢你跟我分享你的故事。 (Thanks for sharing your story with me.)"
             },
             {
                 "id": "zh-1642",
                 "w": "车子",
                 "p": "chē zi",
                 "d": "car or other vehicle (bicycle, truck etc)",
-                "s": ""
+                "s": "我的车子的开销比你的要多。 (My car cost more than yours did.)"
             },
             {
                 "id": "zh-1643",
                 "w": "红色",
                 "p": "hóng sè",
                 "d": "red (color)",
-                "s": ""
+                "s": "他把他的自行车刷成红色。 (He painted his bicycle red.)"
             },
             {
                 "id": "zh-1644",
                 "w": "词",
                 "p": "cí",
                 "d": "word",
-                "s": ""
+                "s": "Tatoeba不是词典。 (Tatoeba is not a dictionary.)"
             },
             {
                 "id": "zh-1645",
                 "w": "年前",
                 "p": "nián qián",
                 "d": "by the end of the year",
-                "s": ""
+                "s": "他在1970年前往伦敦。 (He went to London in 1970.)"
             },
             {
                 "id": "zh-1646",
                 "w": "天气",
                 "p": "tiān qì",
                 "d": "weather",
-                "s": ""
+                "s": "天气很冷，我们生起了火。 (It was cold, so we lit a fire.)"
             },
             {
                 "id": "zh-1647",
                 "w": "科学",
                 "p": "kē xué",
                 "d": "science",
-                "s": ""
+                "s": "科学改变了我们的生活。 (Science has changed our life.)"
             },
             {
                 "id": "zh-1648",
                 "w": "教练",
                 "p": "jiào liàn",
                 "d": "to coach; to train",
-                "s": ""
+                "s": "这位女士是我的游泳教练吗？ (Is this woman my swim teacher?)"
             },
             {
                 "id": "zh-1649",
                 "w": "洛杉矶",
                 "p": "luò shān jī",
                 "d": "Los Angeles, California",
-                "s": ""
+                "s": "我应该取消我到洛杉矶的旅行。 (I should cancel my L.A. trip.)"
             },
             {
                 "id": "zh-1650",
                 "w": "然而",
                 "p": "rán ér",
                 "d": "however; but; yet",
-                "s": ""
+                "s": "然而这也算不上什么像样的东西。 (But it isn't even worth calling stuff.)"
             },
             {
                 "id": "zh-1651",
                 "w": "感激",
                 "p": "gǎn jī",
                 "d": "to be grateful",
-                "s": ""
+                "s": "我们真的感激他们的努力。 (We really appreciate their effort.)"
             },
             {
                 "id": "zh-1652",
                 "w": "同事",
                 "p": "tóng shì",
                 "d": "colleague; co-worker",
-                "s": ""
+                "s": "我认识胡安，我们是同事。 (I know John – we're colleagues.)"
             },
             {
                 "id": "zh-1653",
                 "w": "收",
                 "p": "shōu",
                 "d": "to receive",
-                "s": ""
+                "s": "把收音机的声音关小一点。 (Turn the radio down a little.)"
             },
             {
                 "id": "zh-1654",
                 "w": "密码",
                 "p": "mì mǎ",
                 "d": "cipher; secret code",
-                "s": ""
+                "s": "密码是\"Muiriel\"。 (The password is \"Muiriel\".)"
             },
             {
                 "id": "zh-1655",
                 "w": "神秘",
                 "p": "shén mì",
                 "d": "mysterious",
-                "s": ""
+                "s": "蒙娜丽莎有着神秘的微笑。 (The Mona Lisa has an enigmatic smile.)"
             },
             {
                 "id": "zh-1656",
                 "w": "环境",
                 "p": "huán jìng",
                 "d": "environment",
-                "s": ""
+                "s": "这是否对於环境安全无害？ (Is this environmentally safe?)"
             },
             {
                 "id": "zh-1657",
                 "w": "启动",
                 "p": "qǐ dòng",
                 "d": "to start (a machine)",
-                "s": ""
+                "s": "你必须重新启动你的电脑。 (You must reboot your computer.)"
             },
             {
                 "id": "zh-1658",
                 "w": "孤独",
                 "p": "gū dú",
                 "d": "lonely",
-                "s": ""
+                "s": "我在这座小镇感到很孤独。 (I feel lonely in this town.)"
             },
             {
                 "id": "zh-1659",
@@ -11626,203 +11626,203 @@
                 "w": "搭",
                 "p": "dā",
                 "d": "to put up",
-                "s": ""
+                "s": "我们搭飞机去墨西哥旅行。 (We traveled to Mexico by plane.)"
             },
             {
                 "id": "zh-1661",
                 "w": "难以置信",
                 "p": "nán yǐ zhì xìn",
                 "d": "(idiom) hard to believe; incredible",
-                "s": ""
+                "s": "我觉得那件事难以置信。 (I found that difficult to believe.)"
             },
             {
                 "id": "zh-1662",
                 "w": "飞行",
                 "p": "fēi xíng",
                 "d": "to fly; flight",
-                "s": ""
+                "s": "他决定成为一名飞行员。 (He decided to become a pilot.)"
             },
             {
                 "id": "zh-1663",
                 "w": "哈利",
                 "p": "hā lì",
                 "d": "Harry",
-                "s": ""
+                "s": "莎莉在车站遇见了哈利。 (Sally met Harry at the station.)"
             },
             {
                 "id": "zh-1664",
                 "w": "采取",
                 "p": "cǎi qǔ",
                 "d": "to adopt or carry out (measures, policies, course of action)",
-                "s": ""
+                "s": "他们根据情报采取行动。 (They acted on the information.)"
             },
             {
                 "id": "zh-1665",
                 "w": "何时",
                 "p": "hé shí",
                 "d": "when",
-                "s": ""
+                "s": "无论何时都要扣好安全带。 (Always fasten your seatbelt.)"
             },
             {
                 "id": "zh-1666",
                 "w": "上学",
                 "p": "shàng xué",
                 "d": "to go to school",
-                "s": ""
+                "s": "你是否坐公共汽车去上学？ (Do you go to school by bus?)"
             },
             {
                 "id": "zh-1667",
                 "w": "桌子",
                 "p": "zhuō zi",
                 "d": "table",
-                "s": ""
+                "s": "不要把书放在那张桌子上。 (Don't put books on the table.)"
             },
             {
                 "id": "zh-1668",
                 "w": "年纪",
                 "p": "nián jì",
                 "d": "age",
-                "s": ""
+                "s": "直树年纪跟香织一样大。 (Naoki is as old as Kaori.)"
             },
             {
                 "id": "zh-1669",
                 "w": "估计",
                 "p": "gū jì",
                 "d": "to estimate; to assess; to calculate",
-                "s": ""
+                "s": "估计那就是个笑话吧。 (I guess it's only a joke.)"
             },
             {
                 "id": "zh-1670",
                 "w": "禁止",
                 "p": "jìn zhǐ",
                 "d": "to prohibit",
-                "s": ""
+                "s": "谁会禁止这样的事情呢？ (Who would forbid such a thing?)"
             },
             {
                 "id": "zh-1671",
                 "w": "紧急",
                 "p": "jǐn jí",
                 "d": "urgent",
-                "s": ""
+                "s": "我收到汤姆的一条紧急消息。 (I have an urgent message from Tom.)"
             },
             {
                 "id": "zh-1672",
                 "w": "无所谓",
                 "p": "wú suǒ wèi",
                 "d": "to be indifferent",
-                "s": ""
+                "s": "你做什么都无所谓。 (It doesn't matter what you do.)"
             },
             {
                 "id": "zh-1673",
                 "w": "欧洲",
                 "p": "ōu zhōu",
                 "d": "Europe (abbr. for 歐羅巴洲|欧罗巴洲)",
-                "s": ""
+                "s": "一股寒流侵袭了欧洲。 (Extreme cold covered Europe.)"
             },
             {
                 "id": "zh-1674",
                 "w": "某种",
                 "p": "mǒu zhǒng",
                 "d": "some kind (of)",
-                "s": ""
+                "s": "从某种意义来说，你是对的。 (You're right in a sense.)"
             },
             {
                 "id": "zh-1675",
                 "w": "滚开",
                 "p": "gǔn kāi",
                 "d": "(of a liquid) to boil; boiling hot",
-                "s": ""
+                "s": "你这个畜牲，给我滚开！ (You filthy beast, get out of here!)"
             },
             {
                 "id": "zh-1676",
                 "w": "释放",
                 "p": "shì fàng",
                 "d": "to release (a prisoner); to set free",
-                "s": ""
+                "s": "你用什么方式释放压力？ (How do you relieve stress?)"
             },
             {
                 "id": "zh-1677",
                 "w": "交流",
                 "p": "jiāo liú",
                 "d": "to exchange",
-                "s": ""
+                "s": "汤姆和玛丽在电话里交流。 (Tom and Mary spoke on the phone.)"
             },
             {
                 "id": "zh-1678",
                 "w": "聚会",
                 "p": "jù huì",
                 "d": "party",
-                "s": ""
+                "s": "她不想我们参加她的聚会。 (She didn't want us at her party.)"
             },
             {
                 "id": "zh-1679",
                 "w": "邻居",
                 "p": "lín jū",
                 "d": "neighbor",
-                "s": ""
+                "s": "我的邻居是个十足的洁癖。 (My neighbor's a real mysophobe.)"
             },
             {
                 "id": "zh-1680",
                 "w": "放手",
                 "p": "fàng shǒu",
                 "d": "to let go one's hold",
-                "s": ""
+                "s": "人们常说拿在手里没有感觉的东西还是放手的好。 (People often say: \"If something in your hand no longer feels right, it's better to let it go.\")"
             },
             {
                 "id": "zh-1681",
                 "w": "英里",
                 "p": "yīng lǐ",
                 "d": "mile (unit of length equal to 1.609 km)",
-                "s": ""
+                "s": "一英里大约是1600米。 (A mile is about 1,600 meters.)"
             },
             {
                 "id": "zh-1682",
                 "w": "安妮",
                 "p": "ān nī",
                 "d": "Annie (name)",
-                "s": ""
+                "s": "安妮接受了亨利的求婚。 (Anne accepted Henry's proposal.)"
             },
             {
                 "id": "zh-1683",
                 "w": "婴儿",
                 "p": "yīng ér",
                 "d": "infant",
-                "s": ""
+                "s": "他正睡着，像个婴儿一样。 (He's sleeping like a baby.)"
             },
             {
                 "id": "zh-1684",
                 "w": "伤心",
                 "p": "shāng xīn",
                 "d": "to grieve",
-                "s": ""
+                "s": "怎么了？你为甚么伤心？ (What's up? Why are you sad?)"
             },
             {
                 "id": "zh-1685",
                 "w": "仅仅",
                 "p": "jǐn jǐn",
                 "d": "barely",
-                "s": ""
+                "s": "我仅仅是在和Tom交谈。 (I was just talking about Tom.)"
             },
             {
                 "id": "zh-1686",
                 "w": "理论",
                 "p": "lǐ lùn",
                 "d": "theory",
-                "s": ""
+                "s": "你的理论是以什么为基础? (What do you base your theory on?)"
             },
             {
                 "id": "zh-1687",
                 "w": "非",
                 "p": "fēi",
                 "d": "to not be; not",
-                "s": ""
+                "s": "汤姆的上司真的非常生气。 (Tom's boss was really angry.)"
             },
             {
                 "id": "zh-1688",
                 "w": "早安",
                 "p": "zǎo ān",
                 "d": "Good morning!",
-                "s": ""
+                "s": "早安。是该醒来的时候了。 (Good morning. It's time to wake up.)"
             },
             {
                 "id": "zh-1689",
@@ -11836,896 +11836,896 @@
                 "w": "整天",
                 "p": "zhěng tiān",
                 "d": "all day long",
-                "s": ""
+                "s": "雨断断续续地下了一整天。 (It rained on and off all day.)"
             },
             {
                 "id": "zh-1691",
                 "w": "巧克力",
                 "p": "qiǎo kè lì",
                 "d": "(loanword) chocolate",
-                "s": ""
+                "s": "连巧克力中也含有维他命。 (Even chocolate contains vitamins.)"
             },
             {
                 "id": "zh-1692",
                 "w": "找出",
                 "p": "zhǎo chū",
                 "d": "to find",
-                "s": ""
+                "s": "我们必须找出问题的根源。 (We must get to the root of the problem.)"
             },
             {
                 "id": "zh-1693",
                 "w": "杀害",
                 "p": "shā hài",
                 "d": "to murder",
-                "s": ""
+                "s": "他们正密谋要杀害国王。 (They're plotting to kill the king.)"
             },
             {
                 "id": "zh-1694",
                 "w": "地区",
                 "p": "dì qū",
                 "d": "region; area (informal or geographical term)",
-                "s": ""
+                "s": "人们在多雨地区种植水稻。 (Rice is grown in rainy regions.)"
             },
             {
                 "id": "zh-1695",
                 "w": "受害者",
                 "p": "shòu hài zhě",
                 "d": "casualty",
-                "s": ""
+                "s": "亵渎是没有受害者的犯罪。 (Blasphemy is a victimless crime.)"
             },
             {
                 "id": "zh-1696",
                 "w": "某些",
                 "p": "mǒu xiē",
                 "d": "some; certain (things)",
-                "s": ""
+                "s": "我们有某些地方和他们不同。 (We differ from them in some respects.)"
             },
             {
                 "id": "zh-1697",
                 "w": "后悔",
                 "p": "hòu huǐ",
                 "d": "to regret; to feel remorse",
-                "s": ""
+                "s": "他对他的行为感到后悔。 (He is regretting his action.)"
             },
             {
                 "id": "zh-1698",
                 "w": "尽量",
                 "p": "jǐn liàng",
                 "d": "as much as possible",
-                "s": ""
+                "s": "尽量试着用好你的时间。 (Try to make the most of your time.)"
             },
             {
                 "id": "zh-1699",
                 "w": "您好",
                 "p": "nín hǎo",
                 "d": "hello (polite)",
-                "s": ""
+                "s": "您好，很抱歉给您带来麻烦。 (Hello, sorry for any trouble.)"
             },
             {
                 "id": "zh-1700",
                 "w": "精彩",
                 "p": "jīng cǎi",
                 "d": "wonderful",
-                "s": ""
+                "s": "我们生活在一个精彩的时代。 (We live in a wonderful period.)"
             },
             {
                 "id": "zh-1701",
                 "w": "复",
                 "p": "fù",
                 "d": "to go and return",
-                "s": ""
+                "s": "要很长的时间才能恢复吗？ (Will it take long to recover?)"
             },
             {
                 "id": "zh-1702",
                 "w": "果然",
                 "p": "guǒ rán",
                 "d": "really",
-                "s": ""
+                "s": "我对他的第一印象果然没有错。 (My first impression of him proved to be correct.)"
             },
             {
                 "id": "zh-1703",
                 "w": "人人",
                 "p": "rén rén",
                 "d": "everyone",
-                "s": ""
+                "s": "人人讨厌自作聪明的人。 (Everyone hates know-it-alls.)"
             },
             {
                 "id": "zh-1704",
                 "w": "基地",
                 "p": "jī dì",
                 "d": "base (of operations, industrial, military, research etc)",
-                "s": ""
+                "s": "这附近有一个军事基地。 (There is a military base near here.)"
             },
             {
                 "id": "zh-1705",
                 "w": "说服",
                 "p": "shuō fú",
                 "d": "to persuade",
-                "s": ""
+                "s": "我们差不多说服Tom了。 (We almost had Tom convinced.)"
             },
             {
                 "id": "zh-1706",
                 "w": "数字",
                 "p": "shù zì",
                 "d": "numeral",
-                "s": ""
+                "s": "她用数字的形式写了日期。 (She wrote the date in numeric form.)"
             },
             {
                 "id": "zh-1707",
                 "w": "空气",
                 "p": "kōng qì",
                 "d": "air",
-                "s": ""
+                "s": "空气是生命中不可或缺的。 (Air is indispensable to life.)"
             },
             {
                 "id": "zh-1708",
                 "w": "病毒",
                 "p": "bìng dú",
                 "d": "virus",
-                "s": ""
+                "s": "这些点都是病毒集中的地方。 (All those dots are viral focuses.)"
             },
             {
                 "id": "zh-1709",
                 "w": "规则",
                 "p": "guī zé",
                 "d": "rule; regulation",
-                "s": ""
+                "s": "你能帮我说明一下规则吗？ (Will you explain the rule to me?)"
             },
             {
                 "id": "zh-1710",
                 "w": "急",
                 "p": "jí",
                 "d": "urgent",
-                "s": ""
+                "s": "汤姆急着想在波士顿住下。 (Tom is eager to live in Boston.)"
             },
             {
                 "id": "zh-1711",
                 "w": "左右",
                 "p": "zuǒ yòu",
                 "d": "left and right",
-                "s": ""
+                "s": "他六点左右要给我打电话。 (He will call for me about six.)"
             },
             {
                 "id": "zh-1712",
                 "w": "彻底",
                 "p": "chè dǐ",
                 "d": "thorough",
-                "s": ""
+                "s": "汤姆的生活被彻底改变了。 (Tom's life was changed forever.)"
             },
             {
                 "id": "zh-1713",
                 "w": "运气",
                 "p": "yùn qi",
                 "d": "luck (good or bad)",
-                "s": ""
+                "s": "我猜这是我们的运气坏。 (I guess it was our bad luck.)"
             },
             {
                 "id": "zh-1714",
                 "w": "生病",
                 "p": "shēng bìng",
                 "d": "to fall ill",
-                "s": ""
+                "s": "他从上周日开始就生病了。 (He has been sick since last Sunday.)"
             },
             {
                 "id": "zh-1715",
                 "w": "人物",
                 "p": "rén wù",
                 "d": "person; personage; figure (esp. sb of importance)",
-                "s": ""
+                "s": "他是作家，还是政治人物。 (He is an author and a politician.)"
             },
             {
                 "id": "zh-1716",
                 "w": "团队",
                 "p": "tuán duì",
                 "d": "team",
-                "s": ""
+                "s": "我们组织了一个专案团队。 (We organized a project team.)"
             },
             {
                 "id": "zh-1717",
                 "w": "尿",
                 "p": "niào",
                 "d": "to urinate",
-                "s": ""
+                "s": "玛丽得糖尿病了，不是吗？ (Mary is diabetic, isn't she?)"
             },
             {
                 "id": "zh-1718",
                 "w": "戒指",
                 "p": "jiè zhi",
                 "d": "(finger) ring",
-                "s": ""
+                "s": "我会帮你把戒指找回来的。 (I will find you your lost ring.)"
             },
             {
                 "id": "zh-1719",
                 "w": "自我",
                 "p": "zì wǒ",
                 "d": "the self; oneself; self-",
-                "s": ""
+                "s": "请允许我自我介绍一下。 (Allow me to introduce myself.)"
             },
             {
                 "id": "zh-1720",
                 "w": "立即",
                 "p": "lì jí",
                 "d": "immediately",
-                "s": ""
+                "s": "我们打算立即开始。 (We intended to start right away.)"
             },
             {
                 "id": "zh-1721",
                 "w": "女生",
                 "p": "nǚ shēng",
                 "d": "schoolgirl",
-                "s": ""
+                "s": "我看见一个长头发的女生。 (I saw a girl with long hair.)"
             },
             {
                 "id": "zh-1722",
                 "w": "规矩",
                 "p": "guī ju",
                 "d": "lit. compass and set square",
-                "s": ""
+                "s": "那个小孩子很没有规矩。 (That little kid is quite bratty.)"
             },
             {
                 "id": "zh-1723",
                 "w": "裤子",
                 "p": "kù zi",
                 "d": "trousers; pants",
-                "s": ""
+                "s": "这些裤子我穿起来很合身。 (These trousers fit me well.)"
             },
             {
                 "id": "zh-1724",
                 "w": "星球",
                 "p": "xīng qiú",
                 "d": "celestial body (e.g. planet, satellite etc); heavenly body",
-                "s": ""
+                "s": "所以你来自另外一个星球？ (So you come from another planet?)"
             },
             {
                 "id": "zh-1725",
                 "w": "司机",
                 "p": "sī jī",
                 "d": "chauffeur; driver",
-                "s": ""
+                "s": "汤姆不是一个好司机。 (Tom isn't a very good driver.)"
             },
             {
                 "id": "zh-1726",
                 "w": "大声",
                 "p": "dà shēng",
                 "d": "loud voice",
-                "s": ""
+                "s": "萨米对莱拉大声发号施令。 (Sami barked orders at Layla.)"
             },
             {
                 "id": "zh-1727",
                 "w": "象",
                 "p": "xiàng",
                 "d": "elephant",
-                "s": ""
+                "s": "我对你们的工作印象深刻。 (I'm very impressed by your work.)"
             },
             {
                 "id": "zh-1728",
                 "w": "打死",
                 "p": "dǎ sǐ",
                 "d": "to kill",
-                "s": ""
+                "s": "我要（用枪）打死他。 (I'm going to shoot him dead.)"
             },
             {
                 "id": "zh-1729",
                 "w": "烧",
                 "p": "shāo",
                 "d": "to burn; to set on fire",
-                "s": ""
+                "s": "汤姆发烧了，正躺在床上。 (Tom is in bed with a fever.)"
             },
             {
                 "id": "zh-1730",
                 "w": "线",
                 "p": "xiàn",
                 "d": "thread",
-                "s": ""
+                "s": "不好意思，现在线路繁忙。 (Sorry, the line is busy now.)"
             },
             {
                 "id": "zh-1731",
                 "w": "依然",
                 "p": "yī rán",
                 "d": "still; as before",
-                "s": ""
+                "s": "那个杀人犯依然逍遥法外。 (The murderer is still at large.)"
             },
             {
                 "id": "zh-1732",
                 "w": "做事",
                 "p": "zuò shì",
                 "d": "to work",
-                "s": ""
+                "s": "还轮到他们来教我做事了？ (Who are they to tell me what to do?)"
             },
             {
                 "id": "zh-1733",
                 "w": "火",
                 "p": "huǒ",
                 "d": "fire",
-                "s": ""
+                "s": "哦，不！我的房子着火了！ (Oh, no! My house is on fire!)"
             },
             {
                 "id": "zh-1734",
                 "w": "接到",
                 "p": "jiē dào",
                 "d": "to receive (letter etc)",
-                "s": ""
+                "s": "我接到了他打来的电话。 (I had a phone call from him.)"
             },
             {
                 "id": "zh-1735",
                 "w": "楼上",
                 "p": "lóu shàng",
                 "d": "upstairs",
-                "s": ""
+                "s": "汤姆在楼上睡觉呢，是吧？ (Tom is sleeping upstairs, isn't he?)"
             },
             {
                 "id": "zh-1736",
                 "w": "持续",
                 "p": "chí xù",
                 "d": "to continue; to last; to persist",
-                "s": ""
+                "s": "这个会议持续了两个小时。 (The meeting lasted two hours.)"
             },
             {
                 "id": "zh-1737",
                 "w": "强",
                 "p": "qiáng",
                 "d": "strong",
-                "s": ""
+                "s": "先下手为强，后下手遭殃。 (Get them before they get us.)"
             },
             {
                 "id": "zh-1738",
                 "w": "要死",
                 "p": "yào sǐ",
                 "d": "extremely",
-                "s": ""
+                "s": "每个人都是注定要死的。 (Everyone is doomed to die.)"
             },
             {
                 "id": "zh-1739",
                 "w": "协议",
                 "p": "xié yì",
                 "d": "agreement",
-                "s": ""
+                "s": "汤姆和玛丽达成了协议。 (Tom and Mary came to an understanding.)"
             },
             {
                 "id": "zh-1740",
                 "w": "折磨",
                 "p": "zhé mó",
                 "d": "to torment; to torture",
-                "s": ""
+                "s": "他们是不会停止折磨我的。 (They wouldn't stop torturing me.)"
             },
             {
                 "id": "zh-1741",
                 "w": "拿来",
                 "p": "ná lái",
                 "d": "to bring",
-                "s": ""
+                "s": "天气很热，把电风扇拿来。 (It is hot. Bring the electric fan.)"
             },
             {
                 "id": "zh-1742",
                 "w": "明星",
                 "p": "míng xīng",
                 "d": "star; celebrity",
-                "s": ""
+                "s": "谁是你最喜爱的电视明星？ (Who's your favorite TV star?)"
             },
             {
                 "id": "zh-1743",
                 "w": "申请",
                 "p": "shēn qǐng",
                 "d": "to apply for sth",
-                "s": ""
+                "s": "珍填好了一张申请书。 (Jane filled out an application.)"
             },
             {
                 "id": "zh-1744",
                 "w": "小伙子",
                 "p": "xiǎo huǒ zi",
                 "d": "(coll.) young man; young fellow; lad",
-                "s": ""
+                "s": "有个小伙子在我的瑜伽班里。 (There's a guy in my yoga class.)"
             },
             {
                 "id": "zh-1745",
                 "w": "小时候",
                 "p": "xiǎo shí hou",
                 "d": "in one's childhood",
-                "s": ""
+                "s": "我小时候读了她所有的书。 (When I was little, I read all her books.)"
             },
             {
                 "id": "zh-1746",
                 "w": "手里",
                 "p": "shǒu lǐ",
                 "d": "in hand",
-                "s": ""
+                "s": "她手里拿着一朵玫瑰。 (She has a rose in her hand.)"
             },
             {
                 "id": "zh-1747",
                 "w": "鸡",
                 "p": "jī",
                 "d": "fowl",
-                "s": ""
+                "s": "把面粉和两颗鸡蛋混合。 (Mix the flour with two eggs.)"
             },
             {
                 "id": "zh-1748",
                 "w": "西",
                 "p": "xī",
                 "d": "west",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-1749",
                 "w": "美女",
                 "p": "měi nǚ",
                 "d": "beautiful woman",
-                "s": ""
+                "s": "纯子是一个美女。 (Junko is a beautiful girl.)"
             },
             {
                 "id": "zh-1750",
                 "w": "性",
                 "p": "xìng",
                 "d": "nature",
-                "s": ""
+                "s": "我喜欢看女同性恋色情片。 (I like watching lesbian porn.)"
             },
             {
                 "id": "zh-1751",
                 "w": "至",
                 "p": "zhì",
                 "d": "to arrive",
-                "s": ""
+                "s": "甚至在夏天，这里都很冷。 (It's cold here even in summer.)"
             },
             {
                 "id": "zh-1752",
                 "w": "刺激",
                 "p": "cì jī",
                 "d": "to provoke; to irritate; to upset; to stimulate; to excite",
-                "s": ""
+                "s": "你今年做的最刺激的事是什么？ (What's the most exciting thing you've done this year?)"
             },
             {
                 "id": "zh-1753",
                 "w": "子",
                 "p": "zǐ",
                 "d": "son",
-                "s": ""
+                "s": "弗雷德的房子有五间房间。 (Fred's house has five rooms.)"
             },
             {
                 "id": "zh-1754",
                 "w": "耍",
                 "p": "shuǎ",
                 "d": "to play with",
-                "s": ""
+                "s": "汤姆没有朋友可以一起玩耍。 (Tom has no friends to play with.)"
             },
             {
                 "id": "zh-1755",
                 "w": "伤",
                 "p": "shāng",
                 "d": "to injure",
-                "s": ""
+                "s": "我的朋友因为受伤去世了。 (My friend died from a wound.)"
             },
             {
                 "id": "zh-1756",
                 "w": "仔细",
                 "p": "zǐ xì",
                 "d": "careful; attentive; cautious",
-                "s": ""
+                "s": "汤姆很仔细地参考地图。 (Tom is looking closely at the map.)"
             },
             {
                 "id": "zh-1757",
                 "w": "让开",
                 "p": "ràng kāi",
                 "d": "to get out of the way",
-                "s": ""
+                "s": "凯西, 请让开一下。 (Cathy, please stay out of my way for a while.)"
             },
             {
                 "id": "zh-1758",
                 "w": "明明",
                 "p": "míng míng",
                 "d": "obviously",
-                "s": ""
+                "s": "我明明没招惹任何人。 (I didn't ask to be abused.)"
             },
             {
                 "id": "zh-1759",
                 "w": "案件",
                 "p": "àn jiàn",
                 "d": "case",
-                "s": ""
+                "s": "这些失踪案件可能是谋杀。 (These disappearances are probably murders.)"
             },
             {
                 "id": "zh-1760",
                 "w": "女孩子",
                 "p": "nǚ hái zi",
                 "d": "girl",
-                "s": ""
+                "s": "她是个迷人的女孩子。 (She's a glamorous girl.)"
             },
             {
                 "id": "zh-1761",
                 "w": "地图",
                 "p": "dì tú",
                 "d": "map",
-                "s": ""
+                "s": "这儿有张很大的德国地图。 (Here's a big map of Germany.)"
             },
             {
                 "id": "zh-1762",
                 "w": "乐意",
                 "p": "lè yì",
                 "d": "to be willing to do sth",
-                "s": ""
+                "s": "汤姆告诉我他很乐意帮助。 (Tom told me he'd love to help.)"
             },
             {
                 "id": "zh-1763",
                 "w": "吵",
                 "p": "chǎo",
                 "d": "noisy; loud",
-                "s": ""
+                "s": "你知道吗，他们又在吵架。 (They're arguing again, you know.)"
             },
             {
                 "id": "zh-1764",
                 "w": "摧毁",
                 "p": "cuī huǐ",
                 "d": "to destroy; to wreck",
-                "s": ""
+                "s": "这座城市在战争中被摧毁。 (The city was destroyed in the war.)"
             },
             {
                 "id": "zh-1765",
                 "w": "赶",
                 "p": "gǎn",
                 "d": "to overtake; to catch up with",
-                "s": ""
+                "s": "快赶到那边去打听，快走！ (Nip over there and ask. Hurry!)"
             },
             {
                 "id": "zh-1766",
                 "w": "位",
                 "p": "wèi",
                 "d": "position",
-                "s": ""
+                "s": "我认为他是位伟大的作家。 (I think he's a great writer.)"
             },
             {
                 "id": "zh-1767",
                 "w": "老鼠",
                 "p": "lǎo shǔ",
                 "d": "rat; mouse (CL:隻|只)",
-                "s": ""
+                "s": "这只老鼠是死还是活的？ (Is the rat alive or dead?)"
             },
             {
                 "id": "zh-1768",
                 "w": "展示",
                 "p": "zhǎn shì",
                 "d": "to reveal; to display; to show; to exhibit",
-                "s": ""
+                "s": "可以在地图上展示给我看吗？ (Can you show me on the map?)"
             },
             {
                 "id": "zh-1769",
                 "w": "箱子",
                 "p": "xiāng zi",
                 "d": "suitcase",
-                "s": ""
+                "s": "他用双手抱著一个大箱子。 (He had a big box in his arms.)"
             },
             {
                 "id": "zh-1770",
                 "w": "重复",
                 "p": "chóng fù",
                 "d": "to repeat",
-                "s": ""
+                "s": "能不能请你重复一下？ (Can you repeat that, please?)"
             },
             {
                 "id": "zh-1771",
                 "w": "从来不",
                 "p": "cóng lái bù",
                 "d": "never",
-                "s": ""
+                "s": "我从来不做梦，这正常吗？ (I never dream. Is that normal?)"
             },
             {
                 "id": "zh-1772",
                 "w": "万岁",
                 "p": "wàn suì",
                 "d": "Long live (the king, the revolution etc)!",
-                "s": ""
+                "s": "自由魁北克万岁！ (Long live free Quebec!)"
             },
             {
                 "id": "zh-1773",
                 "w": "发出",
                 "p": "fā chū",
                 "d": "to issue (an order, decree etc); to send out; to dispatch",
-                "s": ""
+                "s": "剃须刀发出了嗡嗡的响声。 (The razor made a buzzing sound.)"
             },
             {
                 "id": "zh-1774",
                 "w": "脖子",
                 "p": "bó zi",
                 "d": "neck",
-                "s": ""
+                "s": "放开我，你正在掐着我的脖子。 (Let me go, you're choking me.)"
             },
             {
                 "id": "zh-1775",
                 "w": "推",
                 "p": "tuī",
                 "d": "to push",
-                "s": ""
+                "s": "她推迟了去墨西哥的行程。 (She put off going to Mexico.)"
             },
             {
                 "id": "zh-1776",
                 "w": "权力",
                 "p": "quán lì",
                 "d": "power",
-                "s": ""
+                "s": "希特勒在一九三三年取得了权力。 (Hitler assumed power in 1933.)"
             },
             {
                 "id": "zh-1777",
                 "w": "方便",
                 "p": "fāng biàn",
                 "d": "convenient; suitable",
-                "s": ""
+                "s": "你什么时候出发最方便？ (When will it suit you to start?)"
             },
             {
                 "id": "zh-1778",
                 "w": "军",
                 "p": "jūn",
                 "d": "(bound form) army",
-                "s": ""
+                "s": "日本的军队在当时很强。 (Japan's army was very powerful.)"
             },
             {
                 "id": "zh-1779",
                 "w": "耳朵",
                 "p": "ěr duo",
                 "d": "ear",
-                "s": ""
+                "s": "为什么你的耳朵这么大？ (Why are your ears so big?)"
             },
             {
                 "id": "zh-1780",
                 "w": "重点",
                 "p": "chóng diǎn",
                 "d": "to recount (e.g. results of election)",
-                "s": ""
+                "s": "喔！你提到一个重点了。 (You have a point there.)"
             },
             {
                 "id": "zh-1781",
                 "w": "凭",
                 "p": "píng",
                 "d": "to lean on; to lean against",
-                "s": ""
+                "s": "我凭什么需要帮她们？ (Why do I have to help them?)"
             },
             {
                 "id": "zh-1782",
                 "w": "毕竟",
                 "p": "bì jìng",
                 "d": "after all",
-                "s": ""
+                "s": "他毕竟是那个时代的人。 (He's a product of his time.)"
             },
             {
                 "id": "zh-1783",
                 "w": "蓝色",
                 "p": "lán sè",
                 "d": "blue (color)",
-                "s": ""
+                "s": "蓝色不是我最喜欢的颜色。 (Blue isn't my favorite color.)"
             },
             {
                 "id": "zh-1784",
                 "w": "罪犯",
                 "p": "zuì fàn",
                 "d": "criminal",
-                "s": ""
+                "s": "罪犯没有放人质们走。 (The criminal didn't let the hostages go.)"
             },
             {
                 "id": "zh-1785",
                 "w": "破",
                 "p": "pò",
                 "d": "broken",
-                "s": ""
+                "s": "刮胡子时，我把脸刮破了。 (I cut myself while shaving.)"
             },
             {
                 "id": "zh-1786",
                 "w": "呼叫",
                 "p": "hū jiào",
                 "d": "to shout",
-                "s": ""
+                "s": "小孩大声呼叫。 (The child cried loudly.)"
             },
             {
                 "id": "zh-1787",
                 "w": "打败",
                 "p": "dǎ bài",
                 "d": "to defeat",
-                "s": ""
+                "s": "他永远不会打败我的。 (He'll never beat me.)"
             },
             {
                 "id": "zh-1788",
                 "w": "牧师",
                 "p": "mù shī",
                 "d": "chaplain",
-                "s": ""
+                "s": "我的兄弟已经成为了牧师。 (My brother has become a priest.)"
             },
             {
                 "id": "zh-1789",
                 "w": "风",
                 "p": "fēng",
                 "d": "wind",
-                "s": ""
+                "s": "我知道你冒了多大的风险。 (I know what you've risked.)"
             },
             {
                 "id": "zh-1790",
                 "w": "毕业",
                 "p": "bì yè",
                 "d": "graduation",
-                "s": ""
+                "s": "汤姆将在10月毕业。 (Tom will graduate in October.)"
             },
             {
                 "id": "zh-1791",
                 "w": "清理",
                 "p": "qīng lǐ",
                 "d": "to clear up",
-                "s": ""
+                "s": "你必须把桌子清理干净。 (You must clear the table.)"
             },
             {
                 "id": "zh-1792",
                 "w": "宣布",
                 "p": "xuān bù",
                 "d": "to declare",
-                "s": ""
+                "s": "他们宣布了暴风雨即将来临。 (They announced that a storm was coming.)"
             },
             {
                 "id": "zh-1793",
                 "w": "护士",
                 "p": "hù shi",
                 "d": "nurse",
-                "s": ""
+                "s": "她的梦想是成为一名护士。 (Her dream is to become a nurse.)"
             },
             {
                 "id": "zh-1794",
                 "w": "能量",
                 "p": "néng liàng",
                 "d": "energy",
-                "s": ""
+                "s": "我正在传递正能量。嗡—— (I'm sending positive vibes. Ommmmmm.)"
             },
             {
                 "id": "zh-1795",
                 "w": "室",
                 "p": "shì",
                 "d": "room",
-                "s": ""
+                "s": "我父亲是一名办公室职员。 (My father is an office worker.)"
             },
             {
                 "id": "zh-1796",
                 "w": "加上",
                 "p": "jiā shàng",
                 "d": "to add; plus",
-                "s": ""
+                "s": "请在名单上加上我的名字。 (Please add my name to the list.)"
             },
             {
                 "id": "zh-1797",
                 "w": "万一",
                 "p": "wàn yī",
                 "d": "just in case",
-                "s": ""
+                "s": "万一发生火灾，按下按钮。 (In case of fire, push the button.)"
             },
             {
                 "id": "zh-1798",
                 "w": "亲",
                 "p": "qīn",
                 "d": "parent",
-                "s": ""
+                "s": "他把我误认为是我的母亲。 (He mistook me for my mother.)"
             },
             {
                 "id": "zh-1799",
                 "w": "印象",
                 "p": "yìn xiàng",
                 "d": "impression (sth that stays in one's mind)",
-                "s": ""
+                "s": "我对你们的工作印象深刻。 (I'm very impressed by your work.)"
             },
             {
                 "id": "zh-1800",
                 "w": "天空",
                 "p": "tiān kōng",
                 "d": "sky",
-                "s": ""
+                "s": "乌云逐渐布满了整个天空。 (The sky has gradually clouded over.)"
             },
             {
                 "id": "zh-1801",
                 "w": "游泳",
                 "p": "yóu yǒng",
                 "d": "swimming",
-                "s": ""
+                "s": "汤姆是奥运会游泳运动员。 (Tom was an Olympic swimmer.)"
             },
             {
                 "id": "zh-1802",
                 "w": "拜拜",
                 "p": "bái bái",
                 "d": "(loanword) bye-bye",
-                "s": ""
+                "s": "拜拜！ (Bye-bye!)"
             },
             {
                 "id": "zh-1803",
                 "w": "进展",
                 "p": "jìn zhǎn",
                 "d": "to make headway; to make progress",
-                "s": ""
+                "s": "我还没有取得那么大的进展。 (I haven't made much progress.)"
             },
             {
                 "id": "zh-1804",
                 "w": "大部分",
                 "p": "dà bù fen",
                 "d": "the greater part; the majority; most",
-                "s": ""
+                "s": "大部分美国人都会说英语。 (Most Americans can speak English.)"
             },
             {
                 "id": "zh-1805",
                 "w": "大脑",
                 "p": "dà nǎo",
                 "d": "brain",
-                "s": ""
+                "s": "他的大脑仍然很活跃。 (His brain is still very active.)"
             },
             {
                 "id": "zh-1806",
                 "w": "时光",
                 "p": "shí guāng",
                 "d": "time (esp. as sth that passes)",
-                "s": ""
+                "s": "你度过愉快的时光了吗？ (Did you have a good time?)"
             },
             {
                 "id": "zh-1807",
                 "w": "集",
                 "p": "jí",
                 "d": "to gather",
-                "s": ""
+                "s": "我姑姑给了我一本集邮册。 (My aunt gave me an album.)"
             },
             {
                 "id": "zh-1808",
                 "w": "阿姨",
                 "p": "ā yí",
                 "d": "maternal aunt",
-                "s": ""
+                "s": "我阿姨给我带来了一些花。 (My aunt brought me some flowers.)"
             },
             {
                 "id": "zh-1809",
                 "w": "一对",
                 "p": "yī duì",
                 "d": "couple; pair",
-                "s": ""
+                "s": "你需要两个才能凑成一对。 (You need two to make a pair.)"
             },
             {
                 "id": "zh-1810",
                 "w": "而言",
                 "p": "ér yán",
                 "d": "(typically preceded by 就… or 對…|对… etc) as far as ... is concerned; speaking in terms of ...",
-                "s": ""
+                "s": "总而言之，生命是很短的。 (In a word, life is short.)"
             },
             {
                 "id": "zh-1811",
                 "w": "抛弃",
                 "p": "pāo qì",
                 "d": "to abandon",
-                "s": ""
+                "s": "他为了钱抛弃自己的原则。 (He sold his principles for money.)"
             },
             {
                 "id": "zh-1812",
                 "w": "鼻子",
                 "p": "bí zi",
                 "d": "nose",
-                "s": ""
+                "s": "他的鼻子看起来像土豆。 (His nose looks like a potato.)"
             },
             {
                 "id": "zh-1813",
                 "w": "塔",
                 "p": "tǎ",
                 "d": "pagoda (abbr. for 塔婆, a loanword from Sanskrit stūpa); tower; pylon (CL:座)",
-                "s": ""
+                "s": "你知道东京铁塔在哪里吗？ (Do you know where Tokyo Tower is?)"
             },
             {
                 "id": "zh-1814",
                 "w": "勇气",
                 "p": "yǒng qì",
                 "d": "courage",
-                "s": ""
+                "s": "我对他的勇气感到惊讶。 (I was amazed at his courage.)"
             },
             {
                 "id": "zh-1815",
                 "w": "夏天",
                 "p": "xià tiān",
                 "d": "summer",
-                "s": ""
+                "s": "他们每年夏天都会去露营。 (They go camping every summer.)"
             },
             {
                 "id": "zh-1816",
                 "w": "远离",
                 "p": "yuǎn lí",
                 "d": "to be far from",
-                "s": ""
+                "s": "一天一苹果，医生远离我。 (An apple a day keeps the doctor away.)"
             },
             {
                 "id": "zh-1817",
                 "w": "如今",
                 "p": "rú jīn",
                 "d": "nowadays; now",
-                "s": ""
+                "s": "城堡如今已经成了废墟。 (The castle is now in ruins.)"
             },
             {
                 "id": "zh-1818",
@@ -12739,392 +12739,392 @@
                 "w": "某人",
                 "p": "mǒu rén",
                 "d": "someone",
-                "s": ""
+                "s": "某人把我的杯形蛋糕吃完了。 (Someone ate all my cupcakes.)"
             },
             {
                 "id": "zh-1820",
                 "w": "元",
                 "p": "yuán",
                 "d": "currency unit (esp. Chinese yuan)",
-                "s": ""
+                "s": "Tom欠Mary三十元。 (Tom owes Mary thirty dollars.)"
             },
             {
                 "id": "zh-1821",
                 "w": "肚子",
                 "p": "dù zi",
                 "d": "belly",
-                "s": ""
+                "s": "我回到家的时候肚子十分饿。 (When I got home, I was very hungry.)"
             },
             {
                 "id": "zh-1822",
                 "w": "随",
                 "p": "suí",
                 "d": "to follow",
-                "s": ""
+                "s": "汤姆应该随时就会到这里。 (Tom should be here any minute.)"
             },
             {
                 "id": "zh-1823",
                 "w": "英语",
                 "p": "yīng yǔ",
                 "d": "English (language)",
-                "s": ""
+                "s": "我是一只鸭子。我说英语。 (I am a duck. I speak English.)"
             },
             {
                 "id": "zh-1824",
                 "w": "回忆",
                 "p": "huí yì",
                 "d": "to recall",
-                "s": ""
+                "s": "我不愿意勾起久远的回忆。 (I don't want to stir up old memories.)"
             },
             {
                 "id": "zh-1825",
                 "w": "神奇",
                 "p": "shén qí",
                 "d": "magical",
-                "s": ""
+                "s": "太神奇了。 (It's amazing.)"
             },
             {
                 "id": "zh-1826",
                 "w": "干活",
                 "p": "gàn huó",
                 "d": "to work; to be employed",
-                "s": ""
+                "s": "汤姆给一家美国公司干活。 (Tom works for an American company.)"
             },
             {
                 "id": "zh-1827",
                 "w": "唉",
                 "p": "āi",
                 "d": "interjection or grunt of agreement or recognition (e.g. yes, it's me!)",
-                "s": ""
+                "s": "唉！我的电脑又当机了。 (Argh! My computer froze up again.)"
             },
             {
                 "id": "zh-1828",
                 "w": "熊",
                 "p": "xióng",
                 "d": "bear",
-                "s": ""
+                "s": "熊猫是一种很美的动物。 (Pandas are beautiful animals.)"
             },
             {
                 "id": "zh-1829",
                 "w": "场",
                 "p": "chǎng",
                 "d": "large place used for a specific purpose",
-                "s": ""
+                "s": "医护人员已抵达事发现场。 (Paramedics are on the scene.)"
             },
             {
                 "id": "zh-1830",
                 "w": "年代",
                 "p": "nián dài",
                 "d": "a decade of a century (e.g. the Sixties)",
-                "s": ""
+                "s": "这首歌在七十年代很流行。 (This song was popular in the 1970s.)"
             },
             {
                 "id": "zh-1831",
                 "w": "大量",
                 "p": "dà liàng",
                 "d": "great amount",
-                "s": ""
+                "s": "孩子们需要大量的睡眠。 (Children need a lot of sleep.)"
             },
             {
                 "id": "zh-1832",
                 "w": "暴力",
                 "p": "bào lì",
                 "d": "violence",
-                "s": ""
+                "s": "汤姆不想让暴力发生。 (Tom didn't want any violence.)"
             },
             {
                 "id": "zh-1833",
                 "w": "不仅",
                 "p": "bù jǐn",
                 "d": "not just; not limited to",
-                "s": ""
+                "s": "他不仅仅是一国之君。 (He was more than a king.)"
             },
             {
                 "id": "zh-1834",
                 "w": "付出",
                 "p": "fù chū",
                 "d": "to pay; to expend; to invest (energy or time)",
-                "s": ""
+                "s": "我们怎样才能将其付出实践？ (How can we put it into practice?)"
             },
             {
                 "id": "zh-1835",
                 "w": "职业",
                 "p": "zhí yè",
                 "d": "occupation; profession; vocation",
-                "s": ""
+                "s": "我的职业正是我的爱好。 (My profession is my hobby.)"
             },
             {
                 "id": "zh-1836",
                 "w": "实验室",
                 "p": "shí yàn shì",
                 "d": "laboratory",
-                "s": ""
+                "s": "实验室里的空调坏了。 (The air conditioner in the lab is broken.)"
             },
             {
                 "id": "zh-1837",
                 "w": "互相",
                 "p": "hù xiāng",
                 "d": "each other",
-                "s": ""
+                "s": "我们试图让手指互相交错。 (We kept our fingers crossed.)"
             },
             {
                 "id": "zh-1838",
                 "w": "专业",
                 "p": "zhuān yè",
                 "d": "specialty",
-                "s": ""
+                "s": "汤姆是个专业的魔术师。 (Tom is a professional magician.)"
             },
             {
                 "id": "zh-1839",
                 "w": "内心",
                 "p": "nèi xīn",
                 "d": "heart; innermost being",
-                "s": ""
+                "s": "他的眼睛掩饰不了内心的恐慌。 (His eyes betrayed his fear.)"
             },
             {
                 "id": "zh-1840",
                 "w": "无论如何",
                 "p": "wú lùn rú hé",
                 "d": "(idiom) whatever the case; in any event; no matter what; by all possible means",
-                "s": ""
+                "s": "无论如何，我也尽了我的责任。 (In any case, I did my duty.)"
             },
             {
                 "id": "zh-1841",
                 "w": "关注",
                 "p": "guān zhù",
                 "d": "to pay attention to; to follow sth closely; to follow (on social media)",
-                "s": ""
+                "s": "她在脸书里关注了我。 (She added me on Facebook.)"
             },
             {
                 "id": "zh-1842",
                 "w": "委员会",
                 "p": "wěi yuán huì",
                 "d": "committee; commission",
-                "s": ""
+                "s": "你应该去竞选城市委员会。 (You should run for city council.)"
             },
             {
                 "id": "zh-1843",
                 "w": "实验",
                 "p": "shí yàn",
                 "d": "experiment",
-                "s": ""
+                "s": "实验证明了他的理论。 (The experiment confirmed his theory.)"
             },
             {
                 "id": "zh-1844",
                 "w": "战士",
                 "p": "zhàn shì",
                 "d": "fighter",
-                "s": ""
+                "s": "许多战士会战中挂彩了。 (Many soldiers were wounded in the battle.)"
             },
             {
                 "id": "zh-1845",
                 "w": "他人",
                 "p": "tā rén",
                 "d": "another person; sb else; other people",
-                "s": ""
+                "s": "对其他人你应该和善一点。 (You should be kind to others.)"
             },
             {
                 "id": "zh-1846",
                 "w": "联邦",
                 "p": "lián bāng",
                 "d": "federal",
-                "s": ""
+                "s": "德意志联邦共和国建立于1949年。 (The Federal Republic of Germany was established in 1949.)"
             },
             {
                 "id": "zh-1847",
                 "w": "试着",
                 "p": "shì zhe",
                 "d": "(coll.) to try to",
-                "s": ""
+                "s": "你什么时候试着抱过汤姆？ (When did you try hugging Tom?)"
             },
             {
                 "id": "zh-1848",
                 "w": "好奇",
                 "p": "hào qí",
                 "d": "inquisitive",
-                "s": ""
+                "s": "我好奇耳垂有什么作用。 (I wonder what ear lobes are for.)"
             },
             {
                 "id": "zh-1849",
                 "w": "城",
                 "p": "chéng",
                 "d": "city walls",
-                "s": ""
+                "s": "这座城堡很值得去看一看。 (The castle is worth visiting.)"
             },
             {
                 "id": "zh-1850",
                 "w": "打破",
                 "p": "dǎ pò",
                 "d": "to break; to smash",
-                "s": ""
+                "s": "那打破了他所有的梦想。 (That destroyed all his dreams.)"
             },
             {
                 "id": "zh-1851",
                 "w": "信仰",
                 "p": "xìn yǎng",
                 "d": "to believe in (a religion)",
-                "s": ""
+                "s": "一个没有信仰的人是可怕的。 (A person without faith is frightening.)"
             },
             {
                 "id": "zh-1852",
                 "w": "舞会",
                 "p": "wǔ huì",
                 "d": "dance",
-                "s": ""
+                "s": "我们去参加舞会了。 (We are going to the ball.)"
             },
             {
                 "id": "zh-1853",
                 "w": "不可思议",
                 "p": "bù kě sī yì",
                 "d": "(idiom) inconceivable; unimaginable; unfathomable",
-                "s": ""
+                "s": "这件事情真是太不可思议了。 (This situation is truly unimaginable.)"
             },
             {
                 "id": "zh-1854",
                 "w": "将来",
                 "p": "jiāng lái",
                 "d": "in the future",
-                "s": ""
+                "s": "将来我要去国外旅游。 (I want to go abroad one day.)"
             },
             {
                 "id": "zh-1855",
                 "w": "付",
                 "p": "fù",
                 "d": "to pay",
-                "s": ""
+                "s": "为什么不直接付钱给汤姆？ (Why didn't you just pay Tom?)"
             },
             {
                 "id": "zh-1856",
                 "w": "逃",
                 "p": "táo",
                 "d": "to escape",
-                "s": ""
+                "s": "这名男子逃离了这个城市。 (The man got away from the city.)"
             },
             {
                 "id": "zh-1857",
                 "w": "完毕",
                 "p": "wán bì",
                 "d": "to finish",
-                "s": ""
+                "s": "请你在阅读完毕后归还此书。 (Please return the book when you have finished reading it.)"
             },
             {
                 "id": "zh-1858",
                 "w": "朝",
                 "p": "cháo",
                 "d": "imperial or royal court",
-                "s": ""
+                "s": "他朝警卫亮出了一把刀子。 (He pulled a shiv on the guard.)"
             },
             {
                 "id": "zh-1859",
                 "w": "杂志",
                 "p": "zá zhì",
                 "d": "magazine",
-                "s": ""
+                "s": "我的房间里有一本杂志。 (I have a magazine in my room.)"
             },
             {
                 "id": "zh-1860",
                 "w": "毫无",
                 "p": "háo wú",
                 "d": "not in the least",
-                "s": ""
+                "s": "如水流过鸭背般毫无反应。 (Like water off a duck's back.)"
             },
             {
                 "id": "zh-1861",
                 "w": "事业",
                 "p": "shì yè",
                 "d": "undertaking",
-                "s": ""
+                "s": "他卖掉了他的事业并且退休。 (He sold his business and retired.)"
             },
             {
                 "id": "zh-1862",
                 "w": "假如",
                 "p": "jiǎ rú",
                 "d": "if",
-                "s": ""
+                "s": "想象一下，假如你有一台时光机。 (Imagine that you have a time machine.)"
             },
             {
                 "id": "zh-1863",
                 "w": "感兴趣",
                 "p": "gǎn xìng qù",
                 "d": "to be interested (in sth)",
-                "s": ""
+                "s": "我对亚洲的历史很感兴趣。 (I'm interested in Asian history.)"
             },
             {
                 "id": "zh-1864",
                 "w": "打赌",
                 "p": "dǎ dǔ",
                 "d": "to bet",
-                "s": ""
+                "s": "我打赌今晚天气会很好。 (I bet it's fine tonight.)"
             },
             {
                 "id": "zh-1865",
                 "w": "城堡",
                 "p": "chéng bǎo",
                 "d": "castle",
-                "s": ""
+                "s": "这座城堡很值得去看一看。 (The castle is worth visiting.)"
             },
             {
                 "id": "zh-1866",
                 "w": "退后",
                 "p": "tuì hòu",
                 "d": "to stand back",
-                "s": ""
+                "s": "退后。 (Step back.)"
             },
             {
                 "id": "zh-1867",
                 "w": "早点",
                 "p": "zǎo diǎn",
                 "d": "breakfast",
-                "s": ""
+                "s": "Tom今晚必须早点睡觉。 (Tom has to go to bed early tonight.)"
             },
             {
                 "id": "zh-1868",
                 "w": "说不定",
                 "p": "shuō bu dìng",
                 "d": "can't say for sure",
-                "s": ""
+                "s": "你说不定知道他的名字？ (Do you happen to know his name?)"
             },
             {
                 "id": "zh-1869",
                 "w": "菜",
                 "p": "cài",
                 "d": "vegetable; greens (CL:棵)",
-                "s": ""
+                "s": "你们这儿什么菜最有特色？ (What's your most special dish?)"
             },
             {
                 "id": "zh-1870",
                 "w": "墨西哥",
                 "p": "mò xī gē",
                 "d": "Mexico",
-                "s": ""
+                "s": "她推迟了去墨西哥的行程。 (She put off going to Mexico.)"
             },
             {
                 "id": "zh-1871",
                 "w": "胡说",
                 "p": "hú shuō",
                 "d": "to talk nonsense",
-                "s": ""
+                "s": "她们只是胡说八道。 (They're just talking shit.)"
             },
             {
                 "id": "zh-1872",
                 "w": "选手",
                 "p": "xuǎn shǒu",
                 "d": "athlete",
-                "s": ""
+                "s": "他是一位著名的棒球选手。 (He is a famous baseball player.)"
             },
             {
                 "id": "zh-1873",
                 "w": "犯人",
                 "p": "fàn rén",
                 "d": "convict",
-                "s": ""
+                "s": "那个犯人还没被抓到。 (The criminal is still at large.)"
             },
             {
                 "id": "zh-1874",
                 "w": "妓",
                 "p": "jì",
                 "d": "prostitute",
-                "s": ""
+                "s": "我打算去妓院做事。 (I plan to work in a brothel.)"
             },
             {
                 "id": "zh-1875",
@@ -13138,161 +13138,161 @@
                 "w": "遇见",
                 "p": "yù jiàn",
                 "d": "to meet",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-1877",
                 "w": "早晨",
                 "p": "zǎo chén",
                 "d": "early morning",
-                "s": ""
+                "s": "我今天早晨感觉良好。 (I'm feeling good this morning.)"
             },
             {
                 "id": "zh-1878",
                 "w": "范围",
                 "p": "fàn wéi",
                 "d": "range",
-                "s": ""
+                "s": "这份工作在我能力范围之外. (This job is beyond my ability.)"
             },
             {
                 "id": "zh-1879",
                 "w": "诅咒",
                 "p": "zǔ zhòu",
                 "d": "to curse",
-                "s": ""
+                "s": "她大声诅咒。 (She cursed loudly.)"
             },
             {
                 "id": "zh-1880",
                 "w": "变态",
                 "p": "biàn tài",
                 "d": "to metamorphose (biology)",
-                "s": ""
+                "s": "社会变态者喜欢说谎。 (Sociopaths like telling lies.)"
             },
             {
                 "id": "zh-1881",
                 "w": "伪",
                 "p": "wěi",
                 "d": "false",
-                "s": ""
+                "s": "创造主义是一种伪科学。 (Creationism is a pseudo-science.)"
             },
             {
                 "id": "zh-1882",
                 "w": "欣赏",
                 "p": "xīn shǎng",
                 "d": "to appreciate; to enjoy; to admire",
-                "s": ""
+                "s": "他们欣赏了美丽的风景。 (They admired the lovely scenery.)"
             },
             {
                 "id": "zh-1883",
                 "w": "谎言",
                 "p": "huǎng yán",
                 "d": "lie",
-                "s": ""
+                "s": "你的谎言像报纸一样！ (Your lies are just like newspapers!)"
             },
             {
                 "id": "zh-1884",
                 "w": "小孩子",
                 "p": "xiǎo hái zi",
                 "d": "child",
-                "s": ""
+                "s": "即便是小孩子也能做到呢。 (Even a child can do it.)"
             },
             {
                 "id": "zh-1885",
                 "w": "剑",
                 "p": "jiàn",
                 "d": "double-edged sword",
-                "s": ""
+                "s": "女人的舌头是她的剑。 (A woman's tongue is her sword.)"
             },
             {
                 "id": "zh-1886",
                 "w": "相同",
                 "p": "xiāng tóng",
                 "d": "identical; same",
-                "s": ""
+                "s": "你和我有相同的想法。 (You and I have the same idea.)"
             },
             {
                 "id": "zh-1887",
                 "w": "师父",
                 "p": "shī fu",
                 "d": "used for 師傅|师傅 (in Taiwan)",
-                "s": ""
+                "s": "“拜个不够行的师父，很伤脑筋吧？” “我也很笨，所以没关系。” (\"It must bother you to have taken a bad master.\" \"I'm stupid too. So, it's all right.\")"
             },
             {
                 "id": "zh-1888",
                 "w": "聊",
                 "p": "liáo",
                 "d": "(coll.) to chat",
-                "s": ""
+                "s": "珍过了一个很无聊的周末。 (Jane had a very boring weekend.)"
             },
             {
                 "id": "zh-1889",
                 "w": "到来",
                 "p": "dào lái",
                 "d": "to arrive",
-                "s": ""
+                "s": "我们的到来引起了注意。 (Our arrival drew attention.)"
             },
             {
                 "id": "zh-1890",
                 "w": "奥",
                 "p": "ào",
                 "d": "obscure",
-                "s": ""
+                "s": "汤姆是奥运会游泳运动员。 (Tom was an Olympic swimmer.)"
             },
             {
                 "id": "zh-1891",
                 "w": "课",
                 "p": "kè",
                 "d": "subject",
-                "s": ""
+                "s": "我们已经有那篇课文了吗？ (Do we already have that text?)"
             },
             {
                 "id": "zh-1892",
                 "w": "传统",
                 "p": "chuán tǒng",
                 "d": "tradition; traditional",
-                "s": ""
+                "s": "那是一个十分传统的仪式。 (It was a very traditional ceremony.)"
             },
             {
                 "id": "zh-1893",
                 "w": "真棒",
                 "p": "zhēn bàng",
                 "d": "super!",
-                "s": ""
+                "s": "她屁股真棒。 (She's got a nice ass.)"
             },
             {
                 "id": "zh-1894",
                 "w": "逃走",
                 "p": "táo zǒu",
                 "d": "to escape",
-                "s": ""
+                "s": "为什么你企图逃走？ (Why did you try to run away?)"
             },
             {
                 "id": "zh-1895",
                 "w": "近",
                 "p": "jìn",
                 "d": "near",
-                "s": ""
+                "s": "他在门附近看到了一只狗。 (He saw a dog near the door.)"
             },
             {
                 "id": "zh-1896",
                 "w": "程序",
                 "p": "chéng xù",
                 "d": "procedures",
-                "s": ""
+                "s": "她是个女程序员吗？ (Is she a computer programmer?)"
             },
             {
                 "id": "zh-1897",
                 "w": "愤怒",
                 "p": "fèn nù",
                 "d": "angry",
-                "s": ""
+                "s": "没有什么事曾让他愤怒。 (Nothing ever makes him angry.)"
             },
             {
                 "id": "zh-1898",
                 "w": "白人",
                 "p": "bái rén",
                 "d": "white man or woman; Caucasian",
-                "s": ""
+                "s": "嫌疑人是一位白人女性。 (The suspect is a caucasian female.)"
             },
             {
                 "id": "zh-1899",
@@ -13306,364 +13306,364 @@
                 "w": "街上",
                 "p": "jiē shang",
                 "d": "on the street",
-                "s": ""
+                "s": "昨天我在街上遇见了玛丽。 (Yesterday I met Mary on the street.)"
             },
             {
                 "id": "zh-1901",
                 "w": "隐藏",
                 "p": "yǐn cáng",
                 "d": "to hide",
-                "s": ""
+                "s": "爱和咳嗽是无法隐藏的。 (Love and cough cannot be hidden.)"
             },
             {
                 "id": "zh-1902",
                 "w": "对待",
                 "p": "duì dài",
                 "d": "to treat",
-                "s": ""
+                "s": "他对待我就像他的奴隶。 (He treats me like his slave.)"
             },
             {
                 "id": "zh-1903",
                 "w": "优秀",
                 "p": "yōu xiù",
                 "d": "outstanding; excellent",
-                "s": ""
+                "s": "玛莎是一位优秀的钢琴家。 (Martha is an excellent pianist.)"
             },
             {
                 "id": "zh-1904",
                 "w": "报道",
                 "p": "bào dào",
                 "d": "to report (news)",
-                "s": ""
+                "s": "汤姆写了篇非常有深度的报道。 (Tom wrote a very profound report.)"
             },
             {
                 "id": "zh-1905",
                 "w": "揍",
                 "p": "zòu",
                 "d": "to hit; to beat (sb)",
-                "s": ""
+                "s": "汤姆把他揍得满地找牙。 (Tom knocked him down.)"
             },
             {
                 "id": "zh-1906",
                 "w": "度",
                 "p": "dù",
                 "d": "to pass",
-                "s": ""
+                "s": "为什么我们进度这么落后? (Why are we so behind on this?)"
             },
             {
                 "id": "zh-1907",
                 "w": "抽烟",
                 "p": "chōu yān",
                 "d": "to smoke (tobacco)",
-                "s": ""
+                "s": "你介意我在这里抽烟吗？ (Would you mind me smoking here?)"
             },
             {
                 "id": "zh-1908",
                 "w": "伙",
                 "p": "huǒ",
                 "d": "(bound form) meals (as in 伙食)",
-                "s": ""
+                "s": "你们这些家伙想去干什么？ (What are you guys going to do?)"
             },
             {
                 "id": "zh-1909",
                 "w": "过得",
                 "p": "guò dé",
                 "d": "How are you getting by?",
-                "s": ""
+                "s": "上周末过得怎么样，南希？ (How was last weekend, Nancy?)"
             },
             {
                 "id": "zh-1910",
                 "w": "打架",
                 "p": "dǎ jià",
                 "d": "to fight",
-                "s": ""
+                "s": "汤姆在街头打架中受了伤。 (Tom was wounded in a street fight.)"
             },
             {
                 "id": "zh-1911",
                 "w": "经典",
                 "p": "jīng diǎn",
                 "d": "the classics",
-                "s": ""
+                "s": "麦根沙士被视为一种经典的美式碳酸饮品。 (Root beer is considered a classic American carbonated soft drink.)"
             },
             {
                 "id": "zh-1912",
                 "w": "观察",
                 "p": "guān chá",
                 "d": "to observe; to watch; to survey",
-                "s": ""
+                "s": "观察鸟类是个很好的业余爱好。 (Bird watching is a nice hobby.)"
             },
             {
                 "id": "zh-1913",
                 "w": "女王",
                 "p": "nǚ wáng",
                 "d": "queen",
-                "s": ""
+                "s": "她给人一种女王的感觉。 (She makes people feel like queens.)"
             },
             {
                 "id": "zh-1914",
                 "w": "午餐",
                 "p": "wǔ cān",
                 "d": "lunch",
-                "s": ""
+                "s": "我们在两点钟吃了晚午餐。 (We had a late lunch at two.)"
             },
             {
                 "id": "zh-1915",
                 "w": "则",
                 "p": "zé",
                 "d": "(literary) (conjunction used to express contrast with a previous clause) but; then",
-                "s": ""
+                "s": "快一点，否则就要迟到了。 (Hurry up, or you'll be late.)"
             },
             {
                 "id": "zh-1916",
                 "w": "看法",
                 "p": "kàn fǎ",
                 "d": "way of looking at a thing",
-                "s": ""
+                "s": "我同意你对这问题的看法。 (I agree with you on this issue.)"
             },
             {
                 "id": "zh-1917",
                 "w": "喝醉",
                 "p": "hē zuì",
                 "d": "to get drunk",
-                "s": ""
+                "s": "所有人都喝醉了，除了我。 (Everyone was drunk, except me.)"
             },
             {
                 "id": "zh-1918",
                 "w": "也好",
                 "p": "yě hǎo",
                 "d": "that's fine",
-                "s": ""
+                "s": "我也好想去看喔。 (I'd like to see it as well.)"
             },
             {
                 "id": "zh-1919",
                 "w": "留言",
                 "p": "liú yán",
                 "d": "to leave a message; to leave one's comments",
-                "s": ""
+                "s": "请在下方留言。 (Please leave a comment below.)"
             },
             {
                 "id": "zh-1920",
                 "w": "床",
                 "p": "chuáng",
                 "d": "bed; couch (furniture that one can lie down on) (CL:張|张)",
-                "s": ""
+                "s": "汤姆发烧了，正躺在床上。 (Tom is in bed with a fever.)"
             },
             {
                 "id": "zh-1921",
                 "w": "项目",
                 "p": "xiàng mù",
                 "d": "item; project; (sports) event",
-                "s": ""
+                "s": "你的项目进展得怎么样？ (How's your project going?)"
             },
             {
                 "id": "zh-1922",
                 "w": "部门",
                 "p": "bù mén",
                 "d": "department",
-                "s": ""
+                "s": "萨米是从客服部门调来的。 (Sami was transferred from customer service.)"
             },
             {
                 "id": "zh-1923",
                 "w": "故意",
                 "p": "gù yì",
                 "d": "deliberately; on purpose",
-                "s": ""
+                "s": "汤姆故意弄碎了那扇窗户。 (Tom broke the window on purpose.)"
             },
             {
                 "id": "zh-1924",
                 "w": "山",
                 "p": "shān",
                 "d": "mountain; hill (CL:座)",
-                "s": ""
+                "s": "飞机飞过了富士山的上空。 (The plane flew over Mt. Fuji.)"
             },
             {
                 "id": "zh-1925",
                 "w": "尔",
                 "p": "ěr",
                 "d": "thus",
-                "s": ""
+                "s": "他这春天开始玩高尔夫球。 (He took up golf this spring.)"
             },
             {
                 "id": "zh-1926",
                 "w": "背后",
                 "p": "bèi hòu",
                 "d": "behind",
-                "s": ""
+                "s": "你们可以把车停到旅馆背后。 (You can park behind the hotel.)"
             },
             {
                 "id": "zh-1927",
                 "w": "付钱",
                 "p": "fù qián",
                 "d": "to pay",
-                "s": ""
+                "s": "为什么不直接付钱给汤姆？ (Why didn't you just pay Tom?)"
             },
             {
                 "id": "zh-1928",
                 "w": "狼",
                 "p": "láng",
                 "d": "wolf",
-                "s": ""
+                "s": "我在亚平宁山脉看到了狼。 (I saw wolves in the Appennines.)"
             },
             {
                 "id": "zh-1929",
                 "w": "警探",
                 "p": "jǐng tàn",
                 "d": "police detective",
-                "s": ""
+                "s": "一名警探到达了犯罪现场。 (A detective arrived upon the scene of the crime.)"
             },
             {
                 "id": "zh-1930",
                 "w": "指挥",
                 "p": "zhǐ huī",
                 "d": "to conduct",
-                "s": ""
+                "s": "狮子听从驯兽师的指挥。 (The lion followed the trainer's commands.)"
             },
             {
                 "id": "zh-1931",
                 "w": "头上",
                 "p": "tóu shàng",
                 "d": "overhead",
-                "s": ""
+                "s": "你少把一切都推到他头上。 (Don’t you try and blame this on him.)"
             },
             {
                 "id": "zh-1932",
                 "w": "内容",
                 "p": "nèi róng",
                 "d": "content; substance; details",
-                "s": ""
+                "s": "我为一本书写了内容提要。 (I made an abstract of a book.)"
             },
             {
                 "id": "zh-1933",
                 "w": "洗澡",
                 "p": "xǐ zǎo",
                 "d": "to bathe",
-                "s": ""
+                "s": "他很喜欢一边洗澡一边唱歌。 (He likes to sing in the bathtub.)"
             },
             {
                 "id": "zh-1934",
                 "w": "黑色",
                 "p": "hēi sè",
                 "d": "black",
-                "s": ""
+                "s": "我喜欢她这身黑色的装束。 (I like her black clothes.)"
             },
             {
                 "id": "zh-1935",
                 "w": "关掉",
                 "p": "guān diào",
                 "d": "to switch off; to shut off",
-                "s": ""
+                "s": "他知道怎么关掉引擎。 (He knows how to cut the engine.)"
             },
             {
                 "id": "zh-1936",
                 "w": "便宜",
                 "p": "biàn yí",
                 "d": "convenient",
-                "s": ""
+                "s": "九点以后打电话更便宜吗？ (Is it cheaper to call after 9:00?)"
             },
             {
                 "id": "zh-1937",
                 "w": "脱",
                 "p": "tuō",
                 "d": "to shed",
-                "s": ""
+                "s": "我怎么才能摆脱这种困境？ (How do I get out of this mess?)"
             },
             {
                 "id": "zh-1938",
                 "w": "大多数",
                 "p": "dà duō shù",
                 "d": "(great) majority",
-                "s": ""
+                "s": "大多数男生喜欢电脑游戏。 (Most boys like computer games.)"
             },
             {
                 "id": "zh-1939",
                 "w": "随着",
                 "p": "suí zhe",
                 "d": "along with",
-                "s": ""
+                "s": "她的美貌会随着时间而流逝。 (Her beauty will fade in time.)"
             },
             {
                 "id": "zh-1940",
                 "w": "行李",
                 "p": "xíng li",
                 "d": "luggage",
-                "s": ""
+                "s": "我可以看看你的行李条吗？ (May I see your claim tags?)"
             },
             {
                 "id": "zh-1941",
                 "w": "小组",
                 "p": "xiǎo zǔ",
                 "d": "group",
-                "s": ""
+                "s": "我想要加入乔的小组。 (I want to join Joe's group.)"
             },
             {
                 "id": "zh-1942",
                 "w": "区域",
                 "p": "qū yù",
                 "d": "area",
-                "s": ""
+                "s": "萨米十分了解这片区域。 (Sami knows the area very well.)"
             },
             {
                 "id": "zh-1943",
                 "w": "几次",
                 "p": "jǐ cì",
                 "d": "several times",
-                "s": ""
+                "s": "她参观了好几次这个房子。 (She visited the house several times.)"
             },
             {
                 "id": "zh-1944",
                 "w": "奴隶",
                 "p": "nú lì",
                 "d": "slave",
-                "s": ""
+                "s": "他对待我就像他的奴隶。 (He treats me like his slave.)"
             },
             {
                 "id": "zh-1945",
                 "w": "看不见",
                 "p": "kàn bu jiàn",
                 "d": "cannot see",
-                "s": ""
+                "s": "除了雾我什么都看不见。 (I could see nothing but fog.)"
             },
             {
                 "id": "zh-1946",
                 "w": "一人",
                 "p": "yī rén",
                 "d": "one person; a single person",
-                "s": ""
+                "s": "玛丽亚只身一人在森林中。 (Mary is alone in the forest.)"
             },
             {
                 "id": "zh-1947",
                 "w": "浪漫",
                 "p": "làng màn",
                 "d": "romantic",
-                "s": ""
+                "s": "其实我还是觉得好浪漫哦。 (Actually I find it quite romantic.)"
             },
             {
                 "id": "zh-1948",
                 "w": "独自",
                 "p": "dú zì",
                 "d": "alone",
-                "s": ""
+                "s": "我无法独自面对这种生活。 (I can't face this life alone.)"
             },
             {
                 "id": "zh-1949",
                 "w": "诶",
                 "p": "éi",
                 "d": "eh; huh (used to express surprise)",
-                "s": ""
+                "s": "诶！汤姆在哪里？ (Hey, where's Tom?)"
             },
             {
                 "id": "zh-1950",
                 "w": "工厂",
                 "p": "gōng chǎng",
                 "d": "factory",
-                "s": ""
+                "s": "水梨在这家工厂进行装罐。 (Nashi are tinned in this factory.)"
             },
             {
                 "id": "zh-1951",
                 "w": "起床",
                 "p": "qǐ chuáng",
                 "d": "to get out of bed; to get up",
-                "s": ""
+                "s": "麻烦你叫我起床吃早餐啦。 (Please wake me for breakfast.)"
             },
             {
                 "id": "zh-1952",
@@ -13677,154 +13677,154 @@
                 "w": "指控",
                 "p": "zhǐ kòng",
                 "d": "accusation",
-                "s": ""
+                "s": "他指控我偷了他的手表。 (He accused me of having stolen his watch.)"
             },
             {
                 "id": "zh-1954",
                 "w": "道理",
                 "p": "dào li",
                 "d": "reason",
-                "s": ""
+                "s": "在我看来，他是有道理的。 (In my opinion, he is correct.)"
             },
             {
                 "id": "zh-1955",
                 "w": "细节",
                 "p": "xì jié",
                 "d": "details; particulars",
-                "s": ""
+                "s": "我不必知道所有的细节。 (I don't have to know all the details.)"
             },
             {
                 "id": "zh-1956",
                 "w": "擦",
                 "p": "cā",
                 "d": "to rub; to scratch",
-                "s": ""
+                "s": "把架子上的灰尘擦一下。 (Clean the dust off the shelf.)"
             },
             {
                 "id": "zh-1957",
                 "w": "尖叫",
                 "p": "jiān jiào",
                 "d": "to screech; to shriek",
-                "s": ""
+                "s": "海伦害怕地发出尖叫。 (Helen screamed in fear.)"
             },
             {
                 "id": "zh-1958",
                 "w": "爵士",
                 "p": "jué shì",
                 "d": "knight",
-                "s": ""
+                "s": "汤姆是波士顿的爵士歌手。 (Tom is a jazz singer in Boston.)"
             },
             {
                 "id": "zh-1959",
                 "w": "圣诞节",
                 "p": "shèng dàn jié",
                 "d": "Christmas time",
-                "s": ""
+                "s": "圣诞节是一个特别的节日。 (Christmas is a special holiday.)"
             },
             {
                 "id": "zh-1960",
                 "w": "冠军",
                 "p": "guàn jūn",
                 "d": "champion",
-                "s": ""
+                "s": "他在这次比赛中获得了冠军。 (During this competition, he won first place.)"
             },
             {
                 "id": "zh-1961",
                 "w": "按照",
                 "p": "àn zhào",
                 "d": "according to; in accordance with; on the basis of",
-                "s": ""
+                "s": "你必须按照你的计划行事。 (You must go through with your plan.)"
             },
             {
                 "id": "zh-1962",
                 "w": "摆脱",
                 "p": "bǎi tuō",
                 "d": "to break away from",
-                "s": ""
+                "s": "我怎么才能摆脱这种困境？ (How do I get out of this mess?)"
             },
             {
                 "id": "zh-1963",
                 "w": "说出",
                 "p": "shuō chū",
                 "d": "to speak out",
-                "s": ""
+                "s": "我没把真实情况全说出来。 (I didn't tell the whole truth.)"
             },
             {
                 "id": "zh-1964",
                 "w": "毁灭",
                 "p": "huǐ miè",
                 "d": "to perish",
-                "s": ""
+                "s": "没有你的话，我的生命就毁灭了。 (Life's a ruin without you.)"
             },
             {
                 "id": "zh-1965",
                 "w": "态度",
                 "p": "tài du",
                 "d": "manner",
-                "s": ""
+                "s": "我不喜欢她说话的态度。 (I don't like the way she speaks.)"
             },
             {
                 "id": "zh-1966",
                 "w": "教育",
                 "p": "jiào yù",
                 "d": "to educate",
-                "s": ""
+                "s": "这是本有教育意义的书。 (This is an instructive book.)"
             },
             {
                 "id": "zh-1967",
                 "w": "阳光",
                 "p": "yáng guāng",
                 "d": "sunshine",
-                "s": ""
+                "s": "夏日的阳光照在我们身上。 (The summer sun glared down on us.)"
             },
             {
                 "id": "zh-1968",
                 "w": "一堆",
                 "p": "yī duī",
                 "d": "pile; heap; a lot of; a bunch of",
-                "s": ""
+                "s": "汤姆和一堆陌生人在一起。 (Tom was with a bunch of strangers.)"
             },
             {
                 "id": "zh-1969",
                 "w": "前往",
                 "p": "qián wǎng",
                 "d": "to leave for; to proceed towards; to go to",
-                "s": ""
+                "s": "他在1970年前往伦敦。 (He went to London in 1970.)"
             },
             {
                 "id": "zh-1970",
                 "w": "空",
                 "p": "kōng",
                 "d": "empty",
-                "s": ""
+                "s": "空气是生命中不可或缺的。 (Air is indispensable to life.)"
             },
             {
                 "id": "zh-1971",
                 "w": "档案",
                 "p": "dàng àn",
                 "d": "file; record; archive",
-                "s": ""
+                "s": "我给自己的邮件做了一份档案。 (I created an archive of my emails.)"
             },
             {
                 "id": "zh-1972",
                 "w": "醒",
                 "p": "xǐng",
                 "d": "to wake up",
-                "s": ""
+                "s": "当我醒来时，天正下著雪。 (I awoke to find it snowing.)"
             },
             {
                 "id": "zh-1973",
                 "w": "有所",
                 "p": "yǒu suǒ",
                 "d": "somewhat",
-                "s": ""
+                "s": "她很有可能会有所成就。 (It's likely that she'll succeed.)"
             },
             {
                 "id": "zh-1974",
                 "w": "树",
                 "p": "shù",
                 "d": "tree",
-                "s": ""
+                "s": "Sami 躲在树丛后面。 (Sami hid behind some bushes.)"
             },
             {
                 "id": "zh-1975",
@@ -13838,406 +13838,406 @@
                 "w": "广告",
                 "p": "guǎng gào",
                 "d": "to advertise",
-                "s": ""
+                "s": "他登广告出售他的房子。 (He advertised his house for sale.)"
             },
             {
                 "id": "zh-1977",
                 "w": "伙伴",
                 "p": "huǒ bàn",
                 "d": "companion; pal",
-                "s": ""
+                "s": "我恐怕不是个很好的伙伴。 (I'm afraid I wouldn't be very good company.)"
             },
             {
                 "id": "zh-1978",
                 "w": "半",
                 "p": "bàn",
                 "d": "half",
-                "s": ""
+                "s": "汤姆静静地坐了半个小时。 (Tom sat silently for 30 minutes.)"
             },
             {
                 "id": "zh-1979",
                 "w": "票",
                 "p": "piào",
                 "d": "ticket",
-                "s": ""
+                "s": "请问可以在哪里买到票呢？ (Where can I buy a ticket?)"
             },
             {
                 "id": "zh-1980",
                 "w": "娜",
                 "p": "nà",
                 "d": "(phonetic na)",
-                "s": ""
+                "s": "那边的那个女子是安娜。 (That woman over there is Ana.)"
             },
             {
                 "id": "zh-1981",
                 "w": "悲伤",
                 "p": "bēi shāng",
                 "d": "sad; sorrowful",
-                "s": ""
+                "s": "我们没注意到她的悲伤。 (We didn't notice her sorrow.)"
             },
             {
                 "id": "zh-1982",
                 "w": "既",
                 "p": "jì",
                 "d": "already",
-                "s": ""
+                "s": "既要马好，又要马不吃草。 (You can't have it both ways.)"
             },
             {
                 "id": "zh-1983",
                 "w": "罗斯",
                 "p": "luó sī",
                 "d": "(name) Ross; Rose; Roth",
-                "s": ""
+                "s": "她喜欢听俄罗斯流行音乐。 (She likes Russian pop music.)"
             },
             {
                 "id": "zh-1984",
                 "w": "摸",
                 "p": "mō",
                 "d": "to feel with the hand",
-                "s": ""
+                "s": "这条围巾摸起来又软又滑。 (This scarf feels soft and smooth.)"
             },
             {
                 "id": "zh-1985",
                 "w": "罢了",
                 "p": "bà le",
                 "d": "a modal particle indicating (that's all, only, nothing much)",
-                "s": ""
+                "s": "不过是一个文字游戏罢了。 (It's just a play on words.)"
             },
             {
                 "id": "zh-1986",
                 "w": "太空",
                 "p": "tài kōng",
                 "d": "outer space",
-                "s": ""
+                "s": "你怎么在太空里找到食物？ (How do you find food in outer space?)"
             },
             {
                 "id": "zh-1987",
                 "w": "混乱",
                 "p": "hùn luàn",
                 "d": "confused; chaotic; disorderly",
-                "s": ""
+                "s": "吉尔吉斯斯坦的情况十分混乱。 (The situation in Kyrgyzstan is a real mess.)"
             },
             {
                 "id": "zh-1988",
                 "w": "在场",
                 "p": "zài chǎng",
                 "d": "to be present; to be on the scene",
-                "s": ""
+                "s": "他有一个有力的不在场证据。 (He had a strong alibi.)"
             },
             {
                 "id": "zh-1989",
                 "w": "红",
                 "p": "hóng",
                 "d": "red",
-                "s": ""
+                "s": "他把他的自行车刷成红色。 (He painted his bicycle red.)"
             },
             {
                 "id": "zh-1990",
                 "w": "骂",
                 "p": "mà",
                 "d": "to scold",
-                "s": ""
+                "s": "汤姆被萨米骂了一顿。 (Tom got scolded by Sammy.)"
             },
             {
                 "id": "zh-1991",
                 "w": "误会",
                 "p": "wù huì",
                 "d": "to misunderstand",
-                "s": ""
+                "s": "千万别误会我的意思。 (Please don't misunderstand me.)"
             },
             {
                 "id": "zh-1992",
                 "w": "并非",
                 "p": "bìng fēi",
                 "d": "really isn't",
-                "s": ""
+                "s": "你的状况并非毫无希望。 (Your situation isn't hopeless.)"
             },
             {
                 "id": "zh-1993",
                 "w": "重",
                 "p": "zhòng",
                 "d": "heavy",
-                "s": ""
+                "s": "汤姆犯了一个严重的错误。 (Tom made a horrible mistake.)"
             },
             {
                 "id": "zh-1994",
                 "w": "媒体",
                 "p": "méi tǐ",
                 "d": "media, esp. news media",
-                "s": ""
+                "s": "媒体抹黑了他的名誉。 (The media stuck a shiv into his reputation.)"
             },
             {
                 "id": "zh-1995",
                 "w": "面包",
                 "p": "miàn bāo",
                 "d": "bread",
-                "s": ""
+                "s": "比起面包，我更喜欢米饭。 (I like rice more than bread.)"
             },
             {
                 "id": "zh-1996",
                 "w": "经济",
                 "p": "jīng jì",
                 "d": "economy",
-                "s": ""
+                "s": "我希望经济很快复苏起来。 (I hope the economy picks up soon.)"
             },
             {
                 "id": "zh-1997",
                 "w": "回头",
                 "p": "huí tóu",
                 "d": "to turn round; to turn one's head",
-                "s": ""
+                "s": "如果你想见她就回头。 (Turn back if you want to see her.)"
             },
             {
                 "id": "zh-1998",
                 "w": "大师",
                 "p": "dà shī",
                 "d": "great master",
-                "s": ""
+                "s": "Houdini是有名的脱身术大师。 (Houdini was a famous escapologist.)"
             },
             {
                 "id": "zh-1999",
                 "w": "现金",
                 "p": "xiàn jīn",
                 "d": "cash",
-                "s": ""
+                "s": "少了一个戒指和一点现金。 (A ring and some cash are missing.)"
             },
             {
                 "id": "zh-2000",
                 "w": "不久",
                 "p": "bù jiǔ",
                 "d": "not long (after)",
-                "s": ""
+                "s": "他在事故后不久就去世了。 (He died soon after the accident.)"
             },
             {
                 "id": "zh-2001",
                 "w": "数据",
                 "p": "shù jù",
                 "d": "data",
-                "s": ""
+                "s": "这是个非常好的数据库。 (This is a very good data base.)"
             },
             {
                 "id": "zh-2002",
                 "w": "熟悉",
                 "p": "shú xī",
                 "d": "to be familiar with; to know well",
-                "s": ""
+                "s": "我对你的脸很熟悉。 (Your face is familiar to me.)"
             },
             {
                 "id": "zh-2003",
                 "w": "正如",
                 "p": "zhèng rú",
                 "d": "just as",
-                "s": ""
+                "s": "正如我爱她，所以她爱我。 (As I love her, so she loved me.)"
             },
             {
                 "id": "zh-2004",
                 "w": "笑话",
                 "p": "xiào hua",
                 "d": "joke; jest",
-                "s": ""
+                "s": "你为什么要讲这个笑话呢？ (Why did you tell this joke?)"
             },
             {
                 "id": "zh-2005",
                 "w": "法",
                 "p": "fǎ",
                 "d": "law",
-                "s": ""
+                "s": "太热了所以我们无法工作。 (It's too hot for us to work.)"
             },
             {
                 "id": "zh-2006",
                 "w": "楼",
                 "p": "lóu",
                 "d": "house with more than 1 story",
-                "s": ""
+                "s": "我们听见了他下楼的声音。 (We heard him come downstairs.)"
             },
             {
                 "id": "zh-2007",
                 "w": "咯",
                 "p": "gē",
                 "d": "(phonetic)",
-                "s": ""
+                "s": "今晚见吧!一会儿见咯! (See you tonight! See you soon!)"
             },
             {
                 "id": "zh-2008",
                 "w": "市场",
                 "p": "shì chǎng",
                 "d": "marketplace; market; bazaar",
-                "s": ""
+                "s": "中国是一个新兴市场。 (China is an emerging market.)"
             },
             {
                 "id": "zh-2009",
                 "w": "损失",
                 "p": "sǔn shī",
                 "d": "loss",
-                "s": ""
+                "s": "问一下不会有什么损失。 (Nothing is lost for asking.)"
             },
             {
                 "id": "zh-2010",
                 "w": "岛",
                 "p": "dǎo",
                 "d": "island",
-                "s": ""
+                "s": "特朗普想把格陵兰岛买下来。 (Trump wants to buy Greenland.)"
             },
             {
                 "id": "zh-2011",
                 "w": "绝不",
                 "p": "jué bù",
                 "d": "in no way; not in the least; absolutely not",
-                "s": ""
+                "s": "汤姆绝不会忘记那样做。 (Tom never forgets to do that.)"
             },
             {
                 "id": "zh-2012",
                 "w": "审判",
                 "p": "shěn pàn",
                 "d": "a trial",
-                "s": ""
+                "s": "汤姆的审判将於 10 月 20 日继续进行。 (Tom's trial will continue on October 20th.)"
             },
             {
                 "id": "zh-2013",
                 "w": "华盛顿",
                 "p": "huá shèng dùn",
                 "d": "Washington (name)",
-                "s": ""
+                "s": "华盛顿的樱花现在开放。 (Cherry trees are now in bloom in Washington.)"
             },
             {
                 "id": "zh-2014",
                 "w": "掌握",
                 "p": "zhǎng wò",
                 "d": "to grasp (often fig.)",
-                "s": ""
+                "s": "他很快就掌握了俄语。 (He acquired Russian quickly.)"
             },
             {
                 "id": "zh-2015",
                 "w": "射击",
                 "p": "shè jī",
                 "d": "to shoot; to fire (a gun)",
-                "s": ""
+                "s": "停止射击。 (Stop shooting.)"
             },
             {
                 "id": "zh-2016",
                 "w": "在意",
                 "p": "zài yì",
                 "d": "to care about",
-                "s": ""
+                "s": "我不在意在六点钟起床。 (I don't mind getting up at six.)"
             },
             {
                 "id": "zh-2017",
                 "w": "达到",
                 "p": "dá dào",
                 "d": "to reach; to achieve; to attain",
-                "s": ""
+                "s": "他终于达到了自己的目标。 (Finally, he reached his goal.)"
             },
             {
                 "id": "zh-2018",
                 "w": "管理",
                 "p": "guǎn lǐ",
                 "d": "to supervise",
-                "s": ""
+                "s": "网站的管理者很忙。 (The website manager is very busy.)"
             },
             {
                 "id": "zh-2019",
                 "w": "洞",
                 "p": "dòng",
                 "d": "cave",
-                "s": ""
+                "s": "我们在地上掘了一个洞。 (We dug a hole in the ground.)"
             },
             {
                 "id": "zh-2020",
                 "w": "坏人",
                 "p": "huài rén",
                 "d": "bad person",
-                "s": ""
+                "s": "萨米不是一个坏人。 (Sami is not a bad person.)"
             },
             {
                 "id": "zh-2021",
                 "w": "骑",
                 "p": "qí",
                 "d": "to sit astride",
-                "s": ""
+                "s": "我骑了我的自行车去商店。 (I rode my bicycle to the store.)"
             },
             {
                 "id": "zh-2022",
                 "w": "李",
                 "p": "lǐ",
                 "d": "plum",
-                "s": ""
+                "s": "我可以看看你的行李条吗？ (May I see your claim tags?)"
             },
             {
                 "id": "zh-2023",
                 "w": "低",
                 "p": "dī",
                 "d": "low",
-                "s": ""
+                "s": "你可以把音量调低一点吗？ (Could you lower the volume?)"
             },
             {
                 "id": "zh-2024",
                 "w": "集中",
                 "p": "jí zhōng",
                 "d": "to concentrate",
-                "s": ""
+                "s": "这些点都是病毒集中的地方。 (All those dots are viral focuses.)"
             },
             {
                 "id": "zh-2025",
                 "w": "凯特",
                 "p": "kǎi tè",
                 "d": "Kate (name)",
-                "s": ""
+                "s": "凯特使她的家人离家出走。 (Kate made her family leave home.)"
             },
             {
                 "id": "zh-2026",
                 "w": "教会",
                 "p": "jiāo huì",
                 "d": "to show",
-                "s": ""
+                "s": "她的父母每周日都会去教会。 (Her parents go to church every Sunday.)"
             },
             {
                 "id": "zh-2027",
                 "w": "脑子",
                 "p": "nǎo zi",
                 "d": "brains",
-                "s": ""
+                "s": "他是一个脑子灵活的人。 (He is a quick-witted man.)"
             },
             {
                 "id": "zh-2028",
                 "w": "右",
                 "p": "yòu",
                 "d": "(bound form) right; right-hand side",
-                "s": ""
+                "s": "他六点左右要给我打电话。 (He will call for me about six.)"
             },
             {
                 "id": "zh-2029",
                 "w": "最高",
                 "p": "zuì gāo",
                 "d": "tallest",
-                "s": ""
+                "s": "他算是男孩子中最高的了。 (He is the tallest of all boys.)"
             },
             {
                 "id": "zh-2030",
                 "w": "想见",
                 "p": "xiǎng jiàn",
                 "d": "to infer",
-                "s": ""
+                "s": "有一个叫米勒的想见你。 (A Mr. Miller wants to see you.)"
             },
             {
                 "id": "zh-2031",
                 "w": "之外",
                 "p": "zhī wài",
                 "d": "outside",
-                "s": ""
+                "s": "汤姆除了去之外别无选择。 (Tom has no choice but to go.)"
             },
             {
                 "id": "zh-2032",
                 "w": "农场",
                 "p": "nóng chǎng",
                 "d": "farm",
-                "s": ""
+                "s": "乔治在一个大农场上工作。 (George works on a big farm.)"
             },
             {
                 "id": "zh-2033",
                 "w": "表情",
                 "p": "biǎo qíng",
                 "d": "(facial) expression",
-                "s": ""
+                "s": "他说话时，显然带着高兴的表情。 (He spoke with evident glee.)"
             },
             {
                 "id": "zh-2034",
@@ -14251,203 +14251,203 @@
                 "w": "用力",
                 "p": "yòng lì",
                 "d": "to exert oneself physically",
-                "s": ""
+                "s": "我把我自己用力拉了起来。 (I heaved myself up.)"
             },
             {
                 "id": "zh-2036",
                 "w": "规定",
                 "p": "guī dìng",
                 "d": "to stipulate; to specify; to prescribe; to fix (a price); to set (a quota)",
-                "s": ""
+                "s": "这个规定太不人性化了。 (This rule is so inhumane.)"
             },
             {
                 "id": "zh-2037",
                 "w": "轻",
                 "p": "qīng",
                 "d": "light",
-                "s": ""
+                "s": "他轻松地解决了这个问题。 (He easily solved the problem.)"
             },
             {
                 "id": "zh-2038",
                 "w": "坚强",
                 "p": "jiān qiáng",
                 "d": "staunch",
-                "s": ""
+                "s": "生活很困难，但我更坚强。 (Life is hard, but I am harder.)"
             },
             {
                 "id": "zh-2039",
                 "w": "海洋",
                 "p": "hǎi yáng",
                 "d": "ocean",
-                "s": ""
+                "s": "从海洋吹来的风感觉湿漉漉的。 (Winds from the sea are moist.)"
             },
             {
                 "id": "zh-2040",
                 "w": "椅子",
                 "p": "yǐ zi",
                 "d": "chair",
-                "s": ""
+                "s": "这把椅子是用塑胶制成的。 (This chair is made of plastic.)"
             },
             {
                 "id": "zh-2041",
                 "w": "搜查",
                 "p": "sōu chá",
                 "d": "to search",
-                "s": ""
+                "s": "汤姆搜查了衣柜里面。 (Tom searched inside the closet.)"
             },
             {
                 "id": "zh-2042",
                 "w": "抢劫",
                 "p": "qiǎng jié",
                 "d": "to rob",
-                "s": ""
+                "s": "把手举起来！这是抢劫。 (Hands up! This is a robbery.)"
             },
             {
                 "id": "zh-2043",
                 "w": "快要",
                 "p": "kuài yào",
                 "d": "nearly at the point of (doing sth); about to (do sth)",
-                "s": ""
+                "s": "我快要激动得说不出话来了。 (I'm getting choked up.)"
             },
             {
                 "id": "zh-2044",
                 "w": "退出",
                 "p": "tuì chū",
                 "d": "to withdraw",
-                "s": ""
+                "s": "你是退出的那一个。 (You're the one who quit.)"
             },
             {
                 "id": "zh-2045",
                 "w": "机器人",
                 "p": "jī qì rén",
                 "d": "robot; android",
-                "s": ""
+                "s": "这个机器人失控了。 (The robot went out of control.)"
             },
             {
                 "id": "zh-2046",
                 "w": "台",
                 "p": "tái",
                 "d": "(classical) you (in letters)",
-                "s": ""
+                "s": "汤姆买了台很高级的相机。 (Tom bought a very good camera.)"
             },
             {
                 "id": "zh-2047",
                 "w": "开火",
                 "p": "kāi huǒ",
                 "d": "to open fire; to start shooting",
-                "s": ""
+                "s": "开火！ (Open fire!)"
             },
             {
                 "id": "zh-2048",
                 "w": "作用",
                 "p": "zuò yòng",
                 "d": "to act on; to affect",
-                "s": ""
+                "s": "他的忠告没起到太大的作用。 (His advice didn't help much.)"
             },
             {
                 "id": "zh-2049",
                 "w": "王",
                 "p": "wáng",
                 "d": "king or monarch",
-                "s": ""
+                "s": "当我长大后，我想当国王。 (When I grow up, I want to be king.)"
             },
             {
                 "id": "zh-2050",
                 "w": "增加",
                 "p": "zēng jiā",
                 "d": "to raise; to increase",
-                "s": ""
+                "s": "我将增加画龙点睛的功能。 (I'll add the finishing touch.)"
             },
             {
                 "id": "zh-2051",
                 "w": "不太好",
                 "p": "bù tài hǎo",
                 "d": "not so good",
-                "s": ""
+                "s": "汤姆说法语说得不太好。 (Tom can't speak much French.)"
             },
             {
                 "id": "zh-2052",
                 "w": "一面",
                 "p": "yī miàn",
                 "d": "one side",
-                "s": ""
+                "s": "我能独当一面。 (I can manage on my own.)"
             },
             {
                 "id": "zh-2053",
                 "w": "思想",
                 "p": "sī xiǎng",
                 "d": "thought",
-                "s": ""
+                "s": "汤姆喜欢了你的思想。 (Tom loved your ideas.)"
             },
             {
                 "id": "zh-2054",
                 "w": "放过",
                 "p": "fàng guò",
                 "d": "to let off",
-                "s": ""
+                "s": "放过我吧，受不了了！ (Let me go. I can't take it anymore!)"
             },
             {
                 "id": "zh-2055",
                 "w": "亚",
                 "p": "yà",
                 "d": "second",
-                "s": ""
+                "s": "玛丽亚只身一人在森林中。 (Mary is alone in the forest.)"
             },
             {
                 "id": "zh-2056",
                 "w": "一声",
                 "p": "yī shēng",
                 "d": "first tone in Mandarin (high, level tone)",
-                "s": ""
+                "s": "突然，我听到了一声喊叫。 (All at once, I heard a cry.)"
             },
             {
                 "id": "zh-2057",
                 "w": "进攻",
                 "p": "jìn gōng",
                 "d": "to attack",
-                "s": ""
+                "s": "进攻是最好的防御。 (Attack is the best form of defense.)"
             },
             {
                 "id": "zh-2058",
                 "w": "代价",
                 "p": "dài jià",
                 "d": "price",
-                "s": ""
+                "s": "我必须不惜一切代价帮助她。 (I must help her at any cost.)"
             },
             {
                 "id": "zh-2059",
                 "w": "对手",
                 "p": "duì shǒu",
                 "d": "opponent",
-                "s": ""
+                "s": "他对自己的对手门很大度。 (He is generous to his opponents.)"
             },
             {
                 "id": "zh-2060",
                 "w": "伤口",
                 "p": "shāng kǒu",
                 "d": "wound",
-                "s": ""
+                "s": "玛丽处理了膝盖的伤口。 (Mary treated her wounded knee.)"
             },
             {
                 "id": "zh-2061",
                 "w": "格",
                 "p": "gé",
                 "d": "square; lattice; grid; frame",
-                "s": ""
+                "s": "Ken 已经去了英格兰。 (Ken already went to England.)"
             },
             {
                 "id": "zh-2062",
                 "w": "当心",
                 "p": "dāng xīn",
                 "d": "to take care",
-                "s": ""
+                "s": "在这附近当心小偷。 (Watch out for thieves around here.)"
             },
             {
                 "id": "zh-2063",
                 "w": "为止",
                 "p": "wéi zhǐ",
                 "d": "until",
-                "s": ""
+                "s": "在这儿等到他回来为止。 (Wait here till he comes back.)"
             },
             {
                 "id": "zh-2064",
@@ -14461,126 +14461,126 @@
                 "w": "举行",
                 "p": "jǔ xíng",
                 "d": "to hold (a meeting, ceremony etc)",
-                "s": ""
+                "s": "他们的婚礼将在明天举行。 (Their wedding will be tomorrow.)"
             },
             {
                 "id": "zh-2066",
                 "w": "语言",
                 "p": "yǔ yán",
                 "d": "language",
-                "s": ""
+                "s": "世界语是一门简单的语言。 (Esperanto is an easy language.)"
             },
             {
                 "id": "zh-2067",
                 "w": "俄罗斯",
                 "p": "é luó sī",
                 "d": "Russia",
-                "s": ""
+                "s": "她喜欢听俄罗斯流行音乐。 (She likes Russian pop music.)"
             },
             {
                 "id": "zh-2068",
                 "w": "白色",
                 "p": "bái sè",
                 "d": "white",
-                "s": ""
+                "s": "她把墙壁都涂成了白色。 (She painted the walls white.)"
             },
             {
                 "id": "zh-2069",
                 "w": "吐",
                 "p": "tǔ",
                 "d": "to spit",
-                "s": ""
+                "s": "你是否有𫫇心呕吐的感觉。 (Do you feel nauseous?)"
             },
             {
                 "id": "zh-2070",
                 "w": "国际",
                 "p": "guó jì",
                 "d": "international",
-                "s": ""
+                "s": "我对国际象棋不感兴趣。 (I'm not interested in chess.)"
             },
             {
                 "id": "zh-2071",
                 "w": "有效",
                 "p": "yǒu xiào",
                 "d": "effective",
-                "s": ""
+                "s": "这份工作录取仍然有效。 (The job offer still stands.)"
             },
             {
                 "id": "zh-2072",
                 "w": "盖",
                 "p": "gài",
                 "d": "lid",
-                "s": ""
+                "s": "他给自己盖了一栋新房子。 (He built a new house for himself.)"
             },
             {
                 "id": "zh-2073",
                 "w": "科学家",
                 "p": "kē xué jiā",
                 "d": "scientist",
-                "s": ""
+                "s": "我决心要成为一名科学家。 (I am determined to be a scientist.)"
             },
             {
                 "id": "zh-2074",
                 "w": "队伍",
                 "p": "duì wǔ",
                 "d": "troops; army",
-                "s": ""
+                "s": "我们的队伍输了所有的比赛。 (Our team lost all of its games.)"
             },
             {
                 "id": "zh-2075",
                 "w": "心中",
                 "p": "xīn zhōng",
                 "d": "central point",
-                "s": ""
+                "s": "这个想法仍然在我心中。 (The idea is still in my mind.)"
             },
             {
                 "id": "zh-2076",
                 "w": "钻石",
                 "p": "zuàn shí",
                 "d": "diamond",
-                "s": ""
+                "s": "这可能不是一颗真的钻石。 (This may not be a real diamond.)"
             },
             {
                 "id": "zh-2077",
                 "w": "忍受",
                 "p": "rěn shòu",
                 "d": "to bear; to endure",
-                "s": ""
+                "s": "我不能忍受就这样看著它。 (I couldn't stand looking at it.)"
             },
             {
                 "id": "zh-2078",
                 "w": "罗伯特",
                 "p": "luó bó tè",
                 "d": "Robert (name)",
-                "s": ""
+                "s": "我的名字是罗伯特·约翰逊。 (My name is Robert Johnson.)"
             },
             {
                 "id": "zh-2079",
                 "w": "作家",
                 "p": "zuò jiā",
                 "d": "author",
-                "s": ""
+                "s": "我认为他是位伟大的作家。 (I think he's a great writer.)"
             },
             {
                 "id": "zh-2080",
                 "w": "罪",
                 "p": "zuì",
                 "d": "guilt",
-                "s": ""
+                "s": "我把我的行为看成是犯罪。 (I viewed my action as a crime.)"
             },
             {
                 "id": "zh-2081",
                 "w": "出口",
                 "p": "chū kǒu",
                 "d": "an exit",
-                "s": ""
+                "s": "在出口处的收银台付款。 (Pay the cashier on the way out.)"
             },
             {
                 "id": "zh-2082",
                 "w": "欺骗",
                 "p": "qī piàn",
                 "d": "to deceive; to cheat",
-                "s": ""
+                "s": "一些人被甜言蜜语欺骗。 (Some are deceived by fair words.)"
             },
             {
                 "id": "zh-2083",
@@ -14594,224 +14594,224 @@
                 "w": "著名",
                 "p": "zhù míng",
                 "d": "famous",
-                "s": ""
+                "s": "著名的钢琴家露出了微笑。 (The famous pianist smiled.)"
             },
             {
                 "id": "zh-2085",
                 "w": "渴望",
                 "p": "kě wàng",
                 "d": "to thirst for",
-                "s": ""
+                "s": "世界所有人都渴望和平。 (All the world desires peace.)"
             },
             {
                 "id": "zh-2086",
                 "w": "愿望",
                 "p": "yuàn wàng",
                 "d": "desire",
-                "s": ""
+                "s": "这真是一个很善良的愿望。 (This is a really kind wish.)"
             },
             {
                 "id": "zh-2087",
                 "w": "投资",
                 "p": "tóu zī",
                 "d": "investment",
-                "s": ""
+                "s": "谁来为风险投资提供资金？ (Who will provide capital for the venture?)"
             },
             {
                 "id": "zh-2088",
                 "w": "情绪",
                 "p": "qíng xù",
                 "d": "mood",
-                "s": ""
+                "s": "梅纳德总是情绪波动很大。 (Mennad always has those mood swings.)"
             },
             {
                 "id": "zh-2089",
                 "w": "留给",
                 "p": "liú gěi",
                 "d": "to set aside for",
-                "s": ""
+                "s": "他把财产留给了他的儿子。 (He left his fortune to his son.)"
             },
             {
                 "id": "zh-2090",
                 "w": "挖",
                 "p": "wā",
                 "d": "to dig",
-                "s": ""
+                "s": "不要再挖你的鼻子了。 (Stop picking your nose.)"
             },
             {
                 "id": "zh-2091",
                 "w": "擅长",
                 "p": "shàn cháng",
                 "d": "to be good at; to be expert in",
-                "s": ""
+                "s": "我不太擅长打高尔夫球。 (I'm not very good at golf.)"
             },
             {
                 "id": "zh-2092",
                 "w": "信心",
                 "p": "xìn xīn",
                 "d": "confidence",
-                "s": ""
+                "s": "他很有信心赢这场比赛。 (He is sure of winning the game.)"
             },
             {
                 "id": "zh-2093",
                 "w": "葬礼",
                 "p": "zàng lǐ",
                 "d": "burial",
-                "s": ""
+                "s": "很多人都参加了他的葬礼。 (Many attended his funeral.)"
             },
             {
                 "id": "zh-2094",
                 "w": "总部",
                 "p": "zǒng bù",
                 "d": "headquarters",
-                "s": ""
+                "s": "我们的新总部位於东京。 (Our new head office is in Tokyo.)"
             },
             {
                 "id": "zh-2095",
                 "w": "事故",
                 "p": "shì gù",
                 "d": "accident",
-                "s": ""
+                "s": "迪克发生了一起交通事故。 (Dick had a traffic accident.)"
             },
             {
                 "id": "zh-2096",
                 "w": "玩具",
                 "p": "wán jù",
                 "d": "plaything",
-                "s": ""
+                "s": "所有的玩具都是木头做的。 (All of the toys are wooden.)"
             },
             {
                 "id": "zh-2097",
                 "w": "教训",
                 "p": "jiào xun",
                 "d": "to provide guidance; to lecture sb; to upbraid",
-                "s": ""
+                "s": "你必须从失败中吸取教训。 (You must learn from mistakes.)"
             },
             {
                 "id": "zh-2098",
                 "w": "镇",
                 "p": "zhèn",
                 "d": "to press down",
-                "s": ""
+                "s": "我在这座小镇感到很孤独。 (I feel lonely in this town.)"
             },
             {
                 "id": "zh-2099",
                 "w": "烟",
                 "p": "yān",
                 "d": "cigarette or pipe tobacco",
-                "s": ""
+                "s": "你介不介意我在这里吸烟？ (Do you mind my smoking here?)"
             },
             {
                 "id": "zh-2100",
                 "w": "海",
                 "p": "hǎi",
                 "d": "ocean",
-                "s": ""
+                "s": "我是海伦卡特赖特的女儿。 (I'm Helen Cartwright's daughter.)"
             },
             {
                 "id": "zh-2101",
                 "w": "锁",
                 "p": "suǒ",
                 "d": "to lock; to lock up",
-                "s": ""
+                "s": "你没有把你的车上锁吗？ (Didn't you lock up your car?)"
             },
             {
                 "id": "zh-2102",
                 "w": "抱怨",
                 "p": "bào yuàn",
                 "d": "to complain",
-                "s": ""
+                "s": "她什么都不做只会抱怨。 (She does nothing but complain.)"
             },
             {
                 "id": "zh-2103",
                 "w": "部",
                 "p": "bù",
                 "d": "ministry",
-                "s": ""
+                "s": "他买了部不错的相机给我。 (He bought me a nice camera.)"
             },
             {
                 "id": "zh-2104",
                 "w": "绑",
                 "p": "bǎng",
                 "d": "to tie",
-                "s": ""
+                "s": "她被绑起来并堵住了嘴。 (She was tied up and gagged.)"
             },
             {
                 "id": "zh-2105",
                 "w": "陌生人",
                 "p": "mò shēng rén",
                 "d": "stranger",
-                "s": ""
+                "s": "盯著陌生人看是不礼貌的。 (It is rude to stare at strangers.)"
             },
             {
                 "id": "zh-2106",
                 "w": "为此",
                 "p": "wèi cǐ",
                 "d": "for this reason",
-                "s": ""
+                "s": "他总有一天会为此感到愧疚的。 (He will be sorry for it some day.)"
             },
             {
                 "id": "zh-2107",
                 "w": "毛",
                 "p": "máo",
                 "d": "hair",
-                "s": ""
+                "s": "我妈妈为我做了一件毛衣。 (My mother made me a sweater.)"
             },
             {
                 "id": "zh-2108",
                 "w": "表达",
                 "p": "biǎo dá",
                 "d": "to express; to convey",
-                "s": ""
+                "s": "那种表达方式已经过时了。 (That expression is archaic.)"
             },
             {
                 "id": "zh-2109",
                 "w": "一套",
                 "p": "yī tào",
                 "d": "suit",
-                "s": ""
+                "s": "她穿上了一套漂亮的洋装。 (She put on a pretty dress.)"
             },
             {
                 "id": "zh-2110",
                 "w": "喊",
                 "p": "hǎn",
                 "d": "to yell",
-                "s": ""
+                "s": "突然，我听到了一声喊叫。 (All at once, I heard a cry.)"
             },
             {
                 "id": "zh-2111",
                 "w": "美妙",
                 "p": "měi miào",
                 "d": "beautiful",
-                "s": ""
+                "s": "多么美妙的旋律啊！ (What a beautiful melody!)"
             },
             {
                 "id": "zh-2112",
                 "w": "血液",
                 "p": "xuè yè",
                 "d": "blood",
-                "s": ""
+                "s": "我希望你做血液检查。 (I'd like you to have a blood test.)"
             },
             {
                 "id": "zh-2113",
                 "w": "期间",
                 "p": "qī jiān",
                 "d": "period of time",
-                "s": ""
+                "s": "他旅行期间，写了旅游日记。 (He kept a diary during the trip.)"
             },
             {
                 "id": "zh-2114",
                 "w": "度过",
                 "p": "dù guò",
                 "d": "to pass",
-                "s": ""
+                "s": "我们在户外度过了一整天。 (We spent the day in the open air.)"
             },
             {
                 "id": "zh-2115",
                 "w": "聊天",
                 "p": "liáo tiān",
                 "d": "to chat; to gossip",
-                "s": ""
+                "s": "萨米去和蕾拉聊天了。 (Sami went to talk to Layla.)"
             },
             {
                 "id": "zh-2116",
@@ -14825,140 +14825,140 @@
                 "w": "走路",
                 "p": "zǒu lù",
                 "d": "to walk; to go on foot",
-                "s": ""
+                "s": "他走路走得像只鸭子似的。 (He has the walk of a duck.)"
             },
             {
                 "id": "zh-2118",
                 "w": "妈咪",
                 "p": "mā mi",
                 "d": "mommy (loanword)",
-                "s": ""
+                "s": "妈咪，我可以去游泳吗？ (Mommy, may I go swimming?)"
             },
             {
                 "id": "zh-2119",
                 "w": "马丁",
                 "p": "mǎ dīng",
                 "d": "Martin (name)",
-                "s": ""
+                "s": "快点，马丁。我们已经迟到了！ (Hurry up, Martin. We're already late!)"
             },
             {
                 "id": "zh-2120",
                 "w": "需",
                 "p": "xū",
                 "d": "to require",
-                "s": ""
+                "s": "Tom需要让身体好起来。 (Tom needs to get into shape.)"
             },
             {
                 "id": "zh-2121",
                 "w": "左边",
                 "p": "zuǒ bian",
                 "d": "left",
-                "s": ""
+                "s": "他的母亲坐在他的左边。 (On his left sat his mother.)"
             },
             {
                 "id": "zh-2122",
                 "w": "有空",
                 "p": "yǒu kòng",
                 "d": "to have time (to do sth)",
-                "s": ""
+                "s": "没有空气生活是不可能的。 (To live without air is impossible.)"
             },
             {
                 "id": "zh-2123",
                 "w": "视频",
                 "p": "shì pín",
                 "d": "video",
-                "s": ""
+                "s": "汤姆为抖音录制视频。 (Tom makes TikTok videos.)"
             },
             {
                 "id": "zh-2124",
                 "w": "说法",
                 "p": "shuō fǎ",
                 "d": "to expound Buddhist teachings",
-                "s": ""
+                "s": "汤姆说法语说得不太好。 (Tom can't speak much French.)"
             },
             {
                 "id": "zh-2125",
                 "w": "左",
                 "p": "zuǒ",
                 "d": "left",
-                "s": ""
+                "s": "他六点左右要给我打电话。 (He will call for me about six.)"
             },
             {
                 "id": "zh-2126",
                 "w": "牛",
                 "p": "niú",
                 "d": "ox",
-                "s": ""
+                "s": "这只蜗牛将触角缩了回去。 (The snail draws in its feelers.)"
             },
             {
                 "id": "zh-2127",
                 "w": "保安",
                 "p": "bǎo ān",
                 "d": "to ensure public security",
-                "s": ""
+                "s": "请帮我叫宾馆保安。 (Please get me hotel security.)"
             },
             {
                 "id": "zh-2128",
                 "w": "千万",
                 "p": "qiān wàn",
                 "d": "ten million",
-                "s": ""
+                "s": "千万别误会我的意思。 (Please don't misunderstand me.)"
             },
             {
                 "id": "zh-2129",
                 "w": "即",
                 "p": "jí",
                 "d": "namely",
-                "s": ""
+                "s": "对聪明人说话，一语即足。 (A word is enough to a wise man.)"
             },
             {
                 "id": "zh-2130",
                 "w": "海滩",
                 "p": "hǎi tān",
                 "d": "beach",
-                "s": ""
+                "s": "这个海滩是冲浪者的天堂。 (This beach is a paradise for surfers.)"
             },
             {
                 "id": "zh-2131",
                 "w": "收集",
                 "p": "shōu jí",
                 "d": "to gather",
-                "s": ""
+                "s": "我的嗜好是收集旧玩具。 (My hobby is collecting old toys.)"
             },
             {
                 "id": "zh-2132",
                 "w": "背",
                 "p": "bèi",
                 "d": "the back of a body or object",
-                "s": ""
+                "s": "杰克逊从马背上掉了下来。 (Jackson fell from his horse.)"
             },
             {
                 "id": "zh-2133",
                 "w": "每年",
                 "p": "měi nián",
                 "d": "every year",
-                "s": ""
+                "s": "他们每年夏天都会去露营。 (They go camping every summer.)"
             },
             {
                 "id": "zh-2134",
                 "w": "类似",
                 "p": "lèi sì",
                 "d": "similar; analogous",
-                "s": ""
+                "s": "我也听过一个类似的故事。 (I also heard a similar story.)"
             },
             {
                 "id": "zh-2135",
                 "w": "相处",
                 "p": "xiāng chǔ",
                 "d": "to be in contact (with sb)",
-                "s": ""
+                "s": "汤姆是容易相处的类型。 (Tom is the easy-going sort.)"
             },
             {
                 "id": "zh-2136",
                 "w": "出门",
                 "p": "chū mén",
                 "d": "to go out",
-                "s": ""
+                "s": "别出门，外头下著雨呢。 (Don't go out, as it's raining.)"
             },
             {
                 "id": "zh-2137",
@@ -14972,98 +14972,98 @@
                 "w": "全国",
                 "p": "quán guó",
                 "d": "whole nation",
-                "s": ""
+                "s": "这是一件全国性的丑闻。 (It was a national scandal.)"
             },
             {
                 "id": "zh-2139",
                 "w": "皮肤",
                 "p": "pí fū",
                 "d": "skin",
-                "s": ""
+                "s": "我因为化妆品皮肤过敏了。 (I got a makeup-induced rash.)"
             },
             {
                 "id": "zh-2140",
                 "w": "暗",
                 "p": "àn",
                 "d": "dark",
-                "s": ""
+                "s": "不要一个人在黑暗中走。 (Don't walk alone after dark.)"
             },
             {
                 "id": "zh-2141",
                 "w": "起诉",
                 "p": "qǐ sù",
                 "d": "to sue",
-                "s": ""
+                "s": "他以绑架罪被起诉。 (He is accused of kidnapping.)"
             },
             {
                 "id": "zh-2142",
                 "w": "埋",
                 "p": "mái",
                 "d": "to bury",
-                "s": ""
+                "s": "他们被埋在一座大坟墓里。 (They were buried in a mass grave.)"
             },
             {
                 "id": "zh-2143",
                 "w": "杀掉",
                 "p": "shā diào",
                 "d": "to kill",
-                "s": ""
+                "s": "他们被迫杀掉他们的几匹马来吃。 (They were forced to kill and eat several of their horses.)"
             },
             {
                 "id": "zh-2144",
                 "w": "鞋子",
                 "p": "xié zi",
                 "d": "shoe",
-                "s": ""
+                "s": "口香糖粘到他的鞋子上了。 (Some gum stuck to his shoes.)"
             },
             {
                 "id": "zh-2145",
                 "w": "事物",
                 "p": "shì wù",
                 "d": "thing; object",
-                "s": ""
+                "s": "汤姆很喜欢尝试新事物。 (Tom likes trying out new things.)"
             },
             {
                 "id": "zh-2146",
                 "w": "死者",
                 "p": "sǐ zhě",
                 "d": "the dead",
-                "s": ""
+                "s": "我们为死者放弃了他。 (We gave him up for dead.)"
             },
             {
                 "id": "zh-2147",
                 "w": "设备",
                 "p": "shè bèi",
                 "d": "equipment; facilities; installations",
-                "s": ""
+                "s": "这房间的通风设备很好。 (This room has fine ventilation.)"
             },
             {
                 "id": "zh-2148",
                 "w": "不止",
                 "p": "bù zhǐ",
                 "d": "incessantly",
-                "s": ""
+                "s": "汤姆肯定不止三十了。 (Tom must be over thirty.)"
             },
             {
                 "id": "zh-2149",
                 "w": "拖",
                 "p": "tuō",
                 "d": "to drag",
-                "s": ""
+                "s": "不要拖延去找工作的事。 (Stop putting off finding a job.)"
             },
             {
                 "id": "zh-2150",
                 "w": "能否",
                 "p": "néng fǒu",
                 "d": "whether one can; whether it is possible",
-                "s": ""
+                "s": "我既不能确认也不能否定。 (I can neither confirm nor deny that.)"
             },
             {
                 "id": "zh-2151",
                 "w": "被捕",
                 "p": "bèi bǔ",
                 "d": "to be arrested",
-                "s": ""
+                "s": "我的兄弟被捕了而不是他。 (My brother was arrested, not him.)"
             },
             {
                 "id": "zh-2152",
@@ -15077,210 +15077,210 @@
                 "w": "分析",
                 "p": "fēn xī",
                 "d": "to analyze",
-                "s": ""
+                "s": "汤姆是一名金融分析师。 (Tom is a financial analyst.)"
             },
             {
                 "id": "zh-2154",
                 "w": "微笑",
                 "p": "wēi xiào",
                 "d": "smile",
-                "s": ""
+                "s": "她面带微笑向我们打招呼。 (She greeted us with a smile.)"
             },
             {
                 "id": "zh-2155",
                 "w": "建筑",
                 "p": "jiàn zhù",
                 "d": "to construct",
-                "s": ""
+                "s": "我将车停在建筑物后面。 (I parked behind the building.)"
             },
             {
                 "id": "zh-2156",
                 "w": "额",
                 "p": "é",
                 "d": "forehead",
-                "s": ""
+                "s": "帐单金额高达100美元。 (The bill amounted to 100 dollars.)"
             },
             {
                 "id": "zh-2157",
                 "w": "情人",
                 "p": "qíng rén",
                 "d": "lover",
-                "s": ""
+                "s": "我讨厌在情人节一人独处。 (I hate being alone on Valentine's Day.)"
             },
             {
                 "id": "zh-2158",
                 "w": "降落",
                 "p": "jiàng luò",
                 "d": "to descend",
-                "s": ""
+                "s": "汤姆的降落伞没有打开。 (Tom's parachute didn't open.)"
             },
             {
                 "id": "zh-2159",
                 "w": "年龄",
                 "p": "nián líng",
                 "d": "(a person's) age",
-                "s": ""
+                "s": "没有人能猜得准她的年龄。 (Nobody can guess her age.)"
             },
             {
                 "id": "zh-2160",
                 "w": "投降",
                 "p": "tóu xiáng",
                 "d": "to surrender",
-                "s": ""
+                "s": "如果汤姆不投降，就开枪 (If Tom doesn't surrender, shoot him.)"
             },
             {
                 "id": "zh-2161",
                 "w": "定",
                 "p": "dìng",
                 "d": "to fix; to set; to make definite",
-                "s": ""
+                "s": "我不确定汤姆能不能帮忙。 (I'm not sure Tom would help.)"
             },
             {
                 "id": "zh-2162",
                 "w": "交往",
                 "p": "jiāo wǎng",
                 "d": "to associate (with)",
-                "s": ""
+                "s": "莱拉开始和萨米约会交往了。 (Layla started dating Sami.)"
             },
             {
                 "id": "zh-2163",
                 "w": "转移",
                 "p": "zhuǎn yí",
                 "d": "to shift; to relocate; to transfer",
-                "s": ""
+                "s": "非洲是转移的大洲。 (Africa is a continent of migration.)"
             },
             {
                 "id": "zh-2164",
                 "w": "幻想",
                 "p": "huàn xiǎng",
                 "d": "to fantasize; to imagine",
-                "s": ""
+                "s": "这是一部科学幻想小说。 (This is a science fiction book.)"
             },
             {
                 "id": "zh-2165",
                 "w": "稳定",
                 "p": "wěn dìng",
                 "d": "steady",
-                "s": ""
+                "s": "这个病人正在稳定地康复中。 (The patient is steadily recovering.)"
             },
             {
                 "id": "zh-2166",
                 "w": "保险",
                 "p": "bǎo xiǎn",
                 "d": "insurance",
-                "s": ""
+                "s": "保险箱的钥匙在我这儿。 (I have the key to the safe.)"
             },
             {
                 "id": "zh-2167",
                 "w": "盒子",
                 "p": "hé zi",
                 "d": "box; case",
-                "s": ""
+                "s": "看看我会在盒子里找到什么? (What will I find in the box?)"
             },
             {
                 "id": "zh-2168",
                 "w": "间谍",
                 "p": "jiàn dié",
                 "d": "spy",
-                "s": ""
+                "s": "他相信我们中间有间谍。 (He believes there is a spy among us.)"
             },
             {
                 "id": "zh-2169",
                 "w": "出事",
                 "p": "chū shì",
                 "d": "to have an accident",
-                "s": ""
+                "s": "即使您的声音颤抖，也要说出事实。 (Speak the truth, even if your voice shakes.)"
             },
             {
                 "id": "zh-2170",
                 "w": "超",
                 "p": "chāo",
                 "d": "to exceed",
-                "s": ""
+                "s": "羽衣甘蓝被称为超级食物。 (Kale is called a superfood.)"
             },
             {
                 "id": "zh-2171",
                 "w": "威廉",
                 "p": "wēi lián",
                 "d": "William or Wilhelm (name)",
-                "s": ""
+                "s": "威廉是从巴西来的。他是巴西人。 (Guilherme is from Brazil. He is Brazilian.)"
             },
             {
                 "id": "zh-2172",
                 "w": "啰",
                 "p": "luō",
                 "d": "used in 囉唆|啰唆 and 囉嗦|啰嗦",
-                "s": ""
+                "s": "哈啰, Freeman先生在吗? (Hello, is Mr. Freeman there?)"
             },
             {
                 "id": "zh-2173",
                 "w": "烂",
                 "p": "làn",
                 "d": "soft; mushy",
-                "s": ""
+                "s": "她把他从烂泥中拽出来了。 (She pulled him out of the mud.)"
             },
             {
                 "id": "zh-2174",
                 "w": "作战",
                 "p": "zuò zhàn",
                 "d": "combat",
-                "s": ""
+                "s": "Ziri穿上了作战靴。 (Ziri wore combat boots.)"
             },
             {
                 "id": "zh-2175",
                 "w": "宁愿",
                 "p": "nìng yuàn",
                 "d": "would rather ... (than ...)",
-                "s": ""
+                "s": "我宁愿死也不要跟你结婚！ (I'd rather die than marry you!)"
             },
             {
                 "id": "zh-2176",
                 "w": "签名",
                 "p": "qiān míng",
                 "d": "to sign (one's name with a pen etc)",
-                "s": ""
+                "s": "请您在登记册上签名好吗？ (Could you please sign the register?)"
             },
             {
                 "id": "zh-2177",
                 "w": "局",
                 "p": "jú",
                 "d": "office",
-                "s": ""
+                "s": "你知道中央情报局的什么？ (What do you know about the CIA?)"
             },
             {
                 "id": "zh-2178",
                 "w": "嫉妒",
                 "p": "jí dù",
                 "d": "to be jealous of; to envy",
-                "s": ""
+                "s": "你的成功使我感到嫉妒。 (Your success excites my envy.)"
             },
             {
                 "id": "zh-2179",
                 "w": "芝加哥",
                 "p": "zhī jiā gē",
                 "d": "Chicago, USA",
-                "s": ""
+                "s": "我们中途在芝加哥停留。 (We had a stopover in Chicago.)"
             },
             {
                 "id": "zh-2180",
                 "w": "乖",
                 "p": "guāi",
                 "d": "(of a child) obedient, well-behaved",
-                "s": ""
+                "s": "你今天乖吗？ (Did you behave today?)"
             },
             {
                 "id": "zh-2181",
                 "w": "英尺",
                 "p": "yīng chǐ",
                 "d": "foot (unit of length equal to 0.3048 m)",
-                "s": ""
+                "s": "我六英尺高。 (I am six feet tall.)"
             },
             {
                 "id": "zh-2182",
                 "w": "演",
                 "p": "yǎn",
                 "d": "to perform (a play etc); to stage (a show)",
-                "s": ""
+                "s": "我要为你演奏一首奏鸣曲。 (I'll play a sonata for you.)"
             },
             {
                 "id": "zh-2183",
@@ -15294,154 +15294,154 @@
                 "w": "男子",
                 "p": "nán zǐ",
                 "d": "a man; a male",
-                "s": ""
+                "s": "我会使你成为一个男子汉。 (I will make a man out of you.)"
             },
             {
                 "id": "zh-2185",
                 "w": "当成",
                 "p": "dàng chéng",
                 "d": "to consider as; to take to be",
-                "s": ""
+                "s": "它可以被当成一把刀来用。 (It can be used as a knife.)"
             },
             {
                 "id": "zh-2186",
                 "w": "清醒",
                 "p": "qīng xǐng",
                 "d": "clear-headed",
-                "s": ""
+                "s": "我当时非常清醒。 (I was very sober at the time.)"
             },
             {
                 "id": "zh-2187",
                 "w": "外套",
                 "p": "wài tào",
                 "d": "outer garment; jacket; coat",
-                "s": ""
+                "s": "她穿了一件宽松的长外套。 (She wore a long, loose coat.)"
             },
             {
                 "id": "zh-2188",
                 "w": "出色",
                 "p": "chū sè",
                 "d": "remarkable; outstanding",
-                "s": ""
+                "s": "你们的演说很出色。 (Your speech was excellent.)"
             },
             {
                 "id": "zh-2189",
                 "w": "麦",
                 "p": "mài",
                 "d": "wheat; barley; oats",
-                "s": ""
+                "s": "我可以和麦克说话吗，谢谢。 (May I speak to Mike, please?)"
             },
             {
                 "id": "zh-2190",
                 "w": "儿童",
                 "p": "ér tóng",
                 "d": "child",
-                "s": ""
+                "s": "汤姆是玛丽的唯一个儿童。 (Tom was Mary's only child.)"
             },
             {
                 "id": "zh-2191",
                 "w": "双手",
                 "p": "shuāng shǒu",
                 "d": "both hands",
-                "s": ""
+                "s": "我们一定要保持双手清洁。 (We must keep our hands clean.)"
             },
             {
                 "id": "zh-2192",
                 "w": "失陪",
                 "p": "shī péi",
                 "d": "Excuse me, I must be leaving now.",
-                "s": ""
+                "s": "不好意思，我失陪一下。 (Will you excuse me for just a moment?)"
             },
             {
                 "id": "zh-2193",
                 "w": "稍微",
                 "p": "shāo wēi",
                 "d": "a little bit",
-                "s": ""
+                "s": "在这里稍微休息一下吧。 (Let's rest here.)"
             },
             {
                 "id": "zh-2194",
                 "w": "走进",
                 "p": "zǒu jìn",
                 "d": "to enter; to step into",
-                "s": ""
+                "s": "我自己走进了树林里。 (I walked in the woods by myself.)"
             },
             {
                 "id": "zh-2195",
                 "w": "尴尬",
                 "p": "gān gà",
                 "d": "awkward; embarrassed",
-                "s": ""
+                "s": "她说的话让我觉得很尴尬。 (I was embarrassed by what she said.)"
             },
             {
                 "id": "zh-2196",
                 "w": "工人",
                 "p": "gōng rén",
                 "d": "worker",
-                "s": ""
+                "s": "你真是个努力的工人。 (You're really a hard worker.)"
             },
             {
                 "id": "zh-2197",
                 "w": "懂得",
                 "p": "dǒng de",
                 "d": "to understand; to know; to comprehend",
-                "s": ""
+                "s": "鹦鹉懂得模仿人类说话。 (Parrots imitate human speech.)"
             },
             {
                 "id": "zh-2198",
                 "w": "支付",
                 "p": "zhī fù",
                 "d": "to pay (money)",
-                "s": ""
+                "s": "我可以用旅行支票支付吗？ (May I pay with a travelers' check?)"
             },
             {
                 "id": "zh-2199",
                 "w": "检察官",
                 "p": "jiǎn chá guān",
                 "d": "public prosecutor; public procurator (judicial officer whose job may involve both criminal investigation and public prosecution)",
-                "s": ""
+                "s": "检察官问了我一个引导性的问题。 (The prosecutor asked me a leading question.)"
             },
             {
                 "id": "zh-2200",
                 "w": "网络",
                 "p": "wǎng luò",
                 "d": "network",
-                "s": ""
+                "s": "这家酒店有免费的无线网络。 (This hotel has free Wi-Fi.)"
             },
             {
                 "id": "zh-2201",
                 "w": "牛奶",
                 "p": "niú nǎi",
                 "d": "cow's milk",
-                "s": ""
+                "s": "所有的牛奶都溢出去了。 (All of the milk was spilled.)"
             },
             {
                 "id": "zh-2202",
                 "w": "正要",
                 "p": "zhèng yào",
                 "d": "to be just about to",
-                "s": ""
+                "s": "Jane正要离开家。 (Jane was about to leave the house.)"
             },
             {
                 "id": "zh-2203",
                 "w": "反",
                 "p": "fǎn",
                 "d": "contrary",
-                "s": ""
+                "s": "如水流过鸭背般毫无反应。 (Like water off a duck's back.)"
             },
             {
                 "id": "zh-2204",
                 "w": "传说",
                 "p": "chuán shuō",
                 "d": "legend; folk tale",
-                "s": ""
+                "s": "传说彭祖是天帝的孙子。 (It is said that Peng Zu was the grandson of a celestial emperor.)"
             },
             {
                 "id": "zh-2205",
                 "w": "说好",
                 "p": "shuō hǎo",
                 "d": "to come to an agreement",
-                "s": ""
+                "s": "我不认为他会说好。 (I don't think he'll say yes.)"
             },
             {
                 "id": "zh-2206",
@@ -15455,35 +15455,35 @@
                 "w": "刚好",
                 "p": "gāng hǎo",
                 "d": "just",
-                "s": ""
+                "s": "上个礼拜天我刚好有空。 (I happened to be free last Sunday.)"
             },
             {
                 "id": "zh-2208",
                 "w": "长得",
                 "p": "zhǎng de",
                 "d": "to look (pretty, the same etc)",
-                "s": ""
+                "s": "你和你哥哥长得一模一样。 (You look just like your big brother.)"
             },
             {
                 "id": "zh-2209",
                 "w": "搭档",
                 "p": "dā dàng",
                 "d": "to cooperate",
-                "s": ""
+                "s": "羊屁股先生可没告诉我还有搭档。 (Mr. Goat Butt never told me there would be a partner.)"
             },
             {
                 "id": "zh-2210",
                 "w": "艰难",
                 "p": "jiān nán",
                 "d": "difficult; arduous; hard",
-                "s": ""
+                "s": "这个月我过得有点艰难。 (This month was kind of difficult.)"
             },
             {
                 "id": "zh-2211",
                 "w": "露西",
                 "p": "lù xī",
                 "d": "Lucy",
-                "s": ""
+                "s": "露西是一个漂亮的小女孩。 (Lucy is a pretty little girl.)"
             },
             {
                 "id": "zh-2212",
@@ -15497,896 +15497,896 @@
                 "w": "鞋",
                 "p": "xié",
                 "d": "shoe",
-                "s": ""
+                "s": "口香糖粘到他的鞋子上了。 (Some gum stuck to his shoes.)"
             },
             {
                 "id": "zh-2214",
                 "w": "感染",
                 "p": "gǎn rǎn",
                 "d": "to infect; infection",
-                "s": ""
+                "s": "汤姆的笑声很有感染力。 (Tom's laughter is infectious.)"
             },
             {
                 "id": "zh-2215",
                 "w": "经理",
                 "p": "jīng lǐ",
                 "d": "manager",
-                "s": ""
+                "s": "经理批准了我们的计划。 (The manager approved our plan.)"
             },
             {
                 "id": "zh-2216",
                 "w": "归",
                 "p": "guī",
                 "d": "to return",
-                "s": ""
+                "s": "不要把这个错误归咎於她。 (Don't blame the mistake on her.)"
             },
             {
                 "id": "zh-2217",
                 "w": "六",
                 "p": "liù",
                 "d": "six",
-                "s": ""
+                "s": "他六点左右要给我打电话。 (He will call for me about six.)"
             },
             {
                 "id": "zh-2218",
                 "w": "常常",
                 "p": "cháng cháng",
                 "d": "frequently; often",
-                "s": ""
+                "s": "汤姆常常一个人去买东西。 (Tom often goes shopping alone.)"
             },
             {
                 "id": "zh-2219",
                 "w": "驾驶",
                 "p": "jià shǐ",
                 "d": "to drive (vehicle); to pilot (ship, airplane etc)",
-                "s": ""
+                "s": "他经常驾驶他的父亲的车。 (He often drives his father's car.)"
             },
             {
                 "id": "zh-2220",
                 "w": "蛋",
                 "p": "dàn",
                 "d": "egg",
-                "s": ""
+                "s": "凉子有一张漂亮的小脸蛋。 (Ryoko has a cute little face.)"
             },
             {
                 "id": "zh-2221",
                 "w": "生日快乐",
                 "p": "shēng rì kuài lè",
                 "d": "Happy birthday",
-                "s": ""
+                "s": "汤姆唱起「生日快乐」来。 (Tom began to sing \"Happy Birthday.\")"
             },
             {
                 "id": "zh-2222",
                 "w": "黄",
                 "p": "huáng",
                 "d": "yellow",
-                "s": ""
+                "s": "汤姆穿著一件黄色的上衣。 (Tom is wearing a yellow shirt.)"
             },
             {
                 "id": "zh-2223",
                 "w": "直升机",
                 "p": "zhí shēng jī",
                 "d": "helicopter",
-                "s": ""
+                "s": "汤姆在直升机上向玛丽挥手。 (Tom waved at Mary from the helicopter.)"
             },
             {
                 "id": "zh-2224",
                 "w": "州",
                 "p": "zhōu",
                 "d": "prefecture",
-                "s": ""
+                "s": "杭州是一个美丽的城市。 (Hangzhou is a beautiful city.)"
             },
             {
                 "id": "zh-2225",
                 "w": "圣",
                 "p": "shèng",
                 "d": "(bound form) peerless (in wisdom, moral virtue, skill etc)",
-                "s": ""
+                "s": "圣诞节是一个特别的节日。 (Christmas is a special holiday.)"
             },
             {
                 "id": "zh-2226",
                 "w": "砍",
                 "p": "kǎn",
                 "d": "to chop",
-                "s": ""
+                "s": "我从树上砍下了一根树枝。 (I cut a branch from the tree.)"
             },
             {
                 "id": "zh-2227",
                 "w": "药物",
                 "p": "yào wù",
                 "d": "medicaments",
-                "s": ""
+                "s": "没有药物能够治疗这种疾病。 (No medicine can cure this disease.)"
             },
             {
                 "id": "zh-2228",
                 "w": "沙漠",
                 "p": "shā mò",
                 "d": "desert",
-                "s": ""
+                "s": "撒哈拉沙漠广袤无垠。 (The Sahara is a vast desert.)"
             },
             {
                 "id": "zh-2229",
                 "w": "完蛋",
                 "p": "wán dàn",
                 "d": "(coll.) to be done for",
-                "s": ""
+                "s": "完蛋了，钱花得太多了。 (Crap, I spent too much money.)"
             },
             {
                 "id": "zh-2230",
                 "w": "引擎",
                 "p": "yǐn qíng",
                 "d": "engine (loanword)",
-                "s": ""
+                "s": "这名技师组装了这台引擎。 (The mechanic assembled the engine.)"
             },
             {
                 "id": "zh-2231",
                 "w": "口袋",
                 "p": "kǒu dài",
                 "d": "pocket",
-                "s": ""
+                "s": "她把钥匙放在她的口袋里。 (She put the key in her pocket.)"
             },
             {
                 "id": "zh-2232",
                 "w": "道路",
                 "p": "dào lù",
                 "d": "road",
-                "s": ""
+                "s": "她告诉我们道路被封闭了。 (She told us the road was closed.)"
             },
             {
                 "id": "zh-2233",
                 "w": "公开",
                 "p": "gōng kāi",
                 "d": "open; overt; public",
-                "s": ""
+                "s": "秘密的礼物公开的奖励。 (Secret gifts are openly rewarded.)"
             },
             {
                 "id": "zh-2234",
                 "w": "文化",
                 "p": "wén huà",
                 "d": "culture",
-                "s": ""
+                "s": "他们有他们自己的文化。 (They had a culture of their own.)"
             },
             {
                 "id": "zh-2235",
                 "w": "慰",
                 "p": "wèi",
                 "d": "to comfort",
-                "s": ""
+                "s": "那些花儿安慰了她。 (The flowers cheered her up.)"
             },
             {
                 "id": "zh-2236",
                 "w": "至于",
                 "p": "zhì yú",
                 "d": "as for",
-                "s": ""
+                "s": "至于该文件，我在保管。 (As for the papers, I have custody of them.)"
             },
             {
                 "id": "zh-2237",
                 "w": "黄金",
                 "p": "huáng jīn",
                 "d": "gold",
-                "s": ""
+                "s": "哪个比较重，铅还是黄金？ (Which is heavier, lead or gold?)"
             },
             {
                 "id": "zh-2238",
                 "w": "耐心",
                 "p": "nài xīn",
                 "d": "to be patient",
-                "s": ""
+                "s": "他的耐心已经到了极限。 (His patience is worn out.)"
             },
             {
                 "id": "zh-2239",
                 "w": "解雇",
                 "p": "jiě gù",
                 "d": "to fire",
-                "s": ""
+                "s": "汤姆要被解雇了，不是吗？ (Tom is going to be fired, isn't he?)"
             },
             {
                 "id": "zh-2240",
                 "w": "此事",
                 "p": "cǐ shì",
                 "d": "this matter",
-                "s": ""
+                "s": "我会重新考虑此事。 (I'll reconsider the matter.)"
             },
             {
                 "id": "zh-2241",
                 "w": "描述",
                 "p": "miáo shù",
                 "d": "to describe",
-                "s": ""
+                "s": "他详细地描述了事故状况。 (He described the incident in detail.)"
             },
             {
                 "id": "zh-2242",
                 "w": "假设",
                 "p": "jiǎ shè",
                 "d": "to suppose",
-                "s": ""
+                "s": "让我们假设她在这里。 (Let us suppose she is here.)"
             },
             {
                 "id": "zh-2243",
                 "w": "退休",
                 "p": "tuì xiū",
                 "d": "to retire (from the workforce); to go into retirement",
-                "s": ""
+                "s": "汤姆於 65 岁时退休。 (Tom retired at the age of 65.)"
             },
             {
                 "id": "zh-2244",
                 "w": "掩护",
                 "p": "yǎn hù",
                 "d": "to screen",
-                "s": ""
+                "s": "汤姆，你能帮我掩护吗？ (Tom, will you cover for me?)"
             },
             {
                 "id": "zh-2245",
                 "w": "神圣",
                 "p": "shén shèng",
                 "d": "divine",
-                "s": ""
+                "s": "每天都是神圣的一天。 (Every day is a sacred day.)"
             },
             {
                 "id": "zh-2246",
                 "w": "地下",
                 "p": "dì xià",
                 "d": "underground; subterranean",
-                "s": ""
+                "s": "雨断断续续地下了一整天。 (It rained on and off all day.)"
             },
             {
                 "id": "zh-2247",
                 "w": "稍",
                 "p": "shāo",
                 "d": "somewhat",
-                "s": ""
+                "s": "他要求她稍后打电话给他。 (He asked her to call him later.)"
             },
             {
                 "id": "zh-2248",
                 "w": "打击",
                 "p": "dǎ jī",
                 "d": "to hit",
-                "s": ""
+                "s": "这对他来说是致命的打击。 (To him this is a deadly blow.)"
             },
             {
                 "id": "zh-2249",
                 "w": "咦",
                 "p": "yí",
                 "d": "expression of surprise",
-                "s": ""
+                "s": "咦，押韵喔！ (Hey, that rhymes!)"
             },
             {
                 "id": "zh-2250",
                 "w": "内部",
                 "p": "nèi bù",
                 "d": "interior",
-                "s": ""
+                "s": "我们还应该看下这个房子的内部。 (We should look inside this house as well.)"
             },
             {
                 "id": "zh-2251",
                 "w": "到时候",
                 "p": "dào shí hòu",
                 "d": "when the moment comes",
-                "s": ""
+                "s": "到时候我们再考虑吧。 (We'll think about it in due time.)"
             },
             {
                 "id": "zh-2252",
                 "w": "指望",
                 "p": "zhǐ wàng",
                 "d": "to count on; to hope for",
-                "s": ""
+                "s": "你不能指望他们的帮助。 (You can't count on their help.)"
             },
             {
                 "id": "zh-2253",
                 "w": "联盟",
                 "p": "lián méng",
                 "d": "alliance",
-                "s": ""
+                "s": "汤姆不在你的联盟里。 (Tom is out of your league.)"
             },
             {
                 "id": "zh-2254",
                 "w": "装置",
                 "p": "zhuāng zhì",
                 "d": "to install",
-                "s": ""
+                "s": "这个装置是用开关启动的。 (This device is actuated by a switch.)"
             },
             {
                 "id": "zh-2255",
                 "w": "踩",
                 "p": "cǎi",
                 "d": "to step on",
-                "s": ""
+                "s": "我踩到了什么奇怪的东西了。 (I stepped on something weird.)"
             },
             {
                 "id": "zh-2256",
                 "w": "爹",
                 "p": "diē",
                 "d": "dad",
-                "s": ""
+                "s": "爹地喜欢讲有趣的事。 (Daddy loves to say funny things.)"
             },
             {
                 "id": "zh-2257",
                 "w": "搞错",
                 "p": "gǎo cuò",
                 "d": "mistake",
-                "s": ""
+                "s": "他老是把我和我姐姐搞错。 (He always mistakes me for my sister.)"
             },
             {
                 "id": "zh-2258",
                 "w": "挑",
                 "p": "tiāo",
                 "d": "to carry on a shoulder pole",
-                "s": ""
+                "s": "我不挑剔，我什么都吃。 (I'm not picky. I'll eat anything.)"
             },
             {
                 "id": "zh-2259",
                 "w": "希特勒",
                 "p": "xī tè lè",
                 "d": "Adolf Hitler (1889-1945)",
-                "s": ""
+                "s": "希特勒在一九三三年取得了权力。 (Hitler assumed power in 1933.)"
             },
             {
                 "id": "zh-2260",
                 "w": "程度",
                 "p": "chéng dù",
                 "d": "degree; level; extent",
-                "s": ""
+                "s": "你喜欢棒球到甚么程度？ (How much do you like baseball?)"
             },
             {
                 "id": "zh-2261",
                 "w": "用于",
                 "p": "yòng yú",
                 "d": "to use in; to use on; to use for",
-                "s": ""
+                "s": "当我是个孩子的时候，我会把大部分时间都用于室内阅读。 (When I was a child, I spent most of my time indoors reading.)"
             },
             {
                 "id": "zh-2262",
                 "w": "尊敬",
                 "p": "zūn jìng",
                 "d": "to respect; to revere; to esteem",
-                "s": ""
+                "s": "她十分尊敬她的老师。 (She respects her teacher a lot.)"
             },
             {
                 "id": "zh-2263",
                 "w": "保重",
                 "p": "bǎo zhòng",
                 "d": "to take care of oneself",
-                "s": ""
+                "s": "请多保重身体。 (Please take care of your body.)"
             },
             {
                 "id": "zh-2264",
                 "w": "革命",
                 "p": "gé mìng",
                 "d": "to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning)",
-                "s": ""
+                "s": "科技领域爆发了一场革命。 (A revolution has occurred in technology.)"
             },
             {
                 "id": "zh-2265",
                 "w": "员工",
                 "p": "yuán gōng",
                 "d": "staff; personnel; employee",
-                "s": ""
+                "s": "齐里去了员工专用洗手间。 (Ziri went to a staff-only toilet.)"
             },
             {
                 "id": "zh-2266",
                 "w": "紧",
                 "p": "jǐn",
                 "d": "tight",
-                "s": ""
+                "s": "我紧张得说不出话来了。 (I've got a frog in my throat.)"
             },
             {
                 "id": "zh-2267",
                 "w": "搜索",
                 "p": "sōu suǒ",
                 "d": "to search (a place, a database, online etc); to search for (sth)",
-                "s": ""
+                "s": "我们分散开来并在树林中展开搜索。 (We spread out and began to search through the woods.)"
             },
             {
                 "id": "zh-2268",
                 "w": "支援",
                 "p": "zhī yuán",
                 "d": "to provide assistance",
-                "s": ""
+                "s": "当然我接受了他的支援请求。 (Of course I accepted his offer of support.)"
             },
             {
                 "id": "zh-2269",
                 "w": "德国人",
                 "p": "dé guó rén",
                 "d": "German person or people",
-                "s": ""
+                "s": "我认识那位长胡子德国人。 (I know that German with a long beard.)"
             },
             {
                 "id": "zh-2270",
                 "w": "时期",
                 "p": "shí qī",
                 "d": "period",
-                "s": ""
+                "s": "这个宗教当时处于全盛时期。 (The religion was in its glory in those days.)"
             },
             {
                 "id": "zh-2271",
                 "w": "莫",
                 "p": "mò",
                 "d": "do not",
-                "s": ""
+                "s": "你喜欢莫扎特的音乐吗？ (Do you like Mozart's music?)"
             },
             {
                 "id": "zh-2272",
                 "w": "风险",
                 "p": "fēng xiǎn",
                 "d": "risk; hazard",
-                "s": ""
+                "s": "我知道你冒了多大的风险。 (I know what you've risked.)"
             },
             {
                 "id": "zh-2273",
                 "w": "心理",
                 "p": "xīn lǐ",
                 "d": "psychology; mentality",
-                "s": ""
+                "s": "他主要是心理的问题。 (His trouble was chiefly mental.)"
             },
             {
                 "id": "zh-2274",
                 "w": "返回",
                 "p": "fǎn huí",
                 "d": "to return to",
-                "s": ""
+                "s": "一个小时后，她返回了。 (She came back an hour later.)"
             },
             {
                 "id": "zh-2275",
                 "w": "亚当",
                 "p": "yà dāng",
                 "d": "Adam",
-                "s": ""
+                "s": "亚当为什么吃了禁果呢？ (Why did Adam eat the forbidden fruit?)"
             },
             {
                 "id": "zh-2276",
                 "w": "制服",
                 "p": "zhì fú",
                 "d": "to subdue",
-                "s": ""
+                "s": "我们在学校穿制服。 (We wear a uniform at school.)"
             },
             {
                 "id": "zh-2277",
                 "w": "爱人",
                 "p": "ài ren",
                 "d": "spouse (PRC)",
-                "s": ""
+                "s": "我的爱人很会做饭。 (My lover is great at cooking.)"
             },
             {
                 "id": "zh-2278",
                 "w": "运行",
                 "p": "yùn xíng",
                 "d": "(of celestial bodies etc) to move along one's course",
-                "s": ""
+                "s": "许多卫星绕著土星运行。 (Many moons orbit around Saturn.)"
             },
             {
                 "id": "zh-2279",
                 "w": "西班牙",
                 "p": "xī bān yá",
                 "d": "Spain",
-                "s": ""
+                "s": "你觉得西班牙料理怎么样? (How about some Spanish food?)"
             },
             {
                 "id": "zh-2280",
                 "w": "拿出",
                 "p": "ná chū",
                 "d": "to take out",
-                "s": ""
+                "s": "把橙子从冰箱里拿出来。 (Take the oranges out of the fridge.)"
             },
             {
                 "id": "zh-2281",
                 "w": "礼拜",
                 "p": "lǐ bài",
                 "d": "to attend a religious service",
-                "s": ""
+                "s": "下礼拜我要去拜访她一下。 (I'm going to visit him next week.)"
             },
             {
                 "id": "zh-2282",
                 "w": "糖",
                 "p": "táng",
                 "d": "sugar",
-                "s": ""
+                "s": "口香糖粘到他的鞋子上了。 (Some gum stuck to his shoes.)"
             },
             {
                 "id": "zh-2283",
                 "w": "丢下",
                 "p": "diū xià",
                 "d": "to abandon",
-                "s": ""
+                "s": "她决定要丢下她的工作。 (She decided to chuck her job in.)"
             },
             {
                 "id": "zh-2284",
                 "w": "之内",
                 "p": "zhī nèi",
                 "d": "inside; within",
-                "s": ""
+                "s": "它可以在一天之内完成。 (It can be done in a day.)"
             },
             {
                 "id": "zh-2285",
                 "w": "顿",
                 "p": "dùn",
                 "d": "to stop",
-                "s": ""
+                "s": "汤姆在波士顿找了份工作。 (Tom found a job in Boston.)"
             },
             {
                 "id": "zh-2286",
                 "w": "关门",
                 "p": "guān mén",
                 "d": "to close a door",
-                "s": ""
+                "s": "图书馆甚么时候关门？ (When does the library close?)"
             },
             {
                 "id": "zh-2287",
                 "w": "承受",
                 "p": "chéng shòu",
                 "d": "to bear",
-                "s": ""
+                "s": "我不能再承受这种痛苦。 (I can't take this pain anymore.)"
             },
             {
                 "id": "zh-2288",
                 "w": "仪式",
                 "p": "yí shì",
                 "d": "ceremony",
-                "s": ""
+                "s": "那是一个十分传统的仪式。 (It was a very traditional ceremony.)"
             },
             {
                 "id": "zh-2289",
                 "w": "少校",
                 "p": "shào xiào",
                 "d": "junior ranking officer in Chinese army",
-                "s": ""
+                "s": "我的哥哥在军队里.他刚刚被提升为少校. (My brother’s in the army. He was just promoted to the rank of major.)"
             },
             {
                 "id": "zh-2290",
                 "w": "议员",
                 "p": "yì yuán",
                 "d": "member (of a legislative body)",
-                "s": ""
+                "s": "汤姆在竞选国会议员。 (Tom is running for Congress.)"
             },
             {
                 "id": "zh-2291",
                 "w": "独立",
                 "p": "dú lì",
                 "d": "independent",
-                "s": ""
+                "s": "他是个独立思考者。 (He is an independent thinker.)"
             },
             {
                 "id": "zh-2292",
                 "w": "灯",
                 "p": "dēng",
                 "d": "lamp",
-                "s": ""
+                "s": "你为什么把灯打开了呀？ (Why did you turn on the light?)"
             },
             {
                 "id": "zh-2293",
                 "w": "楼下",
                 "p": "lóu xià",
                 "d": "downstairs",
-                "s": ""
+                "s": "汤姆把他的大衣忘在楼下了。 (Tom left his coat downstairs.)"
             },
             {
                 "id": "zh-2294",
                 "w": "裙子",
                 "p": "qún zi",
                 "d": "skirt",
-                "s": ""
+                "s": "她穿着一条很难看的裙子。 (She was wearing an ugly dress.)"
             },
             {
                 "id": "zh-2295",
                 "w": "领导",
                 "p": "lǐng dǎo",
                 "d": "lead",
-                "s": ""
+                "s": "我们需要称职的领导人。 (We need competent leaders.)"
             },
             {
                 "id": "zh-2296",
                 "w": "非洲",
                 "p": "fēi zhōu",
                 "d": "Africa",
-                "s": ""
+                "s": "非洲是一块非常大的大陆。 (Africa is a very large continent.)"
             },
             {
                 "id": "zh-2297",
                 "w": "基本",
                 "p": "jī běn",
                 "d": "basic",
-                "s": ""
+                "s": "我认为你的基本理论是错的。 (I think your basic theory is wrong.)"
             },
             {
                 "id": "zh-2298",
                 "w": "话题",
                 "p": "huà tí",
                 "d": "subject (of a talk or conversation)",
-                "s": ""
+                "s": "这是值得探讨的话题。 (The topic is worth discussing.)"
             },
             {
                 "id": "zh-2299",
                 "w": "煮",
                 "p": "zhǔ",
                 "d": "to cook",
-                "s": ""
+                "s": "她为我们所有的人煮咖啡。 (She made coffee for all of us.)"
             },
             {
                 "id": "zh-2300",
                 "w": "女友",
                 "p": "nǚ yǒu",
                 "d": "girlfriend",
-                "s": ""
+                "s": "Tom有个在波士顿的女友。 (Tom has a girlfriend in Boston.)"
             },
             {
                 "id": "zh-2301",
                 "w": "惊人",
                 "p": "jīng rén",
                 "d": "astonishing",
-                "s": ""
+                "s": "我发现了一件惊人的事！ (I've found something amazing!)"
             },
             {
                 "id": "zh-2302",
                 "w": "风格",
                 "p": "fēng gé",
                 "d": "style",
-                "s": ""
+                "s": "海明威的写作风格很差劲。 (Hemingway had a poor writing style.)"
             },
             {
                 "id": "zh-2303",
                 "w": "发明",
                 "p": "fā míng",
                 "d": "to invent",
-                "s": ""
+                "s": "卡拉 OK 是谁发明的？ (Who invented karaoke?)"
             },
             {
                 "id": "zh-2304",
                 "w": "冒",
                 "p": "mào",
                 "d": "to emit; to give off; to send out (or up, forth)",
-                "s": ""
+                "s": "我知道你冒了多大的风险。 (I know what you've risked.)"
             },
             {
                 "id": "zh-2305",
                 "w": "也就是说",
                 "p": "yě jiù shì shuō",
                 "d": "in other words",
-                "s": ""
+                "s": "也就是说，他根本不想做。 (In other words, he doesn't want to do it.)"
             },
             {
                 "id": "zh-2306",
                 "w": "哈哈",
                 "p": "hā hā",
                 "d": "(onom.) laughing out loud",
-                "s": ""
+                "s": "他们都哈哈大笑起来。 (They all burst out laughing.)"
             },
             {
                 "id": "zh-2307",
                 "w": "一路",
                 "p": "yī lù",
                 "d": "the whole journey",
-                "s": ""
+                "s": "汤姆一路哭着回了家。 (Tom cried all the way home.)"
             },
             {
                 "id": "zh-2308",
                 "w": "苏联",
                 "p": "sū lián",
                 "d": "Soviet Union, 1922-1991",
-                "s": ""
+                "s": "苏联学家研究什么呢？ (What does a Sovietologist study?)"
             },
             {
                 "id": "zh-2309",
                 "w": "迷人",
                 "p": "mí rén",
                 "d": "fascinating",
-                "s": ""
+                "s": "今天你看起来很迷人啊。 (You look very charming today.)"
             },
             {
                 "id": "zh-2310",
                 "w": "报",
                 "p": "bào",
                 "d": "to report; to inform; to announce",
-                "s": ""
+                "s": "请你把这份报告拿去影印。 (Make a copy of this report.)"
             },
             {
                 "id": "zh-2311",
                 "w": "师傅",
                 "p": "shī fu",
                 "d": "master",
-                "s": ""
+                "s": "宝石师傅在胸针上镶了一枚大珍珠。 (The jeweler mounted a big pearl in the brooch.)"
             },
             {
                 "id": "zh-2312",
                 "w": "有着",
                 "p": "yǒu zhe",
                 "d": "to have",
-                "s": ""
+                "s": "蒙娜丽莎有着神秘的微笑。 (The Mona Lisa has an enigmatic smile.)"
             },
             {
                 "id": "zh-2313",
                 "w": "非法",
                 "p": "fēi fǎ",
                 "d": "illegal",
-                "s": ""
+                "s": "许多人能够非法进入美国。 (Many are able to enter the USA illegally.)"
             },
             {
                 "id": "zh-2314",
                 "w": "屋子",
                 "p": "wū zi",
                 "d": "house",
-                "s": ""
+                "s": "汤姆不会让你进他的屋子。 (Tom won't let you in his house.)"
             },
             {
                 "id": "zh-2315",
                 "w": "乐趣",
                 "p": "lè qù",
                 "d": "delight; pleasure; joy",
-                "s": ""
+                "s": "我的一个乐趣是看电视。 (One of my pleasures is watching TV.)"
             },
             {
                 "id": "zh-2316",
                 "w": "苹果",
                 "p": "píng guǒ",
                 "d": "apple",
-                "s": ""
+                "s": "她为男生烤了一个苹果派。 (She baked an apple pie for him.)"
             },
             {
                 "id": "zh-2317",
                 "w": "然",
                 "p": "rán",
                 "d": "correct",
-                "s": ""
+                "s": "我发觉男孩儿酣然入睡了。 (I found the boy fast asleep.)"
             },
             {
                 "id": "zh-2318",
                 "w": "工具",
                 "p": "gōng jù",
                 "d": "tool",
-                "s": ""
+                "s": "把钳子放在工具箱里。 (Put the pliers in the tool box.)"
             },
             {
                 "id": "zh-2319",
                 "w": "手臂",
                 "p": "shǒu bì",
                 "d": "arm (from shoulder to wrist); (fig.) assistant; helper",
-                "s": ""
+                "s": "他牢牢地抓住了她的手臂。 (He clutched her arm firmly.)"
             },
             {
                 "id": "zh-2320",
                 "w": "真心",
                 "p": "zhēn xīn",
                 "d": "wholeheartedness; sincerity",
-                "s": ""
+                "s": "我看汤姆真心喜欢玛丽。 (I think Tom really likes Mary.)"
             },
             {
                 "id": "zh-2321",
                 "w": "害死",
                 "p": "hài sǐ",
                 "d": "to kill",
-                "s": ""
+                "s": "他们会害死你！ (They'll kill you!)"
             },
             {
                 "id": "zh-2322",
                 "w": "礼貌",
                 "p": "lǐ mào",
                 "d": "courtesy; politeness; manners",
-                "s": ""
+                "s": "马格达莱纳对我很有礼貌。 (Magdalena is very polite to me.)"
             },
             {
                 "id": "zh-2323",
                 "w": "财产",
                 "p": "cái chǎn",
                 "d": "property",
-                "s": ""
+                "s": "他把财产留给了他的儿子。 (He left his fortune to his son.)"
             },
             {
                 "id": "zh-2324",
                 "w": "应",
                 "p": "yīng",
                 "d": "to agree (to do sth)",
-                "s": ""
+                "s": "我们本来应该留在家里的。 (We should've stayed at home.)"
             },
             {
                 "id": "zh-2325",
                 "w": "松",
                 "p": "sōng",
                 "d": "pine",
-                "s": ""
+                "s": "她穿了一件宽松的长外套。 (She wore a long, loose coat.)"
             },
             {
                 "id": "zh-2326",
                 "w": "多次",
                 "p": "duō cì",
                 "d": "many times",
-                "s": ""
+                "s": "她给我打了很多次电话。 (She called me many a time.)"
             },
             {
                 "id": "zh-2327",
                 "w": "区别",
                 "p": "qū bié",
                 "d": "difference",
-                "s": ""
+                "s": "A和B的区别是什么呢？ (What's the difference between A and B?)"
             },
             {
                 "id": "zh-2328",
                 "w": "右边",
                 "p": "yòu bian",
                 "d": "right side",
-                "s": ""
+                "s": "卷起你右边的袖子。 (Roll up your right sleeve.)"
             },
             {
                 "id": "zh-2329",
                 "w": "指纹",
                 "p": "zhǐ wén",
                 "d": "fingerprint",
-                "s": ""
+                "s": "指纹都是独特的。 (Fingerprints are unique.)"
             },
             {
                 "id": "zh-2330",
                 "w": "流血",
                 "p": "liú xuè",
                 "d": "to bleed",
-                "s": ""
+                "s": "他受伤的脚又开始流血了。 (His wounded leg began to bleed again.)"
             },
             {
                 "id": "zh-2331",
                 "w": "混",
                 "p": "hùn",
                 "d": "to mix",
-                "s": ""
+                "s": "我们决不能把它两个混淆。 (We must never confuse the two.)"
             },
             {
                 "id": "zh-2332",
                 "w": "想来",
                 "p": "xiǎng lái",
                 "d": "it may be assumed that",
-                "s": ""
+                "s": "我听说，你想来见我了吗？ (I hear you wanted to see me?)"
             },
             {
                 "id": "zh-2333",
                 "w": "恋爱",
                 "p": "liàn ài",
                 "d": "(romantic) love",
-                "s": ""
+                "s": "听起来像是我恋爱了吗？ (Do I sound like I'm in love?)"
             },
             {
                 "id": "zh-2334",
                 "w": "镜头",
                 "p": "jìng tóu",
                 "d": "camera lens",
-                "s": ""
+                "s": "因为他认为美剧镜头很血腥，所以他不喜欢看美剧。 (Because American dramas are very bloody, he doesn't like watching them.)"
             },
             {
                 "id": "zh-2335",
                 "w": "合法",
                 "p": "hé fǎ",
                 "d": "lawful",
-                "s": ""
+                "s": "税收就是合法的抢劫。 (Taxes are just legal robbery.)"
             },
             {
                 "id": "zh-2336",
                 "w": "小镇",
                 "p": "xiǎo zhèn",
                 "d": "small town; village",
-                "s": ""
+                "s": "我在这座小镇感到很孤独。 (I feel lonely in this town.)"
             },
             {
                 "id": "zh-2337",
                 "w": "大楼",
                 "p": "dà lóu",
                 "d": "building (a relatively large, multistory one)",
-                "s": ""
+                "s": "开罗的一栋大楼倒塌了。 (A building collapsed in Cairo.)"
             },
             {
                 "id": "zh-2338",
                 "w": "史蒂夫",
                 "p": "shǐ dì fū",
                 "d": "Steve (male name)",
-                "s": ""
+                "s": "史蒂夫收到了一封珍的信。 (Steve received a letter from Jane.)"
             },
             {
                 "id": "zh-2339",
                 "w": "不管怎样",
                 "p": "bù guǎn zěn yàng",
                 "d": "in any case; no matter what",
-                "s": ""
+                "s": "不管怎样，你永远不会知道。 (Anyway, you'll never know.)"
             },
             {
                 "id": "zh-2340",
                 "w": "几点",
                 "p": "jǐ diǎn",
                 "d": "what time?",
-                "s": ""
+                "s": "我不知道现在几点钟。 (I don't know what time it is.)"
             },
             {
                 "id": "zh-2341",
@@ -16400,56 +16400,56 @@
                 "w": "交换",
                 "p": "jiāo huàn",
                 "d": "to exchange",
-                "s": ""
+                "s": "我和他交换了邮票。 (I exchanged stamps with him.)"
             },
             {
                 "id": "zh-2343",
                 "w": "原本",
                 "p": "yuán běn",
                 "d": "originally",
-                "s": ""
+                "s": "要不是被绊了一下，我原本能赢的。 (I would've won if I hadn't tripped.)"
             },
             {
                 "id": "zh-2344",
                 "w": "共同",
                 "p": "gòng tóng",
                 "d": "common",
-                "s": ""
+                "s": "我们没有任何共同之处。 (We have nothing in common.)"
             },
             {
                 "id": "zh-2345",
                 "w": "电梯",
                 "p": "diàn tī",
                 "d": "elevator",
-                "s": ""
+                "s": "我们的新家有一台电梯。 (Our new home has an elevator.)"
             },
             {
                 "id": "zh-2346",
                 "w": "东京",
                 "p": "dōng jīng",
                 "d": "Tokyo, capital of Japan",
-                "s": ""
+                "s": "你住在东京, 不是吗? (You live in Tokyo, don't you?)"
             },
             {
                 "id": "zh-2347",
                 "w": "当中",
                 "p": "dāng zhōng",
                 "d": "among",
-                "s": ""
+                "s": "他认为我们当中有一个奸细。 (He believes that there is a spy among us.)"
             },
             {
                 "id": "zh-2348",
                 "w": "不要紧",
                 "p": "bù yào jǐn",
                 "d": "unimportant",
-                "s": ""
+                "s": "稍微冷点儿不要紧。 (I don't care if it's a bit cold.)"
             },
             {
                 "id": "zh-2349",
                 "w": "威士忌",
                 "p": "wēi shì jì",
                 "d": "whiskey (loanword)",
-                "s": ""
+                "s": "波本威士忌是用玉米做的。 (Bourbon is made from corn.)"
             },
             {
                 "id": "zh-2350",
@@ -16463,350 +16463,350 @@
                 "w": "确信",
                 "p": "què xìn",
                 "d": "to be convinced",
-                "s": ""
+                "s": "对于那个,我不确信。 (I am not certain about that.)"
             },
             {
                 "id": "zh-2352",
                 "w": "采访",
                 "p": "cǎi fǎng",
                 "d": "to interview",
-                "s": ""
+                "s": "汤姆正在接受玛丽的采访。 (Tom is being interviewed by Mary.)"
             },
             {
                 "id": "zh-2353",
                 "w": "强奸",
                 "p": "qiáng jiān",
                 "d": "to rape",
-                "s": ""
+                "s": "布雷特卡瓦诺是个强奸犯，应该予以撤职。 (Brett Kavanaugh is a rapist and should be removed from office.)"
             },
             {
                 "id": "zh-2354",
                 "w": "部长",
                 "p": "bù zhǎng",
                 "d": "head of a (government etc) department",
-                "s": ""
+                "s": "外交部长是个没主见的人。 (The Foreign Minister was a puppet.)"
             },
             {
                 "id": "zh-2355",
                 "w": "修",
                 "p": "xiū",
                 "d": "to decorate",
-                "s": ""
+                "s": "我让他修理了我的脚踏车。 (I got him to fix my bicycle.)"
             },
             {
                 "id": "zh-2356",
                 "w": "蛇",
                 "p": "shé",
                 "d": "snake",
-                "s": ""
+                "s": "这条蛇是活的还是死的？ (Is the snake alive or dead?)"
             },
             {
                 "id": "zh-2357",
                 "w": "后期",
                 "p": "hòu qī",
                 "d": "late stage",
-                "s": ""
+                "s": "她错过了最后期限。 (She missed the deadline.)"
             },
             {
                 "id": "zh-2358",
                 "w": "科",
                 "p": "kē",
                 "d": "branch of study",
-                "s": ""
+                "s": "他是有执照的心脏科医生。 (He's a certified cardiologist.)"
             },
             {
                 "id": "zh-2359",
                 "w": "尼",
                 "p": "ní",
                 "d": "Buddhist nun",
-                "s": ""
+                "s": "你什么时候将去亚美尼亚？ (When will you go to Armenia?)"
             },
             {
                 "id": "zh-2360",
                 "w": "避免",
                 "p": "bì miǎn",
                 "d": "to avert",
-                "s": ""
+                "s": "我们应该不惜代价避免战争。 (We must avoid war at all cost.)"
             },
             {
                 "id": "zh-2361",
                 "w": "肯",
                 "p": "kěn",
                 "d": "to agree; to consent",
-                "s": ""
+                "s": "肯在回家的路上遇见了她。 (Ken met her on his way home.)"
             },
             {
                 "id": "zh-2362",
                 "w": "吵架",
                 "p": "chǎo jià",
                 "d": "to quarrel",
-                "s": ""
+                "s": "你知道吗，他们又在吵架。 (They're arguing again, you know.)"
             },
             {
                 "id": "zh-2363",
                 "w": "效果",
                 "p": "xiào guǒ",
                 "d": "result",
-                "s": ""
+                "s": "这些问题对我们毫无效果。 (These issues have no effect on us.)"
             },
             {
                 "id": "zh-2364",
                 "w": "歌手",
                 "p": "gē shǒu",
                 "d": "singer",
-                "s": ""
+                "s": "她是一名无人能敌的歌手。 (She is a singer without equal.)"
             },
             {
                 "id": "zh-2365",
                 "w": "一刻",
                 "p": "yī kè",
                 "d": "a quarter of an hour; 15 minutes",
-                "s": ""
+                "s": "那一刻，时间仿佛静止了。 (At that moment, time seemed to stand still.)"
             },
             {
                 "id": "zh-2366",
                 "w": "活下去",
                 "p": "huó xià qù",
                 "d": "to survive",
-                "s": ""
+                "s": "我想要永远活下去。 (I want to live forever.)"
             },
             {
                 "id": "zh-2367",
                 "w": "砸",
                 "p": "zá",
                 "d": "to smash",
-                "s": ""
+                "s": "他们把箱子砸成了碎片。 (They knocked the box to pieces.)"
             },
             {
                 "id": "zh-2368",
                 "w": "实话",
                 "p": "shí huà",
                 "d": "truth",
-                "s": ""
+                "s": "实话从小孩及酒鬼口中出。 (Children and drunks tell the truth.)"
             },
             {
                 "id": "zh-2369",
                 "w": "美味",
                 "p": "měi wèi",
                 "d": "delicious",
-                "s": ""
+                "s": "我所有的蛋糕都很美味! (All my cakes are delicious!)"
             },
             {
                 "id": "zh-2370",
                 "w": "荣誉",
                 "p": "róng yù",
                 "d": "honor",
-                "s": ""
+                "s": "尽管有逆境，建筑师还是获得了享誉全球的荣誉。 (Despite adversity, the architect achieved worldwide fame.)"
             },
             {
                 "id": "zh-2371",
                 "w": "机",
                 "p": "jī",
                 "d": "(bound form) machine; mechanism",
-                "s": ""
+                "s": "你的飞机什么时候起飞呢？ (When does your plane depart?)"
             },
             {
                 "id": "zh-2372",
                 "w": "交",
                 "p": "jiāo",
                 "d": "to hand over; to deliver; to pay (money); to turn over",
-                "s": ""
+                "s": "迪克发生了一起交通事故。 (Dick had a traffic accident.)"
             },
             {
                 "id": "zh-2373",
                 "w": "救护车",
                 "p": "jiù hù chē",
                 "d": "ambulance",
-                "s": ""
+                "s": "我们需要一辆救护车。 (We need an ambulance.)"
             },
             {
                 "id": "zh-2374",
                 "w": "对象",
                 "p": "duì xiàng",
                 "d": "target; object",
-                "s": ""
+                "s": "这名采访者确认了他的采访对象。 (The interviewer identifies his interviewees.)"
             },
             {
                 "id": "zh-2375",
                 "w": "监控",
                 "p": "jiān kòng",
                 "d": "to monitor",
-                "s": ""
+                "s": "汤姆没有注意到监控摄像头。 (Tom didn't notice the surveillance camera.)"
             },
             {
                 "id": "zh-2376",
                 "w": "资格",
                 "p": "zī gé",
                 "d": "qualifications",
-                "s": ""
+                "s": "他有资格当选总统。 (He's eligible for the presidency.)"
             },
             {
                 "id": "zh-2377",
                 "w": "饮料",
                 "p": "yǐn liào",
                 "d": "drink",
-                "s": ""
+                "s": "我可以为你调杯热饮料吗？ (Can I fix you a hot drink?)"
             },
             {
                 "id": "zh-2378",
                 "w": "撤退",
                 "p": "chè tuì",
                 "d": "to retreat",
-                "s": ""
+                "s": "撤退！ (Retreat!)"
             },
             {
                 "id": "zh-2379",
                 "w": "杯",
                 "p": "bēi",
                 "d": "cup",
-                "s": ""
+                "s": "我可以为你调杯热饮料吗？ (Can I fix you a hot drink?)"
             },
             {
                 "id": "zh-2380",
                 "w": "托尼",
                 "p": "tuō ní",
                 "d": "(name) Tony",
-                "s": ""
+                "s": "托尼克吃了一颗红苹果。 (Tornike ate a red apple.)"
             },
             {
                 "id": "zh-2381",
                 "w": "当地",
                 "p": "dāng dì",
                 "d": "local",
-                "s": ""
+                "s": "我觉得这张床相当地舒适。 (I found the bed quite comfortable.)"
             },
             {
                 "id": "zh-2382",
                 "w": "赚钱",
                 "p": "zhuàn qián",
                 "d": "to earn money",
-                "s": ""
+                "s": "我们为了赚钱而工作。 (We work to earn money.)"
             },
             {
                 "id": "zh-2383",
                 "w": "地面",
                 "p": "dì miàn",
                 "d": "floor",
-                "s": ""
+                "s": "我们感觉到地面在摇晃。 (We felt the ground trembling.)"
             },
             {
                 "id": "zh-2384",
                 "w": "男生",
                 "p": "nán shēng",
                 "d": "schoolboy",
-                "s": ""
+                "s": "我父母不让我和男生约会。 (My parents won't let me date.)"
             },
             {
                 "id": "zh-2385",
                 "w": "七",
                 "p": "qī",
                 "d": "seven",
-                "s": ""
+                "s": "一个人只能活七十岁左右。 (Humans only live about 70 years.)"
             },
             {
                 "id": "zh-2386",
                 "w": "最佳",
                 "p": "zuì jiā",
                 "d": "optimum",
-                "s": ""
+                "s": "跑步的最佳时间是什么时候? (When's the best time to run?)"
             },
             {
                 "id": "zh-2387",
                 "w": "等一等",
                 "p": "děng yī děng",
                 "d": "wait a moment",
-                "s": ""
+                "s": "你得等一等看。 (You'll have to wait and see.)"
             },
             {
                 "id": "zh-2388",
                 "w": "莎",
                 "p": "shā",
                 "d": "katydid (family Tettigoniidae)",
-                "s": ""
+                "s": "莎米的心几乎停止了跳动。 (Sami's heart almost stopped.)"
             },
             {
                 "id": "zh-2389",
                 "w": "有种",
                 "p": "yǒu zhǒng",
                 "d": "to have guts",
-                "s": ""
+                "s": "你有种奇怪的幽默感。 (You have a strange sense of humor.)"
             },
             {
                 "id": "zh-2390",
                 "w": "类型",
                 "p": "lèi xíng",
                 "d": "type; kind; category",
-                "s": ""
+                "s": "汤姆是容易相处的类型。 (Tom is the easy-going sort.)"
             },
             {
                 "id": "zh-2391",
                 "w": "男友",
                 "p": "nán yǒu",
                 "d": "boyfriend",
-                "s": ""
+                "s": "汤姆是玛丽的前男友。 (Tom is Mary's ex-boyfriend.)"
             },
             {
                 "id": "zh-2392",
                 "w": "布朗",
                 "p": "bù lǎng",
                 "d": "(name) Brown",
-                "s": ""
+                "s": "我把他误认为布朗先生了。 (I mistook him for Mr. Brown.)"
             },
             {
                 "id": "zh-2393",
                 "w": "大事",
                 "p": "dà shì",
                 "d": "major event",
-                "s": ""
+                "s": "小事聪明，大事糊涂。 (Penny wise, pound foolish.)"
             },
             {
                 "id": "zh-2394",
                 "w": "全球",
                 "p": "quán qiú",
                 "d": "the whole world",
-                "s": ""
+                "s": "放眼全球，立足本土。 (Think globally, act locally.)"
             },
             {
                 "id": "zh-2395",
                 "w": "结局",
                 "p": "jié jú",
                 "d": "conclusion; ending; outcome",
-                "s": ""
+                "s": "这个故事有一个悲惨的结局。 (This story has a sad ending.)"
             },
             {
                 "id": "zh-2396",
                 "w": "较",
                 "p": "jiào",
                 "d": "(bound form) to compare",
-                "s": ""
+                "s": "汤姆，你留在这里比较好。 (Tom, you'd better stay here.)"
             },
             {
                 "id": "zh-2397",
                 "w": "蔚",
                 "p": "wèi",
                 "d": "Artemisia japonica",
-                "s": ""
+                "s": "二手服饰在时下年轻人之间蔚为风潮。 (Wearing second-hand clothes is now popular among young people.)"
             },
             {
                 "id": "zh-2398",
                 "w": "小说",
                 "p": "xiǎo shuō",
                 "d": "novel",
-                "s": ""
+                "s": "比起小说，他更喜欢诗歌。 (He prefers poetry to fiction.)"
             },
             {
                 "id": "zh-2399",
                 "w": "艺术家",
                 "p": "yì shù jiā",
                 "d": "artist",
-                "s": ""
+                "s": "毕加索是个有名的艺术家。 (Picasso is a famous artist.)"
             },
             {
                 "id": "zh-2400",
                 "w": "外星人",
                 "p": "wài xīng rén",
                 "d": "space alien; extraterrestrial",
-                "s": ""
+                "s": "你觉着有外星人存在吗？ (Do you think there are aliens?)"
             },
             {
                 "id": "zh-2401",
@@ -16820,413 +16820,413 @@
                 "w": "商店",
                 "p": "shāng diàn",
                 "d": "store; shop",
-                "s": ""
+                "s": "你的新商店什么时候开张？ (When does your new store open?)"
             },
             {
                 "id": "zh-2403",
                 "w": "部落",
                 "p": "bù luò",
                 "d": "tribe",
-                "s": ""
+                "s": "欧洲人试着去教化部落的人 (Europeans tried to civilize the tribe.)"
             },
             {
                 "id": "zh-2404",
                 "w": "门口",
                 "p": "mén kǒu",
                 "d": "doorway",
-                "s": ""
+                "s": "在门口的自行车是我的。 (The bicycle by the door is mine.)"
             },
             {
                 "id": "zh-2405",
                 "w": "反抗",
                 "p": "fǎn kàng",
                 "d": "to resist",
-                "s": ""
+                "s": "他常以反抗的态度对我们。 (He often takes a defiant attitude toward us.)"
             },
             {
                 "id": "zh-2406",
                 "w": "签",
                 "p": "qiān",
                 "d": "to sign one's name",
-                "s": ""
+                "s": "拜托您，请给我一张签证。 (I beg you, give me a visa.)"
             },
             {
                 "id": "zh-2407",
                 "w": "第二次",
                 "p": "dì èr cì",
                 "d": "the second time; the second occurrence",
-                "s": ""
+                "s": "第二次世界大战尚未结束。 (The Second World War isn't over yet.)"
             },
             {
                 "id": "zh-2408",
                 "w": "当初",
                 "p": "dāng chū",
                 "d": "at that time",
-                "s": ""
+                "s": "我当初要是买音乐会的票就好了。 (I wish I had bought a ticket for the concert.)"
             },
             {
                 "id": "zh-2409",
                 "w": "琵",
                 "p": "pí",
                 "d": "see 琵琶, pipa lute",
-                "s": ""
+                "s": "琵琶湖是日本最大的湖。 (Lake Biwa is the largest lake in Japan.)"
             },
             {
                 "id": "zh-2410",
                 "w": "硬",
                 "p": "yìng",
                 "d": "hard; stiff; solid",
-                "s": ""
+                "s": "马麻，我的鸡鸡硬到不行。 (Mummy, my willy's all hard.)"
             },
             {
                 "id": "zh-2411",
                 "w": "观点",
                 "p": "guān diǎn",
                 "d": "point of view",
-                "s": ""
+                "s": "我在那一个观点上同意他。 (I agree with him on that point.)"
             },
             {
                 "id": "zh-2412",
                 "w": "商业",
                 "p": "shāng yè",
                 "d": "business",
-                "s": ""
+                "s": "Tom跟我是商业夥伴。 (Tom and I were business partners.)"
             },
             {
                 "id": "zh-2413",
                 "w": "蠢",
                 "p": "chǔn",
                 "d": "stupid",
-                "s": ""
+                "s": "这是一个十分愚蠢的决定。 (It was a very stupid decision.)"
             },
             {
                 "id": "zh-2414",
                 "w": "维持",
                 "p": "wéi chí",
                 "d": "to keep; to maintain; to preserve",
-                "s": ""
+                "s": "你在东京如何维持生计？ (How did you make a living in Tokyo?)"
             },
             {
                 "id": "zh-2415",
                 "w": "俄国",
                 "p": "é guó",
                 "d": "Russia",
-                "s": ""
+                "s": "俄国的女孩酷爱冰岛人。 (Russian girls love Icelanders.)"
             },
             {
                 "id": "zh-2416",
                 "w": "姐妹",
                 "p": "jiě mèi",
                 "d": "sisters",
-                "s": ""
+                "s": "我父亲有五个兄弟姐妹。 (My father has five siblings.)"
             },
             {
                 "id": "zh-2417",
                 "w": "实际",
                 "p": "shí jì",
                 "d": "reality",
-                "s": ""
+                "s": "他看起来比他的实际年龄大。 (He looks old for his age.)"
             },
             {
                 "id": "zh-2418",
                 "w": "屎",
                 "p": "shǐ",
                 "d": "feces; excrement; a stool",
-                "s": ""
+                "s": "我住在一个鸟不拉屎的地方。 (I live in the middle of nowhere.)"
             },
             {
                 "id": "zh-2419",
                 "w": "新鲜",
                 "p": "xīn xiān",
                 "d": "fresh (experience, food etc)",
-                "s": ""
+                "s": "这些苹果看起来很新鲜。 (These apples look very fresh.)"
             },
             {
                 "id": "zh-2420",
                 "w": "取得",
                 "p": "qǔ dé",
                 "d": "to acquire; to get; to obtain",
-                "s": ""
+                "s": "她取得了优异的英语成绩。 (She gets good marks in English.)"
             },
             {
                 "id": "zh-2421",
                 "w": "女子",
                 "p": "nǚ zǐ",
                 "d": "woman",
-                "s": ""
+                "s": "那边的那个女子是安娜。 (That woman over there is Ana.)"
             },
             {
                 "id": "zh-2422",
                 "w": "玻璃",
                 "p": "bō li",
                 "d": "glass",
-                "s": ""
+                "s": "她在玻璃杯里装满了酒。 (She filled the glass with wine.)"
             },
             {
                 "id": "zh-2423",
                 "w": "眼前",
                 "p": "yǎn qián",
                 "d": "before one's eyes",
-                "s": ""
+                "s": "他们在她眼前脱下我的衣服。 (They took off my clothes in front of her eyes.)"
             },
             {
                 "id": "zh-2424",
                 "w": "身",
                 "p": "shēn",
                 "d": "body",
-                "s": ""
+                "s": "Tom需要让身体好起来。 (Tom needs to get into shape.)"
             },
             {
                 "id": "zh-2425",
                 "w": "猴子",
                 "p": "hóu zi",
                 "d": "monkey",
-                "s": ""
+                "s": "我们在动物园里看到了猴子。 (We saw monkeys at the zoo.)"
             },
             {
                 "id": "zh-2426",
                 "w": "害",
                 "p": "hài",
                 "d": "to do harm to",
-                "s": ""
+                "s": "这是否对於环境安全无害？ (Is this environmentally safe?)"
             },
             {
                 "id": "zh-2427",
                 "w": "圣诞",
                 "p": "shèng dàn",
                 "d": "Christmas",
-                "s": ""
+                "s": "圣诞节是一个特别的节日。 (Christmas is a special holiday.)"
             },
             {
                 "id": "zh-2428",
                 "w": "陷入",
                 "p": "xiàn rù",
                 "d": "to sink into",
-                "s": ""
+                "s": "他故意令她陷入险境。 (He deliberately exposed her to danger.)"
             },
             {
                 "id": "zh-2429",
                 "w": "战场",
                 "p": "zhàn chǎng",
                 "d": "battlefield",
-                "s": ""
+                "s": "那里就像战场一样。 (It's like a war zone there.)"
             },
             {
                 "id": "zh-2430",
                 "w": "绳子",
                 "p": "shéng zi",
                 "d": "cord; string; rope",
-                "s": ""
+                "s": "她用她的小刀割断了绳子。 (She cut the rope with her knife.)"
             },
             {
                 "id": "zh-2431",
                 "w": "市长",
                 "p": "shì zhǎng",
                 "d": "mayor",
-                "s": ""
+                "s": "他再次被选为市长。 (He was elected mayor again.)"
             },
             {
                 "id": "zh-2432",
                 "w": "将要",
                 "p": "jiāng yào",
                 "d": "will",
-                "s": ""
+                "s": "这场谈话将要持续三天。 (The talks will last three days.)"
             },
             {
                 "id": "zh-2433",
                 "w": "温柔",
                 "p": "wēn róu",
                 "d": "gentle and soft; tender; sweet (commonly used to describe a girl or woman)",
-                "s": ""
+                "s": "她给了他一个温柔的吻。 (She gave him a tender kiss.)"
             },
             {
                 "id": "zh-2434",
                 "w": "判断",
                 "p": "pàn duàn",
                 "d": "to judge; to determine; judgment",
-                "s": ""
+                "s": "我们可以信赖他的判断。 (We can rely on his judgement.)"
             },
             {
                 "id": "zh-2435",
                 "w": "良好",
                 "p": "liáng hǎo",
                 "d": "good",
-                "s": ""
+                "s": "我今天早晨感觉良好。 (I'm feeling good this morning.)"
             },
             {
                 "id": "zh-2436",
                 "w": "开口",
                 "p": "kāi kǒu",
                 "d": "to open one's mouth",
-                "s": ""
+                "s": "我是第一个开口说话的人。 (I was the first to begin speaking.)"
             },
             {
                 "id": "zh-2437",
                 "w": "指示",
                 "p": "zhǐ shì",
                 "d": "to point out",
-                "s": ""
+                "s": "他们给我们指示这个方向。 (They showed us the way.)"
             },
             {
                 "id": "zh-2438",
                 "w": "打扮",
                 "p": "dǎ ban",
                 "d": "to decorate",
-                "s": ""
+                "s": "玛丽打扮成一个女巫。 (Mary dressed up as a witch.)"
             },
             {
                 "id": "zh-2439",
                 "w": "卧室",
                 "p": "wò shì",
                 "d": "bedroom",
-                "s": ""
+                "s": "你的卧室里一个人也没有。 (There is no one in your bedroom.)"
             },
             {
                 "id": "zh-2440",
                 "w": "挡",
                 "p": "dǎng",
                 "d": "to resist",
-                "s": ""
+                "s": "一棵倒下的树挡住了通道。 (A fallen tree blocked the path.)"
             },
             {
                 "id": "zh-2441",
                 "w": "不愿",
                 "p": "bù yuàn",
                 "d": "unwilling",
-                "s": ""
+                "s": "汤姆不愿意卖他的房子。 (Tom won't sell his house.)"
             },
             {
                 "id": "zh-2442",
                 "w": "大街",
                 "p": "dà jiē",
                 "d": "street",
-                "s": ""
+                "s": "我在第四十大街下了车。 (I got out of the car at 40th Street.)"
             },
             {
                 "id": "zh-2443",
                 "w": "成长",
                 "p": "chéng zhǎng",
                 "d": "to mature",
-                "s": ""
+                "s": "孩子的成长快得令人吃惊。 (Children grow up so quickly.)"
             },
             {
                 "id": "zh-2444",
                 "w": "人质",
                 "p": "rén zhì",
                 "d": "hostage",
-                "s": ""
+                "s": "有些人质疑他的诚实。 (Some people questioned his honesty.)"
             },
             {
                 "id": "zh-2445",
                 "w": "强烈",
                 "p": "qiáng liè",
                 "d": "strong; intense",
-                "s": ""
+                "s": "我没有强烈的欲望去学习。 (I don't feel like studying.)"
             },
             {
                 "id": "zh-2446",
                 "w": "龙",
                 "p": "lóng",
                 "d": "Chinese dragon; loong",
-                "s": ""
+                "s": "我将增加画龙点睛的功能。 (I'll add the finishing touch.)"
             },
             {
                 "id": "zh-2447",
                 "w": "试",
                 "p": "shì",
                 "d": "to test",
-                "s": ""
+                "s": "我会再试一次, 谢谢您。 (I will try again, thank you.)"
             },
             {
                 "id": "zh-2448",
                 "w": "平静",
                 "p": "píng jìng",
                 "d": "calm; tranquil; serene",
-                "s": ""
+                "s": "让我们享受这平静和安宁。 (Let's enjoy this peace and quiet.)"
             },
             {
                 "id": "zh-2449",
                 "w": "走出",
                 "p": "zǒu chū",
                 "d": "to leave (a room etc); to go out through (a door etc)",
-                "s": ""
+                "s": "我们应该走出什么样的步伐。 (What steps should we take?)"
             },
             {
                 "id": "zh-2450",
                 "w": "回报",
                 "p": "huí bào",
                 "d": "(in) return",
-                "s": ""
+                "s": "作为回报，我给了她一个娃娃。 (I gave her a doll in return.)"
             },
             {
                 "id": "zh-2451",
                 "w": "烦",
                 "p": "fán",
                 "d": "to feel vexed",
-                "s": ""
+                "s": "麻烦你叫我起床吃早餐啦。 (Please wake me for breakfast.)"
             },
             {
                 "id": "zh-2452",
                 "w": "地下室",
                 "p": "dì xià shì",
                 "d": "basement",
-                "s": ""
+                "s": "地下室里的信号很差。 (Reception in the cellar is very poor.)"
             },
             {
                 "id": "zh-2453",
                 "w": "各",
                 "p": "gè",
                 "d": "each",
-                "s": ""
+                "s": "请回到你们各自的座位。 (Go to your respective seats.)"
             },
             {
                 "id": "zh-2454",
                 "w": "佬",
                 "p": "lǎo",
                 "d": "male",
-                "s": ""
+                "s": "汤姆是个乡巴佬。 (Tom is a hick.)"
             },
             {
                 "id": "zh-2455",
                 "w": "最新",
                 "p": "zuì xīn",
                 "d": "latest",
-                "s": ""
+                "s": "他最新的小说叫甚么名字？ (What's his most recent novel?)"
             },
             {
                 "id": "zh-2456",
                 "w": "侦探",
                 "p": "zhēn tàn",
                 "d": "detective",
-                "s": ""
+                "s": "他偶尔会阅读一些侦探小说。 (He occasionally reads detective novels.)"
             },
             {
                 "id": "zh-2457",
                 "w": "伊",
                 "p": "yī",
                 "d": "(old) third person singular pronoun (\"he\" or \"she\")",
-                "s": ""
+                "s": "特德爱他的妻子伊丽莎白。 (Ted loves his wife Elizabeth.)"
             },
             {
                 "id": "zh-2458",
                 "w": "加州",
                 "p": "jiā zhōu",
                 "d": "California",
-                "s": ""
+                "s": "加拿大毗邻阿拉斯加州。 (Canada borders Alaska.)"
             },
             {
                 "id": "zh-2459",
                 "w": "大麻",
                 "p": "dà má",
                 "d": "hemp (Cannabis sativa)",
-                "s": ""
+                "s": "萨米从雷拉买了大麻。 (Sami bought weed from Layla.)"
             },
             {
                 "id": "zh-2460",
                 "w": "手段",
                 "p": "shǒu duàn",
                 "d": "method; way; means (of doing sth)",
-                "s": ""
+                "s": "为了正当目的可以不择手段。 (The end justifies the means.)"
             },
             {
                 "id": "zh-2461",
@@ -17240,140 +17240,140 @@
                 "w": "荒谬",
                 "p": "huāng miù",
                 "d": "absurd; ridiculous",
-                "s": ""
+                "s": "你那么做真是太过荒谬了. (It's absurd of you to do that.)"
             },
             {
                 "id": "zh-2463",
                 "w": "贾",
                 "p": "jiǎ",
                 "d": "surname Jia",
-                "s": ""
+                "s": "贝贾亚在阿尔及利亚。 (Bejaia is in Algeria.)"
             },
             {
                 "id": "zh-2464",
                 "w": "协助",
                 "p": "xié zhù",
                 "d": "to provide assistance; to aid",
-                "s": ""
+                "s": "你有得到任何协助吗？ (Did you have any assistance?)"
             },
             {
                 "id": "zh-2465",
                 "w": "这下",
                 "p": "zhè xià",
                 "d": "this time",
-                "s": ""
+                "s": "这下搞得你今天累死了！ (You've tired yourself out today!)"
             },
             {
                 "id": "zh-2466",
                 "w": "难以",
                 "p": "nán yǐ",
                 "d": "hard to (predict, imagine etc)",
-                "s": ""
+                "s": "她的魅力难以用笔墨形容。 (Her charm is beyond description.)"
             },
             {
                 "id": "zh-2467",
                 "w": "神经",
                 "p": "shén jīng",
                 "d": "nerve",
-                "s": ""
+                "s": "不要太神经质。 (You don't have to be so nervous.)"
             },
             {
                 "id": "zh-2468",
                 "w": "警察局",
                 "p": "jǐng chá jú",
                 "d": "police station",
-                "s": ""
+                "s": "最近的警察局在哪里? (Where is the nearest police station?)"
             },
             {
                 "id": "zh-2469",
                 "w": "取",
                 "p": "qǔ",
                 "d": "to take",
-                "s": ""
+                "s": "这个男孩取笑了这个女孩。 (The boy made fun of the girl.)"
             },
             {
                 "id": "zh-2470",
                 "w": "星星",
                 "p": "xīng xing",
                 "d": "(coll.) a star; the stars in the sky",
-                "s": ""
+                "s": "你的眼睛让我想到了星星。 (Your eyes remind me of stars.)"
             },
             {
                 "id": "zh-2471",
                 "w": "主席",
                 "p": "zhǔ xí",
                 "d": "chairperson",
-                "s": ""
+                "s": "我们选出了詹姆斯当主席。 (We elected James chairman.)"
             },
             {
                 "id": "zh-2472",
                 "w": "酷",
                 "p": "kù",
                 "d": "ruthless",
-                "s": ""
+                "s": "这个女孩酷似她的母亲。 (The girl resembles her mother.)"
             },
             {
                 "id": "zh-2473",
                 "w": "念",
                 "p": "niàn",
                 "d": "to read",
-                "s": ""
+                "s": "我真的想念我的男朋友。 (I really miss my boyfriend.)"
             },
             {
                 "id": "zh-2474",
                 "w": "墙",
                 "p": "qiáng",
                 "d": "wall (CL:面,堵)",
-                "s": ""
+                "s": "她把墙壁都涂成了白色。 (She painted the walls white.)"
             },
             {
                 "id": "zh-2475",
                 "w": "趁",
                 "p": "chèn",
                 "d": "to avail oneself of",
-                "s": ""
+                "s": "趁汤没凉，你把汤喝了。 (Drink the soup while it is hot.)"
             },
             {
                 "id": "zh-2476",
                 "w": "妮",
                 "p": "nī",
                 "d": "girl",
-                "s": ""
+                "s": "珍妮为这份礼物向我道谢。 (Jenny thanked me for the gift.)"
             },
             {
                 "id": "zh-2477",
                 "w": "老头",
                 "p": "lǎo tóu",
                 "d": "old fellow",
-                "s": ""
+                "s": "汤姆只是一个疯老头。 (Tom is just a crazy old man.)"
             },
             {
                 "id": "zh-2478",
                 "w": "改",
                 "p": "gǎi",
                 "d": "to change",
-                "s": ""
+                "s": "汤姆的生活被彻底改变了。 (Tom's life was changed forever.)"
             },
             {
                 "id": "zh-2479",
                 "w": "帝国",
                 "p": "dì guó",
                 "d": "empire",
-                "s": ""
+                "s": "他们扩阔了帝国的领土。 (They increased the territory of the empire.)"
             },
             {
                 "id": "zh-2480",
                 "w": "养",
                 "p": "yǎng",
                 "d": "to raise (animals)",
-                "s": ""
+                "s": "她养一只鹦鹉作为宠物。 (She keeps a parrot as a pet.)"
             },
             {
                 "id": "zh-2481",
                 "w": "竞选",
                 "p": "jìng xuǎn",
                 "d": "to take part in an election",
-                "s": ""
+                "s": "你应该去竞选城市委员会。 (You should run for city council.)"
             },
             {
                 "id": "zh-2482",
@@ -17387,126 +17387,126 @@
                 "w": "型",
                 "p": "xíng",
                 "d": "mold",
-                "s": ""
+                "s": "我的新发型是不是很奇怪？ (Is my new hair style funny?)"
             },
             {
                 "id": "zh-2484",
                 "w": "温暖",
                 "p": "wēn nuǎn",
                 "d": "warm",
-                "s": ""
+                "s": "水稻生长在温暖的气候。 (Rice grows in warm climates.)"
             },
             {
                 "id": "zh-2485",
                 "w": "下班",
                 "p": "xià bān",
                 "d": "to finish work; to get off work",
-                "s": ""
+                "s": "你们一般几点下班？ (When do you usually get off work?)"
             },
             {
                 "id": "zh-2486",
                 "w": "整理",
                 "p": "zhěng lǐ",
                 "d": "to arrange",
-                "s": ""
+                "s": "肯每天早上自己整理床铺。 (Ken makes his own bed every morning.)"
             },
             {
                 "id": "zh-2487",
                 "w": "老人",
                 "p": "lǎo rén",
                 "d": "old man or woman",
-                "s": ""
+                "s": "这个老人一只眼看不见了。 (The old man is blind in one eye.)"
             },
             {
                 "id": "zh-2488",
                 "w": "眼神",
                 "p": "yǎn shén",
                 "d": "expression or emotion showing in one's eyes",
-                "s": ""
+                "s": "她的眼神里充满了悲哀。 (Her eyes were full of sadness.)"
             },
             {
                 "id": "zh-2489",
                 "w": "正义",
                 "p": "zhèng yì",
                 "d": "justice; righteousness",
-                "s": ""
+                "s": "法律的目标是正义。 (The objective of law is justice.)"
             },
             {
                 "id": "zh-2490",
                 "w": "圣经",
                 "p": "shèng jīng",
                 "d": "the Confucian classics",
-                "s": ""
+                "s": "他在用伯伯尔语阅读圣经。 (He's reading the Bible in Berber.)"
             },
             {
                 "id": "zh-2491",
                 "w": "卫星",
                 "p": "wèi xīng",
                 "d": "(aerospace) satellite",
-                "s": ""
+                "s": "许多卫星绕著土星运行。 (Many moons orbit around Saturn.)"
             },
             {
                 "id": "zh-2492",
                 "w": "满",
                 "p": "mǎn",
                 "d": "to fill",
-                "s": ""
+                "s": "我的公事包里装满了文件。 (My briefcase is full of papers.)"
             },
             {
                 "id": "zh-2493",
                 "w": "不仅仅",
                 "p": "bù jǐn jǐn",
                 "d": "not only; not just",
-                "s": ""
+                "s": "他不仅仅是一国之君。 (He was more than a king.)"
             },
             {
                 "id": "zh-2494",
                 "w": "新娘",
                 "p": "xīn niáng",
                 "d": "bride",
-                "s": ""
+                "s": "新娘看起来非常漂亮。 (The bride looked very beautiful.)"
             },
             {
                 "id": "zh-2495",
                 "w": "魅力",
                 "p": "mèi lì",
                 "d": "charm",
-                "s": ""
+                "s": "她的魅力难以用笔墨形容。 (Her charm is beyond description.)"
             },
             {
                 "id": "zh-2496",
                 "w": "屋顶",
                 "p": "wū dǐng",
                 "d": "roof",
-                "s": ""
+                "s": "屋顶有一部分被刮走了。 (Part of the roof blew off.)"
             },
             {
                 "id": "zh-2497",
                 "w": "处于",
                 "p": "chǔ yú",
                 "d": "to be in (some state, position, or condition)",
-                "s": ""
+                "s": "患者现在处于深度昏迷状态。 (The patient is in a deep coma.)"
             },
             {
                 "id": "zh-2498",
                 "w": "公里",
                 "p": "gōng lǐ",
                 "d": "kilometer",
-                "s": ""
+                "s": "还有五十公里就到巴黎了。 (It's fifty kilometers to Paris.)"
             },
             {
                 "id": "zh-2499",
                 "w": "形成",
                 "p": "xíng chéng",
                 "d": "to form; to take shape",
-                "s": ""
+                "s": "宇宙是怎样形成的？ (How was the universe formed?)"
             },
             {
                 "id": "zh-2500",
                 "w": "对抗",
                 "p": "duì kàng",
                 "d": "to withstand",
-                "s": ""
+                "s": "我在对抗睡魔。 (I fought against sleep.)"
             }
         ]
     };
