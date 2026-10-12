@@ -1,34 +1,31 @@
 # Progress
 
-## What works (on `main`)
+## What works (on `main`, pushed)
 
-- Flashcards with SRS (simplified SM-2), 1,500-word Japanese deck.
-- 1-2-3 Boxes: list/practice/word lists + SRS.
-- Kana charts, kanji list, tokenized-sentence editor.
-- Node data builders and the gate (`node scripts/check.js`).
-- 77-item ticket backlog + specs + starter docs.
-
-## On branches (not merged)
-
-- `ui/intl-a11y-perf`: shared theme/i18n/langs/store/deck-loader; all six pages
-  wired; keyboard-operable controls; contrast-compliant light+dark palette;
-  `main` landmarks; meta descriptions. Lighthouse accessibility 1.0/0 failures
-  on all six pages (verified via the desktop browser).
-- `lang/spanish`, `lang/french`, `lang/korean`, `lang/mandarin`: 30-word starter
-  decks + sources, built by `scripts/build-lang-vocab.js`. Verified rendering for
-  `es`, `zh`, `ko`.
+- **Multi-language shell**: shared `assets/` (theme, i18n, langs, safe store, deck
+  loader); all six pages wired; Lighthouse a11y 1.0 / 0 failures on all six pages.
+- **Flashcards + SRS** for all five targets (Japanese deck 1,500 words from a
+  2,507-row CSV; the 1,500 cap is T-003).
+- **Decks**: es/fr/ko/zh at 2,500 words each with dictionary glosses, POS, and
+  Tatoeba examples (all unreviewed; coverage + provenance in each
+  `content/<lang>/README.md`). zh also has reproducible `enrich_source.py`; ko has
+  `enrich.py` + `romaja.py`; es/fr have `enrich.py`.
+- **Japanese extras**: 1-2-3 Boxes, kana charts, kanji list, tokenized-sentence editor.
+- **Build + gate**: Node data builders; `node scripts/check.js`. 106 tickets, specs,
+  docs, and a research pass (FSRS/SRS + Perplexica evaluation).
 
 ## In progress / planned
 
-- Merge the UI + language branches; close P0/P1 tickets.
-- Coloring correctness pass + test coverage.
-- Full datasets + native review; audio; PWA; offline kanji.
+- Test suite (T-065, ADR-011) + native review of the five decks (T-102).
+- Coloring correctness pass; FSRS-6 scheduling (T-096); audio (T-097); PWA (T-098);
+  multimodal input (T-101).
+- Japanese: raise the deck toward 2,500 (T-003) and fix the coloring/SRS edge cases.
 
 ## Known issues
 
-- See `tickets/INDEX.md`. Critical: T-001 (telemetry on `main`).
-- Coloring alignment and SRS interval caps are the recurring risks.
+- See `tickets/INDEX.md`. Coloring alignment and SRS interval caps are the recurring
+  risks.
 
 ## Last updated
 
-2026-10-09.
+2026-10-12.

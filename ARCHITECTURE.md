@@ -1,9 +1,9 @@
 # ARCHITECTURE
 
-*As designed **and** as built. Where a component is a stub it says so. On `main`
-the app is Japanese-only; the multi-language shell lives on branch
-`ui/intl-a11y-perf` and the starter decks on `lang/*`. Cite code as
-`file:line` where useful so drift is detectable.*
+*As designed **and** as built. Where a component is a stub it says so. The
+multi-language shell and four 2,500-word decks (es/fr/ko/zh) are merged on `main`;
+Japanese remains the only fully-featured language. Cite code as `file:line` where
+useful so drift is detectable.*
 
 ## The one boundary that matters
 
@@ -38,7 +38,7 @@ a generated file) is the failure the docs guard against.
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-\* `assets/*` and `data/<lang>/*` are on branches, not yet on `main`.
+\* `assets/*` and `data/<lang>/*` are on `main` (merged 2026-10-12).
 
 | Plane | Code home | Responsibility |
 | --- | --- | --- |
@@ -61,8 +61,8 @@ a generated file) is the failure the docs guard against.
    `newCardsPerDay`) and shows cards.
 5. Flipping colors JA/romaji/EN from token data; rating calls
    `SRS.reviewCard`; the updated card is persisted.
-6. On the UI branch, step 2–3 become `SqweaseVocab.load(targetLang)` and the
-   strings/labels come from `SqweaseI18n`.
+6. Steps 2–3 use `SqweaseVocab.load(targetLang)`; UI strings come from
+   `SqweaseI18n`, colors from `syllable-color.js`.
 
 **Data build (Japanese):**
 `content/japanese-fluency-vocab.csv` → `scripts/build-flashcards-vocab.js` →
@@ -84,8 +84,15 @@ a generated file) is the failure the docs guard against.
 | Deck contract | `data/<code>/vocab.js` ↔ pages | missing/short deck | Loader rejects with a user-facing message; no crash |
 | Coloring | token data ↔ rendered spans | misalignment | Pure functions; the honest weak point (see below) |
 
-## As built (on `main`, 2026-10-09)
+## As built (on `main`, 2026-10-12)
 
+- **Multi-language shell**: `assets/` (theme.css, theme.js, i18n.js with 6 UI
+  locales, langs.js target registry, store.js safe storage, vocab.js deck loader);
+  all six pages wired to it. Lighthouse accessibility 1.0 / zero failures on all
+  six pages.
+- **Decks**: `data/ja/vocab.js` (1,500 words) plus `data/es|fr|ko|zh/vocab.js`
+  (2,500 words each; dictionary glosses, POS, Tatoeba examples; **unreviewed**).
+  es/fr/ko/zh each ship a reproducible `content/<code>/enrich*.py`.
 - **Flashcards SRS**: `flashcards.html`, `srs.js` — 4 ratings, learning steps
   `[1,10]` min, graduating interval 1d. Persisted under `sqwease-flashcards-srs`.
 - **1-2-3 Boxes**: `boxes.html`, `boxes-coloring.js` — generated sentences, five
@@ -93,20 +100,8 @@ a generated file) is the failure the docs guard against.
 - **Kana charts**: `kana-charts.html` — four Gojuon grids with row colors.
 - **Kanji**: `kanji.html` — Grade 1+2 list + personal list; network lookup.
 - **Editor**: `editor.html` — tokenized-sentence authoring with TinySegmenter.
-- **Data**: 1,500-word flashcard deck (from a 2,507-row CSV; the 1,500 cap is a
-  known bug, T-003), 240 common kanji, 5 Boxes sets.
-- **Gate**: `scripts/check.js` — romaji tests 7/7, 12 inline scripts across 6
-  pages, generated data present.
-
-## On branches, not yet on `main`
-
-- `ui/intl-a11y-perf`: shared `assets/` (theme, i18n with 6 UI locales, langs
-  registry, safe store, deck loader), all six pages wired to them, real
-  buttons/keyboard/palette contrast, `main` landmarks, meta descriptions. Ad-hoc
-  Lighthouse accessibility = **1.0 with zero failures on all six pages**.
-- `lang/spanish|french|korean|mandarin`: 30-word starter decks + sources, built
-  by the shared `scripts/build-lang-vocab.js`. Each adds only
-  `content/<code>/` and `data/<code>/`, so they do not conflict on merge.
+- **Gate**: `scripts/check.js` — romaji tests 7/7, inline scripts across 6 pages,
+  generated data present.
 
 ## Deliberate stubs (do not mistake these for controls)
 
@@ -117,7 +112,7 @@ a generated file) is the failure the docs guard against.
 | `romaji-test.js` coverage | stub | 7 cases; many edge cases untested (T-015, T-065) |
 | `srs.js` interval cap | missing | Unbounded growth throws `RangeError` (T-009) |
 | Kanji lookup offline | not a control | Depends on a third-party API (T-014) |
-| `data/<lang>` datasets | starter | 30 unreviewed words each; not the 2,500 target |
+| `data/<lang>` datasets | unreviewed | es/fr/ko/zh have 2,500 words each; native review pending (T-102) |
 | Progress sync | not built | `localStorage` only; no accounts |
 
 ## Extension seams

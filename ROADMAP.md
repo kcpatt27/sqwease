@@ -11,7 +11,7 @@ Classes: **MVP** (required for the definition of done) / **P** (post-MVP) / **HA
 (high-assurance) / **R** (research). Complexity S / M / L.
 
 Source of truth: `docs/specs/` (specs per branch) · Decisions: `DECISIONS.md` ·
-Shipped surface: `README.md` · Backlog: `tickets/INDEX.md` (77 items).
+Shipped surface: `README.md` · Backlog: `tickets/INDEX.md` (106 items).
 
 ## Stage 0 — EASY (conventional engineering)
 
@@ -26,17 +26,17 @@ Shipped surface: `README.md` · Backlog: `tickets/INDEX.md` (77 items).
 | Kanji list | Reference + personal list | — | S | P | **[DONE]** (2026, `kanji.html`) |
 | Local ticket backlog + specs | Plan/discipline | — | S | MVP | **[DONE]** (2026-10-09, `tickets/`, `docs/specs/`) |
 | Gate command | One runnable check | — | S | MVP | **[DONE]** (2026-10-09, `scripts/check.js`) |
-| Multi-language UI shell | i18n + a11y + responsive + perf | — | M | MVP | **[DONE on branch]** `ui/intl-a11y-perf` (Lighthouse a11y 1.0/0 failures ×6) |
-| Starter decks (es/fr/ko/zh) | Prove the pipeline | UI shell | M | MVP | **[DONE on branch]** `lang/*`, 30 words each |
+| Multi-language UI shell | i18n + a11y + responsive + perf | — | M | MVP | **[DONE]** (2026-10-12, merged; Lighthouse a11y 1.0/0 failures ×6) |
+| Full decks (es/fr/ko/zh, 2,500 words each) | Deliver the promise | UI shell | M | MVP | **[DONE]** (2026-10-12, merged; dict glosses + POS + examples; **unreviewed**) |
 | Bug/edge-case fixes | Correctness | — | M | MVP | [ ] (T-001…T-020) |
 
-### Merge the UI + language branches **[NEXT]**
-- **Purpose:** get the multi-language shell and starters onto `main`.
-- **Dependencies:** none (branches are built); operator review.
-- **Complexity:** S (merge), M (follow-up fixes).
-- **Threats introduced:** merge drift; `file://` regressions.
-- **Tests required:** `node scripts/check.js`; Lighthouse a11y on all six pages; load each `?lang` deck.
-- **Acceptance:** `main` builds data, gate passes, all six pages load with no console errors, each target language renders its deck.
+### Test suite + native review **[NEXT]**
+- **Purpose:** lock in correctness with real tests, and get the five decks reviewed.
+- **Dependencies:** none.
+- **Complexity:** M.
+- **Threats introduced:** none (tests only), plus reviewer time.
+- **Tests required:** `node scripts/check.js` runs the new `node --test` suite (T-065).
+- **Acceptance:** the gate runs unit tests for romaji/SRS/coloring/builders/decks; each deck has a recorded native review (T-102).
 
 ## Stage 1 — MEDIUM (deliberate systems engineering)
 
@@ -44,7 +44,7 @@ Shipped surface: `README.md` · Backlog: `tickets/INDEX.md` (77 items).
 | --- | --- | --- | --- | --- | --- |
 | Coloring correctness pass | Fix T-004…T-008, T-016, T-018 | token data | M | MVP | [ ] |
 | Test coverage for romaji/coloring/SRS | Catch regressions | — | M | MVP | [ ] (T-065) |
-| Full 2,500-word dataset per language | Deliver the promise | corpus choice | L | MVP | [ ] |
+| Full 2,500-word dataset per language | Deliver the promise | corpus choice | L | MVP | **[DONE]** (2026-10-12, es/fr/ko/zh merged; Japanese still 1,500 — T-003) |
 | Native review of UI strings + decks | Language quality | datasets | M | MVP | [ ] |
 | FSRS-6 scheduling | Better scheduling | T-009/010/061/085 | M | P | [ ] (T-096) |
 | Duolingo HLR vs FSRS spike | Language-specific scheduling | — | S | R | [ ] (T-099) |
@@ -106,7 +106,7 @@ Capability checklist for "complete":
 
 ## Working order (pick list)
 
-1. **[NEXT]** Merge `ui/intl-a11y-perf` and the four `lang/*` branches into `main`.
+1. **[NEXT]** Land the test suite (T-065) and native review of the five decks (T-102).
 2. Close the P0/P1 correctness tickets (T-001…T-020).
 3. Coloring correctness pass + tests (T-005…T-008, T-065).
 4. Full datasets + native review per language.
